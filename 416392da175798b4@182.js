@@ -35,6 +35,17 @@ function _chart(d3,ridings,coastline)
 
   const g = svg.append("g");
 
+  // Create a clipping path from the coastline to trim ridings to land only
+  const defs = svg.append("defs");
+  const clipPath = defs.append("clipPath")
+      .attr("id", "canada-land-clip");
+
+  // Add coastline as the clipping boundary
+  clipPath.selectAll("path")
+      .data(coastline.features)
+      .join("path")
+      .attr("d", path);
+
   // Create a subtle color palette for ridings
   // Using a province-based or region-based coloring for better visual organization
   const getRegionColor = (d) => {
@@ -57,8 +68,12 @@ function _chart(d3,ridings,coastline)
     return "#f9f9f9";
   };
 
-  // Draw ridings first (bottom layer)
-  const ridingPaths = g.append("g")
+  // Create a clipped group for ridings (so they only show within Canada's land boundaries)
+  const clippedGroup = g.append("g")
+      .attr("clip-path", "url(#canada-land-clip)");
+
+  // Draw ridings inside the clipped area (bottom layer)
+  const ridingPaths = clippedGroup.append("g")
       .attr("class", "ridings")
       .attr("cursor", "pointer")
     .selectAll("path")
@@ -100,21 +115,19 @@ function _chart(d3,ridings,coastline)
   ridingPaths.append("title")
       .text(d => `${d.properties.ED_NAMEE} (${d.properties.FED_NUM})`);
 
-  // Add Canada's natural coastline on top
-  // This creates the visual boundary between land and ocean
+  // Add Canada's natural coastline outline on top
+  // This creates a clear visual boundary between land and ocean
   const coastlineLayer = g.append("g")
       .attr("class", "coastline")
       .attr("pointer-events", "none");  // Don't interfere with riding clicks
 
-  // Draw province/territory outlines as the coastline
-  // This provides the natural geographic boundaries
+  // Draw the coastline as an outline only
   coastlineLayer.selectAll("path")
       .data(coastline.features)
       .join("path")
-      .attr("fill", "white")  // Fill land area with white
-      .attr("fill-opacity", 0.3)  // Semi-transparent to show ridings underneath
-      .attr("stroke", "#2c5aa0")  // Darker blue for coastline
-      .attr("stroke-width", 1.2)
+      .attr("fill", "none")  // No fill, just outline
+      .attr("stroke", "#1e4d8b")  // Dark blue for coastline
+      .attr("stroke-width", 1.5)
       .attr("stroke-linejoin", "round")
       .attr("stroke-linecap", "round")
       .attr("vector-effect", "non-scaling-stroke")
