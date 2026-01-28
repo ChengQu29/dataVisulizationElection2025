@@ -1,7 +1,14 @@
-# Zoom to bounding box - Canada Map
+# Canada Federal Electoral Districts 2025
 
-Modified version of https://observablehq.com/@d3/zoom-to-bounding-box@182
-Now displays an interactive map of Canada's provinces and territories.
+Interactive visualization of Canada's 352 federal election ridings (based on 2025 redistribution).
+Modified from https://observablehq.com/@d3/zoom-to-bounding-box@182
+
+## Features
+- **Click any riding** to zoom into its boundaries
+- **Hover** to highlight and see riding name and number
+- **Click background** to reset view
+- **Pan and zoom** with mouse/trackpad
+- Shows all 352 federal electoral districts as per 2025 redistribution
 
 View this notebook in your browser by running a web server in this folder. For
 example:
