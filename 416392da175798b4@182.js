@@ -222,7 +222,7 @@ FileAttachment("canada-ridings-latlon.json").json()
 )}
 
 function _coastline(FileAttachment){return(
-FileAttachment("canada-coastline-detailed.json").json()
+FileAttachment("canada-coastline-ne10m.json").json()
 )}
 
 export default function define(runtime, observer) {
@@ -230,7 +230,7 @@ export default function define(runtime, observer) {
   function toString() { return this.url; }
   const fileAttachments = new Map([
     ["canada-ridings-latlon.json", {url: new URL("./files/canada-ridings-latlon.json", import.meta.url), mimeType: "application/json", toString}],
-    ["canada-coastline-detailed.json", {url: new URL("./files/canada-coastline-detailed.json", import.meta.url), mimeType: "application/json", toString}]
+    ["canada-coastline-ne10m.json", {url: new URL("./files/canada-coastline-ne10m.json", import.meta.url), mimeType: "application/json", toString}]
   ]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], _1);
