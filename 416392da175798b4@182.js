@@ -8,27 +8,30 @@ Interactive map of Canada's 352 federal election ridings. Click on any riding to
 
 function _chart(d3,ridings,coastline)
 {
-  const width = 975;
-  const height = 610;
+  const baseWidth = 975;
+  const baseHeight = 610;
+  const width = Math.max(baseWidth, Math.floor(window.innerWidth * 0.95));
+  const height = Math.max(baseHeight, Math.floor(window.innerHeight * 0.75));
+  const projectionScale = 700 * Math.min(width / baseWidth, height / baseHeight);
 
   const zoom = d3.zoom()
       .scaleExtent([1, 40])  // Increased max zoom for smaller ridings
       .on("zoom", zoomed);
 
-  const svg = d3.create("svg")
+    const svg = d3.create("svg")
       .attr("viewBox", [0, 0, width, height])
-       .attr("width", width)
+      .attr("width", width)
       .attr("height", height)
       .attr("style", "max-width: 100%; height: auto; background-color: #e6f3ff;")  // Light blue ocean background
       .on("click", reset);
 
   // Use Albers projection optimized for Canada
   // This projection minimizes distortion for Canada's latitudes
-  const projection = d3.geoAlbers()
+    const projection = d3.geoAlbers()
       .center([0, 62])  // Center on Canada
       .rotate([96, 0])  // Rotate to center Canada
       .parallels([49, 77])  // Standard parallels for Canada
-      .scale(700)
+      .scale(projectionScale)
       .translate([width / 2, height / 2]);
 
   const path = d3.geoPath().projection(projection);
