@@ -16,7 +16,13 @@ function _chart(d3,ridings,coastline,results)
       .scaleExtent([1, 40])  // Increased max zoom for smaller ridings
       .on("zoom", zoomed);
 
-    const svg = d3.create("svg")
+  const container = d3.create("div")
+      .style("position", "relative")
+      .style("width", "100%")
+      .style("max-width", "100%")
+      .style("height", "auto");
+
+    const svg = container.append("svg")
       .attr("viewBox", [0, 0, width, height])
       .attr("width", width)
       .attr("height", height)
@@ -163,49 +169,50 @@ function _chart(d3,ridings,coastline,results)
       .attr("vector-effect", "non-scaling-stroke")
       .attr("d", path);
 
-  // Add riding info display
-  const info = svg.append("g")
-      .attr("transform", "translate(10, 20)")
+    const infoBox = container.append("div")
+      .style("position", "absolute")
+      .style("display", "none")
+      .style("max-width", "320px")
+      .style("background", "rgba(255, 255, 255, 0.98)")
+      .style("border", "1px solid #d0d7de")
+      .style("border-radius", "8px")
+      .style("box-shadow", "0 8px 24px rgba(0,0,0,0.12)")
+      .style("padding", "10px 12px")
       .style("font-family", "sans-serif")
-      .style("font-size", "14px");
+      .style("font-size", "13px")
+      .style("color", "#222")
+      .style("pointer-events", "none")
+      .style("left", "12px")
+      .style("top", "12px");
 
   function renderInfo(districtNum, districtName) {
-    info.selectAll("*").remove();
-
     if (!districtNum) {
-      info.append("text")
-          .attr("fill", "#333")
-          .text("Click on a riding to zoom in");
+      infoBox.style("display", "none");
       return;
     }
 
     const rows = resultsByDistrict.get(String(districtNum)) || [];
-    info.append("text")
-        .attr("fill", "#333")
-        .style("font-weight", "600")
-        .text(`${districtNum} — ${districtName}`);
+    const header = `<div style="font-weight:600; margin-bottom:6px;">${districtNum} — ${districtName}</div>`;
 
+    let body = "";
     if (rows.length === 0) {
-      info.append("text")
-          .attr("fill", "#333")
-          .attr("y", 18)
-          .text("No results available.");
-      return;
+      body = "<div>No results available.</div>";
+    } else {
+      const lines = rows
+        .slice()
+        .sort((a, b) => d3.descending(+a["Total Votes"], +b["Total Votes"]))
+        .map((row) => {
+          const share = row["Vote Share (%)"] ? `${row["Vote Share (%)"]}%` : "";
+          const color = getPartyColor(row["Political Party"]);
+          return `<div style="color:${color}; margin:2px 0;">${row["Candidate Full Name"]} — ${row["Political Party"]}: ${row["Total Votes"]} (${share})</div>`;
+        })
+        .join("");
+      body = lines;
     }
 
-    rows
-      .slice()
-      .sort((a, b) => d3.descending(+a["Total Votes"], +b["Total Votes"]))
-      .forEach((row, i) => {
-        const share = row["Vote Share (%)"] ? `${row["Vote Share (%)"]}%` : "";
-        info.append("text")
-        .attr("fill", getPartyColor(row["Political Party"]))
-        .attr("y", 18 + i * 16)
-        .text(`${row["Candidate Full Name"]} — ${row["Political Party"]}: ${row["Total Votes"]} (${share})`);
-      });
+    infoBox.html(header + body)
+      .style("display", "block");
   }
-
-  renderInfo();
 
   svg.call(zoom);
 
@@ -274,7 +281,7 @@ function _chart(d3,ridings,coastline,results)
     // Stroke width is maintained constant via vector-effect="non-scaling-stroke"
   }
 
-  return svg.node();
+  return container.node();
 }
 
 
