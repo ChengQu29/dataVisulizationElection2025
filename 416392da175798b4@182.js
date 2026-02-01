@@ -4,7 +4,7 @@ md`<div style="color: grey; font: 13px/25.5px var(--sans-serif); text-transform:
 # Canada Federal Election 2025`
 )}
 
-function _chart(d3,ridings,coastline,results)
+function _chart(d3,ridings,coastline,results,provinces)
 {
   const baseWidth = 975;
   const baseHeight = 610;
@@ -76,6 +76,26 @@ function _chart(d3,ridings,coastline,results)
   };
 
   const resultsByDistrict = d3.group(results, d => d["Electoral District Number"]);
+
+  const provinceOverrides = new Map([
+    ["10006", "Newfoundland and Labrador"],
+    ["59042", "British Columbia"],
+    ["59027", "British Columbia"]
+  ]);
+
+  const provinceByDistrict = new Map();
+  if (provinces && provinces.features) {
+    const provinceFeatures = provinces.features;
+    ridings.features.forEach((riding) => {
+      const districtNum = String(riding.properties.FED_NUM);
+      const centroid = d3.geoCentroid(riding);
+      const province = provinceFeatures.find((p) => d3.geoContains(p, centroid));
+      const provinceName = province?.properties?.name ? String(province.properties.name) : null;
+      if (provinceName) {
+        provinceByDistrict.set(districtNum, provinceName);
+      }
+    });
+  }
 
   const getPartyColor = (party) => {
     const name = String(party || "").toLowerCase();
@@ -192,22 +212,50 @@ function _chart(d3,ridings,coastline,results)
     }
 
     const rows = resultsByDistrict.get(String(districtNum)) || [];
-    const header = `<div style="font-weight:600; margin-bottom:6px;">${districtNum} — ${districtName}</div>`;
+    const districtKey = String(districtNum);
+    const province = provinceOverrides.get(districtKey) || provinceByDistrict.get(districtKey);
+    const provinceLabel = province ? String(province) : "";
+    const provinceRow = provinceLabel
+      ? `<div style="font-weight:700; font-size:14px; text-transform:uppercase;">${provinceLabel}</div>`
+      : "";
+    const districtRow = `<div style="font-weight:700; font-size:14px; text-transform:uppercase;">${districtNum} — ${districtName}</div>`;
+    const header = `
+      <div style="margin-bottom:6px;">
+        ${provinceRow}
+        ${districtRow}
+      </div>
+    `;
 
     let body = "";
     if (rows.length === 0) {
       body = "<div>No results available.</div>";
     } else {
+      const headerRow = `
+        <div style="display:grid; grid-template-columns: 0.9fr 2.1fr 0.8fr 0.6fr; column-gap:12px; font-weight:600; color:#444;">
+          <div>Party</div>
+          <div style="padding-left:6px;">Candidate</div>
+          <div style="text-align:right;">Vote</div>
+          <div style="text-align:right;">%</div>
+        </div>
+        <div style="border-top:1px solid #e1e4e8; margin:6px 0;"></div>
+      `;
       const lines = rows
         .slice()
         .sort((a, b) => d3.descending(+a["Total Votes"], +b["Total Votes"]))
         .map((row) => {
           const share = row["Vote Share (%)"] ? `${row["Vote Share (%)"]}%` : "";
           const color = getPartyColor(row["Political Party"]);
-          return `<div style="color:${color}; margin:2px 0;">${row["Candidate Full Name"]} — ${row["Political Party"]}: ${row["Total Votes"]} (${share})</div>`;
+          return `
+            <div style="display:grid; grid-template-columns: 0.9fr 2.1fr 0.8fr 0.6fr; column-gap:12px; margin:2px 0;">
+              <div style="color:${color};">${row["Political Party"]}</div>
+              <div style="padding-left:6px;">${row["Candidate Full Name"]}</div>
+              <div style="text-align:right;">${row["Total Votes"]}</div>
+              <div style="text-align:right;">${share}</div>
+            </div>
+          `;
         })
         .join("");
-      body = lines;
+      body = headerRow + lines;
     }
 
     infoBox.html(header + body)
@@ -297,19 +345,25 @@ function _results(FileAttachment){return(
 FileAttachment("result.csv").csv()
 )}
 
+function _provinces(FileAttachment){return(
+FileAttachment("canada-provinces.geojson").json()
+)}
+
 export default function define(runtime, observer) {
   const main = runtime.module();
   function toString() { return this.url; }
   const fileAttachments = new Map([
     ["canada-ridings-latlon.json", {url: new URL("./files/canada-ridings-latlon.json", import.meta.url), mimeType: "application/json", toString}],
     ["canada-coastline-ne10m.json", {url: new URL("./files/canada-coastline-ne10m.json", import.meta.url), mimeType: "application/json", toString}],
+    ["canada-provinces.geojson", {url: new URL("./files/canada-provinces.geojson", import.meta.url), mimeType: "application/json", toString}],
     ["result.csv", {url: new URL("./result.csv", import.meta.url), mimeType: "text/csv", toString}]
   ]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], _1);
-  main.variable(observer("chart")).define("chart", ["d3","ridings","coastline","results"], _chart);
+  main.variable(observer("chart")).define("chart", ["d3","ridings","coastline","results","provinces"], _chart);
   main.variable(observer("ridings")).define("ridings", ["FileAttachment"], _ridings);
   main.variable(observer("coastline")).define("coastline", ["FileAttachment"], _coastline);
   main.variable(observer("results")).define("results", ["FileAttachment"], _results);
+  main.variable(observer("provinces")).define("provinces", ["FileAttachment"], _provinces);
   return main;
 }
