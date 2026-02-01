@@ -1,0 +1,911 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+47006,"Regina--Lewvan","Regina--Lewvan"," 1","Regina",N,N,"",0,553,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," 1","Regina",N,N,"",0,553,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 1","Regina",N,N,"",0,553,"Hird","","Mac","Liberal","Libéral",N,N,65
+47006,"Regina--Lewvan","Regina--Lewvan"," 1","Regina",N,N,"",0,553,"Steinley","","Warren","Conservative","Conservateur",Y,Y,131
+47006,"Regina--Lewvan","Regina--Lewvan"," 1","Regina",N,N,"",0,553,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 2","Regina",N,N,"",0,489,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 2","Regina",N,N,"",0,489,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 2","Regina",N,N,"",0,489,"Hird","","Mac","Liberal","Libéral",N,N,47
+47006,"Regina--Lewvan","Regina--Lewvan"," 2","Regina",N,N,"",0,489,"Steinley","","Warren","Conservative","Conservateur",Y,Y,121
+47006,"Regina--Lewvan","Regina--Lewvan"," 2","Regina",N,N,"",0,489,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 3","Regina",N,N,"",0,579,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," 3","Regina",N,N,"",0,579,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 3","Regina",N,N,"",0,579,"Hird","","Mac","Liberal","Libéral",N,N,58
+47006,"Regina--Lewvan","Regina--Lewvan"," 3","Regina",N,N,"",0,579,"Steinley","","Warren","Conservative","Conservateur",Y,Y,111
+47006,"Regina--Lewvan","Regina--Lewvan"," 3","Regina",N,N,"",0,579,"Wright","","Michael","Green Party","Parti Vert",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 4","Regina",N,N,"",0,344,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 4","Regina",N,N,"",0,344,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 4","Regina",N,N,"",0,344,"Hird","","Mac","Liberal","Libéral",N,N,28
+47006,"Regina--Lewvan","Regina--Lewvan"," 4","Regina",N,N,"",0,344,"Steinley","","Warren","Conservative","Conservateur",Y,Y,117
+47006,"Regina--Lewvan","Regina--Lewvan"," 4","Regina",N,N,"",0,344,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 5","Regina",N,N,"",0,425,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 5","Regina",N,N,"",0,425,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 5","Regina",N,N,"",0,425,"Hird","","Mac","Liberal","Libéral",N,N,44
+47006,"Regina--Lewvan","Regina--Lewvan"," 5","Regina",N,N,"",0,425,"Steinley","","Warren","Conservative","Conservateur",Y,Y,114
+47006,"Regina--Lewvan","Regina--Lewvan"," 5","Regina",N,N,"",0,425,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 6","Regina",N,N,"",0,394,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 6","Regina",N,N,"",0,394,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 6","Regina",N,N,"",0,394,"Hird","","Mac","Liberal","Libéral",N,N,56
+47006,"Regina--Lewvan","Regina--Lewvan"," 6","Regina",N,N,"",0,394,"Steinley","","Warren","Conservative","Conservateur",Y,Y,71
+47006,"Regina--Lewvan","Regina--Lewvan"," 6","Regina",N,N,"",0,394,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 7","Regina",N,N,"",0,522,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 7","Regina",N,N,"",0,522,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 7","Regina",N,N,"",0,522,"Hird","","Mac","Liberal","Libéral",N,N,43
+47006,"Regina--Lewvan","Regina--Lewvan"," 7","Regina",N,N,"",0,522,"Steinley","","Warren","Conservative","Conservateur",Y,Y,117
+47006,"Regina--Lewvan","Regina--Lewvan"," 7","Regina",N,N,"",0,522,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 8","Regina",N,N,"",0,452,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," 8","Regina",N,N,"",0,452,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 8","Regina",N,N,"",0,452,"Hird","","Mac","Liberal","Libéral",N,N,43
+47006,"Regina--Lewvan","Regina--Lewvan"," 8","Regina",N,N,"",0,452,"Steinley","","Warren","Conservative","Conservateur",Y,Y,98
+47006,"Regina--Lewvan","Regina--Lewvan"," 8","Regina",N,N,"",0,452,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 9","Regina",N,N,"",1,493,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 9","Regina",N,N,"",1,493,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 9","Regina",N,N,"",1,493,"Hird","","Mac","Liberal","Libéral",N,N,45
+47006,"Regina--Lewvan","Regina--Lewvan"," 9","Regina",N,N,"",1,493,"Steinley","","Warren","Conservative","Conservateur",Y,Y,76
+47006,"Regina--Lewvan","Regina--Lewvan"," 9","Regina",N,N,"",1,493,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 10","Regina",N,N,"",0,494,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 10","Regina",N,N,"",0,494,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 10","Regina",N,N,"",0,494,"Hird","","Mac","Liberal","Libéral",N,N,35
+47006,"Regina--Lewvan","Regina--Lewvan"," 10","Regina",N,N,"",0,494,"Steinley","","Warren","Conservative","Conservateur",Y,Y,79
+47006,"Regina--Lewvan","Regina--Lewvan"," 10","Regina",N,N,"",0,494,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 11","Regina",N,N,"",0,438,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 11","Regina",N,N,"",0,438,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 11","Regina",N,N,"",0,438,"Hird","","Mac","Liberal","Libéral",N,N,49
+47006,"Regina--Lewvan","Regina--Lewvan"," 11","Regina",N,N,"",0,438,"Steinley","","Warren","Conservative","Conservateur",Y,Y,90
+47006,"Regina--Lewvan","Regina--Lewvan"," 11","Regina",N,N,"",0,438,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 12","Regina",N,N,"",0,552,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 12","Regina",N,N,"",0,552,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 12","Regina",N,N,"",0,552,"Hird","","Mac","Liberal","Libéral",N,N,80
+47006,"Regina--Lewvan","Regina--Lewvan"," 12","Regina",N,N,"",0,552,"Steinley","","Warren","Conservative","Conservateur",Y,Y,124
+47006,"Regina--Lewvan","Regina--Lewvan"," 12","Regina",N,N,"",0,552,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 13","Regina",N,N,"15",0,372,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 13","Regina",N,N,"15",0,372,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 13","Regina",N,N,"15",0,372,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 13","Regina",N,N,"15",0,372,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 13","Regina",N,N,"15",0,372,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 14","Regina",N,N,"",0,427,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 14","Regina",N,N,"",0,427,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 14","Regina",N,N,"",0,427,"Hird","","Mac","Liberal","Libéral",N,N,30
+47006,"Regina--Lewvan","Regina--Lewvan"," 14","Regina",N,N,"",0,427,"Steinley","","Warren","Conservative","Conservateur",Y,Y,70
+47006,"Regina--Lewvan","Regina--Lewvan"," 14","Regina",N,N,"",0,427,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 15","Regina",N,N,"",1,385,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 15","Regina",N,N,"",1,385,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 15","Regina",N,N,"",1,385,"Hird","","Mac","Liberal","Libéral",N,N,60
+47006,"Regina--Lewvan","Regina--Lewvan"," 15","Regina",N,N,"",1,385,"Steinley","","Warren","Conservative","Conservateur",Y,Y,144
+47006,"Regina--Lewvan","Regina--Lewvan"," 15","Regina",N,N,"",1,385,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 16","Regina",N,N,"",1,485,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 16","Regina",N,N,"",1,485,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 16","Regina",N,N,"",1,485,"Hird","","Mac","Liberal","Libéral",N,N,44
+47006,"Regina--Lewvan","Regina--Lewvan"," 16","Regina",N,N,"",1,485,"Steinley","","Warren","Conservative","Conservateur",Y,Y,69
+47006,"Regina--Lewvan","Regina--Lewvan"," 16","Regina",N,N,"",1,485,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 17","Regina",N,N,"",0,379,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 17","Regina",N,N,"",0,379,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 17","Regina",N,N,"",0,379,"Hird","","Mac","Liberal","Libéral",N,N,44
+47006,"Regina--Lewvan","Regina--Lewvan"," 17","Regina",N,N,"",0,379,"Steinley","","Warren","Conservative","Conservateur",Y,Y,51
+47006,"Regina--Lewvan","Regina--Lewvan"," 17","Regina",N,N,"",0,379,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 18","Regina",N,N,"",0,449,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 18","Regina",N,N,"",0,449,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 18","Regina",N,N,"",0,449,"Hird","","Mac","Liberal","Libéral",N,N,32
+47006,"Regina--Lewvan","Regina--Lewvan"," 18","Regina",N,N,"",0,449,"Steinley","","Warren","Conservative","Conservateur",Y,Y,75
+47006,"Regina--Lewvan","Regina--Lewvan"," 18","Regina",N,N,"",0,449,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 19","Regina",N,N,"",0,496,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 19","Regina",N,N,"",0,496,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 19","Regina",N,N,"",0,496,"Hird","","Mac","Liberal","Libéral",N,N,44
+47006,"Regina--Lewvan","Regina--Lewvan"," 19","Regina",N,N,"",0,496,"Steinley","","Warren","Conservative","Conservateur",Y,Y,86
+47006,"Regina--Lewvan","Regina--Lewvan"," 19","Regina",N,N,"",0,496,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 20","Regina",N,N,"",0,332,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 20","Regina",N,N,"",0,332,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 20","Regina",N,N,"",0,332,"Hird","","Mac","Liberal","Libéral",N,N,30
+47006,"Regina--Lewvan","Regina--Lewvan"," 20","Regina",N,N,"",0,332,"Steinley","","Warren","Conservative","Conservateur",Y,Y,79
+47006,"Regina--Lewvan","Regina--Lewvan"," 20","Regina",N,N,"",0,332,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 21","Regina",N,N,"",0,414,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 21","Regina",N,N,"",0,414,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 21","Regina",N,N,"",0,414,"Hird","","Mac","Liberal","Libéral",N,N,57
+47006,"Regina--Lewvan","Regina--Lewvan"," 21","Regina",N,N,"",0,414,"Steinley","","Warren","Conservative","Conservateur",Y,Y,99
+47006,"Regina--Lewvan","Regina--Lewvan"," 21","Regina",N,N,"",0,414,"Wright","","Michael","Green Party","Parti Vert",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 22","Regina",N,N,"",0,442,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 22","Regina",N,N,"",0,442,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 22","Regina",N,N,"",0,442,"Hird","","Mac","Liberal","Libéral",N,N,49
+47006,"Regina--Lewvan","Regina--Lewvan"," 22","Regina",N,N,"",0,442,"Steinley","","Warren","Conservative","Conservateur",Y,Y,98
+47006,"Regina--Lewvan","Regina--Lewvan"," 22","Regina",N,N,"",0,442,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 23","Regina",N,N,"",0,494,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47006,"Regina--Lewvan","Regina--Lewvan"," 23","Regina",N,N,"",0,494,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 23","Regina",N,N,"",0,494,"Hird","","Mac","Liberal","Libéral",N,N,44
+47006,"Regina--Lewvan","Regina--Lewvan"," 23","Regina",N,N,"",0,494,"Steinley","","Warren","Conservative","Conservateur",Y,Y,75
+47006,"Regina--Lewvan","Regina--Lewvan"," 23","Regina",N,N,"",0,494,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 24","Regina",N,N,"",0,491,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47006,"Regina--Lewvan","Regina--Lewvan"," 24","Regina",N,N,"",0,491,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 24","Regina",N,N,"",0,491,"Hird","","Mac","Liberal","Libéral",N,N,59
+47006,"Regina--Lewvan","Regina--Lewvan"," 24","Regina",N,N,"",0,491,"Steinley","","Warren","Conservative","Conservateur",Y,Y,76
+47006,"Regina--Lewvan","Regina--Lewvan"," 24","Regina",N,N,"",0,491,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 25","Regina",N,N,"",2,536,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47006,"Regina--Lewvan","Regina--Lewvan"," 25","Regina",N,N,"",2,536,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 25","Regina",N,N,"",2,536,"Hird","","Mac","Liberal","Libéral",N,N,63
+47006,"Regina--Lewvan","Regina--Lewvan"," 25","Regina",N,N,"",2,536,"Steinley","","Warren","Conservative","Conservateur",Y,Y,122
+47006,"Regina--Lewvan","Regina--Lewvan"," 25","Regina",N,N,"",2,536,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 26","Regina",N,N,"",0,515,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 26","Regina",N,N,"",0,515,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 26","Regina",N,N,"",0,515,"Hird","","Mac","Liberal","Libéral",N,N,49
+47006,"Regina--Lewvan","Regina--Lewvan"," 26","Regina",N,N,"",0,515,"Steinley","","Warren","Conservative","Conservateur",Y,Y,112
+47006,"Regina--Lewvan","Regina--Lewvan"," 26","Regina",N,N,"",0,515,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 27","Regina",N,N,"",1,507,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 27","Regina",N,N,"",1,507,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 27","Regina",N,N,"",1,507,"Hird","","Mac","Liberal","Libéral",N,N,49
+47006,"Regina--Lewvan","Regina--Lewvan"," 27","Regina",N,N,"",1,507,"Steinley","","Warren","Conservative","Conservateur",Y,Y,92
+47006,"Regina--Lewvan","Regina--Lewvan"," 27","Regina",N,N,"",1,507,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 28","Regina",N,N,"",3,527,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 28","Regina",N,N,"",3,527,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 28","Regina",N,N,"",3,527,"Hird","","Mac","Liberal","Libéral",N,N,53
+47006,"Regina--Lewvan","Regina--Lewvan"," 28","Regina",N,N,"",3,527,"Steinley","","Warren","Conservative","Conservateur",Y,Y,71
+47006,"Regina--Lewvan","Regina--Lewvan"," 28","Regina",N,N,"",3,527,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 29","Regina",N,N,"",0,487,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 29","Regina",N,N,"",0,487,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 29","Regina",N,N,"",0,487,"Hird","","Mac","Liberal","Libéral",N,N,40
+47006,"Regina--Lewvan","Regina--Lewvan"," 29","Regina",N,N,"",0,487,"Steinley","","Warren","Conservative","Conservateur",Y,Y,96
+47006,"Regina--Lewvan","Regina--Lewvan"," 29","Regina",N,N,"",0,487,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 30","Regina",N,N,"",0,528,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," 30","Regina",N,N,"",0,528,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 30","Regina",N,N,"",0,528,"Hird","","Mac","Liberal","Libéral",N,N,66
+47006,"Regina--Lewvan","Regina--Lewvan"," 30","Regina",N,N,"",0,528,"Steinley","","Warren","Conservative","Conservateur",Y,Y,110
+47006,"Regina--Lewvan","Regina--Lewvan"," 30","Regina",N,N,"",0,528,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 31","Regina",N,N,"",0,424,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 31","Regina",N,N,"",0,424,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 31","Regina",N,N,"",0,424,"Hird","","Mac","Liberal","Libéral",N,N,48
+47006,"Regina--Lewvan","Regina--Lewvan"," 31","Regina",N,N,"",0,424,"Steinley","","Warren","Conservative","Conservateur",Y,Y,83
+47006,"Regina--Lewvan","Regina--Lewvan"," 31","Regina",N,N,"",0,424,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 32","Regina",N,N,"",1,562,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47006,"Regina--Lewvan","Regina--Lewvan"," 32","Regina",N,N,"",1,562,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 32","Regina",N,N,"",1,562,"Hird","","Mac","Liberal","Libéral",N,N,61
+47006,"Regina--Lewvan","Regina--Lewvan"," 32","Regina",N,N,"",1,562,"Steinley","","Warren","Conservative","Conservateur",Y,Y,111
+47006,"Regina--Lewvan","Regina--Lewvan"," 32","Regina",N,N,"",1,562,"Wright","","Michael","Green Party","Parti Vert",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 33","Regina",N,N,"",0,438,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47006,"Regina--Lewvan","Regina--Lewvan"," 33","Regina",N,N,"",0,438,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 33","Regina",N,N,"",0,438,"Hird","","Mac","Liberal","Libéral",N,N,46
+47006,"Regina--Lewvan","Regina--Lewvan"," 33","Regina",N,N,"",0,438,"Steinley","","Warren","Conservative","Conservateur",Y,Y,96
+47006,"Regina--Lewvan","Regina--Lewvan"," 33","Regina",N,N,"",0,438,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 34","Regina",N,N,"",1,515,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 34","Regina",N,N,"",1,515,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 34","Regina",N,N,"",1,515,"Hird","","Mac","Liberal","Libéral",N,N,77
+47006,"Regina--Lewvan","Regina--Lewvan"," 34","Regina",N,N,"",1,515,"Steinley","","Warren","Conservative","Conservateur",Y,Y,110
+47006,"Regina--Lewvan","Regina--Lewvan"," 34","Regina",N,N,"",1,515,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 35","Regina",N,N,"",1,445,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47006,"Regina--Lewvan","Regina--Lewvan"," 35","Regina",N,N,"",1,445,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 35","Regina",N,N,"",1,445,"Hird","","Mac","Liberal","Libéral",N,N,66
+47006,"Regina--Lewvan","Regina--Lewvan"," 35","Regina",N,N,"",1,445,"Steinley","","Warren","Conservative","Conservateur",Y,Y,93
+47006,"Regina--Lewvan","Regina--Lewvan"," 35","Regina",N,N,"",1,445,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 36","Regina",N,N,"",0,470,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 36","Regina",N,N,"",0,470,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 36","Regina",N,N,"",0,470,"Hird","","Mac","Liberal","Libéral",N,N,57
+47006,"Regina--Lewvan","Regina--Lewvan"," 36","Regina",N,N,"",0,470,"Steinley","","Warren","Conservative","Conservateur",Y,Y,98
+47006,"Regina--Lewvan","Regina--Lewvan"," 36","Regina",N,N,"",0,470,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 37","Regina",N,N,"",0,412,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47006,"Regina--Lewvan","Regina--Lewvan"," 37","Regina",N,N,"",0,412,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 37","Regina",N,N,"",0,412,"Hird","","Mac","Liberal","Libéral",N,N,32
+47006,"Regina--Lewvan","Regina--Lewvan"," 37","Regina",N,N,"",0,412,"Steinley","","Warren","Conservative","Conservateur",Y,Y,67
+47006,"Regina--Lewvan","Regina--Lewvan"," 37","Regina",N,N,"",0,412,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 38","Regina",N,N,"",0,407,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 38","Regina",N,N,"",0,407,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 38","Regina",N,N,"",0,407,"Hird","","Mac","Liberal","Libéral",N,N,47
+47006,"Regina--Lewvan","Regina--Lewvan"," 38","Regina",N,N,"",0,407,"Steinley","","Warren","Conservative","Conservateur",Y,Y,80
+47006,"Regina--Lewvan","Regina--Lewvan"," 38","Regina",N,N,"",0,407,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 39","Regina",N,N,"",2,473,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 39","Regina",N,N,"",2,473,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 39","Regina",N,N,"",2,473,"Hird","","Mac","Liberal","Libéral",N,N,55
+47006,"Regina--Lewvan","Regina--Lewvan"," 39","Regina",N,N,"",2,473,"Steinley","","Warren","Conservative","Conservateur",Y,Y,90
+47006,"Regina--Lewvan","Regina--Lewvan"," 39","Regina",N,N,"",2,473,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 40","Regina",N,N,"",0,424,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 40","Regina",N,N,"",0,424,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 40","Regina",N,N,"",0,424,"Hird","","Mac","Liberal","Libéral",N,N,55
+47006,"Regina--Lewvan","Regina--Lewvan"," 40","Regina",N,N,"",0,424,"Steinley","","Warren","Conservative","Conservateur",Y,Y,71
+47006,"Regina--Lewvan","Regina--Lewvan"," 40","Regina",N,N,"",0,424,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 41","Regina",N,N,"",0,416,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47006,"Regina--Lewvan","Regina--Lewvan"," 41","Regina",N,N,"",0,416,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 41","Regina",N,N,"",0,416,"Hird","","Mac","Liberal","Libéral",N,N,57
+47006,"Regina--Lewvan","Regina--Lewvan"," 41","Regina",N,N,"",0,416,"Steinley","","Warren","Conservative","Conservateur",Y,Y,80
+47006,"Regina--Lewvan","Regina--Lewvan"," 41","Regina",N,N,"",0,416,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 42","Regina",N,N,"",1,513,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 42","Regina",N,N,"",1,513,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 42","Regina",N,N,"",1,513,"Hird","","Mac","Liberal","Libéral",N,N,51
+47006,"Regina--Lewvan","Regina--Lewvan"," 42","Regina",N,N,"",1,513,"Steinley","","Warren","Conservative","Conservateur",Y,Y,117
+47006,"Regina--Lewvan","Regina--Lewvan"," 42","Regina",N,N,"",1,513,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 43","Regina",N,N,"",1,432,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 43","Regina",N,N,"",1,432,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 43","Regina",N,N,"",1,432,"Hird","","Mac","Liberal","Libéral",N,N,46
+47006,"Regina--Lewvan","Regina--Lewvan"," 43","Regina",N,N,"",1,432,"Steinley","","Warren","Conservative","Conservateur",Y,Y,87
+47006,"Regina--Lewvan","Regina--Lewvan"," 43","Regina",N,N,"",1,432,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 44","Regina",N,N,"",0,568,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47006,"Regina--Lewvan","Regina--Lewvan"," 44","Regina",N,N,"",0,568,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 44","Regina",N,N,"",0,568,"Hird","","Mac","Liberal","Libéral",N,N,41
+47006,"Regina--Lewvan","Regina--Lewvan"," 44","Regina",N,N,"",0,568,"Steinley","","Warren","Conservative","Conservateur",Y,Y,90
+47006,"Regina--Lewvan","Regina--Lewvan"," 44","Regina",N,N,"",0,568,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 45","Regina",N,N,"",0,393,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 45","Regina",N,N,"",0,393,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 45","Regina",N,N,"",0,393,"Hird","","Mac","Liberal","Libéral",N,N,43
+47006,"Regina--Lewvan","Regina--Lewvan"," 45","Regina",N,N,"",0,393,"Steinley","","Warren","Conservative","Conservateur",Y,Y,67
+47006,"Regina--Lewvan","Regina--Lewvan"," 45","Regina",N,N,"",0,393,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 46","Regina",N,N,"",0,447,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47006,"Regina--Lewvan","Regina--Lewvan"," 46","Regina",N,N,"",0,447,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 46","Regina",N,N,"",0,447,"Hird","","Mac","Liberal","Libéral",N,N,52
+47006,"Regina--Lewvan","Regina--Lewvan"," 46","Regina",N,N,"",0,447,"Steinley","","Warren","Conservative","Conservateur",Y,Y,89
+47006,"Regina--Lewvan","Regina--Lewvan"," 46","Regina",N,N,"",0,447,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 47","Regina",N,N,"",0,379,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 47","Regina",N,N,"",0,379,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 47","Regina",N,N,"",0,379,"Hird","","Mac","Liberal","Libéral",N,N,38
+47006,"Regina--Lewvan","Regina--Lewvan"," 47","Regina",N,N,"",0,379,"Steinley","","Warren","Conservative","Conservateur",Y,Y,63
+47006,"Regina--Lewvan","Regina--Lewvan"," 47","Regina",N,N,"",0,379,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 48","Regina",N,N,"",0,389,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 48","Regina",N,N,"",0,389,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 48","Regina",N,N,"",0,389,"Hird","","Mac","Liberal","Libéral",N,N,70
+47006,"Regina--Lewvan","Regina--Lewvan"," 48","Regina",N,N,"",0,389,"Steinley","","Warren","Conservative","Conservateur",Y,Y,101
+47006,"Regina--Lewvan","Regina--Lewvan"," 48","Regina",N,N,"",0,389,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 49","Regina",N,N,"",0,549,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47006,"Regina--Lewvan","Regina--Lewvan"," 49","Regina",N,N,"",0,549,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 49","Regina",N,N,"",0,549,"Hird","","Mac","Liberal","Libéral",N,N,55
+47006,"Regina--Lewvan","Regina--Lewvan"," 49","Regina",N,N,"",0,549,"Steinley","","Warren","Conservative","Conservateur",Y,Y,96
+47006,"Regina--Lewvan","Regina--Lewvan"," 49","Regina",N,N,"",0,549,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 50","Regina",N,N,"",0,444,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47006,"Regina--Lewvan","Regina--Lewvan"," 50","Regina",N,N,"",0,444,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 50","Regina",N,N,"",0,444,"Hird","","Mac","Liberal","Libéral",N,N,41
+47006,"Regina--Lewvan","Regina--Lewvan"," 50","Regina",N,N,"",0,444,"Steinley","","Warren","Conservative","Conservateur",Y,Y,87
+47006,"Regina--Lewvan","Regina--Lewvan"," 50","Regina",N,N,"",0,444,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 51","Regina",N,N,"",1,580,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 51","Regina",N,N,"",1,580,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 51","Regina",N,N,"",1,580,"Hird","","Mac","Liberal","Libéral",N,N,75
+47006,"Regina--Lewvan","Regina--Lewvan"," 51","Regina",N,N,"",1,580,"Steinley","","Warren","Conservative","Conservateur",Y,Y,155
+47006,"Regina--Lewvan","Regina--Lewvan"," 51","Regina",N,N,"",1,580,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 52","Regina",N,N,"",1,528,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47006,"Regina--Lewvan","Regina--Lewvan"," 52","Regina",N,N,"",1,528,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 52","Regina",N,N,"",1,528,"Hird","","Mac","Liberal","Libéral",N,N,58
+47006,"Regina--Lewvan","Regina--Lewvan"," 52","Regina",N,N,"",1,528,"Steinley","","Warren","Conservative","Conservateur",Y,Y,123
+47006,"Regina--Lewvan","Regina--Lewvan"," 52","Regina",N,N,"",1,528,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 53","Regina",N,N,"",1,529,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 53","Regina",N,N,"",1,529,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 53","Regina",N,N,"",1,529,"Hird","","Mac","Liberal","Libéral",N,N,73
+47006,"Regina--Lewvan","Regina--Lewvan"," 53","Regina",N,N,"",1,529,"Steinley","","Warren","Conservative","Conservateur",Y,Y,105
+47006,"Regina--Lewvan","Regina--Lewvan"," 53","Regina",N,N,"",1,529,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 54","Regina",N,N,"",2,526,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 54","Regina",N,N,"",2,526,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 54","Regina",N,N,"",2,526,"Hird","","Mac","Liberal","Libéral",N,N,41
+47006,"Regina--Lewvan","Regina--Lewvan"," 54","Regina",N,N,"",2,526,"Steinley","","Warren","Conservative","Conservateur",Y,Y,94
+47006,"Regina--Lewvan","Regina--Lewvan"," 54","Regina",N,N,"",2,526,"Wright","","Michael","Green Party","Parti Vert",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 55","Regina",N,N,"",0,469,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 55","Regina",N,N,"",0,469,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 55","Regina",N,N,"",0,469,"Hird","","Mac","Liberal","Libéral",N,N,41
+47006,"Regina--Lewvan","Regina--Lewvan"," 55","Regina",N,N,"",0,469,"Steinley","","Warren","Conservative","Conservateur",Y,Y,100
+47006,"Regina--Lewvan","Regina--Lewvan"," 55","Regina",N,N,"",0,469,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 56","Regina",N,N,"",0,365,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 56","Regina",N,N,"",0,365,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 56","Regina",N,N,"",0,365,"Hird","","Mac","Liberal","Libéral",N,N,35
+47006,"Regina--Lewvan","Regina--Lewvan"," 56","Regina",N,N,"",0,365,"Steinley","","Warren","Conservative","Conservateur",Y,Y,56
+47006,"Regina--Lewvan","Regina--Lewvan"," 56","Regina",N,N,"",0,365,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 57","Regina",N,N,"",0,497,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 57","Regina",N,N,"",0,497,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 57","Regina",N,N,"",0,497,"Hird","","Mac","Liberal","Libéral",N,N,55
+47006,"Regina--Lewvan","Regina--Lewvan"," 57","Regina",N,N,"",0,497,"Steinley","","Warren","Conservative","Conservateur",Y,Y,122
+47006,"Regina--Lewvan","Regina--Lewvan"," 57","Regina",N,N,"",0,497,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 58","Regina",N,N,"",1,513,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47006,"Regina--Lewvan","Regina--Lewvan"," 58","Regina",N,N,"",1,513,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 58","Regina",N,N,"",1,513,"Hird","","Mac","Liberal","Libéral",N,N,53
+47006,"Regina--Lewvan","Regina--Lewvan"," 58","Regina",N,N,"",1,513,"Steinley","","Warren","Conservative","Conservateur",Y,Y,99
+47006,"Regina--Lewvan","Regina--Lewvan"," 58","Regina",N,N,"",1,513,"Wright","","Michael","Green Party","Parti Vert",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 59","Regina",N,N,"",0,406,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 59","Regina",N,N,"",0,406,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 59","Regina",N,N,"",0,406,"Hird","","Mac","Liberal","Libéral",N,N,32
+47006,"Regina--Lewvan","Regina--Lewvan"," 59","Regina",N,N,"",0,406,"Steinley","","Warren","Conservative","Conservateur",Y,Y,86
+47006,"Regina--Lewvan","Regina--Lewvan"," 59","Regina",N,N,"",0,406,"Wright","","Michael","Green Party","Parti Vert",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 60","Regina",N,N,"",0,424,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 60","Regina",N,N,"",0,424,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 60","Regina",N,N,"",0,424,"Hird","","Mac","Liberal","Libéral",N,N,40
+47006,"Regina--Lewvan","Regina--Lewvan"," 60","Regina",N,N,"",0,424,"Steinley","","Warren","Conservative","Conservateur",Y,Y,76
+47006,"Regina--Lewvan","Regina--Lewvan"," 60","Regina",N,N,"",0,424,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 61","Regina",N,N,"",1,540,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47006,"Regina--Lewvan","Regina--Lewvan"," 61","Regina",N,N,"",1,540,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 61","Regina",N,N,"",1,540,"Hird","","Mac","Liberal","Libéral",N,N,45
+47006,"Regina--Lewvan","Regina--Lewvan"," 61","Regina",N,N,"",1,540,"Steinley","","Warren","Conservative","Conservateur",Y,Y,62
+47006,"Regina--Lewvan","Regina--Lewvan"," 61","Regina",N,N,"",1,540,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 62","Regina",N,N,"",0,411,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 62","Regina",N,N,"",0,411,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 62","Regina",N,N,"",0,411,"Hird","","Mac","Liberal","Libéral",N,N,37
+47006,"Regina--Lewvan","Regina--Lewvan"," 62","Regina",N,N,"",0,411,"Steinley","","Warren","Conservative","Conservateur",Y,Y,81
+47006,"Regina--Lewvan","Regina--Lewvan"," 62","Regina",N,N,"",0,411,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 63","Regina",N,N,"",0,542,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 63","Regina",N,N,"",0,542,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 63","Regina",N,N,"",0,542,"Hird","","Mac","Liberal","Libéral",N,N,57
+47006,"Regina--Lewvan","Regina--Lewvan"," 63","Regina",N,N,"",0,542,"Steinley","","Warren","Conservative","Conservateur",Y,Y,106
+47006,"Regina--Lewvan","Regina--Lewvan"," 63","Regina",N,N,"",0,542,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 64","Regina",N,N,"",2,380,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47006,"Regina--Lewvan","Regina--Lewvan"," 64","Regina",N,N,"",2,380,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 64","Regina",N,N,"",2,380,"Hird","","Mac","Liberal","Libéral",N,N,42
+47006,"Regina--Lewvan","Regina--Lewvan"," 64","Regina",N,N,"",2,380,"Steinley","","Warren","Conservative","Conservateur",Y,Y,64
+47006,"Regina--Lewvan","Regina--Lewvan"," 64","Regina",N,N,"",2,380,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 65","Regina",N,N,"",2,509,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47006,"Regina--Lewvan","Regina--Lewvan"," 65","Regina",N,N,"",2,509,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 65","Regina",N,N,"",2,509,"Hird","","Mac","Liberal","Libéral",N,N,54
+47006,"Regina--Lewvan","Regina--Lewvan"," 65","Regina",N,N,"",2,509,"Steinley","","Warren","Conservative","Conservateur",Y,Y,70
+47006,"Regina--Lewvan","Regina--Lewvan"," 65","Regina",N,N,"",2,509,"Wright","","Michael","Green Party","Parti Vert",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 66","Regina",N,N,"",4,500,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47006,"Regina--Lewvan","Regina--Lewvan"," 66","Regina",N,N,"",4,500,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 66","Regina",N,N,"",4,500,"Hird","","Mac","Liberal","Libéral",N,N,53
+47006,"Regina--Lewvan","Regina--Lewvan"," 66","Regina",N,N,"",4,500,"Steinley","","Warren","Conservative","Conservateur",Y,Y,78
+47006,"Regina--Lewvan","Regina--Lewvan"," 66","Regina",N,N,"",4,500,"Wright","","Michael","Green Party","Parti Vert",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 67","Regina",N,N,"",1,417,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 67","Regina",N,N,"",1,417,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 67","Regina",N,N,"",1,417,"Hird","","Mac","Liberal","Libéral",N,N,35
+47006,"Regina--Lewvan","Regina--Lewvan"," 67","Regina",N,N,"",1,417,"Steinley","","Warren","Conservative","Conservateur",Y,Y,89
+47006,"Regina--Lewvan","Regina--Lewvan"," 67","Regina",N,N,"",1,417,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 68","Regina",N,N,"",0,509,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 68","Regina",N,N,"",0,509,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 68","Regina",N,N,"",0,509,"Hird","","Mac","Liberal","Libéral",N,N,56
+47006,"Regina--Lewvan","Regina--Lewvan"," 68","Regina",N,N,"",0,509,"Steinley","","Warren","Conservative","Conservateur",Y,Y,64
+47006,"Regina--Lewvan","Regina--Lewvan"," 68","Regina",N,N,"",0,509,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 69","Regina",N,N,"",3,512,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47006,"Regina--Lewvan","Regina--Lewvan"," 69","Regina",N,N,"",3,512,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 69","Regina",N,N,"",3,512,"Hird","","Mac","Liberal","Libéral",N,N,48
+47006,"Regina--Lewvan","Regina--Lewvan"," 69","Regina",N,N,"",3,512,"Steinley","","Warren","Conservative","Conservateur",Y,Y,89
+47006,"Regina--Lewvan","Regina--Lewvan"," 69","Regina",N,N,"",3,512,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 70","Regina",N,N,"",0,521,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47006,"Regina--Lewvan","Regina--Lewvan"," 70","Regina",N,N,"",0,521,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 70","Regina",N,N,"",0,521,"Hird","","Mac","Liberal","Libéral",N,N,64
+47006,"Regina--Lewvan","Regina--Lewvan"," 70","Regina",N,N,"",0,521,"Steinley","","Warren","Conservative","Conservateur",Y,Y,97
+47006,"Regina--Lewvan","Regina--Lewvan"," 70","Regina",N,N,"",0,521,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 71A","Regina",N,N,"",1,334,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 71A","Regina",N,N,"",1,334,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 71A","Regina",N,N,"",1,334,"Hird","","Mac","Liberal","Libéral",N,N,51
+47006,"Regina--Lewvan","Regina--Lewvan"," 71A","Regina",N,N,"",1,334,"Steinley","","Warren","Conservative","Conservateur",Y,Y,50
+47006,"Regina--Lewvan","Regina--Lewvan"," 71A","Regina",N,N,"",1,334,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 71B","Regina",N,N,"",0,322,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 71B","Regina",N,N,"",0,322,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 71B","Regina",N,N,"",0,322,"Hird","","Mac","Liberal","Libéral",N,N,43
+47006,"Regina--Lewvan","Regina--Lewvan"," 71B","Regina",N,N,"",0,322,"Steinley","","Warren","Conservative","Conservateur",Y,Y,57
+47006,"Regina--Lewvan","Regina--Lewvan"," 71B","Regina",N,N,"",0,322,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 72","Regina",N,N,"",0,339,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47006,"Regina--Lewvan","Regina--Lewvan"," 72","Regina",N,N,"",0,339,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 72","Regina",N,N,"",0,339,"Hird","","Mac","Liberal","Libéral",N,N,140
+47006,"Regina--Lewvan","Regina--Lewvan"," 72","Regina",N,N,"",0,339,"Steinley","","Warren","Conservative","Conservateur",Y,Y,67
+47006,"Regina--Lewvan","Regina--Lewvan"," 72","Regina",N,N,"",0,339,"Wright","","Michael","Green Party","Parti Vert",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 73","Regina",N,N,"",0,430,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47006,"Regina--Lewvan","Regina--Lewvan"," 73","Regina",N,N,"",0,430,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 73","Regina",N,N,"",0,430,"Hird","","Mac","Liberal","Libéral",N,N,150
+47006,"Regina--Lewvan","Regina--Lewvan"," 73","Regina",N,N,"",0,430,"Steinley","","Warren","Conservative","Conservateur",Y,Y,42
+47006,"Regina--Lewvan","Regina--Lewvan"," 73","Regina",N,N,"",0,430,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 74","Regina",N,N,"",0,439,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47006,"Regina--Lewvan","Regina--Lewvan"," 74","Regina",N,N,"",0,439,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 74","Regina",N,N,"",0,439,"Hird","","Mac","Liberal","Libéral",N,N,124
+47006,"Regina--Lewvan","Regina--Lewvan"," 74","Regina",N,N,"",0,439,"Steinley","","Warren","Conservative","Conservateur",Y,Y,33
+47006,"Regina--Lewvan","Regina--Lewvan"," 74","Regina",N,N,"",0,439,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 75","Regina",N,N,"",4,545,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 75","Regina",N,N,"",4,545,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 75","Regina",N,N,"",4,545,"Hird","","Mac","Liberal","Libéral",N,N,77
+47006,"Regina--Lewvan","Regina--Lewvan"," 75","Regina",N,N,"",4,545,"Steinley","","Warren","Conservative","Conservateur",Y,Y,66
+47006,"Regina--Lewvan","Regina--Lewvan"," 75","Regina",N,N,"",4,545,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 76","Regina",N,N,"72",0,286,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 76","Regina",N,N,"72",0,286,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 76","Regina",N,N,"72",0,286,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 76","Regina",N,N,"72",0,286,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 76","Regina",N,N,"72",0,286,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 77","Regina",N,N,"",0,379,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47006,"Regina--Lewvan","Regina--Lewvan"," 77","Regina",N,N,"",0,379,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 77","Regina",N,N,"",0,379,"Hird","","Mac","Liberal","Libéral",N,N,59
+47006,"Regina--Lewvan","Regina--Lewvan"," 77","Regina",N,N,"",0,379,"Steinley","","Warren","Conservative","Conservateur",Y,Y,55
+47006,"Regina--Lewvan","Regina--Lewvan"," 77","Regina",N,N,"",0,379,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 78","Regina",N,N,"",1,419,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47006,"Regina--Lewvan","Regina--Lewvan"," 78","Regina",N,N,"",1,419,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 78","Regina",N,N,"",1,419,"Hird","","Mac","Liberal","Libéral",N,N,48
+47006,"Regina--Lewvan","Regina--Lewvan"," 78","Regina",N,N,"",1,419,"Steinley","","Warren","Conservative","Conservateur",Y,Y,64
+47006,"Regina--Lewvan","Regina--Lewvan"," 78","Regina",N,N,"",1,419,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 79","Regina",N,N,"",1,496,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 79","Regina",N,N,"",1,496,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 79","Regina",N,N,"",1,496,"Hird","","Mac","Liberal","Libéral",N,N,67
+47006,"Regina--Lewvan","Regina--Lewvan"," 79","Regina",N,N,"",1,496,"Steinley","","Warren","Conservative","Conservateur",Y,Y,89
+47006,"Regina--Lewvan","Regina--Lewvan"," 79","Regina",N,N,"",1,496,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 80","Regina",N,N,"",0,467,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47006,"Regina--Lewvan","Regina--Lewvan"," 80","Regina",N,N,"",0,467,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 80","Regina",N,N,"",0,467,"Hird","","Mac","Liberal","Libéral",N,N,110
+47006,"Regina--Lewvan","Regina--Lewvan"," 80","Regina",N,N,"",0,467,"Steinley","","Warren","Conservative","Conservateur",Y,Y,46
+47006,"Regina--Lewvan","Regina--Lewvan"," 80","Regina",N,N,"",0,467,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 81","Regina",N,N,"",2,447,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47006,"Regina--Lewvan","Regina--Lewvan"," 81","Regina",N,N,"",2,447,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 81","Regina",N,N,"",2,447,"Hird","","Mac","Liberal","Libéral",N,N,131
+47006,"Regina--Lewvan","Regina--Lewvan"," 81","Regina",N,N,"",2,447,"Steinley","","Warren","Conservative","Conservateur",Y,Y,49
+47006,"Regina--Lewvan","Regina--Lewvan"," 81","Regina",N,N,"",2,447,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 82","Regina",N,N,"",1,481,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," 82","Regina",N,N,"",1,481,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 82","Regina",N,N,"",1,481,"Hird","","Mac","Liberal","Libéral",N,N,109
+47006,"Regina--Lewvan","Regina--Lewvan"," 82","Regina",N,N,"",1,481,"Steinley","","Warren","Conservative","Conservateur",Y,Y,45
+47006,"Regina--Lewvan","Regina--Lewvan"," 82","Regina",N,N,"",1,481,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 83","Regina",N,N,"",0,422,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47006,"Regina--Lewvan","Regina--Lewvan"," 83","Regina",N,N,"",0,422,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 83","Regina",N,N,"",0,422,"Hird","","Mac","Liberal","Libéral",N,N,108
+47006,"Regina--Lewvan","Regina--Lewvan"," 83","Regina",N,N,"",0,422,"Steinley","","Warren","Conservative","Conservateur",Y,Y,46
+47006,"Regina--Lewvan","Regina--Lewvan"," 83","Regina",N,N,"",0,422,"Wright","","Michael","Green Party","Parti Vert",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 84","Regina",N,N,"",0,436,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 84","Regina",N,N,"",0,436,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 84","Regina",N,N,"",0,436,"Hird","","Mac","Liberal","Libéral",N,N,103
+47006,"Regina--Lewvan","Regina--Lewvan"," 84","Regina",N,N,"",0,436,"Steinley","","Warren","Conservative","Conservateur",Y,Y,26
+47006,"Regina--Lewvan","Regina--Lewvan"," 84","Regina",N,N,"",0,436,"Wright","","Michael","Green Party","Parti Vert",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 85","Regina",N,N,"",0,422,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 85","Regina",N,N,"",0,422,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 85","Regina",N,N,"",0,422,"Hird","","Mac","Liberal","Libéral",N,N,61
+47006,"Regina--Lewvan","Regina--Lewvan"," 85","Regina",N,N,"",0,422,"Steinley","","Warren","Conservative","Conservateur",Y,Y,28
+47006,"Regina--Lewvan","Regina--Lewvan"," 85","Regina",N,N,"",0,422,"Wright","","Michael","Green Party","Parti Vert",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 86","Regina",N,N,"",2,390,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47006,"Regina--Lewvan","Regina--Lewvan"," 86","Regina",N,N,"",2,390,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 86","Regina",N,N,"",2,390,"Hird","","Mac","Liberal","Libéral",N,N,130
+47006,"Regina--Lewvan","Regina--Lewvan"," 86","Regina",N,N,"",2,390,"Steinley","","Warren","Conservative","Conservateur",Y,Y,123
+47006,"Regina--Lewvan","Regina--Lewvan"," 86","Regina",N,N,"",2,390,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 87","Regina",N,N,"86",0,331,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 87","Regina",N,N,"86",0,331,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 87","Regina",N,N,"86",0,331,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 87","Regina",N,N,"86",0,331,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 87","Regina",N,N,"86",0,331,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 88","Regina",N,N,"",0,456,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 88","Regina",N,N,"",0,456,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 88","Regina",N,N,"",0,456,"Hird","","Mac","Liberal","Libéral",N,N,68
+47006,"Regina--Lewvan","Regina--Lewvan"," 88","Regina",N,N,"",0,456,"Steinley","","Warren","Conservative","Conservateur",Y,Y,51
+47006,"Regina--Lewvan","Regina--Lewvan"," 88","Regina",N,N,"",0,456,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 89","Regina",N,N,"",0,502,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47006,"Regina--Lewvan","Regina--Lewvan"," 89","Regina",N,N,"",0,502,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 89","Regina",N,N,"",0,502,"Hird","","Mac","Liberal","Libéral",N,N,72
+47006,"Regina--Lewvan","Regina--Lewvan"," 89","Regina",N,N,"",0,502,"Steinley","","Warren","Conservative","Conservateur",Y,Y,56
+47006,"Regina--Lewvan","Regina--Lewvan"," 89","Regina",N,N,"",0,502,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 90","Regina",N,N,"",1,439,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 90","Regina",N,N,"",1,439,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 90","Regina",N,N,"",1,439,"Hird","","Mac","Liberal","Libéral",N,N,75
+47006,"Regina--Lewvan","Regina--Lewvan"," 90","Regina",N,N,"",1,439,"Steinley","","Warren","Conservative","Conservateur",Y,Y,58
+47006,"Regina--Lewvan","Regina--Lewvan"," 90","Regina",N,N,"",1,439,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 91","Regina",N,N,"",0,462,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," 91","Regina",N,N,"",0,462,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 91","Regina",N,N,"",0,462,"Hird","","Mac","Liberal","Libéral",N,N,110
+47006,"Regina--Lewvan","Regina--Lewvan"," 91","Regina",N,N,"",0,462,"Steinley","","Warren","Conservative","Conservateur",Y,Y,66
+47006,"Regina--Lewvan","Regina--Lewvan"," 91","Regina",N,N,"",0,462,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 92","Regina",N,N,"",2,454,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," 92","Regina",N,N,"",2,454,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 92","Regina",N,N,"",2,454,"Hird","","Mac","Liberal","Libéral",N,N,71
+47006,"Regina--Lewvan","Regina--Lewvan"," 92","Regina",N,N,"",2,454,"Steinley","","Warren","Conservative","Conservateur",Y,Y,64
+47006,"Regina--Lewvan","Regina--Lewvan"," 92","Regina",N,N,"",2,454,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 93","Regina",N,N,"",1,415,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 93","Regina",N,N,"",1,415,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 93","Regina",N,N,"",1,415,"Hird","","Mac","Liberal","Libéral",N,N,62
+47006,"Regina--Lewvan","Regina--Lewvan"," 93","Regina",N,N,"",1,415,"Steinley","","Warren","Conservative","Conservateur",Y,Y,59
+47006,"Regina--Lewvan","Regina--Lewvan"," 93","Regina",N,N,"",1,415,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 94","Regina",N,N,"",2,483,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 94","Regina",N,N,"",2,483,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 94","Regina",N,N,"",2,483,"Hird","","Mac","Liberal","Libéral",N,N,92
+47006,"Regina--Lewvan","Regina--Lewvan"," 94","Regina",N,N,"",2,483,"Steinley","","Warren","Conservative","Conservateur",Y,Y,37
+47006,"Regina--Lewvan","Regina--Lewvan"," 94","Regina",N,N,"",2,483,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 95","Regina",N,N,"",0,394,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 95","Regina",N,N,"",0,394,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 95","Regina",N,N,"",0,394,"Hird","","Mac","Liberal","Libéral",N,N,65
+47006,"Regina--Lewvan","Regina--Lewvan"," 95","Regina",N,N,"",0,394,"Steinley","","Warren","Conservative","Conservateur",Y,Y,61
+47006,"Regina--Lewvan","Regina--Lewvan"," 95","Regina",N,N,"",0,394,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 96","Regina",N,N,"",0,420,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 96","Regina",N,N,"",0,420,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 96","Regina",N,N,"",0,420,"Hird","","Mac","Liberal","Libéral",N,N,63
+47006,"Regina--Lewvan","Regina--Lewvan"," 96","Regina",N,N,"",0,420,"Steinley","","Warren","Conservative","Conservateur",Y,Y,55
+47006,"Regina--Lewvan","Regina--Lewvan"," 96","Regina",N,N,"",0,420,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 97","Regina",N,N,"",1,431,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 97","Regina",N,N,"",1,431,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 97","Regina",N,N,"",1,431,"Hird","","Mac","Liberal","Libéral",N,N,89
+47006,"Regina--Lewvan","Regina--Lewvan"," 97","Regina",N,N,"",1,431,"Steinley","","Warren","Conservative","Conservateur",Y,Y,52
+47006,"Regina--Lewvan","Regina--Lewvan"," 97","Regina",N,N,"",1,431,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 98","Regina",N,N,"",0,427,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 98","Regina",N,N,"",0,427,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 98","Regina",N,N,"",0,427,"Hird","","Mac","Liberal","Libéral",N,N,75
+47006,"Regina--Lewvan","Regina--Lewvan"," 98","Regina",N,N,"",0,427,"Steinley","","Warren","Conservative","Conservateur",Y,Y,85
+47006,"Regina--Lewvan","Regina--Lewvan"," 98","Regina",N,N,"",0,427,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 99","Regina",N,N,"",3,505,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 99","Regina",N,N,"",3,505,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 99","Regina",N,N,"",3,505,"Hird","","Mac","Liberal","Libéral",N,N,69
+47006,"Regina--Lewvan","Regina--Lewvan"," 99","Regina",N,N,"",3,505,"Steinley","","Warren","Conservative","Conservateur",Y,Y,69
+47006,"Regina--Lewvan","Regina--Lewvan"," 99","Regina",N,N,"",3,505,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 100","Regina",N,N,"",1,493,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 100","Regina",N,N,"",1,493,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 100","Regina",N,N,"",1,493,"Hird","","Mac","Liberal","Libéral",N,N,52
+47006,"Regina--Lewvan","Regina--Lewvan"," 100","Regina",N,N,"",1,493,"Steinley","","Warren","Conservative","Conservateur",Y,Y,87
+47006,"Regina--Lewvan","Regina--Lewvan"," 100","Regina",N,N,"",1,493,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 101","Regina",N,N,"",0,229,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 101","Regina",N,N,"",0,229,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 101","Regina",N,N,"",0,229,"Hird","","Mac","Liberal","Libéral",N,N,41
+47006,"Regina--Lewvan","Regina--Lewvan"," 101","Regina",N,N,"",0,229,"Steinley","","Warren","Conservative","Conservateur",Y,Y,39
+47006,"Regina--Lewvan","Regina--Lewvan"," 101","Regina",N,N,"",0,229,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 102","Regina",N,N,"",3,493,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 102","Regina",N,N,"",3,493,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 102","Regina",N,N,"",3,493,"Hird","","Mac","Liberal","Libéral",N,N,79
+47006,"Regina--Lewvan","Regina--Lewvan"," 102","Regina",N,N,"",3,493,"Steinley","","Warren","Conservative","Conservateur",Y,Y,78
+47006,"Regina--Lewvan","Regina--Lewvan"," 102","Regina",N,N,"",3,493,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 103","Regina",N,N,"",0,490,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 103","Regina",N,N,"",0,490,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 103","Regina",N,N,"",0,490,"Hird","","Mac","Liberal","Libéral",N,N,53
+47006,"Regina--Lewvan","Regina--Lewvan"," 103","Regina",N,N,"",0,490,"Steinley","","Warren","Conservative","Conservateur",Y,Y,90
+47006,"Regina--Lewvan","Regina--Lewvan"," 103","Regina",N,N,"",0,490,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 104","Regina",N,N,"",1,489,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 104","Regina",N,N,"",1,489,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 104","Regina",N,N,"",1,489,"Hird","","Mac","Liberal","Libéral",N,N,80
+47006,"Regina--Lewvan","Regina--Lewvan"," 104","Regina",N,N,"",1,489,"Steinley","","Warren","Conservative","Conservateur",Y,Y,77
+47006,"Regina--Lewvan","Regina--Lewvan"," 104","Regina",N,N,"",1,489,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 105","Regina",N,N,"",1,434,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 105","Regina",N,N,"",1,434,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 105","Regina",N,N,"",1,434,"Hird","","Mac","Liberal","Libéral",N,N,59
+47006,"Regina--Lewvan","Regina--Lewvan"," 105","Regina",N,N,"",1,434,"Steinley","","Warren","Conservative","Conservateur",Y,Y,77
+47006,"Regina--Lewvan","Regina--Lewvan"," 105","Regina",N,N,"",1,434,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 106","Regina",N,N,"",1,434,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 106","Regina",N,N,"",1,434,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 106","Regina",N,N,"",1,434,"Hird","","Mac","Liberal","Libéral",N,N,68
+47006,"Regina--Lewvan","Regina--Lewvan"," 106","Regina",N,N,"",1,434,"Steinley","","Warren","Conservative","Conservateur",Y,Y,64
+47006,"Regina--Lewvan","Regina--Lewvan"," 106","Regina",N,N,"",1,434,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 107","Regina",N,N,"",2,423,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 107","Regina",N,N,"",2,423,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 107","Regina",N,N,"",2,423,"Hird","","Mac","Liberal","Libéral",N,N,47
+47006,"Regina--Lewvan","Regina--Lewvan"," 107","Regina",N,N,"",2,423,"Steinley","","Warren","Conservative","Conservateur",Y,Y,90
+47006,"Regina--Lewvan","Regina--Lewvan"," 107","Regina",N,N,"",2,423,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 108","Regina",N,N,"",5,489,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 108","Regina",N,N,"",5,489,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 108","Regina",N,N,"",5,489,"Hird","","Mac","Liberal","Libéral",N,N,66
+47006,"Regina--Lewvan","Regina--Lewvan"," 108","Regina",N,N,"",5,489,"Steinley","","Warren","Conservative","Conservateur",Y,Y,83
+47006,"Regina--Lewvan","Regina--Lewvan"," 108","Regina",N,N,"",5,489,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 109","Regina",N,N,"",2,397,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 109","Regina",N,N,"",2,397,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 109","Regina",N,N,"",2,397,"Hird","","Mac","Liberal","Libéral",N,N,40
+47006,"Regina--Lewvan","Regina--Lewvan"," 109","Regina",N,N,"",2,397,"Steinley","","Warren","Conservative","Conservateur",Y,Y,62
+47006,"Regina--Lewvan","Regina--Lewvan"," 109","Regina",N,N,"",2,397,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 110","Regina",N,N,"",1,414,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 110","Regina",N,N,"",1,414,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 110","Regina",N,N,"",1,414,"Hird","","Mac","Liberal","Libéral",N,N,49
+47006,"Regina--Lewvan","Regina--Lewvan"," 110","Regina",N,N,"",1,414,"Steinley","","Warren","Conservative","Conservateur",Y,Y,43
+47006,"Regina--Lewvan","Regina--Lewvan"," 110","Regina",N,N,"",1,414,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 111","Regina",N,N,"",0,431,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 111","Regina",N,N,"",0,431,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 111","Regina",N,N,"",0,431,"Hird","","Mac","Liberal","Libéral",N,N,49
+47006,"Regina--Lewvan","Regina--Lewvan"," 111","Regina",N,N,"",0,431,"Steinley","","Warren","Conservative","Conservateur",Y,Y,55
+47006,"Regina--Lewvan","Regina--Lewvan"," 111","Regina",N,N,"",0,431,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 112","Regina",N,N,"",0,419,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 112","Regina",N,N,"",0,419,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 112","Regina",N,N,"",0,419,"Hird","","Mac","Liberal","Libéral",N,N,52
+47006,"Regina--Lewvan","Regina--Lewvan"," 112","Regina",N,N,"",0,419,"Steinley","","Warren","Conservative","Conservateur",Y,Y,65
+47006,"Regina--Lewvan","Regina--Lewvan"," 112","Regina",N,N,"",0,419,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 113","Regina",N,N,"",0,452,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 113","Regina",N,N,"",0,452,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 113","Regina",N,N,"",0,452,"Hird","","Mac","Liberal","Libéral",N,N,51
+47006,"Regina--Lewvan","Regina--Lewvan"," 113","Regina",N,N,"",0,452,"Steinley","","Warren","Conservative","Conservateur",Y,Y,59
+47006,"Regina--Lewvan","Regina--Lewvan"," 113","Regina",N,N,"",0,452,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 114","Regina",N,N,"",0,412,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 114","Regina",N,N,"",0,412,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 114","Regina",N,N,"",0,412,"Hird","","Mac","Liberal","Libéral",N,N,39
+47006,"Regina--Lewvan","Regina--Lewvan"," 114","Regina",N,N,"",0,412,"Steinley","","Warren","Conservative","Conservateur",Y,Y,60
+47006,"Regina--Lewvan","Regina--Lewvan"," 114","Regina",N,N,"",0,412,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 115","Regina",N,N,"",0,372,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 115","Regina",N,N,"",0,372,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 115","Regina",N,N,"",0,372,"Hird","","Mac","Liberal","Libéral",N,N,57
+47006,"Regina--Lewvan","Regina--Lewvan"," 115","Regina",N,N,"",0,372,"Steinley","","Warren","Conservative","Conservateur",Y,Y,51
+47006,"Regina--Lewvan","Regina--Lewvan"," 115","Regina",N,N,"",0,372,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 116","Regina",N,N,"",0,501,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 116","Regina",N,N,"",0,501,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 116","Regina",N,N,"",0,501,"Hird","","Mac","Liberal","Libéral",N,N,56
+47006,"Regina--Lewvan","Regina--Lewvan"," 116","Regina",N,N,"",0,501,"Steinley","","Warren","Conservative","Conservateur",Y,Y,92
+47006,"Regina--Lewvan","Regina--Lewvan"," 116","Regina",N,N,"",0,501,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 117","Regina",N,N,"",1,515,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 117","Regina",N,N,"",1,515,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 117","Regina",N,N,"",1,515,"Hird","","Mac","Liberal","Libéral",N,N,70
+47006,"Regina--Lewvan","Regina--Lewvan"," 117","Regina",N,N,"",1,515,"Steinley","","Warren","Conservative","Conservateur",Y,Y,66
+47006,"Regina--Lewvan","Regina--Lewvan"," 117","Regina",N,N,"",1,515,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 118","Regina",N,N,"",0,508,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 118","Regina",N,N,"",0,508,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 118","Regina",N,N,"",0,508,"Hird","","Mac","Liberal","Libéral",N,N,47
+47006,"Regina--Lewvan","Regina--Lewvan"," 118","Regina",N,N,"",0,508,"Steinley","","Warren","Conservative","Conservateur",Y,Y,95
+47006,"Regina--Lewvan","Regina--Lewvan"," 118","Regina",N,N,"",0,508,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 119","Regina",N,N,"",0,450,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 119","Regina",N,N,"",0,450,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 119","Regina",N,N,"",0,450,"Hird","","Mac","Liberal","Libéral",N,N,106
+47006,"Regina--Lewvan","Regina--Lewvan"," 119","Regina",N,N,"",0,450,"Steinley","","Warren","Conservative","Conservateur",Y,Y,81
+47006,"Regina--Lewvan","Regina--Lewvan"," 119","Regina",N,N,"",0,450,"Wright","","Michael","Green Party","Parti Vert",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 120","Regina",N,N,"119",0,368,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 120","Regina",N,N,"119",0,368,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 120","Regina",N,N,"119",0,368,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 120","Regina",N,N,"119",0,368,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 120","Regina",N,N,"119",0,368,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 121","Regina",N,N,"",0,453,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 121","Regina",N,N,"",0,453,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 121","Regina",N,N,"",0,453,"Hird","","Mac","Liberal","Libéral",N,N,64
+47006,"Regina--Lewvan","Regina--Lewvan"," 121","Regina",N,N,"",0,453,"Steinley","","Warren","Conservative","Conservateur",Y,Y,46
+47006,"Regina--Lewvan","Regina--Lewvan"," 121","Regina",N,N,"",0,453,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 122","Regina",N,N,"",1,354,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 122","Regina",N,N,"",1,354,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 122","Regina",N,N,"",1,354,"Hird","","Mac","Liberal","Libéral",N,N,48
+47006,"Regina--Lewvan","Regina--Lewvan"," 122","Regina",N,N,"",1,354,"Steinley","","Warren","Conservative","Conservateur",Y,Y,52
+47006,"Regina--Lewvan","Regina--Lewvan"," 122","Regina",N,N,"",1,354,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 123","Regina",N,N,"",0,511,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 123","Regina",N,N,"",0,511,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 123","Regina",N,N,"",0,511,"Hird","","Mac","Liberal","Libéral",N,N,55
+47006,"Regina--Lewvan","Regina--Lewvan"," 123","Regina",N,N,"",0,511,"Steinley","","Warren","Conservative","Conservateur",Y,Y,76
+47006,"Regina--Lewvan","Regina--Lewvan"," 123","Regina",N,N,"",0,511,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 124","Regina",N,N,"",1,450,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," 124","Regina",N,N,"",1,450,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 124","Regina",N,N,"",1,450,"Hird","","Mac","Liberal","Libéral",N,N,59
+47006,"Regina--Lewvan","Regina--Lewvan"," 124","Regina",N,N,"",1,450,"Steinley","","Warren","Conservative","Conservateur",Y,Y,50
+47006,"Regina--Lewvan","Regina--Lewvan"," 124","Regina",N,N,"",1,450,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 125","Regina",N,N,"",1,551,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," 125","Regina",N,N,"",1,551,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 125","Regina",N,N,"",1,551,"Hird","","Mac","Liberal","Libéral",N,N,62
+47006,"Regina--Lewvan","Regina--Lewvan"," 125","Regina",N,N,"",1,551,"Steinley","","Warren","Conservative","Conservateur",Y,Y,59
+47006,"Regina--Lewvan","Regina--Lewvan"," 125","Regina",N,N,"",1,551,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 126","Regina",N,N,"",1,528,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 126","Regina",N,N,"",1,528,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 126","Regina",N,N,"",1,528,"Hird","","Mac","Liberal","Libéral",N,N,105
+47006,"Regina--Lewvan","Regina--Lewvan"," 126","Regina",N,N,"",1,528,"Steinley","","Warren","Conservative","Conservateur",Y,Y,88
+47006,"Regina--Lewvan","Regina--Lewvan"," 126","Regina",N,N,"",1,528,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 127","Regina",N,N,"",0,426,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 127","Regina",N,N,"",0,426,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 127","Regina",N,N,"",0,426,"Hird","","Mac","Liberal","Libéral",N,N,32
+47006,"Regina--Lewvan","Regina--Lewvan"," 127","Regina",N,N,"",0,426,"Steinley","","Warren","Conservative","Conservateur",Y,Y,58
+47006,"Regina--Lewvan","Regina--Lewvan"," 127","Regina",N,N,"",0,426,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 128","Regina",N,N,"",0,520,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 128","Regina",N,N,"",0,520,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 128","Regina",N,N,"",0,520,"Hird","","Mac","Liberal","Libéral",N,N,81
+47006,"Regina--Lewvan","Regina--Lewvan"," 128","Regina",N,N,"",0,520,"Steinley","","Warren","Conservative","Conservateur",Y,Y,78
+47006,"Regina--Lewvan","Regina--Lewvan"," 128","Regina",N,N,"",0,520,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 129","Regina",N,N,"",2,565,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 129","Regina",N,N,"",2,565,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 129","Regina",N,N,"",2,565,"Hird","","Mac","Liberal","Libéral",N,N,59
+47006,"Regina--Lewvan","Regina--Lewvan"," 129","Regina",N,N,"",2,565,"Steinley","","Warren","Conservative","Conservateur",Y,Y,73
+47006,"Regina--Lewvan","Regina--Lewvan"," 129","Regina",N,N,"",2,565,"Wright","","Michael","Green Party","Parti Vert",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 130","Regina",N,N,"",0,460,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 130","Regina",N,N,"",0,460,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 130","Regina",N,N,"",0,460,"Hird","","Mac","Liberal","Libéral",N,N,69
+47006,"Regina--Lewvan","Regina--Lewvan"," 130","Regina",N,N,"",0,460,"Steinley","","Warren","Conservative","Conservateur",Y,Y,73
+47006,"Regina--Lewvan","Regina--Lewvan"," 130","Regina",N,N,"",0,460,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 131","Regina",N,N,"",0,531,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 131","Regina",N,N,"",0,531,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 131","Regina",N,N,"",0,531,"Hird","","Mac","Liberal","Libéral",N,N,80
+47006,"Regina--Lewvan","Regina--Lewvan"," 131","Regina",N,N,"",0,531,"Steinley","","Warren","Conservative","Conservateur",Y,Y,78
+47006,"Regina--Lewvan","Regina--Lewvan"," 131","Regina",N,N,"",0,531,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 500","Mobile poll/Bureau itinérant",N,N,"507",0,11,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 500","Mobile poll/Bureau itinérant",N,N,"507",0,11,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 500","Mobile poll/Bureau itinérant",N,N,"507",0,11,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 500","Mobile poll/Bureau itinérant",N,N,"507",0,11,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 500","Mobile poll/Bureau itinérant",N,N,"507",0,11,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 501","Mobile poll/Bureau itinérant",N,N,"530",0,10,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 501","Mobile poll/Bureau itinérant",N,N,"530",0,10,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 501","Mobile poll/Bureau itinérant",N,N,"530",0,10,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 501","Mobile poll/Bureau itinérant",N,N,"530",0,10,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 501","Mobile poll/Bureau itinérant",N,N,"530",0,10,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 502","Mobile poll/Bureau itinérant",N,N,"525",0,7,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 502","Mobile poll/Bureau itinérant",N,N,"525",0,7,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 502","Mobile poll/Bureau itinérant",N,N,"525",0,7,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 502","Mobile poll/Bureau itinérant",N,N,"525",0,7,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 502","Mobile poll/Bureau itinérant",N,N,"525",0,7,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 503","Mobile poll/Bureau itinérant",N,N,"525",0,10,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 503","Mobile poll/Bureau itinérant",N,N,"525",0,10,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 503","Mobile poll/Bureau itinérant",N,N,"525",0,10,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 503","Mobile poll/Bureau itinérant",N,N,"525",0,10,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 503","Mobile poll/Bureau itinérant",N,N,"525",0,10,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 504","Mobile poll/Bureau itinérant",N,N,"507",0,8,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 504","Mobile poll/Bureau itinérant",N,N,"507",0,8,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 504","Mobile poll/Bureau itinérant",N,N,"507",0,8,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 504","Mobile poll/Bureau itinérant",N,N,"507",0,8,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 504","Mobile poll/Bureau itinérant",N,N,"507",0,8,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 505","Regina",N,N,"59",0,4,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 505","Regina",N,N,"59",0,4,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 505","Regina",N,N,"59",0,4,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 505","Regina",N,N,"59",0,4,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 505","Regina",N,N,"59",0,4,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 506","Mobile poll/Bureau itinérant",N,N,"",0,155,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47006,"Regina--Lewvan","Regina--Lewvan"," 506","Mobile poll/Bureau itinérant",N,N,"",0,155,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 506","Mobile poll/Bureau itinérant",N,N,"",0,155,"Hird","","Mac","Liberal","Libéral",N,N,46
+47006,"Regina--Lewvan","Regina--Lewvan"," 506","Mobile poll/Bureau itinérant",N,N,"",0,155,"Steinley","","Warren","Conservative","Conservateur",Y,Y,51
+47006,"Regina--Lewvan","Regina--Lewvan"," 506","Mobile poll/Bureau itinérant",N,N,"",0,155,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 507","Mobile poll/Bureau itinérant",N,N,"",3,60,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 507","Mobile poll/Bureau itinérant",N,N,"",3,60,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 507","Mobile poll/Bureau itinérant",N,N,"",3,60,"Hird","","Mac","Liberal","Libéral",N,N,23
+47006,"Regina--Lewvan","Regina--Lewvan"," 507","Mobile poll/Bureau itinérant",N,N,"",3,60,"Steinley","","Warren","Conservative","Conservateur",Y,Y,24
+47006,"Regina--Lewvan","Regina--Lewvan"," 507","Mobile poll/Bureau itinérant",N,N,"",3,60,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 508","Regina",N,N,"",2,54,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 508","Regina",N,N,"",2,54,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 508","Regina",N,N,"",2,54,"Hird","","Mac","Liberal","Libéral",N,N,13
+47006,"Regina--Lewvan","Regina--Lewvan"," 508","Regina",N,N,"",2,54,"Steinley","","Warren","Conservative","Conservateur",Y,Y,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 508","Regina",N,N,"",2,54,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 509","Mobile poll/Bureau itinérant",N,N,"514",0,66,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 509","Mobile poll/Bureau itinérant",N,N,"514",0,66,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 509","Mobile poll/Bureau itinérant",N,N,"514",0,66,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 509","Mobile poll/Bureau itinérant",N,N,"514",0,66,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 509","Mobile poll/Bureau itinérant",N,N,"514",0,66,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 510","Regina",N,N,"508",0,4,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 510","Regina",N,N,"508",0,4,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 510","Regina",N,N,"508",0,4,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 510","Regina",N,N,"508",0,4,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 510","Regina",N,N,"508",0,4,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 511","Regina",N,N,"508",0,3,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 511","Regina",N,N,"508",0,3,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 511","Regina",N,N,"508",0,3,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 511","Regina",N,N,"508",0,3,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 511","Regina",N,N,"508",0,3,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 512","Regina",N,N,"508",0,8,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 512","Regina",N,N,"508",0,8,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 512","Regina",N,N,"508",0,8,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 512","Regina",N,N,"508",0,8,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 512","Regina",N,N,"508",0,8,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,103,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,103,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,103,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,103,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,103,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 514","Mobile poll/Bureau itinérant",N,N,"",5,132,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+47006,"Regina--Lewvan","Regina--Lewvan"," 514","Mobile poll/Bureau itinérant",N,N,"",5,132,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 514","Mobile poll/Bureau itinérant",N,N,"",5,132,"Hird","","Mac","Liberal","Libéral",N,N,52
+47006,"Regina--Lewvan","Regina--Lewvan"," 514","Mobile poll/Bureau itinérant",N,N,"",5,132,"Steinley","","Warren","Conservative","Conservateur",Y,Y,53
+47006,"Regina--Lewvan","Regina--Lewvan"," 514","Mobile poll/Bureau itinérant",N,N,"",5,132,"Wright","","Michael","Green Party","Parti Vert",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 515","Mobile poll/Bureau itinérant",N,N,"516",0,8,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 515","Mobile poll/Bureau itinérant",N,N,"516",0,8,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 515","Mobile poll/Bureau itinérant",N,N,"516",0,8,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 515","Mobile poll/Bureau itinérant",N,N,"516",0,8,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 515","Mobile poll/Bureau itinérant",N,N,"516",0,8,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 516","Mobile poll/Bureau itinérant",N,N,"",2,34,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 516","Mobile poll/Bureau itinérant",N,N,"",2,34,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 516","Mobile poll/Bureau itinérant",N,N,"",2,34,"Hird","","Mac","Liberal","Libéral",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 516","Mobile poll/Bureau itinérant",N,N,"",2,34,"Steinley","","Warren","Conservative","Conservateur",Y,Y,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 516","Mobile poll/Bureau itinérant",N,N,"",2,34,"Wright","","Michael","Green Party","Parti Vert",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 517","Mobile poll/Bureau itinérant",N,N,"",4,116,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 517","Mobile poll/Bureau itinérant",N,N,"",4,116,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 517","Mobile poll/Bureau itinérant",N,N,"",4,116,"Hird","","Mac","Liberal","Libéral",N,N,21
+47006,"Regina--Lewvan","Regina--Lewvan"," 517","Mobile poll/Bureau itinérant",N,N,"",4,116,"Steinley","","Warren","Conservative","Conservateur",Y,Y,19
+47006,"Regina--Lewvan","Regina--Lewvan"," 517","Mobile poll/Bureau itinérant",N,N,"",4,116,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 518","Mobile poll/Bureau itinérant",N,N,"507",0,10,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 518","Mobile poll/Bureau itinérant",N,N,"507",0,10,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 518","Mobile poll/Bureau itinérant",N,N,"507",0,10,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 518","Mobile poll/Bureau itinérant",N,N,"507",0,10,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 518","Mobile poll/Bureau itinérant",N,N,"507",0,10,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 519","Mobile poll/Bureau itinérant",N,N,"517",0,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 519","Mobile poll/Bureau itinérant",N,N,"517",0,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 519","Mobile poll/Bureau itinérant",N,N,"517",0,0,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 519","Mobile poll/Bureau itinérant",N,N,"517",0,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 519","Mobile poll/Bureau itinérant",N,N,"517",0,0,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 520","Regina",N,N,"92",0,1,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 520","Regina",N,N,"92",0,1,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 520","Regina",N,N,"92",0,1,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 520","Regina",N,N,"92",0,1,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 520","Regina",N,N,"92",0,1,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 521","Mobile poll/Bureau itinérant",N,N,"530",0,8,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 521","Mobile poll/Bureau itinérant",N,N,"530",0,8,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 521","Mobile poll/Bureau itinérant",N,N,"530",0,8,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 521","Mobile poll/Bureau itinérant",N,N,"530",0,8,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 521","Mobile poll/Bureau itinérant",N,N,"530",0,8,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 522","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 522","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 522","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 522","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 522","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 523","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 523","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 523","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 523","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 523","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 524","Mobile poll/Bureau itinérant",N,N,"",2,198,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 524","Mobile poll/Bureau itinérant",N,N,"",2,198,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47006,"Regina--Lewvan","Regina--Lewvan"," 524","Mobile poll/Bureau itinérant",N,N,"",2,198,"Hird","","Mac","Liberal","Libéral",N,N,63
+47006,"Regina--Lewvan","Regina--Lewvan"," 524","Mobile poll/Bureau itinérant",N,N,"",2,198,"Steinley","","Warren","Conservative","Conservateur",Y,Y,89
+47006,"Regina--Lewvan","Regina--Lewvan"," 524","Mobile poll/Bureau itinérant",N,N,"",2,198,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 525","Mobile poll/Bureau itinérant",N,N,"",2,75,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 525","Mobile poll/Bureau itinérant",N,N,"",2,75,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 525","Mobile poll/Bureau itinérant",N,N,"",2,75,"Hird","","Mac","Liberal","Libéral",N,N,34
+47006,"Regina--Lewvan","Regina--Lewvan"," 525","Mobile poll/Bureau itinérant",N,N,"",2,75,"Steinley","","Warren","Conservative","Conservateur",Y,Y,24
+47006,"Regina--Lewvan","Regina--Lewvan"," 525","Mobile poll/Bureau itinérant",N,N,"",2,75,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," 526","Mobile poll/Bureau itinérant",N,N,"517",0,11,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 526","Mobile poll/Bureau itinérant",N,N,"517",0,11,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 526","Mobile poll/Bureau itinérant",N,N,"517",0,11,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 526","Mobile poll/Bureau itinérant",N,N,"517",0,11,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 526","Mobile poll/Bureau itinérant",N,N,"517",0,11,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 527","Regina",N,N,"113",0,1,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 527","Regina",N,N,"113",0,1,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 527","Regina",N,N,"113",0,1,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 527","Regina",N,N,"113",0,1,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 527","Regina",N,N,"113",0,1,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 528","Mobile poll/Bureau itinérant",N,N,"516",0,3,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 528","Mobile poll/Bureau itinérant",N,N,"516",0,3,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 528","Mobile poll/Bureau itinérant",N,N,"516",0,3,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 528","Mobile poll/Bureau itinérant",N,N,"516",0,3,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 528","Mobile poll/Bureau itinérant",N,N,"516",0,3,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 529","Mobile poll/Bureau itinérant",N,N,"530",0,4,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 529","Mobile poll/Bureau itinérant",N,N,"530",0,4,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 529","Mobile poll/Bureau itinérant",N,N,"530",0,4,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 529","Mobile poll/Bureau itinérant",N,N,"530",0,4,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 529","Mobile poll/Bureau itinérant",N,N,"530",0,4,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 530","Mobile poll/Bureau itinérant",N,N,"",2,44,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 530","Mobile poll/Bureau itinérant",N,N,"",2,44,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 530","Mobile poll/Bureau itinérant",N,N,"",2,44,"Hird","","Mac","Liberal","Libéral",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 530","Mobile poll/Bureau itinérant",N,N,"",2,44,"Steinley","","Warren","Conservative","Conservateur",Y,Y,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 530","Mobile poll/Bureau itinérant",N,N,"",2,44,"Wright","","Michael","Green Party","Parti Vert",N,N,11
+47006,"Regina--Lewvan","Regina--Lewvan"," 531","Mobile poll/Bureau itinérant",N,N,"",6,54,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47006,"Regina--Lewvan","Regina--Lewvan"," 531","Mobile poll/Bureau itinérant",N,N,"",6,54,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 531","Mobile poll/Bureau itinérant",N,N,"",6,54,"Hird","","Mac","Liberal","Libéral",N,N,23
+47006,"Regina--Lewvan","Regina--Lewvan"," 531","Mobile poll/Bureau itinérant",N,N,"",6,54,"Steinley","","Warren","Conservative","Conservateur",Y,Y,22
+47006,"Regina--Lewvan","Regina--Lewvan"," 531","Mobile poll/Bureau itinérant",N,N,"",6,54,"Wright","","Michael","Green Party","Parti Vert",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 532","Mobile poll/Bureau itinérant",N,N,"535",0,86,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 532","Mobile poll/Bureau itinérant",N,N,"535",0,86,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 532","Mobile poll/Bureau itinérant",N,N,"535",0,86,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 532","Mobile poll/Bureau itinérant",N,N,"535",0,86,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 532","Mobile poll/Bureau itinérant",N,N,"535",0,86,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 533","Mobile poll/Bureau itinérant",N,N,"531",0,5,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 533","Mobile poll/Bureau itinérant",N,N,"531",0,5,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 533","Mobile poll/Bureau itinérant",N,N,"531",0,5,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 533","Mobile poll/Bureau itinérant",N,N,"531",0,5,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 533","Mobile poll/Bureau itinérant",N,N,"531",0,5,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 534","Mobile poll/Bureau itinérant",N,N,"535",0,49,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 534","Mobile poll/Bureau itinérant",N,N,"535",0,49,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 534","Mobile poll/Bureau itinérant",N,N,"535",0,49,"Hird","","Mac","Liberal","Libéral",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 534","Mobile poll/Bureau itinérant",N,N,"535",0,49,"Steinley","","Warren","Conservative","Conservateur",Y,Y,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 534","Mobile poll/Bureau itinérant",N,N,"535",0,49,"Wright","","Michael","Green Party","Parti Vert",N,N,0
+47006,"Regina--Lewvan","Regina--Lewvan"," 535","Mobile poll/Bureau itinérant",N,N,"",10,95,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47006,"Regina--Lewvan","Regina--Lewvan"," 535","Mobile poll/Bureau itinérant",N,N,"",10,95,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 535","Mobile poll/Bureau itinérant",N,N,"",10,95,"Hird","","Mac","Liberal","Libéral",N,N,92
+47006,"Regina--Lewvan","Regina--Lewvan"," 535","Mobile poll/Bureau itinérant",N,N,"",10,95,"Steinley","","Warren","Conservative","Conservateur",Y,Y,68
+47006,"Regina--Lewvan","Regina--Lewvan"," 535","Mobile poll/Bureau itinérant",N,N,"",10,95,"Wright","","Michael","Green Party","Parti Vert",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 600","Regina",N,N,"",5,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+47006,"Regina--Lewvan","Regina--Lewvan"," 600","Regina",N,N,"",5,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 600","Regina",N,N,"",5,0,"Hird","","Mac","Liberal","Libéral",N,N,891
+47006,"Regina--Lewvan","Regina--Lewvan"," 600","Regina",N,N,"",5,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,1451
+47006,"Regina--Lewvan","Regina--Lewvan"," 600","Regina",N,N,"",5,0,"Wright","","Michael","Green Party","Parti Vert",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 601","Regina",N,N,"",5,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+47006,"Regina--Lewvan","Regina--Lewvan"," 601","Regina",N,N,"",5,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 601","Regina",N,N,"",5,0,"Hird","","Mac","Liberal","Libéral",N,N,660
+47006,"Regina--Lewvan","Regina--Lewvan"," 601","Regina",N,N,"",5,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,928
+47006,"Regina--Lewvan","Regina--Lewvan"," 601","Regina",N,N,"",5,0,"Wright","","Michael","Green Party","Parti Vert",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 602","Regina",N,N,"",6,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,120
+47006,"Regina--Lewvan","Regina--Lewvan"," 602","Regina",N,N,"",6,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 602","Regina",N,N,"",6,0,"Hird","","Mac","Liberal","Libéral",N,N,561
+47006,"Regina--Lewvan","Regina--Lewvan"," 602","Regina",N,N,"",6,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,947
+47006,"Regina--Lewvan","Regina--Lewvan"," 602","Regina",N,N,"",6,0,"Wright","","Michael","Green Party","Parti Vert",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 603","Regina",N,N,"",6,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+47006,"Regina--Lewvan","Regina--Lewvan"," 603","Regina",N,N,"",6,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 603","Regina",N,N,"",6,0,"Hird","","Mac","Liberal","Libéral",N,N,597
+47006,"Regina--Lewvan","Regina--Lewvan"," 603","Regina",N,N,"",6,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,924
+47006,"Regina--Lewvan","Regina--Lewvan"," 603","Regina",N,N,"",6,0,"Wright","","Michael","Green Party","Parti Vert",N,N,7
+47006,"Regina--Lewvan","Regina--Lewvan"," 604","Regina",N,N,"",5,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,116
+47006,"Regina--Lewvan","Regina--Lewvan"," 604","Regina",N,N,"",5,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," 604","Regina",N,N,"",5,0,"Hird","","Mac","Liberal","Libéral",N,N,559
+47006,"Regina--Lewvan","Regina--Lewvan"," 604","Regina",N,N,"",5,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,1052
+47006,"Regina--Lewvan","Regina--Lewvan"," 604","Regina",N,N,"",5,0,"Wright","","Michael","Green Party","Parti Vert",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 605","Regina",N,N,"",4,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+47006,"Regina--Lewvan","Regina--Lewvan"," 605","Regina",N,N,"",4,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 605","Regina",N,N,"",4,0,"Hird","","Mac","Liberal","Libéral",N,N,379
+47006,"Regina--Lewvan","Regina--Lewvan"," 605","Regina",N,N,"",4,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,600
+47006,"Regina--Lewvan","Regina--Lewvan"," 605","Regina",N,N,"",4,0,"Wright","","Michael","Green Party","Parti Vert",N,N,9
+47006,"Regina--Lewvan","Regina--Lewvan"," 606","Regina",N,N,"",3,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+47006,"Regina--Lewvan","Regina--Lewvan"," 606","Regina",N,N,"",3,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 606","Regina",N,N,"",3,0,"Hird","","Mac","Liberal","Libéral",N,N,425
+47006,"Regina--Lewvan","Regina--Lewvan"," 606","Regina",N,N,"",3,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,611
+47006,"Regina--Lewvan","Regina--Lewvan"," 606","Regina",N,N,"",3,0,"Wright","","Michael","Green Party","Parti Vert",N,N,16
+47006,"Regina--Lewvan","Regina--Lewvan"," 607","Regina",N,N,"",1,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+47006,"Regina--Lewvan","Regina--Lewvan"," 607","Regina",N,N,"",1,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47006,"Regina--Lewvan","Regina--Lewvan"," 607","Regina",N,N,"",1,0,"Hird","","Mac","Liberal","Libéral",N,N,756
+47006,"Regina--Lewvan","Regina--Lewvan"," 607","Regina",N,N,"",1,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,326
+47006,"Regina--Lewvan","Regina--Lewvan"," 607","Regina",N,N,"",1,0,"Wright","","Michael","Green Party","Parti Vert",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 608","Regina",N,N,"",3,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+47006,"Regina--Lewvan","Regina--Lewvan"," 608","Regina",N,N,"",3,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," 608","Regina",N,N,"",3,0,"Hird","","Mac","Liberal","Libéral",N,N,1269
+47006,"Regina--Lewvan","Regina--Lewvan"," 608","Regina",N,N,"",3,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,594
+47006,"Regina--Lewvan","Regina--Lewvan"," 608","Regina",N,N,"",3,0,"Wright","","Michael","Green Party","Parti Vert",N,N,8
+47006,"Regina--Lewvan","Regina--Lewvan"," 609","Regina",N,N,"",15,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+47006,"Regina--Lewvan","Regina--Lewvan"," 609","Regina",N,N,"",15,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,12
+47006,"Regina--Lewvan","Regina--Lewvan"," 609","Regina",N,N,"",15,0,"Hird","","Mac","Liberal","Libéral",N,N,1088
+47006,"Regina--Lewvan","Regina--Lewvan"," 609","Regina",N,N,"",15,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,921
+47006,"Regina--Lewvan","Regina--Lewvan"," 609","Regina",N,N,"",15,0,"Wright","","Michael","Green Party","Parti Vert",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," 610","Regina",N,N,"",10,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+47006,"Regina--Lewvan","Regina--Lewvan"," 610","Regina",N,N,"",10,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47006,"Regina--Lewvan","Regina--Lewvan"," 610","Regina",N,N,"",10,0,"Hird","","Mac","Liberal","Libéral",N,N,813
+47006,"Regina--Lewvan","Regina--Lewvan"," 610","Regina",N,N,"",10,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,879
+47006,"Regina--Lewvan","Regina--Lewvan"," 610","Regina",N,N,"",10,0,"Wright","","Michael","Green Party","Parti Vert",N,N,4
+47006,"Regina--Lewvan","Regina--Lewvan"," 611","Regina",N,N,"",10,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+47006,"Regina--Lewvan","Regina--Lewvan"," 611","Regina",N,N,"",10,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,13
+47006,"Regina--Lewvan","Regina--Lewvan"," 611","Regina",N,N,"",10,0,"Hird","","Mac","Liberal","Libéral",N,N,1151
+47006,"Regina--Lewvan","Regina--Lewvan"," 611","Regina",N,N,"",10,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,959
+47006,"Regina--Lewvan","Regina--Lewvan"," 611","Regina",N,N,"",10,0,"Wright","","Michael","Green Party","Parti Vert",N,N,10
+47006,"Regina--Lewvan","Regina--Lewvan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,202,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+47006,"Regina--Lewvan","Regina--Lewvan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,202,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,202,"Hird","","Mac","Liberal","Libéral",N,N,411
+47006,"Regina--Lewvan","Regina--Lewvan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,202,"Steinley","","Warren","Conservative","Conservateur",Y,Y,230
+47006,"Regina--Lewvan","Regina--Lewvan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,202,"Wright","","Michael","Green Party","Parti Vert",N,N,1
+47006,"Regina--Lewvan","Regina--Lewvan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",71,0,"Aldinger","","Ray","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,136
+47006,"Regina--Lewvan","Regina--Lewvan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",71,0,"Ezizor","","Godwin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47006,"Regina--Lewvan","Regina--Lewvan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",71,0,"Hird","","Mac","Liberal","Libéral",N,N,1217
+47006,"Regina--Lewvan","Regina--Lewvan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",71,0,"Steinley","","Warren","Conservative","Conservateur",Y,Y,1088
+47006,"Regina--Lewvan","Regina--Lewvan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",71,0,"Wright","","Michael","Green Party","Parti Vert",N,N,13

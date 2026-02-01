@@ -1,0 +1,431 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+11002,"Charlottetown","Charlottetown"," 1","Union Road--York",N,N,"",2,425,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11002,"Charlottetown","Charlottetown"," 1","Union Road--York",N,N,"",2,425,"Casey","","Sean","Liberal","Libéral",Y,Y,67
+11002,"Charlottetown","Charlottetown"," 1","Union Road--York",N,N,"",2,425,"Cousins","","Daniel","Green Party","Parti Vert",N,N,4
+11002,"Charlottetown","Charlottetown"," 1","Union Road--York",N,N,"",2,425,"Jameson","","Natalie","Conservative","Conservateur",N,N,71
+11002,"Charlottetown","Charlottetown"," 1","Union Road--York",N,N,"",2,425,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 2","Charlottetown",N,N,"",2,555,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11002,"Charlottetown","Charlottetown"," 2","Charlottetown",N,N,"",2,555,"Casey","","Sean","Liberal","Libéral",Y,Y,179
+11002,"Charlottetown","Charlottetown"," 2","Charlottetown",N,N,"",2,555,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 2","Charlottetown",N,N,"",2,555,"Jameson","","Natalie","Conservative","Conservateur",N,N,120
+11002,"Charlottetown","Charlottetown"," 2","Charlottetown",N,N,"",2,555,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 3","Charlottetown",N,N,"",2,493,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+11002,"Charlottetown","Charlottetown"," 3","Charlottetown",N,N,"",2,493,"Casey","","Sean","Liberal","Libéral",Y,Y,124
+11002,"Charlottetown","Charlottetown"," 3","Charlottetown",N,N,"",2,493,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 3","Charlottetown",N,N,"",2,493,"Jameson","","Natalie","Conservative","Conservateur",N,N,100
+11002,"Charlottetown","Charlottetown"," 3","Charlottetown",N,N,"",2,493,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,3
+11002,"Charlottetown","Charlottetown"," 4","Charlottetown",N,N,"",4,580,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+11002,"Charlottetown","Charlottetown"," 4","Charlottetown",N,N,"",4,580,"Casey","","Sean","Liberal","Libéral",Y,Y,162
+11002,"Charlottetown","Charlottetown"," 4","Charlottetown",N,N,"",4,580,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 4","Charlottetown",N,N,"",4,580,"Jameson","","Natalie","Conservative","Conservateur",N,N,106
+11002,"Charlottetown","Charlottetown"," 4","Charlottetown",N,N,"",4,580,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,3
+11002,"Charlottetown","Charlottetown"," 5","Charlottetown",N,N,"",0,538,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+11002,"Charlottetown","Charlottetown"," 5","Charlottetown",N,N,"",0,538,"Casey","","Sean","Liberal","Libéral",Y,Y,146
+11002,"Charlottetown","Charlottetown"," 5","Charlottetown",N,N,"",0,538,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 5","Charlottetown",N,N,"",0,538,"Jameson","","Natalie","Conservative","Conservateur",N,N,85
+11002,"Charlottetown","Charlottetown"," 5","Charlottetown",N,N,"",0,538,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 6","Charlottetown",N,N,"",1,380,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11002,"Charlottetown","Charlottetown"," 6","Charlottetown",N,N,"",1,380,"Casey","","Sean","Liberal","Libéral",Y,Y,91
+11002,"Charlottetown","Charlottetown"," 6","Charlottetown",N,N,"",1,380,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 6","Charlottetown",N,N,"",1,380,"Jameson","","Natalie","Conservative","Conservateur",N,N,67
+11002,"Charlottetown","Charlottetown"," 6","Charlottetown",N,N,"",1,380,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 7","Charlottetown",N,N,"",0,572,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+11002,"Charlottetown","Charlottetown"," 7","Charlottetown",N,N,"",0,572,"Casey","","Sean","Liberal","Libéral",Y,Y,113
+11002,"Charlottetown","Charlottetown"," 7","Charlottetown",N,N,"",0,572,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 7","Charlottetown",N,N,"",0,572,"Jameson","","Natalie","Conservative","Conservateur",N,N,91
+11002,"Charlottetown","Charlottetown"," 7","Charlottetown",N,N,"",0,572,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 8","Charlottetown",N,N,"",0,354,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11002,"Charlottetown","Charlottetown"," 8","Charlottetown",N,N,"",0,354,"Casey","","Sean","Liberal","Libéral",Y,Y,80
+11002,"Charlottetown","Charlottetown"," 8","Charlottetown",N,N,"",0,354,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 8","Charlottetown",N,N,"",0,354,"Jameson","","Natalie","Conservative","Conservateur",N,N,54
+11002,"Charlottetown","Charlottetown"," 8","Charlottetown",N,N,"",0,354,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 9","Charlottetown",N,N,"",4,454,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11002,"Charlottetown","Charlottetown"," 9","Charlottetown",N,N,"",4,454,"Casey","","Sean","Liberal","Libéral",Y,Y,102
+11002,"Charlottetown","Charlottetown"," 9","Charlottetown",N,N,"",4,454,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 9","Charlottetown",N,N,"",4,454,"Jameson","","Natalie","Conservative","Conservateur",N,N,73
+11002,"Charlottetown","Charlottetown"," 9","Charlottetown",N,N,"",4,454,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 10","Charlottetown",N,N,"",1,441,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11002,"Charlottetown","Charlottetown"," 10","Charlottetown",N,N,"",1,441,"Casey","","Sean","Liberal","Libéral",Y,Y,141
+11002,"Charlottetown","Charlottetown"," 10","Charlottetown",N,N,"",1,441,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 10","Charlottetown",N,N,"",1,441,"Jameson","","Natalie","Conservative","Conservateur",N,N,54
+11002,"Charlottetown","Charlottetown"," 10","Charlottetown",N,N,"",1,441,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 11","Charlottetown",N,N,"",0,493,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11002,"Charlottetown","Charlottetown"," 11","Charlottetown",N,N,"",0,493,"Casey","","Sean","Liberal","Libéral",Y,Y,151
+11002,"Charlottetown","Charlottetown"," 11","Charlottetown",N,N,"",0,493,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 11","Charlottetown",N,N,"",0,493,"Jameson","","Natalie","Conservative","Conservateur",N,N,56
+11002,"Charlottetown","Charlottetown"," 11","Charlottetown",N,N,"",0,493,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 12","Charlottetown",N,N,"",2,367,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+11002,"Charlottetown","Charlottetown"," 12","Charlottetown",N,N,"",2,367,"Casey","","Sean","Liberal","Libéral",Y,Y,88
+11002,"Charlottetown","Charlottetown"," 12","Charlottetown",N,N,"",2,367,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 12","Charlottetown",N,N,"",2,367,"Jameson","","Natalie","Conservative","Conservateur",N,N,74
+11002,"Charlottetown","Charlottetown"," 12","Charlottetown",N,N,"",2,367,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 13","Charlottetown",N,N,"",2,459,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+11002,"Charlottetown","Charlottetown"," 13","Charlottetown",N,N,"",2,459,"Casey","","Sean","Liberal","Libéral",Y,Y,93
+11002,"Charlottetown","Charlottetown"," 13","Charlottetown",N,N,"",2,459,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 13","Charlottetown",N,N,"",2,459,"Jameson","","Natalie","Conservative","Conservateur",N,N,58
+11002,"Charlottetown","Charlottetown"," 13","Charlottetown",N,N,"",2,459,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 14","Charlottetown",N,N,"",3,448,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11002,"Charlottetown","Charlottetown"," 14","Charlottetown",N,N,"",3,448,"Casey","","Sean","Liberal","Libéral",Y,Y,104
+11002,"Charlottetown","Charlottetown"," 14","Charlottetown",N,N,"",3,448,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 14","Charlottetown",N,N,"",3,448,"Jameson","","Natalie","Conservative","Conservateur",N,N,63
+11002,"Charlottetown","Charlottetown"," 14","Charlottetown",N,N,"",3,448,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 15","Charlottetown",N,N,"",3,407,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+11002,"Charlottetown","Charlottetown"," 15","Charlottetown",N,N,"",3,407,"Casey","","Sean","Liberal","Libéral",Y,Y,82
+11002,"Charlottetown","Charlottetown"," 15","Charlottetown",N,N,"",3,407,"Cousins","","Daniel","Green Party","Parti Vert",N,N,4
+11002,"Charlottetown","Charlottetown"," 15","Charlottetown",N,N,"",3,407,"Jameson","","Natalie","Conservative","Conservateur",N,N,60
+11002,"Charlottetown","Charlottetown"," 15","Charlottetown",N,N,"",3,407,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 16","Charlottetown",N,N,"",0,435,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+11002,"Charlottetown","Charlottetown"," 16","Charlottetown",N,N,"",0,435,"Casey","","Sean","Liberal","Libéral",Y,Y,75
+11002,"Charlottetown","Charlottetown"," 16","Charlottetown",N,N,"",0,435,"Cousins","","Daniel","Green Party","Parti Vert",N,N,5
+11002,"Charlottetown","Charlottetown"," 16","Charlottetown",N,N,"",0,435,"Jameson","","Natalie","Conservative","Conservateur",N,N,97
+11002,"Charlottetown","Charlottetown"," 16","Charlottetown",N,N,"",0,435,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 17","Charlottetown",N,N,"",0,475,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11002,"Charlottetown","Charlottetown"," 17","Charlottetown",N,N,"",0,475,"Casey","","Sean","Liberal","Libéral",Y,Y,123
+11002,"Charlottetown","Charlottetown"," 17","Charlottetown",N,N,"",0,475,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 17","Charlottetown",N,N,"",0,475,"Jameson","","Natalie","Conservative","Conservateur",N,N,64
+11002,"Charlottetown","Charlottetown"," 17","Charlottetown",N,N,"",0,475,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 18","Charlottetown",N,N,"",2,505,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+11002,"Charlottetown","Charlottetown"," 18","Charlottetown",N,N,"",2,505,"Casey","","Sean","Liberal","Libéral",Y,Y,134
+11002,"Charlottetown","Charlottetown"," 18","Charlottetown",N,N,"",2,505,"Cousins","","Daniel","Green Party","Parti Vert",N,N,6
+11002,"Charlottetown","Charlottetown"," 18","Charlottetown",N,N,"",2,505,"Jameson","","Natalie","Conservative","Conservateur",N,N,98
+11002,"Charlottetown","Charlottetown"," 18","Charlottetown",N,N,"",2,505,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 19","Charlottetown",N,N,"",2,485,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+11002,"Charlottetown","Charlottetown"," 19","Charlottetown",N,N,"",2,485,"Casey","","Sean","Liberal","Libéral",Y,Y,125
+11002,"Charlottetown","Charlottetown"," 19","Charlottetown",N,N,"",2,485,"Cousins","","Daniel","Green Party","Parti Vert",N,N,4
+11002,"Charlottetown","Charlottetown"," 19","Charlottetown",N,N,"",2,485,"Jameson","","Natalie","Conservative","Conservateur",N,N,86
+11002,"Charlottetown","Charlottetown"," 19","Charlottetown",N,N,"",2,485,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 20","Charlottetown",N,N,"",1,475,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+11002,"Charlottetown","Charlottetown"," 20","Charlottetown",N,N,"",1,475,"Casey","","Sean","Liberal","Libéral",Y,Y,66
+11002,"Charlottetown","Charlottetown"," 20","Charlottetown",N,N,"",1,475,"Cousins","","Daniel","Green Party","Parti Vert",N,N,7
+11002,"Charlottetown","Charlottetown"," 20","Charlottetown",N,N,"",1,475,"Jameson","","Natalie","Conservative","Conservateur",N,N,76
+11002,"Charlottetown","Charlottetown"," 20","Charlottetown",N,N,"",1,475,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 21","Charlottetown",N,N,"",2,471,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11002,"Charlottetown","Charlottetown"," 21","Charlottetown",N,N,"",2,471,"Casey","","Sean","Liberal","Libéral",Y,Y,136
+11002,"Charlottetown","Charlottetown"," 21","Charlottetown",N,N,"",2,471,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 21","Charlottetown",N,N,"",2,471,"Jameson","","Natalie","Conservative","Conservateur",N,N,57
+11002,"Charlottetown","Charlottetown"," 21","Charlottetown",N,N,"",2,471,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 22","Charlottetown",N,N,"",1,482,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11002,"Charlottetown","Charlottetown"," 22","Charlottetown",N,N,"",1,482,"Casey","","Sean","Liberal","Libéral",Y,Y,135
+11002,"Charlottetown","Charlottetown"," 22","Charlottetown",N,N,"",1,482,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 22","Charlottetown",N,N,"",1,482,"Jameson","","Natalie","Conservative","Conservateur",N,N,56
+11002,"Charlottetown","Charlottetown"," 22","Charlottetown",N,N,"",1,482,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 23","Charlottetown",N,N,"",2,447,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+11002,"Charlottetown","Charlottetown"," 23","Charlottetown",N,N,"",2,447,"Casey","","Sean","Liberal","Libéral",Y,Y,75
+11002,"Charlottetown","Charlottetown"," 23","Charlottetown",N,N,"",2,447,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 23","Charlottetown",N,N,"",2,447,"Jameson","","Natalie","Conservative","Conservateur",N,N,29
+11002,"Charlottetown","Charlottetown"," 23","Charlottetown",N,N,"",2,447,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 24","Charlottetown",N,N,"",1,491,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+11002,"Charlottetown","Charlottetown"," 24","Charlottetown",N,N,"",1,491,"Casey","","Sean","Liberal","Libéral",Y,Y,64
+11002,"Charlottetown","Charlottetown"," 24","Charlottetown",N,N,"",1,491,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 24","Charlottetown",N,N,"",1,491,"Jameson","","Natalie","Conservative","Conservateur",N,N,42
+11002,"Charlottetown","Charlottetown"," 24","Charlottetown",N,N,"",1,491,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,3
+11002,"Charlottetown","Charlottetown"," 25","Charlottetown",N,N,"",0,367,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+11002,"Charlottetown","Charlottetown"," 25","Charlottetown",N,N,"",0,367,"Casey","","Sean","Liberal","Libéral",Y,Y,59
+11002,"Charlottetown","Charlottetown"," 25","Charlottetown",N,N,"",0,367,"Cousins","","Daniel","Green Party","Parti Vert",N,N,4
+11002,"Charlottetown","Charlottetown"," 25","Charlottetown",N,N,"",0,367,"Jameson","","Natalie","Conservative","Conservateur",N,N,47
+11002,"Charlottetown","Charlottetown"," 25","Charlottetown",N,N,"",0,367,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 26","Charlottetown",N,N,"",2,340,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+11002,"Charlottetown","Charlottetown"," 26","Charlottetown",N,N,"",2,340,"Casey","","Sean","Liberal","Libéral",Y,Y,68
+11002,"Charlottetown","Charlottetown"," 26","Charlottetown",N,N,"",2,340,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 26","Charlottetown",N,N,"",2,340,"Jameson","","Natalie","Conservative","Conservateur",N,N,35
+11002,"Charlottetown","Charlottetown"," 26","Charlottetown",N,N,"",2,340,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 27","Charlottetown",N,N,"",2,352,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+11002,"Charlottetown","Charlottetown"," 27","Charlottetown",N,N,"",2,352,"Casey","","Sean","Liberal","Libéral",Y,Y,72
+11002,"Charlottetown","Charlottetown"," 27","Charlottetown",N,N,"",2,352,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 27","Charlottetown",N,N,"",2,352,"Jameson","","Natalie","Conservative","Conservateur",N,N,25
+11002,"Charlottetown","Charlottetown"," 27","Charlottetown",N,N,"",2,352,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 28","Charlottetown",N,N,"",1,422,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+11002,"Charlottetown","Charlottetown"," 28","Charlottetown",N,N,"",1,422,"Casey","","Sean","Liberal","Libéral",Y,Y,91
+11002,"Charlottetown","Charlottetown"," 28","Charlottetown",N,N,"",1,422,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 28","Charlottetown",N,N,"",1,422,"Jameson","","Natalie","Conservative","Conservateur",N,N,45
+11002,"Charlottetown","Charlottetown"," 28","Charlottetown",N,N,"",1,422,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 29","Charlottetown",N,N,"",0,446,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+11002,"Charlottetown","Charlottetown"," 29","Charlottetown",N,N,"",0,446,"Casey","","Sean","Liberal","Libéral",Y,Y,68
+11002,"Charlottetown","Charlottetown"," 29","Charlottetown",N,N,"",0,446,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 29","Charlottetown",N,N,"",0,446,"Jameson","","Natalie","Conservative","Conservateur",N,N,33
+11002,"Charlottetown","Charlottetown"," 29","Charlottetown",N,N,"",0,446,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,3
+11002,"Charlottetown","Charlottetown"," 30","Charlottetown",N,N,"",7,435,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+11002,"Charlottetown","Charlottetown"," 30","Charlottetown",N,N,"",7,435,"Casey","","Sean","Liberal","Libéral",Y,Y,90
+11002,"Charlottetown","Charlottetown"," 30","Charlottetown",N,N,"",7,435,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 30","Charlottetown",N,N,"",7,435,"Jameson","","Natalie","Conservative","Conservateur",N,N,46
+11002,"Charlottetown","Charlottetown"," 30","Charlottetown",N,N,"",7,435,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 31","Charlottetown",N,N,"",2,454,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11002,"Charlottetown","Charlottetown"," 31","Charlottetown",N,N,"",2,454,"Casey","","Sean","Liberal","Libéral",Y,Y,116
+11002,"Charlottetown","Charlottetown"," 31","Charlottetown",N,N,"",2,454,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 31","Charlottetown",N,N,"",2,454,"Jameson","","Natalie","Conservative","Conservateur",N,N,40
+11002,"Charlottetown","Charlottetown"," 31","Charlottetown",N,N,"",2,454,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 32","Charlottetown",N,N,"",0,398,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+11002,"Charlottetown","Charlottetown"," 32","Charlottetown",N,N,"",0,398,"Casey","","Sean","Liberal","Libéral",Y,Y,73
+11002,"Charlottetown","Charlottetown"," 32","Charlottetown",N,N,"",0,398,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 32","Charlottetown",N,N,"",0,398,"Jameson","","Natalie","Conservative","Conservateur",N,N,36
+11002,"Charlottetown","Charlottetown"," 32","Charlottetown",N,N,"",0,398,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 33","Charlottetown",N,N,"",0,386,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+11002,"Charlottetown","Charlottetown"," 33","Charlottetown",N,N,"",0,386,"Casey","","Sean","Liberal","Libéral",Y,Y,115
+11002,"Charlottetown","Charlottetown"," 33","Charlottetown",N,N,"",0,386,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 33","Charlottetown",N,N,"",0,386,"Jameson","","Natalie","Conservative","Conservateur",N,N,50
+11002,"Charlottetown","Charlottetown"," 33","Charlottetown",N,N,"",0,386,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 34","Charlottetown",N,N,"",1,570,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+11002,"Charlottetown","Charlottetown"," 34","Charlottetown",N,N,"",1,570,"Casey","","Sean","Liberal","Libéral",Y,Y,117
+11002,"Charlottetown","Charlottetown"," 34","Charlottetown",N,N,"",1,570,"Cousins","","Daniel","Green Party","Parti Vert",N,N,5
+11002,"Charlottetown","Charlottetown"," 34","Charlottetown",N,N,"",1,570,"Jameson","","Natalie","Conservative","Conservateur",N,N,85
+11002,"Charlottetown","Charlottetown"," 34","Charlottetown",N,N,"",1,570,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 35","Charlottetown",N,N,"",0,334,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+11002,"Charlottetown","Charlottetown"," 35","Charlottetown",N,N,"",0,334,"Casey","","Sean","Liberal","Libéral",Y,Y,87
+11002,"Charlottetown","Charlottetown"," 35","Charlottetown",N,N,"",0,334,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 35","Charlottetown",N,N,"",0,334,"Jameson","","Natalie","Conservative","Conservateur",N,N,61
+11002,"Charlottetown","Charlottetown"," 35","Charlottetown",N,N,"",0,334,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 36","Charlottetown",N,N,"",4,399,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+11002,"Charlottetown","Charlottetown"," 36","Charlottetown",N,N,"",4,399,"Casey","","Sean","Liberal","Libéral",Y,Y,82
+11002,"Charlottetown","Charlottetown"," 36","Charlottetown",N,N,"",4,399,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 36","Charlottetown",N,N,"",4,399,"Jameson","","Natalie","Conservative","Conservateur",N,N,51
+11002,"Charlottetown","Charlottetown"," 36","Charlottetown",N,N,"",4,399,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 37","Charlottetown",N,N,"",0,540,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+11002,"Charlottetown","Charlottetown"," 37","Charlottetown",N,N,"",0,540,"Casey","","Sean","Liberal","Libéral",Y,Y,121
+11002,"Charlottetown","Charlottetown"," 37","Charlottetown",N,N,"",0,540,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 37","Charlottetown",N,N,"",0,540,"Jameson","","Natalie","Conservative","Conservateur",N,N,65
+11002,"Charlottetown","Charlottetown"," 37","Charlottetown",N,N,"",0,540,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 38","Charlottetown",N,N,"",1,371,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11002,"Charlottetown","Charlottetown"," 38","Charlottetown",N,N,"",1,371,"Casey","","Sean","Liberal","Libéral",Y,Y,88
+11002,"Charlottetown","Charlottetown"," 38","Charlottetown",N,N,"",1,371,"Cousins","","Daniel","Green Party","Parti Vert",N,N,4
+11002,"Charlottetown","Charlottetown"," 38","Charlottetown",N,N,"",1,371,"Jameson","","Natalie","Conservative","Conservateur",N,N,56
+11002,"Charlottetown","Charlottetown"," 38","Charlottetown",N,N,"",1,371,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 39","Charlottetown",N,N,"",1,499,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+11002,"Charlottetown","Charlottetown"," 39","Charlottetown",N,N,"",1,499,"Casey","","Sean","Liberal","Libéral",Y,Y,116
+11002,"Charlottetown","Charlottetown"," 39","Charlottetown",N,N,"",1,499,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 39","Charlottetown",N,N,"",1,499,"Jameson","","Natalie","Conservative","Conservateur",N,N,59
+11002,"Charlottetown","Charlottetown"," 39","Charlottetown",N,N,"",1,499,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 40","Charlottetown",N,N,"",3,456,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11002,"Charlottetown","Charlottetown"," 40","Charlottetown",N,N,"",3,456,"Casey","","Sean","Liberal","Libéral",Y,Y,111
+11002,"Charlottetown","Charlottetown"," 40","Charlottetown",N,N,"",3,456,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 40","Charlottetown",N,N,"",3,456,"Jameson","","Natalie","Conservative","Conservateur",N,N,52
+11002,"Charlottetown","Charlottetown"," 40","Charlottetown",N,N,"",3,456,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 41","Charlottetown",N,N,"",2,365,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+11002,"Charlottetown","Charlottetown"," 41","Charlottetown",N,N,"",2,365,"Casey","","Sean","Liberal","Libéral",Y,Y,76
+11002,"Charlottetown","Charlottetown"," 41","Charlottetown",N,N,"",2,365,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 41","Charlottetown",N,N,"",2,365,"Jameson","","Natalie","Conservative","Conservateur",N,N,46
+11002,"Charlottetown","Charlottetown"," 41","Charlottetown",N,N,"",2,365,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 42","Charlottetown",N,N,"",0,408,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+11002,"Charlottetown","Charlottetown"," 42","Charlottetown",N,N,"",0,408,"Casey","","Sean","Liberal","Libéral",Y,Y,84
+11002,"Charlottetown","Charlottetown"," 42","Charlottetown",N,N,"",0,408,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 42","Charlottetown",N,N,"",0,408,"Jameson","","Natalie","Conservative","Conservateur",N,N,56
+11002,"Charlottetown","Charlottetown"," 42","Charlottetown",N,N,"",0,408,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 43","Charlottetown",N,N,"",0,413,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+11002,"Charlottetown","Charlottetown"," 43","Charlottetown",N,N,"",0,413,"Casey","","Sean","Liberal","Libéral",Y,Y,59
+11002,"Charlottetown","Charlottetown"," 43","Charlottetown",N,N,"",0,413,"Cousins","","Daniel","Green Party","Parti Vert",N,N,4
+11002,"Charlottetown","Charlottetown"," 43","Charlottetown",N,N,"",0,413,"Jameson","","Natalie","Conservative","Conservateur",N,N,37
+11002,"Charlottetown","Charlottetown"," 43","Charlottetown",N,N,"",0,413,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 44","Charlottetown",N,N,"",0,407,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11002,"Charlottetown","Charlottetown"," 44","Charlottetown",N,N,"",0,407,"Casey","","Sean","Liberal","Libéral",Y,Y,53
+11002,"Charlottetown","Charlottetown"," 44","Charlottetown",N,N,"",0,407,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 44","Charlottetown",N,N,"",0,407,"Jameson","","Natalie","Conservative","Conservateur",N,N,44
+11002,"Charlottetown","Charlottetown"," 44","Charlottetown",N,N,"",0,407,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 45","Charlottetown",N,N,"",0,311,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+11002,"Charlottetown","Charlottetown"," 45","Charlottetown",N,N,"",0,311,"Casey","","Sean","Liberal","Libéral",Y,Y,46
+11002,"Charlottetown","Charlottetown"," 45","Charlottetown",N,N,"",0,311,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 45","Charlottetown",N,N,"",0,311,"Jameson","","Natalie","Conservative","Conservateur",N,N,20
+11002,"Charlottetown","Charlottetown"," 45","Charlottetown",N,N,"",0,311,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,3
+11002,"Charlottetown","Charlottetown"," 46","Charlottetown",N,N,"",1,393,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+11002,"Charlottetown","Charlottetown"," 46","Charlottetown",N,N,"",1,393,"Casey","","Sean","Liberal","Libéral",Y,Y,78
+11002,"Charlottetown","Charlottetown"," 46","Charlottetown",N,N,"",1,393,"Cousins","","Daniel","Green Party","Parti Vert",N,N,4
+11002,"Charlottetown","Charlottetown"," 46","Charlottetown",N,N,"",1,393,"Jameson","","Natalie","Conservative","Conservateur",N,N,21
+11002,"Charlottetown","Charlottetown"," 46","Charlottetown",N,N,"",1,393,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 47","Charlottetown",N,N,"",0,478,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+11002,"Charlottetown","Charlottetown"," 47","Charlottetown",N,N,"",0,478,"Casey","","Sean","Liberal","Libéral",Y,Y,117
+11002,"Charlottetown","Charlottetown"," 47","Charlottetown",N,N,"",0,478,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 47","Charlottetown",N,N,"",0,478,"Jameson","","Natalie","Conservative","Conservateur",N,N,45
+11002,"Charlottetown","Charlottetown"," 47","Charlottetown",N,N,"",0,478,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 48","Charlottetown",N,N,"",0,457,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+11002,"Charlottetown","Charlottetown"," 48","Charlottetown",N,N,"",0,457,"Casey","","Sean","Liberal","Libéral",Y,Y,83
+11002,"Charlottetown","Charlottetown"," 48","Charlottetown",N,N,"",0,457,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 48","Charlottetown",N,N,"",0,457,"Jameson","","Natalie","Conservative","Conservateur",N,N,42
+11002,"Charlottetown","Charlottetown"," 48","Charlottetown",N,N,"",0,457,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 49","Charlottetown",N,N,"",4,415,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+11002,"Charlottetown","Charlottetown"," 49","Charlottetown",N,N,"",4,415,"Casey","","Sean","Liberal","Libéral",Y,Y,74
+11002,"Charlottetown","Charlottetown"," 49","Charlottetown",N,N,"",4,415,"Cousins","","Daniel","Green Party","Parti Vert",N,N,4
+11002,"Charlottetown","Charlottetown"," 49","Charlottetown",N,N,"",4,415,"Jameson","","Natalie","Conservative","Conservateur",N,N,28
+11002,"Charlottetown","Charlottetown"," 49","Charlottetown",N,N,"",4,415,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,3
+11002,"Charlottetown","Charlottetown"," 50","Charlottetown",N,N,"",1,448,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+11002,"Charlottetown","Charlottetown"," 50","Charlottetown",N,N,"",1,448,"Casey","","Sean","Liberal","Libéral",Y,Y,85
+11002,"Charlottetown","Charlottetown"," 50","Charlottetown",N,N,"",1,448,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 50","Charlottetown",N,N,"",1,448,"Jameson","","Natalie","Conservative","Conservateur",N,N,40
+11002,"Charlottetown","Charlottetown"," 50","Charlottetown",N,N,"",1,448,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,6
+11002,"Charlottetown","Charlottetown"," 51","Charlottetown",N,N,"",3,478,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+11002,"Charlottetown","Charlottetown"," 51","Charlottetown",N,N,"",3,478,"Casey","","Sean","Liberal","Libéral",Y,Y,99
+11002,"Charlottetown","Charlottetown"," 51","Charlottetown",N,N,"",3,478,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 51","Charlottetown",N,N,"",3,478,"Jameson","","Natalie","Conservative","Conservateur",N,N,34
+11002,"Charlottetown","Charlottetown"," 51","Charlottetown",N,N,"",3,478,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 52","Charlottetown",N,N,"",1,469,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+11002,"Charlottetown","Charlottetown"," 52","Charlottetown",N,N,"",1,469,"Casey","","Sean","Liberal","Libéral",Y,Y,76
+11002,"Charlottetown","Charlottetown"," 52","Charlottetown",N,N,"",1,469,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 52","Charlottetown",N,N,"",1,469,"Jameson","","Natalie","Conservative","Conservateur",N,N,42
+11002,"Charlottetown","Charlottetown"," 52","Charlottetown",N,N,"",1,469,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 53","Charlottetown",N,N,"",0,447,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11002,"Charlottetown","Charlottetown"," 53","Charlottetown",N,N,"",0,447,"Casey","","Sean","Liberal","Libéral",Y,Y,89
+11002,"Charlottetown","Charlottetown"," 53","Charlottetown",N,N,"",0,447,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 53","Charlottetown",N,N,"",0,447,"Jameson","","Natalie","Conservative","Conservateur",N,N,27
+11002,"Charlottetown","Charlottetown"," 53","Charlottetown",N,N,"",0,447,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 54","Charlottetown",N,N,"",1,419,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+11002,"Charlottetown","Charlottetown"," 54","Charlottetown",N,N,"",1,419,"Casey","","Sean","Liberal","Libéral",Y,Y,68
+11002,"Charlottetown","Charlottetown"," 54","Charlottetown",N,N,"",1,419,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 54","Charlottetown",N,N,"",1,419,"Jameson","","Natalie","Conservative","Conservateur",N,N,37
+11002,"Charlottetown","Charlottetown"," 54","Charlottetown",N,N,"",1,419,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 55","Charlottetown",N,N,"",1,428,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11002,"Charlottetown","Charlottetown"," 55","Charlottetown",N,N,"",1,428,"Casey","","Sean","Liberal","Libéral",Y,Y,84
+11002,"Charlottetown","Charlottetown"," 55","Charlottetown",N,N,"",1,428,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 55","Charlottetown",N,N,"",1,428,"Jameson","","Natalie","Conservative","Conservateur",N,N,29
+11002,"Charlottetown","Charlottetown"," 55","Charlottetown",N,N,"",1,428,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 56","Charlottetown",N,N,"",3,354,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+11002,"Charlottetown","Charlottetown"," 56","Charlottetown",N,N,"",3,354,"Casey","","Sean","Liberal","Libéral",Y,Y,73
+11002,"Charlottetown","Charlottetown"," 56","Charlottetown",N,N,"",3,354,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 56","Charlottetown",N,N,"",3,354,"Jameson","","Natalie","Conservative","Conservateur",N,N,20
+11002,"Charlottetown","Charlottetown"," 56","Charlottetown",N,N,"",3,354,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 57","Charlottetown",N,N,"",1,396,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+11002,"Charlottetown","Charlottetown"," 57","Charlottetown",N,N,"",1,396,"Casey","","Sean","Liberal","Libéral",Y,Y,79
+11002,"Charlottetown","Charlottetown"," 57","Charlottetown",N,N,"",1,396,"Cousins","","Daniel","Green Party","Parti Vert",N,N,2
+11002,"Charlottetown","Charlottetown"," 57","Charlottetown",N,N,"",1,396,"Jameson","","Natalie","Conservative","Conservateur",N,N,30
+11002,"Charlottetown","Charlottetown"," 57","Charlottetown",N,N,"",1,396,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 58","Charlottetown",N,N,"",0,458,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11002,"Charlottetown","Charlottetown"," 58","Charlottetown",N,N,"",0,458,"Casey","","Sean","Liberal","Libéral",Y,Y,75
+11002,"Charlottetown","Charlottetown"," 58","Charlottetown",N,N,"",0,458,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 58","Charlottetown",N,N,"",0,458,"Jameson","","Natalie","Conservative","Conservateur",N,N,30
+11002,"Charlottetown","Charlottetown"," 58","Charlottetown",N,N,"",0,458,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 59","Charlottetown",N,N,"",7,543,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+11002,"Charlottetown","Charlottetown"," 59","Charlottetown",N,N,"",7,543,"Casey","","Sean","Liberal","Libéral",Y,Y,140
+11002,"Charlottetown","Charlottetown"," 59","Charlottetown",N,N,"",7,543,"Cousins","","Daniel","Green Party","Parti Vert",N,N,5
+11002,"Charlottetown","Charlottetown"," 59","Charlottetown",N,N,"",7,543,"Jameson","","Natalie","Conservative","Conservateur",N,N,37
+11002,"Charlottetown","Charlottetown"," 59","Charlottetown",N,N,"",7,543,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 60","Charlottetown",N,N,"",1,495,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+11002,"Charlottetown","Charlottetown"," 60","Charlottetown",N,N,"",1,495,"Casey","","Sean","Liberal","Libéral",Y,Y,107
+11002,"Charlottetown","Charlottetown"," 60","Charlottetown",N,N,"",1,495,"Cousins","","Daniel","Green Party","Parti Vert",N,N,3
+11002,"Charlottetown","Charlottetown"," 60","Charlottetown",N,N,"",1,495,"Jameson","","Natalie","Conservative","Conservateur",N,N,32
+11002,"Charlottetown","Charlottetown"," 60","Charlottetown",N,N,"",1,495,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,1
+11002,"Charlottetown","Charlottetown"," 61","Charlottetown",N,N,"",0,496,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+11002,"Charlottetown","Charlottetown"," 61","Charlottetown",N,N,"",0,496,"Casey","","Sean","Liberal","Libéral",Y,Y,104
+11002,"Charlottetown","Charlottetown"," 61","Charlottetown",N,N,"",0,496,"Cousins","","Daniel","Green Party","Parti Vert",N,N,1
+11002,"Charlottetown","Charlottetown"," 61","Charlottetown",N,N,"",0,496,"Jameson","","Natalie","Conservative","Conservateur",N,N,47
+11002,"Charlottetown","Charlottetown"," 61","Charlottetown",N,N,"",0,496,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,29,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,29,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,29,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,29,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,29,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 501","Mobile poll/Bureau itinérant",N,N,"",20,110,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+11002,"Charlottetown","Charlottetown"," 501","Mobile poll/Bureau itinérant",N,N,"",20,110,"Casey","","Sean","Liberal","Libéral",Y,Y,349
+11002,"Charlottetown","Charlottetown"," 501","Mobile poll/Bureau itinérant",N,N,"",20,110,"Cousins","","Daniel","Green Party","Parti Vert",N,N,23
+11002,"Charlottetown","Charlottetown"," 501","Mobile poll/Bureau itinérant",N,N,"",20,110,"Jameson","","Natalie","Conservative","Conservateur",N,N,157
+11002,"Charlottetown","Charlottetown"," 501","Mobile poll/Bureau itinérant",N,N,"",20,110,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,14
+11002,"Charlottetown","Charlottetown"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,70,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,70,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,70,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,70,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,70,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 503","Mobile poll/Bureau itinérant",N,N,"509",0,17,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 503","Mobile poll/Bureau itinérant",N,N,"509",0,17,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 503","Mobile poll/Bureau itinérant",N,N,"509",0,17,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 503","Mobile poll/Bureau itinérant",N,N,"509",0,17,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 503","Mobile poll/Bureau itinérant",N,N,"509",0,17,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,114,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,114,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,114,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,114,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,114,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 505","Mobile poll/Bureau itinérant",N,N,"501",0,74,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 505","Mobile poll/Bureau itinérant",N,N,"501",0,74,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 505","Mobile poll/Bureau itinérant",N,N,"501",0,74,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 505","Mobile poll/Bureau itinérant",N,N,"501",0,74,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 505","Mobile poll/Bureau itinérant",N,N,"501",0,74,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 506","Mobile poll/Bureau itinérant",N,N,"504",0,17,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 506","Mobile poll/Bureau itinérant",N,N,"504",0,17,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 506","Mobile poll/Bureau itinérant",N,N,"504",0,17,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 506","Mobile poll/Bureau itinérant",N,N,"504",0,17,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 506","Mobile poll/Bureau itinérant",N,N,"504",0,17,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,10,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,10,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,10,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,10,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,10,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 508","Mobile poll/Bureau itinérant",N,N,"501",0,48,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 508","Mobile poll/Bureau itinérant",N,N,"501",0,48,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 508","Mobile poll/Bureau itinérant",N,N,"501",0,48,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 508","Mobile poll/Bureau itinérant",N,N,"501",0,48,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 508","Mobile poll/Bureau itinérant",N,N,"501",0,48,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,98,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,98,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,98,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,98,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,98,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 510","Mobile poll/Bureau itinérant",N,N,"501",0,58,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 510","Mobile poll/Bureau itinérant",N,N,"501",0,58,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 510","Mobile poll/Bureau itinérant",N,N,"501",0,58,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 510","Mobile poll/Bureau itinérant",N,N,"501",0,58,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 510","Mobile poll/Bureau itinérant",N,N,"501",0,58,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 511","Mobile poll/Bureau itinérant",N,N,"501",0,66,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 511","Mobile poll/Bureau itinérant",N,N,"501",0,66,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 511","Mobile poll/Bureau itinérant",N,N,"501",0,66,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 511","Mobile poll/Bureau itinérant",N,N,"501",0,66,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 511","Mobile poll/Bureau itinérant",N,N,"501",0,66,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 512","Mobile poll/Bureau itinérant",N,N,"505",0,30,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 512","Mobile poll/Bureau itinérant",N,N,"505",0,30,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 512","Mobile poll/Bureau itinérant",N,N,"505",0,30,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 512","Mobile poll/Bureau itinérant",N,N,"505",0,30,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 512","Mobile poll/Bureau itinérant",N,N,"505",0,30,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 513","Mobile poll/Bureau itinérant",N,N,"502",0,26,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 513","Mobile poll/Bureau itinérant",N,N,"502",0,26,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 513","Mobile poll/Bureau itinérant",N,N,"502",0,26,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 513","Mobile poll/Bureau itinérant",N,N,"502",0,26,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 513","Mobile poll/Bureau itinérant",N,N,"502",0,26,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 514","Mobile poll/Bureau itinérant",N,N,"511",0,18,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 514","Mobile poll/Bureau itinérant",N,N,"511",0,18,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 514","Mobile poll/Bureau itinérant",N,N,"511",0,18,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 514","Mobile poll/Bureau itinérant",N,N,"511",0,18,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 514","Mobile poll/Bureau itinérant",N,N,"511",0,18,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 515","Mobile poll/Bureau itinérant",N,N,"510",0,10,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 515","Mobile poll/Bureau itinérant",N,N,"510",0,10,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 515","Mobile poll/Bureau itinérant",N,N,"510",0,10,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 515","Mobile poll/Bureau itinérant",N,N,"510",0,10,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 515","Mobile poll/Bureau itinérant",N,N,"510",0,10,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 516","Mobile poll/Bureau itinérant",N,N,"510",0,30,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11002,"Charlottetown","Charlottetown"," 516","Mobile poll/Bureau itinérant",N,N,"510",0,30,"Casey","","Sean","Liberal","Libéral",Y,Y,0
+11002,"Charlottetown","Charlottetown"," 516","Mobile poll/Bureau itinérant",N,N,"510",0,30,"Cousins","","Daniel","Green Party","Parti Vert",N,N,0
+11002,"Charlottetown","Charlottetown"," 516","Mobile poll/Bureau itinérant",N,N,"510",0,30,"Jameson","","Natalie","Conservative","Conservateur",N,N,0
+11002,"Charlottetown","Charlottetown"," 516","Mobile poll/Bureau itinérant",N,N,"510",0,30,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,0
+11002,"Charlottetown","Charlottetown"," 600","Charlottetown",N,N,"",2,0,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+11002,"Charlottetown","Charlottetown"," 600","Charlottetown",N,N,"",2,0,"Casey","","Sean","Liberal","Libéral",Y,Y,624
+11002,"Charlottetown","Charlottetown"," 600","Charlottetown",N,N,"",2,0,"Cousins","","Daniel","Green Party","Parti Vert",N,N,6
+11002,"Charlottetown","Charlottetown"," 600","Charlottetown",N,N,"",2,0,"Jameson","","Natalie","Conservative","Conservateur",N,N,332
+11002,"Charlottetown","Charlottetown"," 600","Charlottetown",N,N,"",2,0,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,6
+11002,"Charlottetown","Charlottetown"," 601","Charlottetown",N,N,"",3,0,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+11002,"Charlottetown","Charlottetown"," 601","Charlottetown",N,N,"",3,0,"Casey","","Sean","Liberal","Libéral",Y,Y,888
+11002,"Charlottetown","Charlottetown"," 601","Charlottetown",N,N,"",3,0,"Cousins","","Daniel","Green Party","Parti Vert",N,N,10
+11002,"Charlottetown","Charlottetown"," 601","Charlottetown",N,N,"",3,0,"Jameson","","Natalie","Conservative","Conservateur",N,N,339
+11002,"Charlottetown","Charlottetown"," 601","Charlottetown",N,N,"",3,0,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," 602","Charlottetown",N,N,"",15,0,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+11002,"Charlottetown","Charlottetown"," 602","Charlottetown",N,N,"",15,0,"Casey","","Sean","Liberal","Libéral",Y,Y,1128
+11002,"Charlottetown","Charlottetown"," 602","Charlottetown",N,N,"",15,0,"Cousins","","Daniel","Green Party","Parti Vert",N,N,13
+11002,"Charlottetown","Charlottetown"," 602","Charlottetown",N,N,"",15,0,"Jameson","","Natalie","Conservative","Conservateur",N,N,376
+11002,"Charlottetown","Charlottetown"," 602","Charlottetown",N,N,"",15,0,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,3
+11002,"Charlottetown","Charlottetown"," 603","Charlottetown",N,N,"",18,0,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+11002,"Charlottetown","Charlottetown"," 603","Charlottetown",N,N,"",18,0,"Casey","","Sean","Liberal","Libéral",Y,Y,998
+11002,"Charlottetown","Charlottetown"," 603","Charlottetown",N,N,"",18,0,"Cousins","","Daniel","Green Party","Parti Vert",N,N,14
+11002,"Charlottetown","Charlottetown"," 603","Charlottetown",N,N,"",18,0,"Jameson","","Natalie","Conservative","Conservateur",N,N,429
+11002,"Charlottetown","Charlottetown"," 603","Charlottetown",N,N,"",18,0,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,9
+11002,"Charlottetown","Charlottetown"," 604","Charlottetown",N,N,"",20,0,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+11002,"Charlottetown","Charlottetown"," 604","Charlottetown",N,N,"",20,0,"Casey","","Sean","Liberal","Libéral",Y,Y,1041
+11002,"Charlottetown","Charlottetown"," 604","Charlottetown",N,N,"",20,0,"Cousins","","Daniel","Green Party","Parti Vert",N,N,8
+11002,"Charlottetown","Charlottetown"," 604","Charlottetown",N,N,"",20,0,"Jameson","","Natalie","Conservative","Conservateur",N,N,333
+11002,"Charlottetown","Charlottetown"," 604","Charlottetown",N,N,"",20,0,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,5
+11002,"Charlottetown","Charlottetown"," 605","Charlottetown",N,N,"",7,0,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+11002,"Charlottetown","Charlottetown"," 605","Charlottetown",N,N,"",7,0,"Casey","","Sean","Liberal","Libéral",Y,Y,953
+11002,"Charlottetown","Charlottetown"," 605","Charlottetown",N,N,"",7,0,"Cousins","","Daniel","Green Party","Parti Vert",N,N,7
+11002,"Charlottetown","Charlottetown"," 605","Charlottetown",N,N,"",7,0,"Jameson","","Natalie","Conservative","Conservateur",N,N,261
+11002,"Charlottetown","Charlottetown"," 605","Charlottetown",N,N,"",7,0,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,3
+11002,"Charlottetown","Charlottetown"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,99,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11002,"Charlottetown","Charlottetown"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,99,"Casey","","Sean","Liberal","Libéral",Y,Y,160
+11002,"Charlottetown","Charlottetown"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,99,"Cousins","","Daniel","Green Party","Parti Vert",N,N,6
+11002,"Charlottetown","Charlottetown"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,99,"Jameson","","Natalie","Conservative","Conservateur",N,N,50
+11002,"Charlottetown","Charlottetown"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,99,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,2
+11002,"Charlottetown","Charlottetown"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",33,0,"Byrne","","Joe","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,102
+11002,"Charlottetown","Charlottetown"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",33,0,"Casey","","Sean","Liberal","Libéral",Y,Y,1636
+11002,"Charlottetown","Charlottetown"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",33,0,"Cousins","","Daniel","Green Party","Parti Vert",N,N,26
+11002,"Charlottetown","Charlottetown"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",33,0,"Jameson","","Natalie","Conservative","Conservateur",N,N,595
+11002,"Charlottetown","Charlottetown"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",33,0,"Lucas","","Robert","People's Party - PPC","Parti populaire - PPC",N,N,12

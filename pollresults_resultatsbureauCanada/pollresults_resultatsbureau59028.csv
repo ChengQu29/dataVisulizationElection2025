@@ -1,0 +1,885 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 1","Richmond",N,N,"",3,470,"Bains","","Parm","Liberal","Libéral",N,Y,121
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 1","Richmond",N,N,"",3,470,"Ji","","Steven","Green Party","Parti Vert",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 1","Richmond",N,N,"",3,470,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 1","Richmond",N,N,"",3,470,"Segal","","Zach","Conservative","Conservateur",N,N,103
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 2A","Richmond",N,N,"",1,418,"Bains","","Parm","Liberal","Libéral",N,Y,67
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 2A","Richmond",N,N,"",1,418,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 2A","Richmond",N,N,"",1,418,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 2A","Richmond",N,N,"",1,418,"Segal","","Zach","Conservative","Conservateur",N,N,110
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 2B","Richmond",N,N,"",0,323,"Bains","","Parm","Liberal","Libéral",N,Y,73
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 2B","Richmond",N,N,"",0,323,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 2B","Richmond",N,N,"",0,323,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 2B","Richmond",N,N,"",0,323,"Segal","","Zach","Conservative","Conservateur",N,N,55
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 3","Richmond",N,N,"",4,282,"Bains","","Parm","Liberal","Libéral",N,Y,70
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 3","Richmond",N,N,"",4,282,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 3","Richmond",N,N,"",4,282,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 3","Richmond",N,N,"",4,282,"Segal","","Zach","Conservative","Conservateur",N,N,53
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 4","Richmond",N,N,"",1,445,"Bains","","Parm","Liberal","Libéral",N,Y,86
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 4","Richmond",N,N,"",1,445,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 4","Richmond",N,N,"",1,445,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 4","Richmond",N,N,"",1,445,"Segal","","Zach","Conservative","Conservateur",N,N,81
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 5","Richmond",N,N,"",1,313,"Bains","","Parm","Liberal","Libéral",N,Y,60
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 5","Richmond",N,N,"",1,313,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 5","Richmond",N,N,"",1,313,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 5","Richmond",N,N,"",1,313,"Segal","","Zach","Conservative","Conservateur",N,N,76
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 6","Richmond",N,N,"",1,318,"Bains","","Parm","Liberal","Libéral",N,Y,68
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 6","Richmond",N,N,"",1,318,"Ji","","Steven","Green Party","Parti Vert",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 6","Richmond",N,N,"",1,318,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 6","Richmond",N,N,"",1,318,"Segal","","Zach","Conservative","Conservateur",N,N,75
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 7","Richmond",N,N,"",2,282,"Bains","","Parm","Liberal","Libéral",N,Y,72
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 7","Richmond",N,N,"",2,282,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 7","Richmond",N,N,"",2,282,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 7","Richmond",N,N,"",2,282,"Segal","","Zach","Conservative","Conservateur",N,N,37
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 8","Richmond",N,N,"",2,273,"Bains","","Parm","Liberal","Libéral",N,Y,59
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 8","Richmond",N,N,"",2,273,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 8","Richmond",N,N,"",2,273,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 8","Richmond",N,N,"",2,273,"Segal","","Zach","Conservative","Conservateur",N,N,44
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 9","Richmond",N,N,"",3,323,"Bains","","Parm","Liberal","Libéral",N,Y,77
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 9","Richmond",N,N,"",3,323,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 9","Richmond",N,N,"",3,323,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 9","Richmond",N,N,"",3,323,"Segal","","Zach","Conservative","Conservateur",N,N,70
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 10","Richmond",N,N,"",0,337,"Bains","","Parm","Liberal","Libéral",N,Y,39
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 10","Richmond",N,N,"",0,337,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 10","Richmond",N,N,"",0,337,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 10","Richmond",N,N,"",0,337,"Segal","","Zach","Conservative","Conservateur",N,N,69
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 11","Richmond",N,N,"",0,292,"Bains","","Parm","Liberal","Libéral",N,Y,33
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 11","Richmond",N,N,"",0,292,"Ji","","Steven","Green Party","Parti Vert",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 11","Richmond",N,N,"",0,292,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 11","Richmond",N,N,"",0,292,"Segal","","Zach","Conservative","Conservateur",N,N,64
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 12","Richmond",N,N,"",0,362,"Bains","","Parm","Liberal","Libéral",N,Y,43
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 12","Richmond",N,N,"",0,362,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 12","Richmond",N,N,"",0,362,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 12","Richmond",N,N,"",0,362,"Segal","","Zach","Conservative","Conservateur",N,N,48
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 13","Richmond",N,N,"",0,328,"Bains","","Parm","Liberal","Libéral",N,Y,30
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 13","Richmond",N,N,"",0,328,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 13","Richmond",N,N,"",0,328,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 13","Richmond",N,N,"",0,328,"Segal","","Zach","Conservative","Conservateur",N,N,54
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 14","Richmond",N,N,"",2,428,"Bains","","Parm","Liberal","Libéral",N,Y,55
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 14","Richmond",N,N,"",2,428,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 14","Richmond",N,N,"",2,428,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 14","Richmond",N,N,"",2,428,"Segal","","Zach","Conservative","Conservateur",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 15","Richmond",N,N,"",1,415,"Bains","","Parm","Liberal","Libéral",N,Y,46
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 15","Richmond",N,N,"",1,415,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 15","Richmond",N,N,"",1,415,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 15","Richmond",N,N,"",1,415,"Segal","","Zach","Conservative","Conservateur",N,N,65
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 16","Richmond",N,N,"",2,490,"Bains","","Parm","Liberal","Libéral",N,Y,92
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 16","Richmond",N,N,"",2,490,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 16","Richmond",N,N,"",2,490,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 16","Richmond",N,N,"",2,490,"Segal","","Zach","Conservative","Conservateur",N,N,107
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 17","Richmond",N,N,"",0,413,"Bains","","Parm","Liberal","Libéral",N,Y,57
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 17","Richmond",N,N,"",0,413,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 17","Richmond",N,N,"",0,413,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 17","Richmond",N,N,"",0,413,"Segal","","Zach","Conservative","Conservateur",N,N,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 18","Richmond",N,N,"",2,313,"Bains","","Parm","Liberal","Libéral",N,Y,56
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 18","Richmond",N,N,"",2,313,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 18","Richmond",N,N,"",2,313,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 18","Richmond",N,N,"",2,313,"Segal","","Zach","Conservative","Conservateur",N,N,64
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 19","Richmond",N,N,"",1,420,"Bains","","Parm","Liberal","Libéral",N,Y,82
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 19","Richmond",N,N,"",1,420,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 19","Richmond",N,N,"",1,420,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 19","Richmond",N,N,"",1,420,"Segal","","Zach","Conservative","Conservateur",N,N,76
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 20","Richmond",N,N,"",1,584,"Bains","","Parm","Liberal","Libéral",N,Y,116
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 20","Richmond",N,N,"",1,584,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 20","Richmond",N,N,"",1,584,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 20","Richmond",N,N,"",1,584,"Segal","","Zach","Conservative","Conservateur",N,N,112
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 21","Richmond",N,N,"",4,378,"Bains","","Parm","Liberal","Libéral",N,Y,69
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 21","Richmond",N,N,"",4,378,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 21","Richmond",N,N,"",4,378,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 21","Richmond",N,N,"",4,378,"Segal","","Zach","Conservative","Conservateur",N,N,80
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 22","Richmond",N,N,"",7,357,"Bains","","Parm","Liberal","Libéral",N,Y,83
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 22","Richmond",N,N,"",7,357,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 22","Richmond",N,N,"",7,357,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 22","Richmond",N,N,"",7,357,"Segal","","Zach","Conservative","Conservateur",N,N,75
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 23","Richmond",N,N,"",1,562,"Bains","","Parm","Liberal","Libéral",N,Y,128
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 23","Richmond",N,N,"",1,562,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 23","Richmond",N,N,"",1,562,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 23","Richmond",N,N,"",1,562,"Segal","","Zach","Conservative","Conservateur",N,N,58
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 24","Richmond",N,N,"",4,573,"Bains","","Parm","Liberal","Libéral",N,Y,128
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 24","Richmond",N,N,"",4,573,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 24","Richmond",N,N,"",4,573,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 24","Richmond",N,N,"",4,573,"Segal","","Zach","Conservative","Conservateur",N,N,117
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 25","Richmond",N,N,"",1,666,"Bains","","Parm","Liberal","Libéral",N,Y,155
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 25","Richmond",N,N,"",1,666,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 25","Richmond",N,N,"",1,666,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 25","Richmond",N,N,"",1,666,"Segal","","Zach","Conservative","Conservateur",N,N,142
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 26","Richmond",N,N,"",0,371,"Bains","","Parm","Liberal","Libéral",N,Y,83
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 26","Richmond",N,N,"",0,371,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 26","Richmond",N,N,"",0,371,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 26","Richmond",N,N,"",0,371,"Segal","","Zach","Conservative","Conservateur",N,N,64
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 27","Richmond",N,N,"",0,388,"Bains","","Parm","Liberal","Libéral",N,Y,73
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 27","Richmond",N,N,"",0,388,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 27","Richmond",N,N,"",0,388,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 27","Richmond",N,N,"",0,388,"Segal","","Zach","Conservative","Conservateur",N,N,69
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 28","Richmond",N,N,"",0,393,"Bains","","Parm","Liberal","Libéral",N,Y,109
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 28","Richmond",N,N,"",0,393,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 28","Richmond",N,N,"",0,393,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 28","Richmond",N,N,"",0,393,"Segal","","Zach","Conservative","Conservateur",N,N,90
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 29","Richmond",N,N,"",0,528,"Bains","","Parm","Liberal","Libéral",N,Y,137
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 29","Richmond",N,N,"",0,528,"Ji","","Steven","Green Party","Parti Vert",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 29","Richmond",N,N,"",0,528,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 29","Richmond",N,N,"",0,528,"Segal","","Zach","Conservative","Conservateur",N,N,90
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 30","Richmond",N,N,"",0,538,"Bains","","Parm","Liberal","Libéral",N,Y,121
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 30","Richmond",N,N,"",0,538,"Ji","","Steven","Green Party","Parti Vert",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 30","Richmond",N,N,"",0,538,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 30","Richmond",N,N,"",0,538,"Segal","","Zach","Conservative","Conservateur",N,N,100
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 31","Richmond",N,N,"",0,371,"Bains","","Parm","Liberal","Libéral",N,Y,85
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 31","Richmond",N,N,"",0,371,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 31","Richmond",N,N,"",0,371,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 31","Richmond",N,N,"",0,371,"Segal","","Zach","Conservative","Conservateur",N,N,53
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 32","Richmond",N,N,"",1,388,"Bains","","Parm","Liberal","Libéral",N,Y,88
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 32","Richmond",N,N,"",1,388,"Ji","","Steven","Green Party","Parti Vert",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 32","Richmond",N,N,"",1,388,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 32","Richmond",N,N,"",1,388,"Segal","","Zach","Conservative","Conservateur",N,N,64
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 33","Richmond",N,N,"",1,422,"Bains","","Parm","Liberal","Libéral",N,Y,126
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 33","Richmond",N,N,"",1,422,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 33","Richmond",N,N,"",1,422,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 33","Richmond",N,N,"",1,422,"Segal","","Zach","Conservative","Conservateur",N,N,81
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 34","Richmond",N,N,"",0,402,"Bains","","Parm","Liberal","Libéral",N,Y,112
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 34","Richmond",N,N,"",0,402,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 34","Richmond",N,N,"",0,402,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 34","Richmond",N,N,"",0,402,"Segal","","Zach","Conservative","Conservateur",N,N,63
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 35","Richmond",N,N,"",0,425,"Bains","","Parm","Liberal","Libéral",N,Y,100
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 35","Richmond",N,N,"",0,425,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 35","Richmond",N,N,"",0,425,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 35","Richmond",N,N,"",0,425,"Segal","","Zach","Conservative","Conservateur",N,N,63
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 36","Richmond",N,N,"",2,567,"Bains","","Parm","Liberal","Libéral",N,Y,62
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 36","Richmond",N,N,"",2,567,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 36","Richmond",N,N,"",2,567,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 36","Richmond",N,N,"",2,567,"Segal","","Zach","Conservative","Conservateur",N,N,102
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 37","Richmond",N,N,"",0,530,"Bains","","Parm","Liberal","Libéral",N,Y,46
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 37","Richmond",N,N,"",0,530,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 37","Richmond",N,N,"",0,530,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 37","Richmond",N,N,"",0,530,"Segal","","Zach","Conservative","Conservateur",N,N,57
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 38","Richmond",N,N,"",1,453,"Bains","","Parm","Liberal","Libéral",N,Y,28
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 38","Richmond",N,N,"",1,453,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 38","Richmond",N,N,"",1,453,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 38","Richmond",N,N,"",1,453,"Segal","","Zach","Conservative","Conservateur",N,N,63
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 39","Richmond",N,N,"",0,532,"Bains","","Parm","Liberal","Libéral",N,Y,50
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 39","Richmond",N,N,"",0,532,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 39","Richmond",N,N,"",0,532,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 39","Richmond",N,N,"",0,532,"Segal","","Zach","Conservative","Conservateur",N,N,84
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 40","Richmond",N,N,"",0,314,"Bains","","Parm","Liberal","Libéral",N,Y,33
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 40","Richmond",N,N,"",0,314,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 40","Richmond",N,N,"",0,314,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 40","Richmond",N,N,"",0,314,"Segal","","Zach","Conservative","Conservateur",N,N,53
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 41","Richmond",N,N,"",0,259,"Bains","","Parm","Liberal","Libéral",N,Y,22
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 41","Richmond",N,N,"",0,259,"Ji","","Steven","Green Party","Parti Vert",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 41","Richmond",N,N,"",0,259,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 41","Richmond",N,N,"",0,259,"Segal","","Zach","Conservative","Conservateur",N,N,34
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 42","Richmond",N,N,"",3,519,"Bains","","Parm","Liberal","Libéral",N,Y,91
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 42","Richmond",N,N,"",3,519,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 42","Richmond",N,N,"",3,519,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 42","Richmond",N,N,"",3,519,"Segal","","Zach","Conservative","Conservateur",N,N,76
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 43","Richmond",N,N,"",1,452,"Bains","","Parm","Liberal","Libéral",N,Y,57
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 43","Richmond",N,N,"",1,452,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 43","Richmond",N,N,"",1,452,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 43","Richmond",N,N,"",1,452,"Segal","","Zach","Conservative","Conservateur",N,N,67
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 44","Richmond",N,N,"",0,414,"Bains","","Parm","Liberal","Libéral",N,Y,43
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 44","Richmond",N,N,"",0,414,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 44","Richmond",N,N,"",0,414,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 44","Richmond",N,N,"",0,414,"Segal","","Zach","Conservative","Conservateur",N,N,58
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 45","Richmond",N,N,"",0,569,"Bains","","Parm","Liberal","Libéral",N,Y,69
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 45","Richmond",N,N,"",0,569,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 45","Richmond",N,N,"",0,569,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 45","Richmond",N,N,"",0,569,"Segal","","Zach","Conservative","Conservateur",N,N,99
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 46","Richmond",N,N,"",0,447,"Bains","","Parm","Liberal","Libéral",N,Y,43
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 46","Richmond",N,N,"",0,447,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 46","Richmond",N,N,"",0,447,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 46","Richmond",N,N,"",0,447,"Segal","","Zach","Conservative","Conservateur",N,N,38
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 47","Richmond",N,N,"",0,346,"Bains","","Parm","Liberal","Libéral",N,Y,30
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 47","Richmond",N,N,"",0,346,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 47","Richmond",N,N,"",0,346,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 47","Richmond",N,N,"",0,346,"Segal","","Zach","Conservative","Conservateur",N,N,36
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 48","Richmond",N,N,"",0,419,"Bains","","Parm","Liberal","Libéral",N,Y,64
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 48","Richmond",N,N,"",0,419,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 48","Richmond",N,N,"",0,419,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 48","Richmond",N,N,"",0,419,"Segal","","Zach","Conservative","Conservateur",N,N,53
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 49","Richmond",N,N,"",3,487,"Bains","","Parm","Liberal","Libéral",N,Y,102
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 49","Richmond",N,N,"",3,487,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 49","Richmond",N,N,"",3,487,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 49","Richmond",N,N,"",3,487,"Segal","","Zach","Conservative","Conservateur",N,N,73
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 50","Richmond",N,N,"",0,424,"Bains","","Parm","Liberal","Libéral",N,Y,74
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 50","Richmond",N,N,"",0,424,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 50","Richmond",N,N,"",0,424,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 50","Richmond",N,N,"",0,424,"Segal","","Zach","Conservative","Conservateur",N,N,90
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 51","Richmond",N,N,"",0,438,"Bains","","Parm","Liberal","Libéral",N,Y,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 51","Richmond",N,N,"",0,438,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 51","Richmond",N,N,"",0,438,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 51","Richmond",N,N,"",0,438,"Segal","","Zach","Conservative","Conservateur",N,N,96
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 52","Richmond",N,N,"",0,296,"Bains","","Parm","Liberal","Libéral",N,Y,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 52","Richmond",N,N,"",0,296,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 52","Richmond",N,N,"",0,296,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 52","Richmond",N,N,"",0,296,"Segal","","Zach","Conservative","Conservateur",N,N,82
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 53","Richmond",N,N,"",0,493,"Bains","","Parm","Liberal","Libéral",N,Y,64
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 53","Richmond",N,N,"",0,493,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 53","Richmond",N,N,"",0,493,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 53","Richmond",N,N,"",0,493,"Segal","","Zach","Conservative","Conservateur",N,N,80
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 54","Richmond",N,N,"",0,426,"Bains","","Parm","Liberal","Libéral",N,Y,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 54","Richmond",N,N,"",0,426,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 54","Richmond",N,N,"",0,426,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 54","Richmond",N,N,"",0,426,"Segal","","Zach","Conservative","Conservateur",N,N,68
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 55","Richmond",N,N,"",3,360,"Bains","","Parm","Liberal","Libéral",N,Y,73
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 55","Richmond",N,N,"",3,360,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 55","Richmond",N,N,"",3,360,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 55","Richmond",N,N,"",3,360,"Segal","","Zach","Conservative","Conservateur",N,N,87
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 56","Richmond",N,N,"",0,345,"Bains","","Parm","Liberal","Libéral",N,Y,34
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 56","Richmond",N,N,"",0,345,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 56","Richmond",N,N,"",0,345,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 56","Richmond",N,N,"",0,345,"Segal","","Zach","Conservative","Conservateur",N,N,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 57","Richmond",N,N,"",0,626,"Bains","","Parm","Liberal","Libéral",N,Y,84
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 57","Richmond",N,N,"",0,626,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 57","Richmond",N,N,"",0,626,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 57","Richmond",N,N,"",0,626,"Segal","","Zach","Conservative","Conservateur",N,N,98
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 58","Richmond",N,N,"",1,323,"Bains","","Parm","Liberal","Libéral",N,Y,39
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 58","Richmond",N,N,"",1,323,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 58","Richmond",N,N,"",1,323,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 58","Richmond",N,N,"",1,323,"Segal","","Zach","Conservative","Conservateur",N,N,49
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 59","Richmond",N,N,"",0,411,"Bains","","Parm","Liberal","Libéral",N,Y,66
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 59","Richmond",N,N,"",0,411,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 59","Richmond",N,N,"",0,411,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 59","Richmond",N,N,"",0,411,"Segal","","Zach","Conservative","Conservateur",N,N,51
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 60","Richmond",N,N,"",1,304,"Bains","","Parm","Liberal","Libéral",N,Y,50
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 60","Richmond",N,N,"",1,304,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 60","Richmond",N,N,"",1,304,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 60","Richmond",N,N,"",1,304,"Segal","","Zach","Conservative","Conservateur",N,N,50
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 61","Richmond",N,N,"",0,381,"Bains","","Parm","Liberal","Libéral",N,Y,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 61","Richmond",N,N,"",0,381,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 61","Richmond",N,N,"",0,381,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 61","Richmond",N,N,"",0,381,"Segal","","Zach","Conservative","Conservateur",N,N,78
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 62","Richmond",N,N,"",1,641,"Bains","","Parm","Liberal","Libéral",N,Y,69
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 62","Richmond",N,N,"",1,641,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 62","Richmond",N,N,"",1,641,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 62","Richmond",N,N,"",1,641,"Segal","","Zach","Conservative","Conservateur",N,N,121
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 63A","Richmond",N,N,"",0,479,"Bains","","Parm","Liberal","Libéral",N,Y,55
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 63A","Richmond",N,N,"",0,479,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 63A","Richmond",N,N,"",0,479,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 63A","Richmond",N,N,"",0,479,"Segal","","Zach","Conservative","Conservateur",N,N,89
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 63B","Richmond",N,N,"",2,340,"Bains","","Parm","Liberal","Libéral",N,Y,33
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 63B","Richmond",N,N,"",2,340,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 63B","Richmond",N,N,"",2,340,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 63B","Richmond",N,N,"",2,340,"Segal","","Zach","Conservative","Conservateur",N,N,77
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 64","Richmond",N,N,"",0,548,"Bains","","Parm","Liberal","Libéral",N,Y,63
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 64","Richmond",N,N,"",0,548,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 64","Richmond",N,N,"",0,548,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 64","Richmond",N,N,"",0,548,"Segal","","Zach","Conservative","Conservateur",N,N,98
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 65","Richmond",N,N,"",3,510,"Bains","","Parm","Liberal","Libéral",N,Y,81
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 65","Richmond",N,N,"",3,510,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 65","Richmond",N,N,"",3,510,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 65","Richmond",N,N,"",3,510,"Segal","","Zach","Conservative","Conservateur",N,N,99
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 66","Richmond",N,N,"",0,333,"Bains","","Parm","Liberal","Libéral",N,Y,47
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 66","Richmond",N,N,"",0,333,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 66","Richmond",N,N,"",0,333,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 66","Richmond",N,N,"",0,333,"Segal","","Zach","Conservative","Conservateur",N,N,57
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 67A","Richmond",N,N,"",3,546,"Bains","","Parm","Liberal","Libéral",N,Y,41
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 67A","Richmond",N,N,"",3,546,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 67A","Richmond",N,N,"",3,546,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 67A","Richmond",N,N,"",3,546,"Segal","","Zach","Conservative","Conservateur",N,N,64
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 67B","Richmond",N,N,"",0,428,"Bains","","Parm","Liberal","Libéral",N,Y,34
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 67B","Richmond",N,N,"",0,428,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 67B","Richmond",N,N,"",0,428,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 67B","Richmond",N,N,"",0,428,"Segal","","Zach","Conservative","Conservateur",N,N,63
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 68","Richmond",N,N,"",1,410,"Bains","","Parm","Liberal","Libéral",N,Y,44
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 68","Richmond",N,N,"",1,410,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 68","Richmond",N,N,"",1,410,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 68","Richmond",N,N,"",1,410,"Segal","","Zach","Conservative","Conservateur",N,N,51
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 69","Richmond",N,N,"",0,251,"Bains","","Parm","Liberal","Libéral",N,Y,27
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 69","Richmond",N,N,"",0,251,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 69","Richmond",N,N,"",0,251,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 69","Richmond",N,N,"",0,251,"Segal","","Zach","Conservative","Conservateur",N,N,32
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 70","Richmond",N,N,"",0,249,"Bains","","Parm","Liberal","Libéral",N,Y,44
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 70","Richmond",N,N,"",0,249,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 70","Richmond",N,N,"",0,249,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 70","Richmond",N,N,"",0,249,"Segal","","Zach","Conservative","Conservateur",N,N,32
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 71A","Richmond",N,N,"",0,423,"Bains","","Parm","Liberal","Libéral",N,Y,59
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 71A","Richmond",N,N,"",0,423,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 71A","Richmond",N,N,"",0,423,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 71A","Richmond",N,N,"",0,423,"Segal","","Zach","Conservative","Conservateur",N,N,67
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 71B","Richmond",N,N,"",1,328,"Bains","","Parm","Liberal","Libéral",N,Y,44
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 71B","Richmond",N,N,"",1,328,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 71B","Richmond",N,N,"",1,328,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 71B","Richmond",N,N,"",1,328,"Segal","","Zach","Conservative","Conservateur",N,N,49
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 72","Richmond",N,N,"",0,447,"Bains","","Parm","Liberal","Libéral",N,Y,45
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 72","Richmond",N,N,"",0,447,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 72","Richmond",N,N,"",0,447,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 72","Richmond",N,N,"",0,447,"Segal","","Zach","Conservative","Conservateur",N,N,57
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 73","Richmond",N,N,"",0,470,"Bains","","Parm","Liberal","Libéral",N,Y,65
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 73","Richmond",N,N,"",0,470,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 73","Richmond",N,N,"",0,470,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 73","Richmond",N,N,"",0,470,"Segal","","Zach","Conservative","Conservateur",N,N,109
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 74","Richmond",N,N,"",0,511,"Bains","","Parm","Liberal","Libéral",N,Y,80
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 74","Richmond",N,N,"",0,511,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 74","Richmond",N,N,"",0,511,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 74","Richmond",N,N,"",0,511,"Segal","","Zach","Conservative","Conservateur",N,N,139
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 75","Richmond",N,N,"",0,610,"Bains","","Parm","Liberal","Libéral",N,Y,75
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 75","Richmond",N,N,"",0,610,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 75","Richmond",N,N,"",0,610,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 75","Richmond",N,N,"",0,610,"Segal","","Zach","Conservative","Conservateur",N,N,156
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 76","Richmond",N,N,"",1,657,"Bains","","Parm","Liberal","Libéral",N,Y,83
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 76","Richmond",N,N,"",1,657,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 76","Richmond",N,N,"",1,657,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 76","Richmond",N,N,"",1,657,"Segal","","Zach","Conservative","Conservateur",N,N,156
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 77","Richmond",N,N,"",3,341,"Bains","","Parm","Liberal","Libéral",N,Y,44
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 77","Richmond",N,N,"",3,341,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 77","Richmond",N,N,"",3,341,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 77","Richmond",N,N,"",3,341,"Segal","","Zach","Conservative","Conservateur",N,N,59
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 78","Richmond",N,N,"",2,430,"Bains","","Parm","Liberal","Libéral",N,Y,79
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 78","Richmond",N,N,"",2,430,"Ji","","Steven","Green Party","Parti Vert",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 78","Richmond",N,N,"",2,430,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 78","Richmond",N,N,"",2,430,"Segal","","Zach","Conservative","Conservateur",N,N,107
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 79","Richmond",N,N,"",5,559,"Bains","","Parm","Liberal","Libéral",N,Y,100
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 79","Richmond",N,N,"",5,559,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 79","Richmond",N,N,"",5,559,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 79","Richmond",N,N,"",5,559,"Segal","","Zach","Conservative","Conservateur",N,N,140
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 80","Richmond",N,N,"",0,335,"Bains","","Parm","Liberal","Libéral",N,Y,57
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 80","Richmond",N,N,"",0,335,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 80","Richmond",N,N,"",0,335,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 80","Richmond",N,N,"",0,335,"Segal","","Zach","Conservative","Conservateur",N,N,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 81","Richmond",N,N,"",2,425,"Bains","","Parm","Liberal","Libéral",N,Y,55
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 81","Richmond",N,N,"",2,425,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 81","Richmond",N,N,"",2,425,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 81","Richmond",N,N,"",2,425,"Segal","","Zach","Conservative","Conservateur",N,N,86
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 82","Richmond",N,N,"",1,506,"Bains","","Parm","Liberal","Libéral",N,Y,99
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 82","Richmond",N,N,"",1,506,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 82","Richmond",N,N,"",1,506,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 82","Richmond",N,N,"",1,506,"Segal","","Zach","Conservative","Conservateur",N,N,74
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 83","Richmond",N,N,"",0,496,"Bains","","Parm","Liberal","Libéral",N,Y,67
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 83","Richmond",N,N,"",0,496,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 83","Richmond",N,N,"",0,496,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 83","Richmond",N,N,"",0,496,"Segal","","Zach","Conservative","Conservateur",N,N,64
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 84","Richmond",N,N,"",2,612,"Bains","","Parm","Liberal","Libéral",N,Y,119
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 84","Richmond",N,N,"",2,612,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 84","Richmond",N,N,"",2,612,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 84","Richmond",N,N,"",2,612,"Segal","","Zach","Conservative","Conservateur",N,N,117
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 85","Richmond",N,N,"",0,334,"Bains","","Parm","Liberal","Libéral",N,Y,46
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 85","Richmond",N,N,"",0,334,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 85","Richmond",N,N,"",0,334,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 85","Richmond",N,N,"",0,334,"Segal","","Zach","Conservative","Conservateur",N,N,77
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 86","Richmond",N,N,"",0,385,"Bains","","Parm","Liberal","Libéral",N,Y,51
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 86","Richmond",N,N,"",0,385,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 86","Richmond",N,N,"",0,385,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 86","Richmond",N,N,"",0,385,"Segal","","Zach","Conservative","Conservateur",N,N,55
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 87","Richmond",N,N,"",0,381,"Bains","","Parm","Liberal","Libéral",N,Y,34
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 87","Richmond",N,N,"",0,381,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 87","Richmond",N,N,"",0,381,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 87","Richmond",N,N,"",0,381,"Segal","","Zach","Conservative","Conservateur",N,N,59
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 88","Richmond",N,N,"",3,385,"Bains","","Parm","Liberal","Libéral",N,Y,45
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 88","Richmond",N,N,"",3,385,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 88","Richmond",N,N,"",3,385,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 88","Richmond",N,N,"",3,385,"Segal","","Zach","Conservative","Conservateur",N,N,90
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 89","Richmond",N,N,"",0,386,"Bains","","Parm","Liberal","Libéral",N,Y,47
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 89","Richmond",N,N,"",0,386,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 89","Richmond",N,N,"",0,386,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 89","Richmond",N,N,"",0,386,"Segal","","Zach","Conservative","Conservateur",N,N,73
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 90","Richmond",N,N,"",1,388,"Bains","","Parm","Liberal","Libéral",N,Y,50
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 90","Richmond",N,N,"",1,388,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 90","Richmond",N,N,"",1,388,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 90","Richmond",N,N,"",1,388,"Segal","","Zach","Conservative","Conservateur",N,N,77
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 91","Richmond",N,N,"",0,447,"Bains","","Parm","Liberal","Libéral",N,Y,44
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 91","Richmond",N,N,"",0,447,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 91","Richmond",N,N,"",0,447,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 91","Richmond",N,N,"",0,447,"Segal","","Zach","Conservative","Conservateur",N,N,97
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 92","Richmond",N,N,"",0,268,"Bains","","Parm","Liberal","Libéral",N,Y,21
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 92","Richmond",N,N,"",0,268,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 92","Richmond",N,N,"",0,268,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 92","Richmond",N,N,"",0,268,"Segal","","Zach","Conservative","Conservateur",N,N,43
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 93","Richmond",N,N,"",1,306,"Bains","","Parm","Liberal","Libéral",N,Y,27
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 93","Richmond",N,N,"",1,306,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 93","Richmond",N,N,"",1,306,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 93","Richmond",N,N,"",1,306,"Segal","","Zach","Conservative","Conservateur",N,N,62
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 94","Richmond",N,N,"",0,396,"Bains","","Parm","Liberal","Libéral",N,Y,47
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 94","Richmond",N,N,"",0,396,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 94","Richmond",N,N,"",0,396,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 94","Richmond",N,N,"",0,396,"Segal","","Zach","Conservative","Conservateur",N,N,58
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 95","Richmond",N,N,"",0,269,"Bains","","Parm","Liberal","Libéral",N,Y,31
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 95","Richmond",N,N,"",0,269,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 95","Richmond",N,N,"",0,269,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 95","Richmond",N,N,"",0,269,"Segal","","Zach","Conservative","Conservateur",N,N,31
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 96","Richmond",N,N,"",0,389,"Bains","","Parm","Liberal","Libéral",N,Y,49
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 96","Richmond",N,N,"",0,389,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 96","Richmond",N,N,"",0,389,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 96","Richmond",N,N,"",0,389,"Segal","","Zach","Conservative","Conservateur",N,N,69
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 97","Richmond",N,N,"",1,388,"Bains","","Parm","Liberal","Libéral",N,Y,44
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 97","Richmond",N,N,"",1,388,"Ji","","Steven","Green Party","Parti Vert",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 97","Richmond",N,N,"",1,388,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 97","Richmond",N,N,"",1,388,"Segal","","Zach","Conservative","Conservateur",N,N,96
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 98","Richmond",N,N,"",1,374,"Bains","","Parm","Liberal","Libéral",N,Y,48
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 98","Richmond",N,N,"",1,374,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 98","Richmond",N,N,"",1,374,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 98","Richmond",N,N,"",1,374,"Segal","","Zach","Conservative","Conservateur",N,N,60
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 99","Richmond",N,N,"",4,519,"Bains","","Parm","Liberal","Libéral",N,Y,76
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 99","Richmond",N,N,"",4,519,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 99","Richmond",N,N,"",4,519,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 99","Richmond",N,N,"",4,519,"Segal","","Zach","Conservative","Conservateur",N,N,99
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 100","Richmond",N,N,"",0,362,"Bains","","Parm","Liberal","Libéral",N,Y,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 100","Richmond",N,N,"",0,362,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 100","Richmond",N,N,"",0,362,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 100","Richmond",N,N,"",0,362,"Segal","","Zach","Conservative","Conservateur",N,N,72
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 101","Richmond",N,N,"",0,337,"Bains","","Parm","Liberal","Libéral",N,Y,56
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 101","Richmond",N,N,"",0,337,"Ji","","Steven","Green Party","Parti Vert",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 101","Richmond",N,N,"",0,337,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 101","Richmond",N,N,"",0,337,"Segal","","Zach","Conservative","Conservateur",N,N,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 102","Richmond",N,N,"",0,402,"Bains","","Parm","Liberal","Libéral",N,Y,51
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 102","Richmond",N,N,"",0,402,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 102","Richmond",N,N,"",0,402,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 102","Richmond",N,N,"",0,402,"Segal","","Zach","Conservative","Conservateur",N,N,53
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 103","Richmond",N,N,"",1,457,"Bains","","Parm","Liberal","Libéral",N,Y,65
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 103","Richmond",N,N,"",1,457,"Ji","","Steven","Green Party","Parti Vert",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 103","Richmond",N,N,"",1,457,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 103","Richmond",N,N,"",1,457,"Segal","","Zach","Conservative","Conservateur",N,N,81
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 104","Richmond",N,N,"",1,537,"Bains","","Parm","Liberal","Libéral",N,Y,132
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 104","Richmond",N,N,"",1,537,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 104","Richmond",N,N,"",1,537,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 104","Richmond",N,N,"",1,537,"Segal","","Zach","Conservative","Conservateur",N,N,83
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 105","Richmond",N,N,"",3,386,"Bains","","Parm","Liberal","Libéral",N,Y,81
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 105","Richmond",N,N,"",3,386,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 105","Richmond",N,N,"",3,386,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 105","Richmond",N,N,"",3,386,"Segal","","Zach","Conservative","Conservateur",N,N,80
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 106","Richmond",N,N,"",0,338,"Bains","","Parm","Liberal","Libéral",N,Y,90
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 106","Richmond",N,N,"",0,338,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 106","Richmond",N,N,"",0,338,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 106","Richmond",N,N,"",0,338,"Segal","","Zach","Conservative","Conservateur",N,N,62
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 107","Richmond",N,N,"",0,390,"Bains","","Parm","Liberal","Libéral",N,Y,82
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 107","Richmond",N,N,"",0,390,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 107","Richmond",N,N,"",0,390,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 107","Richmond",N,N,"",0,390,"Segal","","Zach","Conservative","Conservateur",N,N,76
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 108","Richmond",N,N,"",0,316,"Bains","","Parm","Liberal","Libéral",N,Y,71
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 108","Richmond",N,N,"",0,316,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 108","Richmond",N,N,"",0,316,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 108","Richmond",N,N,"",0,316,"Segal","","Zach","Conservative","Conservateur",N,N,58
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 109","Richmond",N,N,"",1,270,"Bains","","Parm","Liberal","Libéral",N,Y,59
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 109","Richmond",N,N,"",1,270,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 109","Richmond",N,N,"",1,270,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 109","Richmond",N,N,"",1,270,"Segal","","Zach","Conservative","Conservateur",N,N,48
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 110","Richmond",N,N,"",3,266,"Bains","","Parm","Liberal","Libéral",N,Y,61
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 110","Richmond",N,N,"",3,266,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 110","Richmond",N,N,"",3,266,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 110","Richmond",N,N,"",3,266,"Segal","","Zach","Conservative","Conservateur",N,N,56
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 111","Richmond",N,N,"",0,436,"Bains","","Parm","Liberal","Libéral",N,Y,87
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 111","Richmond",N,N,"",0,436,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 111","Richmond",N,N,"",0,436,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 111","Richmond",N,N,"",0,436,"Segal","","Zach","Conservative","Conservateur",N,N,91
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 112","Richmond",N,N,"",2,465,"Bains","","Parm","Liberal","Libéral",N,Y,82
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 112","Richmond",N,N,"",2,465,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 112","Richmond",N,N,"",2,465,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 112","Richmond",N,N,"",2,465,"Segal","","Zach","Conservative","Conservateur",N,N,110
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 113","Richmond",N,N,"",0,470,"Bains","","Parm","Liberal","Libéral",N,Y,101
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 113","Richmond",N,N,"",0,470,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 113","Richmond",N,N,"",0,470,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 113","Richmond",N,N,"",0,470,"Segal","","Zach","Conservative","Conservateur",N,N,94
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 114","Richmond",N,N,"",0,369,"Bains","","Parm","Liberal","Libéral",N,Y,85
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 114","Richmond",N,N,"",0,369,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 114","Richmond",N,N,"",0,369,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 114","Richmond",N,N,"",0,369,"Segal","","Zach","Conservative","Conservateur",N,N,61
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 115","Richmond",N,N,"",0,423,"Bains","","Parm","Liberal","Libéral",N,Y,68
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 115","Richmond",N,N,"",0,423,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 115","Richmond",N,N,"",0,423,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 115","Richmond",N,N,"",0,423,"Segal","","Zach","Conservative","Conservateur",N,N,77
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 116","Richmond",N,N,"",0,398,"Bains","","Parm","Liberal","Libéral",N,Y,91
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 116","Richmond",N,N,"",0,398,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 116","Richmond",N,N,"",0,398,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 116","Richmond",N,N,"",0,398,"Segal","","Zach","Conservative","Conservateur",N,N,87
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 117","Richmond",N,N,"",0,285,"Bains","","Parm","Liberal","Libéral",N,Y,65
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 117","Richmond",N,N,"",0,285,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 117","Richmond",N,N,"",0,285,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 117","Richmond",N,N,"",0,285,"Segal","","Zach","Conservative","Conservateur",N,N,48
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 118","Richmond",N,N,"",1,541,"Bains","","Parm","Liberal","Libéral",N,Y,91
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 118","Richmond",N,N,"",1,541,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 118","Richmond",N,N,"",1,541,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 118","Richmond",N,N,"",1,541,"Segal","","Zach","Conservative","Conservateur",N,N,97
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 119","Richmond",N,N,"",0,390,"Bains","","Parm","Liberal","Libéral",N,Y,70
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 119","Richmond",N,N,"",0,390,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 119","Richmond",N,N,"",0,390,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 119","Richmond",N,N,"",0,390,"Segal","","Zach","Conservative","Conservateur",N,N,38
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 120","Richmond",N,N,"",1,411,"Bains","","Parm","Liberal","Libéral",N,Y,100
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 120","Richmond",N,N,"",1,411,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 120","Richmond",N,N,"",1,411,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 120","Richmond",N,N,"",1,411,"Segal","","Zach","Conservative","Conservateur",N,N,88
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 121","Richmond",N,N,"",0,342,"Bains","","Parm","Liberal","Libéral",N,Y,62
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 121","Richmond",N,N,"",0,342,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 121","Richmond",N,N,"",0,342,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 121","Richmond",N,N,"",0,342,"Segal","","Zach","Conservative","Conservateur",N,N,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 122","Richmond",N,N,"",2,294,"Bains","","Parm","Liberal","Libéral",N,Y,73
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 122","Richmond",N,N,"",2,294,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 122","Richmond",N,N,"",2,294,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 122","Richmond",N,N,"",2,294,"Segal","","Zach","Conservative","Conservateur",N,N,85
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 123","Richmond",N,N,"",0,446,"Bains","","Parm","Liberal","Libéral",N,Y,140
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 123","Richmond",N,N,"",0,446,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 123","Richmond",N,N,"",0,446,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 123","Richmond",N,N,"",0,446,"Segal","","Zach","Conservative","Conservateur",N,N,73
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 124","Richmond",N,N,"",1,372,"Bains","","Parm","Liberal","Libéral",N,Y,83
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 124","Richmond",N,N,"",1,372,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 124","Richmond",N,N,"",1,372,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 124","Richmond",N,N,"",1,372,"Segal","","Zach","Conservative","Conservateur",N,N,56
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 125","Richmond",N,N,"",0,369,"Bains","","Parm","Liberal","Libéral",N,Y,40
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 125","Richmond",N,N,"",0,369,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 125","Richmond",N,N,"",0,369,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 125","Richmond",N,N,"",0,369,"Segal","","Zach","Conservative","Conservateur",N,N,63
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 126","Richmond",N,N,"",2,468,"Bains","","Parm","Liberal","Libéral",N,Y,80
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 126","Richmond",N,N,"",2,468,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 126","Richmond",N,N,"",2,468,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 126","Richmond",N,N,"",2,468,"Segal","","Zach","Conservative","Conservateur",N,N,90
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 127","Richmond",N,N,"",1,440,"Bains","","Parm","Liberal","Libéral",N,Y,60
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 127","Richmond",N,N,"",1,440,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 127","Richmond",N,N,"",1,440,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 127","Richmond",N,N,"",1,440,"Segal","","Zach","Conservative","Conservateur",N,N,73
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 128","Richmond",N,N,"",0,400,"Bains","","Parm","Liberal","Libéral",N,Y,57
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 128","Richmond",N,N,"",0,400,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 128","Richmond",N,N,"",0,400,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 128","Richmond",N,N,"",0,400,"Segal","","Zach","Conservative","Conservateur",N,N,45
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 129","Richmond",N,N,"",2,631,"Bains","","Parm","Liberal","Libéral",N,Y,63
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 129","Richmond",N,N,"",2,631,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 129","Richmond",N,N,"",2,631,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 129","Richmond",N,N,"",2,631,"Segal","","Zach","Conservative","Conservateur",N,N,115
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 130","Richmond",N,N,"",0,444,"Bains","","Parm","Liberal","Libéral",N,Y,76
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 130","Richmond",N,N,"",0,444,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 130","Richmond",N,N,"",0,444,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 130","Richmond",N,N,"",0,444,"Segal","","Zach","Conservative","Conservateur",N,N,73
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 131","Richmond",N,N,"",1,397,"Bains","","Parm","Liberal","Libéral",N,Y,65
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 131","Richmond",N,N,"",1,397,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 131","Richmond",N,N,"",1,397,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 131","Richmond",N,N,"",1,397,"Segal","","Zach","Conservative","Conservateur",N,N,61
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 132","Richmond",N,N,"",0,468,"Bains","","Parm","Liberal","Libéral",N,Y,48
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 132","Richmond",N,N,"",0,468,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 132","Richmond",N,N,"",0,468,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 132","Richmond",N,N,"",0,468,"Segal","","Zach","Conservative","Conservateur",N,N,96
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 133","Richmond",N,N,"",2,443,"Bains","","Parm","Liberal","Libéral",N,Y,56
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 133","Richmond",N,N,"",2,443,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 133","Richmond",N,N,"",2,443,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 133","Richmond",N,N,"",2,443,"Segal","","Zach","Conservative","Conservateur",N,N,95
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 134","Richmond",N,N,"",1,446,"Bains","","Parm","Liberal","Libéral",N,Y,81
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 134","Richmond",N,N,"",1,446,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 134","Richmond",N,N,"",1,446,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 134","Richmond",N,N,"",1,446,"Segal","","Zach","Conservative","Conservateur",N,N,97
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 135","Richmond",N,N,"",1,349,"Bains","","Parm","Liberal","Libéral",N,Y,81
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 135","Richmond",N,N,"",1,349,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 135","Richmond",N,N,"",1,349,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 135","Richmond",N,N,"",1,349,"Segal","","Zach","Conservative","Conservateur",N,N,86
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 136","Richmond",N,N,"",0,415,"Bains","","Parm","Liberal","Libéral",N,Y,47
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 136","Richmond",N,N,"",0,415,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 136","Richmond",N,N,"",0,415,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 136","Richmond",N,N,"",0,415,"Segal","","Zach","Conservative","Conservateur",N,N,76
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 137","Richmond",N,N,"",5,457,"Bains","","Parm","Liberal","Libéral",N,Y,100
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 137","Richmond",N,N,"",5,457,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 137","Richmond",N,N,"",5,457,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 137","Richmond",N,N,"",5,457,"Segal","","Zach","Conservative","Conservateur",N,N,76
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 138","Richmond",N,N,"",2,353,"Bains","","Parm","Liberal","Libéral",N,Y,90
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 138","Richmond",N,N,"",2,353,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 138","Richmond",N,N,"",2,353,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 138","Richmond",N,N,"",2,353,"Segal","","Zach","Conservative","Conservateur",N,N,72
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 139","Richmond",N,N,"",7,441,"Bains","","Parm","Liberal","Libéral",N,Y,129
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 139","Richmond",N,N,"",7,441,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 139","Richmond",N,N,"",7,441,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 139","Richmond",N,N,"",7,441,"Segal","","Zach","Conservative","Conservateur",N,N,82
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 140","Richmond",N,N,"",0,714,"Bains","","Parm","Liberal","Libéral",N,Y,119
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 140","Richmond",N,N,"",0,714,"Ji","","Steven","Green Party","Parti Vert",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 140","Richmond",N,N,"",0,714,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 140","Richmond",N,N,"",0,714,"Segal","","Zach","Conservative","Conservateur",N,N,140
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 141","Richmond",N,N,"",12,458,"Bains","","Parm","Liberal","Libéral",N,Y,104
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 141","Richmond",N,N,"",12,458,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 141","Richmond",N,N,"",12,458,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 141","Richmond",N,N,"",12,458,"Segal","","Zach","Conservative","Conservateur",N,N,69
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 142","Richmond",N,N,"",0,407,"Bains","","Parm","Liberal","Libéral",N,Y,39
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 142","Richmond",N,N,"",0,407,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 142","Richmond",N,N,"",0,407,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 142","Richmond",N,N,"",0,407,"Segal","","Zach","Conservative","Conservateur",N,N,66
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 143","Richmond",N,N,"",0,464,"Bains","","Parm","Liberal","Libéral",N,Y,44
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 143","Richmond",N,N,"",0,464,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 143","Richmond",N,N,"",0,464,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 143","Richmond",N,N,"",0,464,"Segal","","Zach","Conservative","Conservateur",N,N,50
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 144","Richmond",N,N,"",1,480,"Bains","","Parm","Liberal","Libéral",N,Y,70
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 144","Richmond",N,N,"",1,480,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 144","Richmond",N,N,"",1,480,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 144","Richmond",N,N,"",1,480,"Segal","","Zach","Conservative","Conservateur",N,N,64
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 145","Richmond",N,N,"",0,558,"Bains","","Parm","Liberal","Libéral",N,Y,73
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 145","Richmond",N,N,"",0,558,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 145","Richmond",N,N,"",0,558,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 145","Richmond",N,N,"",0,558,"Segal","","Zach","Conservative","Conservateur",N,N,109
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 146","Richmond",N,N,"",0,440,"Bains","","Parm","Liberal","Libéral",N,Y,53
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 146","Richmond",N,N,"",0,440,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 146","Richmond",N,N,"",0,440,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 146","Richmond",N,N,"",0,440,"Segal","","Zach","Conservative","Conservateur",N,N,64
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 147","Richmond",N,N,"",0,516,"Bains","","Parm","Liberal","Libéral",N,Y,58
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 147","Richmond",N,N,"",0,516,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 147","Richmond",N,N,"",0,516,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 147","Richmond",N,N,"",0,516,"Segal","","Zach","Conservative","Conservateur",N,N,67
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 148","Richmond",N,N,"",1,427,"Bains","","Parm","Liberal","Libéral",N,Y,53
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 148","Richmond",N,N,"",1,427,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 148","Richmond",N,N,"",1,427,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 148","Richmond",N,N,"",1,427,"Segal","","Zach","Conservative","Conservateur",N,N,53
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 149","Richmond",N,N,"",0,619,"Bains","","Parm","Liberal","Libéral",N,Y,68
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 149","Richmond",N,N,"",0,619,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 149","Richmond",N,N,"",0,619,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 149","Richmond",N,N,"",0,619,"Segal","","Zach","Conservative","Conservateur",N,N,96
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 150","Richmond",N,N,"",1,495,"Bains","","Parm","Liberal","Libéral",N,Y,72
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 150","Richmond",N,N,"",1,495,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 150","Richmond",N,N,"",1,495,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 150","Richmond",N,N,"",1,495,"Segal","","Zach","Conservative","Conservateur",N,N,67
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 151","Richmond",N,N,"",0,310,"Bains","","Parm","Liberal","Libéral",N,Y,51
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 151","Richmond",N,N,"",0,310,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 151","Richmond",N,N,"",0,310,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 151","Richmond",N,N,"",0,310,"Segal","","Zach","Conservative","Conservateur",N,N,58
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 152","Richmond",N,N,"",0,440,"Bains","","Parm","Liberal","Libéral",N,Y,78
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 152","Richmond",N,N,"",0,440,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 152","Richmond",N,N,"",0,440,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 152","Richmond",N,N,"",0,440,"Segal","","Zach","Conservative","Conservateur",N,N,86
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 153","Richmond",N,N,"",1,430,"Bains","","Parm","Liberal","Libéral",N,Y,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 153","Richmond",N,N,"",1,430,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 153","Richmond",N,N,"",1,430,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 153","Richmond",N,N,"",1,430,"Segal","","Zach","Conservative","Conservateur",N,N,88
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 154","Richmond",N,N,"",1,478,"Bains","","Parm","Liberal","Libéral",N,Y,127
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 154","Richmond",N,N,"",1,478,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 154","Richmond",N,N,"",1,478,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 154","Richmond",N,N,"",1,478,"Segal","","Zach","Conservative","Conservateur",N,N,82
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 155","Richmond",N,N,"",0,469,"Bains","","Parm","Liberal","Libéral",N,Y,80
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 155","Richmond",N,N,"",0,469,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 155","Richmond",N,N,"",0,469,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 155","Richmond",N,N,"",0,469,"Segal","","Zach","Conservative","Conservateur",N,N,94
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 156","Richmond",N,N,"",0,566,"Bains","","Parm","Liberal","Libéral",N,Y,91
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 156","Richmond",N,N,"",0,566,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 156","Richmond",N,N,"",0,566,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 156","Richmond",N,N,"",0,566,"Segal","","Zach","Conservative","Conservateur",N,N,120
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 157","Richmond",N,N,"",1,431,"Bains","","Parm","Liberal","Libéral",N,Y,130
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 157","Richmond",N,N,"",1,431,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 157","Richmond",N,N,"",1,431,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 157","Richmond",N,N,"",1,431,"Segal","","Zach","Conservative","Conservateur",N,N,85
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 158","Richmond",N,N,"",0,388,"Bains","","Parm","Liberal","Libéral",N,Y,43
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 158","Richmond",N,N,"",0,388,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 158","Richmond",N,N,"",0,388,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 158","Richmond",N,N,"",0,388,"Segal","","Zach","Conservative","Conservateur",N,N,61
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 159","Richmond",N,N,"",0,287,"Bains","","Parm","Liberal","Libéral",N,Y,59
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 159","Richmond",N,N,"",0,287,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 159","Richmond",N,N,"",0,287,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 159","Richmond",N,N,"",0,287,"Segal","","Zach","Conservative","Conservateur",N,N,61
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 160","Richmond",N,N,"",1,453,"Bains","","Parm","Liberal","Libéral",N,Y,114
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 160","Richmond",N,N,"",1,453,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 160","Richmond",N,N,"",1,453,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 160","Richmond",N,N,"",1,453,"Segal","","Zach","Conservative","Conservateur",N,N,97
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 161","Richmond",N,N,"",1,469,"Bains","","Parm","Liberal","Libéral",N,Y,83
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 161","Richmond",N,N,"",1,469,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 161","Richmond",N,N,"",1,469,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 161","Richmond",N,N,"",1,469,"Segal","","Zach","Conservative","Conservateur",N,N,103
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 162","Richmond",N,N,"",0,423,"Bains","","Parm","Liberal","Libéral",N,Y,109
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 162","Richmond",N,N,"",0,423,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 162","Richmond",N,N,"",0,423,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 162","Richmond",N,N,"",0,423,"Segal","","Zach","Conservative","Conservateur",N,N,70
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 163","Richmond",N,N,"",1,313,"Bains","","Parm","Liberal","Libéral",N,Y,35
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 163","Richmond",N,N,"",1,313,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 163","Richmond",N,N,"",1,313,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 163","Richmond",N,N,"",1,313,"Segal","","Zach","Conservative","Conservateur",N,N,32
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 164","Richmond",N,N,"",0,635,"Bains","","Parm","Liberal","Libéral",N,Y,111
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 164","Richmond",N,N,"",0,635,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 164","Richmond",N,N,"",0,635,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 164","Richmond",N,N,"",0,635,"Segal","","Zach","Conservative","Conservateur",N,N,126
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 165","Richmond",N,N,"",1,386,"Bains","","Parm","Liberal","Libéral",N,Y,83
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 165","Richmond",N,N,"",1,386,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 165","Richmond",N,N,"",1,386,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 165","Richmond",N,N,"",1,386,"Segal","","Zach","Conservative","Conservateur",N,N,55
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 166","Richmond",N,N,"",7,463,"Bains","","Parm","Liberal","Libéral",N,Y,102
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 166","Richmond",N,N,"",7,463,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 166","Richmond",N,N,"",7,463,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 166","Richmond",N,N,"",7,463,"Segal","","Zach","Conservative","Conservateur",N,N,42
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 167","Richmond",N,N,"",2,537,"Bains","","Parm","Liberal","Libéral",N,Y,48
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 167","Richmond",N,N,"",2,537,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 167","Richmond",N,N,"",2,537,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 167","Richmond",N,N,"",2,537,"Segal","","Zach","Conservative","Conservateur",N,N,88
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 168","Richmond",N,N,"",0,680,"Bains","","Parm","Liberal","Libéral",N,Y,129
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 168","Richmond",N,N,"",0,680,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 168","Richmond",N,N,"",0,680,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 168","Richmond",N,N,"",0,680,"Segal","","Zach","Conservative","Conservateur",N,N,87
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 169","Richmond",N,N,"",2,333,"Bains","","Parm","Liberal","Libéral",N,Y,65
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 169","Richmond",N,N,"",2,333,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 169","Richmond",N,N,"",2,333,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 169","Richmond",N,N,"",2,333,"Segal","","Zach","Conservative","Conservateur",N,N,66
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 170","Richmond",N,N,"",0,397,"Bains","","Parm","Liberal","Libéral",N,Y,82
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 170","Richmond",N,N,"",0,397,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 170","Richmond",N,N,"",0,397,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 170","Richmond",N,N,"",0,397,"Segal","","Zach","Conservative","Conservateur",N,N,67
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 171","Richmond",N,N,"",0,420,"Bains","","Parm","Liberal","Libéral",N,Y,82
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 171","Richmond",N,N,"",0,420,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 171","Richmond",N,N,"",0,420,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 171","Richmond",N,N,"",0,420,"Segal","","Zach","Conservative","Conservateur",N,N,87
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 172","Richmond",N,N,"",2,390,"Bains","","Parm","Liberal","Libéral",N,Y,67
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 172","Richmond",N,N,"",2,390,"Ji","","Steven","Green Party","Parti Vert",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 172","Richmond",N,N,"",2,390,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 172","Richmond",N,N,"",2,390,"Segal","","Zach","Conservative","Conservateur",N,N,84
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 173","Richmond",N,N,"",0,316,"Bains","","Parm","Liberal","Libéral",N,Y,61
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 173","Richmond",N,N,"",0,316,"Ji","","Steven","Green Party","Parti Vert",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 173","Richmond",N,N,"",0,316,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 173","Richmond",N,N,"",0,316,"Segal","","Zach","Conservative","Conservateur",N,N,51
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 174","Richmond",N,N,"",1,389,"Bains","","Parm","Liberal","Libéral",N,Y,35
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 174","Richmond",N,N,"",1,389,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 174","Richmond",N,N,"",1,389,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 174","Richmond",N,N,"",1,389,"Segal","","Zach","Conservative","Conservateur",N,N,79
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 175","Richmond",N,N,"",0,341,"Bains","","Parm","Liberal","Libéral",N,Y,49
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 175","Richmond",N,N,"",0,341,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 175","Richmond",N,N,"",0,341,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 175","Richmond",N,N,"",0,341,"Segal","","Zach","Conservative","Conservateur",N,N,50
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 176","Richmond",N,N,"",2,398,"Bains","","Parm","Liberal","Libéral",N,Y,55
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 176","Richmond",N,N,"",2,398,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 176","Richmond",N,N,"",2,398,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 176","Richmond",N,N,"",2,398,"Segal","","Zach","Conservative","Conservateur",N,N,53
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 177","Richmond",N,N,"",0,378,"Bains","","Parm","Liberal","Libéral",N,Y,44
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 177","Richmond",N,N,"",0,378,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 177","Richmond",N,N,"",0,378,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 177","Richmond",N,N,"",0,378,"Segal","","Zach","Conservative","Conservateur",N,N,39
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 178","Richmond",N,N,"",4,458,"Bains","","Parm","Liberal","Libéral",N,Y,83
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 178","Richmond",N,N,"",4,458,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 178","Richmond",N,N,"",4,458,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 178","Richmond",N,N,"",4,458,"Segal","","Zach","Conservative","Conservateur",N,N,101
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 179","Richmond",N,N,"",0,313,"Bains","","Parm","Liberal","Libéral",N,Y,88
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 179","Richmond",N,N,"",0,313,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 179","Richmond",N,N,"",0,313,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 179","Richmond",N,N,"",0,313,"Segal","","Zach","Conservative","Conservateur",N,N,60
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 180","Richmond",N,N,"",4,310,"Bains","","Parm","Liberal","Libéral",N,Y,102
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 180","Richmond",N,N,"",4,310,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 180","Richmond",N,N,"",4,310,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 180","Richmond",N,N,"",4,310,"Segal","","Zach","Conservative","Conservateur",N,N,81
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 181","Richmond",N,N,"",0,391,"Bains","","Parm","Liberal","Libéral",N,Y,99
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 181","Richmond",N,N,"",0,391,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 181","Richmond",N,N,"",0,391,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 181","Richmond",N,N,"",0,391,"Segal","","Zach","Conservative","Conservateur",N,N,80
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 182","Richmond",N,N,"",0,478,"Bains","","Parm","Liberal","Libéral",N,Y,93
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 182","Richmond",N,N,"",0,478,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 182","Richmond",N,N,"",0,478,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 182","Richmond",N,N,"",0,478,"Segal","","Zach","Conservative","Conservateur",N,N,99
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 183","Richmond",N,N,"",1,463,"Bains","","Parm","Liberal","Libéral",N,Y,75
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 183","Richmond",N,N,"",1,463,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 183","Richmond",N,N,"",1,463,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 183","Richmond",N,N,"",1,463,"Segal","","Zach","Conservative","Conservateur",N,N,84
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 184","Richmond",N,N,"",2,460,"Bains","","Parm","Liberal","Libéral",N,Y,39
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 184","Richmond",N,N,"",2,460,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 184","Richmond",N,N,"",2,460,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 184","Richmond",N,N,"",2,460,"Segal","","Zach","Conservative","Conservateur",N,N,61
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 185","Richmond",N,N,"",1,428,"Bains","","Parm","Liberal","Libéral",N,Y,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 185","Richmond",N,N,"",1,428,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 185","Richmond",N,N,"",1,428,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 185","Richmond",N,N,"",1,428,"Segal","","Zach","Conservative","Conservateur",N,N,48
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 186","Richmond",N,N,"",0,448,"Bains","","Parm","Liberal","Libéral",N,Y,50
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 186","Richmond",N,N,"",0,448,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 186","Richmond",N,N,"",0,448,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 186","Richmond",N,N,"",0,448,"Segal","","Zach","Conservative","Conservateur",N,N,35
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 187","Richmond",N,N,"",0,443,"Bains","","Parm","Liberal","Libéral",N,Y,53
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 187","Richmond",N,N,"",0,443,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 187","Richmond",N,N,"",0,443,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 187","Richmond",N,N,"",0,443,"Segal","","Zach","Conservative","Conservateur",N,N,42
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 188","Richmond",N,N,"",0,492,"Bains","","Parm","Liberal","Libéral",N,Y,66
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 188","Richmond",N,N,"",0,492,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 188","Richmond",N,N,"",0,492,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 188","Richmond",N,N,"",0,492,"Segal","","Zach","Conservative","Conservateur",N,N,67
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 189","Richmond",N,N,"",0,577,"Bains","","Parm","Liberal","Libéral",N,Y,76
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 189","Richmond",N,N,"",0,577,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 189","Richmond",N,N,"",0,577,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 189","Richmond",N,N,"",0,577,"Segal","","Zach","Conservative","Conservateur",N,N,43
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 190","Richmond",N,N,"",2,471,"Bains","","Parm","Liberal","Libéral",N,Y,41
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 190","Richmond",N,N,"",2,471,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 190","Richmond",N,N,"",2,471,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 190","Richmond",N,N,"",2,471,"Segal","","Zach","Conservative","Conservateur",N,N,52
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 191","Richmond",N,N,"",0,354,"Bains","","Parm","Liberal","Libéral",N,Y,49
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 191","Richmond",N,N,"",0,354,"Ji","","Steven","Green Party","Parti Vert",N,N,1
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 191","Richmond",N,N,"",0,354,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 191","Richmond",N,N,"",0,354,"Segal","","Zach","Conservative","Conservateur",N,N,37
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 192","Richmond",N,N,"",0,440,"Bains","","Parm","Liberal","Libéral",N,Y,48
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 192","Richmond",N,N,"",0,440,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 192","Richmond",N,N,"",0,440,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 192","Richmond",N,N,"",0,440,"Segal","","Zach","Conservative","Conservateur",N,N,65
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,20,"Bains","","Parm","Liberal","Libéral",N,Y,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,20,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,20,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,20,"Segal","","Zach","Conservative","Conservateur",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,33,"Bains","","Parm","Liberal","Libéral",N,Y,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,33,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,33,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,33,"Segal","","Zach","Conservative","Conservateur",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 502","Mobile poll/Bureau itinérant",N,N,"",2,101,"Bains","","Parm","Liberal","Libéral",N,Y,60
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 502","Mobile poll/Bureau itinérant",N,N,"",2,101,"Ji","","Steven","Green Party","Parti Vert",N,N,2
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 502","Mobile poll/Bureau itinérant",N,N,"",2,101,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 502","Mobile poll/Bureau itinérant",N,N,"",2,101,"Segal","","Zach","Conservative","Conservateur",N,N,21
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 503","Mobile poll/Bureau itinérant",N,N,"",1,144,"Bains","","Parm","Liberal","Libéral",N,Y,93
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 503","Mobile poll/Bureau itinérant",N,N,"",1,144,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 503","Mobile poll/Bureau itinérant",N,N,"",1,144,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 503","Mobile poll/Bureau itinérant",N,N,"",1,144,"Segal","","Zach","Conservative","Conservateur",N,N,39
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,39,"Bains","","Parm","Liberal","Libéral",N,Y,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,39,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,39,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,39,"Segal","","Zach","Conservative","Conservateur",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,40,"Bains","","Parm","Liberal","Libéral",N,Y,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,40,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,40,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,40,"Segal","","Zach","Conservative","Conservateur",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 506","Mobile poll/Bureau itinérant",N,N,"",1,48,"Bains","","Parm","Liberal","Libéral",N,Y,34
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 506","Mobile poll/Bureau itinérant",N,N,"",1,48,"Ji","","Steven","Green Party","Parti Vert",N,N,9
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 506","Mobile poll/Bureau itinérant",N,N,"",1,48,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 506","Mobile poll/Bureau itinérant",N,N,"",1,48,"Segal","","Zach","Conservative","Conservateur",N,N,43
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 600","Richmond",N,N,"604",0,0,"Bains","","Parm","Liberal","Libéral",N,Y,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 600","Richmond",N,N,"604",0,0,"Ji","","Steven","Green Party","Parti Vert",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 600","Richmond",N,N,"604",0,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 600","Richmond",N,N,"604",0,0,"Segal","","Zach","Conservative","Conservateur",N,N,0
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 601","Richmond",N,N,"",1,0,"Bains","","Parm","Liberal","Libéral",N,Y,1092
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 601","Richmond",N,N,"",1,0,"Ji","","Steven","Green Party","Parti Vert",N,N,16
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 601","Richmond",N,N,"",1,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 601","Richmond",N,N,"",1,0,"Segal","","Zach","Conservative","Conservateur",N,N,564
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 602","Richmond",N,N,"",0,0,"Bains","","Parm","Liberal","Libéral",N,Y,693
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 602","Richmond",N,N,"",0,0,"Ji","","Steven","Green Party","Parti Vert",N,N,13
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 602","Richmond",N,N,"",0,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 602","Richmond",N,N,"",0,0,"Segal","","Zach","Conservative","Conservateur",N,N,554
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 603","Richmond",N,N,"",1,0,"Bains","","Parm","Liberal","Libéral",N,Y,1235
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 603","Richmond",N,N,"",1,0,"Ji","","Steven","Green Party","Parti Vert",N,N,20
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 603","Richmond",N,N,"",1,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 603","Richmond",N,N,"",1,0,"Segal","","Zach","Conservative","Conservateur",N,N,618
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 604","Richmond",N,N,"",7,0,"Bains","","Parm","Liberal","Libéral",N,Y,845
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 604","Richmond",N,N,"",7,0,"Ji","","Steven","Green Party","Parti Vert",N,N,21
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 604","Richmond",N,N,"",7,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 604","Richmond",N,N,"",7,0,"Segal","","Zach","Conservative","Conservateur",N,N,749
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 605","Richmond",N,N,"",5,0,"Bains","","Parm","Liberal","Libéral",N,Y,542
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 605","Richmond",N,N,"",5,0,"Ji","","Steven","Green Party","Parti Vert",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 605","Richmond",N,N,"",5,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 605","Richmond",N,N,"",5,0,"Segal","","Zach","Conservative","Conservateur",N,N,551
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 606","Richmond",N,N,"",5,0,"Bains","","Parm","Liberal","Libéral",N,Y,469
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 606","Richmond",N,N,"",5,0,"Ji","","Steven","Green Party","Parti Vert",N,N,7
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 606","Richmond",N,N,"",5,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 606","Richmond",N,N,"",5,0,"Segal","","Zach","Conservative","Conservateur",N,N,556
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 607","Richmond",N,N,"",3,0,"Bains","","Parm","Liberal","Libéral",N,Y,643
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 607","Richmond",N,N,"",3,0,"Ji","","Steven","Green Party","Parti Vert",N,N,10
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 607","Richmond",N,N,"",3,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 607","Richmond",N,N,"",3,0,"Segal","","Zach","Conservative","Conservateur",N,N,587
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 608","Richmond",N,N,"",0,0,"Bains","","Parm","Liberal","Libéral",N,Y,558
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 608","Richmond",N,N,"",0,0,"Ji","","Steven","Green Party","Parti Vert",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 608","Richmond",N,N,"",0,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 608","Richmond",N,N,"",0,0,"Segal","","Zach","Conservative","Conservateur",N,N,483
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 609","Richmond",N,N,"",1,0,"Bains","","Parm","Liberal","Libéral",N,Y,398
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 609","Richmond",N,N,"",1,0,"Ji","","Steven","Green Party","Parti Vert",N,N,4
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 609","Richmond",N,N,"",1,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 609","Richmond",N,N,"",1,0,"Segal","","Zach","Conservative","Conservateur",N,N,390
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 610","Richmond",N,N,"",2,0,"Bains","","Parm","Liberal","Libéral",N,Y,378
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 610","Richmond",N,N,"",2,0,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 610","Richmond",N,N,"",2,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 610","Richmond",N,N,"",2,0,"Segal","","Zach","Conservative","Conservateur",N,N,432
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 611","Richmond",N,N,"",1,0,"Bains","","Parm","Liberal","Libéral",N,Y,588
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 611","Richmond",N,N,"",1,0,"Ji","","Steven","Green Party","Parti Vert",N,N,13
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 611","Richmond",N,N,"",1,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 611","Richmond",N,N,"",1,0,"Segal","","Zach","Conservative","Conservateur",N,N,667
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 612","Richmond",N,N,"",5,0,"Bains","","Parm","Liberal","Libéral",N,Y,505
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 612","Richmond",N,N,"",5,0,"Ji","","Steven","Green Party","Parti Vert",N,N,6
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 612","Richmond",N,N,"",5,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 612","Richmond",N,N,"",5,0,"Segal","","Zach","Conservative","Conservateur",N,N,520
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 613","Richmond",N,N,"",2,0,"Bains","","Parm","Liberal","Libéral",N,Y,274
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 613","Richmond",N,N,"",2,0,"Ji","","Steven","Green Party","Parti Vert",N,N,3
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 613","Richmond",N,N,"",2,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 613","Richmond",N,N,"",2,0,"Segal","","Zach","Conservative","Conservateur",N,N,290
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 614","Richmond",N,N,"",8,0,"Bains","","Parm","Liberal","Libéral",N,Y,802
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 614","Richmond",N,N,"",8,0,"Ji","","Steven","Green Party","Parti Vert",N,N,12
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 614","Richmond",N,N,"",8,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 614","Richmond",N,N,"",8,0,"Segal","","Zach","Conservative","Conservateur",N,N,698
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 615","Richmond",N,N,"",4,0,"Bains","","Parm","Liberal","Libéral",N,Y,811
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 615","Richmond",N,N,"",4,0,"Ji","","Steven","Green Party","Parti Vert",N,N,15
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 615","Richmond",N,N,"",4,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," 615","Richmond",N,N,"",4,0,"Segal","","Zach","Conservative","Conservateur",N,N,730
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",62,512,"Bains","","Parm","Liberal","Libéral",N,Y,1143
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",62,512,"Ji","","Steven","Green Party","Parti Vert",N,N,17
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",62,512,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",62,512,"Segal","","Zach","Conservative","Conservateur",N,N,1104
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",59,0,"Bains","","Parm","Liberal","Libéral",N,Y,939
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",59,0,"Ji","","Steven","Green Party","Parti Vert",N,N,14
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",59,0,"Pelech","","Keefer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+59028,"Richmond East--Steveston","Richmond-Est--Steveston"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",59,0,"Segal","","Zach","Conservative","Conservateur",N,N,555

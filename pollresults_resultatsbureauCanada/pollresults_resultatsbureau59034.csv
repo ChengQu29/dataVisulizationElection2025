@@ -1,0 +1,689 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+59034,"Surrey Newton","Surrey Newton"," 1","Surrey",N,N,"",2,468,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,109
+59034,"Surrey Newton","Surrey Newton"," 1","Surrey",N,N,"",2,468,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,92
+59034,"Surrey Newton","Surrey Newton"," 1","Surrey",N,N,"",2,468,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59034,"Surrey Newton","Surrey Newton"," 1","Surrey",N,N,"",2,468,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 2","Surrey",N,N,"",0,396,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,87
+59034,"Surrey Newton","Surrey Newton"," 2","Surrey",N,N,"",0,396,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,71
+59034,"Surrey Newton","Surrey Newton"," 2","Surrey",N,N,"",0,396,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 2","Surrey",N,N,"",0,396,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 3","Surrey",N,N,"",0,469,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,99
+59034,"Surrey Newton","Surrey Newton"," 3","Surrey",N,N,"",0,469,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,86
+59034,"Surrey Newton","Surrey Newton"," 3","Surrey",N,N,"",0,469,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59034,"Surrey Newton","Surrey Newton"," 3","Surrey",N,N,"",0,469,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 4","Surrey",N,N,"",2,482,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,76
+59034,"Surrey Newton","Surrey Newton"," 4","Surrey",N,N,"",2,482,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,63
+59034,"Surrey Newton","Surrey Newton"," 4","Surrey",N,N,"",2,482,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59034,"Surrey Newton","Surrey Newton"," 4","Surrey",N,N,"",2,482,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 5","Surrey",N,N,"",2,377,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,78
+59034,"Surrey Newton","Surrey Newton"," 5","Surrey",N,N,"",2,377,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,69
+59034,"Surrey Newton","Surrey Newton"," 5","Surrey",N,N,"",2,377,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 5","Surrey",N,N,"",2,377,"Zafar","","Salman","Communist","Communiste",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 6","Surrey",N,N,"",0,373,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,102
+59034,"Surrey Newton","Surrey Newton"," 6","Surrey",N,N,"",0,373,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,83
+59034,"Surrey Newton","Surrey Newton"," 6","Surrey",N,N,"",0,373,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 6","Surrey",N,N,"",0,373,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 7","Surrey",N,N,"",1,478,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,87
+59034,"Surrey Newton","Surrey Newton"," 7","Surrey",N,N,"",1,478,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,103
+59034,"Surrey Newton","Surrey Newton"," 7","Surrey",N,N,"",1,478,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59034,"Surrey Newton","Surrey Newton"," 7","Surrey",N,N,"",1,478,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 8","Surrey",N,N,"",2,487,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,76
+59034,"Surrey Newton","Surrey Newton"," 8","Surrey",N,N,"",2,487,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,53
+59034,"Surrey Newton","Surrey Newton"," 8","Surrey",N,N,"",2,487,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 8","Surrey",N,N,"",2,487,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 9","Surrey",N,N,"",1,516,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,78
+59034,"Surrey Newton","Surrey Newton"," 9","Surrey",N,N,"",1,516,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,73
+59034,"Surrey Newton","Surrey Newton"," 9","Surrey",N,N,"",1,516,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 9","Surrey",N,N,"",1,516,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 10","Surrey",N,N,"",1,520,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,86
+59034,"Surrey Newton","Surrey Newton"," 10","Surrey",N,N,"",1,520,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,70
+59034,"Surrey Newton","Surrey Newton"," 10","Surrey",N,N,"",1,520,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 10","Surrey",N,N,"",1,520,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 11","Surrey",N,N,"",0,331,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,32
+59034,"Surrey Newton","Surrey Newton"," 11","Surrey",N,N,"",0,331,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,62
+59034,"Surrey Newton","Surrey Newton"," 11","Surrey",N,N,"",0,331,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 11","Surrey",N,N,"",0,331,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 12","Surrey",N,N,"",1,314,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,40
+59034,"Surrey Newton","Surrey Newton"," 12","Surrey",N,N,"",1,314,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,52
+59034,"Surrey Newton","Surrey Newton"," 12","Surrey",N,N,"",1,314,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 12","Surrey",N,N,"",1,314,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 13","Surrey",N,N,"",2,446,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,99
+59034,"Surrey Newton","Surrey Newton"," 13","Surrey",N,N,"",2,446,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,78
+59034,"Surrey Newton","Surrey Newton"," 13","Surrey",N,N,"",2,446,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59034,"Surrey Newton","Surrey Newton"," 13","Surrey",N,N,"",2,446,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 14","Surrey",N,N,"",8,368,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,49
+59034,"Surrey Newton","Surrey Newton"," 14","Surrey",N,N,"",8,368,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,47
+59034,"Surrey Newton","Surrey Newton"," 14","Surrey",N,N,"",8,368,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 14","Surrey",N,N,"",8,368,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 15A","Surrey",N,N,"",2,483,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,74
+59034,"Surrey Newton","Surrey Newton"," 15A","Surrey",N,N,"",2,483,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,114
+59034,"Surrey Newton","Surrey Newton"," 15A","Surrey",N,N,"",2,483,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59034,"Surrey Newton","Surrey Newton"," 15A","Surrey",N,N,"",2,483,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 15B","Surrey",N,N,"",3,466,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,77
+59034,"Surrey Newton","Surrey Newton"," 15B","Surrey",N,N,"",3,466,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,68
+59034,"Surrey Newton","Surrey Newton"," 15B","Surrey",N,N,"",3,466,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 15B","Surrey",N,N,"",3,466,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 16","Surrey",N,N,"",3,539,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,58
+59034,"Surrey Newton","Surrey Newton"," 16","Surrey",N,N,"",3,539,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,51
+59034,"Surrey Newton","Surrey Newton"," 16","Surrey",N,N,"",3,539,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59034,"Surrey Newton","Surrey Newton"," 16","Surrey",N,N,"",3,539,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 17","Surrey",N,N,"",0,407,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,61
+59034,"Surrey Newton","Surrey Newton"," 17","Surrey",N,N,"",0,407,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,44
+59034,"Surrey Newton","Surrey Newton"," 17","Surrey",N,N,"",0,407,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59034,"Surrey Newton","Surrey Newton"," 17","Surrey",N,N,"",0,407,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 18","Surrey",N,N,"",3,505,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,72
+59034,"Surrey Newton","Surrey Newton"," 18","Surrey",N,N,"",3,505,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,67
+59034,"Surrey Newton","Surrey Newton"," 18","Surrey",N,N,"",3,505,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59034,"Surrey Newton","Surrey Newton"," 18","Surrey",N,N,"",3,505,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 19","Surrey",N,N,"",0,446,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,49
+59034,"Surrey Newton","Surrey Newton"," 19","Surrey",N,N,"",0,446,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,66
+59034,"Surrey Newton","Surrey Newton"," 19","Surrey",N,N,"",0,446,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 19","Surrey",N,N,"",0,446,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 20","Surrey",N,N,"",1,494,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,68
+59034,"Surrey Newton","Surrey Newton"," 20","Surrey",N,N,"",1,494,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,53
+59034,"Surrey Newton","Surrey Newton"," 20","Surrey",N,N,"",1,494,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59034,"Surrey Newton","Surrey Newton"," 20","Surrey",N,N,"",1,494,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 21","Surrey",N,N,"",0,416,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,62
+59034,"Surrey Newton","Surrey Newton"," 21","Surrey",N,N,"",0,416,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,47
+59034,"Surrey Newton","Surrey Newton"," 21","Surrey",N,N,"",0,416,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59034,"Surrey Newton","Surrey Newton"," 21","Surrey",N,N,"",0,416,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 22","Surrey",N,N,"",0,309,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,59
+59034,"Surrey Newton","Surrey Newton"," 22","Surrey",N,N,"",0,309,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,62
+59034,"Surrey Newton","Surrey Newton"," 22","Surrey",N,N,"",0,309,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59034,"Surrey Newton","Surrey Newton"," 22","Surrey",N,N,"",0,309,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 23","Surrey",N,N,"",4,503,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,93
+59034,"Surrey Newton","Surrey Newton"," 23","Surrey",N,N,"",4,503,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,62
+59034,"Surrey Newton","Surrey Newton"," 23","Surrey",N,N,"",4,503,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59034,"Surrey Newton","Surrey Newton"," 23","Surrey",N,N,"",4,503,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 24","Surrey",N,N,"",1,431,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,79
+59034,"Surrey Newton","Surrey Newton"," 24","Surrey",N,N,"",1,431,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,85
+59034,"Surrey Newton","Surrey Newton"," 24","Surrey",N,N,"",1,431,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 24","Surrey",N,N,"",1,431,"Zafar","","Salman","Communist","Communiste",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 25","Surrey",N,N,"",2,345,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,74
+59034,"Surrey Newton","Surrey Newton"," 25","Surrey",N,N,"",2,345,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,42
+59034,"Surrey Newton","Surrey Newton"," 25","Surrey",N,N,"",2,345,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 25","Surrey",N,N,"",2,345,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 26","Surrey",N,N,"",1,290,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,79
+59034,"Surrey Newton","Surrey Newton"," 26","Surrey",N,N,"",1,290,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,18
+59034,"Surrey Newton","Surrey Newton"," 26","Surrey",N,N,"",1,290,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 26","Surrey",N,N,"",1,290,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 27","Surrey",N,N,"",0,467,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,55
+59034,"Surrey Newton","Surrey Newton"," 27","Surrey",N,N,"",0,467,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,66
+59034,"Surrey Newton","Surrey Newton"," 27","Surrey",N,N,"",0,467,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 27","Surrey",N,N,"",0,467,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 28","Surrey",N,N,"",0,444,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,64
+59034,"Surrey Newton","Surrey Newton"," 28","Surrey",N,N,"",0,444,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,53
+59034,"Surrey Newton","Surrey Newton"," 28","Surrey",N,N,"",0,444,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 28","Surrey",N,N,"",0,444,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 29","Surrey",N,N,"",0,294,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,23
+59034,"Surrey Newton","Surrey Newton"," 29","Surrey",N,N,"",0,294,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,36
+59034,"Surrey Newton","Surrey Newton"," 29","Surrey",N,N,"",0,294,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 29","Surrey",N,N,"",0,294,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 30","Surrey",N,N,"",1,408,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,60
+59034,"Surrey Newton","Surrey Newton"," 30","Surrey",N,N,"",1,408,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,53
+59034,"Surrey Newton","Surrey Newton"," 30","Surrey",N,N,"",1,408,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 30","Surrey",N,N,"",1,408,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 31","Surrey",N,N,"",2,443,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,38
+59034,"Surrey Newton","Surrey Newton"," 31","Surrey",N,N,"",2,443,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,39
+59034,"Surrey Newton","Surrey Newton"," 31","Surrey",N,N,"",2,443,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59034,"Surrey Newton","Surrey Newton"," 31","Surrey",N,N,"",2,443,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 32","Surrey",N,N,"",1,411,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,39
+59034,"Surrey Newton","Surrey Newton"," 32","Surrey",N,N,"",1,411,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,51
+59034,"Surrey Newton","Surrey Newton"," 32","Surrey",N,N,"",1,411,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 32","Surrey",N,N,"",1,411,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 33","Surrey",N,N,"",0,332,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,53
+59034,"Surrey Newton","Surrey Newton"," 33","Surrey",N,N,"",0,332,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,42
+59034,"Surrey Newton","Surrey Newton"," 33","Surrey",N,N,"",0,332,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 33","Surrey",N,N,"",0,332,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 34","Surrey",N,N,"",0,475,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,54
+59034,"Surrey Newton","Surrey Newton"," 34","Surrey",N,N,"",0,475,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,37
+59034,"Surrey Newton","Surrey Newton"," 34","Surrey",N,N,"",0,475,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 34","Surrey",N,N,"",0,475,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 35","Surrey",N,N,"",0,516,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,65
+59034,"Surrey Newton","Surrey Newton"," 35","Surrey",N,N,"",0,516,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,99
+59034,"Surrey Newton","Surrey Newton"," 35","Surrey",N,N,"",0,516,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 35","Surrey",N,N,"",0,516,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 36","Surrey",N,N,"",0,548,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,90
+59034,"Surrey Newton","Surrey Newton"," 36","Surrey",N,N,"",0,548,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,44
+59034,"Surrey Newton","Surrey Newton"," 36","Surrey",N,N,"",0,548,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59034,"Surrey Newton","Surrey Newton"," 36","Surrey",N,N,"",0,548,"Zafar","","Salman","Communist","Communiste",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 37","Surrey",N,N,"",1,388,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,83
+59034,"Surrey Newton","Surrey Newton"," 37","Surrey",N,N,"",1,388,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,75
+59034,"Surrey Newton","Surrey Newton"," 37","Surrey",N,N,"",1,388,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 37","Surrey",N,N,"",1,388,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 38","Surrey",N,N,"",1,374,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,53
+59034,"Surrey Newton","Surrey Newton"," 38","Surrey",N,N,"",1,374,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,46
+59034,"Surrey Newton","Surrey Newton"," 38","Surrey",N,N,"",1,374,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 38","Surrey",N,N,"",1,374,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 39","Surrey",N,N,"",0,338,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,75
+59034,"Surrey Newton","Surrey Newton"," 39","Surrey",N,N,"",0,338,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,27
+59034,"Surrey Newton","Surrey Newton"," 39","Surrey",N,N,"",0,338,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 39","Surrey",N,N,"",0,338,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 40","Surrey",N,N,"",0,424,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,55
+59034,"Surrey Newton","Surrey Newton"," 40","Surrey",N,N,"",0,424,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,58
+59034,"Surrey Newton","Surrey Newton"," 40","Surrey",N,N,"",0,424,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 40","Surrey",N,N,"",0,424,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 41","Surrey",N,N,"",1,333,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,62
+59034,"Surrey Newton","Surrey Newton"," 41","Surrey",N,N,"",1,333,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,48
+59034,"Surrey Newton","Surrey Newton"," 41","Surrey",N,N,"",1,333,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 41","Surrey",N,N,"",1,333,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 42","Surrey",N,N,"",3,404,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,57
+59034,"Surrey Newton","Surrey Newton"," 42","Surrey",N,N,"",3,404,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,42
+59034,"Surrey Newton","Surrey Newton"," 42","Surrey",N,N,"",3,404,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59034,"Surrey Newton","Surrey Newton"," 42","Surrey",N,N,"",3,404,"Zafar","","Salman","Communist","Communiste",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 43","Surrey",N,N,"",2,386,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,92
+59034,"Surrey Newton","Surrey Newton"," 43","Surrey",N,N,"",2,386,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,33
+59034,"Surrey Newton","Surrey Newton"," 43","Surrey",N,N,"",2,386,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 43","Surrey",N,N,"",2,386,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 44","Surrey",N,N,"",2,465,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,78
+59034,"Surrey Newton","Surrey Newton"," 44","Surrey",N,N,"",2,465,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,61
+59034,"Surrey Newton","Surrey Newton"," 44","Surrey",N,N,"",2,465,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 44","Surrey",N,N,"",2,465,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 45","Surrey",N,N,"",1,320,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,62
+59034,"Surrey Newton","Surrey Newton"," 45","Surrey",N,N,"",1,320,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,60
+59034,"Surrey Newton","Surrey Newton"," 45","Surrey",N,N,"",1,320,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 45","Surrey",N,N,"",1,320,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 46A","Surrey",N,N,"",2,394,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,55
+59034,"Surrey Newton","Surrey Newton"," 46A","Surrey",N,N,"",2,394,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,72
+59034,"Surrey Newton","Surrey Newton"," 46A","Surrey",N,N,"",2,394,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59034,"Surrey Newton","Surrey Newton"," 46A","Surrey",N,N,"",2,394,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 46B","Surrey",N,N,"",3,265,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,49
+59034,"Surrey Newton","Surrey Newton"," 46B","Surrey",N,N,"",3,265,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,38
+59034,"Surrey Newton","Surrey Newton"," 46B","Surrey",N,N,"",3,265,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 46B","Surrey",N,N,"",3,265,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 47","Surrey",N,N,"",3,468,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,58
+59034,"Surrey Newton","Surrey Newton"," 47","Surrey",N,N,"",3,468,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,49
+59034,"Surrey Newton","Surrey Newton"," 47","Surrey",N,N,"",3,468,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59034,"Surrey Newton","Surrey Newton"," 47","Surrey",N,N,"",3,468,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 48","Surrey",N,N,"",1,523,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,118
+59034,"Surrey Newton","Surrey Newton"," 48","Surrey",N,N,"",1,523,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,74
+59034,"Surrey Newton","Surrey Newton"," 48","Surrey",N,N,"",1,523,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59034,"Surrey Newton","Surrey Newton"," 48","Surrey",N,N,"",1,523,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 49","Surrey",N,N,"",1,428,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,69
+59034,"Surrey Newton","Surrey Newton"," 49","Surrey",N,N,"",1,428,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,71
+59034,"Surrey Newton","Surrey Newton"," 49","Surrey",N,N,"",1,428,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 49","Surrey",N,N,"",1,428,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 50","Surrey",N,N,"",0,408,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,37
+59034,"Surrey Newton","Surrey Newton"," 50","Surrey",N,N,"",0,408,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,45
+59034,"Surrey Newton","Surrey Newton"," 50","Surrey",N,N,"",0,408,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 50","Surrey",N,N,"",0,408,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 51","Surrey",N,N,"",1,383,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,54
+59034,"Surrey Newton","Surrey Newton"," 51","Surrey",N,N,"",1,383,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,48
+59034,"Surrey Newton","Surrey Newton"," 51","Surrey",N,N,"",1,383,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 51","Surrey",N,N,"",1,383,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 52","Surrey",N,N,"",1,463,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,66
+59034,"Surrey Newton","Surrey Newton"," 52","Surrey",N,N,"",1,463,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,47
+59034,"Surrey Newton","Surrey Newton"," 52","Surrey",N,N,"",1,463,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59034,"Surrey Newton","Surrey Newton"," 52","Surrey",N,N,"",1,463,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 53","Surrey",N,N,"",4,501,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,87
+59034,"Surrey Newton","Surrey Newton"," 53","Surrey",N,N,"",4,501,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,93
+59034,"Surrey Newton","Surrey Newton"," 53","Surrey",N,N,"",4,501,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59034,"Surrey Newton","Surrey Newton"," 53","Surrey",N,N,"",4,501,"Zafar","","Salman","Communist","Communiste",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 54","Surrey",N,N,"",1,425,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,85
+59034,"Surrey Newton","Surrey Newton"," 54","Surrey",N,N,"",1,425,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,62
+59034,"Surrey Newton","Surrey Newton"," 54","Surrey",N,N,"",1,425,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59034,"Surrey Newton","Surrey Newton"," 54","Surrey",N,N,"",1,425,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 55","Surrey",N,N,"",2,464,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,91
+59034,"Surrey Newton","Surrey Newton"," 55","Surrey",N,N,"",2,464,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,39
+59034,"Surrey Newton","Surrey Newton"," 55","Surrey",N,N,"",2,464,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59034,"Surrey Newton","Surrey Newton"," 55","Surrey",N,N,"",2,464,"Zafar","","Salman","Communist","Communiste",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 56","Surrey",N,N,"",0,471,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,59
+59034,"Surrey Newton","Surrey Newton"," 56","Surrey",N,N,"",0,471,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,45
+59034,"Surrey Newton","Surrey Newton"," 56","Surrey",N,N,"",0,471,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59034,"Surrey Newton","Surrey Newton"," 56","Surrey",N,N,"",0,471,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 57","Surrey",N,N,"",0,319,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,35
+59034,"Surrey Newton","Surrey Newton"," 57","Surrey",N,N,"",0,319,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,30
+59034,"Surrey Newton","Surrey Newton"," 57","Surrey",N,N,"",0,319,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59034,"Surrey Newton","Surrey Newton"," 57","Surrey",N,N,"",0,319,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 58","Surrey",N,N,"",1,419,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,60
+59034,"Surrey Newton","Surrey Newton"," 58","Surrey",N,N,"",1,419,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,72
+59034,"Surrey Newton","Surrey Newton"," 58","Surrey",N,N,"",1,419,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 58","Surrey",N,N,"",1,419,"Zafar","","Salman","Communist","Communiste",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 59","Surrey",N,N,"",0,490,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,61
+59034,"Surrey Newton","Surrey Newton"," 59","Surrey",N,N,"",0,490,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,45
+59034,"Surrey Newton","Surrey Newton"," 59","Surrey",N,N,"",0,490,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59034,"Surrey Newton","Surrey Newton"," 59","Surrey",N,N,"",0,490,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 60","Surrey",N,N,"",2,507,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,66
+59034,"Surrey Newton","Surrey Newton"," 60","Surrey",N,N,"",2,507,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,67
+59034,"Surrey Newton","Surrey Newton"," 60","Surrey",N,N,"",2,507,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 60","Surrey",N,N,"",2,507,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 61","Surrey",N,N,"",4,488,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,58
+59034,"Surrey Newton","Surrey Newton"," 61","Surrey",N,N,"",4,488,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,43
+59034,"Surrey Newton","Surrey Newton"," 61","Surrey",N,N,"",4,488,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59034,"Surrey Newton","Surrey Newton"," 61","Surrey",N,N,"",4,488,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 62","Surrey",N,N,"",1,438,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,54
+59034,"Surrey Newton","Surrey Newton"," 62","Surrey",N,N,"",1,438,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,60
+59034,"Surrey Newton","Surrey Newton"," 62","Surrey",N,N,"",1,438,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 62","Surrey",N,N,"",1,438,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 63","Surrey",N,N,"",0,493,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,57
+59034,"Surrey Newton","Surrey Newton"," 63","Surrey",N,N,"",0,493,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,46
+59034,"Surrey Newton","Surrey Newton"," 63","Surrey",N,N,"",0,493,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 63","Surrey",N,N,"",0,493,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 64","Surrey",N,N,"",2,589,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,85
+59034,"Surrey Newton","Surrey Newton"," 64","Surrey",N,N,"",2,589,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,89
+59034,"Surrey Newton","Surrey Newton"," 64","Surrey",N,N,"",2,589,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59034,"Surrey Newton","Surrey Newton"," 64","Surrey",N,N,"",2,589,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 65","Surrey",N,N,"",1,469,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,50
+59034,"Surrey Newton","Surrey Newton"," 65","Surrey",N,N,"",1,469,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,46
+59034,"Surrey Newton","Surrey Newton"," 65","Surrey",N,N,"",1,469,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59034,"Surrey Newton","Surrey Newton"," 65","Surrey",N,N,"",1,469,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 66","Surrey",N,N,"",2,483,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,65
+59034,"Surrey Newton","Surrey Newton"," 66","Surrey",N,N,"",2,483,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,65
+59034,"Surrey Newton","Surrey Newton"," 66","Surrey",N,N,"",2,483,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 66","Surrey",N,N,"",2,483,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 67","Surrey",N,N,"",0,507,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,72
+59034,"Surrey Newton","Surrey Newton"," 67","Surrey",N,N,"",0,507,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,69
+59034,"Surrey Newton","Surrey Newton"," 67","Surrey",N,N,"",0,507,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 67","Surrey",N,N,"",0,507,"Zafar","","Salman","Communist","Communiste",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 68","Surrey",N,N,"",1,355,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,34
+59034,"Surrey Newton","Surrey Newton"," 68","Surrey",N,N,"",1,355,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,60
+59034,"Surrey Newton","Surrey Newton"," 68","Surrey",N,N,"",1,355,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 68","Surrey",N,N,"",1,355,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 69","Surrey",N,N,"",2,417,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,56
+59034,"Surrey Newton","Surrey Newton"," 69","Surrey",N,N,"",2,417,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,58
+59034,"Surrey Newton","Surrey Newton"," 69","Surrey",N,N,"",2,417,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 69","Surrey",N,N,"",2,417,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 70","Surrey",N,N,"",0,583,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,75
+59034,"Surrey Newton","Surrey Newton"," 70","Surrey",N,N,"",0,583,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,64
+59034,"Surrey Newton","Surrey Newton"," 70","Surrey",N,N,"",0,583,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59034,"Surrey Newton","Surrey Newton"," 70","Surrey",N,N,"",0,583,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 71","Surrey",N,N,"",0,421,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,56
+59034,"Surrey Newton","Surrey Newton"," 71","Surrey",N,N,"",0,421,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,31
+59034,"Surrey Newton","Surrey Newton"," 71","Surrey",N,N,"",0,421,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 71","Surrey",N,N,"",0,421,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 72","Surrey",N,N,"",0,514,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,79
+59034,"Surrey Newton","Surrey Newton"," 72","Surrey",N,N,"",0,514,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,116
+59034,"Surrey Newton","Surrey Newton"," 72","Surrey",N,N,"",0,514,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 72","Surrey",N,N,"",0,514,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 73","Surrey",N,N,"",3,437,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,41
+59034,"Surrey Newton","Surrey Newton"," 73","Surrey",N,N,"",3,437,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,63
+59034,"Surrey Newton","Surrey Newton"," 73","Surrey",N,N,"",3,437,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 73","Surrey",N,N,"",3,437,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 74","Surrey",N,N,"",1,477,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,63
+59034,"Surrey Newton","Surrey Newton"," 74","Surrey",N,N,"",1,477,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,75
+59034,"Surrey Newton","Surrey Newton"," 74","Surrey",N,N,"",1,477,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 74","Surrey",N,N,"",1,477,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 75","Surrey",N,N,"",1,393,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,32
+59034,"Surrey Newton","Surrey Newton"," 75","Surrey",N,N,"",1,393,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,60
+59034,"Surrey Newton","Surrey Newton"," 75","Surrey",N,N,"",1,393,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 75","Surrey",N,N,"",1,393,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 76","Surrey",N,N,"",0,366,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,60
+59034,"Surrey Newton","Surrey Newton"," 76","Surrey",N,N,"",0,366,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,56
+59034,"Surrey Newton","Surrey Newton"," 76","Surrey",N,N,"",0,366,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 76","Surrey",N,N,"",0,366,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 77","Surrey",N,N,"",1,311,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,42
+59034,"Surrey Newton","Surrey Newton"," 77","Surrey",N,N,"",1,311,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,47
+59034,"Surrey Newton","Surrey Newton"," 77","Surrey",N,N,"",1,311,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 77","Surrey",N,N,"",1,311,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 78","Surrey",N,N,"",3,340,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,58
+59034,"Surrey Newton","Surrey Newton"," 78","Surrey",N,N,"",3,340,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,64
+59034,"Surrey Newton","Surrey Newton"," 78","Surrey",N,N,"",3,340,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 78","Surrey",N,N,"",3,340,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 79","Surrey",N,N,"",2,314,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,56
+59034,"Surrey Newton","Surrey Newton"," 79","Surrey",N,N,"",2,314,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,58
+59034,"Surrey Newton","Surrey Newton"," 79","Surrey",N,N,"",2,314,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 79","Surrey",N,N,"",2,314,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 80","Surrey",N,N,"",2,403,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,41
+59034,"Surrey Newton","Surrey Newton"," 80","Surrey",N,N,"",2,403,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,47
+59034,"Surrey Newton","Surrey Newton"," 80","Surrey",N,N,"",2,403,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 80","Surrey",N,N,"",2,403,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 81","Surrey",N,N,"",4,539,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,76
+59034,"Surrey Newton","Surrey Newton"," 81","Surrey",N,N,"",4,539,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,55
+59034,"Surrey Newton","Surrey Newton"," 81","Surrey",N,N,"",4,539,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 81","Surrey",N,N,"",4,539,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 82","Surrey",N,N,"",4,358,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,48
+59034,"Surrey Newton","Surrey Newton"," 82","Surrey",N,N,"",4,358,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,52
+59034,"Surrey Newton","Surrey Newton"," 82","Surrey",N,N,"",4,358,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 82","Surrey",N,N,"",4,358,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 83","Surrey",N,N,"",1,440,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,67
+59034,"Surrey Newton","Surrey Newton"," 83","Surrey",N,N,"",1,440,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,41
+59034,"Surrey Newton","Surrey Newton"," 83","Surrey",N,N,"",1,440,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 83","Surrey",N,N,"",1,440,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 84","Surrey",N,N,"",1,486,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,65
+59034,"Surrey Newton","Surrey Newton"," 84","Surrey",N,N,"",1,486,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,64
+59034,"Surrey Newton","Surrey Newton"," 84","Surrey",N,N,"",1,486,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 84","Surrey",N,N,"",1,486,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 85","Surrey",N,N,"",0,449,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,54
+59034,"Surrey Newton","Surrey Newton"," 85","Surrey",N,N,"",0,449,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,49
+59034,"Surrey Newton","Surrey Newton"," 85","Surrey",N,N,"",0,449,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 85","Surrey",N,N,"",0,449,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 86","Surrey",N,N,"",3,489,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,68
+59034,"Surrey Newton","Surrey Newton"," 86","Surrey",N,N,"",3,489,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,57
+59034,"Surrey Newton","Surrey Newton"," 86","Surrey",N,N,"",3,489,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 86","Surrey",N,N,"",3,489,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 87","Surrey",N,N,"",2,393,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,54
+59034,"Surrey Newton","Surrey Newton"," 87","Surrey",N,N,"",2,393,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,50
+59034,"Surrey Newton","Surrey Newton"," 87","Surrey",N,N,"",2,393,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 87","Surrey",N,N,"",2,393,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 88","Surrey",N,N,"",0,514,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,67
+59034,"Surrey Newton","Surrey Newton"," 88","Surrey",N,N,"",0,514,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,57
+59034,"Surrey Newton","Surrey Newton"," 88","Surrey",N,N,"",0,514,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59034,"Surrey Newton","Surrey Newton"," 88","Surrey",N,N,"",0,514,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 89","Surrey",N,N,"",1,360,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,59
+59034,"Surrey Newton","Surrey Newton"," 89","Surrey",N,N,"",1,360,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,45
+59034,"Surrey Newton","Surrey Newton"," 89","Surrey",N,N,"",1,360,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 89","Surrey",N,N,"",1,360,"Zafar","","Salman","Communist","Communiste",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 90","Surrey",N,N,"",1,541,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,82
+59034,"Surrey Newton","Surrey Newton"," 90","Surrey",N,N,"",1,541,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,95
+59034,"Surrey Newton","Surrey Newton"," 90","Surrey",N,N,"",1,541,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 90","Surrey",N,N,"",1,541,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 91","Surrey",N,N,"",1,340,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,69
+59034,"Surrey Newton","Surrey Newton"," 91","Surrey",N,N,"",1,340,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,27
+59034,"Surrey Newton","Surrey Newton"," 91","Surrey",N,N,"",1,340,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 91","Surrey",N,N,"",1,340,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 92","Surrey",N,N,"",0,486,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,63
+59034,"Surrey Newton","Surrey Newton"," 92","Surrey",N,N,"",0,486,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,44
+59034,"Surrey Newton","Surrey Newton"," 92","Surrey",N,N,"",0,486,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 92","Surrey",N,N,"",0,486,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 93","Surrey",N,N,"",2,548,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,79
+59034,"Surrey Newton","Surrey Newton"," 93","Surrey",N,N,"",2,548,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,96
+59034,"Surrey Newton","Surrey Newton"," 93","Surrey",N,N,"",2,548,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 93","Surrey",N,N,"",2,548,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 94","Surrey",N,N,"",0,374,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,80
+59034,"Surrey Newton","Surrey Newton"," 94","Surrey",N,N,"",0,374,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,34
+59034,"Surrey Newton","Surrey Newton"," 94","Surrey",N,N,"",0,374,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 94","Surrey",N,N,"",0,374,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 95","Surrey",N,N,"",1,526,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,72
+59034,"Surrey Newton","Surrey Newton"," 95","Surrey",N,N,"",1,526,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,77
+59034,"Surrey Newton","Surrey Newton"," 95","Surrey",N,N,"",1,526,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59034,"Surrey Newton","Surrey Newton"," 95","Surrey",N,N,"",1,526,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 96","Surrey",N,N,"",1,379,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,54
+59034,"Surrey Newton","Surrey Newton"," 96","Surrey",N,N,"",1,379,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,27
+59034,"Surrey Newton","Surrey Newton"," 96","Surrey",N,N,"",1,379,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 96","Surrey",N,N,"",1,379,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 97","Surrey",N,N,"",1,332,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,80
+59034,"Surrey Newton","Surrey Newton"," 97","Surrey",N,N,"",1,332,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,70
+59034,"Surrey Newton","Surrey Newton"," 97","Surrey",N,N,"",1,332,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59034,"Surrey Newton","Surrey Newton"," 97","Surrey",N,N,"",1,332,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 98","Surrey",N,N,"",1,373,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,53
+59034,"Surrey Newton","Surrey Newton"," 98","Surrey",N,N,"",1,373,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,63
+59034,"Surrey Newton","Surrey Newton"," 98","Surrey",N,N,"",1,373,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 98","Surrey",N,N,"",1,373,"Zafar","","Salman","Communist","Communiste",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 99","Surrey",N,N,"",1,367,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,44
+59034,"Surrey Newton","Surrey Newton"," 99","Surrey",N,N,"",1,367,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,51
+59034,"Surrey Newton","Surrey Newton"," 99","Surrey",N,N,"",1,367,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 99","Surrey",N,N,"",1,367,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 100","Surrey",N,N,"",1,359,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,62
+59034,"Surrey Newton","Surrey Newton"," 100","Surrey",N,N,"",1,359,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,77
+59034,"Surrey Newton","Surrey Newton"," 100","Surrey",N,N,"",1,359,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59034,"Surrey Newton","Surrey Newton"," 100","Surrey",N,N,"",1,359,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 101","Surrey",N,N,"",4,546,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,65
+59034,"Surrey Newton","Surrey Newton"," 101","Surrey",N,N,"",4,546,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,90
+59034,"Surrey Newton","Surrey Newton"," 101","Surrey",N,N,"",4,546,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59034,"Surrey Newton","Surrey Newton"," 101","Surrey",N,N,"",4,546,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 102","Surrey",N,N,"",0,391,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,64
+59034,"Surrey Newton","Surrey Newton"," 102","Surrey",N,N,"",0,391,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,76
+59034,"Surrey Newton","Surrey Newton"," 102","Surrey",N,N,"",0,391,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 102","Surrey",N,N,"",0,391,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 103","Surrey",N,N,"",0,450,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,58
+59034,"Surrey Newton","Surrey Newton"," 103","Surrey",N,N,"",0,450,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,52
+59034,"Surrey Newton","Surrey Newton"," 103","Surrey",N,N,"",0,450,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59034,"Surrey Newton","Surrey Newton"," 103","Surrey",N,N,"",0,450,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 104","Surrey",N,N,"",1,330,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,54
+59034,"Surrey Newton","Surrey Newton"," 104","Surrey",N,N,"",1,330,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,47
+59034,"Surrey Newton","Surrey Newton"," 104","Surrey",N,N,"",1,330,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 104","Surrey",N,N,"",1,330,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 105A","Surrey",N,N,"",0,349,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,74
+59034,"Surrey Newton","Surrey Newton"," 105A","Surrey",N,N,"",0,349,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,50
+59034,"Surrey Newton","Surrey Newton"," 105A","Surrey",N,N,"",0,349,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59034,"Surrey Newton","Surrey Newton"," 105A","Surrey",N,N,"",0,349,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 105B","Surrey",N,N,"",1,293,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,59
+59034,"Surrey Newton","Surrey Newton"," 105B","Surrey",N,N,"",1,293,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,36
+59034,"Surrey Newton","Surrey Newton"," 105B","Surrey",N,N,"",1,293,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 105B","Surrey",N,N,"",1,293,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 106","Surrey",N,N,"",2,548,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,85
+59034,"Surrey Newton","Surrey Newton"," 106","Surrey",N,N,"",2,548,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,93
+59034,"Surrey Newton","Surrey Newton"," 106","Surrey",N,N,"",2,548,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59034,"Surrey Newton","Surrey Newton"," 106","Surrey",N,N,"",2,548,"Zafar","","Salman","Communist","Communiste",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 107","Surrey",N,N,"",0,589,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,79
+59034,"Surrey Newton","Surrey Newton"," 107","Surrey",N,N,"",0,589,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,84
+59034,"Surrey Newton","Surrey Newton"," 107","Surrey",N,N,"",0,589,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 107","Surrey",N,N,"",0,589,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 108","Surrey",N,N,"",0,390,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,68
+59034,"Surrey Newton","Surrey Newton"," 108","Surrey",N,N,"",0,390,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,44
+59034,"Surrey Newton","Surrey Newton"," 108","Surrey",N,N,"",0,390,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 108","Surrey",N,N,"",0,390,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 109A","Surrey",N,N,"",0,324,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,66
+59034,"Surrey Newton","Surrey Newton"," 109A","Surrey",N,N,"",0,324,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,35
+59034,"Surrey Newton","Surrey Newton"," 109A","Surrey",N,N,"",0,324,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59034,"Surrey Newton","Surrey Newton"," 109A","Surrey",N,N,"",0,324,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 109B","Surrey",N,N,"",1,329,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,50
+59034,"Surrey Newton","Surrey Newton"," 109B","Surrey",N,N,"",1,329,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,39
+59034,"Surrey Newton","Surrey Newton"," 109B","Surrey",N,N,"",1,329,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 109B","Surrey",N,N,"",1,329,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 110","Surrey",N,N,"",1,510,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,102
+59034,"Surrey Newton","Surrey Newton"," 110","Surrey",N,N,"",1,510,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,79
+59034,"Surrey Newton","Surrey Newton"," 110","Surrey",N,N,"",1,510,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 110","Surrey",N,N,"",1,510,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 111","Surrey",N,N,"",1,425,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,63
+59034,"Surrey Newton","Surrey Newton"," 111","Surrey",N,N,"",1,425,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,60
+59034,"Surrey Newton","Surrey Newton"," 111","Surrey",N,N,"",1,425,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 111","Surrey",N,N,"",1,425,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 112","Surrey",N,N,"",1,390,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,81
+59034,"Surrey Newton","Surrey Newton"," 112","Surrey",N,N,"",1,390,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,45
+59034,"Surrey Newton","Surrey Newton"," 112","Surrey",N,N,"",1,390,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 112","Surrey",N,N,"",1,390,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 113","Surrey",N,N,"",0,354,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,57
+59034,"Surrey Newton","Surrey Newton"," 113","Surrey",N,N,"",0,354,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,45
+59034,"Surrey Newton","Surrey Newton"," 113","Surrey",N,N,"",0,354,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 113","Surrey",N,N,"",0,354,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 114","Surrey",N,N,"",0,330,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,54
+59034,"Surrey Newton","Surrey Newton"," 114","Surrey",N,N,"",0,330,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,62
+59034,"Surrey Newton","Surrey Newton"," 114","Surrey",N,N,"",0,330,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 114","Surrey",N,N,"",0,330,"Zafar","","Salman","Communist","Communiste",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 115A","Surrey",N,N,"",1,364,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,87
+59034,"Surrey Newton","Surrey Newton"," 115A","Surrey",N,N,"",1,364,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,58
+59034,"Surrey Newton","Surrey Newton"," 115A","Surrey",N,N,"",1,364,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 115A","Surrey",N,N,"",1,364,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 115B","Surrey",N,N,"",0,378,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,29
+59034,"Surrey Newton","Surrey Newton"," 115B","Surrey",N,N,"",0,378,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,45
+59034,"Surrey Newton","Surrey Newton"," 115B","Surrey",N,N,"",0,378,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 115B","Surrey",N,N,"",0,378,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 116","Surrey",N,N,"",0,559,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,66
+59034,"Surrey Newton","Surrey Newton"," 116","Surrey",N,N,"",0,559,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,86
+59034,"Surrey Newton","Surrey Newton"," 116","Surrey",N,N,"",0,559,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59034,"Surrey Newton","Surrey Newton"," 116","Surrey",N,N,"",0,559,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 117","Surrey",N,N,"",1,336,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,48
+59034,"Surrey Newton","Surrey Newton"," 117","Surrey",N,N,"",1,336,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,57
+59034,"Surrey Newton","Surrey Newton"," 117","Surrey",N,N,"",1,336,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 117","Surrey",N,N,"",1,336,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 118","Surrey",N,N,"",0,288,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,56
+59034,"Surrey Newton","Surrey Newton"," 118","Surrey",N,N,"",0,288,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,43
+59034,"Surrey Newton","Surrey Newton"," 118","Surrey",N,N,"",0,288,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 118","Surrey",N,N,"",0,288,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 119","Surrey",N,N,"",1,430,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,70
+59034,"Surrey Newton","Surrey Newton"," 119","Surrey",N,N,"",1,430,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,69
+59034,"Surrey Newton","Surrey Newton"," 119","Surrey",N,N,"",1,430,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 119","Surrey",N,N,"",1,430,"Zafar","","Salman","Communist","Communiste",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 120","Surrey",N,N,"",0,338,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,47
+59034,"Surrey Newton","Surrey Newton"," 120","Surrey",N,N,"",0,338,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,48
+59034,"Surrey Newton","Surrey Newton"," 120","Surrey",N,N,"",0,338,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 120","Surrey",N,N,"",0,338,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 121","Surrey",N,N,"",0,547,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,81
+59034,"Surrey Newton","Surrey Newton"," 121","Surrey",N,N,"",0,547,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,70
+59034,"Surrey Newton","Surrey Newton"," 121","Surrey",N,N,"",0,547,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59034,"Surrey Newton","Surrey Newton"," 121","Surrey",N,N,"",0,547,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 122","Surrey",N,N,"",0,464,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,59
+59034,"Surrey Newton","Surrey Newton"," 122","Surrey",N,N,"",0,464,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,54
+59034,"Surrey Newton","Surrey Newton"," 122","Surrey",N,N,"",0,464,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 122","Surrey",N,N,"",0,464,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 123","Surrey",N,N,"",0,352,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,37
+59034,"Surrey Newton","Surrey Newton"," 123","Surrey",N,N,"",0,352,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,68
+59034,"Surrey Newton","Surrey Newton"," 123","Surrey",N,N,"",0,352,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 123","Surrey",N,N,"",0,352,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 124","Surrey",N,N,"",2,499,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,56
+59034,"Surrey Newton","Surrey Newton"," 124","Surrey",N,N,"",2,499,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,77
+59034,"Surrey Newton","Surrey Newton"," 124","Surrey",N,N,"",2,499,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 124","Surrey",N,N,"",2,499,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 125","Surrey",N,N,"",0,379,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,42
+59034,"Surrey Newton","Surrey Newton"," 125","Surrey",N,N,"",0,379,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,49
+59034,"Surrey Newton","Surrey Newton"," 125","Surrey",N,N,"",0,379,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 125","Surrey",N,N,"",0,379,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 126","Surrey",N,N,"",0,472,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,68
+59034,"Surrey Newton","Surrey Newton"," 126","Surrey",N,N,"",0,472,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,55
+59034,"Surrey Newton","Surrey Newton"," 126","Surrey",N,N,"",0,472,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 126","Surrey",N,N,"",0,472,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 127","Surrey",N,N,"",1,450,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,51
+59034,"Surrey Newton","Surrey Newton"," 127","Surrey",N,N,"",1,450,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,73
+59034,"Surrey Newton","Surrey Newton"," 127","Surrey",N,N,"",1,450,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59034,"Surrey Newton","Surrey Newton"," 127","Surrey",N,N,"",1,450,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 128","Surrey",N,N,"",1,322,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,31
+59034,"Surrey Newton","Surrey Newton"," 128","Surrey",N,N,"",1,322,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,35
+59034,"Surrey Newton","Surrey Newton"," 128","Surrey",N,N,"",1,322,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 128","Surrey",N,N,"",1,322,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 129","Surrey",N,N,"",0,553,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,95
+59034,"Surrey Newton","Surrey Newton"," 129","Surrey",N,N,"",0,553,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,82
+59034,"Surrey Newton","Surrey Newton"," 129","Surrey",N,N,"",0,553,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59034,"Surrey Newton","Surrey Newton"," 129","Surrey",N,N,"",0,553,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 130","Surrey",N,N,"",0,471,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,65
+59034,"Surrey Newton","Surrey Newton"," 130","Surrey",N,N,"",0,471,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,64
+59034,"Surrey Newton","Surrey Newton"," 130","Surrey",N,N,"",0,471,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 130","Surrey",N,N,"",0,471,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 131","Surrey",N,N,"",0,480,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,77
+59034,"Surrey Newton","Surrey Newton"," 131","Surrey",N,N,"",0,480,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,98
+59034,"Surrey Newton","Surrey Newton"," 131","Surrey",N,N,"",0,480,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59034,"Surrey Newton","Surrey Newton"," 131","Surrey",N,N,"",0,480,"Zafar","","Salman","Communist","Communiste",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 132","Surrey",N,N,"",0,421,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,63
+59034,"Surrey Newton","Surrey Newton"," 132","Surrey",N,N,"",0,421,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,52
+59034,"Surrey Newton","Surrey Newton"," 132","Surrey",N,N,"",0,421,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 132","Surrey",N,N,"",0,421,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 133","Surrey",N,N,"",1,379,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,64
+59034,"Surrey Newton","Surrey Newton"," 133","Surrey",N,N,"",1,379,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,59
+59034,"Surrey Newton","Surrey Newton"," 133","Surrey",N,N,"",1,379,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 133","Surrey",N,N,"",1,379,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 134","Surrey",N,N,"",1,464,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,90
+59034,"Surrey Newton","Surrey Newton"," 134","Surrey",N,N,"",1,464,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,63
+59034,"Surrey Newton","Surrey Newton"," 134","Surrey",N,N,"",1,464,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 134","Surrey",N,N,"",1,464,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 135","Surrey",N,N,"",0,521,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,91
+59034,"Surrey Newton","Surrey Newton"," 135","Surrey",N,N,"",0,521,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,84
+59034,"Surrey Newton","Surrey Newton"," 135","Surrey",N,N,"",0,521,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 135","Surrey",N,N,"",0,521,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 136A","Surrey",N,N,"",1,299,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,54
+59034,"Surrey Newton","Surrey Newton"," 136A","Surrey",N,N,"",1,299,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,48
+59034,"Surrey Newton","Surrey Newton"," 136A","Surrey",N,N,"",1,299,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 136A","Surrey",N,N,"",1,299,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 136B","Surrey",N,N,"",0,315,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,30
+59034,"Surrey Newton","Surrey Newton"," 136B","Surrey",N,N,"",0,315,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,50
+59034,"Surrey Newton","Surrey Newton"," 136B","Surrey",N,N,"",0,315,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 136B","Surrey",N,N,"",0,315,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 137","Surrey",N,N,"",2,464,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,62
+59034,"Surrey Newton","Surrey Newton"," 137","Surrey",N,N,"",2,464,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,82
+59034,"Surrey Newton","Surrey Newton"," 137","Surrey",N,N,"",2,464,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 137","Surrey",N,N,"",2,464,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 138","Surrey",N,N,"",4,420,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,58
+59034,"Surrey Newton","Surrey Newton"," 138","Surrey",N,N,"",4,420,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,63
+59034,"Surrey Newton","Surrey Newton"," 138","Surrey",N,N,"",4,420,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59034,"Surrey Newton","Surrey Newton"," 138","Surrey",N,N,"",4,420,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 139A","Surrey",N,N,"",1,325,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,36
+59034,"Surrey Newton","Surrey Newton"," 139A","Surrey",N,N,"",1,325,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,49
+59034,"Surrey Newton","Surrey Newton"," 139A","Surrey",N,N,"",1,325,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 139A","Surrey",N,N,"",1,325,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 139B","Surrey",N,N,"",2,326,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,51
+59034,"Surrey Newton","Surrey Newton"," 139B","Surrey",N,N,"",2,326,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,32
+59034,"Surrey Newton","Surrey Newton"," 139B","Surrey",N,N,"",2,326,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 139B","Surrey",N,N,"",2,326,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 140A","Surrey",N,N,"",1,322,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,51
+59034,"Surrey Newton","Surrey Newton"," 140A","Surrey",N,N,"",1,322,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,53
+59034,"Surrey Newton","Surrey Newton"," 140A","Surrey",N,N,"",1,322,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 140A","Surrey",N,N,"",1,322,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 140B","Surrey",N,N,"",2,333,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,44
+59034,"Surrey Newton","Surrey Newton"," 140B","Surrey",N,N,"",2,333,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,52
+59034,"Surrey Newton","Surrey Newton"," 140B","Surrey",N,N,"",2,333,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 140B","Surrey",N,N,"",2,333,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 141","Surrey",N,N,"",2,359,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,32
+59034,"Surrey Newton","Surrey Newton"," 141","Surrey",N,N,"",2,359,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,55
+59034,"Surrey Newton","Surrey Newton"," 141","Surrey",N,N,"",2,359,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 141","Surrey",N,N,"",2,359,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 142","Surrey",N,N,"",2,532,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,79
+59034,"Surrey Newton","Surrey Newton"," 142","Surrey",N,N,"",2,532,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,54
+59034,"Surrey Newton","Surrey Newton"," 142","Surrey",N,N,"",2,532,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 142","Surrey",N,N,"",2,532,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 143","Surrey",N,N,"",0,495,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,60
+59034,"Surrey Newton","Surrey Newton"," 143","Surrey",N,N,"",0,495,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,76
+59034,"Surrey Newton","Surrey Newton"," 143","Surrey",N,N,"",0,495,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59034,"Surrey Newton","Surrey Newton"," 143","Surrey",N,N,"",0,495,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 144","Surrey",N,N,"",0,381,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,45
+59034,"Surrey Newton","Surrey Newton"," 144","Surrey",N,N,"",0,381,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,41
+59034,"Surrey Newton","Surrey Newton"," 144","Surrey",N,N,"",0,381,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 144","Surrey",N,N,"",0,381,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 500","Mobile poll/Bureau itinérant",N,N,"",4,58,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,58
+59034,"Surrey Newton","Surrey Newton"," 500","Mobile poll/Bureau itinérant",N,N,"",4,58,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,18
+59034,"Surrey Newton","Surrey Newton"," 500","Mobile poll/Bureau itinérant",N,N,"",4,58,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59034,"Surrey Newton","Surrey Newton"," 500","Mobile poll/Bureau itinérant",N,N,"",4,58,"Zafar","","Salman","Communist","Communiste",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,67,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,0
+59034,"Surrey Newton","Surrey Newton"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,67,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,67,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,67,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 502","Mobile poll/Bureau itinérant",N,N,"",8,94,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,65
+59034,"Surrey Newton","Surrey Newton"," 502","Mobile poll/Bureau itinérant",N,N,"",8,94,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,27
+59034,"Surrey Newton","Surrey Newton"," 502","Mobile poll/Bureau itinérant",N,N,"",8,94,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59034,"Surrey Newton","Surrey Newton"," 502","Mobile poll/Bureau itinérant",N,N,"",8,94,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,79,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,0
+59034,"Surrey Newton","Surrey Newton"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,79,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,79,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,79,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 504","Mobile poll/Bureau itinérant",N,N,"",0,101,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,51
+59034,"Surrey Newton","Surrey Newton"," 504","Mobile poll/Bureau itinérant",N,N,"",0,101,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,20
+59034,"Surrey Newton","Surrey Newton"," 504","Mobile poll/Bureau itinérant",N,N,"",0,101,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59034,"Surrey Newton","Surrey Newton"," 504","Mobile poll/Bureau itinérant",N,N,"",0,101,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,40,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,0
+59034,"Surrey Newton","Surrey Newton"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,40,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,40,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,40,"Zafar","","Salman","Communist","Communiste",N,N,0
+59034,"Surrey Newton","Surrey Newton"," 600","Surrey",N,N,"",9,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,621
+59034,"Surrey Newton","Surrey Newton"," 600","Surrey",N,N,"",9,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,603
+59034,"Surrey Newton","Surrey Newton"," 600","Surrey",N,N,"",9,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59034,"Surrey Newton","Surrey Newton"," 600","Surrey",N,N,"",9,0,"Zafar","","Salman","Communist","Communiste",N,N,2
+59034,"Surrey Newton","Surrey Newton"," 601","Surrey",N,N,"",16,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,900
+59034,"Surrey Newton","Surrey Newton"," 601","Surrey",N,N,"",16,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,771
+59034,"Surrey Newton","Surrey Newton"," 601","Surrey",N,N,"",16,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+59034,"Surrey Newton","Surrey Newton"," 601","Surrey",N,N,"",16,0,"Zafar","","Salman","Communist","Communiste",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 602","Surrey",N,N,"",11,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,845
+59034,"Surrey Newton","Surrey Newton"," 602","Surrey",N,N,"",11,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,676
+59034,"Surrey Newton","Surrey Newton"," 602","Surrey",N,N,"",11,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,135
+59034,"Surrey Newton","Surrey Newton"," 602","Surrey",N,N,"",11,0,"Zafar","","Salman","Communist","Communiste",N,N,8
+59034,"Surrey Newton","Surrey Newton"," 603","Surrey",N,N,"",7,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,627
+59034,"Surrey Newton","Surrey Newton"," 603","Surrey",N,N,"",7,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,548
+59034,"Surrey Newton","Surrey Newton"," 603","Surrey",N,N,"",7,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+59034,"Surrey Newton","Surrey Newton"," 603","Surrey",N,N,"",7,0,"Zafar","","Salman","Communist","Communiste",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 604","Surrey",N,N,"",23,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,734
+59034,"Surrey Newton","Surrey Newton"," 604","Surrey",N,N,"",23,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,685
+59034,"Surrey Newton","Surrey Newton"," 604","Surrey",N,N,"",23,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+59034,"Surrey Newton","Surrey Newton"," 604","Surrey",N,N,"",23,0,"Zafar","","Salman","Communist","Communiste",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 605","Surrey",N,N,"",5,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,564
+59034,"Surrey Newton","Surrey Newton"," 605","Surrey",N,N,"",5,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,403
+59034,"Surrey Newton","Surrey Newton"," 605","Surrey",N,N,"",5,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59034,"Surrey Newton","Surrey Newton"," 605","Surrey",N,N,"",5,0,"Zafar","","Salman","Communist","Communiste",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 606","Surrey",N,N,"",8,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,893
+59034,"Surrey Newton","Surrey Newton"," 606","Surrey",N,N,"",8,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,772
+59034,"Surrey Newton","Surrey Newton"," 606","Surrey",N,N,"",8,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,103
+59034,"Surrey Newton","Surrey Newton"," 606","Surrey",N,N,"",8,0,"Zafar","","Salman","Communist","Communiste",N,N,7
+59034,"Surrey Newton","Surrey Newton"," 607","Surrey",N,N,"",9,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,834
+59034,"Surrey Newton","Surrey Newton"," 607","Surrey",N,N,"",9,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,812
+59034,"Surrey Newton","Surrey Newton"," 607","Surrey",N,N,"",9,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+59034,"Surrey Newton","Surrey Newton"," 607","Surrey",N,N,"",9,0,"Zafar","","Salman","Communist","Communiste",N,N,3
+59034,"Surrey Newton","Surrey Newton"," 608","Surrey",N,N,"",13,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,769
+59034,"Surrey Newton","Surrey Newton"," 608","Surrey",N,N,"",13,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,654
+59034,"Surrey Newton","Surrey Newton"," 608","Surrey",N,N,"",13,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,106
+59034,"Surrey Newton","Surrey Newton"," 608","Surrey",N,N,"",13,0,"Zafar","","Salman","Communist","Communiste",N,N,4
+59034,"Surrey Newton","Surrey Newton"," 609","Surrey",N,N,"",14,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,794
+59034,"Surrey Newton","Surrey Newton"," 609","Surrey",N,N,"",14,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,696
+59034,"Surrey Newton","Surrey Newton"," 609","Surrey",N,N,"",14,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,105
+59034,"Surrey Newton","Surrey Newton"," 609","Surrey",N,N,"",14,0,"Zafar","","Salman","Communist","Communiste",N,N,1
+59034,"Surrey Newton","Surrey Newton"," 610","Surrey",N,N,"",10,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,860
+59034,"Surrey Newton","Surrey Newton"," 610","Surrey",N,N,"",10,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,760
+59034,"Surrey Newton","Surrey Newton"," 610","Surrey",N,N,"",10,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+59034,"Surrey Newton","Surrey Newton"," 610","Surrey",N,N,"",10,0,"Zafar","","Salman","Communist","Communiste",N,N,6
+59034,"Surrey Newton","Surrey Newton"," 611","Surrey",N,N,"",9,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,910
+59034,"Surrey Newton","Surrey Newton"," 611","Surrey",N,N,"",9,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,886
+59034,"Surrey Newton","Surrey Newton"," 611","Surrey",N,N,"",9,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+59034,"Surrey Newton","Surrey Newton"," 611","Surrey",N,N,"",9,0,"Zafar","","Salman","Communist","Communiste",N,N,8
+59034,"Surrey Newton","Surrey Newton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",28,138,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,267
+59034,"Surrey Newton","Surrey Newton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",28,138,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,176
+59034,"Surrey Newton","Surrey Newton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",28,138,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59034,"Surrey Newton","Surrey Newton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",28,138,"Zafar","","Salman","Communist","Communiste",N,N,8
+59034,"Surrey Newton","Surrey Newton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",44,0,"Dhaliwal","","Sukh","Liberal","Libéral",Y,Y,776
+59034,"Surrey Newton","Surrey Newton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",44,0,"Gill","","Harjit Singh","Conservative","Conservateur",N,N,539
+59034,"Surrey Newton","Surrey Newton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",44,0,"Toor","","Raj Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+59034,"Surrey Newton","Surrey Newton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",44,0,"Zafar","","Salman","Communist","Communiste",N,N,11

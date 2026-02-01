@@ -1,0 +1,969 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+60001,"Yukon","Yukon"," 1","Old Crow",N,N,"",1,170,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 1","Old Crow",N,N,"",1,170,"Hanley","","Brendan","Liberal","Libéral",N,Y,44
+60001,"Yukon","Yukon"," 1","Old Crow",N,N,"",1,170,"Leef","","Ryan","Conservative","Conservateur",N,N,15
+60001,"Yukon","Yukon"," 1","Old Crow",N,N,"",1,170,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+60001,"Yukon","Yukon"," 2A","Dawson",N,N,"",2,185,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,9
+60001,"Yukon","Yukon"," 2A","Dawson",N,N,"",2,185,"Hanley","","Brendan","Liberal","Libéral",N,Y,96
+60001,"Yukon","Yukon"," 2A","Dawson",N,N,"",2,185,"Leef","","Ryan","Conservative","Conservateur",N,N,76
+60001,"Yukon","Yukon"," 2A","Dawson",N,N,"",2,185,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+60001,"Yukon","Yukon"," 2B","Dawson",N,N,"",0,146,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,7
+60001,"Yukon","Yukon"," 2B","Dawson",N,N,"",0,146,"Hanley","","Brendan","Liberal","Libéral",N,Y,77
+60001,"Yukon","Yukon"," 2B","Dawson",N,N,"",0,146,"Leef","","Ryan","Conservative","Conservateur",N,N,78
+60001,"Yukon","Yukon"," 2B","Dawson",N,N,"",0,146,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+60001,"Yukon","Yukon"," 2C","Dawson",N,N,"",0,140,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,6
+60001,"Yukon","Yukon"," 2C","Dawson",N,N,"",0,140,"Hanley","","Brendan","Liberal","Libéral",N,Y,85
+60001,"Yukon","Yukon"," 2C","Dawson",N,N,"",0,140,"Leef","","Ryan","Conservative","Conservateur",N,N,86
+60001,"Yukon","Yukon"," 2C","Dawson",N,N,"",0,140,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+60001,"Yukon","Yukon"," 2-1","Eagle Plains",Y,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 2-1","Eagle Plains",Y,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 2-1","Eagle Plains",Y,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 2-1","Eagle Plains",Y,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 3A","Dawson",N,N,"2A",0,151,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 3A","Dawson",N,N,"2A",0,151,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 3A","Dawson",N,N,"2A",0,151,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 3A","Dawson",N,N,"2A",0,151,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 3B","Dawson",N,N,"2B",0,148,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 3B","Dawson",N,N,"2B",0,148,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 3B","Dawson",N,N,"2B",0,148,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 3B","Dawson",N,N,"2B",0,148,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 3C","Dawson",N,N,"2C",0,123,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 3C","Dawson",N,N,"2C",0,123,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 3C","Dawson",N,N,"2C",0,123,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 3C","Dawson",N,N,"2C",0,123,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 3-1A","Dawson",N,N,"2A",0,37,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 3-1A","Dawson",N,N,"2A",0,37,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 3-1A","Dawson",N,N,"2A",0,37,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 3-1A","Dawson",N,N,"2A",0,37,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 3-1B","Dawson",N,N,"2B",0,41,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 3-1B","Dawson",N,N,"2B",0,41,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 3-1B","Dawson",N,N,"2B",0,41,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 3-1B","Dawson",N,N,"2B",0,41,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 3-1C","Dawson",N,N,"2C",0,44,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 3-1C","Dawson",N,N,"2C",0,44,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 3-1C","Dawson",N,N,"2C",0,44,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 3-1C","Dawson",N,N,"2C",0,44,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 4A","Dawson",N,N,"2A",0,140,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 4A","Dawson",N,N,"2A",0,140,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 4A","Dawson",N,N,"2A",0,140,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 4A","Dawson",N,N,"2A",0,140,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 4B","Dawson",N,N,"2B",0,115,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 4B","Dawson",N,N,"2B",0,115,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 4B","Dawson",N,N,"2B",0,115,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 4B","Dawson",N,N,"2B",0,115,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 4C","Dawson",N,N,"2C",0,144,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 4C","Dawson",N,N,"2C",0,144,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 4C","Dawson",N,N,"2C",0,144,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 4C","Dawson",N,N,"2C",0,144,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 5A","Dawson",N,N,"2A",0,108,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 5A","Dawson",N,N,"2A",0,108,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 5A","Dawson",N,N,"2A",0,108,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 5A","Dawson",N,N,"2A",0,108,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 5B","Dawson",N,N,"2B",0,102,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 5B","Dawson",N,N,"2B",0,102,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 5B","Dawson",N,N,"2B",0,102,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 5B","Dawson",N,N,"2B",0,102,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 5C","Dawson",N,N,"2C",0,73,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 5C","Dawson",N,N,"2C",0,73,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 5C","Dawson",N,N,"2C",0,73,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 5C","Dawson",N,N,"2C",0,73,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 6","Mayo",N,N,"",0,191,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," 6","Mayo",N,N,"",0,191,"Hanley","","Brendan","Liberal","Libéral",N,Y,67
+60001,"Yukon","Yukon"," 6","Mayo",N,N,"",0,191,"Leef","","Ryan","Conservative","Conservateur",N,N,62
+60001,"Yukon","Yukon"," 6","Mayo",N,N,"",0,191,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+60001,"Yukon","Yukon"," 6-1","Mayo",N,N,"6",0,169,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 6-1","Mayo",N,N,"6",0,169,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 6-1","Mayo",N,N,"6",0,169,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 6-1","Mayo",N,N,"6",0,169,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 6-2","Keno Hill",N,N,"6",0,12,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 6-2","Keno Hill",N,N,"6",0,12,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 6-2","Keno Hill",N,N,"6",0,12,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 6-2","Keno Hill",N,N,"6",0,12,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 6-3","Steward Crossing",N,N,"6",0,5,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 6-3","Steward Crossing",N,N,"6",0,5,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 6-3","Steward Crossing",N,N,"6",0,5,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 6-3","Steward Crossing",N,N,"6",0,5,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 7","Beaver Creek",N,N,"",0,67,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 7","Beaver Creek",N,N,"",0,67,"Hanley","","Brendan","Liberal","Libéral",N,Y,8
+60001,"Yukon","Yukon"," 7","Beaver Creek",N,N,"",0,67,"Leef","","Ryan","Conservative","Conservateur",N,N,5
+60001,"Yukon","Yukon"," 7","Beaver Creek",N,N,"",0,67,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 8","Pelly Crossing",N,N,"",0,256,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 8","Pelly Crossing",N,N,"",0,256,"Hanley","","Brendan","Liberal","Libéral",N,Y,53
+60001,"Yukon","Yukon"," 8","Pelly Crossing",N,N,"",0,256,"Leef","","Ryan","Conservative","Conservateur",N,N,18
+60001,"Yukon","Yukon"," 8","Pelly Crossing",N,N,"",0,256,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+60001,"Yukon","Yukon"," 9","Faro",N,N,"",0,331,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 9","Faro",N,N,"",0,331,"Hanley","","Brendan","Liberal","Libéral",N,Y,37
+60001,"Yukon","Yukon"," 9","Faro",N,N,"",0,331,"Leef","","Ryan","Conservative","Conservateur",N,N,98
+60001,"Yukon","Yukon"," 9","Faro",N,N,"",0,331,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 10","Ross River",N,N,"",1,296,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 10","Ross River",N,N,"",1,296,"Hanley","","Brendan","Liberal","Libéral",N,Y,50
+60001,"Yukon","Yukon"," 10","Ross River",N,N,"",1,296,"Leef","","Ryan","Conservative","Conservateur",N,N,32
+60001,"Yukon","Yukon"," 10","Ross River",N,N,"",1,296,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+60001,"Yukon","Yukon"," 11","Carmacks",N,N,"",0,390,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,7
+60001,"Yukon","Yukon"," 11","Carmacks",N,N,"",0,390,"Hanley","","Brendan","Liberal","Libéral",N,Y,87
+60001,"Yukon","Yukon"," 11","Carmacks",N,N,"",0,390,"Leef","","Ryan","Conservative","Conservateur",N,N,71
+60001,"Yukon","Yukon"," 11","Carmacks",N,N,"",0,390,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+60001,"Yukon","Yukon"," 12","Destruction Bay",N,N,"12-1",0,67,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 12","Destruction Bay",N,N,"12-1",0,67,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 12","Destruction Bay",N,N,"12-1",0,67,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 12","Destruction Bay",N,N,"12-1",0,67,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 12-1","Burwash Landing",N,N,"",0,57,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 12-1","Burwash Landing",N,N,"",0,57,"Hanley","","Brendan","Liberal","Libéral",N,Y,20
+60001,"Yukon","Yukon"," 12-1","Burwash Landing",N,N,"",0,57,"Leef","","Ryan","Conservative","Conservateur",N,N,28
+60001,"Yukon","Yukon"," 12-1","Burwash Landing",N,N,"",0,57,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+60001,"Yukon","Yukon"," 13","Haines Junction",N,N,"",3,362,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," 13","Haines Junction",N,N,"",3,362,"Hanley","","Brendan","Liberal","Libéral",N,Y,85
+60001,"Yukon","Yukon"," 13","Haines Junction",N,N,"",3,362,"Leef","","Ryan","Conservative","Conservateur",N,N,53
+60001,"Yukon","Yukon"," 13","Haines Junction",N,N,"",3,362,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+60001,"Yukon","Yukon"," 14","Haines Junction",N,N,"",0,415,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 14","Haines Junction",N,N,"",0,415,"Hanley","","Brendan","Liberal","Libéral",N,Y,62
+60001,"Yukon","Yukon"," 14","Haines Junction",N,N,"",0,415,"Leef","","Ryan","Conservative","Conservateur",N,N,87
+60001,"Yukon","Yukon"," 14","Haines Junction",N,N,"",0,415,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+60001,"Yukon","Yukon"," 15","Mount Lorne",N,N,"",0,356,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,6
+60001,"Yukon","Yukon"," 15","Mount Lorne",N,N,"",0,356,"Hanley","","Brendan","Liberal","Libéral",N,Y,91
+60001,"Yukon","Yukon"," 15","Mount Lorne",N,N,"",0,356,"Leef","","Ryan","Conservative","Conservateur",N,N,75
+60001,"Yukon","Yukon"," 15","Mount Lorne",N,N,"",0,356,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+60001,"Yukon","Yukon"," 16","Marsh Lake",N,N,"",0,569,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,12
+60001,"Yukon","Yukon"," 16","Marsh Lake",N,N,"",0,569,"Hanley","","Brendan","Liberal","Libéral",N,Y,83
+60001,"Yukon","Yukon"," 16","Marsh Lake",N,N,"",0,569,"Leef","","Ryan","Conservative","Conservateur",N,N,122
+60001,"Yukon","Yukon"," 16","Marsh Lake",N,N,"",0,569,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+60001,"Yukon","Yukon"," 17","Carcross",N,N,"",2,367,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,13
+60001,"Yukon","Yukon"," 17","Carcross",N,N,"",2,367,"Hanley","","Brendan","Liberal","Libéral",N,Y,65
+60001,"Yukon","Yukon"," 17","Carcross",N,N,"",2,367,"Leef","","Ryan","Conservative","Conservateur",N,N,59
+60001,"Yukon","Yukon"," 17","Carcross",N,N,"",2,367,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+60001,"Yukon","Yukon"," 18","Tagish",N,N,"",2,300,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 18","Tagish",N,N,"",2,300,"Hanley","","Brendan","Liberal","Libéral",N,Y,37
+60001,"Yukon","Yukon"," 18","Tagish",N,N,"",2,300,"Leef","","Ryan","Conservative","Conservateur",N,N,51
+60001,"Yukon","Yukon"," 18","Tagish",N,N,"",2,300,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+60001,"Yukon","Yukon"," 19","Teslin",N,N,"19-3",0,69,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 19","Teslin",N,N,"19-3",0,69,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 19","Teslin",N,N,"19-3",0,69,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 19","Teslin",N,N,"19-3",0,69,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 19-1","Johnsons Crossing",N,N,"19-3",0,5,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 19-1","Johnsons Crossing",N,N,"19-3",0,5,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 19-1","Johnsons Crossing",N,N,"19-3",0,5,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 19-1","Johnsons Crossing",N,N,"19-3",0,5,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 19-2","Swift River",N,N,"19-3",0,1,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 19-2","Swift River",N,N,"19-3",0,1,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 19-2","Swift River",N,N,"19-3",0,1,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 19-2","Swift River",N,N,"19-3",0,1,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 19-3","Teslin",N,N,"",0,347,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 19-3","Teslin",N,N,"",0,347,"Hanley","","Brendan","Liberal","Libéral",N,Y,80
+60001,"Yukon","Yukon"," 19-3","Teslin",N,N,"",0,347,"Leef","","Ryan","Conservative","Conservateur",N,N,84
+60001,"Yukon","Yukon"," 19-3","Teslin",N,N,"",0,347,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+60001,"Yukon","Yukon"," 20A","Upper Liard",N,N,"",0,59,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 20A","Upper Liard",N,N,"",0,59,"Hanley","","Brendan","Liberal","Libéral",N,Y,68
+60001,"Yukon","Yukon"," 20A","Upper Liard",N,N,"",0,59,"Leef","","Ryan","Conservative","Conservateur",N,N,58
+60001,"Yukon","Yukon"," 20A","Upper Liard",N,N,"",0,59,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+60001,"Yukon","Yukon"," 20B","Upper Liard",N,N,"",0,50,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 20B","Upper Liard",N,N,"",0,50,"Hanley","","Brendan","Liberal","Libéral",N,Y,70
+60001,"Yukon","Yukon"," 20B","Upper Liard",N,N,"",0,50,"Leef","","Ryan","Conservative","Conservateur",N,N,76
+60001,"Yukon","Yukon"," 20B","Upper Liard",N,N,"",0,50,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+60001,"Yukon","Yukon"," 20-1","Tuchitua",Y,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 20-1","Tuchitua",Y,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 20-1","Tuchitua",Y,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 20-1","Tuchitua",Y,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 21A","Watson Lake",N,N,"20A",0,281,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 21A","Watson Lake",N,N,"20A",0,281,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 21A","Watson Lake",N,N,"20A",0,281,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 21A","Watson Lake",N,N,"20A",0,281,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 21B","Watson Lake",N,N,"20B",0,279,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 21B","Watson Lake",N,N,"20B",0,279,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 21B","Watson Lake",N,N,"20B",0,279,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 21B","Watson Lake",N,N,"20B",0,279,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 22A","Watson Lake",N,N,"20A",0,160,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 22A","Watson Lake",N,N,"20A",0,160,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 22A","Watson Lake",N,N,"20A",0,160,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 22A","Watson Lake",N,N,"20A",0,160,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 22B","Watson Lake",N,N,"20B",0,163,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 22B","Watson Lake",N,N,"20B",0,163,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 22B","Watson Lake",N,N,"20B",0,163,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 22B","Watson Lake",N,N,"20B",0,163,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 23A","Takhini",N,N,"",1,118,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," 23A","Takhini",N,N,"",1,118,"Hanley","","Brendan","Liberal","Libéral",N,Y,93
+60001,"Yukon","Yukon"," 23A","Takhini",N,N,"",1,118,"Leef","","Ryan","Conservative","Conservateur",N,N,117
+60001,"Yukon","Yukon"," 23A","Takhini",N,N,"",1,118,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+60001,"Yukon","Yukon"," 23B","Takhini",N,N,"",1,154,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,6
+60001,"Yukon","Yukon"," 23B","Takhini",N,N,"",1,154,"Hanley","","Brendan","Liberal","Libéral",N,Y,110
+60001,"Yukon","Yukon"," 23B","Takhini",N,N,"",1,154,"Leef","","Ryan","Conservative","Conservateur",N,N,134
+60001,"Yukon","Yukon"," 23B","Takhini",N,N,"",1,154,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+60001,"Yukon","Yukon"," 23C","Takhini",N,N,"",1,128,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,10
+60001,"Yukon","Yukon"," 23C","Takhini",N,N,"",1,128,"Hanley","","Brendan","Liberal","Libéral",N,Y,91
+60001,"Yukon","Yukon"," 23C","Takhini",N,N,"",1,128,"Leef","","Ryan","Conservative","Conservateur",N,N,114
+60001,"Yukon","Yukon"," 23C","Takhini",N,N,"",1,128,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 23D","Takhini",N,N,"",4,126,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," 23D","Takhini",N,N,"",4,126,"Hanley","","Brendan","Liberal","Libéral",N,Y,121
+60001,"Yukon","Yukon"," 23D","Takhini",N,N,"",4,126,"Leef","","Ryan","Conservative","Conservateur",N,N,104
+60001,"Yukon","Yukon"," 23D","Takhini",N,N,"",4,126,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+60001,"Yukon","Yukon"," 23-1A","Lake Laberge 1",N,N,"23A",0,1,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 23-1A","Lake Laberge 1",N,N,"23A",0,1,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 23-1A","Lake Laberge 1",N,N,"23A",0,1,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 23-1A","Lake Laberge 1",N,N,"23A",0,1,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 23-1B","Lake Laberge 1",N,N,"23B",0,2,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 23-1B","Lake Laberge 1",N,N,"23B",0,2,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 23-1B","Lake Laberge 1",N,N,"23B",0,2,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 23-1B","Lake Laberge 1",N,N,"23B",0,2,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 23-1C","Lake Laberge 1",N,N,"23C",0,1,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 23-1C","Lake Laberge 1",N,N,"23C",0,1,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 23-1C","Lake Laberge 1",N,N,"23C",0,1,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 23-1C","Lake Laberge 1",N,N,"23C",0,1,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 23-1D","Lake Laberge 1",N,N,"23D",0,2,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 23-1D","Lake Laberge 1",N,N,"23D",0,2,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 23-1D","Lake Laberge 1",N,N,"23D",0,2,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 23-1D","Lake Laberge 1",N,N,"23D",0,2,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 24A","Takhini",N,N,"23A",0,138,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 24A","Takhini",N,N,"23A",0,138,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 24A","Takhini",N,N,"23A",0,138,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 24A","Takhini",N,N,"23A",0,138,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 24B","Takhini",N,N,"23B",0,136,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 24B","Takhini",N,N,"23B",0,136,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 24B","Takhini",N,N,"23B",0,136,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 24B","Takhini",N,N,"23B",0,136,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 24C","Takhini",N,N,"23C",0,140,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 24C","Takhini",N,N,"23C",0,140,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 24C","Takhini",N,N,"23C",0,140,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 24C","Takhini",N,N,"23C",0,140,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 24D","Takhini",N,N,"23D",0,124,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 24D","Takhini",N,N,"23D",0,124,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 24D","Takhini",N,N,"23D",0,124,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 24D","Takhini",N,N,"23D",0,124,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 24-1","Little River",N,N,"23D",0,1,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 24-1","Little River",N,N,"23D",0,1,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 24-1","Little River",N,N,"23D",0,1,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 24-1","Little River",N,N,"23D",0,1,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 25A","Takhini",N,N,"23A",0,78,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 25A","Takhini",N,N,"23A",0,78,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 25A","Takhini",N,N,"23A",0,78,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 25A","Takhini",N,N,"23A",0,78,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 25B","Takhini",N,N,"23B",0,94,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 25B","Takhini",N,N,"23B",0,94,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 25B","Takhini",N,N,"23B",0,94,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 25B","Takhini",N,N,"23B",0,94,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 25C","Takhini",N,N,"23C",0,67,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 25C","Takhini",N,N,"23C",0,67,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 25C","Takhini",N,N,"23C",0,67,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 25C","Takhini",N,N,"23C",0,67,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 25D","Takhini",N,N,"23D",0,75,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 25D","Takhini",N,N,"23D",0,75,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 25D","Takhini",N,N,"23D",0,75,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 25D","Takhini",N,N,"23D",0,75,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 26A","Whitehorse",N,N,"23A",0,166,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 26A","Whitehorse",N,N,"23A",0,166,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 26A","Whitehorse",N,N,"23A",0,166,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 26A","Whitehorse",N,N,"23A",0,166,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 26B","Whitehorse",N,N,"23B",0,168,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 26B","Whitehorse",N,N,"23B",0,168,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 26B","Whitehorse",N,N,"23B",0,168,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 26B","Whitehorse",N,N,"23B",0,168,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 26C","Whitehorse",N,N,"23C",0,134,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 26C","Whitehorse",N,N,"23C",0,134,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 26C","Whitehorse",N,N,"23C",0,134,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 26C","Whitehorse",N,N,"23C",0,134,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 26D","Whitehorse",N,N,"23D",0,132,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 26D","Whitehorse",N,N,"23D",0,132,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 26D","Whitehorse",N,N,"23D",0,132,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 26D","Whitehorse",N,N,"23D",0,132,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 27","Whitehorse",N,N,"",2,345,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 27","Whitehorse",N,N,"",2,345,"Hanley","","Brendan","Liberal","Libéral",N,Y,47
+60001,"Yukon","Yukon"," 27","Whitehorse",N,N,"",2,345,"Leef","","Ryan","Conservative","Conservateur",N,N,77
+60001,"Yukon","Yukon"," 27","Whitehorse",N,N,"",2,345,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+60001,"Yukon","Yukon"," 28","Whitehorse",N,N,"",0,472,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 28","Whitehorse",N,N,"",0,472,"Hanley","","Brendan","Liberal","Libéral",N,Y,73
+60001,"Yukon","Yukon"," 28","Whitehorse",N,N,"",0,472,"Leef","","Ryan","Conservative","Conservateur",N,N,70
+60001,"Yukon","Yukon"," 28","Whitehorse",N,N,"",0,472,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+60001,"Yukon","Yukon"," 29","Whitehorse",N,N,"",0,408,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 29","Whitehorse",N,N,"",0,408,"Hanley","","Brendan","Liberal","Libéral",N,Y,73
+60001,"Yukon","Yukon"," 29","Whitehorse",N,N,"",0,408,"Leef","","Ryan","Conservative","Conservateur",N,N,63
+60001,"Yukon","Yukon"," 29","Whitehorse",N,N,"",0,408,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+60001,"Yukon","Yukon"," 30","Whitehorse",N,N,"",0,340,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," 30","Whitehorse",N,N,"",0,340,"Hanley","","Brendan","Liberal","Libéral",N,Y,64
+60001,"Yukon","Yukon"," 30","Whitehorse",N,N,"",0,340,"Leef","","Ryan","Conservative","Conservateur",N,N,72
+60001,"Yukon","Yukon"," 30","Whitehorse",N,N,"",0,340,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+60001,"Yukon","Yukon"," 31","Whitehorse",N,N,"",0,436,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 31","Whitehorse",N,N,"",0,436,"Hanley","","Brendan","Liberal","Libéral",N,Y,97
+60001,"Yukon","Yukon"," 31","Whitehorse",N,N,"",0,436,"Leef","","Ryan","Conservative","Conservateur",N,N,70
+60001,"Yukon","Yukon"," 31","Whitehorse",N,N,"",0,436,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+60001,"Yukon","Yukon"," 32","Whitehorse",N,N,"",1,406,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 32","Whitehorse",N,N,"",1,406,"Hanley","","Brendan","Liberal","Libéral",N,Y,65
+60001,"Yukon","Yukon"," 32","Whitehorse",N,N,"",1,406,"Leef","","Ryan","Conservative","Conservateur",N,N,77
+60001,"Yukon","Yukon"," 32","Whitehorse",N,N,"",1,406,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+60001,"Yukon","Yukon"," 33","Whitehorse",N,N,"",0,430,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,6
+60001,"Yukon","Yukon"," 33","Whitehorse",N,N,"",0,430,"Hanley","","Brendan","Liberal","Libéral",N,Y,84
+60001,"Yukon","Yukon"," 33","Whitehorse",N,N,"",0,430,"Leef","","Ryan","Conservative","Conservateur",N,N,110
+60001,"Yukon","Yukon"," 33","Whitehorse",N,N,"",0,430,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+60001,"Yukon","Yukon"," 34","Whitehorse",N,N,"",1,522,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 34","Whitehorse",N,N,"",1,522,"Hanley","","Brendan","Liberal","Libéral",N,Y,105
+60001,"Yukon","Yukon"," 34","Whitehorse",N,N,"",1,522,"Leef","","Ryan","Conservative","Conservateur",N,N,104
+60001,"Yukon","Yukon"," 34","Whitehorse",N,N,"",1,522,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+60001,"Yukon","Yukon"," 35","Whitehorse",N,N,"",0,420,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 35","Whitehorse",N,N,"",0,420,"Hanley","","Brendan","Liberal","Libéral",N,Y,82
+60001,"Yukon","Yukon"," 35","Whitehorse",N,N,"",0,420,"Leef","","Ryan","Conservative","Conservateur",N,N,82
+60001,"Yukon","Yukon"," 35","Whitehorse",N,N,"",0,420,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+60001,"Yukon","Yukon"," 36","Whitehorse",N,N,"",3,411,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 36","Whitehorse",N,N,"",3,411,"Hanley","","Brendan","Liberal","Libéral",N,Y,92
+60001,"Yukon","Yukon"," 36","Whitehorse",N,N,"",3,411,"Leef","","Ryan","Conservative","Conservateur",N,N,75
+60001,"Yukon","Yukon"," 36","Whitehorse",N,N,"",3,411,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+60001,"Yukon","Yukon"," 37","Whitehorse",N,N,"",1,350,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," 37","Whitehorse",N,N,"",1,350,"Hanley","","Brendan","Liberal","Libéral",N,Y,54
+60001,"Yukon","Yukon"," 37","Whitehorse",N,N,"",1,350,"Leef","","Ryan","Conservative","Conservateur",N,N,55
+60001,"Yukon","Yukon"," 37","Whitehorse",N,N,"",1,350,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+60001,"Yukon","Yukon"," 38","Whitehorse",N,N,"",1,504,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,7
+60001,"Yukon","Yukon"," 38","Whitehorse",N,N,"",1,504,"Hanley","","Brendan","Liberal","Libéral",N,Y,74
+60001,"Yukon","Yukon"," 38","Whitehorse",N,N,"",1,504,"Leef","","Ryan","Conservative","Conservateur",N,N,71
+60001,"Yukon","Yukon"," 38","Whitehorse",N,N,"",1,504,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+60001,"Yukon","Yukon"," 39A","Whitehorse",N,N,"",1,45,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 39A","Whitehorse",N,N,"",1,45,"Hanley","","Brendan","Liberal","Libéral",N,Y,105
+60001,"Yukon","Yukon"," 39A","Whitehorse",N,N,"",1,45,"Leef","","Ryan","Conservative","Conservateur",N,N,62
+60001,"Yukon","Yukon"," 39A","Whitehorse",N,N,"",1,45,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+60001,"Yukon","Yukon"," 39B","Whitehorse",N,N,"",0,60,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 39B","Whitehorse",N,N,"",0,60,"Hanley","","Brendan","Liberal","Libéral",N,Y,110
+60001,"Yukon","Yukon"," 39B","Whitehorse",N,N,"",0,60,"Leef","","Ryan","Conservative","Conservateur",N,N,74
+60001,"Yukon","Yukon"," 39B","Whitehorse",N,N,"",0,60,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+60001,"Yukon","Yukon"," 39C","Whitehorse",N,N,"",1,46,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," 39C","Whitehorse",N,N,"",1,46,"Hanley","","Brendan","Liberal","Libéral",N,Y,88
+60001,"Yukon","Yukon"," 39C","Whitehorse",N,N,"",1,46,"Leef","","Ryan","Conservative","Conservateur",N,N,63
+60001,"Yukon","Yukon"," 39C","Whitehorse",N,N,"",1,46,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+60001,"Yukon","Yukon"," 39D","Whitehorse",N,N,"",2,59,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 39D","Whitehorse",N,N,"",2,59,"Hanley","","Brendan","Liberal","Libéral",N,Y,139
+60001,"Yukon","Yukon"," 39D","Whitehorse",N,N,"",2,59,"Leef","","Ryan","Conservative","Conservateur",N,N,72
+60001,"Yukon","Yukon"," 39D","Whitehorse",N,N,"",2,59,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+60001,"Yukon","Yukon"," 39E","Whitehorse",N,N,"",3,45,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 39E","Whitehorse",N,N,"",3,45,"Hanley","","Brendan","Liberal","Libéral",N,Y,98
+60001,"Yukon","Yukon"," 39E","Whitehorse",N,N,"",3,45,"Leef","","Ryan","Conservative","Conservateur",N,N,73
+60001,"Yukon","Yukon"," 39E","Whitehorse",N,N,"",3,45,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+60001,"Yukon","Yukon"," 39F","Whitehorse",N,N,"",0,52,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 39F","Whitehorse",N,N,"",0,52,"Hanley","","Brendan","Liberal","Libéral",N,Y,81
+60001,"Yukon","Yukon"," 39F","Whitehorse",N,N,"",0,52,"Leef","","Ryan","Conservative","Conservateur",N,N,78
+60001,"Yukon","Yukon"," 39F","Whitehorse",N,N,"",0,52,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+60001,"Yukon","Yukon"," 40A","Whitehorse",N,N,"39A",0,110,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 40A","Whitehorse",N,N,"39A",0,110,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 40A","Whitehorse",N,N,"39A",0,110,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 40A","Whitehorse",N,N,"39A",0,110,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 40B","Whitehorse",N,N,"39B",0,95,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 40B","Whitehorse",N,N,"39B",0,95,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 40B","Whitehorse",N,N,"39B",0,95,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 40B","Whitehorse",N,N,"39B",0,95,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 40C","Whitehorse",N,N,"39C",0,79,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 40C","Whitehorse",N,N,"39C",0,79,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 40C","Whitehorse",N,N,"39C",0,79,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 40C","Whitehorse",N,N,"39C",0,79,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 40D","Whitehorse",N,N,"39D",0,100,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 40D","Whitehorse",N,N,"39D",0,100,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 40D","Whitehorse",N,N,"39D",0,100,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 40D","Whitehorse",N,N,"39D",0,100,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 40E","Whitehorse",N,N,"39E",0,80,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 40E","Whitehorse",N,N,"39E",0,80,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 40E","Whitehorse",N,N,"39E",0,80,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 40E","Whitehorse",N,N,"39E",0,80,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 40F","Whitehorse",N,N,"39F",0,88,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 40F","Whitehorse",N,N,"39F",0,88,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 40F","Whitehorse",N,N,"39F",0,88,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 40F","Whitehorse",N,N,"39F",0,88,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 41A","Whitehorse",N,N,"39A",0,103,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 41A","Whitehorse",N,N,"39A",0,103,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 41A","Whitehorse",N,N,"39A",0,103,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 41A","Whitehorse",N,N,"39A",0,103,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 41B","Whitehorse",N,N,"39B",0,121,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 41B","Whitehorse",N,N,"39B",0,121,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 41B","Whitehorse",N,N,"39B",0,121,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 41B","Whitehorse",N,N,"39B",0,121,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 41C","Whitehorse",N,N,"39C",0,90,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 41C","Whitehorse",N,N,"39C",0,90,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 41C","Whitehorse",N,N,"39C",0,90,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 41C","Whitehorse",N,N,"39C",0,90,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 41D","Whitehorse",N,N,"39D",0,126,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 41D","Whitehorse",N,N,"39D",0,126,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 41D","Whitehorse",N,N,"39D",0,126,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 41D","Whitehorse",N,N,"39D",0,126,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 41E","Whitehorse",N,N,"39E",0,123,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 41E","Whitehorse",N,N,"39E",0,123,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 41E","Whitehorse",N,N,"39E",0,123,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 41E","Whitehorse",N,N,"39E",0,123,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 41F","Whitehorse",N,N,"39F",0,90,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 41F","Whitehorse",N,N,"39F",0,90,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 41F","Whitehorse",N,N,"39F",0,90,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 41F","Whitehorse",N,N,"39F",0,90,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 42A","Whitehorse",N,N,"39A",0,76,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 42A","Whitehorse",N,N,"39A",0,76,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 42A","Whitehorse",N,N,"39A",0,76,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 42A","Whitehorse",N,N,"39A",0,76,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 42B","Whitehorse",N,N,"39B",0,60,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 42B","Whitehorse",N,N,"39B",0,60,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 42B","Whitehorse",N,N,"39B",0,60,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 42B","Whitehorse",N,N,"39B",0,60,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 42C","Whitehorse",N,N,"39C",0,67,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 42C","Whitehorse",N,N,"39C",0,67,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 42C","Whitehorse",N,N,"39C",0,67,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 42C","Whitehorse",N,N,"39C",0,67,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 42D","Whitehorse",N,N,"39D",0,92,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 42D","Whitehorse",N,N,"39D",0,92,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 42D","Whitehorse",N,N,"39D",0,92,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 42D","Whitehorse",N,N,"39D",0,92,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 42E","Whitehorse",N,N,"39E",0,77,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 42E","Whitehorse",N,N,"39E",0,77,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 42E","Whitehorse",N,N,"39E",0,77,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 42E","Whitehorse",N,N,"39E",0,77,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 42F","Whitehorse",N,N,"39F",0,71,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 42F","Whitehorse",N,N,"39F",0,71,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 42F","Whitehorse",N,N,"39F",0,71,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 42F","Whitehorse",N,N,"39F",0,71,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 43A","Whitehorse",N,N,"39A",0,49,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 43A","Whitehorse",N,N,"39A",0,49,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 43A","Whitehorse",N,N,"39A",0,49,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 43A","Whitehorse",N,N,"39A",0,49,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 43B","Whitehorse",N,N,"39B",0,90,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 43B","Whitehorse",N,N,"39B",0,90,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 43B","Whitehorse",N,N,"39B",0,90,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 43B","Whitehorse",N,N,"39B",0,90,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 43C","Whitehorse",N,N,"39C",0,51,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 43C","Whitehorse",N,N,"39C",0,51,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 43C","Whitehorse",N,N,"39C",0,51,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 43C","Whitehorse",N,N,"39C",0,51,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 43D","Whitehorse",N,N,"39D",0,72,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 43D","Whitehorse",N,N,"39D",0,72,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 43D","Whitehorse",N,N,"39D",0,72,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 43D","Whitehorse",N,N,"39D",0,72,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 43E","Whitehorse",N,N,"39E",0,69,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 43E","Whitehorse",N,N,"39E",0,69,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 43E","Whitehorse",N,N,"39E",0,69,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 43E","Whitehorse",N,N,"39E",0,69,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 43F","Whitehorse",N,N,"39F",0,72,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 43F","Whitehorse",N,N,"39F",0,72,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 43F","Whitehorse",N,N,"39F",0,72,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 43F","Whitehorse",N,N,"39F",0,72,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 44","Whitehorse",N,N,"",2,481,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,7
+60001,"Yukon","Yukon"," 44","Whitehorse",N,N,"",2,481,"Hanley","","Brendan","Liberal","Libéral",N,Y,87
+60001,"Yukon","Yukon"," 44","Whitehorse",N,N,"",2,481,"Leef","","Ryan","Conservative","Conservateur",N,N,63
+60001,"Yukon","Yukon"," 44","Whitehorse",N,N,"",2,481,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 45","Whitehorse",N,N,"",0,482,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 45","Whitehorse",N,N,"",0,482,"Hanley","","Brendan","Liberal","Libéral",N,Y,121
+60001,"Yukon","Yukon"," 45","Whitehorse",N,N,"",0,482,"Leef","","Ryan","Conservative","Conservateur",N,N,49
+60001,"Yukon","Yukon"," 45","Whitehorse",N,N,"",0,482,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+60001,"Yukon","Yukon"," 46","Whitehorse",N,N,"",2,435,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,6
+60001,"Yukon","Yukon"," 46","Whitehorse",N,N,"",2,435,"Hanley","","Brendan","Liberal","Libéral",N,Y,114
+60001,"Yukon","Yukon"," 46","Whitehorse",N,N,"",2,435,"Leef","","Ryan","Conservative","Conservateur",N,N,38
+60001,"Yukon","Yukon"," 46","Whitehorse",N,N,"",2,435,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+60001,"Yukon","Yukon"," 47","Whitehorse",N,N,"",3,366,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 47","Whitehorse",N,N,"",3,366,"Hanley","","Brendan","Liberal","Libéral",N,Y,69
+60001,"Yukon","Yukon"," 47","Whitehorse",N,N,"",3,366,"Leef","","Ryan","Conservative","Conservateur",N,N,35
+60001,"Yukon","Yukon"," 47","Whitehorse",N,N,"",3,366,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+60001,"Yukon","Yukon"," 48","Whitehorse",N,N,"",0,408,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,6
+60001,"Yukon","Yukon"," 48","Whitehorse",N,N,"",0,408,"Hanley","","Brendan","Liberal","Libéral",N,Y,76
+60001,"Yukon","Yukon"," 48","Whitehorse",N,N,"",0,408,"Leef","","Ryan","Conservative","Conservateur",N,N,54
+60001,"Yukon","Yukon"," 48","Whitehorse",N,N,"",0,408,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+60001,"Yukon","Yukon"," 49A","Whitehorse",N,N,"",0,80,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," 49A","Whitehorse",N,N,"",0,80,"Hanley","","Brendan","Liberal","Libéral",N,Y,105
+60001,"Yukon","Yukon"," 49A","Whitehorse",N,N,"",0,80,"Leef","","Ryan","Conservative","Conservateur",N,N,55
+60001,"Yukon","Yukon"," 49A","Whitehorse",N,N,"",0,80,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+60001,"Yukon","Yukon"," 49B","Whitehorse",N,N,"",0,69,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 49B","Whitehorse",N,N,"",0,69,"Hanley","","Brendan","Liberal","Libéral",N,Y,75
+60001,"Yukon","Yukon"," 49B","Whitehorse",N,N,"",0,69,"Leef","","Ryan","Conservative","Conservateur",N,N,51
+60001,"Yukon","Yukon"," 49B","Whitehorse",N,N,"",0,69,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+60001,"Yukon","Yukon"," 49C","Whitehorse",N,N,"",1,37,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 49C","Whitehorse",N,N,"",1,37,"Hanley","","Brendan","Liberal","Libéral",N,Y,72
+60001,"Yukon","Yukon"," 49C","Whitehorse",N,N,"",1,37,"Leef","","Ryan","Conservative","Conservateur",N,N,42
+60001,"Yukon","Yukon"," 49C","Whitehorse",N,N,"",1,37,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+60001,"Yukon","Yukon"," 49D","Whitehorse",N,N,"",2,44,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 49D","Whitehorse",N,N,"",2,44,"Hanley","","Brendan","Liberal","Libéral",N,Y,103
+60001,"Yukon","Yukon"," 49D","Whitehorse",N,N,"",2,44,"Leef","","Ryan","Conservative","Conservateur",N,N,74
+60001,"Yukon","Yukon"," 49D","Whitehorse",N,N,"",2,44,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+60001,"Yukon","Yukon"," 49E","Whitehorse",N,N,"",2,109,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 49E","Whitehorse",N,N,"",2,109,"Hanley","","Brendan","Liberal","Libéral",N,Y,106
+60001,"Yukon","Yukon"," 49E","Whitehorse",N,N,"",2,109,"Leef","","Ryan","Conservative","Conservateur",N,N,49
+60001,"Yukon","Yukon"," 49E","Whitehorse",N,N,"",2,109,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+60001,"Yukon","Yukon"," 50A","Whitehorse",N,N,"49A",0,101,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 50A","Whitehorse",N,N,"49A",0,101,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 50A","Whitehorse",N,N,"49A",0,101,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 50A","Whitehorse",N,N,"49A",0,101,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 50B","Whitehorse",N,N,"49B",0,70,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 50B","Whitehorse",N,N,"49B",0,70,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 50B","Whitehorse",N,N,"49B",0,70,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 50B","Whitehorse",N,N,"49B",0,70,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 50C","Whitehorse",N,N,"49C",0,80,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 50C","Whitehorse",N,N,"49C",0,80,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 50C","Whitehorse",N,N,"49C",0,80,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 50C","Whitehorse",N,N,"49C",0,80,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 50D","Whitehorse",N,N,"49D",0,112,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 50D","Whitehorse",N,N,"49D",0,112,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 50D","Whitehorse",N,N,"49D",0,112,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 50D","Whitehorse",N,N,"49D",0,112,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 50E","Whitehorse",N,N,"49E",0,82,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 50E","Whitehorse",N,N,"49E",0,82,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 50E","Whitehorse",N,N,"49E",0,82,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 50E","Whitehorse",N,N,"49E",0,82,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 51A","Whitehorse",N,N,"49A",0,116,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 51A","Whitehorse",N,N,"49A",0,116,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 51A","Whitehorse",N,N,"49A",0,116,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 51A","Whitehorse",N,N,"49A",0,116,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 51B","Whitehorse",N,N,"49B",0,81,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 51B","Whitehorse",N,N,"49B",0,81,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 51B","Whitehorse",N,N,"49B",0,81,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 51B","Whitehorse",N,N,"49B",0,81,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 51C","Whitehorse",N,N,"49C",0,87,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 51C","Whitehorse",N,N,"49C",0,87,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 51C","Whitehorse",N,N,"49C",0,87,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 51C","Whitehorse",N,N,"49C",0,87,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 51D","Whitehorse",N,N,"49D",0,133,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 51D","Whitehorse",N,N,"49D",0,133,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 51D","Whitehorse",N,N,"49D",0,133,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 51D","Whitehorse",N,N,"49D",0,133,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 51E","Whitehorse",N,N,"49E",0,101,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 51E","Whitehorse",N,N,"49E",0,101,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 51E","Whitehorse",N,N,"49E",0,101,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 51E","Whitehorse",N,N,"49E",0,101,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 52A","Whitehorse",N,N,"49A",0,61,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 52A","Whitehorse",N,N,"49A",0,61,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 52A","Whitehorse",N,N,"49A",0,61,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 52A","Whitehorse",N,N,"49A",0,61,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 52B","Whitehorse",N,N,"49B",0,76,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 52B","Whitehorse",N,N,"49B",0,76,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 52B","Whitehorse",N,N,"49B",0,76,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 52B","Whitehorse",N,N,"49B",0,76,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 52C","Whitehorse",N,N,"49C",0,64,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 52C","Whitehorse",N,N,"49C",0,64,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 52C","Whitehorse",N,N,"49C",0,64,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 52C","Whitehorse",N,N,"49C",0,64,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 52D","Whitehorse",N,N,"49D",0,88,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 52D","Whitehorse",N,N,"49D",0,88,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 52D","Whitehorse",N,N,"49D",0,88,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 52D","Whitehorse",N,N,"49D",0,88,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 52E","Whitehorse",N,N,"49E",0,69,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 52E","Whitehorse",N,N,"49E",0,69,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 52E","Whitehorse",N,N,"49E",0,69,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 52E","Whitehorse",N,N,"49E",0,69,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 53A","Whitehorse",N,N,"49A",0,74,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 53A","Whitehorse",N,N,"49A",0,74,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 53A","Whitehorse",N,N,"49A",0,74,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 53A","Whitehorse",N,N,"49A",0,74,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 53B","Whitehorse",N,N,"49B",0,57,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 53B","Whitehorse",N,N,"49B",0,57,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 53B","Whitehorse",N,N,"49B",0,57,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 53B","Whitehorse",N,N,"49B",0,57,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 53C","Whitehorse",N,N,"49C",0,66,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 53C","Whitehorse",N,N,"49C",0,66,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 53C","Whitehorse",N,N,"49C",0,66,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 53C","Whitehorse",N,N,"49C",0,66,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 53D","Whitehorse",N,N,"49D",0,88,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 53D","Whitehorse",N,N,"49D",0,88,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 53D","Whitehorse",N,N,"49D",0,88,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 53D","Whitehorse",N,N,"49D",0,88,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 53E","Whitehorse",N,N,"49E",0,70,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 53E","Whitehorse",N,N,"49E",0,70,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 53E","Whitehorse",N,N,"49E",0,70,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 53E","Whitehorse",N,N,"49E",0,70,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 54A","Whitehorse",N,N,"",1,48,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 54A","Whitehorse",N,N,"",1,48,"Hanley","","Brendan","Liberal","Libéral",N,Y,79
+60001,"Yukon","Yukon"," 54A","Whitehorse",N,N,"",1,48,"Leef","","Ryan","Conservative","Conservateur",N,N,61
+60001,"Yukon","Yukon"," 54A","Whitehorse",N,N,"",1,48,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+60001,"Yukon","Yukon"," 54B","Whitehorse",N,N,"",0,75,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 54B","Whitehorse",N,N,"",0,75,"Hanley","","Brendan","Liberal","Libéral",N,Y,89
+60001,"Yukon","Yukon"," 54B","Whitehorse",N,N,"",0,75,"Leef","","Ryan","Conservative","Conservateur",N,N,114
+60001,"Yukon","Yukon"," 54B","Whitehorse",N,N,"",0,75,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+60001,"Yukon","Yukon"," 54C","Whitehorse",N,N,"",0,75,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 54C","Whitehorse",N,N,"",0,75,"Hanley","","Brendan","Liberal","Libéral",N,Y,83
+60001,"Yukon","Yukon"," 54C","Whitehorse",N,N,"",0,75,"Leef","","Ryan","Conservative","Conservateur",N,N,72
+60001,"Yukon","Yukon"," 54C","Whitehorse",N,N,"",0,75,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 54D","Whitehorse",N,N,"",0,67,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 54D","Whitehorse",N,N,"",0,67,"Hanley","","Brendan","Liberal","Libéral",N,Y,87
+60001,"Yukon","Yukon"," 54D","Whitehorse",N,N,"",0,67,"Leef","","Ryan","Conservative","Conservateur",N,N,75
+60001,"Yukon","Yukon"," 54D","Whitehorse",N,N,"",0,67,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 54E","Whitehorse",N,N,"",0,47,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 54E","Whitehorse",N,N,"",0,47,"Hanley","","Brendan","Liberal","Libéral",N,Y,73
+60001,"Yukon","Yukon"," 54E","Whitehorse",N,N,"",0,47,"Leef","","Ryan","Conservative","Conservateur",N,N,78
+60001,"Yukon","Yukon"," 54E","Whitehorse",N,N,"",0,47,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+60001,"Yukon","Yukon"," 54F","Whitehorse",N,N,"",1,66,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 54F","Whitehorse",N,N,"",1,66,"Hanley","","Brendan","Liberal","Libéral",N,Y,97
+60001,"Yukon","Yukon"," 54F","Whitehorse",N,N,"",1,66,"Leef","","Ryan","Conservative","Conservateur",N,N,86
+60001,"Yukon","Yukon"," 54F","Whitehorse",N,N,"",1,66,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+60001,"Yukon","Yukon"," 55A","Whitehorse",N,N,"54A",0,56,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 55A","Whitehorse",N,N,"54A",0,56,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 55A","Whitehorse",N,N,"54A",0,56,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 55A","Whitehorse",N,N,"54A",0,56,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 55B","Whitehorse",N,N,"54B",0,64,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 55B","Whitehorse",N,N,"54B",0,64,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 55B","Whitehorse",N,N,"54B",0,64,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 55B","Whitehorse",N,N,"54B",0,64,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 55C","Whitehorse",N,N,"54C",0,44,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 55C","Whitehorse",N,N,"54C",0,44,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 55C","Whitehorse",N,N,"54C",0,44,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 55C","Whitehorse",N,N,"54C",0,44,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 55D","Whitehorse",N,N,"54D",0,48,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 55D","Whitehorse",N,N,"54D",0,48,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 55D","Whitehorse",N,N,"54D",0,48,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 55D","Whitehorse",N,N,"54D",0,48,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 55E","Whitehorse",N,N,"54E",0,40,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 55E","Whitehorse",N,N,"54E",0,40,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 55E","Whitehorse",N,N,"54E",0,40,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 55E","Whitehorse",N,N,"54E",0,40,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 55F","Whitehorse",N,N,"54F",0,56,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 55F","Whitehorse",N,N,"54F",0,56,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 55F","Whitehorse",N,N,"54F",0,56,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 55F","Whitehorse",N,N,"54F",0,56,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 56A","Whitehorse",N,N,"54A",0,51,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 56A","Whitehorse",N,N,"54A",0,51,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 56A","Whitehorse",N,N,"54A",0,51,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 56A","Whitehorse",N,N,"54A",0,51,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 56B","Whitehorse",N,N,"54B",0,79,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 56B","Whitehorse",N,N,"54B",0,79,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 56B","Whitehorse",N,N,"54B",0,79,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 56B","Whitehorse",N,N,"54B",0,79,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 56C","Whitehorse",N,N,"54C",0,76,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 56C","Whitehorse",N,N,"54C",0,76,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 56C","Whitehorse",N,N,"54C",0,76,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 56C","Whitehorse",N,N,"54C",0,76,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 56D","Whitehorse",N,N,"54D",0,64,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 56D","Whitehorse",N,N,"54D",0,64,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 56D","Whitehorse",N,N,"54D",0,64,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 56D","Whitehorse",N,N,"54D",0,64,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 56E","Whitehorse",N,N,"54E",0,76,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 56E","Whitehorse",N,N,"54E",0,76,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 56E","Whitehorse",N,N,"54E",0,76,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 56E","Whitehorse",N,N,"54E",0,76,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 56F","Whitehorse",N,N,"54F",0,58,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 56F","Whitehorse",N,N,"54F",0,58,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 56F","Whitehorse",N,N,"54F",0,58,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 56F","Whitehorse",N,N,"54F",0,58,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 57A","Whitehorse",N,N,"54A",0,51,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 57A","Whitehorse",N,N,"54A",0,51,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 57A","Whitehorse",N,N,"54A",0,51,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 57A","Whitehorse",N,N,"54A",0,51,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 57B","Whitehorse",N,N,"54B",0,49,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 57B","Whitehorse",N,N,"54B",0,49,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 57B","Whitehorse",N,N,"54B",0,49,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 57B","Whitehorse",N,N,"54B",0,49,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 57C","Whitehorse",N,N,"54C",0,58,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 57C","Whitehorse",N,N,"54C",0,58,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 57C","Whitehorse",N,N,"54C",0,58,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 57C","Whitehorse",N,N,"54C",0,58,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 57D","Whitehorse",N,N,"54D",0,81,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 57D","Whitehorse",N,N,"54D",0,81,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 57D","Whitehorse",N,N,"54D",0,81,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 57D","Whitehorse",N,N,"54D",0,81,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 57E","Whitehorse",N,N,"54E",0,54,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 57E","Whitehorse",N,N,"54E",0,54,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 57E","Whitehorse",N,N,"54E",0,54,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 57E","Whitehorse",N,N,"54E",0,54,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 57F","Whitehorse",N,N,"54F",0,62,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 57F","Whitehorse",N,N,"54F",0,62,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 57F","Whitehorse",N,N,"54F",0,62,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 57F","Whitehorse",N,N,"54F",0,62,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 58A","Whitehorse",N,N,"54A",0,57,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 58A","Whitehorse",N,N,"54A",0,57,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 58A","Whitehorse",N,N,"54A",0,57,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 58A","Whitehorse",N,N,"54A",0,57,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 58B","Whitehorse",N,N,"54B",0,72,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 58B","Whitehorse",N,N,"54B",0,72,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 58B","Whitehorse",N,N,"54B",0,72,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 58B","Whitehorse",N,N,"54B",0,72,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 58C","Whitehorse",N,N,"54C",0,49,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 58C","Whitehorse",N,N,"54C",0,49,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 58C","Whitehorse",N,N,"54C",0,49,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 58C","Whitehorse",N,N,"54C",0,49,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 58D","Whitehorse",N,N,"54D",0,49,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 58D","Whitehorse",N,N,"54D",0,49,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 58D","Whitehorse",N,N,"54D",0,49,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 58D","Whitehorse",N,N,"54D",0,49,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 58E","Whitehorse",N,N,"54E",0,78,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 58E","Whitehorse",N,N,"54E",0,78,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 58E","Whitehorse",N,N,"54E",0,78,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 58E","Whitehorse",N,N,"54E",0,78,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 58F","Whitehorse",N,N,"54F",0,72,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 58F","Whitehorse",N,N,"54F",0,72,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 58F","Whitehorse",N,N,"54F",0,72,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 58F","Whitehorse",N,N,"54F",0,72,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 59A","Whitehorse",N,N,"54A",0,59,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 59A","Whitehorse",N,N,"54A",0,59,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 59A","Whitehorse",N,N,"54A",0,59,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 59A","Whitehorse",N,N,"54A",0,59,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 59B","Whitehorse",N,N,"54B",0,69,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 59B","Whitehorse",N,N,"54B",0,69,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 59B","Whitehorse",N,N,"54B",0,69,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 59B","Whitehorse",N,N,"54B",0,69,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 59C","Whitehorse",N,N,"54C",0,44,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 59C","Whitehorse",N,N,"54C",0,44,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 59C","Whitehorse",N,N,"54C",0,44,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 59C","Whitehorse",N,N,"54C",0,44,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 59D","Whitehorse",N,N,"54D",0,66,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 59D","Whitehorse",N,N,"54D",0,66,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 59D","Whitehorse",N,N,"54D",0,66,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 59D","Whitehorse",N,N,"54D",0,66,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 59E","Whitehorse",N,N,"54E",0,55,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 59E","Whitehorse",N,N,"54E",0,55,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 59E","Whitehorse",N,N,"54E",0,55,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 59E","Whitehorse",N,N,"54E",0,55,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 59F","Whitehorse",N,N,"54F",0,78,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 59F","Whitehorse",N,N,"54F",0,78,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 59F","Whitehorse",N,N,"54F",0,78,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 59F","Whitehorse",N,N,"54F",0,78,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 60A","Whitehorse",N,N,"54A",0,44,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 60A","Whitehorse",N,N,"54A",0,44,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 60A","Whitehorse",N,N,"54A",0,44,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 60A","Whitehorse",N,N,"54A",0,44,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 60B","Whitehorse",N,N,"54B",0,69,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 60B","Whitehorse",N,N,"54B",0,69,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 60B","Whitehorse",N,N,"54B",0,69,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 60B","Whitehorse",N,N,"54B",0,69,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 60C","Whitehorse",N,N,"54C",0,56,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 60C","Whitehorse",N,N,"54C",0,56,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 60C","Whitehorse",N,N,"54C",0,56,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 60C","Whitehorse",N,N,"54C",0,56,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 60D","Whitehorse",N,N,"54D",0,68,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 60D","Whitehorse",N,N,"54D",0,68,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 60D","Whitehorse",N,N,"54D",0,68,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 60D","Whitehorse",N,N,"54D",0,68,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 60E","Whitehorse",N,N,"54E",0,75,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 60E","Whitehorse",N,N,"54E",0,75,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 60E","Whitehorse",N,N,"54E",0,75,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 60E","Whitehorse",N,N,"54E",0,75,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 60F","Whitehorse",N,N,"54F",0,66,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 60F","Whitehorse",N,N,"54F",0,66,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 60F","Whitehorse",N,N,"54F",0,66,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 60F","Whitehorse",N,N,"54F",0,66,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 61","Whitehorse",N,N,"",2,395,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 61","Whitehorse",N,N,"",2,395,"Hanley","","Brendan","Liberal","Libéral",N,Y,62
+60001,"Yukon","Yukon"," 61","Whitehorse",N,N,"",2,395,"Leef","","Ryan","Conservative","Conservateur",N,N,46
+60001,"Yukon","Yukon"," 61","Whitehorse",N,N,"",2,395,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+60001,"Yukon","Yukon"," 62","Whitehorse",N,N,"",0,419,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,6
+60001,"Yukon","Yukon"," 62","Whitehorse",N,N,"",0,419,"Hanley","","Brendan","Liberal","Libéral",N,Y,83
+60001,"Yukon","Yukon"," 62","Whitehorse",N,N,"",0,419,"Leef","","Ryan","Conservative","Conservateur",N,N,35
+60001,"Yukon","Yukon"," 62","Whitehorse",N,N,"",0,419,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+60001,"Yukon","Yukon"," 63","Whitehorse",N,N,"",1,351,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 63","Whitehorse",N,N,"",1,351,"Hanley","","Brendan","Liberal","Libéral",N,Y,62
+60001,"Yukon","Yukon"," 63","Whitehorse",N,N,"",1,351,"Leef","","Ryan","Conservative","Conservateur",N,N,27
+60001,"Yukon","Yukon"," 63","Whitehorse",N,N,"",1,351,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+60001,"Yukon","Yukon"," 64A","Whitehorse",N,N,"",0,120,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," 64A","Whitehorse",N,N,"",0,120,"Hanley","","Brendan","Liberal","Libéral",N,Y,57
+60001,"Yukon","Yukon"," 64A","Whitehorse",N,N,"",0,120,"Leef","","Ryan","Conservative","Conservateur",N,N,24
+60001,"Yukon","Yukon"," 64A","Whitehorse",N,N,"",0,120,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 64B","Whitehorse",N,N,"",1,103,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 64B","Whitehorse",N,N,"",1,103,"Hanley","","Brendan","Liberal","Libéral",N,Y,42
+60001,"Yukon","Yukon"," 64B","Whitehorse",N,N,"",1,103,"Leef","","Ryan","Conservative","Conservateur",N,N,26
+60001,"Yukon","Yukon"," 64B","Whitehorse",N,N,"",1,103,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+60001,"Yukon","Yukon"," 64C","Whitehorse",N,N,"",0,128,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 64C","Whitehorse",N,N,"",0,128,"Hanley","","Brendan","Liberal","Libéral",N,Y,35
+60001,"Yukon","Yukon"," 64C","Whitehorse",N,N,"",0,128,"Leef","","Ryan","Conservative","Conservateur",N,N,40
+60001,"Yukon","Yukon"," 64C","Whitehorse",N,N,"",0,128,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+60001,"Yukon","Yukon"," 65A","Whitehorse",N,N,"64A",0,115,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 65A","Whitehorse",N,N,"64A",0,115,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 65A","Whitehorse",N,N,"64A",0,115,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 65A","Whitehorse",N,N,"64A",0,115,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 65B","Whitehorse",N,N,"64B",0,96,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 65B","Whitehorse",N,N,"64B",0,96,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 65B","Whitehorse",N,N,"64B",0,96,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 65B","Whitehorse",N,N,"64B",0,96,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 65C","Whitehorse",N,N,"64C",0,109,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 65C","Whitehorse",N,N,"64C",0,109,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 65C","Whitehorse",N,N,"64C",0,109,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 65C","Whitehorse",N,N,"64C",0,109,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 66A","Whitehorse",N,N,"64A",0,122,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 66A","Whitehorse",N,N,"64A",0,122,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 66A","Whitehorse",N,N,"64A",0,122,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 66A","Whitehorse",N,N,"64A",0,122,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 66B","Whitehorse",N,N,"64B",0,129,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 66B","Whitehorse",N,N,"64B",0,129,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 66B","Whitehorse",N,N,"64B",0,129,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 66B","Whitehorse",N,N,"64B",0,129,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 66C","Whitehorse",N,N,"64C",0,132,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 66C","Whitehorse",N,N,"64C",0,132,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 66C","Whitehorse",N,N,"64C",0,132,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 66C","Whitehorse",N,N,"64C",0,132,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 67","Whitehorse",N,N,"",2,365,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,6
+60001,"Yukon","Yukon"," 67","Whitehorse",N,N,"",2,365,"Hanley","","Brendan","Liberal","Libéral",N,Y,69
+60001,"Yukon","Yukon"," 67","Whitehorse",N,N,"",2,365,"Leef","","Ryan","Conservative","Conservateur",N,N,23
+60001,"Yukon","Yukon"," 67","Whitehorse",N,N,"",2,365,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+60001,"Yukon","Yukon"," 68","Whitehorse",N,N,"",2,381,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 68","Whitehorse",N,N,"",2,381,"Hanley","","Brendan","Liberal","Libéral",N,Y,59
+60001,"Yukon","Yukon"," 68","Whitehorse",N,N,"",2,381,"Leef","","Ryan","Conservative","Conservateur",N,N,31
+60001,"Yukon","Yukon"," 68","Whitehorse",N,N,"",2,381,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+60001,"Yukon","Yukon"," 69","Whitehorse",N,N,"",0,379,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 69","Whitehorse",N,N,"",0,379,"Hanley","","Brendan","Liberal","Libéral",N,Y,69
+60001,"Yukon","Yukon"," 69","Whitehorse",N,N,"",0,379,"Leef","","Ryan","Conservative","Conservateur",N,N,28
+60001,"Yukon","Yukon"," 69","Whitehorse",N,N,"",0,379,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+60001,"Yukon","Yukon"," 70","Whitehorse",N,N,"",0,445,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 70","Whitehorse",N,N,"",0,445,"Hanley","","Brendan","Liberal","Libéral",N,Y,83
+60001,"Yukon","Yukon"," 70","Whitehorse",N,N,"",0,445,"Leef","","Ryan","Conservative","Conservateur",N,N,39
+60001,"Yukon","Yukon"," 70","Whitehorse",N,N,"",0,445,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+60001,"Yukon","Yukon"," 71","Whitehorse",N,N,"",1,429,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 71","Whitehorse",N,N,"",1,429,"Hanley","","Brendan","Liberal","Libéral",N,Y,69
+60001,"Yukon","Yukon"," 71","Whitehorse",N,N,"",1,429,"Leef","","Ryan","Conservative","Conservateur",N,N,49
+60001,"Yukon","Yukon"," 71","Whitehorse",N,N,"",1,429,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+60001,"Yukon","Yukon"," 72","Whitehorse",N,N,"",0,461,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,7
+60001,"Yukon","Yukon"," 72","Whitehorse",N,N,"",0,461,"Hanley","","Brendan","Liberal","Libéral",N,Y,80
+60001,"Yukon","Yukon"," 72","Whitehorse",N,N,"",0,461,"Leef","","Ryan","Conservative","Conservateur",N,N,39
+60001,"Yukon","Yukon"," 72","Whitehorse",N,N,"",0,461,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+60001,"Yukon","Yukon"," 73","Whitehorse",N,N,"",1,415,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 73","Whitehorse",N,N,"",1,415,"Hanley","","Brendan","Liberal","Libéral",N,Y,93
+60001,"Yukon","Yukon"," 73","Whitehorse",N,N,"",1,415,"Leef","","Ryan","Conservative","Conservateur",N,N,44
+60001,"Yukon","Yukon"," 73","Whitehorse",N,N,"",1,415,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+60001,"Yukon","Yukon"," 74","Whitehorse",N,N,"",0,386,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 74","Whitehorse",N,N,"",0,386,"Hanley","","Brendan","Liberal","Libéral",N,Y,87
+60001,"Yukon","Yukon"," 74","Whitehorse",N,N,"",0,386,"Leef","","Ryan","Conservative","Conservateur",N,N,25
+60001,"Yukon","Yukon"," 74","Whitehorse",N,N,"",0,386,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+60001,"Yukon","Yukon"," 75","Whitehorse",N,N,"",0,420,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 75","Whitehorse",N,N,"",0,420,"Hanley","","Brendan","Liberal","Libéral",N,Y,76
+60001,"Yukon","Yukon"," 75","Whitehorse",N,N,"",0,420,"Leef","","Ryan","Conservative","Conservateur",N,N,69
+60001,"Yukon","Yukon"," 75","Whitehorse",N,N,"",0,420,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+60001,"Yukon","Yukon"," 76","Whitehorse",N,N,"",1,482,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 76","Whitehorse",N,N,"",1,482,"Hanley","","Brendan","Liberal","Libéral",N,Y,80
+60001,"Yukon","Yukon"," 76","Whitehorse",N,N,"",1,482,"Leef","","Ryan","Conservative","Conservateur",N,N,75
+60001,"Yukon","Yukon"," 76","Whitehorse",N,N,"",1,482,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+60001,"Yukon","Yukon"," 77","Whitehorse",N,N,"",1,499,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,3
+60001,"Yukon","Yukon"," 77","Whitehorse",N,N,"",1,499,"Hanley","","Brendan","Liberal","Libéral",N,Y,84
+60001,"Yukon","Yukon"," 77","Whitehorse",N,N,"",1,499,"Leef","","Ryan","Conservative","Conservateur",N,N,81
+60001,"Yukon","Yukon"," 77","Whitehorse",N,N,"",1,499,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+60001,"Yukon","Yukon"," 78A","Whitehorse",N,N,"",0,183,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 78A","Whitehorse",N,N,"",0,183,"Hanley","","Brendan","Liberal","Libéral",N,Y,23
+60001,"Yukon","Yukon"," 78A","Whitehorse",N,N,"",0,183,"Leef","","Ryan","Conservative","Conservateur",N,N,34
+60001,"Yukon","Yukon"," 78A","Whitehorse",N,N,"",0,183,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+60001,"Yukon","Yukon"," 78B","Whitehorse",N,N,"",3,330,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,8
+60001,"Yukon","Yukon"," 78B","Whitehorse",N,N,"",3,330,"Hanley","","Brendan","Liberal","Libéral",N,Y,64
+60001,"Yukon","Yukon"," 78B","Whitehorse",N,N,"",3,330,"Leef","","Ryan","Conservative","Conservateur",N,N,90
+60001,"Yukon","Yukon"," 78B","Whitehorse",N,N,"",3,330,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+60001,"Yukon","Yukon"," 500","Mobile poll/Bureau itinérant",N,N,"",5,124,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,6
+60001,"Yukon","Yukon"," 500","Mobile poll/Bureau itinérant",N,N,"",5,124,"Hanley","","Brendan","Liberal","Libéral",N,Y,28
+60001,"Yukon","Yukon"," 500","Mobile poll/Bureau itinérant",N,N,"",5,124,"Leef","","Ryan","Conservative","Conservateur",N,N,23
+60001,"Yukon","Yukon"," 500","Mobile poll/Bureau itinérant",N,N,"",5,124,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+60001,"Yukon","Yukon"," 501","Mobile poll/Bureau itinérant",N,N,"",2,80,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 501","Mobile poll/Bureau itinérant",N,N,"",2,80,"Hanley","","Brendan","Liberal","Libéral",N,Y,28
+60001,"Yukon","Yukon"," 501","Mobile poll/Bureau itinérant",N,N,"",2,80,"Leef","","Ryan","Conservative","Conservateur",N,N,7
+60001,"Yukon","Yukon"," 501","Mobile poll/Bureau itinérant",N,N,"",2,80,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+60001,"Yukon","Yukon"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,23,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,23,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,23,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,23,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 600","Old Crow",N,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 600","Old Crow",N,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,3
+60001,"Yukon","Yukon"," 600","Old Crow",N,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,4
+60001,"Yukon","Yukon"," 600","Old Crow",N,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+60001,"Yukon","Yukon"," 601","Dawson",N,N,"603",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 601","Dawson",N,N,"603",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 601","Dawson",N,N,"603",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 601","Dawson",N,N,"603",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 602","Eagle Plains",N,N,"603",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 602","Eagle Plains",N,N,"603",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 602","Eagle Plains",N,N,"603",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 602","Eagle Plains",N,N,"603",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 603","Dawson",N,N,"",2,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,7
+60001,"Yukon","Yukon"," 603","Dawson",N,N,"",2,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,151
+60001,"Yukon","Yukon"," 603","Dawson",N,N,"",2,0,"Leef","","Ryan","Conservative","Conservateur",N,N,133
+60001,"Yukon","Yukon"," 603","Dawson",N,N,"",2,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+60001,"Yukon","Yukon"," 604","Steward Crossing",N,N,"606",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 604","Steward Crossing",N,N,"606",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 604","Steward Crossing",N,N,"606",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 604","Steward Crossing",N,N,"606",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 605","Keno Hill",N,N,"606",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 605","Keno Hill",N,N,"606",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 605","Keno Hill",N,N,"606",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 605","Keno Hill",N,N,"606",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 606","Mayo",N,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 606","Mayo",N,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,16
+60001,"Yukon","Yukon"," 606","Mayo",N,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,18
+60001,"Yukon","Yukon"," 606","Mayo",N,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+60001,"Yukon","Yukon"," 607","Mayo",N,N,"606",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 607","Mayo",N,N,"606",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 607","Mayo",N,N,"606",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 607","Mayo",N,N,"606",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 608","Beaver Creek",N,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 608","Beaver Creek",N,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,6
+60001,"Yukon","Yukon"," 608","Beaver Creek",N,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,10
+60001,"Yukon","Yukon"," 608","Beaver Creek",N,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+60001,"Yukon","Yukon"," 609","Pelly Crossing",N,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 609","Pelly Crossing",N,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,15
+60001,"Yukon","Yukon"," 609","Pelly Crossing",N,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,3
+60001,"Yukon","Yukon"," 609","Pelly Crossing",N,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+60001,"Yukon","Yukon"," 610","Faro",N,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 610","Faro",N,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,25
+60001,"Yukon","Yukon"," 610","Faro",N,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,50
+60001,"Yukon","Yukon"," 610","Faro",N,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+60001,"Yukon","Yukon"," 611","Ross River",N,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 611","Ross River",N,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,3
+60001,"Yukon","Yukon"," 611","Ross River",N,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,16
+60001,"Yukon","Yukon"," 611","Ross River",N,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 612","Carmacks",N,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,2
+60001,"Yukon","Yukon"," 612","Carmacks",N,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,13
+60001,"Yukon","Yukon"," 612","Carmacks",N,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,34
+60001,"Yukon","Yukon"," 612","Carmacks",N,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+60001,"Yukon","Yukon"," 613","Destruction Bay",N,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 613","Destruction Bay",N,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,13
+60001,"Yukon","Yukon"," 613","Destruction Bay",N,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,7
+60001,"Yukon","Yukon"," 613","Destruction Bay",N,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+60001,"Yukon","Yukon"," 614","Burwash Landing",N,N,"613",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 614","Burwash Landing",N,N,"613",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 614","Burwash Landing",N,N,"613",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 614","Burwash Landing",N,N,"613",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 615","Haines Junction",N,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,5
+60001,"Yukon","Yukon"," 615","Haines Junction",N,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,109
+60001,"Yukon","Yukon"," 615","Haines Junction",N,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,96
+60001,"Yukon","Yukon"," 615","Haines Junction",N,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+60001,"Yukon","Yukon"," 616","Carcross",N,N,"631",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 616","Carcross",N,N,"631",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 616","Carcross",N,N,"631",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 616","Carcross",N,N,"631",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 617","Tagish",N,N,"631",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 617","Tagish",N,N,"631",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 617","Tagish",N,N,"631",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 617","Tagish",N,N,"631",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 618","Teslin",N,N,"620",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 618","Teslin",N,N,"620",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 618","Teslin",N,N,"620",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 618","Teslin",N,N,"620",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 619","Johnsons Crossing",N,N,"620",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 619","Johnsons Crossing",N,N,"620",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 619","Johnsons Crossing",N,N,"620",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 619","Johnsons Crossing",N,N,"620",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 620","Teslin",N,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,1
+60001,"Yukon","Yukon"," 620","Teslin",N,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,33
+60001,"Yukon","Yukon"," 620","Teslin",N,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,33
+60001,"Yukon","Yukon"," 620","Teslin",N,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+60001,"Yukon","Yukon"," 621","Swift River",N,N,"",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 621","Swift River",N,N,"",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 621","Swift River",N,N,"",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 621","Swift River",N,N,"",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 622","Tuchitua",N,N,"624",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 622","Tuchitua",N,N,"624",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 622","Tuchitua",N,N,"624",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 622","Tuchitua",N,N,"624",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 623","Upper Liard",N,N,"624",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 623","Upper Liard",N,N,"624",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 623","Upper Liard",N,N,"624",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 623","Upper Liard",N,N,"624",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 624","Watson Lake",N,N,"",1,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,4
+60001,"Yukon","Yukon"," 624","Watson Lake",N,N,"",1,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,62
+60001,"Yukon","Yukon"," 624","Watson Lake",N,N,"",1,0,"Leef","","Ryan","Conservative","Conservateur",N,N,144
+60001,"Yukon","Yukon"," 624","Watson Lake",N,N,"",1,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+60001,"Yukon","Yukon"," 625","Little River",N,N,"627",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 625","Little River",N,N,"627",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 625","Little River",N,N,"627",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 625","Little River",N,N,"627",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 626","Lake Laberge 1",N,N,"627",0,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,0
+60001,"Yukon","Yukon"," 626","Lake Laberge 1",N,N,"627",0,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,0
+60001,"Yukon","Yukon"," 626","Lake Laberge 1",N,N,"627",0,0,"Leef","","Ryan","Conservative","Conservateur",N,N,0
+60001,"Yukon","Yukon"," 626","Lake Laberge 1",N,N,"627",0,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+60001,"Yukon","Yukon"," 627","Takhini",N,N,"",1,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,8
+60001,"Yukon","Yukon"," 627","Takhini",N,N,"",1,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,325
+60001,"Yukon","Yukon"," 627","Takhini",N,N,"",1,0,"Leef","","Ryan","Conservative","Conservateur",N,N,279
+60001,"Yukon","Yukon"," 627","Takhini",N,N,"",1,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+60001,"Yukon","Yukon"," 628","Whitehorse",N,N,"",1,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,12
+60001,"Yukon","Yukon"," 628","Whitehorse",N,N,"",1,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,494
+60001,"Yukon","Yukon"," 628","Whitehorse",N,N,"",1,0,"Leef","","Ryan","Conservative","Conservateur",N,N,274
+60001,"Yukon","Yukon"," 628","Whitehorse",N,N,"",1,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+60001,"Yukon","Yukon"," 629","Whitehorse",N,N,"",1,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,12
+60001,"Yukon","Yukon"," 629","Whitehorse",N,N,"",1,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,516
+60001,"Yukon","Yukon"," 629","Whitehorse",N,N,"",1,0,"Leef","","Ryan","Conservative","Conservateur",N,N,305
+60001,"Yukon","Yukon"," 629","Whitehorse",N,N,"",1,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+60001,"Yukon","Yukon"," 630","Whitehorse",N,N,"",7,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,15
+60001,"Yukon","Yukon"," 630","Whitehorse",N,N,"",7,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,755
+60001,"Yukon","Yukon"," 630","Whitehorse",N,N,"",7,0,"Leef","","Ryan","Conservative","Conservateur",N,N,242
+60001,"Yukon","Yukon"," 630","Whitehorse",N,N,"",7,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+60001,"Yukon","Yukon"," 631","Whitehorse--Marsh Lake",N,N,"",1,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,14
+60001,"Yukon","Yukon"," 631","Whitehorse--Marsh Lake",N,N,"",1,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,263
+60001,"Yukon","Yukon"," 631","Whitehorse--Marsh Lake",N,N,"",1,0,"Leef","","Ryan","Conservative","Conservateur",N,N,172
+60001,"Yukon","Yukon"," 631","Whitehorse--Marsh Lake",N,N,"",1,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+60001,"Yukon","Yukon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,135,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,10
+60001,"Yukon","Yukon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,135,"Hanley","","Brendan","Liberal","Libéral",N,Y,332
+60001,"Yukon","Yukon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,135,"Leef","","Ryan","Conservative","Conservateur",N,N,151
+60001,"Yukon","Yukon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,135,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+60001,"Yukon","Yukon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",26,0,"Dupont","","Gabrielle","Green Party","Parti Vert",N,N,86
+60001,"Yukon","Yukon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",26,0,"Hanley","","Brendan","Liberal","Libéral",N,Y,2895
+60001,"Yukon","Yukon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",26,0,"Leef","","Ryan","Conservative","Conservateur",N,N,1846
+60001,"Yukon","Yukon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",26,0,"McCallum","","Katherine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,253

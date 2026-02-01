@@ -1,0 +1,991 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 1","Edmonton",N,N,"",3,557,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 1","Edmonton",N,N,"",3,557,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 1","Edmonton",N,N,"",3,557,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 1","Edmonton",N,N,"",3,557,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,141
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 1","Edmonton",N,N,"",3,557,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 1","Edmonton",N,N,"",3,557,"Sohi","","Amarjeet","Liberal","Libéral",N,N,99
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 2","Edmonton",N,N,"",4,704,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 2","Edmonton",N,N,"",4,704,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 2","Edmonton",N,N,"",4,704,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 2","Edmonton",N,N,"",4,704,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,144
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 2","Edmonton",N,N,"",4,704,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 2","Edmonton",N,N,"",4,704,"Sohi","","Amarjeet","Liberal","Libéral",N,N,122
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 3","Edmonton",N,N,"",0,551,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 3","Edmonton",N,N,"",0,551,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 3","Edmonton",N,N,"",0,551,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 3","Edmonton",N,N,"",0,551,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,119
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 3","Edmonton",N,N,"",0,551,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 3","Edmonton",N,N,"",0,551,"Sohi","","Amarjeet","Liberal","Libéral",N,N,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 4","Edmonton",N,N,"",10,658,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 4","Edmonton",N,N,"",10,658,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 4","Edmonton",N,N,"",10,658,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 4","Edmonton",N,N,"",10,658,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,120
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 4","Edmonton",N,N,"",10,658,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 4","Edmonton",N,N,"",10,658,"Sohi","","Amarjeet","Liberal","Libéral",N,N,131
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 5","Edmonton",N,N,"",3,608,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 5","Edmonton",N,N,"",3,608,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 5","Edmonton",N,N,"",3,608,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 5","Edmonton",N,N,"",3,608,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,109
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 5","Edmonton",N,N,"",3,608,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 5","Edmonton",N,N,"",3,608,"Sohi","","Amarjeet","Liberal","Libéral",N,N,108
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 6","Edmonton",N,N,"",0,506,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 6","Edmonton",N,N,"",0,506,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 6","Edmonton",N,N,"",0,506,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 6","Edmonton",N,N,"",0,506,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,158
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 6","Edmonton",N,N,"",0,506,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 6","Edmonton",N,N,"",0,506,"Sohi","","Amarjeet","Liberal","Libéral",N,N,100
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 7","Edmonton",N,N,"",3,717,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 7","Edmonton",N,N,"",3,717,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 7","Edmonton",N,N,"",3,717,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 7","Edmonton",N,N,"",3,717,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,178
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 7","Edmonton",N,N,"",3,717,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 7","Edmonton",N,N,"",3,717,"Sohi","","Amarjeet","Liberal","Libéral",N,N,157
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 8","Edmonton",N,N,"",0,442,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 8","Edmonton",N,N,"",0,442,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 8","Edmonton",N,N,"",0,442,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 8","Edmonton",N,N,"",0,442,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,125
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 8","Edmonton",N,N,"",0,442,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 8","Edmonton",N,N,"",0,442,"Sohi","","Amarjeet","Liberal","Libéral",N,N,108
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 9","Edmonton",N,N,"",3,465,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 9","Edmonton",N,N,"",3,465,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 9","Edmonton",N,N,"",3,465,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 9","Edmonton",N,N,"",3,465,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,110
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 9","Edmonton",N,N,"",3,465,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 9","Edmonton",N,N,"",3,465,"Sohi","","Amarjeet","Liberal","Libéral",N,N,89
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 10","Edmonton",N,N,"",1,430,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 10","Edmonton",N,N,"",1,430,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 10","Edmonton",N,N,"",1,430,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 10","Edmonton",N,N,"",1,430,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,97
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 10","Edmonton",N,N,"",1,430,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 10","Edmonton",N,N,"",1,430,"Sohi","","Amarjeet","Liberal","Libéral",N,N,42
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 11","Edmonton",N,N,"",0,600,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 11","Edmonton",N,N,"",0,600,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 11","Edmonton",N,N,"",0,600,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 11","Edmonton",N,N,"",0,600,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,120
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 11","Edmonton",N,N,"",0,600,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 11","Edmonton",N,N,"",0,600,"Sohi","","Amarjeet","Liberal","Libéral",N,N,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 12","Edmonton",N,N,"",0,529,"Benson","","Corinne","Communist","Communiste",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 12","Edmonton",N,N,"",0,529,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 12","Edmonton",N,N,"",0,529,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 12","Edmonton",N,N,"",0,529,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,111
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 12","Edmonton",N,N,"",0,529,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 12","Edmonton",N,N,"",0,529,"Sohi","","Amarjeet","Liberal","Libéral",N,N,70
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 13","Edmonton",N,N,"",1,508,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 13","Edmonton",N,N,"",1,508,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 13","Edmonton",N,N,"",1,508,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 13","Edmonton",N,N,"",1,508,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,76
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 13","Edmonton",N,N,"",1,508,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 13","Edmonton",N,N,"",1,508,"Sohi","","Amarjeet","Liberal","Libéral",N,N,70
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 14","Edmonton",N,N,"",0,484,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 14","Edmonton",N,N,"",0,484,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 14","Edmonton",N,N,"",0,484,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 14","Edmonton",N,N,"",0,484,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,74
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 14","Edmonton",N,N,"",0,484,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 14","Edmonton",N,N,"",0,484,"Sohi","","Amarjeet","Liberal","Libéral",N,N,71
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 15","Edmonton",N,N,"",0,545,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 15","Edmonton",N,N,"",0,545,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 15","Edmonton",N,N,"",0,545,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 15","Edmonton",N,N,"",0,545,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,77
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 15","Edmonton",N,N,"",0,545,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 15","Edmonton",N,N,"",0,545,"Sohi","","Amarjeet","Liberal","Libéral",N,N,70
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 16","Edmonton",N,N,"",0,431,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 16","Edmonton",N,N,"",0,431,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 16","Edmonton",N,N,"",0,431,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 16","Edmonton",N,N,"",0,431,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,88
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 16","Edmonton",N,N,"",0,431,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 16","Edmonton",N,N,"",0,431,"Sohi","","Amarjeet","Liberal","Libéral",N,N,64
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 17","Edmonton",N,N,"",3,467,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 17","Edmonton",N,N,"",3,467,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 17","Edmonton",N,N,"",3,467,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 17","Edmonton",N,N,"",3,467,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,79
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 17","Edmonton",N,N,"",3,467,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 17","Edmonton",N,N,"",3,467,"Sohi","","Amarjeet","Liberal","Libéral",N,N,62
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 18","Edmonton",N,N,"",2,500,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 18","Edmonton",N,N,"",2,500,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 18","Edmonton",N,N,"",2,500,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 18","Edmonton",N,N,"",2,500,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,86
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 18","Edmonton",N,N,"",2,500,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 18","Edmonton",N,N,"",2,500,"Sohi","","Amarjeet","Liberal","Libéral",N,N,46
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 19","Edmonton",N,N,"",0,475,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 19","Edmonton",N,N,"",0,475,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 19","Edmonton",N,N,"",0,475,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 19","Edmonton",N,N,"",0,475,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,86
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 19","Edmonton",N,N,"",0,475,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 19","Edmonton",N,N,"",0,475,"Sohi","","Amarjeet","Liberal","Libéral",N,N,69
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 20","Edmonton",N,N,"",1,379,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 20","Edmonton",N,N,"",1,379,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 20","Edmonton",N,N,"",1,379,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 20","Edmonton",N,N,"",1,379,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,94
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 20","Edmonton",N,N,"",1,379,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 20","Edmonton",N,N,"",1,379,"Sohi","","Amarjeet","Liberal","Libéral",N,N,40
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 21","Edmonton",N,N,"",1,412,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 21","Edmonton",N,N,"",1,412,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 21","Edmonton",N,N,"",1,412,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 21","Edmonton",N,N,"",1,412,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,109
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 21","Edmonton",N,N,"",1,412,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 21","Edmonton",N,N,"",1,412,"Sohi","","Amarjeet","Liberal","Libéral",N,N,75
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 22","Edmonton",N,N,"",0,411,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 22","Edmonton",N,N,"",0,411,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 22","Edmonton",N,N,"",0,411,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 22","Edmonton",N,N,"",0,411,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,79
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 22","Edmonton",N,N,"",0,411,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 22","Edmonton",N,N,"",0,411,"Sohi","","Amarjeet","Liberal","Libéral",N,N,68
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 23","Edmonton",N,N,"",1,463,"Benson","","Corinne","Communist","Communiste",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 23","Edmonton",N,N,"",1,463,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 23","Edmonton",N,N,"",1,463,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 23","Edmonton",N,N,"",1,463,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,105
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 23","Edmonton",N,N,"",1,463,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 23","Edmonton",N,N,"",1,463,"Sohi","","Amarjeet","Liberal","Libéral",N,N,79
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 24","Edmonton",N,N,"",0,452,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 24","Edmonton",N,N,"",0,452,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 24","Edmonton",N,N,"",0,452,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 24","Edmonton",N,N,"",0,452,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,87
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 24","Edmonton",N,N,"",0,452,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 24","Edmonton",N,N,"",0,452,"Sohi","","Amarjeet","Liberal","Libéral",N,N,78
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 25","Edmonton",N,N,"",1,411,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 25","Edmonton",N,N,"",1,411,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 25","Edmonton",N,N,"",1,411,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 25","Edmonton",N,N,"",1,411,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,129
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 25","Edmonton",N,N,"",1,411,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 25","Edmonton",N,N,"",1,411,"Sohi","","Amarjeet","Liberal","Libéral",N,N,66
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 26","Edmonton",N,N,"",2,373,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 26","Edmonton",N,N,"",2,373,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 26","Edmonton",N,N,"",2,373,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 26","Edmonton",N,N,"",2,373,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,81
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 26","Edmonton",N,N,"",2,373,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 26","Edmonton",N,N,"",2,373,"Sohi","","Amarjeet","Liberal","Libéral",N,N,57
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 27","Edmonton",N,N,"",1,537,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 27","Edmonton",N,N,"",1,537,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 27","Edmonton",N,N,"",1,537,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 27","Edmonton",N,N,"",1,537,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,123
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 27","Edmonton",N,N,"",1,537,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 27","Edmonton",N,N,"",1,537,"Sohi","","Amarjeet","Liberal","Libéral",N,N,102
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 28","Edmonton",N,N,"",0,504,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 28","Edmonton",N,N,"",0,504,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 28","Edmonton",N,N,"",0,504,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 28","Edmonton",N,N,"",0,504,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,107
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 28","Edmonton",N,N,"",0,504,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 28","Edmonton",N,N,"",0,504,"Sohi","","Amarjeet","Liberal","Libéral",N,N,68
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 29","Edmonton",N,N,"",1,621,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 29","Edmonton",N,N,"",1,621,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 29","Edmonton",N,N,"",1,621,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 29","Edmonton",N,N,"",1,621,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,149
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 29","Edmonton",N,N,"",1,621,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 29","Edmonton",N,N,"",1,621,"Sohi","","Amarjeet","Liberal","Libéral",N,N,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 30","Edmonton",N,N,"",4,563,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 30","Edmonton",N,N,"",4,563,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 30","Edmonton",N,N,"",4,563,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 30","Edmonton",N,N,"",4,563,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,108
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 30","Edmonton",N,N,"",4,563,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 30","Edmonton",N,N,"",4,563,"Sohi","","Amarjeet","Liberal","Libéral",N,N,110
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 31","Edmonton",N,N,"",4,581,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 31","Edmonton",N,N,"",4,581,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 31","Edmonton",N,N,"",4,581,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 31","Edmonton",N,N,"",4,581,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,115
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 31","Edmonton",N,N,"",4,581,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 31","Edmonton",N,N,"",4,581,"Sohi","","Amarjeet","Liberal","Libéral",N,N,82
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 32","Edmonton",N,N,"",3,607,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 32","Edmonton",N,N,"",3,607,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 32","Edmonton",N,N,"",3,607,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 32","Edmonton",N,N,"",3,607,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,128
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 32","Edmonton",N,N,"",3,607,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 32","Edmonton",N,N,"",3,607,"Sohi","","Amarjeet","Liberal","Libéral",N,N,126
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 33","Edmonton",N,N,"",6,618,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 33","Edmonton",N,N,"",6,618,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 33","Edmonton",N,N,"",6,618,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 33","Edmonton",N,N,"",6,618,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,168
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 33","Edmonton",N,N,"",6,618,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 33","Edmonton",N,N,"",6,618,"Sohi","","Amarjeet","Liberal","Libéral",N,N,97
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 34","Edmonton",N,N,"",1,693,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 34","Edmonton",N,N,"",1,693,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 34","Edmonton",N,N,"",1,693,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 34","Edmonton",N,N,"",1,693,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,148
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 34","Edmonton",N,N,"",1,693,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 34","Edmonton",N,N,"",1,693,"Sohi","","Amarjeet","Liberal","Libéral",N,N,115
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 35","Edmonton",N,N,"",1,419,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 35","Edmonton",N,N,"",1,419,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 35","Edmonton",N,N,"",1,419,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 35","Edmonton",N,N,"",1,419,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,107
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 35","Edmonton",N,N,"",1,419,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 35","Edmonton",N,N,"",1,419,"Sohi","","Amarjeet","Liberal","Libéral",N,N,62
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 36","Edmonton",N,N,"",1,482,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 36","Edmonton",N,N,"",1,482,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 36","Edmonton",N,N,"",1,482,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 36","Edmonton",N,N,"",1,482,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,90
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 36","Edmonton",N,N,"",1,482,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 36","Edmonton",N,N,"",1,482,"Sohi","","Amarjeet","Liberal","Libéral",N,N,59
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 37","Edmonton",N,N,"",1,374,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 37","Edmonton",N,N,"",1,374,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 37","Edmonton",N,N,"",1,374,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 37","Edmonton",N,N,"",1,374,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,72
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 37","Edmonton",N,N,"",1,374,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 37","Edmonton",N,N,"",1,374,"Sohi","","Amarjeet","Liberal","Libéral",N,N,35
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 38","Edmonton",N,N,"",5,476,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 38","Edmonton",N,N,"",5,476,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 38","Edmonton",N,N,"",5,476,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 38","Edmonton",N,N,"",5,476,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,108
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 38","Edmonton",N,N,"",5,476,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 38","Edmonton",N,N,"",5,476,"Sohi","","Amarjeet","Liberal","Libéral",N,N,67
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 39","Edmonton",N,N,"",1,389,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 39","Edmonton",N,N,"",1,389,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 39","Edmonton",N,N,"",1,389,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 39","Edmonton",N,N,"",1,389,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,77
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 39","Edmonton",N,N,"",1,389,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 39","Edmonton",N,N,"",1,389,"Sohi","","Amarjeet","Liberal","Libéral",N,N,38
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 40","Edmonton",N,N,"",1,468,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 40","Edmonton",N,N,"",1,468,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 40","Edmonton",N,N,"",1,468,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 40","Edmonton",N,N,"",1,468,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,101
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 40","Edmonton",N,N,"",1,468,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 40","Edmonton",N,N,"",1,468,"Sohi","","Amarjeet","Liberal","Libéral",N,N,73
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 41","Edmonton",N,N,"",2,442,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 41","Edmonton",N,N,"",2,442,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 41","Edmonton",N,N,"",2,442,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 41","Edmonton",N,N,"",2,442,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,72
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 41","Edmonton",N,N,"",2,442,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 41","Edmonton",N,N,"",2,442,"Sohi","","Amarjeet","Liberal","Libéral",N,N,62
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 42","Edmonton",N,N,"",2,522,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 42","Edmonton",N,N,"",2,522,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 42","Edmonton",N,N,"",2,522,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 42","Edmonton",N,N,"",2,522,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,105
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 42","Edmonton",N,N,"",2,522,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 42","Edmonton",N,N,"",2,522,"Sohi","","Amarjeet","Liberal","Libéral",N,N,94
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 43","Edmonton",N,N,"",1,465,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 43","Edmonton",N,N,"",1,465,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 43","Edmonton",N,N,"",1,465,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 43","Edmonton",N,N,"",1,465,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,117
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 43","Edmonton",N,N,"",1,465,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 43","Edmonton",N,N,"",1,465,"Sohi","","Amarjeet","Liberal","Libéral",N,N,69
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 44","Edmonton",N,N,"",1,402,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 44","Edmonton",N,N,"",1,402,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 44","Edmonton",N,N,"",1,402,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 44","Edmonton",N,N,"",1,402,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 44","Edmonton",N,N,"",1,402,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 44","Edmonton",N,N,"",1,402,"Sohi","","Amarjeet","Liberal","Libéral",N,N,75
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 45","Edmonton",N,N,"",2,470,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 45","Edmonton",N,N,"",2,470,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 45","Edmonton",N,N,"",2,470,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 45","Edmonton",N,N,"",2,470,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 45","Edmonton",N,N,"",2,470,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 45","Edmonton",N,N,"",2,470,"Sohi","","Amarjeet","Liberal","Libéral",N,N,60
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 46","Edmonton",N,N,"",2,535,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 46","Edmonton",N,N,"",2,535,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 46","Edmonton",N,N,"",2,535,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 46","Edmonton",N,N,"",2,535,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,104
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 46","Edmonton",N,N,"",2,535,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 46","Edmonton",N,N,"",2,535,"Sohi","","Amarjeet","Liberal","Libéral",N,N,76
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 47","Edmonton",N,N,"",5,641,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 47","Edmonton",N,N,"",5,641,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 47","Edmonton",N,N,"",5,641,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 47","Edmonton",N,N,"",5,641,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,112
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 47","Edmonton",N,N,"",5,641,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 47","Edmonton",N,N,"",5,641,"Sohi","","Amarjeet","Liberal","Libéral",N,N,87
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 48","Edmonton",N,N,"",2,445,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 48","Edmonton",N,N,"",2,445,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 48","Edmonton",N,N,"",2,445,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 48","Edmonton",N,N,"",2,445,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,94
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 48","Edmonton",N,N,"",2,445,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 48","Edmonton",N,N,"",2,445,"Sohi","","Amarjeet","Liberal","Libéral",N,N,96
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 49","Edmonton",N,N,"",1,470,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 49","Edmonton",N,N,"",1,470,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 49","Edmonton",N,N,"",1,470,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 49","Edmonton",N,N,"",1,470,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,110
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 49","Edmonton",N,N,"",1,470,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 49","Edmonton",N,N,"",1,470,"Sohi","","Amarjeet","Liberal","Libéral",N,N,61
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 50","Edmonton",N,N,"",1,456,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 50","Edmonton",N,N,"",1,456,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 50","Edmonton",N,N,"",1,456,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 50","Edmonton",N,N,"",1,456,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,86
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 50","Edmonton",N,N,"",1,456,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 50","Edmonton",N,N,"",1,456,"Sohi","","Amarjeet","Liberal","Libéral",N,N,72
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 51","Edmonton",N,N,"",3,364,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 51","Edmonton",N,N,"",3,364,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 51","Edmonton",N,N,"",3,364,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 51","Edmonton",N,N,"",3,364,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,77
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 51","Edmonton",N,N,"",3,364,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 51","Edmonton",N,N,"",3,364,"Sohi","","Amarjeet","Liberal","Libéral",N,N,68
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 52","Edmonton",N,N,"",2,375,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 52","Edmonton",N,N,"",2,375,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 52","Edmonton",N,N,"",2,375,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 52","Edmonton",N,N,"",2,375,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,81
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 52","Edmonton",N,N,"",2,375,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 52","Edmonton",N,N,"",2,375,"Sohi","","Amarjeet","Liberal","Libéral",N,N,53
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53A","Edmonton",N,N,"",0,482,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53A","Edmonton",N,N,"",0,482,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53A","Edmonton",N,N,"",0,482,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53A","Edmonton",N,N,"",0,482,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,57
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53A","Edmonton",N,N,"",0,482,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53A","Edmonton",N,N,"",0,482,"Sohi","","Amarjeet","Liberal","Libéral",N,N,42
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53B","Mobile poll/Bureau itinérant",N,N,"500",0,58,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53B","Mobile poll/Bureau itinérant",N,N,"500",0,58,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53B","Mobile poll/Bureau itinérant",N,N,"500",0,58,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53B","Mobile poll/Bureau itinérant",N,N,"500",0,58,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53B","Mobile poll/Bureau itinérant",N,N,"500",0,58,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 53B","Mobile poll/Bureau itinérant",N,N,"500",0,58,"Sohi","","Amarjeet","Liberal","Libéral",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 54","Edmonton",N,N,"",2,434,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 54","Edmonton",N,N,"",2,434,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 54","Edmonton",N,N,"",2,434,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 54","Edmonton",N,N,"",2,434,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,56
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 54","Edmonton",N,N,"",2,434,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 54","Edmonton",N,N,"",2,434,"Sohi","","Amarjeet","Liberal","Libéral",N,N,50
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 55","Edmonton",N,N,"",0,523,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 55","Edmonton",N,N,"",0,523,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 55","Edmonton",N,N,"",0,523,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 55","Edmonton",N,N,"",0,523,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,97
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 55","Edmonton",N,N,"",0,523,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 55","Edmonton",N,N,"",0,523,"Sohi","","Amarjeet","Liberal","Libéral",N,N,74
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 56","Edmonton",N,N,"",2,473,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 56","Edmonton",N,N,"",2,473,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 56","Edmonton",N,N,"",2,473,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 56","Edmonton",N,N,"",2,473,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,104
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 56","Edmonton",N,N,"",2,473,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 56","Edmonton",N,N,"",2,473,"Sohi","","Amarjeet","Liberal","Libéral",N,N,67
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 57","Edmonton",N,N,"",2,931,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 57","Edmonton",N,N,"",2,931,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 57","Edmonton",N,N,"",2,931,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 57","Edmonton",N,N,"",2,931,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,201
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 57","Edmonton",N,N,"",2,931,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 57","Edmonton",N,N,"",2,931,"Sohi","","Amarjeet","Liberal","Libéral",N,N,112
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 58","Edmonton",N,N,"",4,406,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 58","Edmonton",N,N,"",4,406,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 58","Edmonton",N,N,"",4,406,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 58","Edmonton",N,N,"",4,406,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,91
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 58","Edmonton",N,N,"",4,406,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 58","Edmonton",N,N,"",4,406,"Sohi","","Amarjeet","Liberal","Libéral",N,N,56
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 59","Edmonton",N,N,"",0,541,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 59","Edmonton",N,N,"",0,541,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 59","Edmonton",N,N,"",0,541,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 59","Edmonton",N,N,"",0,541,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,98
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 59","Edmonton",N,N,"",0,541,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 59","Edmonton",N,N,"",0,541,"Sohi","","Amarjeet","Liberal","Libéral",N,N,77
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 60","Edmonton",N,N,"",4,466,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 60","Edmonton",N,N,"",4,466,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 60","Edmonton",N,N,"",4,466,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 60","Edmonton",N,N,"",4,466,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,99
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 60","Edmonton",N,N,"",4,466,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 60","Edmonton",N,N,"",4,466,"Sohi","","Amarjeet","Liberal","Libéral",N,N,61
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 61","Edmonton",N,N,"",2,514,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 61","Edmonton",N,N,"",2,514,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 61","Edmonton",N,N,"",2,514,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 61","Edmonton",N,N,"",2,514,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,88
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 61","Edmonton",N,N,"",2,514,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 61","Edmonton",N,N,"",2,514,"Sohi","","Amarjeet","Liberal","Libéral",N,N,82
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 62","Edmonton",N,N,"",7,661,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 62","Edmonton",N,N,"",7,661,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 62","Edmonton",N,N,"",7,661,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 62","Edmonton",N,N,"",7,661,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,172
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 62","Edmonton",N,N,"",7,661,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 62","Edmonton",N,N,"",7,661,"Sohi","","Amarjeet","Liberal","Libéral",N,N,113
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 63","Edmonton",N,N,"",4,749,"Benson","","Corinne","Communist","Communiste",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 63","Edmonton",N,N,"",4,749,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 63","Edmonton",N,N,"",4,749,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 63","Edmonton",N,N,"",4,749,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,149
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 63","Edmonton",N,N,"",4,749,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 63","Edmonton",N,N,"",4,749,"Sohi","","Amarjeet","Liberal","Libéral",N,N,144
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 64","Edmonton",N,N,"",1,527,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 64","Edmonton",N,N,"",1,527,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 64","Edmonton",N,N,"",1,527,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 64","Edmonton",N,N,"",1,527,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,114
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 64","Edmonton",N,N,"",1,527,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 64","Edmonton",N,N,"",1,527,"Sohi","","Amarjeet","Liberal","Libéral",N,N,70
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 65","Edmonton",N,N,"",5,395,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 65","Edmonton",N,N,"",5,395,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 65","Edmonton",N,N,"",5,395,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 65","Edmonton",N,N,"",5,395,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,79
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 65","Edmonton",N,N,"",5,395,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 65","Edmonton",N,N,"",5,395,"Sohi","","Amarjeet","Liberal","Libéral",N,N,49
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 66","Edmonton",N,N,"102",0,3,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 66","Edmonton",N,N,"102",0,3,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 66","Edmonton",N,N,"102",0,3,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 66","Edmonton",N,N,"102",0,3,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 66","Edmonton",N,N,"102",0,3,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 66","Edmonton",N,N,"102",0,3,"Sohi","","Amarjeet","Liberal","Libéral",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 67","Edmonton",N,N,"",1,369,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 67","Edmonton",N,N,"",1,369,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 67","Edmonton",N,N,"",1,369,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 67","Edmonton",N,N,"",1,369,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,73
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 67","Edmonton",N,N,"",1,369,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 67","Edmonton",N,N,"",1,369,"Sohi","","Amarjeet","Liberal","Libéral",N,N,65
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 68","Edmonton",N,N,"",1,360,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 68","Edmonton",N,N,"",1,360,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 68","Edmonton",N,N,"",1,360,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 68","Edmonton",N,N,"",1,360,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,97
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 68","Edmonton",N,N,"",1,360,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 68","Edmonton",N,N,"",1,360,"Sohi","","Amarjeet","Liberal","Libéral",N,N,59
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 69","Edmonton",N,N,"",4,658,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 69","Edmonton",N,N,"",4,658,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 69","Edmonton",N,N,"",4,658,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 69","Edmonton",N,N,"",4,658,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,128
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 69","Edmonton",N,N,"",4,658,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 69","Edmonton",N,N,"",4,658,"Sohi","","Amarjeet","Liberal","Libéral",N,N,87
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 70","Edmonton",N,N,"",1,374,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 70","Edmonton",N,N,"",1,374,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 70","Edmonton",N,N,"",1,374,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 70","Edmonton",N,N,"",1,374,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,72
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 70","Edmonton",N,N,"",1,374,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 70","Edmonton",N,N,"",1,374,"Sohi","","Amarjeet","Liberal","Libéral",N,N,65
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 71","Edmonton",N,N,"",2,402,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 71","Edmonton",N,N,"",2,402,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 71","Edmonton",N,N,"",2,402,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 71","Edmonton",N,N,"",2,402,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,75
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 71","Edmonton",N,N,"",2,402,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 71","Edmonton",N,N,"",2,402,"Sohi","","Amarjeet","Liberal","Libéral",N,N,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 72","Edmonton",N,N,"",0,578,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 72","Edmonton",N,N,"",0,578,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 72","Edmonton",N,N,"",0,578,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 72","Edmonton",N,N,"",0,578,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,101
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 72","Edmonton",N,N,"",0,578,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 72","Edmonton",N,N,"",0,578,"Sohi","","Amarjeet","Liberal","Libéral",N,N,94
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 73","Edmonton",N,N,"",4,544,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 73","Edmonton",N,N,"",4,544,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 73","Edmonton",N,N,"",4,544,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 73","Edmonton",N,N,"",4,544,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,107
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 73","Edmonton",N,N,"",4,544,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 73","Edmonton",N,N,"",4,544,"Sohi","","Amarjeet","Liberal","Libéral",N,N,63
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 74","Edmonton",N,N,"",0,499,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 74","Edmonton",N,N,"",0,499,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 74","Edmonton",N,N,"",0,499,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 74","Edmonton",N,N,"",0,499,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,129
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 74","Edmonton",N,N,"",0,499,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 74","Edmonton",N,N,"",0,499,"Sohi","","Amarjeet","Liberal","Libéral",N,N,50
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 75","Edmonton",N,N,"",3,562,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 75","Edmonton",N,N,"",3,562,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 75","Edmonton",N,N,"",3,562,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 75","Edmonton",N,N,"",3,562,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,94
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 75","Edmonton",N,N,"",3,562,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 75","Edmonton",N,N,"",3,562,"Sohi","","Amarjeet","Liberal","Libéral",N,N,66
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 76","Edmonton",N,N,"",2,448,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 76","Edmonton",N,N,"",2,448,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 76","Edmonton",N,N,"",2,448,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 76","Edmonton",N,N,"",2,448,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 76","Edmonton",N,N,"",2,448,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 76","Edmonton",N,N,"",2,448,"Sohi","","Amarjeet","Liberal","Libéral",N,N,60
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 77","Edmonton",N,N,"",6,454,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 77","Edmonton",N,N,"",6,454,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 77","Edmonton",N,N,"",6,454,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 77","Edmonton",N,N,"",6,454,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,117
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 77","Edmonton",N,N,"",6,454,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 77","Edmonton",N,N,"",6,454,"Sohi","","Amarjeet","Liberal","Libéral",N,N,47
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 78","Edmonton",N,N,"",2,453,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 78","Edmonton",N,N,"",2,453,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 78","Edmonton",N,N,"",2,453,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 78","Edmonton",N,N,"",2,453,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,80
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 78","Edmonton",N,N,"",2,453,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 78","Edmonton",N,N,"",2,453,"Sohi","","Amarjeet","Liberal","Libéral",N,N,49
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 79","Edmonton",N,N,"",0,438,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 79","Edmonton",N,N,"",0,438,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 79","Edmonton",N,N,"",0,438,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 79","Edmonton",N,N,"",0,438,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,68
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 79","Edmonton",N,N,"",0,438,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 79","Edmonton",N,N,"",0,438,"Sohi","","Amarjeet","Liberal","Libéral",N,N,59
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 80","Edmonton",N,N,"",1,415,"Benson","","Corinne","Communist","Communiste",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 80","Edmonton",N,N,"",1,415,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 80","Edmonton",N,N,"",1,415,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 80","Edmonton",N,N,"",1,415,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,97
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 80","Edmonton",N,N,"",1,415,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 80","Edmonton",N,N,"",1,415,"Sohi","","Amarjeet","Liberal","Libéral",N,N,56
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 81","Edmonton",N,N,"",1,404,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 81","Edmonton",N,N,"",1,404,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 81","Edmonton",N,N,"",1,404,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 81","Edmonton",N,N,"",1,404,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,66
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 81","Edmonton",N,N,"",1,404,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 81","Edmonton",N,N,"",1,404,"Sohi","","Amarjeet","Liberal","Libéral",N,N,69
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 82","Edmonton",N,N,"",1,358,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 82","Edmonton",N,N,"",1,358,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 82","Edmonton",N,N,"",1,358,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 82","Edmonton",N,N,"",1,358,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,92
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 82","Edmonton",N,N,"",1,358,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 82","Edmonton",N,N,"",1,358,"Sohi","","Amarjeet","Liberal","Libéral",N,N,51
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 83","Edmonton",N,N,"",1,404,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 83","Edmonton",N,N,"",1,404,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 83","Edmonton",N,N,"",1,404,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 83","Edmonton",N,N,"",1,404,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,92
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 83","Edmonton",N,N,"",1,404,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 83","Edmonton",N,N,"",1,404,"Sohi","","Amarjeet","Liberal","Libéral",N,N,54
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 84","Edmonton",N,N,"",0,418,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 84","Edmonton",N,N,"",0,418,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 84","Edmonton",N,N,"",0,418,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 84","Edmonton",N,N,"",0,418,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,80
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 84","Edmonton",N,N,"",0,418,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 84","Edmonton",N,N,"",0,418,"Sohi","","Amarjeet","Liberal","Libéral",N,N,55
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 85","Edmonton",N,N,"",1,562,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 85","Edmonton",N,N,"",1,562,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 85","Edmonton",N,N,"",1,562,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 85","Edmonton",N,N,"",1,562,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,112
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 85","Edmonton",N,N,"",1,562,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 85","Edmonton",N,N,"",1,562,"Sohi","","Amarjeet","Liberal","Libéral",N,N,81
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 86","Edmonton",N,N,"",1,637,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 86","Edmonton",N,N,"",1,637,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 86","Edmonton",N,N,"",1,637,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 86","Edmonton",N,N,"",1,637,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,111
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 86","Edmonton",N,N,"",1,637,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 86","Edmonton",N,N,"",1,637,"Sohi","","Amarjeet","Liberal","Libéral",N,N,118
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 87","Edmonton",N,N,"",0,539,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 87","Edmonton",N,N,"",0,539,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 87","Edmonton",N,N,"",0,539,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 87","Edmonton",N,N,"",0,539,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,116
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 87","Edmonton",N,N,"",0,539,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 87","Edmonton",N,N,"",0,539,"Sohi","","Amarjeet","Liberal","Libéral",N,N,87
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 88","Edmonton",N,N,"",3,409,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 88","Edmonton",N,N,"",3,409,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 88","Edmonton",N,N,"",3,409,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 88","Edmonton",N,N,"",3,409,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,68
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 88","Edmonton",N,N,"",3,409,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 88","Edmonton",N,N,"",3,409,"Sohi","","Amarjeet","Liberal","Libéral",N,N,73
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 89","Edmonton",N,N,"",1,361,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 89","Edmonton",N,N,"",1,361,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 89","Edmonton",N,N,"",1,361,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 89","Edmonton",N,N,"",1,361,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,47
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 89","Edmonton",N,N,"",1,361,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 89","Edmonton",N,N,"",1,361,"Sohi","","Amarjeet","Liberal","Libéral",N,N,54
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 90","Edmonton",N,N,"",4,408,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 90","Edmonton",N,N,"",4,408,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 90","Edmonton",N,N,"",4,408,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 90","Edmonton",N,N,"",4,408,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,89
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 90","Edmonton",N,N,"",4,408,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 90","Edmonton",N,N,"",4,408,"Sohi","","Amarjeet","Liberal","Libéral",N,N,78
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 91","Edmonton",N,N,"",2,436,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 91","Edmonton",N,N,"",2,436,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 91","Edmonton",N,N,"",2,436,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 91","Edmonton",N,N,"",2,436,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,84
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 91","Edmonton",N,N,"",2,436,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 91","Edmonton",N,N,"",2,436,"Sohi","","Amarjeet","Liberal","Libéral",N,N,62
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 92","Edmonton",N,N,"",0,384,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 92","Edmonton",N,N,"",0,384,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 92","Edmonton",N,N,"",0,384,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 92","Edmonton",N,N,"",0,384,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,76
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 92","Edmonton",N,N,"",0,384,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 92","Edmonton",N,N,"",0,384,"Sohi","","Amarjeet","Liberal","Libéral",N,N,59
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 93","Edmonton",N,N,"",2,406,"Benson","","Corinne","Communist","Communiste",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 93","Edmonton",N,N,"",2,406,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 93","Edmonton",N,N,"",2,406,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 93","Edmonton",N,N,"",2,406,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,78
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 93","Edmonton",N,N,"",2,406,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 93","Edmonton",N,N,"",2,406,"Sohi","","Amarjeet","Liberal","Libéral",N,N,59
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 94","Edmonton",N,N,"",1,372,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 94","Edmonton",N,N,"",1,372,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 94","Edmonton",N,N,"",1,372,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 94","Edmonton",N,N,"",1,372,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,95
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 94","Edmonton",N,N,"",1,372,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 94","Edmonton",N,N,"",1,372,"Sohi","","Amarjeet","Liberal","Libéral",N,N,35
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 95","Edmonton",N,N,"",2,349,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 95","Edmonton",N,N,"",2,349,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 95","Edmonton",N,N,"",2,349,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 95","Edmonton",N,N,"",2,349,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,90
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 95","Edmonton",N,N,"",2,349,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 95","Edmonton",N,N,"",2,349,"Sohi","","Amarjeet","Liberal","Libéral",N,N,50
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 96","Edmonton",N,N,"",1,526,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 96","Edmonton",N,N,"",1,526,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 96","Edmonton",N,N,"",1,526,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 96","Edmonton",N,N,"",1,526,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,114
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 96","Edmonton",N,N,"",1,526,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 96","Edmonton",N,N,"",1,526,"Sohi","","Amarjeet","Liberal","Libéral",N,N,85
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 97","Edmonton",N,N,"",0,414,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 97","Edmonton",N,N,"",0,414,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 97","Edmonton",N,N,"",0,414,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 97","Edmonton",N,N,"",0,414,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,79
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 97","Edmonton",N,N,"",0,414,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 97","Edmonton",N,N,"",0,414,"Sohi","","Amarjeet","Liberal","Libéral",N,N,75
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 98","Edmonton",N,N,"",1,470,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 98","Edmonton",N,N,"",1,470,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 98","Edmonton",N,N,"",1,470,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 98","Edmonton",N,N,"",1,470,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,92
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 98","Edmonton",N,N,"",1,470,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 98","Edmonton",N,N,"",1,470,"Sohi","","Amarjeet","Liberal","Libéral",N,N,80
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 99","Edmonton",N,N,"",2,444,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 99","Edmonton",N,N,"",2,444,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 99","Edmonton",N,N,"",2,444,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 99","Edmonton",N,N,"",2,444,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,111
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 99","Edmonton",N,N,"",2,444,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 99","Edmonton",N,N,"",2,444,"Sohi","","Amarjeet","Liberal","Libéral",N,N,75
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 100","Edmonton",N,N,"",1,414,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 100","Edmonton",N,N,"",1,414,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 100","Edmonton",N,N,"",1,414,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 100","Edmonton",N,N,"",1,414,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,103
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 100","Edmonton",N,N,"",1,414,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 100","Edmonton",N,N,"",1,414,"Sohi","","Amarjeet","Liberal","Libéral",N,N,66
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 101","Edmonton",N,N,"",0,489,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 101","Edmonton",N,N,"",0,489,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 101","Edmonton",N,N,"",0,489,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 101","Edmonton",N,N,"",0,489,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,116
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 101","Edmonton",N,N,"",0,489,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 101","Edmonton",N,N,"",0,489,"Sohi","","Amarjeet","Liberal","Libéral",N,N,77
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 102","Edmonton",N,N,"",0,425,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 102","Edmonton",N,N,"",0,425,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 102","Edmonton",N,N,"",0,425,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 102","Edmonton",N,N,"",0,425,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,104
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 102","Edmonton",N,N,"",0,425,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 102","Edmonton",N,N,"",0,425,"Sohi","","Amarjeet","Liberal","Libéral",N,N,58
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 103","Edmonton",N,N,"",0,595,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 103","Edmonton",N,N,"",0,595,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 103","Edmonton",N,N,"",0,595,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 103","Edmonton",N,N,"",0,595,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,115
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 103","Edmonton",N,N,"",0,595,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 103","Edmonton",N,N,"",0,595,"Sohi","","Amarjeet","Liberal","Libéral",N,N,77
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 104","Edmonton",N,N,"",0,465,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 104","Edmonton",N,N,"",0,465,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 104","Edmonton",N,N,"",0,465,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 104","Edmonton",N,N,"",0,465,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,95
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 104","Edmonton",N,N,"",0,465,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 104","Edmonton",N,N,"",0,465,"Sohi","","Amarjeet","Liberal","Libéral",N,N,56
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 105","Edmonton",N,N,"",0,569,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 105","Edmonton",N,N,"",0,569,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 105","Edmonton",N,N,"",0,569,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 105","Edmonton",N,N,"",0,569,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,100
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 105","Edmonton",N,N,"",0,569,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 105","Edmonton",N,N,"",0,569,"Sohi","","Amarjeet","Liberal","Libéral",N,N,71
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 106","Edmonton",N,N,"",3,562,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 106","Edmonton",N,N,"",3,562,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 106","Edmonton",N,N,"",3,562,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 106","Edmonton",N,N,"",3,562,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,151
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 106","Edmonton",N,N,"",3,562,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 106","Edmonton",N,N,"",3,562,"Sohi","","Amarjeet","Liberal","Libéral",N,N,68
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 107","Edmonton",N,N,"",1,480,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 107","Edmonton",N,N,"",1,480,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 107","Edmonton",N,N,"",1,480,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 107","Edmonton",N,N,"",1,480,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,62
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 107","Edmonton",N,N,"",1,480,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 107","Edmonton",N,N,"",1,480,"Sohi","","Amarjeet","Liberal","Libéral",N,N,59
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 108","Edmonton",N,N,"",1,534,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 108","Edmonton",N,N,"",1,534,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 108","Edmonton",N,N,"",1,534,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 108","Edmonton",N,N,"",1,534,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,121
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 108","Edmonton",N,N,"",1,534,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 108","Edmonton",N,N,"",1,534,"Sohi","","Amarjeet","Liberal","Libéral",N,N,50
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 109","Edmonton",N,N,"",0,311,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 109","Edmonton",N,N,"",0,311,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 109","Edmonton",N,N,"",0,311,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 109","Edmonton",N,N,"",0,311,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,150
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 109","Edmonton",N,N,"",0,311,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 109","Edmonton",N,N,"",0,311,"Sohi","","Amarjeet","Liberal","Libéral",N,N,50
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 110","Edmonton",N,N,"109",0,229,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 110","Edmonton",N,N,"109",0,229,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 110","Edmonton",N,N,"109",0,229,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 110","Edmonton",N,N,"109",0,229,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 110","Edmonton",N,N,"109",0,229,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 110","Edmonton",N,N,"109",0,229,"Sohi","","Amarjeet","Liberal","Libéral",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 111","Edmonton",N,N,"",2,510,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 111","Edmonton",N,N,"",2,510,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 111","Edmonton",N,N,"",2,510,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 111","Edmonton",N,N,"",2,510,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,124
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 111","Edmonton",N,N,"",2,510,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 111","Edmonton",N,N,"",2,510,"Sohi","","Amarjeet","Liberal","Libéral",N,N,78
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 112","Edmonton",N,N,"",2,703,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 112","Edmonton",N,N,"",2,703,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 112","Edmonton",N,N,"",2,703,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 112","Edmonton",N,N,"",2,703,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,160
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 112","Edmonton",N,N,"",2,703,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 112","Edmonton",N,N,"",2,703,"Sohi","","Amarjeet","Liberal","Libéral",N,N,116
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 113","Edmonton",N,N,"",0,456,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 113","Edmonton",N,N,"",0,456,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 113","Edmonton",N,N,"",0,456,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 113","Edmonton",N,N,"",0,456,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,123
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 113","Edmonton",N,N,"",0,456,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 113","Edmonton",N,N,"",0,456,"Sohi","","Amarjeet","Liberal","Libéral",N,N,79
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 114","Edmonton",N,N,"",1,424,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 114","Edmonton",N,N,"",1,424,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 114","Edmonton",N,N,"",1,424,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 114","Edmonton",N,N,"",1,424,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,119
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 114","Edmonton",N,N,"",1,424,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 114","Edmonton",N,N,"",1,424,"Sohi","","Amarjeet","Liberal","Libéral",N,N,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 115","Edmonton",N,N,"",2,451,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 115","Edmonton",N,N,"",2,451,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 115","Edmonton",N,N,"",2,451,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 115","Edmonton",N,N,"",2,451,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,120
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 115","Edmonton",N,N,"",2,451,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 115","Edmonton",N,N,"",2,451,"Sohi","","Amarjeet","Liberal","Libéral",N,N,86
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 116","Edmonton",N,N,"",1,415,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 116","Edmonton",N,N,"",1,415,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 116","Edmonton",N,N,"",1,415,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 116","Edmonton",N,N,"",1,415,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,124
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 116","Edmonton",N,N,"",1,415,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 116","Edmonton",N,N,"",1,415,"Sohi","","Amarjeet","Liberal","Libéral",N,N,61
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 117","Edmonton",N,N,"",0,755,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 117","Edmonton",N,N,"",0,755,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 117","Edmonton",N,N,"",0,755,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 117","Edmonton",N,N,"",0,755,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,115
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 117","Edmonton",N,N,"",0,755,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 117","Edmonton",N,N,"",0,755,"Sohi","","Amarjeet","Liberal","Libéral",N,N,72
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 118","Edmonton",N,N,"",0,692,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 118","Edmonton",N,N,"",0,692,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 118","Edmonton",N,N,"",0,692,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 118","Edmonton",N,N,"",0,692,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,128
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 118","Edmonton",N,N,"",0,692,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 118","Edmonton",N,N,"",0,692,"Sohi","","Amarjeet","Liberal","Libéral",N,N,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 119","Edmonton",N,N,"",0,553,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 119","Edmonton",N,N,"",0,553,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 119","Edmonton",N,N,"",0,553,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 119","Edmonton",N,N,"",0,553,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,111
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 119","Edmonton",N,N,"",0,553,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 119","Edmonton",N,N,"",0,553,"Sohi","","Amarjeet","Liberal","Libéral",N,N,65
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 120","Edmonton",N,N,"",0,760,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 120","Edmonton",N,N,"",0,760,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 120","Edmonton",N,N,"",0,760,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 120","Edmonton",N,N,"",0,760,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,125
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 120","Edmonton",N,N,"",0,760,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 120","Edmonton",N,N,"",0,760,"Sohi","","Amarjeet","Liberal","Libéral",N,N,72
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 121","Edmonton",N,N,"",0,711,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 121","Edmonton",N,N,"",0,711,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 121","Edmonton",N,N,"",0,711,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 121","Edmonton",N,N,"",0,711,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,130
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 121","Edmonton",N,N,"",0,711,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 121","Edmonton",N,N,"",0,711,"Sohi","","Amarjeet","Liberal","Libéral",N,N,74
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 122","Edmonton",N,N,"",1,581,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 122","Edmonton",N,N,"",1,581,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 122","Edmonton",N,N,"",1,581,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 122","Edmonton",N,N,"",1,581,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,116
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 122","Edmonton",N,N,"",1,581,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 122","Edmonton",N,N,"",1,581,"Sohi","","Amarjeet","Liberal","Libéral",N,N,59
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 123","Edmonton",N,N,"",0,443,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 123","Edmonton",N,N,"",0,443,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 123","Edmonton",N,N,"",0,443,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 123","Edmonton",N,N,"",0,443,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,73
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 123","Edmonton",N,N,"",0,443,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 123","Edmonton",N,N,"",0,443,"Sohi","","Amarjeet","Liberal","Libéral",N,N,46
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 124","Edmonton",N,N,"",0,558,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 124","Edmonton",N,N,"",0,558,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 124","Edmonton",N,N,"",0,558,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 124","Edmonton",N,N,"",0,558,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,99
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 124","Edmonton",N,N,"",0,558,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 124","Edmonton",N,N,"",0,558,"Sohi","","Amarjeet","Liberal","Libéral",N,N,51
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 125","Edmonton",N,N,"",2,893,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 125","Edmonton",N,N,"",2,893,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 125","Edmonton",N,N,"",2,893,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 125","Edmonton",N,N,"",2,893,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,155
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 125","Edmonton",N,N,"",2,893,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 125","Edmonton",N,N,"",2,893,"Sohi","","Amarjeet","Liberal","Libéral",N,N,86
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 126","Edmonton",N,N,"",1,528,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 126","Edmonton",N,N,"",1,528,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 126","Edmonton",N,N,"",1,528,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 126","Edmonton",N,N,"",1,528,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,125
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 126","Edmonton",N,N,"",1,528,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 126","Edmonton",N,N,"",1,528,"Sohi","","Amarjeet","Liberal","Libéral",N,N,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 127","Edmonton",N,N,"",1,664,"Benson","","Corinne","Communist","Communiste",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 127","Edmonton",N,N,"",1,664,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 127","Edmonton",N,N,"",1,664,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 127","Edmonton",N,N,"",1,664,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,151
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 127","Edmonton",N,N,"",1,664,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 127","Edmonton",N,N,"",1,664,"Sohi","","Amarjeet","Liberal","Libéral",N,N,114
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 128","Edmonton",N,N,"",4,586,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 128","Edmonton",N,N,"",4,586,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 128","Edmonton",N,N,"",4,586,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 128","Edmonton",N,N,"",4,586,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,121
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 128","Edmonton",N,N,"",4,586,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 128","Edmonton",N,N,"",4,586,"Sohi","","Amarjeet","Liberal","Libéral",N,N,111
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 129","Edmonton",N,N,"",0,630,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 129","Edmonton",N,N,"",0,630,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 129","Edmonton",N,N,"",0,630,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 129","Edmonton",N,N,"",0,630,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,123
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 129","Edmonton",N,N,"",0,630,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,77
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 129","Edmonton",N,N,"",0,630,"Sohi","","Amarjeet","Liberal","Libéral",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 130","Edmonton",N,N,"",0,483,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 130","Edmonton",N,N,"",0,483,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 130","Edmonton",N,N,"",0,483,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 130","Edmonton",N,N,"",0,483,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,81
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 130","Edmonton",N,N,"",0,483,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 130","Edmonton",N,N,"",0,483,"Sohi","","Amarjeet","Liberal","Libéral",N,N,71
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 131","Edmonton",N,N,"",0,422,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 131","Edmonton",N,N,"",0,422,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 131","Edmonton",N,N,"",0,422,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 131","Edmonton",N,N,"",0,422,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,64
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 131","Edmonton",N,N,"",0,422,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 131","Edmonton",N,N,"",0,422,"Sohi","","Amarjeet","Liberal","Libéral",N,N,47
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 132","Edmonton",N,N,"",0,392,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 132","Edmonton",N,N,"",0,392,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 132","Edmonton",N,N,"",0,392,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 132","Edmonton",N,N,"",0,392,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,68
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 132","Edmonton",N,N,"",0,392,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 132","Edmonton",N,N,"",0,392,"Sohi","","Amarjeet","Liberal","Libéral",N,N,43
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 133","Edmonton",N,N,"",2,490,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 133","Edmonton",N,N,"",2,490,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 133","Edmonton",N,N,"",2,490,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 133","Edmonton",N,N,"",2,490,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,70
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 133","Edmonton",N,N,"",2,490,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 133","Edmonton",N,N,"",2,490,"Sohi","","Amarjeet","Liberal","Libéral",N,N,46
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 134","Edmonton",N,N,"",0,415,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 134","Edmonton",N,N,"",0,415,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 134","Edmonton",N,N,"",0,415,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 134","Edmonton",N,N,"",0,415,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,96
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 134","Edmonton",N,N,"",0,415,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 134","Edmonton",N,N,"",0,415,"Sohi","","Amarjeet","Liberal","Libéral",N,N,26
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 135","Edmonton",N,N,"",7,600,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 135","Edmonton",N,N,"",7,600,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 135","Edmonton",N,N,"",7,600,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 135","Edmonton",N,N,"",7,600,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,88
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 135","Edmonton",N,N,"",7,600,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 135","Edmonton",N,N,"",7,600,"Sohi","","Amarjeet","Liberal","Libéral",N,N,53
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 136","Edmonton",N,N,"",3,658,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 136","Edmonton",N,N,"",3,658,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 136","Edmonton",N,N,"",3,658,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 136","Edmonton",N,N,"",3,658,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,99
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 136","Edmonton",N,N,"",3,658,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 136","Edmonton",N,N,"",3,658,"Sohi","","Amarjeet","Liberal","Libéral",N,N,58
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 137","Edmonton",N,N,"",3,541,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 137","Edmonton",N,N,"",3,541,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 137","Edmonton",N,N,"",3,541,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 137","Edmonton",N,N,"",3,541,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,87
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 137","Edmonton",N,N,"",3,541,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 137","Edmonton",N,N,"",3,541,"Sohi","","Amarjeet","Liberal","Libéral",N,N,56
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 138","Edmonton",N,N,"",6,1158,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 138","Edmonton",N,N,"",6,1158,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 138","Edmonton",N,N,"",6,1158,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 138","Edmonton",N,N,"",6,1158,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,203
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 138","Edmonton",N,N,"",6,1158,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 138","Edmonton",N,N,"",6,1158,"Sohi","","Amarjeet","Liberal","Libéral",N,N,134
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 139","Edmonton",N,N,"",1,469,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 139","Edmonton",N,N,"",1,469,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 139","Edmonton",N,N,"",1,469,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 139","Edmonton",N,N,"",1,469,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 139","Edmonton",N,N,"",1,469,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 139","Edmonton",N,N,"",1,469,"Sohi","","Amarjeet","Liberal","Libéral",N,N,50
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 140","Edmonton",N,N,"",9,749,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 140","Edmonton",N,N,"",9,749,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 140","Edmonton",N,N,"",9,749,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 140","Edmonton",N,N,"",9,749,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,110
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 140","Edmonton",N,N,"",9,749,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 140","Edmonton",N,N,"",9,749,"Sohi","","Amarjeet","Liberal","Libéral",N,N,83
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 141","Edmonton",N,N,"",2,316,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 141","Edmonton",N,N,"",2,316,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 141","Edmonton",N,N,"",2,316,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 141","Edmonton",N,N,"",2,316,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,53
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 141","Edmonton",N,N,"",2,316,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 141","Edmonton",N,N,"",2,316,"Sohi","","Amarjeet","Liberal","Libéral",N,N,29
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 142","Edmonton",N,N,"",4,323,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 142","Edmonton",N,N,"",4,323,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 142","Edmonton",N,N,"",4,323,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 142","Edmonton",N,N,"",4,323,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,79
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 142","Edmonton",N,N,"",4,323,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 142","Edmonton",N,N,"",4,323,"Sohi","","Amarjeet","Liberal","Libéral",N,N,23
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",1,91,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",1,91,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",1,91,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",1,91,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,69
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",1,91,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",1,91,"Sohi","","Amarjeet","Liberal","Libéral",N,N,35
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Sohi","","Amarjeet","Liberal","Libéral",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",3,163,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",3,163,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",3,163,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",3,163,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,64
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",3,163,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",3,163,"Sohi","","Amarjeet","Liberal","Libéral",N,N,58
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,109,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,109,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,109,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,109,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,109,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,109,"Sohi","","Amarjeet","Liberal","Libéral",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 504","Mobile poll/Bureau itinérant",N,N,"",3,153,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 504","Mobile poll/Bureau itinérant",N,N,"",3,153,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 504","Mobile poll/Bureau itinérant",N,N,"",3,153,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 504","Mobile poll/Bureau itinérant",N,N,"",3,153,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,96
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 504","Mobile poll/Bureau itinérant",N,N,"",3,153,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 504","Mobile poll/Bureau itinérant",N,N,"",3,153,"Sohi","","Amarjeet","Liberal","Libéral",N,N,71
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,119,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,119,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,119,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,119,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,119,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,119,"Sohi","","Amarjeet","Liberal","Libéral",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 600","Edmonton",N,N,"",1,0,"Benson","","Corinne","Communist","Communiste",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 600","Edmonton",N,N,"",1,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 600","Edmonton",N,N,"",1,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 600","Edmonton",N,N,"",1,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,358
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 600","Edmonton",N,N,"",1,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 600","Edmonton",N,N,"",1,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,317
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 601","Edmonton",N,N,"",2,0,"Benson","","Corinne","Communist","Communiste",N,N,1
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 601","Edmonton",N,N,"",2,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 601","Edmonton",N,N,"",2,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 601","Edmonton",N,N,"",2,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,617
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 601","Edmonton",N,N,"",2,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,17
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 601","Edmonton",N,N,"",2,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,500
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 602","Edmonton",N,N,"",7,0,"Benson","","Corinne","Communist","Communiste",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 602","Edmonton",N,N,"",7,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,16
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 602","Edmonton",N,N,"",7,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 602","Edmonton",N,N,"",7,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,778
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 602","Edmonton",N,N,"",7,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,14
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 602","Edmonton",N,N,"",7,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,705
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 603","Edmonton",N,N,"",7,0,"Benson","","Corinne","Communist","Communiste",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 603","Edmonton",N,N,"",7,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,9
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 603","Edmonton",N,N,"",7,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 603","Edmonton",N,N,"",7,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,728
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 603","Edmonton",N,N,"",7,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,17
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 603","Edmonton",N,N,"",7,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,557
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 604","Edmonton",N,N,"",5,0,"Benson","","Corinne","Communist","Communiste",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 604","Edmonton",N,N,"",5,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 604","Edmonton",N,N,"",5,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 604","Edmonton",N,N,"",5,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,301
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 604","Edmonton",N,N,"",5,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 604","Edmonton",N,N,"",5,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,134
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 605","Edmonton",N,N,"",7,0,"Benson","","Corinne","Communist","Communiste",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 605","Edmonton",N,N,"",7,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 605","Edmonton",N,N,"",7,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 605","Edmonton",N,N,"",7,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,718
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 605","Edmonton",N,N,"",7,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 605","Edmonton",N,N,"",7,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,591
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 606","Edmonton",N,N,"",9,0,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 606","Edmonton",N,N,"",9,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 606","Edmonton",N,N,"",9,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 606","Edmonton",N,N,"",9,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,655
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 606","Edmonton",N,N,"",9,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,11
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 606","Edmonton",N,N,"",9,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,623
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 607","Edmonton",N,N,"",3,0,"Benson","","Corinne","Communist","Communiste",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 607","Edmonton",N,N,"",3,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 607","Edmonton",N,N,"",3,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 607","Edmonton",N,N,"",3,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,399
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 607","Edmonton",N,N,"",3,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 607","Edmonton",N,N,"",3,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,422
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 608","Edmonton",N,N,"",2,0,"Benson","","Corinne","Communist","Communiste",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 608","Edmonton",N,N,"",2,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 608","Edmonton",N,N,"",2,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 608","Edmonton",N,N,"",2,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,377
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 608","Edmonton",N,N,"",2,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,6
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 608","Edmonton",N,N,"",2,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,252
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 609","Edmonton",N,N,"",3,0,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 609","Edmonton",N,N,"",3,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,0
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 609","Edmonton",N,N,"",3,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 609","Edmonton",N,N,"",3,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,447
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 609","Edmonton",N,N,"",3,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,16
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 609","Edmonton",N,N,"",3,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,357
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 610","Edmonton",N,N,"",3,0,"Benson","","Corinne","Communist","Communiste",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 610","Edmonton",N,N,"",3,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 610","Edmonton",N,N,"",3,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 610","Edmonton",N,N,"",3,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,623
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 610","Edmonton",N,N,"",3,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,5
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 610","Edmonton",N,N,"",3,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,360
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 611","Edmonton",N,N,"",11,0,"Benson","","Corinne","Communist","Communiste",N,N,19
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 611","Edmonton",N,N,"",11,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 611","Edmonton",N,N,"",11,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 611","Edmonton",N,N,"",11,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,1210
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 611","Edmonton",N,N,"",11,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,24
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 611","Edmonton",N,N,"",11,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,810
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 612","Edmonton",N,N,"",2,0,"Benson","","Corinne","Communist","Communiste",N,N,4
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 612","Edmonton",N,N,"",2,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,7
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 612","Edmonton",N,N,"",2,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 612","Edmonton",N,N,"",2,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,634
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 612","Edmonton",N,N,"",2,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 612","Edmonton",N,N,"",2,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,424
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 613","Edmonton",N,N,"",4,0,"Benson","","Corinne","Communist","Communiste",N,N,2
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 613","Edmonton",N,N,"",4,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,12
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 613","Edmonton",N,N,"",4,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 613","Edmonton",N,N,"",4,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,762
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 613","Edmonton",N,N,"",4,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,15
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," 613","Edmonton",N,N,"",4,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,424
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",49,193,"Benson","","Corinne","Communist","Communiste",N,N,8
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",49,193,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,3
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",49,193,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",49,193,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,301
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",49,193,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,10
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",49,193,"Sohi","","Amarjeet","Liberal","Libéral",N,N,312
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",93,0,"Benson","","Corinne","Communist","Communiste",N,N,25
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",93,0,"Chandi","","Gurleen","Independent","Indépendant(e)",N,N,20
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",93,0,"Grewal","","Harpreet","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,141
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",93,0,"Mahal","","Jagsharan Singh","Conservative","Conservateur",N,Y,1504
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",93,0,"Schuetza","","Martin","People's Party - PPC","Parti populaire - PPC",N,N,273
+48021,"Edmonton Southeast","Edmonton-Sud-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",93,0,"Sohi","","Amarjeet","Liberal","Libéral",N,N,1458

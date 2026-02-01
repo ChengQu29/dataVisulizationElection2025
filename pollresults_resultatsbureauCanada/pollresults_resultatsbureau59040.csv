@@ -1,0 +1,936 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+59040,"Vancouver Quadra","Vancouver Quadra"," 1A","Metro Vancouver A",N,N,"",0,469,"Charko","","Ken","Conservative","Conservateur",N,N,16
+59040,"Vancouver Quadra","Vancouver Quadra"," 1A","Metro Vancouver A",N,N,"",0,469,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 1A","Metro Vancouver A",N,N,"",0,469,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 1A","Metro Vancouver A",N,N,"",0,469,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59040,"Vancouver Quadra","Vancouver Quadra"," 1A","Metro Vancouver A",N,N,"",0,469,"Grant","","Wade","Liberal","Libéral",N,Y,59
+59040,"Vancouver Quadra","Vancouver Quadra"," 1B","Mobile poll/Bureau itinérant",N,N,"502",0,103,"Charko","","Ken","Conservative","Conservateur",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 1B","Mobile poll/Bureau itinérant",N,N,"502",0,103,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 1B","Mobile poll/Bureau itinérant",N,N,"502",0,103,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 1B","Mobile poll/Bureau itinérant",N,N,"502",0,103,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 1B","Mobile poll/Bureau itinérant",N,N,"502",0,103,"Grant","","Wade","Liberal","Libéral",N,Y,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 2","Metro Vancouver A",N,N,"",2,673,"Charko","","Ken","Conservative","Conservateur",N,N,31
+59040,"Vancouver Quadra","Vancouver Quadra"," 2","Metro Vancouver A",N,N,"",2,673,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 2","Metro Vancouver A",N,N,"",2,673,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 2","Metro Vancouver A",N,N,"",2,673,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 2","Metro Vancouver A",N,N,"",2,673,"Grant","","Wade","Liberal","Libéral",N,Y,85
+59040,"Vancouver Quadra","Vancouver Quadra"," 3","Metro Vancouver A",N,N,"",0,531,"Charko","","Ken","Conservative","Conservateur",N,N,22
+59040,"Vancouver Quadra","Vancouver Quadra"," 3","Metro Vancouver A",N,N,"",0,531,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 3","Metro Vancouver A",N,N,"",0,531,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 3","Metro Vancouver A",N,N,"",0,531,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59040,"Vancouver Quadra","Vancouver Quadra"," 3","Metro Vancouver A",N,N,"",0,531,"Grant","","Wade","Liberal","Libéral",N,Y,83
+59040,"Vancouver Quadra","Vancouver Quadra"," 4","Metro Vancouver A",N,N,"",1,571,"Charko","","Ken","Conservative","Conservateur",N,N,50
+59040,"Vancouver Quadra","Vancouver Quadra"," 4","Metro Vancouver A",N,N,"",1,571,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 4","Metro Vancouver A",N,N,"",1,571,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 4","Metro Vancouver A",N,N,"",1,571,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 4","Metro Vancouver A",N,N,"",1,571,"Grant","","Wade","Liberal","Libéral",N,Y,72
+59040,"Vancouver Quadra","Vancouver Quadra"," 5","Metro Vancouver A",N,N,"",1,506,"Charko","","Ken","Conservative","Conservateur",N,N,42
+59040,"Vancouver Quadra","Vancouver Quadra"," 5","Metro Vancouver A",N,N,"",1,506,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 5","Metro Vancouver A",N,N,"",1,506,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 5","Metro Vancouver A",N,N,"",1,506,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 5","Metro Vancouver A",N,N,"",1,506,"Grant","","Wade","Liberal","Libéral",N,Y,47
+59040,"Vancouver Quadra","Vancouver Quadra"," 6","Metro Vancouver A",N,N,"",0,418,"Charko","","Ken","Conservative","Conservateur",N,N,35
+59040,"Vancouver Quadra","Vancouver Quadra"," 6","Metro Vancouver A",N,N,"",0,418,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 6","Metro Vancouver A",N,N,"",0,418,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 6","Metro Vancouver A",N,N,"",0,418,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 6","Metro Vancouver A",N,N,"",0,418,"Grant","","Wade","Liberal","Libéral",N,Y,49
+59040,"Vancouver Quadra","Vancouver Quadra"," 7","Metro Vancouver A",N,N,"",0,560,"Charko","","Ken","Conservative","Conservateur",N,N,42
+59040,"Vancouver Quadra","Vancouver Quadra"," 7","Metro Vancouver A",N,N,"",0,560,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 7","Metro Vancouver A",N,N,"",0,560,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 7","Metro Vancouver A",N,N,"",0,560,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59040,"Vancouver Quadra","Vancouver Quadra"," 7","Metro Vancouver A",N,N,"",0,560,"Grant","","Wade","Liberal","Libéral",N,Y,86
+59040,"Vancouver Quadra","Vancouver Quadra"," 8","Metro Vancouver A",N,N,"",0,486,"Charko","","Ken","Conservative","Conservateur",N,N,39
+59040,"Vancouver Quadra","Vancouver Quadra"," 8","Metro Vancouver A",N,N,"",0,486,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 8","Metro Vancouver A",N,N,"",0,486,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 8","Metro Vancouver A",N,N,"",0,486,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 8","Metro Vancouver A",N,N,"",0,486,"Grant","","Wade","Liberal","Libéral",N,Y,59
+59040,"Vancouver Quadra","Vancouver Quadra"," 9","Metro Vancouver A",N,N,"",1,627,"Charko","","Ken","Conservative","Conservateur",N,N,49
+59040,"Vancouver Quadra","Vancouver Quadra"," 9","Metro Vancouver A",N,N,"",1,627,"Digby","","Tom","Green Party","Parti Vert",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 9","Metro Vancouver A",N,N,"",1,627,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 9","Metro Vancouver A",N,N,"",1,627,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59040,"Vancouver Quadra","Vancouver Quadra"," 9","Metro Vancouver A",N,N,"",1,627,"Grant","","Wade","Liberal","Libéral",N,Y,95
+59040,"Vancouver Quadra","Vancouver Quadra"," 10","Metro Vancouver A",N,N,"",1,567,"Charko","","Ken","Conservative","Conservateur",N,N,45
+59040,"Vancouver Quadra","Vancouver Quadra"," 10","Metro Vancouver A",N,N,"",1,567,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 10","Metro Vancouver A",N,N,"",1,567,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 10","Metro Vancouver A",N,N,"",1,567,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 10","Metro Vancouver A",N,N,"",1,567,"Grant","","Wade","Liberal","Libéral",N,Y,73
+59040,"Vancouver Quadra","Vancouver Quadra"," 11","Vancouver",N,N,"",0,423,"Charko","","Ken","Conservative","Conservateur",N,N,58
+59040,"Vancouver Quadra","Vancouver Quadra"," 11","Vancouver",N,N,"",0,423,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 11","Vancouver",N,N,"",0,423,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 11","Vancouver",N,N,"",0,423,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 11","Vancouver",N,N,"",0,423,"Grant","","Wade","Liberal","Libéral",N,Y,54
+59040,"Vancouver Quadra","Vancouver Quadra"," 12","Vancouver",N,N,"",0,442,"Charko","","Ken","Conservative","Conservateur",N,N,31
+59040,"Vancouver Quadra","Vancouver Quadra"," 12","Vancouver",N,N,"",0,442,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 12","Vancouver",N,N,"",0,442,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 12","Vancouver",N,N,"",0,442,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 12","Vancouver",N,N,"",0,442,"Grant","","Wade","Liberal","Libéral",N,Y,67
+59040,"Vancouver Quadra","Vancouver Quadra"," 13","Vancouver",N,N,"",2,605,"Charko","","Ken","Conservative","Conservateur",N,N,44
+59040,"Vancouver Quadra","Vancouver Quadra"," 13","Vancouver",N,N,"",2,605,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 13","Vancouver",N,N,"",2,605,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 13","Vancouver",N,N,"",2,605,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59040,"Vancouver Quadra","Vancouver Quadra"," 13","Vancouver",N,N,"",2,605,"Grant","","Wade","Liberal","Libéral",N,Y,87
+59040,"Vancouver Quadra","Vancouver Quadra"," 14","Vancouver",N,N,"",1,573,"Charko","","Ken","Conservative","Conservateur",N,N,48
+59040,"Vancouver Quadra","Vancouver Quadra"," 14","Vancouver",N,N,"",1,573,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 14","Vancouver",N,N,"",1,573,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 14","Vancouver",N,N,"",1,573,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 14","Vancouver",N,N,"",1,573,"Grant","","Wade","Liberal","Libéral",N,Y,62
+59040,"Vancouver Quadra","Vancouver Quadra"," 15","Vancouver",N,N,"",2,573,"Charko","","Ken","Conservative","Conservateur",N,N,45
+59040,"Vancouver Quadra","Vancouver Quadra"," 15","Vancouver",N,N,"",2,573,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 15","Vancouver",N,N,"",2,573,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 15","Vancouver",N,N,"",2,573,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59040,"Vancouver Quadra","Vancouver Quadra"," 15","Vancouver",N,N,"",2,573,"Grant","","Wade","Liberal","Libéral",N,Y,97
+59040,"Vancouver Quadra","Vancouver Quadra"," 16","Vancouver",N,N,"",1,601,"Charko","","Ken","Conservative","Conservateur",N,N,51
+59040,"Vancouver Quadra","Vancouver Quadra"," 16","Vancouver",N,N,"",1,601,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 16","Vancouver",N,N,"",1,601,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 16","Vancouver",N,N,"",1,601,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 16","Vancouver",N,N,"",1,601,"Grant","","Wade","Liberal","Libéral",N,Y,112
+59040,"Vancouver Quadra","Vancouver Quadra"," 17","Vancouver",N,N,"",2,587,"Charko","","Ken","Conservative","Conservateur",N,N,33
+59040,"Vancouver Quadra","Vancouver Quadra"," 17","Vancouver",N,N,"",2,587,"Digby","","Tom","Green Party","Parti Vert",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 17","Vancouver",N,N,"",2,587,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 17","Vancouver",N,N,"",2,587,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59040,"Vancouver Quadra","Vancouver Quadra"," 17","Vancouver",N,N,"",2,587,"Grant","","Wade","Liberal","Libéral",N,Y,139
+59040,"Vancouver Quadra","Vancouver Quadra"," 18","Metro Vancouver A",N,N,"",0,435,"Charko","","Ken","Conservative","Conservateur",N,N,35
+59040,"Vancouver Quadra","Vancouver Quadra"," 18","Metro Vancouver A",N,N,"",0,435,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 18","Metro Vancouver A",N,N,"",0,435,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 18","Metro Vancouver A",N,N,"",0,435,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 18","Metro Vancouver A",N,N,"",0,435,"Grant","","Wade","Liberal","Libéral",N,Y,48
+59040,"Vancouver Quadra","Vancouver Quadra"," 19","Vancouver",N,N,"",0,545,"Charko","","Ken","Conservative","Conservateur",N,N,52
+59040,"Vancouver Quadra","Vancouver Quadra"," 19","Vancouver",N,N,"",0,545,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 19","Vancouver",N,N,"",0,545,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 19","Vancouver",N,N,"",0,545,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 19","Vancouver",N,N,"",0,545,"Grant","","Wade","Liberal","Libéral",N,Y,75
+59040,"Vancouver Quadra","Vancouver Quadra"," 20","Vancouver",N,N,"",0,601,"Charko","","Ken","Conservative","Conservateur",N,N,41
+59040,"Vancouver Quadra","Vancouver Quadra"," 20","Vancouver",N,N,"",0,601,"Digby","","Tom","Green Party","Parti Vert",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 20","Vancouver",N,N,"",0,601,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 20","Vancouver",N,N,"",0,601,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59040,"Vancouver Quadra","Vancouver Quadra"," 20","Vancouver",N,N,"",0,601,"Grant","","Wade","Liberal","Libéral",N,Y,81
+59040,"Vancouver Quadra","Vancouver Quadra"," 21","Vancouver",N,N,"",1,481,"Charko","","Ken","Conservative","Conservateur",N,N,29
+59040,"Vancouver Quadra","Vancouver Quadra"," 21","Vancouver",N,N,"",1,481,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 21","Vancouver",N,N,"",1,481,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 21","Vancouver",N,N,"",1,481,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59040,"Vancouver Quadra","Vancouver Quadra"," 21","Vancouver",N,N,"",1,481,"Grant","","Wade","Liberal","Libéral",N,Y,76
+59040,"Vancouver Quadra","Vancouver Quadra"," 22","Vancouver",N,N,"",0,545,"Charko","","Ken","Conservative","Conservateur",N,N,63
+59040,"Vancouver Quadra","Vancouver Quadra"," 22","Vancouver",N,N,"",0,545,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 22","Vancouver",N,N,"",0,545,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 22","Vancouver",N,N,"",0,545,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59040,"Vancouver Quadra","Vancouver Quadra"," 22","Vancouver",N,N,"",0,545,"Grant","","Wade","Liberal","Libéral",N,Y,104
+59040,"Vancouver Quadra","Vancouver Quadra"," 23","Vancouver",N,N,"",2,546,"Charko","","Ken","Conservative","Conservateur",N,N,29
+59040,"Vancouver Quadra","Vancouver Quadra"," 23","Vancouver",N,N,"",2,546,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 23","Vancouver",N,N,"",2,546,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 23","Vancouver",N,N,"",2,546,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59040,"Vancouver Quadra","Vancouver Quadra"," 23","Vancouver",N,N,"",2,546,"Grant","","Wade","Liberal","Libéral",N,Y,127
+59040,"Vancouver Quadra","Vancouver Quadra"," 24","Vancouver",N,N,"",0,550,"Charko","","Ken","Conservative","Conservateur",N,N,47
+59040,"Vancouver Quadra","Vancouver Quadra"," 24","Vancouver",N,N,"",0,550,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 24","Vancouver",N,N,"",0,550,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 24","Vancouver",N,N,"",0,550,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 24","Vancouver",N,N,"",0,550,"Grant","","Wade","Liberal","Libéral",N,Y,116
+59040,"Vancouver Quadra","Vancouver Quadra"," 25","Vancouver",N,N,"",0,530,"Charko","","Ken","Conservative","Conservateur",N,N,48
+59040,"Vancouver Quadra","Vancouver Quadra"," 25","Vancouver",N,N,"",0,530,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 25","Vancouver",N,N,"",0,530,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 25","Vancouver",N,N,"",0,530,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 25","Vancouver",N,N,"",0,530,"Grant","","Wade","Liberal","Libéral",N,Y,110
+59040,"Vancouver Quadra","Vancouver Quadra"," 26","Vancouver",N,N,"",0,512,"Charko","","Ken","Conservative","Conservateur",N,N,30
+59040,"Vancouver Quadra","Vancouver Quadra"," 26","Vancouver",N,N,"",0,512,"Digby","","Tom","Green Party","Parti Vert",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 26","Vancouver",N,N,"",0,512,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 26","Vancouver",N,N,"",0,512,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 26","Vancouver",N,N,"",0,512,"Grant","","Wade","Liberal","Libéral",N,Y,100
+59040,"Vancouver Quadra","Vancouver Quadra"," 27","Vancouver",N,N,"",0,496,"Charko","","Ken","Conservative","Conservateur",N,N,39
+59040,"Vancouver Quadra","Vancouver Quadra"," 27","Vancouver",N,N,"",0,496,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 27","Vancouver",N,N,"",0,496,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 27","Vancouver",N,N,"",0,496,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59040,"Vancouver Quadra","Vancouver Quadra"," 27","Vancouver",N,N,"",0,496,"Grant","","Wade","Liberal","Libéral",N,Y,99
+59040,"Vancouver Quadra","Vancouver Quadra"," 28","Vancouver",N,N,"",0,489,"Charko","","Ken","Conservative","Conservateur",N,N,34
+59040,"Vancouver Quadra","Vancouver Quadra"," 28","Vancouver",N,N,"",0,489,"Digby","","Tom","Green Party","Parti Vert",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 28","Vancouver",N,N,"",0,489,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 28","Vancouver",N,N,"",0,489,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 28","Vancouver",N,N,"",0,489,"Grant","","Wade","Liberal","Libéral",N,Y,77
+59040,"Vancouver Quadra","Vancouver Quadra"," 29","Vancouver",N,N,"62",0,238,"Charko","","Ken","Conservative","Conservateur",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 29","Vancouver",N,N,"62",0,238,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 29","Vancouver",N,N,"62",0,238,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 29","Vancouver",N,N,"62",0,238,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 29","Vancouver",N,N,"62",0,238,"Grant","","Wade","Liberal","Libéral",N,Y,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 30","Vancouver",N,N,"",0,526,"Charko","","Ken","Conservative","Conservateur",N,N,31
+59040,"Vancouver Quadra","Vancouver Quadra"," 30","Vancouver",N,N,"",0,526,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 30","Vancouver",N,N,"",0,526,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 30","Vancouver",N,N,"",0,526,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 30","Vancouver",N,N,"",0,526,"Grant","","Wade","Liberal","Libéral",N,Y,77
+59040,"Vancouver Quadra","Vancouver Quadra"," 31","Vancouver",N,N,"",1,453,"Charko","","Ken","Conservative","Conservateur",N,N,30
+59040,"Vancouver Quadra","Vancouver Quadra"," 31","Vancouver",N,N,"",1,453,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 31","Vancouver",N,N,"",1,453,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 31","Vancouver",N,N,"",1,453,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 31","Vancouver",N,N,"",1,453,"Grant","","Wade","Liberal","Libéral",N,Y,61
+59040,"Vancouver Quadra","Vancouver Quadra"," 32","Vancouver",N,N,"",0,486,"Charko","","Ken","Conservative","Conservateur",N,N,25
+59040,"Vancouver Quadra","Vancouver Quadra"," 32","Vancouver",N,N,"",0,486,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 32","Vancouver",N,N,"",0,486,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 32","Vancouver",N,N,"",0,486,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 32","Vancouver",N,N,"",0,486,"Grant","","Wade","Liberal","Libéral",N,Y,54
+59040,"Vancouver Quadra","Vancouver Quadra"," 33","Vancouver",N,N,"",0,501,"Charko","","Ken","Conservative","Conservateur",N,N,44
+59040,"Vancouver Quadra","Vancouver Quadra"," 33","Vancouver",N,N,"",0,501,"Digby","","Tom","Green Party","Parti Vert",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 33","Vancouver",N,N,"",0,501,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 33","Vancouver",N,N,"",0,501,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59040,"Vancouver Quadra","Vancouver Quadra"," 33","Vancouver",N,N,"",0,501,"Grant","","Wade","Liberal","Libéral",N,Y,105
+59040,"Vancouver Quadra","Vancouver Quadra"," 34","Vancouver",N,N,"",1,574,"Charko","","Ken","Conservative","Conservateur",N,N,44
+59040,"Vancouver Quadra","Vancouver Quadra"," 34","Vancouver",N,N,"",1,574,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 34","Vancouver",N,N,"",1,574,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 34","Vancouver",N,N,"",1,574,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59040,"Vancouver Quadra","Vancouver Quadra"," 34","Vancouver",N,N,"",1,574,"Grant","","Wade","Liberal","Libéral",N,Y,118
+59040,"Vancouver Quadra","Vancouver Quadra"," 35","Vancouver",N,N,"",1,533,"Charko","","Ken","Conservative","Conservateur",N,N,43
+59040,"Vancouver Quadra","Vancouver Quadra"," 35","Vancouver",N,N,"",1,533,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 35","Vancouver",N,N,"",1,533,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 35","Vancouver",N,N,"",1,533,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 35","Vancouver",N,N,"",1,533,"Grant","","Wade","Liberal","Libéral",N,Y,61
+59040,"Vancouver Quadra","Vancouver Quadra"," 36","Vancouver",N,N,"",0,447,"Charko","","Ken","Conservative","Conservateur",N,N,30
+59040,"Vancouver Quadra","Vancouver Quadra"," 36","Vancouver",N,N,"",0,447,"Digby","","Tom","Green Party","Parti Vert",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 36","Vancouver",N,N,"",0,447,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 36","Vancouver",N,N,"",0,447,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 36","Vancouver",N,N,"",0,447,"Grant","","Wade","Liberal","Libéral",N,Y,79
+59040,"Vancouver Quadra","Vancouver Quadra"," 37","Vancouver",N,N,"",0,606,"Charko","","Ken","Conservative","Conservateur",N,N,26
+59040,"Vancouver Quadra","Vancouver Quadra"," 37","Vancouver",N,N,"",0,606,"Digby","","Tom","Green Party","Parti Vert",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 37","Vancouver",N,N,"",0,606,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 37","Vancouver",N,N,"",0,606,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59040,"Vancouver Quadra","Vancouver Quadra"," 37","Vancouver",N,N,"",0,606,"Grant","","Wade","Liberal","Libéral",N,Y,99
+59040,"Vancouver Quadra","Vancouver Quadra"," 38","Vancouver",N,N,"",0,520,"Charko","","Ken","Conservative","Conservateur",N,N,44
+59040,"Vancouver Quadra","Vancouver Quadra"," 38","Vancouver",N,N,"",0,520,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 38","Vancouver",N,N,"",0,520,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 38","Vancouver",N,N,"",0,520,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 38","Vancouver",N,N,"",0,520,"Grant","","Wade","Liberal","Libéral",N,Y,59
+59040,"Vancouver Quadra","Vancouver Quadra"," 39","Vancouver",N,N,"",0,548,"Charko","","Ken","Conservative","Conservateur",N,N,45
+59040,"Vancouver Quadra","Vancouver Quadra"," 39","Vancouver",N,N,"",0,548,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 39","Vancouver",N,N,"",0,548,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 39","Vancouver",N,N,"",0,548,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59040,"Vancouver Quadra","Vancouver Quadra"," 39","Vancouver",N,N,"",0,548,"Grant","","Wade","Liberal","Libéral",N,Y,76
+59040,"Vancouver Quadra","Vancouver Quadra"," 40","Vancouver",N,N,"",0,508,"Charko","","Ken","Conservative","Conservateur",N,N,44
+59040,"Vancouver Quadra","Vancouver Quadra"," 40","Vancouver",N,N,"",0,508,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 40","Vancouver",N,N,"",0,508,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 40","Vancouver",N,N,"",0,508,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 40","Vancouver",N,N,"",0,508,"Grant","","Wade","Liberal","Libéral",N,Y,82
+59040,"Vancouver Quadra","Vancouver Quadra"," 41","Vancouver",N,N,"",0,486,"Charko","","Ken","Conservative","Conservateur",N,N,36
+59040,"Vancouver Quadra","Vancouver Quadra"," 41","Vancouver",N,N,"",0,486,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 41","Vancouver",N,N,"",0,486,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 41","Vancouver",N,N,"",0,486,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 41","Vancouver",N,N,"",0,486,"Grant","","Wade","Liberal","Libéral",N,Y,70
+59040,"Vancouver Quadra","Vancouver Quadra"," 42","Vancouver",N,N,"",0,572,"Charko","","Ken","Conservative","Conservateur",N,N,66
+59040,"Vancouver Quadra","Vancouver Quadra"," 42","Vancouver",N,N,"",0,572,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 42","Vancouver",N,N,"",0,572,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 42","Vancouver",N,N,"",0,572,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 42","Vancouver",N,N,"",0,572,"Grant","","Wade","Liberal","Libéral",N,Y,66
+59040,"Vancouver Quadra","Vancouver Quadra"," 43","Vancouver",N,N,"",0,608,"Charko","","Ken","Conservative","Conservateur",N,N,52
+59040,"Vancouver Quadra","Vancouver Quadra"," 43","Vancouver",N,N,"",0,608,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 43","Vancouver",N,N,"",0,608,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 43","Vancouver",N,N,"",0,608,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59040,"Vancouver Quadra","Vancouver Quadra"," 43","Vancouver",N,N,"",0,608,"Grant","","Wade","Liberal","Libéral",N,Y,105
+59040,"Vancouver Quadra","Vancouver Quadra"," 44","Vancouver",N,N,"",0,453,"Charko","","Ken","Conservative","Conservateur",N,N,42
+59040,"Vancouver Quadra","Vancouver Quadra"," 44","Vancouver",N,N,"",0,453,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 44","Vancouver",N,N,"",0,453,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 44","Vancouver",N,N,"",0,453,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 44","Vancouver",N,N,"",0,453,"Grant","","Wade","Liberal","Libéral",N,Y,71
+59040,"Vancouver Quadra","Vancouver Quadra"," 45","Vancouver",N,N,"",0,545,"Charko","","Ken","Conservative","Conservateur",N,N,43
+59040,"Vancouver Quadra","Vancouver Quadra"," 45","Vancouver",N,N,"",0,545,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 45","Vancouver",N,N,"",0,545,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 45","Vancouver",N,N,"",0,545,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 45","Vancouver",N,N,"",0,545,"Grant","","Wade","Liberal","Libéral",N,Y,93
+59040,"Vancouver Quadra","Vancouver Quadra"," 46","Vancouver",N,N,"",0,532,"Charko","","Ken","Conservative","Conservateur",N,N,42
+59040,"Vancouver Quadra","Vancouver Quadra"," 46","Vancouver",N,N,"",0,532,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 46","Vancouver",N,N,"",0,532,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 46","Vancouver",N,N,"",0,532,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 46","Vancouver",N,N,"",0,532,"Grant","","Wade","Liberal","Libéral",N,Y,89
+59040,"Vancouver Quadra","Vancouver Quadra"," 47","Vancouver",N,N,"",0,586,"Charko","","Ken","Conservative","Conservateur",N,N,33
+59040,"Vancouver Quadra","Vancouver Quadra"," 47","Vancouver",N,N,"",0,586,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 47","Vancouver",N,N,"",0,586,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 47","Vancouver",N,N,"",0,586,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59040,"Vancouver Quadra","Vancouver Quadra"," 47","Vancouver",N,N,"",0,586,"Grant","","Wade","Liberal","Libéral",N,Y,111
+59040,"Vancouver Quadra","Vancouver Quadra"," 48","Vancouver",N,N,"",1,523,"Charko","","Ken","Conservative","Conservateur",N,N,45
+59040,"Vancouver Quadra","Vancouver Quadra"," 48","Vancouver",N,N,"",1,523,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 48","Vancouver",N,N,"",1,523,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 48","Vancouver",N,N,"",1,523,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 48","Vancouver",N,N,"",1,523,"Grant","","Wade","Liberal","Libéral",N,Y,106
+59040,"Vancouver Quadra","Vancouver Quadra"," 49","Vancouver",N,N,"",3,529,"Charko","","Ken","Conservative","Conservateur",N,N,39
+59040,"Vancouver Quadra","Vancouver Quadra"," 49","Vancouver",N,N,"",3,529,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 49","Vancouver",N,N,"",3,529,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 49","Vancouver",N,N,"",3,529,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 49","Vancouver",N,N,"",3,529,"Grant","","Wade","Liberal","Libéral",N,Y,88
+59040,"Vancouver Quadra","Vancouver Quadra"," 50","Vancouver",N,N,"",1,611,"Charko","","Ken","Conservative","Conservateur",N,N,50
+59040,"Vancouver Quadra","Vancouver Quadra"," 50","Vancouver",N,N,"",1,611,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 50","Vancouver",N,N,"",1,611,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 50","Vancouver",N,N,"",1,611,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 50","Vancouver",N,N,"",1,611,"Grant","","Wade","Liberal","Libéral",N,Y,88
+59040,"Vancouver Quadra","Vancouver Quadra"," 51","Vancouver",N,N,"",1,590,"Charko","","Ken","Conservative","Conservateur",N,N,85
+59040,"Vancouver Quadra","Vancouver Quadra"," 51","Vancouver",N,N,"",1,590,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 51","Vancouver",N,N,"",1,590,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 51","Vancouver",N,N,"",1,590,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 51","Vancouver",N,N,"",1,590,"Grant","","Wade","Liberal","Libéral",N,Y,91
+59040,"Vancouver Quadra","Vancouver Quadra"," 52","Vancouver",N,N,"",1,561,"Charko","","Ken","Conservative","Conservateur",N,N,54
+59040,"Vancouver Quadra","Vancouver Quadra"," 52","Vancouver",N,N,"",1,561,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 52","Vancouver",N,N,"",1,561,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 52","Vancouver",N,N,"",1,561,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 52","Vancouver",N,N,"",1,561,"Grant","","Wade","Liberal","Libéral",N,Y,108
+59040,"Vancouver Quadra","Vancouver Quadra"," 53","Vancouver",N,N,"",0,593,"Charko","","Ken","Conservative","Conservateur",N,N,49
+59040,"Vancouver Quadra","Vancouver Quadra"," 53","Vancouver",N,N,"",0,593,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 53","Vancouver",N,N,"",0,593,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 53","Vancouver",N,N,"",0,593,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 53","Vancouver",N,N,"",0,593,"Grant","","Wade","Liberal","Libéral",N,Y,81
+59040,"Vancouver Quadra","Vancouver Quadra"," 54","Metro Vancouver A",N,N,"",0,426,"Charko","","Ken","Conservative","Conservateur",N,N,28
+59040,"Vancouver Quadra","Vancouver Quadra"," 54","Metro Vancouver A",N,N,"",0,426,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 54","Metro Vancouver A",N,N,"",0,426,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 54","Metro Vancouver A",N,N,"",0,426,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 54","Metro Vancouver A",N,N,"",0,426,"Grant","","Wade","Liberal","Libéral",N,Y,56
+59040,"Vancouver Quadra","Vancouver Quadra"," 55","Metro Vancouver A",N,N,"",1,601,"Charko","","Ken","Conservative","Conservateur",N,N,50
+59040,"Vancouver Quadra","Vancouver Quadra"," 55","Metro Vancouver A",N,N,"",1,601,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 55","Metro Vancouver A",N,N,"",1,601,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 55","Metro Vancouver A",N,N,"",1,601,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 55","Metro Vancouver A",N,N,"",1,601,"Grant","","Wade","Liberal","Libéral",N,Y,64
+59040,"Vancouver Quadra","Vancouver Quadra"," 56","Metro Vancouver A",N,N,"",0,413,"Charko","","Ken","Conservative","Conservateur",N,N,38
+59040,"Vancouver Quadra","Vancouver Quadra"," 56","Metro Vancouver A",N,N,"",0,413,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 56","Metro Vancouver A",N,N,"",0,413,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 56","Metro Vancouver A",N,N,"",0,413,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 56","Metro Vancouver A",N,N,"",0,413,"Grant","","Wade","Liberal","Libéral",N,Y,80
+59040,"Vancouver Quadra","Vancouver Quadra"," 57","Metro Vancouver A",N,N,"",0,611,"Charko","","Ken","Conservative","Conservateur",N,N,65
+59040,"Vancouver Quadra","Vancouver Quadra"," 57","Metro Vancouver A",N,N,"",0,611,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 57","Metro Vancouver A",N,N,"",0,611,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 57","Metro Vancouver A",N,N,"",0,611,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59040,"Vancouver Quadra","Vancouver Quadra"," 57","Metro Vancouver A",N,N,"",0,611,"Grant","","Wade","Liberal","Libéral",N,Y,138
+59040,"Vancouver Quadra","Vancouver Quadra"," 58","Metro Vancouver A",N,N,"",0,505,"Charko","","Ken","Conservative","Conservateur",N,N,76
+59040,"Vancouver Quadra","Vancouver Quadra"," 58","Metro Vancouver A",N,N,"",0,505,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 58","Metro Vancouver A",N,N,"",0,505,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 58","Metro Vancouver A",N,N,"",0,505,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 58","Metro Vancouver A",N,N,"",0,505,"Grant","","Wade","Liberal","Libéral",N,Y,82
+59040,"Vancouver Quadra","Vancouver Quadra"," 59","Metro Vancouver A",N,N,"",1,453,"Charko","","Ken","Conservative","Conservateur",N,N,62
+59040,"Vancouver Quadra","Vancouver Quadra"," 59","Metro Vancouver A",N,N,"",1,453,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 59","Metro Vancouver A",N,N,"",1,453,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 59","Metro Vancouver A",N,N,"",1,453,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 59","Metro Vancouver A",N,N,"",1,453,"Grant","","Wade","Liberal","Libéral",N,Y,95
+59040,"Vancouver Quadra","Vancouver Quadra"," 60","Metro Vancouver A",N,N,"",1,505,"Charko","","Ken","Conservative","Conservateur",N,N,36
+59040,"Vancouver Quadra","Vancouver Quadra"," 60","Metro Vancouver A",N,N,"",1,505,"Digby","","Tom","Green Party","Parti Vert",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 60","Metro Vancouver A",N,N,"",1,505,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 60","Metro Vancouver A",N,N,"",1,505,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59040,"Vancouver Quadra","Vancouver Quadra"," 60","Metro Vancouver A",N,N,"",1,505,"Grant","","Wade","Liberal","Libéral",N,Y,120
+59040,"Vancouver Quadra","Vancouver Quadra"," 61","Metro Vancouver A",N,N,"",0,704,"Charko","","Ken","Conservative","Conservateur",N,N,109
+59040,"Vancouver Quadra","Vancouver Quadra"," 61","Metro Vancouver A",N,N,"",0,704,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 61","Metro Vancouver A",N,N,"",0,704,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 61","Metro Vancouver A",N,N,"",0,704,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 61","Metro Vancouver A",N,N,"",0,704,"Grant","","Wade","Liberal","Libéral",N,Y,139
+59040,"Vancouver Quadra","Vancouver Quadra"," 62","Vancouver",N,N,"",1,443,"Charko","","Ken","Conservative","Conservateur",N,N,45
+59040,"Vancouver Quadra","Vancouver Quadra"," 62","Vancouver",N,N,"",1,443,"Digby","","Tom","Green Party","Parti Vert",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 62","Vancouver",N,N,"",1,443,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 62","Vancouver",N,N,"",1,443,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59040,"Vancouver Quadra","Vancouver Quadra"," 62","Vancouver",N,N,"",1,443,"Grant","","Wade","Liberal","Libéral",N,Y,122
+59040,"Vancouver Quadra","Vancouver Quadra"," 63","Vancouver",N,N,"",0,458,"Charko","","Ken","Conservative","Conservateur",N,N,41
+59040,"Vancouver Quadra","Vancouver Quadra"," 63","Vancouver",N,N,"",0,458,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 63","Vancouver",N,N,"",0,458,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 63","Vancouver",N,N,"",0,458,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 63","Vancouver",N,N,"",0,458,"Grant","","Wade","Liberal","Libéral",N,Y,63
+59040,"Vancouver Quadra","Vancouver Quadra"," 64","Vancouver",N,N,"",0,468,"Charko","","Ken","Conservative","Conservateur",N,N,30
+59040,"Vancouver Quadra","Vancouver Quadra"," 64","Vancouver",N,N,"",0,468,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 64","Vancouver",N,N,"",0,468,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 64","Vancouver",N,N,"",0,468,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 64","Vancouver",N,N,"",0,468,"Grant","","Wade","Liberal","Libéral",N,Y,84
+59040,"Vancouver Quadra","Vancouver Quadra"," 65","Vancouver",N,N,"",0,572,"Charko","","Ken","Conservative","Conservateur",N,N,37
+59040,"Vancouver Quadra","Vancouver Quadra"," 65","Vancouver",N,N,"",0,572,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 65","Vancouver",N,N,"",0,572,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 65","Vancouver",N,N,"",0,572,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 65","Vancouver",N,N,"",0,572,"Grant","","Wade","Liberal","Libéral",N,Y,93
+59040,"Vancouver Quadra","Vancouver Quadra"," 66","Vancouver",N,N,"",0,404,"Charko","","Ken","Conservative","Conservateur",N,N,27
+59040,"Vancouver Quadra","Vancouver Quadra"," 66","Vancouver",N,N,"",0,404,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 66","Vancouver",N,N,"",0,404,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 66","Vancouver",N,N,"",0,404,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 66","Vancouver",N,N,"",0,404,"Grant","","Wade","Liberal","Libéral",N,Y,59
+59040,"Vancouver Quadra","Vancouver Quadra"," 67","Vancouver",N,N,"",0,562,"Charko","","Ken","Conservative","Conservateur",N,N,41
+59040,"Vancouver Quadra","Vancouver Quadra"," 67","Vancouver",N,N,"",0,562,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 67","Vancouver",N,N,"",0,562,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 67","Vancouver",N,N,"",0,562,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 67","Vancouver",N,N,"",0,562,"Grant","","Wade","Liberal","Libéral",N,Y,108
+59040,"Vancouver Quadra","Vancouver Quadra"," 68","Vancouver",N,N,"",0,460,"Charko","","Ken","Conservative","Conservateur",N,N,33
+59040,"Vancouver Quadra","Vancouver Quadra"," 68","Vancouver",N,N,"",0,460,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 68","Vancouver",N,N,"",0,460,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 68","Vancouver",N,N,"",0,460,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 68","Vancouver",N,N,"",0,460,"Grant","","Wade","Liberal","Libéral",N,Y,80
+59040,"Vancouver Quadra","Vancouver Quadra"," 69","Vancouver",N,N,"",0,543,"Charko","","Ken","Conservative","Conservateur",N,N,34
+59040,"Vancouver Quadra","Vancouver Quadra"," 69","Vancouver",N,N,"",0,543,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 69","Vancouver",N,N,"",0,543,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 69","Vancouver",N,N,"",0,543,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 69","Vancouver",N,N,"",0,543,"Grant","","Wade","Liberal","Libéral",N,Y,96
+59040,"Vancouver Quadra","Vancouver Quadra"," 70","Vancouver",N,N,"",1,541,"Charko","","Ken","Conservative","Conservateur",N,N,32
+59040,"Vancouver Quadra","Vancouver Quadra"," 70","Vancouver",N,N,"",1,541,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 70","Vancouver",N,N,"",1,541,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 70","Vancouver",N,N,"",1,541,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 70","Vancouver",N,N,"",1,541,"Grant","","Wade","Liberal","Libéral",N,Y,101
+59040,"Vancouver Quadra","Vancouver Quadra"," 71","Vancouver",N,N,"",0,564,"Charko","","Ken","Conservative","Conservateur",N,N,27
+59040,"Vancouver Quadra","Vancouver Quadra"," 71","Vancouver",N,N,"",0,564,"Digby","","Tom","Green Party","Parti Vert",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 71","Vancouver",N,N,"",0,564,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 71","Vancouver",N,N,"",0,564,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 71","Vancouver",N,N,"",0,564,"Grant","","Wade","Liberal","Libéral",N,Y,79
+59040,"Vancouver Quadra","Vancouver Quadra"," 72","Vancouver",N,N,"",0,578,"Charko","","Ken","Conservative","Conservateur",N,N,30
+59040,"Vancouver Quadra","Vancouver Quadra"," 72","Vancouver",N,N,"",0,578,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 72","Vancouver",N,N,"",0,578,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 72","Vancouver",N,N,"",0,578,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 72","Vancouver",N,N,"",0,578,"Grant","","Wade","Liberal","Libéral",N,Y,76
+59040,"Vancouver Quadra","Vancouver Quadra"," 73","Vancouver",N,N,"",0,463,"Charko","","Ken","Conservative","Conservateur",N,N,33
+59040,"Vancouver Quadra","Vancouver Quadra"," 73","Vancouver",N,N,"",0,463,"Digby","","Tom","Green Party","Parti Vert",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 73","Vancouver",N,N,"",0,463,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 73","Vancouver",N,N,"",0,463,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 73","Vancouver",N,N,"",0,463,"Grant","","Wade","Liberal","Libéral",N,Y,62
+59040,"Vancouver Quadra","Vancouver Quadra"," 74","Vancouver",N,N,"",0,516,"Charko","","Ken","Conservative","Conservateur",N,N,44
+59040,"Vancouver Quadra","Vancouver Quadra"," 74","Vancouver",N,N,"",0,516,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 74","Vancouver",N,N,"",0,516,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 74","Vancouver",N,N,"",0,516,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59040,"Vancouver Quadra","Vancouver Quadra"," 74","Vancouver",N,N,"",0,516,"Grant","","Wade","Liberal","Libéral",N,Y,95
+59040,"Vancouver Quadra","Vancouver Quadra"," 75","Vancouver",N,N,"",0,550,"Charko","","Ken","Conservative","Conservateur",N,N,52
+59040,"Vancouver Quadra","Vancouver Quadra"," 75","Vancouver",N,N,"",0,550,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 75","Vancouver",N,N,"",0,550,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 75","Vancouver",N,N,"",0,550,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 75","Vancouver",N,N,"",0,550,"Grant","","Wade","Liberal","Libéral",N,Y,80
+59040,"Vancouver Quadra","Vancouver Quadra"," 76","Vancouver",N,N,"",2,579,"Charko","","Ken","Conservative","Conservateur",N,N,71
+59040,"Vancouver Quadra","Vancouver Quadra"," 76","Vancouver",N,N,"",2,579,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 76","Vancouver",N,N,"",2,579,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 76","Vancouver",N,N,"",2,579,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 76","Vancouver",N,N,"",2,579,"Grant","","Wade","Liberal","Libéral",N,Y,123
+59040,"Vancouver Quadra","Vancouver Quadra"," 77","Vancouver",N,N,"",0,556,"Charko","","Ken","Conservative","Conservateur",N,N,59
+59040,"Vancouver Quadra","Vancouver Quadra"," 77","Vancouver",N,N,"",0,556,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 77","Vancouver",N,N,"",0,556,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 77","Vancouver",N,N,"",0,556,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 77","Vancouver",N,N,"",0,556,"Grant","","Wade","Liberal","Libéral",N,Y,69
+59040,"Vancouver Quadra","Vancouver Quadra"," 78","Vancouver",N,N,"",0,531,"Charko","","Ken","Conservative","Conservateur",N,N,42
+59040,"Vancouver Quadra","Vancouver Quadra"," 78","Vancouver",N,N,"",0,531,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 78","Vancouver",N,N,"",0,531,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 78","Vancouver",N,N,"",0,531,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59040,"Vancouver Quadra","Vancouver Quadra"," 78","Vancouver",N,N,"",0,531,"Grant","","Wade","Liberal","Libéral",N,Y,75
+59040,"Vancouver Quadra","Vancouver Quadra"," 79","Vancouver",N,N,"",2,557,"Charko","","Ken","Conservative","Conservateur",N,N,72
+59040,"Vancouver Quadra","Vancouver Quadra"," 79","Vancouver",N,N,"",2,557,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 79","Vancouver",N,N,"",2,557,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 79","Vancouver",N,N,"",2,557,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 79","Vancouver",N,N,"",2,557,"Grant","","Wade","Liberal","Libéral",N,Y,97
+59040,"Vancouver Quadra","Vancouver Quadra"," 80","Vancouver",N,N,"",0,524,"Charko","","Ken","Conservative","Conservateur",N,N,22
+59040,"Vancouver Quadra","Vancouver Quadra"," 80","Vancouver",N,N,"",0,524,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 80","Vancouver",N,N,"",0,524,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 80","Vancouver",N,N,"",0,524,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59040,"Vancouver Quadra","Vancouver Quadra"," 80","Vancouver",N,N,"",0,524,"Grant","","Wade","Liberal","Libéral",N,Y,96
+59040,"Vancouver Quadra","Vancouver Quadra"," 81","Vancouver",N,N,"",0,486,"Charko","","Ken","Conservative","Conservateur",N,N,27
+59040,"Vancouver Quadra","Vancouver Quadra"," 81","Vancouver",N,N,"",0,486,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 81","Vancouver",N,N,"",0,486,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 81","Vancouver",N,N,"",0,486,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 81","Vancouver",N,N,"",0,486,"Grant","","Wade","Liberal","Libéral",N,Y,59
+59040,"Vancouver Quadra","Vancouver Quadra"," 82","Vancouver",N,N,"",0,554,"Charko","","Ken","Conservative","Conservateur",N,N,46
+59040,"Vancouver Quadra","Vancouver Quadra"," 82","Vancouver",N,N,"",0,554,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 82","Vancouver",N,N,"",0,554,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 82","Vancouver",N,N,"",0,554,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 82","Vancouver",N,N,"",0,554,"Grant","","Wade","Liberal","Libéral",N,Y,80
+59040,"Vancouver Quadra","Vancouver Quadra"," 83","Vancouver",N,N,"",1,484,"Charko","","Ken","Conservative","Conservateur",N,N,29
+59040,"Vancouver Quadra","Vancouver Quadra"," 83","Vancouver",N,N,"",1,484,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 83","Vancouver",N,N,"",1,484,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 83","Vancouver",N,N,"",1,484,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 83","Vancouver",N,N,"",1,484,"Grant","","Wade","Liberal","Libéral",N,Y,65
+59040,"Vancouver Quadra","Vancouver Quadra"," 84","Vancouver",N,N,"",0,444,"Charko","","Ken","Conservative","Conservateur",N,N,23
+59040,"Vancouver Quadra","Vancouver Quadra"," 84","Vancouver",N,N,"",0,444,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 84","Vancouver",N,N,"",0,444,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 84","Vancouver",N,N,"",0,444,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 84","Vancouver",N,N,"",0,444,"Grant","","Wade","Liberal","Libéral",N,Y,49
+59040,"Vancouver Quadra","Vancouver Quadra"," 85","Vancouver",N,N,"",0,469,"Charko","","Ken","Conservative","Conservateur",N,N,47
+59040,"Vancouver Quadra","Vancouver Quadra"," 85","Vancouver",N,N,"",0,469,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 85","Vancouver",N,N,"",0,469,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 85","Vancouver",N,N,"",0,469,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 85","Vancouver",N,N,"",0,469,"Grant","","Wade","Liberal","Libéral",N,Y,59
+59040,"Vancouver Quadra","Vancouver Quadra"," 86","Vancouver",N,N,"",3,526,"Charko","","Ken","Conservative","Conservateur",N,N,24
+59040,"Vancouver Quadra","Vancouver Quadra"," 86","Vancouver",N,N,"",3,526,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 86","Vancouver",N,N,"",3,526,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 86","Vancouver",N,N,"",3,526,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 86","Vancouver",N,N,"",3,526,"Grant","","Wade","Liberal","Libéral",N,Y,81
+59040,"Vancouver Quadra","Vancouver Quadra"," 87","Vancouver",N,N,"",0,554,"Charko","","Ken","Conservative","Conservateur",N,N,46
+59040,"Vancouver Quadra","Vancouver Quadra"," 87","Vancouver",N,N,"",0,554,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 87","Vancouver",N,N,"",0,554,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 87","Vancouver",N,N,"",0,554,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 87","Vancouver",N,N,"",0,554,"Grant","","Wade","Liberal","Libéral",N,Y,79
+59040,"Vancouver Quadra","Vancouver Quadra"," 88","Vancouver",N,N,"",0,395,"Charko","","Ken","Conservative","Conservateur",N,N,42
+59040,"Vancouver Quadra","Vancouver Quadra"," 88","Vancouver",N,N,"",0,395,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 88","Vancouver",N,N,"",0,395,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 88","Vancouver",N,N,"",0,395,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 88","Vancouver",N,N,"",0,395,"Grant","","Wade","Liberal","Libéral",N,Y,44
+59040,"Vancouver Quadra","Vancouver Quadra"," 89","Vancouver",N,N,"",0,536,"Charko","","Ken","Conservative","Conservateur",N,N,55
+59040,"Vancouver Quadra","Vancouver Quadra"," 89","Vancouver",N,N,"",0,536,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 89","Vancouver",N,N,"",0,536,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 89","Vancouver",N,N,"",0,536,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 89","Vancouver",N,N,"",0,536,"Grant","","Wade","Liberal","Libéral",N,Y,69
+59040,"Vancouver Quadra","Vancouver Quadra"," 90","Vancouver",N,N,"",0,583,"Charko","","Ken","Conservative","Conservateur",N,N,40
+59040,"Vancouver Quadra","Vancouver Quadra"," 90","Vancouver",N,N,"",0,583,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 90","Vancouver",N,N,"",0,583,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 90","Vancouver",N,N,"",0,583,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 90","Vancouver",N,N,"",0,583,"Grant","","Wade","Liberal","Libéral",N,Y,78
+59040,"Vancouver Quadra","Vancouver Quadra"," 91","Vancouver",N,N,"",0,489,"Charko","","Ken","Conservative","Conservateur",N,N,55
+59040,"Vancouver Quadra","Vancouver Quadra"," 91","Vancouver",N,N,"",0,489,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 91","Vancouver",N,N,"",0,489,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 91","Vancouver",N,N,"",0,489,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 91","Vancouver",N,N,"",0,489,"Grant","","Wade","Liberal","Libéral",N,Y,57
+59040,"Vancouver Quadra","Vancouver Quadra"," 92","Vancouver",N,N,"",0,638,"Charko","","Ken","Conservative","Conservateur",N,N,75
+59040,"Vancouver Quadra","Vancouver Quadra"," 92","Vancouver",N,N,"",0,638,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 92","Vancouver",N,N,"",0,638,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 92","Vancouver",N,N,"",0,638,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 92","Vancouver",N,N,"",0,638,"Grant","","Wade","Liberal","Libéral",N,Y,83
+59040,"Vancouver Quadra","Vancouver Quadra"," 93","Vancouver",N,N,"",0,491,"Charko","","Ken","Conservative","Conservateur",N,N,73
+59040,"Vancouver Quadra","Vancouver Quadra"," 93","Vancouver",N,N,"",0,491,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 93","Vancouver",N,N,"",0,491,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 93","Vancouver",N,N,"",0,491,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 93","Vancouver",N,N,"",0,491,"Grant","","Wade","Liberal","Libéral",N,Y,70
+59040,"Vancouver Quadra","Vancouver Quadra"," 94","Vancouver",N,N,"",4,543,"Charko","","Ken","Conservative","Conservateur",N,N,64
+59040,"Vancouver Quadra","Vancouver Quadra"," 94","Vancouver",N,N,"",4,543,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 94","Vancouver",N,N,"",4,543,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 94","Vancouver",N,N,"",4,543,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 94","Vancouver",N,N,"",4,543,"Grant","","Wade","Liberal","Libéral",N,Y,74
+59040,"Vancouver Quadra","Vancouver Quadra"," 95","Vancouver",N,N,"",0,540,"Charko","","Ken","Conservative","Conservateur",N,N,72
+59040,"Vancouver Quadra","Vancouver Quadra"," 95","Vancouver",N,N,"",0,540,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 95","Vancouver",N,N,"",0,540,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 95","Vancouver",N,N,"",0,540,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 95","Vancouver",N,N,"",0,540,"Grant","","Wade","Liberal","Libéral",N,Y,91
+59040,"Vancouver Quadra","Vancouver Quadra"," 96","Vancouver",N,N,"",0,540,"Charko","","Ken","Conservative","Conservateur",N,N,82
+59040,"Vancouver Quadra","Vancouver Quadra"," 96","Vancouver",N,N,"",0,540,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 96","Vancouver",N,N,"",0,540,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 96","Vancouver",N,N,"",0,540,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 96","Vancouver",N,N,"",0,540,"Grant","","Wade","Liberal","Libéral",N,Y,76
+59040,"Vancouver Quadra","Vancouver Quadra"," 97","Vancouver",N,N,"",0,586,"Charko","","Ken","Conservative","Conservateur",N,N,46
+59040,"Vancouver Quadra","Vancouver Quadra"," 97","Vancouver",N,N,"",0,586,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 97","Vancouver",N,N,"",0,586,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 97","Vancouver",N,N,"",0,586,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 97","Vancouver",N,N,"",0,586,"Grant","","Wade","Liberal","Libéral",N,Y,92
+59040,"Vancouver Quadra","Vancouver Quadra"," 98","Vancouver",N,N,"",0,571,"Charko","","Ken","Conservative","Conservateur",N,N,74
+59040,"Vancouver Quadra","Vancouver Quadra"," 98","Vancouver",N,N,"",0,571,"Digby","","Tom","Green Party","Parti Vert",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 98","Vancouver",N,N,"",0,571,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 98","Vancouver",N,N,"",0,571,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59040,"Vancouver Quadra","Vancouver Quadra"," 98","Vancouver",N,N,"",0,571,"Grant","","Wade","Liberal","Libéral",N,Y,97
+59040,"Vancouver Quadra","Vancouver Quadra"," 99","Vancouver",N,N,"",1,603,"Charko","","Ken","Conservative","Conservateur",N,N,67
+59040,"Vancouver Quadra","Vancouver Quadra"," 99","Vancouver",N,N,"",1,603,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 99","Vancouver",N,N,"",1,603,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 99","Vancouver",N,N,"",1,603,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 99","Vancouver",N,N,"",1,603,"Grant","","Wade","Liberal","Libéral",N,Y,73
+59040,"Vancouver Quadra","Vancouver Quadra"," 100","Vancouver",N,N,"",0,518,"Charko","","Ken","Conservative","Conservateur",N,N,60
+59040,"Vancouver Quadra","Vancouver Quadra"," 100","Vancouver",N,N,"",0,518,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 100","Vancouver",N,N,"",0,518,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 100","Vancouver",N,N,"",0,518,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 100","Vancouver",N,N,"",0,518,"Grant","","Wade","Liberal","Libéral",N,Y,65
+59040,"Vancouver Quadra","Vancouver Quadra"," 101","Vancouver",N,N,"",0,601,"Charko","","Ken","Conservative","Conservateur",N,N,67
+59040,"Vancouver Quadra","Vancouver Quadra"," 101","Vancouver",N,N,"",0,601,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 101","Vancouver",N,N,"",0,601,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 101","Vancouver",N,N,"",0,601,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 101","Vancouver",N,N,"",0,601,"Grant","","Wade","Liberal","Libéral",N,Y,71
+59040,"Vancouver Quadra","Vancouver Quadra"," 102","Vancouver",N,N,"",0,531,"Charko","","Ken","Conservative","Conservateur",N,N,32
+59040,"Vancouver Quadra","Vancouver Quadra"," 102","Vancouver",N,N,"",0,531,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 102","Vancouver",N,N,"",0,531,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 102","Vancouver",N,N,"",0,531,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 102","Vancouver",N,N,"",0,531,"Grant","","Wade","Liberal","Libéral",N,Y,59
+59040,"Vancouver Quadra","Vancouver Quadra"," 103","Vancouver",N,N,"",1,602,"Charko","","Ken","Conservative","Conservateur",N,N,64
+59040,"Vancouver Quadra","Vancouver Quadra"," 103","Vancouver",N,N,"",1,602,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 103","Vancouver",N,N,"",1,602,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 103","Vancouver",N,N,"",1,602,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 103","Vancouver",N,N,"",1,602,"Grant","","Wade","Liberal","Libéral",N,Y,63
+59040,"Vancouver Quadra","Vancouver Quadra"," 104","Vancouver",N,N,"",2,534,"Charko","","Ken","Conservative","Conservateur",N,N,91
+59040,"Vancouver Quadra","Vancouver Quadra"," 104","Vancouver",N,N,"",2,534,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 104","Vancouver",N,N,"",2,534,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 104","Vancouver",N,N,"",2,534,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59040,"Vancouver Quadra","Vancouver Quadra"," 104","Vancouver",N,N,"",2,534,"Grant","","Wade","Liberal","Libéral",N,Y,70
+59040,"Vancouver Quadra","Vancouver Quadra"," 105","Vancouver",N,N,"",0,495,"Charko","","Ken","Conservative","Conservateur",N,N,69
+59040,"Vancouver Quadra","Vancouver Quadra"," 105","Vancouver",N,N,"",0,495,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 105","Vancouver",N,N,"",0,495,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 105","Vancouver",N,N,"",0,495,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 105","Vancouver",N,N,"",0,495,"Grant","","Wade","Liberal","Libéral",N,Y,62
+59040,"Vancouver Quadra","Vancouver Quadra"," 106","Vancouver",N,N,"",0,477,"Charko","","Ken","Conservative","Conservateur",N,N,35
+59040,"Vancouver Quadra","Vancouver Quadra"," 106","Vancouver",N,N,"",0,477,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 106","Vancouver",N,N,"",0,477,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 106","Vancouver",N,N,"",0,477,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 106","Vancouver",N,N,"",0,477,"Grant","","Wade","Liberal","Libéral",N,Y,53
+59040,"Vancouver Quadra","Vancouver Quadra"," 107","Vancouver",N,N,"",0,571,"Charko","","Ken","Conservative","Conservateur",N,N,46
+59040,"Vancouver Quadra","Vancouver Quadra"," 107","Vancouver",N,N,"",0,571,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 107","Vancouver",N,N,"",0,571,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 107","Vancouver",N,N,"",0,571,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 107","Vancouver",N,N,"",0,571,"Grant","","Wade","Liberal","Libéral",N,Y,74
+59040,"Vancouver Quadra","Vancouver Quadra"," 108","Vancouver",N,N,"",1,457,"Charko","","Ken","Conservative","Conservateur",N,N,59
+59040,"Vancouver Quadra","Vancouver Quadra"," 108","Vancouver",N,N,"",1,457,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 108","Vancouver",N,N,"",1,457,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 108","Vancouver",N,N,"",1,457,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 108","Vancouver",N,N,"",1,457,"Grant","","Wade","Liberal","Libéral",N,Y,45
+59040,"Vancouver Quadra","Vancouver Quadra"," 109","Vancouver",N,N,"",0,458,"Charko","","Ken","Conservative","Conservateur",N,N,57
+59040,"Vancouver Quadra","Vancouver Quadra"," 109","Vancouver",N,N,"",0,458,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 109","Vancouver",N,N,"",0,458,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 109","Vancouver",N,N,"",0,458,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 109","Vancouver",N,N,"",0,458,"Grant","","Wade","Liberal","Libéral",N,Y,71
+59040,"Vancouver Quadra","Vancouver Quadra"," 110","Vancouver",N,N,"",0,710,"Charko","","Ken","Conservative","Conservateur",N,N,85
+59040,"Vancouver Quadra","Vancouver Quadra"," 110","Vancouver",N,N,"",0,710,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 110","Vancouver",N,N,"",0,710,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 110","Vancouver",N,N,"",0,710,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 110","Vancouver",N,N,"",0,710,"Grant","","Wade","Liberal","Libéral",N,Y,120
+59040,"Vancouver Quadra","Vancouver Quadra"," 111","Vancouver",N,N,"",1,527,"Charko","","Ken","Conservative","Conservateur",N,N,104
+59040,"Vancouver Quadra","Vancouver Quadra"," 111","Vancouver",N,N,"",1,527,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 111","Vancouver",N,N,"",1,527,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 111","Vancouver",N,N,"",1,527,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 111","Vancouver",N,N,"",1,527,"Grant","","Wade","Liberal","Libéral",N,Y,71
+59040,"Vancouver Quadra","Vancouver Quadra"," 112","Musqueam 2",N,N,"",0,412,"Charko","","Ken","Conservative","Conservateur",N,N,50
+59040,"Vancouver Quadra","Vancouver Quadra"," 112","Musqueam 2",N,N,"",0,412,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 112","Musqueam 2",N,N,"",0,412,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 112","Musqueam 2",N,N,"",0,412,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 112","Musqueam 2",N,N,"",0,412,"Grant","","Wade","Liberal","Libéral",N,Y,76
+59040,"Vancouver Quadra","Vancouver Quadra"," 113","Musqueam 2",N,N,"",0,416,"Charko","","Ken","Conservative","Conservateur",N,N,39
+59040,"Vancouver Quadra","Vancouver Quadra"," 113","Musqueam 2",N,N,"",0,416,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 113","Musqueam 2",N,N,"",0,416,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 113","Musqueam 2",N,N,"",0,416,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 113","Musqueam 2",N,N,"",0,416,"Grant","","Wade","Liberal","Libéral",N,Y,130
+59040,"Vancouver Quadra","Vancouver Quadra"," 114","Vancouver",N,N,"",4,539,"Charko","","Ken","Conservative","Conservateur",N,N,80
+59040,"Vancouver Quadra","Vancouver Quadra"," 114","Vancouver",N,N,"",4,539,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 114","Vancouver",N,N,"",4,539,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 114","Vancouver",N,N,"",4,539,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 114","Vancouver",N,N,"",4,539,"Grant","","Wade","Liberal","Libéral",N,Y,64
+59040,"Vancouver Quadra","Vancouver Quadra"," 115","Vancouver",N,N,"",0,510,"Charko","","Ken","Conservative","Conservateur",N,N,75
+59040,"Vancouver Quadra","Vancouver Quadra"," 115","Vancouver",N,N,"",0,510,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 115","Vancouver",N,N,"",0,510,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 115","Vancouver",N,N,"",0,510,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 115","Vancouver",N,N,"",0,510,"Grant","","Wade","Liberal","Libéral",N,Y,73
+59040,"Vancouver Quadra","Vancouver Quadra"," 116","Vancouver",N,N,"",2,539,"Charko","","Ken","Conservative","Conservateur",N,N,47
+59040,"Vancouver Quadra","Vancouver Quadra"," 116","Vancouver",N,N,"",2,539,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 116","Vancouver",N,N,"",2,539,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 116","Vancouver",N,N,"",2,539,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 116","Vancouver",N,N,"",2,539,"Grant","","Wade","Liberal","Libéral",N,Y,77
+59040,"Vancouver Quadra","Vancouver Quadra"," 117","Musqueam 2",N,N,"",0,496,"Charko","","Ken","Conservative","Conservateur",N,N,20
+59040,"Vancouver Quadra","Vancouver Quadra"," 117","Musqueam 2",N,N,"",0,496,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 117","Musqueam 2",N,N,"",0,496,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 117","Musqueam 2",N,N,"",0,496,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59040,"Vancouver Quadra","Vancouver Quadra"," 117","Musqueam 2",N,N,"",0,496,"Grant","","Wade","Liberal","Libéral",N,Y,183
+59040,"Vancouver Quadra","Vancouver Quadra"," 118","Vancouver",N,N,"",1,614,"Charko","","Ken","Conservative","Conservateur",N,N,58
+59040,"Vancouver Quadra","Vancouver Quadra"," 118","Vancouver",N,N,"",1,614,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 118","Vancouver",N,N,"",1,614,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 118","Vancouver",N,N,"",1,614,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 118","Vancouver",N,N,"",1,614,"Grant","","Wade","Liberal","Libéral",N,Y,73
+59040,"Vancouver Quadra","Vancouver Quadra"," 119","Vancouver",N,N,"",0,568,"Charko","","Ken","Conservative","Conservateur",N,N,60
+59040,"Vancouver Quadra","Vancouver Quadra"," 119","Vancouver",N,N,"",0,568,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 119","Vancouver",N,N,"",0,568,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 119","Vancouver",N,N,"",0,568,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 119","Vancouver",N,N,"",0,568,"Grant","","Wade","Liberal","Libéral",N,Y,70
+59040,"Vancouver Quadra","Vancouver Quadra"," 120","Vancouver",N,N,"",0,573,"Charko","","Ken","Conservative","Conservateur",N,N,63
+59040,"Vancouver Quadra","Vancouver Quadra"," 120","Vancouver",N,N,"",0,573,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 120","Vancouver",N,N,"",0,573,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 120","Vancouver",N,N,"",0,573,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 120","Vancouver",N,N,"",0,573,"Grant","","Wade","Liberal","Libéral",N,Y,94
+59040,"Vancouver Quadra","Vancouver Quadra"," 121","Vancouver",N,N,"",0,601,"Charko","","Ken","Conservative","Conservateur",N,N,62
+59040,"Vancouver Quadra","Vancouver Quadra"," 121","Vancouver",N,N,"",0,601,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 121","Vancouver",N,N,"",0,601,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 121","Vancouver",N,N,"",0,601,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 121","Vancouver",N,N,"",0,601,"Grant","","Wade","Liberal","Libéral",N,Y,68
+59040,"Vancouver Quadra","Vancouver Quadra"," 122","Vancouver",N,N,"",0,599,"Charko","","Ken","Conservative","Conservateur",N,N,62
+59040,"Vancouver Quadra","Vancouver Quadra"," 122","Vancouver",N,N,"",0,599,"Digby","","Tom","Green Party","Parti Vert",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 122","Vancouver",N,N,"",0,599,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 122","Vancouver",N,N,"",0,599,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 122","Vancouver",N,N,"",0,599,"Grant","","Wade","Liberal","Libéral",N,Y,88
+59040,"Vancouver Quadra","Vancouver Quadra"," 123","Vancouver",N,N,"",0,573,"Charko","","Ken","Conservative","Conservateur",N,N,62
+59040,"Vancouver Quadra","Vancouver Quadra"," 123","Vancouver",N,N,"",0,573,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 123","Vancouver",N,N,"",0,573,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 123","Vancouver",N,N,"",0,573,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 123","Vancouver",N,N,"",0,573,"Grant","","Wade","Liberal","Libéral",N,Y,89
+59040,"Vancouver Quadra","Vancouver Quadra"," 124","Vancouver",N,N,"",0,442,"Charko","","Ken","Conservative","Conservateur",N,N,54
+59040,"Vancouver Quadra","Vancouver Quadra"," 124","Vancouver",N,N,"",0,442,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 124","Vancouver",N,N,"",0,442,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 124","Vancouver",N,N,"",0,442,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 124","Vancouver",N,N,"",0,442,"Grant","","Wade","Liberal","Libéral",N,Y,65
+59040,"Vancouver Quadra","Vancouver Quadra"," 125","Vancouver",N,N,"",0,456,"Charko","","Ken","Conservative","Conservateur",N,N,32
+59040,"Vancouver Quadra","Vancouver Quadra"," 125","Vancouver",N,N,"",0,456,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 125","Vancouver",N,N,"",0,456,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 125","Vancouver",N,N,"",0,456,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 125","Vancouver",N,N,"",0,456,"Grant","","Wade","Liberal","Libéral",N,Y,57
+59040,"Vancouver Quadra","Vancouver Quadra"," 126","Vancouver",N,N,"",0,503,"Charko","","Ken","Conservative","Conservateur",N,N,67
+59040,"Vancouver Quadra","Vancouver Quadra"," 126","Vancouver",N,N,"",0,503,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 126","Vancouver",N,N,"",0,503,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 126","Vancouver",N,N,"",0,503,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 126","Vancouver",N,N,"",0,503,"Grant","","Wade","Liberal","Libéral",N,Y,83
+59040,"Vancouver Quadra","Vancouver Quadra"," 127","Vancouver",N,N,"",0,493,"Charko","","Ken","Conservative","Conservateur",N,N,33
+59040,"Vancouver Quadra","Vancouver Quadra"," 127","Vancouver",N,N,"",0,493,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 127","Vancouver",N,N,"",0,493,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 127","Vancouver",N,N,"",0,493,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 127","Vancouver",N,N,"",0,493,"Grant","","Wade","Liberal","Libéral",N,Y,48
+59040,"Vancouver Quadra","Vancouver Quadra"," 128","Vancouver",N,N,"",0,564,"Charko","","Ken","Conservative","Conservateur",N,N,33
+59040,"Vancouver Quadra","Vancouver Quadra"," 128","Vancouver",N,N,"",0,564,"Digby","","Tom","Green Party","Parti Vert",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 128","Vancouver",N,N,"",0,564,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 128","Vancouver",N,N,"",0,564,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 128","Vancouver",N,N,"",0,564,"Grant","","Wade","Liberal","Libéral",N,Y,67
+59040,"Vancouver Quadra","Vancouver Quadra"," 129","Vancouver",N,N,"",0,504,"Charko","","Ken","Conservative","Conservateur",N,N,31
+59040,"Vancouver Quadra","Vancouver Quadra"," 129","Vancouver",N,N,"",0,504,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 129","Vancouver",N,N,"",0,504,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 129","Vancouver",N,N,"",0,504,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 129","Vancouver",N,N,"",0,504,"Grant","","Wade","Liberal","Libéral",N,Y,49
+59040,"Vancouver Quadra","Vancouver Quadra"," 130","Vancouver",N,N,"",4,528,"Charko","","Ken","Conservative","Conservateur",N,N,41
+59040,"Vancouver Quadra","Vancouver Quadra"," 130","Vancouver",N,N,"",4,528,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 130","Vancouver",N,N,"",4,528,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 130","Vancouver",N,N,"",4,528,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 130","Vancouver",N,N,"",4,528,"Grant","","Wade","Liberal","Libéral",N,Y,44
+59040,"Vancouver Quadra","Vancouver Quadra"," 131","Vancouver",N,N,"",0,589,"Charko","","Ken","Conservative","Conservateur",N,N,27
+59040,"Vancouver Quadra","Vancouver Quadra"," 131","Vancouver",N,N,"",0,589,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 131","Vancouver",N,N,"",0,589,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 131","Vancouver",N,N,"",0,589,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 131","Vancouver",N,N,"",0,589,"Grant","","Wade","Liberal","Libéral",N,Y,63
+59040,"Vancouver Quadra","Vancouver Quadra"," 132","Vancouver",N,N,"",0,459,"Charko","","Ken","Conservative","Conservateur",N,N,26
+59040,"Vancouver Quadra","Vancouver Quadra"," 132","Vancouver",N,N,"",0,459,"Digby","","Tom","Green Party","Parti Vert",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 132","Vancouver",N,N,"",0,459,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 132","Vancouver",N,N,"",0,459,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 132","Vancouver",N,N,"",0,459,"Grant","","Wade","Liberal","Libéral",N,Y,36
+59040,"Vancouver Quadra","Vancouver Quadra"," 133","Vancouver",N,N,"",0,485,"Charko","","Ken","Conservative","Conservateur",N,N,27
+59040,"Vancouver Quadra","Vancouver Quadra"," 133","Vancouver",N,N,"",0,485,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 133","Vancouver",N,N,"",0,485,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 133","Vancouver",N,N,"",0,485,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 133","Vancouver",N,N,"",0,485,"Grant","","Wade","Liberal","Libéral",N,Y,56
+59040,"Vancouver Quadra","Vancouver Quadra"," 134","Vancouver",N,N,"",0,571,"Charko","","Ken","Conservative","Conservateur",N,N,49
+59040,"Vancouver Quadra","Vancouver Quadra"," 134","Vancouver",N,N,"",0,571,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 134","Vancouver",N,N,"",0,571,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 134","Vancouver",N,N,"",0,571,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 134","Vancouver",N,N,"",0,571,"Grant","","Wade","Liberal","Libéral",N,Y,65
+59040,"Vancouver Quadra","Vancouver Quadra"," 135","Vancouver",N,N,"",1,525,"Charko","","Ken","Conservative","Conservateur",N,N,49
+59040,"Vancouver Quadra","Vancouver Quadra"," 135","Vancouver",N,N,"",1,525,"Digby","","Tom","Green Party","Parti Vert",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 135","Vancouver",N,N,"",1,525,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 135","Vancouver",N,N,"",1,525,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59040,"Vancouver Quadra","Vancouver Quadra"," 135","Vancouver",N,N,"",1,525,"Grant","","Wade","Liberal","Libéral",N,Y,55
+59040,"Vancouver Quadra","Vancouver Quadra"," 136","Vancouver",N,N,"",0,510,"Charko","","Ken","Conservative","Conservateur",N,N,69
+59040,"Vancouver Quadra","Vancouver Quadra"," 136","Vancouver",N,N,"",0,510,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 136","Vancouver",N,N,"",0,510,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 136","Vancouver",N,N,"",0,510,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 136","Vancouver",N,N,"",0,510,"Grant","","Wade","Liberal","Libéral",N,Y,66
+59040,"Vancouver Quadra","Vancouver Quadra"," 137","Vancouver",N,N,"",0,538,"Charko","","Ken","Conservative","Conservateur",N,N,77
+59040,"Vancouver Quadra","Vancouver Quadra"," 137","Vancouver",N,N,"",0,538,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 137","Vancouver",N,N,"",0,538,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 137","Vancouver",N,N,"",0,538,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 137","Vancouver",N,N,"",0,538,"Grant","","Wade","Liberal","Libéral",N,Y,86
+59040,"Vancouver Quadra","Vancouver Quadra"," 138","Vancouver",N,N,"",0,561,"Charko","","Ken","Conservative","Conservateur",N,N,92
+59040,"Vancouver Quadra","Vancouver Quadra"," 138","Vancouver",N,N,"",0,561,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 138","Vancouver",N,N,"",0,561,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 138","Vancouver",N,N,"",0,561,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 138","Vancouver",N,N,"",0,561,"Grant","","Wade","Liberal","Libéral",N,Y,61
+59040,"Vancouver Quadra","Vancouver Quadra"," 139","Vancouver",N,N,"",2,544,"Charko","","Ken","Conservative","Conservateur",N,N,45
+59040,"Vancouver Quadra","Vancouver Quadra"," 139","Vancouver",N,N,"",2,544,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 139","Vancouver",N,N,"",2,544,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 139","Vancouver",N,N,"",2,544,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59040,"Vancouver Quadra","Vancouver Quadra"," 139","Vancouver",N,N,"",2,544,"Grant","","Wade","Liberal","Libéral",N,Y,80
+59040,"Vancouver Quadra","Vancouver Quadra"," 140","Vancouver",N,N,"",0,360,"Charko","","Ken","Conservative","Conservateur",N,N,81
+59040,"Vancouver Quadra","Vancouver Quadra"," 140","Vancouver",N,N,"",0,360,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 140","Vancouver",N,N,"",0,360,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 140","Vancouver",N,N,"",0,360,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 140","Vancouver",N,N,"",0,360,"Grant","","Wade","Liberal","Libéral",N,Y,42
+59040,"Vancouver Quadra","Vancouver Quadra"," 141","Vancouver",N,N,"",0,427,"Charko","","Ken","Conservative","Conservateur",N,N,37
+59040,"Vancouver Quadra","Vancouver Quadra"," 141","Vancouver",N,N,"",0,427,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 141","Vancouver",N,N,"",0,427,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 141","Vancouver",N,N,"",0,427,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 141","Vancouver",N,N,"",0,427,"Grant","","Wade","Liberal","Libéral",N,Y,60
+59040,"Vancouver Quadra","Vancouver Quadra"," 142","Vancouver",N,N,"140",0,110,"Charko","","Ken","Conservative","Conservateur",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 142","Vancouver",N,N,"140",0,110,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 142","Vancouver",N,N,"140",0,110,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 142","Vancouver",N,N,"140",0,110,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 142","Vancouver",N,N,"140",0,110,"Grant","","Wade","Liberal","Libéral",N,Y,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 143","Vancouver",N,N,"",0,410,"Charko","","Ken","Conservative","Conservateur",N,N,78
+59040,"Vancouver Quadra","Vancouver Quadra"," 143","Vancouver",N,N,"",0,410,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 143","Vancouver",N,N,"",0,410,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 143","Vancouver",N,N,"",0,410,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 143","Vancouver",N,N,"",0,410,"Grant","","Wade","Liberal","Libéral",N,Y,38
+59040,"Vancouver Quadra","Vancouver Quadra"," 144","Vancouver",N,N,"145",0,135,"Charko","","Ken","Conservative","Conservateur",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 144","Vancouver",N,N,"145",0,135,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 144","Vancouver",N,N,"145",0,135,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 144","Vancouver",N,N,"145",0,135,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 144","Vancouver",N,N,"145",0,135,"Grant","","Wade","Liberal","Libéral",N,Y,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 145","Vancouver",N,N,"",0,438,"Charko","","Ken","Conservative","Conservateur",N,N,53
+59040,"Vancouver Quadra","Vancouver Quadra"," 145","Vancouver",N,N,"",0,438,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 145","Vancouver",N,N,"",0,438,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 145","Vancouver",N,N,"",0,438,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 145","Vancouver",N,N,"",0,438,"Grant","","Wade","Liberal","Libéral",N,Y,52
+59040,"Vancouver Quadra","Vancouver Quadra"," 146","Vancouver",N,N,"148",0,91,"Charko","","Ken","Conservative","Conservateur",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 146","Vancouver",N,N,"148",0,91,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 146","Vancouver",N,N,"148",0,91,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 146","Vancouver",N,N,"148",0,91,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 146","Vancouver",N,N,"148",0,91,"Grant","","Wade","Liberal","Libéral",N,Y,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 147","Vancouver",N,N,"",0,445,"Charko","","Ken","Conservative","Conservateur",N,N,59
+59040,"Vancouver Quadra","Vancouver Quadra"," 147","Vancouver",N,N,"",0,445,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 147","Vancouver",N,N,"",0,445,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 147","Vancouver",N,N,"",0,445,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 147","Vancouver",N,N,"",0,445,"Grant","","Wade","Liberal","Libéral",N,Y,48
+59040,"Vancouver Quadra","Vancouver Quadra"," 148","Vancouver",N,N,"",2,434,"Charko","","Ken","Conservative","Conservateur",N,N,55
+59040,"Vancouver Quadra","Vancouver Quadra"," 148","Vancouver",N,N,"",2,434,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 148","Vancouver",N,N,"",2,434,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 148","Vancouver",N,N,"",2,434,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 148","Vancouver",N,N,"",2,434,"Grant","","Wade","Liberal","Libéral",N,Y,61
+59040,"Vancouver Quadra","Vancouver Quadra"," 149","Vancouver",N,N,"",2,449,"Charko","","Ken","Conservative","Conservateur",N,N,73
+59040,"Vancouver Quadra","Vancouver Quadra"," 149","Vancouver",N,N,"",2,449,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 149","Vancouver",N,N,"",2,449,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 149","Vancouver",N,N,"",2,449,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 149","Vancouver",N,N,"",2,449,"Grant","","Wade","Liberal","Libéral",N,Y,40
+59040,"Vancouver Quadra","Vancouver Quadra"," 150","Vancouver",N,N,"",1,575,"Charko","","Ken","Conservative","Conservateur",N,N,62
+59040,"Vancouver Quadra","Vancouver Quadra"," 150","Vancouver",N,N,"",1,575,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 150","Vancouver",N,N,"",1,575,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 150","Vancouver",N,N,"",1,575,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 150","Vancouver",N,N,"",1,575,"Grant","","Wade","Liberal","Libéral",N,Y,58
+59040,"Vancouver Quadra","Vancouver Quadra"," 151","Vancouver",N,N,"",0,512,"Charko","","Ken","Conservative","Conservateur",N,N,54
+59040,"Vancouver Quadra","Vancouver Quadra"," 151","Vancouver",N,N,"",0,512,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 151","Vancouver",N,N,"",0,512,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 151","Vancouver",N,N,"",0,512,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 151","Vancouver",N,N,"",0,512,"Grant","","Wade","Liberal","Libéral",N,Y,68
+59040,"Vancouver Quadra","Vancouver Quadra"," 152","Vancouver",N,N,"",1,478,"Charko","","Ken","Conservative","Conservateur",N,N,79
+59040,"Vancouver Quadra","Vancouver Quadra"," 152","Vancouver",N,N,"",1,478,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 152","Vancouver",N,N,"",1,478,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 152","Vancouver",N,N,"",1,478,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 152","Vancouver",N,N,"",1,478,"Grant","","Wade","Liberal","Libéral",N,Y,58
+59040,"Vancouver Quadra","Vancouver Quadra"," 153","Vancouver",N,N,"",0,545,"Charko","","Ken","Conservative","Conservateur",N,N,66
+59040,"Vancouver Quadra","Vancouver Quadra"," 153","Vancouver",N,N,"",0,545,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 153","Vancouver",N,N,"",0,545,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 153","Vancouver",N,N,"",0,545,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 153","Vancouver",N,N,"",0,545,"Grant","","Wade","Liberal","Libéral",N,Y,85
+59040,"Vancouver Quadra","Vancouver Quadra"," 154A","Vancouver",N,N,"",0,415,"Charko","","Ken","Conservative","Conservateur",N,N,69
+59040,"Vancouver Quadra","Vancouver Quadra"," 154A","Vancouver",N,N,"",0,415,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 154A","Vancouver",N,N,"",0,415,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 154A","Vancouver",N,N,"",0,415,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 154A","Vancouver",N,N,"",0,415,"Grant","","Wade","Liberal","Libéral",N,Y,53
+59040,"Vancouver Quadra","Vancouver Quadra"," 154B","Mobile poll/Bureau itinérant",N,N,"506",0,57,"Charko","","Ken","Conservative","Conservateur",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 154B","Mobile poll/Bureau itinérant",N,N,"506",0,57,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 154B","Mobile poll/Bureau itinérant",N,N,"506",0,57,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 154B","Mobile poll/Bureau itinérant",N,N,"506",0,57,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 154B","Mobile poll/Bureau itinérant",N,N,"506",0,57,"Grant","","Wade","Liberal","Libéral",N,Y,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 400","Metro Vancouver A",N,N,"",1,153,"Charko","","Ken","Conservative","Conservateur",N,N,23
+59040,"Vancouver Quadra","Vancouver Quadra"," 400","Metro Vancouver A",N,N,"",1,153,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 400","Metro Vancouver A",N,N,"",1,153,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 400","Metro Vancouver A",N,N,"",1,153,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 400","Metro Vancouver A",N,N,"",1,153,"Grant","","Wade","Liberal","Libéral",N,Y,92
+59040,"Vancouver Quadra","Vancouver Quadra"," 401","Vancouver",N,N,"",2,167,"Charko","","Ken","Conservative","Conservateur",N,N,21
+59040,"Vancouver Quadra","Vancouver Quadra"," 401","Vancouver",N,N,"",2,167,"Digby","","Tom","Green Party","Parti Vert",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 401","Vancouver",N,N,"",2,167,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 401","Vancouver",N,N,"",2,167,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 401","Vancouver",N,N,"",2,167,"Grant","","Wade","Liberal","Libéral",N,Y,96
+59040,"Vancouver Quadra","Vancouver Quadra"," 402","Mobile poll/Bureau itinérant",N,N,"505",0,115,"Charko","","Ken","Conservative","Conservateur",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 402","Mobile poll/Bureau itinérant",N,N,"505",0,115,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 402","Mobile poll/Bureau itinérant",N,N,"505",0,115,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 402","Mobile poll/Bureau itinérant",N,N,"505",0,115,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 402","Mobile poll/Bureau itinérant",N,N,"505",0,115,"Grant","","Wade","Liberal","Libéral",N,Y,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Charko","","Ken","Conservative","Conservateur",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Grant","","Wade","Liberal","Libéral",N,Y,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 501","Metro Vancouver A",N,N,"1A",0,3,"Charko","","Ken","Conservative","Conservateur",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 501","Metro Vancouver A",N,N,"1A",0,3,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 501","Metro Vancouver A",N,N,"1A",0,3,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 501","Metro Vancouver A",N,N,"1A",0,3,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 501","Metro Vancouver A",N,N,"1A",0,3,"Grant","","Wade","Liberal","Libéral",N,Y,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 502","Mobile poll/Bureau itinérant",N,N,"",0,31,"Charko","","Ken","Conservative","Conservateur",N,N,15
+59040,"Vancouver Quadra","Vancouver Quadra"," 502","Mobile poll/Bureau itinérant",N,N,"",0,31,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 502","Mobile poll/Bureau itinérant",N,N,"",0,31,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 502","Mobile poll/Bureau itinérant",N,N,"",0,31,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59040,"Vancouver Quadra","Vancouver Quadra"," 502","Mobile poll/Bureau itinérant",N,N,"",0,31,"Grant","","Wade","Liberal","Libéral",N,Y,37
+59040,"Vancouver Quadra","Vancouver Quadra"," 503","Mobile poll/Bureau itinérant",N,N,"",0,118,"Charko","","Ken","Conservative","Conservateur",N,N,17
+59040,"Vancouver Quadra","Vancouver Quadra"," 503","Mobile poll/Bureau itinérant",N,N,"",0,118,"Digby","","Tom","Green Party","Parti Vert",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 503","Mobile poll/Bureau itinérant",N,N,"",0,118,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 503","Mobile poll/Bureau itinérant",N,N,"",0,118,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 503","Mobile poll/Bureau itinérant",N,N,"",0,118,"Grant","","Wade","Liberal","Libéral",N,Y,42
+59040,"Vancouver Quadra","Vancouver Quadra"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,50,"Charko","","Ken","Conservative","Conservateur",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,50,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,50,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,50,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,50,"Grant","","Wade","Liberal","Libéral",N,Y,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 505","Mobile poll/Bureau itinérant",N,N,"",2,31,"Charko","","Ken","Conservative","Conservateur",N,N,19
+59040,"Vancouver Quadra","Vancouver Quadra"," 505","Mobile poll/Bureau itinérant",N,N,"",2,31,"Digby","","Tom","Green Party","Parti Vert",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 505","Mobile poll/Bureau itinérant",N,N,"",2,31,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 505","Mobile poll/Bureau itinérant",N,N,"",2,31,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59040,"Vancouver Quadra","Vancouver Quadra"," 505","Mobile poll/Bureau itinérant",N,N,"",2,31,"Grant","","Wade","Liberal","Libéral",N,Y,67
+59040,"Vancouver Quadra","Vancouver Quadra"," 506","Mobile poll/Bureau itinérant",N,N,"",8,66,"Charko","","Ken","Conservative","Conservateur",N,N,22
+59040,"Vancouver Quadra","Vancouver Quadra"," 506","Mobile poll/Bureau itinérant",N,N,"",8,66,"Digby","","Tom","Green Party","Parti Vert",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 506","Mobile poll/Bureau itinérant",N,N,"",8,66,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 506","Mobile poll/Bureau itinérant",N,N,"",8,66,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59040,"Vancouver Quadra","Vancouver Quadra"," 506","Mobile poll/Bureau itinérant",N,N,"",8,66,"Grant","","Wade","Liberal","Libéral",N,Y,43
+59040,"Vancouver Quadra","Vancouver Quadra"," 507","Vancouver",N,N,"",1,139,"Charko","","Ken","Conservative","Conservateur",N,N,15
+59040,"Vancouver Quadra","Vancouver Quadra"," 507","Vancouver",N,N,"",1,139,"Digby","","Tom","Green Party","Parti Vert",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 507","Vancouver",N,N,"",1,139,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 507","Vancouver",N,N,"",1,139,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 507","Vancouver",N,N,"",1,139,"Grant","","Wade","Liberal","Libéral",N,Y,72
+59040,"Vancouver Quadra","Vancouver Quadra"," 600","Metro Vancouver A",N,N,"",3,0,"Charko","","Ken","Conservative","Conservateur",N,N,334
+59040,"Vancouver Quadra","Vancouver Quadra"," 600","Metro Vancouver A",N,N,"",3,0,"Digby","","Tom","Green Party","Parti Vert",N,N,16
+59040,"Vancouver Quadra","Vancouver Quadra"," 600","Metro Vancouver A",N,N,"",3,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 600","Metro Vancouver A",N,N,"",3,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59040,"Vancouver Quadra","Vancouver Quadra"," 600","Metro Vancouver A",N,N,"",3,0,"Grant","","Wade","Liberal","Libéral",N,Y,668
+59040,"Vancouver Quadra","Vancouver Quadra"," 601","Vancouver",N,N,"",10,0,"Charko","","Ken","Conservative","Conservateur",N,N,595
+59040,"Vancouver Quadra","Vancouver Quadra"," 601","Vancouver",N,N,"",10,0,"Digby","","Tom","Green Party","Parti Vert",N,N,35
+59040,"Vancouver Quadra","Vancouver Quadra"," 601","Vancouver",N,N,"",10,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 601","Vancouver",N,N,"",10,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+59040,"Vancouver Quadra","Vancouver Quadra"," 601","Vancouver",N,N,"",10,0,"Grant","","Wade","Liberal","Libéral",N,Y,1348
+59040,"Vancouver Quadra","Vancouver Quadra"," 602","Vancouver",N,N,"",1,0,"Charko","","Ken","Conservative","Conservateur",N,N,334
+59040,"Vancouver Quadra","Vancouver Quadra"," 602","Vancouver",N,N,"",1,0,"Digby","","Tom","Green Party","Parti Vert",N,N,33
+59040,"Vancouver Quadra","Vancouver Quadra"," 602","Vancouver",N,N,"",1,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 602","Vancouver",N,N,"",1,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+59040,"Vancouver Quadra","Vancouver Quadra"," 602","Vancouver",N,N,"",1,0,"Grant","","Wade","Liberal","Libéral",N,Y,1325
+59040,"Vancouver Quadra","Vancouver Quadra"," 603","Vancouver",N,N,"",13,0,"Charko","","Ken","Conservative","Conservateur",N,N,316
+59040,"Vancouver Quadra","Vancouver Quadra"," 603","Vancouver",N,N,"",13,0,"Digby","","Tom","Green Party","Parti Vert",N,N,35
+59040,"Vancouver Quadra","Vancouver Quadra"," 603","Vancouver",N,N,"",13,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 603","Vancouver",N,N,"",13,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+59040,"Vancouver Quadra","Vancouver Quadra"," 603","Vancouver",N,N,"",13,0,"Grant","","Wade","Liberal","Libéral",N,Y,1286
+59040,"Vancouver Quadra","Vancouver Quadra"," 604","Vancouver",N,N,"",13,0,"Charko","","Ken","Conservative","Conservateur",N,N,392
+59040,"Vancouver Quadra","Vancouver Quadra"," 604","Vancouver",N,N,"",13,0,"Digby","","Tom","Green Party","Parti Vert",N,N,43
+59040,"Vancouver Quadra","Vancouver Quadra"," 604","Vancouver",N,N,"",13,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 604","Vancouver",N,N,"",13,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,110
+59040,"Vancouver Quadra","Vancouver Quadra"," 604","Vancouver",N,N,"",13,0,"Grant","","Wade","Liberal","Libéral",N,Y,1066
+59040,"Vancouver Quadra","Vancouver Quadra"," 605","Vancouver",N,N,"",4,0,"Charko","","Ken","Conservative","Conservateur",N,N,489
+59040,"Vancouver Quadra","Vancouver Quadra"," 605","Vancouver",N,N,"",4,0,"Digby","","Tom","Green Party","Parti Vert",N,N,32
+59040,"Vancouver Quadra","Vancouver Quadra"," 605","Vancouver",N,N,"",4,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,11
+59040,"Vancouver Quadra","Vancouver Quadra"," 605","Vancouver",N,N,"",4,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+59040,"Vancouver Quadra","Vancouver Quadra"," 605","Vancouver",N,N,"",4,0,"Grant","","Wade","Liberal","Libéral",N,Y,1433
+59040,"Vancouver Quadra","Vancouver Quadra"," 606","Vancouver",N,N,"",6,0,"Charko","","Ken","Conservative","Conservateur",N,N,417
+59040,"Vancouver Quadra","Vancouver Quadra"," 606","Vancouver",N,N,"",6,0,"Digby","","Tom","Green Party","Parti Vert",N,N,25
+59040,"Vancouver Quadra","Vancouver Quadra"," 606","Vancouver",N,N,"",6,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 606","Vancouver",N,N,"",6,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+59040,"Vancouver Quadra","Vancouver Quadra"," 606","Vancouver",N,N,"",6,0,"Grant","","Wade","Liberal","Libéral",N,Y,1294
+59040,"Vancouver Quadra","Vancouver Quadra"," 607","Vancouver",N,N,"",18,0,"Charko","","Ken","Conservative","Conservateur",N,N,505
+59040,"Vancouver Quadra","Vancouver Quadra"," 607","Vancouver",N,N,"",18,0,"Digby","","Tom","Green Party","Parti Vert",N,N,30
+59040,"Vancouver Quadra","Vancouver Quadra"," 607","Vancouver",N,N,"",18,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 607","Vancouver",N,N,"",18,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59040,"Vancouver Quadra","Vancouver Quadra"," 607","Vancouver",N,N,"",18,0,"Grant","","Wade","Liberal","Libéral",N,Y,1204
+59040,"Vancouver Quadra","Vancouver Quadra"," 608","Metro Vancouver A",N,N,"",4,0,"Charko","","Ken","Conservative","Conservateur",N,N,367
+59040,"Vancouver Quadra","Vancouver Quadra"," 608","Metro Vancouver A",N,N,"",4,0,"Digby","","Tom","Green Party","Parti Vert",N,N,18
+59040,"Vancouver Quadra","Vancouver Quadra"," 608","Metro Vancouver A",N,N,"",4,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 608","Metro Vancouver A",N,N,"",4,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+59040,"Vancouver Quadra","Vancouver Quadra"," 608","Metro Vancouver A",N,N,"",4,0,"Grant","","Wade","Liberal","Libéral",N,Y,983
+59040,"Vancouver Quadra","Vancouver Quadra"," 609","Vancouver",N,N,"",15,0,"Charko","","Ken","Conservative","Conservateur",N,N,531
+59040,"Vancouver Quadra","Vancouver Quadra"," 609","Vancouver",N,N,"",15,0,"Digby","","Tom","Green Party","Parti Vert",N,N,13
+59040,"Vancouver Quadra","Vancouver Quadra"," 609","Vancouver",N,N,"",15,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," 609","Vancouver",N,N,"",15,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59040,"Vancouver Quadra","Vancouver Quadra"," 609","Vancouver",N,N,"",15,0,"Grant","","Wade","Liberal","Libéral",N,Y,1161
+59040,"Vancouver Quadra","Vancouver Quadra"," 610","Vancouver",N,N,"",3,0,"Charko","","Ken","Conservative","Conservateur",N,N,469
+59040,"Vancouver Quadra","Vancouver Quadra"," 610","Vancouver",N,N,"",3,0,"Digby","","Tom","Green Party","Parti Vert",N,N,8
+59040,"Vancouver Quadra","Vancouver Quadra"," 610","Vancouver",N,N,"",3,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,0
+59040,"Vancouver Quadra","Vancouver Quadra"," 610","Vancouver",N,N,"",3,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59040,"Vancouver Quadra","Vancouver Quadra"," 610","Vancouver",N,N,"",3,0,"Grant","","Wade","Liberal","Libéral",N,Y,865
+59040,"Vancouver Quadra","Vancouver Quadra"," 611","Vancouver",N,N,"",4,0,"Charko","","Ken","Conservative","Conservateur",N,N,458
+59040,"Vancouver Quadra","Vancouver Quadra"," 611","Vancouver",N,N,"",4,0,"Digby","","Tom","Green Party","Parti Vert",N,N,17
+59040,"Vancouver Quadra","Vancouver Quadra"," 611","Vancouver",N,N,"",4,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 611","Vancouver",N,N,"",4,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59040,"Vancouver Quadra","Vancouver Quadra"," 611","Vancouver",N,N,"",4,0,"Grant","","Wade","Liberal","Libéral",N,Y,726
+59040,"Vancouver Quadra","Vancouver Quadra"," 612","Vancouver",N,N,"",16,0,"Charko","","Ken","Conservative","Conservateur",N,N,415
+59040,"Vancouver Quadra","Vancouver Quadra"," 612","Vancouver",N,N,"",16,0,"Digby","","Tom","Green Party","Parti Vert",N,N,28
+59040,"Vancouver Quadra","Vancouver Quadra"," 612","Vancouver",N,N,"",16,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 612","Vancouver",N,N,"",16,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+59040,"Vancouver Quadra","Vancouver Quadra"," 612","Vancouver",N,N,"",16,0,"Grant","","Wade","Liberal","Libéral",N,Y,940
+59040,"Vancouver Quadra","Vancouver Quadra"," 613","Vancouver",N,N,"",3,0,"Charko","","Ken","Conservative","Conservateur",N,N,546
+59040,"Vancouver Quadra","Vancouver Quadra"," 613","Vancouver",N,N,"",3,0,"Digby","","Tom","Green Party","Parti Vert",N,N,16
+59040,"Vancouver Quadra","Vancouver Quadra"," 613","Vancouver",N,N,"",3,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 613","Vancouver",N,N,"",3,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59040,"Vancouver Quadra","Vancouver Quadra"," 613","Vancouver",N,N,"",3,0,"Grant","","Wade","Liberal","Libéral",N,Y,1148
+59040,"Vancouver Quadra","Vancouver Quadra"," 614","Musqueam 2",N,N,"",2,0,"Charko","","Ken","Conservative","Conservateur",N,N,457
+59040,"Vancouver Quadra","Vancouver Quadra"," 614","Musqueam 2",N,N,"",2,0,"Digby","","Tom","Green Party","Parti Vert",N,N,9
+59040,"Vancouver Quadra","Vancouver Quadra"," 614","Musqueam 2",N,N,"",2,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 614","Musqueam 2",N,N,"",2,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59040,"Vancouver Quadra","Vancouver Quadra"," 614","Musqueam 2",N,N,"",2,0,"Grant","","Wade","Liberal","Libéral",N,Y,675
+59040,"Vancouver Quadra","Vancouver Quadra"," 615","Musqueam 2",N,N,"",0,0,"Charko","","Ken","Conservative","Conservateur",N,N,49
+59040,"Vancouver Quadra","Vancouver Quadra"," 615","Musqueam 2",N,N,"",0,0,"Digby","","Tom","Green Party","Parti Vert",N,N,3
+59040,"Vancouver Quadra","Vancouver Quadra"," 615","Musqueam 2",N,N,"",0,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,1
+59040,"Vancouver Quadra","Vancouver Quadra"," 615","Musqueam 2",N,N,"",0,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59040,"Vancouver Quadra","Vancouver Quadra"," 615","Musqueam 2",N,N,"",0,0,"Grant","","Wade","Liberal","Libéral",N,Y,136
+59040,"Vancouver Quadra","Vancouver Quadra"," 616","Vancouver",N,N,"",2,0,"Charko","","Ken","Conservative","Conservateur",N,N,503
+59040,"Vancouver Quadra","Vancouver Quadra"," 616","Vancouver",N,N,"",2,0,"Digby","","Tom","Green Party","Parti Vert",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 616","Vancouver",N,N,"",2,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,6
+59040,"Vancouver Quadra","Vancouver Quadra"," 616","Vancouver",N,N,"",2,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59040,"Vancouver Quadra","Vancouver Quadra"," 616","Vancouver",N,N,"",2,0,"Grant","","Wade","Liberal","Libéral",N,Y,632
+59040,"Vancouver Quadra","Vancouver Quadra"," 617","Vancouver",N,N,"",2,0,"Charko","","Ken","Conservative","Conservateur",N,N,407
+59040,"Vancouver Quadra","Vancouver Quadra"," 617","Vancouver",N,N,"",2,0,"Digby","","Tom","Green Party","Parti Vert",N,N,7
+59040,"Vancouver Quadra","Vancouver Quadra"," 617","Vancouver",N,N,"",2,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,2
+59040,"Vancouver Quadra","Vancouver Quadra"," 617","Vancouver",N,N,"",2,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59040,"Vancouver Quadra","Vancouver Quadra"," 617","Vancouver",N,N,"",2,0,"Grant","","Wade","Liberal","Libéral",N,Y,551
+59040,"Vancouver Quadra","Vancouver Quadra"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",78,1717,"Charko","","Ken","Conservative","Conservateur",N,N,481
+59040,"Vancouver Quadra","Vancouver Quadra"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",78,1717,"Digby","","Tom","Green Party","Parti Vert",N,N,54
+59040,"Vancouver Quadra","Vancouver Quadra"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",78,1717,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,4
+59040,"Vancouver Quadra","Vancouver Quadra"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",78,1717,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,120
+59040,"Vancouver Quadra","Vancouver Quadra"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",78,1717,"Grant","","Wade","Liberal","Libéral",N,Y,1908
+59040,"Vancouver Quadra","Vancouver Quadra"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",126,0,"Charko","","Ken","Conservative","Conservateur",N,N,1453
+59040,"Vancouver Quadra","Vancouver Quadra"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",126,0,"Digby","","Tom","Green Party","Parti Vert",N,N,96
+59040,"Vancouver Quadra","Vancouver Quadra"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",126,0,"Ede","","John Odan","People's Party - PPC","Parti populaire - PPC",N,N,23
+59040,"Vancouver Quadra","Vancouver Quadra"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",126,0,"Fakirani","","Alim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,241
+59040,"Vancouver Quadra","Vancouver Quadra"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",126,0,"Grant","","Wade","Liberal","Libéral",N,Y,3848

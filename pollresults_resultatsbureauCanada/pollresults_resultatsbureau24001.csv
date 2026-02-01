@@ -1,0 +1,929 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 1","Salluit",N,N,"",0,974,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 1","Salluit",N,N,"",0,974,"Corriveau","","Steve","Conservative","Conservateur",N,N,10
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 1","Salluit",N,N,"",0,974,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,24
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 1","Salluit",N,N,"",0,974,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 2","Ivujivik",N,Y,"",0,256,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 2","Ivujivik",N,Y,"",0,256,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 2","Ivujivik",N,Y,"",0,256,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 2","Ivujivik",N,Y,"",0,256,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 3","Quaqtaq",N,N,"",0,252,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 3","Quaqtaq",N,N,"",0,252,"Corriveau","","Steve","Conservative","Conservateur",N,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 3","Quaqtaq",N,N,"",0,252,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 3","Quaqtaq",N,N,"",0,252,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 4","Kangiqsujuaq",N,N,"",0,542,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,14
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 4","Kangiqsujuaq",N,N,"",0,542,"Corriveau","","Steve","Conservative","Conservateur",N,N,16
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 4","Kangiqsujuaq",N,N,"",0,542,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,41
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 4","Kangiqsujuaq",N,N,"",0,542,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 5","Kangirsuk",N,N,"",1,414,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 5","Kangirsuk",N,N,"",1,414,"Corriveau","","Steve","Conservative","Conservateur",N,N,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 5","Kangirsuk",N,N,"",1,414,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,23
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 5","Kangirsuk",N,N,"",1,414,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 6","Akulivik",N,Y,"",0,369,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 6","Akulivik",N,Y,"",0,369,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 6","Akulivik",N,Y,"",0,369,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 6","Akulivik",N,Y,"",0,369,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 7","Kangiqsualujjuaq",N,N,"",0,685,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 7","Kangiqsualujjuaq",N,N,"",0,685,"Corriveau","","Steve","Conservative","Conservateur",N,N,16
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 7","Kangiqsualujjuaq",N,N,"",0,685,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,65
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 7","Kangiqsualujjuaq",N,N,"",0,685,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 8","Puvirnituq",N,N,"",0,615,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 8","Puvirnituq",N,N,"",0,615,"Corriveau","","Steve","Conservative","Conservateur",N,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 8","Puvirnituq",N,N,"",0,615,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 8","Puvirnituq",N,N,"",0,615,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 9","Puvirnituq",N,N,"",2,561,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 9","Puvirnituq",N,N,"",2,561,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 9","Puvirnituq",N,N,"",2,561,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 9","Puvirnituq",N,N,"",2,561,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 10","Aupaluk",N,N,"",0,160,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 10","Aupaluk",N,N,"",0,160,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 10","Aupaluk",N,N,"",0,160,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,13
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 10","Aupaluk",N,N,"",0,160,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 11","Tasiujaq",N,N,"",0,199,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 11","Tasiujaq",N,N,"",0,199,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 11","Tasiujaq",N,N,"",0,199,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 11","Tasiujaq",N,N,"",0,199,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 12","Kuujjuaq",N,N,"",5,321,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,10
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 12","Kuujjuaq",N,N,"",5,321,"Corriveau","","Steve","Conservative","Conservateur",N,N,10
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 12","Kuujjuaq",N,N,"",5,321,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,53
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 12","Kuujjuaq",N,N,"",5,321,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 13","Kuujjuaq",N,N,"",3,466,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 13","Kuujjuaq",N,N,"",3,466,"Corriveau","","Steve","Conservative","Conservateur",N,N,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 13","Kuujjuaq",N,N,"",3,466,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,59
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 13","Kuujjuaq",N,N,"",3,466,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 14","Kuujjuaq",N,N,"",7,596,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,16
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 14","Kuujjuaq",N,N,"",7,596,"Corriveau","","Steve","Conservative","Conservateur",N,N,15
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 14","Kuujjuaq",N,N,"",7,596,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,96
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 14","Kuujjuaq",N,N,"",7,596,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 15","Kuujjuaq",N,N,"",2,289,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 15","Kuujjuaq",N,N,"",2,289,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 15","Kuujjuaq",N,N,"",2,289,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,68
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 15","Kuujjuaq",N,N,"",2,289,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 16","Inukjuak",N,N,"",1,1188,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 16","Inukjuak",N,N,"",1,1188,"Corriveau","","Steve","Conservative","Conservateur",N,N,40
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 16","Inukjuak",N,N,"",1,1188,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,112
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 16","Inukjuak",N,N,"",1,1188,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 17","Umiujaq",N,N,"",0,315,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 17","Umiujaq",N,N,"",0,315,"Corriveau","","Steve","Conservative","Conservateur",N,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 17","Umiujaq",N,N,"",0,315,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,24
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 17","Umiujaq",N,N,"",0,315,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 18","Whapmagoostui",N,N,"",1,635,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 18","Whapmagoostui",N,N,"",1,635,"Corriveau","","Steve","Conservative","Conservateur",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 18","Whapmagoostui",N,N,"",1,635,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,100
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 18","Whapmagoostui",N,N,"",1,635,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 19","Kuujjuarapik",N,N,"",6,560,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,10
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 19","Kuujjuarapik",N,N,"",6,560,"Corriveau","","Steve","Conservative","Conservateur",N,N,15
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 19","Kuujjuarapik",N,N,"",6,560,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,103
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 19","Kuujjuarapik",N,N,"",6,560,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 20","Chisasibi",N,N,"",0,780,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 20","Chisasibi",N,N,"",0,780,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 20","Chisasibi",N,N,"",0,780,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,130
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 20","Chisasibi",N,N,"",0,780,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 21","Chisasibi",N,N,"",0,553,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 21","Chisasibi",N,N,"",0,553,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 21","Chisasibi",N,N,"",0,553,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,81
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 21","Chisasibi",N,N,"",0,553,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 22","Chisasibi",N,N,"",0,754,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 22","Chisasibi",N,N,"",0,754,"Corriveau","","Steve","Conservative","Conservateur",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 22","Chisasibi",N,N,"",0,754,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,153
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 22","Chisasibi",N,N,"",0,754,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 23","Chisasibi",N,N,"",0,751,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 23","Chisasibi",N,N,"",0,751,"Corriveau","","Steve","Conservative","Conservateur",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 23","Chisasibi",N,N,"",0,751,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,147
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 23","Chisasibi",N,N,"",0,751,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 24","Chisasibi",N,N,"",1,576,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 24","Chisasibi",N,N,"",1,576,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 24","Chisasibi",N,N,"",1,576,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,131
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 24","Chisasibi",N,N,"",1,576,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 25","Radisson",N,N,"",0,125,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,17
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 25","Radisson",N,N,"",0,125,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 25","Radisson",N,N,"",0,125,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,15
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 25","Radisson",N,N,"",0,125,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 26","Wemindji",N,N,"",0,543,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 26","Wemindji",N,N,"",0,543,"Corriveau","","Steve","Conservative","Conservateur",N,N,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 26","Wemindji",N,N,"",0,543,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,107
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 26","Wemindji",N,N,"",0,543,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 27","Wemindji",N,N,"",0,600,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 27","Wemindji",N,N,"",0,600,"Corriveau","","Steve","Conservative","Conservateur",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 27","Wemindji",N,N,"",0,600,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,106
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 27","Wemindji",N,N,"",0,600,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 28","Eastmain",N,N,"",1,607,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 28","Eastmain",N,N,"",1,607,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 28","Eastmain",N,N,"",1,607,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,78
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 28","Eastmain",N,N,"",1,607,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 29","Mistissini",N,N,"",0,482,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 29","Mistissini",N,N,"",0,482,"Corriveau","","Steve","Conservative","Conservateur",N,N,12
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 29","Mistissini",N,N,"",0,482,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,61
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 29","Mistissini",N,N,"",0,482,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 30","Mistissini",N,N,"",0,507,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 30","Mistissini",N,N,"",0,507,"Corriveau","","Steve","Conservative","Conservateur",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 30","Mistissini",N,N,"",0,507,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,53
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 30","Mistissini",N,N,"",0,507,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 31","Mistissini",N,N,"",0,396,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 31","Mistissini",N,N,"",0,396,"Corriveau","","Steve","Conservative","Conservateur",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 31","Mistissini",N,N,"",0,396,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,29
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 31","Mistissini",N,N,"",0,396,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 32","Mistissini",N,N,"",0,364,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 32","Mistissini",N,N,"",0,364,"Corriveau","","Steve","Conservative","Conservateur",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 32","Mistissini",N,N,"",0,364,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,31
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 32","Mistissini",N,N,"",0,364,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 33","Mistissini",N,N,"",0,437,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 33","Mistissini",N,N,"",0,437,"Corriveau","","Steve","Conservative","Conservateur",N,N,13
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 33","Mistissini",N,N,"",0,437,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,51
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 33","Mistissini",N,N,"",0,437,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 34","Mistissini",N,N,"",0,388,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 34","Mistissini",N,N,"",0,388,"Corriveau","","Steve","Conservative","Conservateur",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 34","Mistissini",N,N,"",0,388,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,68
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 34","Mistissini",N,N,"",0,388,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 35","Mistissini",N,N,"",1,381,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 35","Mistissini",N,N,"",1,381,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 35","Mistissini",N,N,"",1,381,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,51
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 35","Mistissini",N,N,"",1,381,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 36","Nemaska",N,N,"",0,587,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 36","Nemaska",N,N,"",0,587,"Corriveau","","Steve","Conservative","Conservateur",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 36","Nemaska",N,N,"",0,587,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,151
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 36","Nemaska",N,N,"",0,587,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 37","Waskaganish",N,N,"",0,430,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 37","Waskaganish",N,N,"",0,430,"Corriveau","","Steve","Conservative","Conservateur",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 37","Waskaganish",N,N,"",0,430,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,34
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 37","Waskaganish",N,N,"",0,430,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 38","Waskaganish",N,N,"",0,355,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 38","Waskaganish",N,N,"",0,355,"Corriveau","","Steve","Conservative","Conservateur",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 38","Waskaganish",N,N,"",0,355,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,16
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 38","Waskaganish",N,N,"",0,355,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 39","Waskaganish",N,N,"",0,537,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 39","Waskaganish",N,N,"",0,537,"Corriveau","","Steve","Conservative","Conservateur",N,N,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 39","Waskaganish",N,N,"",0,537,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,48
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 39","Waskaganish",N,N,"",0,537,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 40","Waskaganish",N,N,"",0,371,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 40","Waskaganish",N,N,"",0,371,"Corriveau","","Steve","Conservative","Conservateur",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 40","Waskaganish",N,N,"",0,371,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,19
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 40","Waskaganish",N,N,"",0,371,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 41","Eeyou Istchee Baie-James",N,N,"",1,348,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,69
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 41","Eeyou Istchee Baie-James",N,N,"",1,348,"Corriveau","","Steve","Conservative","Conservateur",N,N,18
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 41","Eeyou Istchee Baie-James",N,N,"",1,348,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 41","Eeyou Istchee Baie-James",N,N,"",1,348,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 42","Chibougamau",N,N,"",5,481,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,91
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 42","Chibougamau",N,N,"",5,481,"Corriveau","","Steve","Conservative","Conservateur",N,N,70
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 42","Chibougamau",N,N,"",5,481,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 42","Chibougamau",N,N,"",5,481,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 43","Chibougamau",N,N,"",2,377,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,82
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 43","Chibougamau",N,N,"",2,377,"Corriveau","","Steve","Conservative","Conservateur",N,N,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 43","Chibougamau",N,N,"",2,377,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,32
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 43","Chibougamau",N,N,"",2,377,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 44","Chibougamau",N,N,"",2,381,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,72
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 44","Chibougamau",N,N,"",2,381,"Corriveau","","Steve","Conservative","Conservateur",N,N,21
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 44","Chibougamau",N,N,"",2,381,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,32
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 44","Chibougamau",N,N,"",2,381,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 45","Chibougamau",N,N,"",2,372,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,56
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 45","Chibougamau",N,N,"",2,372,"Corriveau","","Steve","Conservative","Conservateur",N,N,31
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 45","Chibougamau",N,N,"",2,372,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,31
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 45","Chibougamau",N,N,"",2,372,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 46","Chibougamau",N,N,"",2,298,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,48
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 46","Chibougamau",N,N,"",2,298,"Corriveau","","Steve","Conservative","Conservateur",N,N,15
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 46","Chibougamau",N,N,"",2,298,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,20
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 46","Chibougamau",N,N,"",2,298,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 47","Chibougamau",N,N,"",3,379,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,64
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 47","Chibougamau",N,N,"",3,379,"Corriveau","","Steve","Conservative","Conservateur",N,N,32
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 47","Chibougamau",N,N,"",3,379,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,22
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 47","Chibougamau",N,N,"",3,379,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 48","Chibougamau",N,N,"",3,281,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,37
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 48","Chibougamau",N,N,"",3,281,"Corriveau","","Steve","Conservative","Conservateur",N,N,22
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 48","Chibougamau",N,N,"",3,281,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,28
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 48","Chibougamau",N,N,"",3,281,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 49","Chibougamau",N,N,"",1,410,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,75
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 49","Chibougamau",N,N,"",1,410,"Corriveau","","Steve","Conservative","Conservateur",N,N,48
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 49","Chibougamau",N,N,"",1,410,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,31
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 49","Chibougamau",N,N,"",1,410,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 50","Chibougamau",N,N,"",1,398,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,75
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 50","Chibougamau",N,N,"",1,398,"Corriveau","","Steve","Conservative","Conservateur",N,N,42
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 50","Chibougamau",N,N,"",1,398,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,29
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 50","Chibougamau",N,N,"",1,398,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 51","Chibougamau",N,N,"",3,419,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,85
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 51","Chibougamau",N,N,"",3,419,"Corriveau","","Steve","Conservative","Conservateur",N,N,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 51","Chibougamau",N,N,"",3,419,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 51","Chibougamau",N,N,"",3,419,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 52","Chibougamau",N,N,"",7,375,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,69
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 52","Chibougamau",N,N,"",7,375,"Corriveau","","Steve","Conservative","Conservateur",N,N,33
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 52","Chibougamau",N,N,"",7,375,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,22
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 52","Chibougamau",N,N,"",7,375,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 53","Chibougamau",N,N,"",1,405,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,42
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 53","Chibougamau",N,N,"",1,405,"Corriveau","","Steve","Conservative","Conservateur",N,N,61
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 53","Chibougamau",N,N,"",1,405,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,41
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 53","Chibougamau",N,N,"",1,405,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 54","Chibougamau",N,N,"",1,334,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,63
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 54","Chibougamau",N,N,"",1,334,"Corriveau","","Steve","Conservative","Conservateur",N,N,50
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 54","Chibougamau",N,N,"",1,334,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,26
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 54","Chibougamau",N,N,"",1,334,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 55","Oujé-Bougoumou",N,N,"",1,369,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 55","Oujé-Bougoumou",N,N,"",1,369,"Corriveau","","Steve","Conservative","Conservateur",N,N,14
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 55","Oujé-Bougoumou",N,N,"",1,369,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,47
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 55","Oujé-Bougoumou",N,N,"",1,369,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 56","Oujé-Bougoumou",N,N,"",1,237,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 56","Oujé-Bougoumou",N,N,"",1,237,"Corriveau","","Steve","Conservative","Conservateur",N,N,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 56","Oujé-Bougoumou",N,N,"",1,237,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,41
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 56","Oujé-Bougoumou",N,N,"",1,237,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 57","Chapais",N,N,"",4,332,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,47
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 57","Chapais",N,N,"",4,332,"Corriveau","","Steve","Conservative","Conservateur",N,N,35
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 57","Chapais",N,N,"",4,332,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,20
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 57","Chapais",N,N,"",4,332,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 58","Chapais",N,N,"",3,283,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,45
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 58","Chapais",N,N,"",3,283,"Corriveau","","Steve","Conservative","Conservateur",N,N,43
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 58","Chapais",N,N,"",3,283,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,18
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 58","Chapais",N,N,"",3,283,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 59","Chapais",N,N,"",6,284,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,43
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 59","Chapais",N,N,"",6,284,"Corriveau","","Steve","Conservative","Conservateur",N,N,33
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 59","Chapais",N,N,"",6,284,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 59","Chapais",N,N,"",6,284,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 60","Chapais",N,N,"",2,314,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,41
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 60","Chapais",N,N,"",2,314,"Corriveau","","Steve","Conservative","Conservateur",N,N,42
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 60","Chapais",N,N,"",2,314,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,19
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 60","Chapais",N,N,"",2,314,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 61","Waswanipi",N,N,"",4,442,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 61","Waswanipi",N,N,"",4,442,"Corriveau","","Steve","Conservative","Conservateur",N,N,12
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 61","Waswanipi",N,N,"",4,442,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,107
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 61","Waswanipi",N,N,"",4,442,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 62","Waswanipi",N,N,"",1,390,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 62","Waswanipi",N,N,"",1,390,"Corriveau","","Steve","Conservative","Conservateur",N,N,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 62","Waswanipi",N,N,"",1,390,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,84
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 62","Waswanipi",N,N,"",1,390,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 63","Waswanipi",N,N,"",1,463,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 63","Waswanipi",N,N,"",1,463,"Corriveau","","Steve","Conservative","Conservateur",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 63","Waswanipi",N,N,"",1,463,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,109
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 63","Waswanipi",N,N,"",1,463,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 64","Desmaraisville",N,N,"72",0,3,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 64","Desmaraisville",N,N,"72",0,3,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 64","Desmaraisville",N,N,"72",0,3,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 64","Desmaraisville",N,N,"72",0,3,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 65","Matagami",N,N,"",4,520,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,70
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 65","Matagami",N,N,"",4,520,"Corriveau","","Steve","Conservative","Conservateur",N,N,50
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 65","Matagami",N,N,"",4,520,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,65
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 65","Matagami",N,N,"",4,520,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 66","Matagami",N,N,"",0,266,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,34
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 66","Matagami",N,N,"",0,266,"Corriveau","","Steve","Conservative","Conservateur",N,N,24
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 66","Matagami",N,N,"",0,266,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,23
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 66","Matagami",N,N,"",0,266,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 67","Matagami",N,N,"",3,275,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,54
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 67","Matagami",N,N,"",3,275,"Corriveau","","Steve","Conservative","Conservateur",N,N,24
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 67","Matagami",N,N,"",3,275,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,28
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 67","Matagami",N,N,"",3,275,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 68","Val-Paradis",N,N,"",1,212,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,41
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 68","Val-Paradis",N,N,"",1,212,"Corriveau","","Steve","Conservative","Conservateur",N,N,47
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 68","Val-Paradis",N,N,"",1,212,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,26
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 68","Val-Paradis",N,N,"",1,212,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 69","Lebel-sur-Quévillon",N,N,"",4,305,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,53
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 69","Lebel-sur-Quévillon",N,N,"",4,305,"Corriveau","","Steve","Conservative","Conservateur",N,N,23
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 69","Lebel-sur-Quévillon",N,N,"",4,305,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,19
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 69","Lebel-sur-Quévillon",N,N,"",4,305,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 70","Lebel-sur-Quévillon",N,N,"",3,374,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,67
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 70","Lebel-sur-Quévillon",N,N,"",3,374,"Corriveau","","Steve","Conservative","Conservateur",N,N,22
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 70","Lebel-sur-Quévillon",N,N,"",3,374,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,20
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 70","Lebel-sur-Quévillon",N,N,"",3,374,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 71","Lebel-sur-Quévillon",N,N,"",6,359,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,74
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 71","Lebel-sur-Quévillon",N,N,"",6,359,"Corriveau","","Steve","Conservative","Conservateur",N,N,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 71","Lebel-sur-Quévillon",N,N,"",6,359,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,16
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 71","Lebel-sur-Quévillon",N,N,"",6,359,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 72","Lebel-sur-Quévillon",N,N,"",6,353,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,72
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 72","Lebel-sur-Quévillon",N,N,"",6,353,"Corriveau","","Steve","Conservative","Conservateur",N,N,21
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 72","Lebel-sur-Quévillon",N,N,"",6,353,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,28
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 72","Lebel-sur-Quévillon",N,N,"",6,353,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 73","Lebel-sur-Quévillon",N,N,"",3,295,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,70
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 73","Lebel-sur-Quévillon",N,N,"",3,295,"Corriveau","","Steve","Conservative","Conservateur",N,N,21
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 73","Lebel-sur-Quévillon",N,N,"",3,295,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,17
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 73","Lebel-sur-Quévillon",N,N,"",3,295,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 74","Villebois",N,N,"",0,199,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,55
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 74","Villebois",N,N,"",0,199,"Corriveau","","Steve","Conservative","Conservateur",N,N,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 74","Villebois",N,N,"",0,199,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 74","Villebois",N,N,"",0,199,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 75","Beaucanton",N,N,"",0,205,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 75","Beaucanton",N,N,"",0,205,"Corriveau","","Steve","Conservative","Conservateur",N,N,27
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 75","Beaucanton",N,N,"",0,205,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,16
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 75","Beaucanton",N,N,"",0,205,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 76","Louvicourt",N,N,"",3,225,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,27
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 76","Louvicourt",N,N,"",3,225,"Corriveau","","Steve","Conservative","Conservateur",N,N,26
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 76","Louvicourt",N,N,"",3,225,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,23
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 76","Louvicourt",N,N,"",3,225,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 77","Belcourt",N,N,"",3,184,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,44
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 77","Belcourt",N,N,"",3,184,"Corriveau","","Steve","Conservative","Conservateur",N,N,23
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 77","Belcourt",N,N,"",3,184,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,19
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 77","Belcourt",N,N,"",3,184,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 78","Senneterre",N,N,"",2,451,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,53
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 78","Senneterre",N,N,"",2,451,"Corriveau","","Steve","Conservative","Conservateur",N,N,50
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 78","Senneterre",N,N,"",2,451,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 78","Senneterre",N,N,"",2,451,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 79","Senneterre",N,N,"",0,257,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,31
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 79","Senneterre",N,N,"",0,257,"Corriveau","","Steve","Conservative","Conservateur",N,N,21
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 79","Senneterre",N,N,"",0,257,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,15
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 79","Senneterre",N,N,"",0,257,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 80","Senneterre",N,N,"",3,233,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,31
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 80","Senneterre",N,N,"",3,233,"Corriveau","","Steve","Conservative","Conservateur",N,N,18
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 80","Senneterre",N,N,"",3,233,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,22
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 80","Senneterre",N,N,"",3,233,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 81","Senneterre",N,N,"",1,305,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,30
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 81","Senneterre",N,N,"",1,305,"Corriveau","","Steve","Conservative","Conservateur",N,N,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 81","Senneterre",N,N,"",1,305,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,25
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 81","Senneterre",N,N,"",1,305,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 82","Senneterre",N,N,"",2,402,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,50
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 82","Senneterre",N,N,"",2,402,"Corriveau","","Steve","Conservative","Conservateur",N,N,45
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 82","Senneterre",N,N,"",2,402,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,26
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 82","Senneterre",N,N,"",2,402,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 83","Senneterre",N,N,"",2,318,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,28
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 83","Senneterre",N,N,"",2,318,"Corriveau","","Steve","Conservative","Conservateur",N,N,40
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 83","Senneterre",N,N,"",2,318,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,26
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 83","Senneterre",N,N,"",2,318,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 84","Senneterre",N,N,"",5,479,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,66
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 84","Senneterre",N,N,"",5,479,"Corriveau","","Steve","Conservative","Conservateur",N,N,38
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 84","Senneterre",N,N,"",5,479,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,47
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 84","Senneterre",N,N,"",5,479,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 85","Senneterre",N,N,"",5,421,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,47
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 85","Senneterre",N,N,"",5,421,"Corriveau","","Steve","Conservative","Conservateur",N,N,33
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 85","Senneterre",N,N,"",5,421,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,40
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 85","Senneterre",N,N,"",5,421,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 86","Senneterre",N,N,"",6,348,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,57
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 86","Senneterre",N,N,"",6,348,"Corriveau","","Steve","Conservative","Conservateur",N,N,26
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 86","Senneterre",N,N,"",6,348,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 86","Senneterre",N,N,"",6,348,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 87","Val-d'Or",N,N,"",6,391,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,71
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 87","Val-d'Or",N,N,"",6,391,"Corriveau","","Steve","Conservative","Conservateur",N,N,66
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 87","Val-d'Or",N,N,"",6,391,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 87","Val-d'Or",N,N,"",6,391,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 88","Val-d'Or",N,N,"",7,468,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,94
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 88","Val-d'Or",N,N,"",7,468,"Corriveau","","Steve","Conservative","Conservateur",N,N,100
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 88","Val-d'Or",N,N,"",7,468,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,40
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 88","Val-d'Or",N,N,"",7,468,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 89","Val-d'Or",N,N,"",13,383,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,65
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 89","Val-d'Or",N,N,"",13,383,"Corriveau","","Steve","Conservative","Conservateur",N,N,72
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 89","Val-d'Or",N,N,"",13,383,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,56
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 89","Val-d'Or",N,N,"",13,383,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 90","Val-d'Or",N,N,"",3,385,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,87
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 90","Val-d'Or",N,N,"",3,385,"Corriveau","","Steve","Conservative","Conservateur",N,N,80
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 90","Val-d'Or",N,N,"",3,385,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,50
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 90","Val-d'Or",N,N,"",3,385,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 91","Rivière-Héva",N,N,"",6,419,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,74
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 91","Rivière-Héva",N,N,"",6,419,"Corriveau","","Steve","Conservative","Conservateur",N,N,70
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 91","Rivière-Héva",N,N,"",6,419,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,52
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 91","Rivière-Héva",N,N,"",6,419,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 92","Rivière-Héva",N,N,"",11,438,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,86
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 92","Rivière-Héva",N,N,"",11,438,"Corriveau","","Steve","Conservative","Conservateur",N,N,74
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 92","Rivière-Héva",N,N,"",11,438,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,49
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 92","Rivière-Héva",N,N,"",11,438,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 93","Val-d'Or",N,N,"",8,469,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,78
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 93","Val-d'Or",N,N,"",8,469,"Corriveau","","Steve","Conservative","Conservateur",N,N,67
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 93","Val-d'Or",N,N,"",8,469,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,64
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 93","Val-d'Or",N,N,"",8,469,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 94","Val-d'Or",N,N,"",15,449,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,77
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 94","Val-d'Or",N,N,"",15,449,"Corriveau","","Steve","Conservative","Conservateur",N,N,72
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 94","Val-d'Or",N,N,"",15,449,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,77
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 94","Val-d'Or",N,N,"",15,449,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 95","Val-d'Or",N,N,"",5,585,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,69
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 95","Val-d'Or",N,N,"",5,585,"Corriveau","","Steve","Conservative","Conservateur",N,N,89
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 95","Val-d'Or",N,N,"",5,585,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,88
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 95","Val-d'Or",N,N,"",5,585,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 96","Val-d'Or",N,N,"",3,588,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,72
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 96","Val-d'Or",N,N,"",3,588,"Corriveau","","Steve","Conservative","Conservateur",N,N,79
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 96","Val-d'Or",N,N,"",3,588,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,103
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 96","Val-d'Or",N,N,"",3,588,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 97","Val-d'Or",N,N,"",4,239,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 97","Val-d'Or",N,N,"",4,239,"Corriveau","","Steve","Conservative","Conservateur",N,N,28
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 97","Val-d'Or",N,N,"",4,239,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,28
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 97","Val-d'Or",N,N,"",4,239,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 98","Val-d'Or",N,N,"",5,541,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,91
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 98","Val-d'Or",N,N,"",5,541,"Corriveau","","Steve","Conservative","Conservateur",N,N,63
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 98","Val-d'Or",N,N,"",5,541,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,83
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 98","Val-d'Or",N,N,"",5,541,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 99","Val-d'Or",N,N,"",2,449,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 99","Val-d'Or",N,N,"",2,449,"Corriveau","","Steve","Conservative","Conservateur",N,N,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 99","Val-d'Or",N,N,"",2,449,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,30
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 99","Val-d'Or",N,N,"",2,449,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 100","Val-d'Or",N,N,"",3,317,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,32
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 100","Val-d'Or",N,N,"",3,317,"Corriveau","","Steve","Conservative","Conservateur",N,N,27
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 100","Val-d'Or",N,N,"",3,317,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,24
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 100","Val-d'Or",N,N,"",3,317,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 101","Val-d'Or",N,N,"",3,319,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 101","Val-d'Or",N,N,"",3,319,"Corriveau","","Steve","Conservative","Conservateur",N,N,18
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 101","Val-d'Or",N,N,"",3,319,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,27
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 101","Val-d'Or",N,N,"",3,319,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 102","Val-d'Or",N,N,"",4,329,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 102","Val-d'Or",N,N,"",4,329,"Corriveau","","Steve","Conservative","Conservateur",N,N,23
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 102","Val-d'Or",N,N,"",4,329,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,21
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 102","Val-d'Or",N,N,"",4,329,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 103","Lac Simon",N,N,"",1,548,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 103","Lac Simon",N,N,"",1,548,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 103","Lac Simon",N,N,"",1,548,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,87
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 103","Lac Simon",N,N,"",1,548,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 104","Lac Simon",N,N,"",4,463,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 104","Lac Simon",N,N,"",4,463,"Corriveau","","Steve","Conservative","Conservateur",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 104","Lac Simon",N,N,"",4,463,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,93
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 104","Lac Simon",N,N,"",4,463,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 105","Val-d'Or",N,N,"",6,512,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,93
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 105","Val-d'Or",N,N,"",6,512,"Corriveau","","Steve","Conservative","Conservateur",N,N,83
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 105","Val-d'Or",N,N,"",6,512,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,83
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 105","Val-d'Or",N,N,"",6,512,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 106","Val-d'Or",N,N,"",5,526,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,102
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 106","Val-d'Or",N,N,"",5,526,"Corriveau","","Steve","Conservative","Conservateur",N,N,56
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 106","Val-d'Or",N,N,"",5,526,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,109
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 106","Val-d'Or",N,N,"",5,526,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 107","Val-d'Or",N,N,"",6,426,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,83
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 107","Val-d'Or",N,N,"",6,426,"Corriveau","","Steve","Conservative","Conservateur",N,N,72
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 107","Val-d'Or",N,N,"",6,426,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,63
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 107","Val-d'Or",N,N,"",6,426,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 108","Val-d'Or",N,N,"",10,437,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,95
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 108","Val-d'Or",N,N,"",10,437,"Corriveau","","Steve","Conservative","Conservateur",N,N,59
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 108","Val-d'Or",N,N,"",10,437,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,50
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 108","Val-d'Or",N,N,"",10,437,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 109","Val-d'Or",N,N,"",4,394,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,64
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 109","Val-d'Or",N,N,"",4,394,"Corriveau","","Steve","Conservative","Conservateur",N,N,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 109","Val-d'Or",N,N,"",4,394,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,80
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 109","Val-d'Or",N,N,"",4,394,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 110","Val-d'Or",N,N,"",6,352,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,72
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 110","Val-d'Or",N,N,"",6,352,"Corriveau","","Steve","Conservative","Conservateur",N,N,24
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 110","Val-d'Or",N,N,"",6,352,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,64
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 110","Val-d'Or",N,N,"",6,352,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 111","Val-d'Or",N,N,"",4,343,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,49
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 111","Val-d'Or",N,N,"",4,343,"Corriveau","","Steve","Conservative","Conservateur",N,N,45
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 111","Val-d'Or",N,N,"",4,343,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,40
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 111","Val-d'Or",N,N,"",4,343,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 112","Val-d'Or",N,N,"",3,373,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 112","Val-d'Or",N,N,"",3,373,"Corriveau","","Steve","Conservative","Conservateur",N,N,44
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 112","Val-d'Or",N,N,"",3,373,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,63
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 112","Val-d'Or",N,N,"",3,373,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 113","Val-d'Or",N,N,"",7,389,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,72
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 113","Val-d'Or",N,N,"",7,389,"Corriveau","","Steve","Conservative","Conservateur",N,N,72
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 113","Val-d'Or",N,N,"",7,389,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 113","Val-d'Or",N,N,"",7,389,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 114","Val-d'Or",N,N,"",11,436,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,73
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 114","Val-d'Or",N,N,"",11,436,"Corriveau","","Steve","Conservative","Conservateur",N,N,88
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 114","Val-d'Or",N,N,"",11,436,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,63
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 114","Val-d'Or",N,N,"",11,436,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 115","Val-d'Or",N,N,"",0,327,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,20
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 115","Val-d'Or",N,N,"",0,327,"Corriveau","","Steve","Conservative","Conservateur",N,N,25
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 115","Val-d'Or",N,N,"",0,327,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,22
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 115","Val-d'Or",N,N,"",0,327,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 116","Val-d'Or",N,N,"",5,355,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 116","Val-d'Or",N,N,"",5,355,"Corriveau","","Steve","Conservative","Conservateur",N,N,13
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 116","Val-d'Or",N,N,"",5,355,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,19
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 116","Val-d'Or",N,N,"",5,355,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 117","Val-d'Or",N,N,"",4,404,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,32
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 117","Val-d'Or",N,N,"",4,404,"Corriveau","","Steve","Conservative","Conservateur",N,N,32
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 117","Val-d'Or",N,N,"",4,404,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,29
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 117","Val-d'Or",N,N,"",4,404,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 118","Val-d'Or",N,N,"",1,319,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,38
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 118","Val-d'Or",N,N,"",1,319,"Corriveau","","Steve","Conservative","Conservateur",N,N,20
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 118","Val-d'Or",N,N,"",1,319,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,43
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 118","Val-d'Or",N,N,"",1,319,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 119","Val-d'Or",N,N,"",6,358,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,48
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 119","Val-d'Or",N,N,"",6,358,"Corriveau","","Steve","Conservative","Conservateur",N,N,25
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 119","Val-d'Or",N,N,"",6,358,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,45
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 119","Val-d'Or",N,N,"",6,358,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 120","Val-d'Or",N,N,"",6,322,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,33
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 120","Val-d'Or",N,N,"",6,322,"Corriveau","","Steve","Conservative","Conservateur",N,N,24
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 120","Val-d'Or",N,N,"",6,322,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,26
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 120","Val-d'Or",N,N,"",6,322,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 121","Val-d'Or",N,N,"",1,311,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,25
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 121","Val-d'Or",N,N,"",1,311,"Corriveau","","Steve","Conservative","Conservateur",N,N,17
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 121","Val-d'Or",N,N,"",1,311,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,21
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 121","Val-d'Or",N,N,"",1,311,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 122","Val-d'Or",N,N,"",5,392,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,60
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 122","Val-d'Or",N,N,"",5,392,"Corriveau","","Steve","Conservative","Conservateur",N,N,47
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 122","Val-d'Or",N,N,"",5,392,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 122","Val-d'Or",N,N,"",5,392,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 123","Val-d'Or",N,N,"",4,385,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 123","Val-d'Or",N,N,"",4,385,"Corriveau","","Steve","Conservative","Conservateur",N,N,37
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 123","Val-d'Or",N,N,"",4,385,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,53
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 123","Val-d'Or",N,N,"",4,385,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 124","Val-d'Or",N,N,"",0,207,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 124","Val-d'Or",N,N,"",0,207,"Corriveau","","Steve","Conservative","Conservateur",N,N,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 124","Val-d'Or",N,N,"",0,207,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,28
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 124","Val-d'Or",N,N,"",0,207,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 125","Val-d'Or",N,N,"",2,355,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,44
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 125","Val-d'Or",N,N,"",2,355,"Corriveau","","Steve","Conservative","Conservateur",N,N,42
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 125","Val-d'Or",N,N,"",2,355,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,33
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 125","Val-d'Or",N,N,"",2,355,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 126","Val-d'Or",N,N,"",8,571,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,100
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 126","Val-d'Or",N,N,"",8,571,"Corriveau","","Steve","Conservative","Conservateur",N,N,60
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 126","Val-d'Or",N,N,"",8,571,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,67
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 126","Val-d'Or",N,N,"",8,571,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 127","Val-d'Or",N,N,"",10,363,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,50
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 127","Val-d'Or",N,N,"",10,363,"Corriveau","","Steve","Conservative","Conservateur",N,N,30
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 127","Val-d'Or",N,N,"",10,363,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,23
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 127","Val-d'Or",N,N,"",10,363,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 128","Val-d'Or",N,N,"",6,233,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,40
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 128","Val-d'Or",N,N,"",6,233,"Corriveau","","Steve","Conservative","Conservateur",N,N,14
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 128","Val-d'Or",N,N,"",6,233,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,49
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 128","Val-d'Or",N,N,"",6,233,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 129","Val-d'Or",N,N,"",2,445,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,45
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 129","Val-d'Or",N,N,"",2,445,"Corriveau","","Steve","Conservative","Conservateur",N,N,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 129","Val-d'Or",N,N,"",2,445,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,37
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 129","Val-d'Or",N,N,"",2,445,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 130A","Val-d'Or",N,N,"",5,419,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,51
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 130A","Val-d'Or",N,N,"",5,419,"Corriveau","","Steve","Conservative","Conservateur",N,N,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 130A","Val-d'Or",N,N,"",5,419,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,63
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 130A","Val-d'Or",N,N,"",5,419,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 130B","Mobile poll/Bureau itinérant",N,N,"510",0,7,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 130B","Mobile poll/Bureau itinérant",N,N,"510",0,7,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 130B","Mobile poll/Bureau itinérant",N,N,"510",0,7,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 130B","Mobile poll/Bureau itinérant",N,N,"510",0,7,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 131","Val-d'Or",N,N,"",7,377,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,48
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 131","Val-d'Or",N,N,"",7,377,"Corriveau","","Steve","Conservative","Conservateur",N,N,28
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 131","Val-d'Or",N,N,"",7,377,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,53
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 131","Val-d'Or",N,N,"",7,377,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 132","Val-d'Or",N,N,"",9,350,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,45
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 132","Val-d'Or",N,N,"",9,350,"Corriveau","","Steve","Conservative","Conservateur",N,N,33
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 132","Val-d'Or",N,N,"",9,350,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,35
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 132","Val-d'Or",N,N,"",9,350,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 133","Val-d'Or",N,N,"",1,333,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,35
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 133","Val-d'Or",N,N,"",1,333,"Corriveau","","Steve","Conservative","Conservateur",N,N,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 133","Val-d'Or",N,N,"",1,333,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,20
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 133","Val-d'Or",N,N,"",1,333,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 134","Val-d'Or",N,N,"",4,349,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,59
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 134","Val-d'Or",N,N,"",4,349,"Corriveau","","Steve","Conservative","Conservateur",N,N,40
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 134","Val-d'Or",N,N,"",4,349,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,41
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 134","Val-d'Or",N,N,"",4,349,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 135","Val-d'Or",N,N,"",4,319,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,45
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 135","Val-d'Or",N,N,"",4,319,"Corriveau","","Steve","Conservative","Conservateur",N,N,18
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 135","Val-d'Or",N,N,"",4,319,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,37
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 135","Val-d'Or",N,N,"",4,319,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 136","Val-d'Or",N,N,"",3,358,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,52
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 136","Val-d'Or",N,N,"",3,358,"Corriveau","","Steve","Conservative","Conservateur",N,N,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 136","Val-d'Or",N,N,"",3,358,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,67
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 136","Val-d'Or",N,N,"",3,358,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 137","Val-d'Or",N,N,"",5,476,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,75
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 137","Val-d'Or",N,N,"",5,476,"Corriveau","","Steve","Conservative","Conservateur",N,N,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 137","Val-d'Or",N,N,"",5,476,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,83
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 137","Val-d'Or",N,N,"",5,476,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 138","Val-d'Or",N,N,"",5,390,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,58
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 138","Val-d'Or",N,N,"",5,390,"Corriveau","","Steve","Conservative","Conservateur",N,N,47
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 138","Val-d'Or",N,N,"",5,390,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,65
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 138","Val-d'Or",N,N,"",5,390,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 139","Val-d'Or",N,N,"",8,412,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,48
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 139","Val-d'Or",N,N,"",8,412,"Corriveau","","Steve","Conservative","Conservateur",N,N,25
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 139","Val-d'Or",N,N,"",8,412,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,78
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 139","Val-d'Or",N,N,"",8,412,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 140","Val-d'Or",N,N,"",5,389,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,61
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 140","Val-d'Or",N,N,"",5,389,"Corriveau","","Steve","Conservative","Conservateur",N,N,68
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 140","Val-d'Or",N,N,"",5,389,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 140","Val-d'Or",N,N,"",5,389,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 141","Val-d'Or",N,N,"",2,327,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,38
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 141","Val-d'Or",N,N,"",2,327,"Corriveau","","Steve","Conservative","Conservateur",N,N,28
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 141","Val-d'Or",N,N,"",2,327,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 141","Val-d'Or",N,N,"",2,327,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 142","Val-d'Or",N,N,"",2,294,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,38
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 142","Val-d'Or",N,N,"",2,294,"Corriveau","","Steve","Conservative","Conservateur",N,N,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 142","Val-d'Or",N,N,"",2,294,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,45
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 142","Val-d'Or",N,N,"",2,294,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 143","Val-d'Or",N,N,"",5,360,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,54
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 143","Val-d'Or",N,N,"",5,360,"Corriveau","","Steve","Conservative","Conservateur",N,N,49
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 143","Val-d'Or",N,N,"",5,360,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,56
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 143","Val-d'Or",N,N,"",5,360,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 144","Malartic",N,N,"",2,458,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,59
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 144","Malartic",N,N,"",2,458,"Corriveau","","Steve","Conservative","Conservateur",N,N,58
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 144","Malartic",N,N,"",2,458,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,54
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 144","Malartic",N,N,"",2,458,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 145","Malartic",N,N,"",3,382,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,56
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 145","Malartic",N,N,"",3,382,"Corriveau","","Steve","Conservative","Conservateur",N,N,47
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 145","Malartic",N,N,"",3,382,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,45
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 145","Malartic",N,N,"",3,382,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 146","Malartic",N,N,"",2,344,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 146","Malartic",N,N,"",2,344,"Corriveau","","Steve","Conservative","Conservateur",N,N,47
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 146","Malartic",N,N,"",2,344,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,34
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 146","Malartic",N,N,"",2,344,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 147","Malartic",N,N,"",5,385,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,61
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 147","Malartic",N,N,"",5,385,"Corriveau","","Steve","Conservative","Conservateur",N,N,49
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 147","Malartic",N,N,"",5,385,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 147","Malartic",N,N,"",5,385,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 148","Malartic",N,N,"",4,358,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,61
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 148","Malartic",N,N,"",4,358,"Corriveau","","Steve","Conservative","Conservateur",N,N,44
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 148","Malartic",N,N,"",4,358,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,33
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 148","Malartic",N,N,"",4,358,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 149","Malartic",N,N,"",2,305,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,38
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 149","Malartic",N,N,"",2,305,"Corriveau","","Steve","Conservative","Conservateur",N,N,33
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 149","Malartic",N,N,"",2,305,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,25
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 149","Malartic",N,N,"",2,305,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 150","Malartic",N,N,"",1,239,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,16
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 150","Malartic",N,N,"",1,239,"Corriveau","","Steve","Conservative","Conservateur",N,N,29
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 150","Malartic",N,N,"",1,239,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,15
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 150","Malartic",N,N,"",1,239,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 151","Malartic",N,N,"",6,403,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,55
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 151","Malartic",N,N,"",6,403,"Corriveau","","Steve","Conservative","Conservateur",N,N,64
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 151","Malartic",N,N,"",6,403,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,18
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 151","Malartic",N,N,"",6,403,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 152","Val-d'Or",N,N,"",3,359,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,53
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 152","Val-d'Or",N,N,"",3,359,"Corriveau","","Steve","Conservative","Conservateur",N,N,27
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 152","Val-d'Or",N,N,"",3,359,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,35
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 152","Val-d'Or",N,N,"",3,359,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 153","Val-d'Or",N,N,"",1,392,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,39
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 153","Val-d'Or",N,N,"",1,392,"Corriveau","","Steve","Conservative","Conservateur",N,N,36
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 153","Val-d'Or",N,N,"",1,392,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,40
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 153","Val-d'Or",N,N,"",1,392,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 154","Val-d'Or",N,N,"",6,400,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,50
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 154","Val-d'Or",N,N,"",6,400,"Corriveau","","Steve","Conservative","Conservateur",N,N,32
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 154","Val-d'Or",N,N,"",6,400,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,58
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 154","Val-d'Or",N,N,"",6,400,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 155","Val-d'Or",N,N,"",2,459,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,62
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 155","Val-d'Or",N,N,"",2,459,"Corriveau","","Steve","Conservative","Conservateur",N,N,55
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 155","Val-d'Or",N,N,"",2,459,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,65
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 155","Val-d'Or",N,N,"",2,459,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 156","Val-d'Or",N,N,"",4,474,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 156","Val-d'Or",N,N,"",4,474,"Corriveau","","Steve","Conservative","Conservateur",N,N,38
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 156","Val-d'Or",N,N,"",4,474,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,86
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 156","Val-d'Or",N,N,"",4,474,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 157","Val-d'Or",N,N,"",1,376,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,52
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 157","Val-d'Or",N,N,"",1,376,"Corriveau","","Steve","Conservative","Conservateur",N,N,35
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 157","Val-d'Or",N,N,"",1,376,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 157","Val-d'Or",N,N,"",1,376,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 158","Val-d'Or",N,N,"",3,398,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,45
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 158","Val-d'Or",N,N,"",3,398,"Corriveau","","Steve","Conservative","Conservateur",N,N,32
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 158","Val-d'Or",N,N,"",3,398,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,55
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 158","Val-d'Or",N,N,"",3,398,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 159","Val-d'Or",N,N,"",2,353,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,53
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 159","Val-d'Or",N,N,"",2,353,"Corriveau","","Steve","Conservative","Conservateur",N,N,28
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 159","Val-d'Or",N,N,"",2,353,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,44
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 159","Val-d'Or",N,N,"",2,353,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 160","Val-d'Or",N,N,"",2,445,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,61
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 160","Val-d'Or",N,N,"",2,445,"Corriveau","","Steve","Conservative","Conservateur",N,N,44
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 160","Val-d'Or",N,N,"",2,445,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,46
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 160","Val-d'Or",N,N,"",2,445,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 161","Val-d'Or",N,N,"",2,437,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,75
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 161","Val-d'Or",N,N,"",2,437,"Corriveau","","Steve","Conservative","Conservateur",N,N,42
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 161","Val-d'Or",N,N,"",2,437,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,74
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 161","Val-d'Or",N,N,"",2,437,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 162","Kitcisakik",N,N,"",0,171,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 162","Kitcisakik",N,N,"",0,171,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 162","Kitcisakik",N,N,"",0,171,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 162","Kitcisakik",N,N,"",0,171,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 400","Val-d'Or",N,N,"",5,173,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,41
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 400","Val-d'Or",N,N,"",5,173,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 400","Val-d'Or",N,N,"",5,173,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,78
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 400","Val-d'Or",N,N,"",5,173,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 401","Val-d'Or",N,N,"",9,216,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,70
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 401","Val-d'Or",N,N,"",9,216,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 401","Val-d'Or",N,N,"",9,216,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,86
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 401","Val-d'Or",N,N,"",9,216,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,15,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,15,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,15,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,15,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 501","Mobile poll/Bureau itinérant",N,N,"",3,57,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,17
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 501","Mobile poll/Bureau itinérant",N,N,"",3,57,"Corriveau","","Steve","Conservative","Conservateur",N,N,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 501","Mobile poll/Bureau itinérant",N,N,"",3,57,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,18
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 501","Mobile poll/Bureau itinérant",N,N,"",3,57,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,1,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,1,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,1,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,1,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 503","Mobile poll/Bureau itinérant",N,N,"",0,16,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 503","Mobile poll/Bureau itinérant",N,N,"",0,16,"Corriveau","","Steve","Conservative","Conservateur",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 503","Mobile poll/Bureau itinérant",N,N,"",0,16,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 503","Mobile poll/Bureau itinérant",N,N,"",0,16,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 504","Mobile poll/Bureau itinérant",N,N,"505",0,16,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 504","Mobile poll/Bureau itinérant",N,N,"505",0,16,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 504","Mobile poll/Bureau itinérant",N,N,"505",0,16,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 504","Mobile poll/Bureau itinérant",N,N,"505",0,16,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 505","Mobile poll/Bureau itinérant",N,N,"",1,31,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,17
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 505","Mobile poll/Bureau itinérant",N,N,"",1,31,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 505","Mobile poll/Bureau itinérant",N,N,"",1,31,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,10
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 505","Mobile poll/Bureau itinérant",N,N,"",1,31,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,7,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,7,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,7,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,7,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 507","Mobile poll/Bureau itinérant",N,N,"510",0,21,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 507","Mobile poll/Bureau itinérant",N,N,"510",0,21,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 507","Mobile poll/Bureau itinérant",N,N,"510",0,21,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 507","Mobile poll/Bureau itinérant",N,N,"510",0,21,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 508","Mobile poll/Bureau itinérant",N,N,"",2,78,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,10
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 508","Mobile poll/Bureau itinérant",N,N,"",2,78,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 508","Mobile poll/Bureau itinérant",N,N,"",2,78,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,16
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 508","Mobile poll/Bureau itinérant",N,N,"",2,78,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 509","Mobile poll/Bureau itinérant",N,N,"",1,107,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,29
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 509","Mobile poll/Bureau itinérant",N,N,"",1,107,"Corriveau","","Steve","Conservative","Conservateur",N,N,10
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 509","Mobile poll/Bureau itinérant",N,N,"",1,107,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,34
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 509","Mobile poll/Bureau itinérant",N,N,"",1,107,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 510","Mobile poll/Bureau itinérant",N,N,"",0,49,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,17
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 510","Mobile poll/Bureau itinérant",N,N,"",0,49,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 510","Mobile poll/Bureau itinérant",N,N,"",0,49,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,19
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 510","Mobile poll/Bureau itinérant",N,N,"",0,49,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,6,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,6,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,6,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,6,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 512","Mobile poll/Bureau itinérant",N,N,"519",0,1,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 512","Mobile poll/Bureau itinérant",N,N,"519",0,1,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 512","Mobile poll/Bureau itinérant",N,N,"519",0,1,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 512","Mobile poll/Bureau itinérant",N,N,"519",0,1,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,16,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,16,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,16,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,16,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 514","Mobile poll/Bureau itinérant",N,N,"",0,20,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,16
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 514","Mobile poll/Bureau itinérant",N,N,"",0,20,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 514","Mobile poll/Bureau itinérant",N,N,"",0,20,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,10
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 514","Mobile poll/Bureau itinérant",N,N,"",0,20,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 515","Mobile poll/Bureau itinérant",N,N,"517",0,12,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 515","Mobile poll/Bureau itinérant",N,N,"517",0,12,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 515","Mobile poll/Bureau itinérant",N,N,"517",0,12,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 515","Mobile poll/Bureau itinérant",N,N,"517",0,12,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 516","Mobile poll/Bureau itinérant",N,N,"517",0,14,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 516","Mobile poll/Bureau itinérant",N,N,"517",0,14,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 516","Mobile poll/Bureau itinérant",N,N,"517",0,14,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 516","Mobile poll/Bureau itinérant",N,N,"517",0,14,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 517","Mobile poll/Bureau itinérant",N,N,"",3,29,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 517","Mobile poll/Bureau itinérant",N,N,"",3,29,"Corriveau","","Steve","Conservative","Conservateur",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 517","Mobile poll/Bureau itinérant",N,N,"",3,29,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 517","Mobile poll/Bureau itinérant",N,N,"",3,29,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 518","Mobile poll/Bureau itinérant",N,N,"514",0,15,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 518","Mobile poll/Bureau itinérant",N,N,"514",0,15,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 518","Mobile poll/Bureau itinérant",N,N,"514",0,15,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 518","Mobile poll/Bureau itinérant",N,N,"514",0,15,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 519","Mobile poll/Bureau itinérant",N,N,"",0,48,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,12
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 519","Mobile poll/Bureau itinérant",N,N,"",0,48,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 519","Mobile poll/Bureau itinérant",N,N,"",0,48,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,12
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 519","Mobile poll/Bureau itinérant",N,N,"",0,48,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 600","Kangiqsualujjuaq",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 600","Kangiqsualujjuaq",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 600","Kangiqsualujjuaq",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 600","Kangiqsualujjuaq",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 601","Kuujjuaq",N,N,"",1,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 601","Kuujjuaq",N,N,"",1,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 601","Kuujjuaq",N,N,"",1,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,45
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 601","Kuujjuaq",N,N,"",1,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 602","Tasiujaq",N,N,"601",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 602","Tasiujaq",N,N,"601",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 602","Tasiujaq",N,N,"601",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 602","Tasiujaq",N,N,"601",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 603","Aupaluk",N,N,"604",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 603","Aupaluk",N,N,"604",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 603","Aupaluk",N,N,"604",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 603","Aupaluk",N,N,"604",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 604","Kangirsuk",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 604","Kangirsuk",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 604","Kangirsuk",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 604","Kangirsuk",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 605","Quaqtaq",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 605","Quaqtaq",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 605","Quaqtaq",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 605","Quaqtaq",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 606","Kangiqsujuaq",N,Y,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 606","Kangiqsujuaq",N,Y,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 606","Kangiqsujuaq",N,Y,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 606","Kangiqsujuaq",N,Y,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 607","Salluit",N,Y,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 607","Salluit",N,Y,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 607","Salluit",N,Y,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 607","Salluit",N,Y,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 608","Ivujivik",N,N,"607",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 608","Ivujivik",N,N,"607",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 608","Ivujivik",N,N,"607",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 608","Ivujivik",N,N,"607",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 609","Akulivik",N,N,"610",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 609","Akulivik",N,N,"610",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 609","Akulivik",N,N,"610",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 609","Akulivik",N,N,"610",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 610","Puvirnituq",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 610","Puvirnituq",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 610","Puvirnituq",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 610","Puvirnituq",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 611","Inukjuak",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 611","Inukjuak",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 611","Inukjuak",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 611","Inukjuak",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 612","Umiujaq",N,N,"611",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 612","Umiujaq",N,N,"611",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 612","Umiujaq",N,N,"611",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 612","Umiujaq",N,N,"611",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 613","Kuujjuarapik",N,N,"614",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 613","Kuujjuarapik",N,N,"614",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 613","Kuujjuarapik",N,N,"614",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 613","Kuujjuarapik",N,N,"614",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 614","Whapmagoostui",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 614","Whapmagoostui",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 614","Whapmagoostui",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,13
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 614","Whapmagoostui",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 615","Chisasibi",N,N,"",1,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 615","Chisasibi",N,N,"",1,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,10
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 615","Chisasibi",N,N,"",1,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,92
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 615","Chisasibi",N,N,"",1,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 616","Wemindji",N,N,"",1,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 616","Wemindji",N,N,"",1,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 616","Wemindji",N,N,"",1,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,53
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 616","Wemindji",N,N,"",1,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 617","Eeyou Istchee Baie-James",N,N,"",1,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,13
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 617","Eeyou Istchee Baie-James",N,N,"",1,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 617","Eeyou Istchee Baie-James",N,N,"",1,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 617","Eeyou Istchee Baie-James",N,N,"",1,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 618","Eastmain",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 618","Eastmain",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 618","Eastmain",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,13
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 618","Eastmain",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 619","Waskaganish",N,N,"",4,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 619","Waskaganish",N,N,"",4,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 619","Waskaganish",N,N,"",4,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,55
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 619","Waskaganish",N,N,"",4,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 620","Eeyou Istchee Baie-James",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,31
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 620","Eeyou Istchee Baie-James",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,19
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 620","Eeyou Istchee Baie-James",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,12
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 620","Eeyou Istchee Baie-James",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 621","Matagami",N,N,"",5,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,99
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 621","Matagami",N,N,"",5,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,40
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 621","Matagami",N,N,"",5,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,77
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 621","Matagami",N,N,"",5,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 622","Waswanipi",N,N,"",1,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 622","Waswanipi",N,N,"",1,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 622","Waswanipi",N,N,"",1,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,65
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 622","Waswanipi",N,N,"",1,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 623","Nemaska",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 623","Nemaska",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 623","Nemaska",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,51
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 623","Nemaska",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 624","Mistissini",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 624","Mistissini",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 624","Mistissini",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,95
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 624","Mistissini",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 625","Eeyou Istchee Baie-James",N,N,"",2,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,236
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 625","Eeyou Istchee Baie-James",N,N,"",2,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,107
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 625","Eeyou Istchee Baie-James",N,N,"",2,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,187
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 625","Eeyou Istchee Baie-James",N,N,"",2,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 626","Chibougamau",N,N,"",5,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,238
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 626","Chibougamau",N,N,"",5,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,120
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 626","Chibougamau",N,N,"",5,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,177
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 626","Chibougamau",N,N,"",5,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 627","Chapais",N,N,"",4,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,125
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 627","Chapais",N,N,"",4,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,81
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 627","Chapais",N,N,"",4,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,53
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 627","Chapais",N,N,"",4,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 628","Oujé-Bougoumou",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 628","Oujé-Bougoumou",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 628","Oujé-Bougoumou",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,62
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 628","Oujé-Bougoumou",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 629","Lebel-sur-Quévillon",N,N,"",8,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,218
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 629","Lebel-sur-Quévillon",N,N,"",8,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,69
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 629","Lebel-sur-Quévillon",N,N,"",8,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,131
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 629","Lebel-sur-Quévillon",N,N,"",8,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 630","Louvicourt",N,N,"",2,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,34
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 630","Louvicourt",N,N,"",2,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 630","Louvicourt",N,N,"",2,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,14
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 630","Louvicourt",N,N,"",2,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 631","Senneterre",N,N,"",15,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,308
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 631","Senneterre",N,N,"",15,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,161
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 631","Senneterre",N,N,"",15,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,256
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 631","Senneterre",N,N,"",15,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 632","Lac Simon",N,N,"",3,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 632","Lac Simon",N,N,"",3,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 632","Lac Simon",N,N,"",3,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,61
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 632","Lac Simon",N,N,"",3,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 633","Kitcisakik",N,N,"",0,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,1
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 633","Kitcisakik",N,N,"",0,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 633","Kitcisakik",N,N,"",0,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,2
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 633","Kitcisakik",N,N,"",0,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 634","Val-d'Or",N,N,"",8,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,151
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 634","Val-d'Or",N,N,"",8,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,78
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 634","Val-d'Or",N,N,"",8,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,199
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 634","Val-d'Or",N,N,"",8,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 635","Val-d'Or",N,N,"",10,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,122
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 635","Val-d'Or",N,N,"",10,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,72
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 635","Val-d'Or",N,N,"",10,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,125
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 635","Val-d'Or",N,N,"",10,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 636","Val-d'Or",N,N,"",5,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,165
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 636","Val-d'Or",N,N,"",5,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,47
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 636","Val-d'Or",N,N,"",5,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,199
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 636","Val-d'Or",N,N,"",5,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 637","Val-d'Or",N,N,"",11,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,172
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 637","Val-d'Or",N,N,"",11,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,67
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 637","Val-d'Or",N,N,"",11,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,203
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 637","Val-d'Or",N,N,"",11,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 638","Val-d'Or",N,N,"",20,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,232
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 638","Val-d'Or",N,N,"",20,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,78
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 638","Val-d'Or",N,N,"",20,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,285
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 638","Val-d'Or",N,N,"",20,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 639","Val-d'Or",N,N,"",14,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,226
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 639","Val-d'Or",N,N,"",14,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,105
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 639","Val-d'Or",N,N,"",14,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,308
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 639","Val-d'Or",N,N,"",14,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 640","Val-d'Or",N,N,"",11,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,168
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 640","Val-d'Or",N,N,"",11,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,86
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 640","Val-d'Or",N,N,"",11,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,170
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 640","Val-d'Or",N,N,"",11,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 641","Val-d'Or",N,N,"",17,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,126
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 641","Val-d'Or",N,N,"",17,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,81
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 641","Val-d'Or",N,N,"",17,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,187
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 641","Val-d'Or",N,N,"",17,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 642","Val-d'Or",N,N,"",4,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,234
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 642","Val-d'Or",N,N,"",4,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,109
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 642","Val-d'Or",N,N,"",4,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,335
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 642","Val-d'Or",N,N,"",4,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 643","Val-d'Or",N,N,"",7,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,135
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 643","Val-d'Or",N,N,"",7,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,83
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 643","Val-d'Or",N,N,"",7,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,203
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 643","Val-d'Or",N,N,"",7,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 644","Malartic",N,N,"",14,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,260
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 644","Malartic",N,N,"",14,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,128
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 644","Malartic",N,N,"",14,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,241
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," 644","Malartic",N,N,"",14,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",38,218,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,85
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",38,218,"Corriveau","","Steve","Conservative","Conservateur",N,N,63
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",38,218,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,322
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",38,218,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",20,0,"Bérubé","","Sylvie","Bloc Québécois","Bloc Québécois",Y,N,230
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",20,0,"Corriveau","","Steve","Conservative","Conservateur",N,N,105
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",20,0,"Gull-Masty","","Mandy","Liberal","Libéral",N,Y,355
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","Abitibi--Baie-James--Nunavik--Eeyou"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",20,0,"Higashihara","","Thai Dillon","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11

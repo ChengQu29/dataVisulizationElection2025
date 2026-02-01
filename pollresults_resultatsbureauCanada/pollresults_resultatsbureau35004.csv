@@ -1,0 +1,801 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 1","Innisfil",N,N,"8",0,533,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 1","Innisfil",N,N,"8",0,533,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 1","Innisfil",N,N,"8",0,533,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 1","Innisfil",N,N,"8",0,533,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 2","Innisfil",N,N,"",1,779,"Brassard","","John","Conservative","Conservateur",Y,Y,118
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 2","Innisfil",N,N,"",1,779,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 2","Innisfil",N,N,"",1,779,"Olthuis","","John","Liberal","Libéral",N,N,69
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 2","Innisfil",N,N,"",1,779,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 3","Innisfil",N,N,"",1,569,"Brassard","","John","Conservative","Conservateur",Y,Y,111
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 3","Innisfil",N,N,"",1,569,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 3","Innisfil",N,N,"",1,569,"Olthuis","","John","Liberal","Libéral",N,N,61
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 3","Innisfil",N,N,"",1,569,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 4","Innisfil",N,N,"",3,581,"Brassard","","John","Conservative","Conservateur",Y,Y,126
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 4","Innisfil",N,N,"",3,581,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 4","Innisfil",N,N,"",3,581,"Olthuis","","John","Liberal","Libéral",N,N,71
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 4","Innisfil",N,N,"",3,581,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 5","Innisfil",N,N,"",0,545,"Brassard","","John","Conservative","Conservateur",Y,Y,139
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 5","Innisfil",N,N,"",0,545,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 5","Innisfil",N,N,"",0,545,"Olthuis","","John","Liberal","Libéral",N,N,49
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 5","Innisfil",N,N,"",0,545,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 6","Innisfil",N,N,"",5,816,"Brassard","","John","Conservative","Conservateur",Y,Y,205
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 6","Innisfil",N,N,"",5,816,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 6","Innisfil",N,N,"",5,816,"Olthuis","","John","Liberal","Libéral",N,N,94
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 6","Innisfil",N,N,"",5,816,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 7","Innisfil",N,N,"9",0,509,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 7","Innisfil",N,N,"9",0,509,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 7","Innisfil",N,N,"9",0,509,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 7","Innisfil",N,N,"9",0,509,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 8","Innisfil",N,N,"",2,550,"Brassard","","John","Conservative","Conservateur",Y,Y,165
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 8","Innisfil",N,N,"",2,550,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 8","Innisfil",N,N,"",2,550,"Olthuis","","John","Liberal","Libéral",N,N,101
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 8","Innisfil",N,N,"",2,550,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 9","Innisfil",N,N,"",0,557,"Brassard","","John","Conservative","Conservateur",Y,Y,120
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 9","Innisfil",N,N,"",0,557,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 9","Innisfil",N,N,"",0,557,"Olthuis","","John","Liberal","Libéral",N,N,121
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 9","Innisfil",N,N,"",0,557,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 10","Innisfil",N,N,"",1,525,"Brassard","","John","Conservative","Conservateur",Y,Y,124
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 10","Innisfil",N,N,"",1,525,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 10","Innisfil",N,N,"",1,525,"Olthuis","","John","Liberal","Libéral",N,N,59
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 10","Innisfil",N,N,"",1,525,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 11","Innisfil",N,N,"9",0,549,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 11","Innisfil",N,N,"9",0,549,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 11","Innisfil",N,N,"9",0,549,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 11","Innisfil",N,N,"9",0,549,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 12","Innisfil",N,N,"",0,533,"Brassard","","John","Conservative","Conservateur",Y,Y,160
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 12","Innisfil",N,N,"",0,533,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 12","Innisfil",N,N,"",0,533,"Olthuis","","John","Liberal","Libéral",N,N,47
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 12","Innisfil",N,N,"",0,533,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 13","Innisfil",N,N,"",2,542,"Brassard","","John","Conservative","Conservateur",Y,Y,126
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 13","Innisfil",N,N,"",2,542,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 13","Innisfil",N,N,"",2,542,"Olthuis","","John","Liberal","Libéral",N,N,58
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 13","Innisfil",N,N,"",2,542,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 14","Innisfil",N,N,"",0,476,"Brassard","","John","Conservative","Conservateur",Y,Y,117
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 14","Innisfil",N,N,"",0,476,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 14","Innisfil",N,N,"",0,476,"Olthuis","","John","Liberal","Libéral",N,N,60
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 14","Innisfil",N,N,"",0,476,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 15","Innisfil",N,N,"",8,568,"Brassard","","John","Conservative","Conservateur",Y,Y,182
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 15","Innisfil",N,N,"",8,568,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 15","Innisfil",N,N,"",8,568,"Olthuis","","John","Liberal","Libéral",N,N,86
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 15","Innisfil",N,N,"",8,568,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 16","Innisfil",N,N,"",1,605,"Brassard","","John","Conservative","Conservateur",Y,Y,159
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 16","Innisfil",N,N,"",1,605,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 16","Innisfil",N,N,"",1,605,"Olthuis","","John","Liberal","Libéral",N,N,85
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 16","Innisfil",N,N,"",1,605,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 17","Barrie",N,N,"",2,660,"Brassard","","John","Conservative","Conservateur",Y,Y,134
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 17","Barrie",N,N,"",2,660,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 17","Barrie",N,N,"",2,660,"Olthuis","","John","Liberal","Libéral",N,N,104
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 17","Barrie",N,N,"",2,660,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 18","Barrie",N,N,"",1,685,"Brassard","","John","Conservative","Conservateur",Y,Y,181
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 18","Barrie",N,N,"",1,685,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 18","Barrie",N,N,"",1,685,"Olthuis","","John","Liberal","Libéral",N,N,101
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 18","Barrie",N,N,"",1,685,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 19","Barrie",N,N,"",0,567,"Brassard","","John","Conservative","Conservateur",Y,Y,98
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 19","Barrie",N,N,"",0,567,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 19","Barrie",N,N,"",0,567,"Olthuis","","John","Liberal","Libéral",N,N,95
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 19","Barrie",N,N,"",0,567,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 20","Barrie",N,N,"",1,573,"Brassard","","John","Conservative","Conservateur",Y,Y,127
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 20","Barrie",N,N,"",1,573,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 20","Barrie",N,N,"",1,573,"Olthuis","","John","Liberal","Libéral",N,N,100
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 20","Barrie",N,N,"",1,573,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 21","Barrie",N,N,"",1,522,"Brassard","","John","Conservative","Conservateur",Y,Y,70
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 21","Barrie",N,N,"",1,522,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 21","Barrie",N,N,"",1,522,"Olthuis","","John","Liberal","Libéral",N,N,82
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 21","Barrie",N,N,"",1,522,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 22","Barrie",N,N,"",1,539,"Brassard","","John","Conservative","Conservateur",Y,Y,218
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 22","Barrie",N,N,"",1,539,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 22","Barrie",N,N,"",1,539,"Olthuis","","John","Liberal","Libéral",N,N,154
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 22","Barrie",N,N,"",1,539,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 23","Barrie",N,N,"",0,585,"Brassard","","John","Conservative","Conservateur",Y,Y,117
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 23","Barrie",N,N,"",0,585,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 23","Barrie",N,N,"",0,585,"Olthuis","","John","Liberal","Libéral",N,N,56
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 23","Barrie",N,N,"",0,585,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 24","Barrie",N,N,"",2,493,"Brassard","","John","Conservative","Conservateur",Y,Y,108
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 24","Barrie",N,N,"",2,493,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 24","Barrie",N,N,"",2,493,"Olthuis","","John","Liberal","Libéral",N,N,85
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 24","Barrie",N,N,"",2,493,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 25","Barrie",N,N,"22",0,465,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 25","Barrie",N,N,"22",0,465,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 25","Barrie",N,N,"22",0,465,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 25","Barrie",N,N,"22",0,465,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 26","Barrie",N,N,"",2,381,"Brassard","","John","Conservative","Conservateur",Y,Y,139
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 26","Barrie",N,N,"",2,381,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 26","Barrie",N,N,"",2,381,"Olthuis","","John","Liberal","Libéral",N,N,130
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 26","Barrie",N,N,"",2,381,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 27","Barrie",N,N,"",5,249,"Brassard","","John","Conservative","Conservateur",Y,Y,59
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 27","Barrie",N,N,"",5,249,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 27","Barrie",N,N,"",5,249,"Olthuis","","John","Liberal","Libéral",N,N,53
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 27","Barrie",N,N,"",5,249,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 28","Barrie",N,N,"",2,658,"Brassard","","John","Conservative","Conservateur",Y,Y,166
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 28","Barrie",N,N,"",2,658,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 28","Barrie",N,N,"",2,658,"Olthuis","","John","Liberal","Libéral",N,N,128
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 28","Barrie",N,N,"",2,658,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 29","Barrie",N,N,"",0,676,"Brassard","","John","Conservative","Conservateur",Y,Y,166
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 29","Barrie",N,N,"",0,676,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 29","Barrie",N,N,"",0,676,"Olthuis","","John","Liberal","Libéral",N,N,136
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 29","Barrie",N,N,"",0,676,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 30","Barrie",N,N,"",0,655,"Brassard","","John","Conservative","Conservateur",Y,Y,194
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 30","Barrie",N,N,"",0,655,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 30","Barrie",N,N,"",0,655,"Olthuis","","John","Liberal","Libéral",N,N,132
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 30","Barrie",N,N,"",0,655,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 31","Barrie",N,N,"",2,635,"Brassard","","John","Conservative","Conservateur",Y,Y,174
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 31","Barrie",N,N,"",2,635,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 31","Barrie",N,N,"",2,635,"Olthuis","","John","Liberal","Libéral",N,N,111
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 31","Barrie",N,N,"",2,635,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 32","Barrie",N,N,"",1,614,"Brassard","","John","Conservative","Conservateur",Y,Y,190
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 32","Barrie",N,N,"",1,614,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 32","Barrie",N,N,"",1,614,"Olthuis","","John","Liberal","Libéral",N,N,89
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 32","Barrie",N,N,"",1,614,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 33","Barrie",N,N,"",3,967,"Brassard","","John","Conservative","Conservateur",Y,Y,218
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 33","Barrie",N,N,"",3,967,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 33","Barrie",N,N,"",3,967,"Olthuis","","John","Liberal","Libéral",N,N,150
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 33","Barrie",N,N,"",3,967,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 34","Barrie",N,N,"",0,624,"Brassard","","John","Conservative","Conservateur",Y,Y,115
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 34","Barrie",N,N,"",0,624,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 34","Barrie",N,N,"",0,624,"Olthuis","","John","Liberal","Libéral",N,N,90
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 34","Barrie",N,N,"",0,624,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 35","Barrie",N,N,"",0,510,"Brassard","","John","Conservative","Conservateur",Y,Y,169
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 35","Barrie",N,N,"",0,510,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 35","Barrie",N,N,"",0,510,"Olthuis","","John","Liberal","Libéral",N,N,125
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 35","Barrie",N,N,"",0,510,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 36","Barrie",N,N,"",0,592,"Brassard","","John","Conservative","Conservateur",Y,Y,116
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 36","Barrie",N,N,"",0,592,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 36","Barrie",N,N,"",0,592,"Olthuis","","John","Liberal","Libéral",N,N,73
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 36","Barrie",N,N,"",0,592,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 37","Barrie",N,N,"",2,595,"Brassard","","John","Conservative","Conservateur",Y,Y,124
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 37","Barrie",N,N,"",2,595,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 37","Barrie",N,N,"",2,595,"Olthuis","","John","Liberal","Libéral",N,N,127
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 37","Barrie",N,N,"",2,595,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 38","Barrie",N,N,"",2,532,"Brassard","","John","Conservative","Conservateur",Y,Y,174
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 38","Barrie",N,N,"",2,532,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 38","Barrie",N,N,"",2,532,"Olthuis","","John","Liberal","Libéral",N,N,107
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 38","Barrie",N,N,"",2,532,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 39","Barrie",N,N,"",0,555,"Brassard","","John","Conservative","Conservateur",Y,Y,78
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 39","Barrie",N,N,"",0,555,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 39","Barrie",N,N,"",0,555,"Olthuis","","John","Liberal","Libéral",N,N,54
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 39","Barrie",N,N,"",0,555,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 40","Barrie",N,N,"",1,570,"Brassard","","John","Conservative","Conservateur",Y,Y,101
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 40","Barrie",N,N,"",1,570,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 40","Barrie",N,N,"",1,570,"Olthuis","","John","Liberal","Libéral",N,N,70
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 40","Barrie",N,N,"",1,570,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 41","Barrie",N,N,"",2,527,"Brassard","","John","Conservative","Conservateur",Y,Y,91
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 41","Barrie",N,N,"",2,527,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 41","Barrie",N,N,"",2,527,"Olthuis","","John","Liberal","Libéral",N,N,65
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 41","Barrie",N,N,"",2,527,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 42","Barrie",N,N,"",0,480,"Brassard","","John","Conservative","Conservateur",Y,Y,113
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 42","Barrie",N,N,"",0,480,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 42","Barrie",N,N,"",0,480,"Olthuis","","John","Liberal","Libéral",N,N,75
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 42","Barrie",N,N,"",0,480,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 43","Barrie",N,N,"",0,544,"Brassard","","John","Conservative","Conservateur",Y,Y,112
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 43","Barrie",N,N,"",0,544,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 43","Barrie",N,N,"",0,544,"Olthuis","","John","Liberal","Libéral",N,N,83
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 43","Barrie",N,N,"",0,544,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 44","Barrie",N,N,"",0,451,"Brassard","","John","Conservative","Conservateur",Y,Y,111
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 44","Barrie",N,N,"",0,451,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 44","Barrie",N,N,"",0,451,"Olthuis","","John","Liberal","Libéral",N,N,62
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 44","Barrie",N,N,"",0,451,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 45","Barrie",N,N,"",1,528,"Brassard","","John","Conservative","Conservateur",Y,Y,120
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 45","Barrie",N,N,"",1,528,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 45","Barrie",N,N,"",1,528,"Olthuis","","John","Liberal","Libéral",N,N,59
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 45","Barrie",N,N,"",1,528,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 46","Barrie",N,N,"",2,543,"Brassard","","John","Conservative","Conservateur",Y,Y,122
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 46","Barrie",N,N,"",2,543,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 46","Barrie",N,N,"",2,543,"Olthuis","","John","Liberal","Libéral",N,N,75
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 46","Barrie",N,N,"",2,543,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 47","Barrie",N,N,"",0,563,"Brassard","","John","Conservative","Conservateur",Y,Y,110
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 47","Barrie",N,N,"",0,563,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 47","Barrie",N,N,"",0,563,"Olthuis","","John","Liberal","Libéral",N,N,74
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 47","Barrie",N,N,"",0,563,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 48","Barrie",N,N,"",0,642,"Brassard","","John","Conservative","Conservateur",Y,Y,119
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 48","Barrie",N,N,"",0,642,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 48","Barrie",N,N,"",0,642,"Olthuis","","John","Liberal","Libéral",N,N,73
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 48","Barrie",N,N,"",0,642,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 49","Barrie",N,N,"",1,575,"Brassard","","John","Conservative","Conservateur",Y,Y,106
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 49","Barrie",N,N,"",1,575,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 49","Barrie",N,N,"",1,575,"Olthuis","","John","Liberal","Libéral",N,N,99
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 49","Barrie",N,N,"",1,575,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 50","Barrie",N,N,"",1,616,"Brassard","","John","Conservative","Conservateur",Y,Y,145
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 50","Barrie",N,N,"",1,616,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 50","Barrie",N,N,"",1,616,"Olthuis","","John","Liberal","Libéral",N,N,89
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 50","Barrie",N,N,"",1,616,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 51","Barrie",N,N,"38",0,513,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 51","Barrie",N,N,"38",0,513,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 51","Barrie",N,N,"38",0,513,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 51","Barrie",N,N,"38",0,513,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 52","Barrie",N,N,"",0,565,"Brassard","","John","Conservative","Conservateur",Y,Y,97
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 52","Barrie",N,N,"",0,565,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 52","Barrie",N,N,"",0,565,"Olthuis","","John","Liberal","Libéral",N,N,87
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 52","Barrie",N,N,"",0,565,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 53","Barrie",N,N,"",1,563,"Brassard","","John","Conservative","Conservateur",Y,Y,89
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 53","Barrie",N,N,"",1,563,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 53","Barrie",N,N,"",1,563,"Olthuis","","John","Liberal","Libéral",N,N,63
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 53","Barrie",N,N,"",1,563,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 54","Barrie",N,N,"35",0,507,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 54","Barrie",N,N,"35",0,507,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 54","Barrie",N,N,"35",0,507,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 54","Barrie",N,N,"35",0,507,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 55","Barrie",N,N,"",1,629,"Brassard","","John","Conservative","Conservateur",Y,Y,109
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 55","Barrie",N,N,"",1,629,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 55","Barrie",N,N,"",1,629,"Olthuis","","John","Liberal","Libéral",N,N,60
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 55","Barrie",N,N,"",1,629,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 56","Barrie",N,N,"",0,531,"Brassard","","John","Conservative","Conservateur",Y,Y,102
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 56","Barrie",N,N,"",0,531,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 56","Barrie",N,N,"",0,531,"Olthuis","","John","Liberal","Libéral",N,N,53
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 56","Barrie",N,N,"",0,531,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 57","Barrie",N,N,"",2,540,"Brassard","","John","Conservative","Conservateur",Y,Y,137
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 57","Barrie",N,N,"",2,540,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 57","Barrie",N,N,"",2,540,"Olthuis","","John","Liberal","Libéral",N,N,101
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 57","Barrie",N,N,"",2,540,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 58","Barrie",N,N,"",1,588,"Brassard","","John","Conservative","Conservateur",Y,Y,119
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 58","Barrie",N,N,"",1,588,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 58","Barrie",N,N,"",1,588,"Olthuis","","John","Liberal","Libéral",N,N,99
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 58","Barrie",N,N,"",1,588,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 59","Barrie",N,N,"",0,534,"Brassard","","John","Conservative","Conservateur",Y,Y,127
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 59","Barrie",N,N,"",0,534,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 59","Barrie",N,N,"",0,534,"Olthuis","","John","Liberal","Libéral",N,N,90
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 59","Barrie",N,N,"",0,534,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 60","Barrie",N,N,"",4,199,"Brassard","","John","Conservative","Conservateur",Y,Y,42
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 60","Barrie",N,N,"",4,199,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 60","Barrie",N,N,"",4,199,"Olthuis","","John","Liberal","Libéral",N,N,92
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 60","Barrie",N,N,"",4,199,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 61","Barrie",N,N,"",3,620,"Brassard","","John","Conservative","Conservateur",Y,Y,159
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 61","Barrie",N,N,"",3,620,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 61","Barrie",N,N,"",3,620,"Olthuis","","John","Liberal","Libéral",N,N,88
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 61","Barrie",N,N,"",3,620,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 62","Barrie",N,N,"",2,585,"Brassard","","John","Conservative","Conservateur",Y,Y,166
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 62","Barrie",N,N,"",2,585,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 62","Barrie",N,N,"",2,585,"Olthuis","","John","Liberal","Libéral",N,N,93
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 62","Barrie",N,N,"",2,585,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 63","Barrie",N,N,"",5,640,"Brassard","","John","Conservative","Conservateur",Y,Y,164
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 63","Barrie",N,N,"",5,640,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 63","Barrie",N,N,"",5,640,"Olthuis","","John","Liberal","Libéral",N,N,95
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 63","Barrie",N,N,"",5,640,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 64","Barrie",N,N,"",0,536,"Brassard","","John","Conservative","Conservateur",Y,Y,183
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 64","Barrie",N,N,"",0,536,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 64","Barrie",N,N,"",0,536,"Olthuis","","John","Liberal","Libéral",N,N,111
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 64","Barrie",N,N,"",0,536,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 65","Barrie",N,N,"",0,600,"Brassard","","John","Conservative","Conservateur",Y,Y,121
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 65","Barrie",N,N,"",0,600,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 65","Barrie",N,N,"",0,600,"Olthuis","","John","Liberal","Libéral",N,N,105
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 65","Barrie",N,N,"",0,600,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 66","Barrie",N,N,"",0,550,"Brassard","","John","Conservative","Conservateur",Y,Y,132
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 66","Barrie",N,N,"",0,550,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 66","Barrie",N,N,"",0,550,"Olthuis","","John","Liberal","Libéral",N,N,80
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 66","Barrie",N,N,"",0,550,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 67","Barrie",N,N,"",3,542,"Brassard","","John","Conservative","Conservateur",Y,Y,150
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 67","Barrie",N,N,"",3,542,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 67","Barrie",N,N,"",3,542,"Olthuis","","John","Liberal","Libéral",N,N,85
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 67","Barrie",N,N,"",3,542,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 68","Barrie",N,N,"",2,875,"Brassard","","John","Conservative","Conservateur",Y,Y,208
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 68","Barrie",N,N,"",2,875,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 68","Barrie",N,N,"",2,875,"Olthuis","","John","Liberal","Libéral",N,N,109
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 68","Barrie",N,N,"",2,875,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 69","Barrie",N,N,"",0,584,"Brassard","","John","Conservative","Conservateur",Y,Y,118
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 69","Barrie",N,N,"",0,584,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 69","Barrie",N,N,"",0,584,"Olthuis","","John","Liberal","Libéral",N,N,76
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 69","Barrie",N,N,"",0,584,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 70","Barrie",N,N,"",2,536,"Brassard","","John","Conservative","Conservateur",Y,Y,117
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 70","Barrie",N,N,"",2,536,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 70","Barrie",N,N,"",2,536,"Olthuis","","John","Liberal","Libéral",N,N,71
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 70","Barrie",N,N,"",2,536,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 71","Barrie",N,N,"",2,487,"Brassard","","John","Conservative","Conservateur",Y,Y,153
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 71","Barrie",N,N,"",2,487,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 71","Barrie",N,N,"",2,487,"Olthuis","","John","Liberal","Libéral",N,N,63
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 71","Barrie",N,N,"",2,487,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 72","Barrie",N,N,"",1,629,"Brassard","","John","Conservative","Conservateur",Y,Y,143
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 72","Barrie",N,N,"",1,629,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 72","Barrie",N,N,"",1,629,"Olthuis","","John","Liberal","Libéral",N,N,88
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 72","Barrie",N,N,"",1,629,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 73","Barrie",N,N,"",2,550,"Brassard","","John","Conservative","Conservateur",Y,Y,127
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 73","Barrie",N,N,"",2,550,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 73","Barrie",N,N,"",2,550,"Olthuis","","John","Liberal","Libéral",N,N,91
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 73","Barrie",N,N,"",2,550,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 74","Barrie",N,N,"",0,606,"Brassard","","John","Conservative","Conservateur",Y,Y,124
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 74","Barrie",N,N,"",0,606,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 74","Barrie",N,N,"",0,606,"Olthuis","","John","Liberal","Libéral",N,N,80
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 74","Barrie",N,N,"",0,606,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 75","Barrie",N,N,"",3,490,"Brassard","","John","Conservative","Conservateur",Y,Y,101
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 75","Barrie",N,N,"",3,490,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 75","Barrie",N,N,"",3,490,"Olthuis","","John","Liberal","Libéral",N,N,78
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 75","Barrie",N,N,"",3,490,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 76","Barrie",N,N,"",3,479,"Brassard","","John","Conservative","Conservateur",Y,Y,107
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 76","Barrie",N,N,"",3,479,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 76","Barrie",N,N,"",3,479,"Olthuis","","John","Liberal","Libéral",N,N,63
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 76","Barrie",N,N,"",3,479,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 77","Barrie",N,N,"",3,552,"Brassard","","John","Conservative","Conservateur",Y,Y,79
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 77","Barrie",N,N,"",3,552,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 77","Barrie",N,N,"",3,552,"Olthuis","","John","Liberal","Libéral",N,N,79
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 77","Barrie",N,N,"",3,552,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 78","Barrie",N,N,"",0,476,"Brassard","","John","Conservative","Conservateur",Y,Y,87
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 78","Barrie",N,N,"",0,476,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 78","Barrie",N,N,"",0,476,"Olthuis","","John","Liberal","Libéral",N,N,72
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 78","Barrie",N,N,"",0,476,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 79","Barrie",N,N,"",0,619,"Brassard","","John","Conservative","Conservateur",Y,Y,133
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 79","Barrie",N,N,"",0,619,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 79","Barrie",N,N,"",0,619,"Olthuis","","John","Liberal","Libéral",N,N,76
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 79","Barrie",N,N,"",0,619,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 80","Barrie",N,N,"",2,580,"Brassard","","John","Conservative","Conservateur",Y,Y,119
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 80","Barrie",N,N,"",2,580,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 80","Barrie",N,N,"",2,580,"Olthuis","","John","Liberal","Libéral",N,N,81
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 80","Barrie",N,N,"",2,580,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 81","Barrie",N,N,"",1,602,"Brassard","","John","Conservative","Conservateur",Y,Y,123
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 81","Barrie",N,N,"",1,602,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 81","Barrie",N,N,"",1,602,"Olthuis","","John","Liberal","Libéral",N,N,115
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 81","Barrie",N,N,"",1,602,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 82","Barrie",N,N,"",3,472,"Brassard","","John","Conservative","Conservateur",Y,Y,84
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 82","Barrie",N,N,"",3,472,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 82","Barrie",N,N,"",3,472,"Olthuis","","John","Liberal","Libéral",N,N,59
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 82","Barrie",N,N,"",3,472,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 83","Barrie",N,N,"",1,569,"Brassard","","John","Conservative","Conservateur",Y,Y,138
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 83","Barrie",N,N,"",1,569,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 83","Barrie",N,N,"",1,569,"Olthuis","","John","Liberal","Libéral",N,N,98
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 83","Barrie",N,N,"",1,569,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 84","Barrie",N,N,"",4,657,"Brassard","","John","Conservative","Conservateur",Y,Y,114
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 84","Barrie",N,N,"",4,657,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 84","Barrie",N,N,"",4,657,"Olthuis","","John","Liberal","Libéral",N,N,61
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 84","Barrie",N,N,"",4,657,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 85","Barrie",N,N,"",4,643,"Brassard","","John","Conservative","Conservateur",Y,Y,154
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 85","Barrie",N,N,"",4,643,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 85","Barrie",N,N,"",4,643,"Olthuis","","John","Liberal","Libéral",N,N,105
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 85","Barrie",N,N,"",4,643,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 86","Barrie",N,N,"",3,567,"Brassard","","John","Conservative","Conservateur",Y,Y,170
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 86","Barrie",N,N,"",3,567,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 86","Barrie",N,N,"",3,567,"Olthuis","","John","Liberal","Libéral",N,N,94
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 86","Barrie",N,N,"",3,567,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 87","Barrie",N,N,"64",0,459,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 87","Barrie",N,N,"64",0,459,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 87","Barrie",N,N,"64",0,459,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 87","Barrie",N,N,"64",0,459,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 88","Barrie",N,N,"",0,599,"Brassard","","John","Conservative","Conservateur",Y,Y,116
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 88","Barrie",N,N,"",0,599,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 88","Barrie",N,N,"",0,599,"Olthuis","","John","Liberal","Libéral",N,N,79
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 88","Barrie",N,N,"",0,599,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 89","Barrie",N,N,"",0,615,"Brassard","","John","Conservative","Conservateur",Y,Y,101
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 89","Barrie",N,N,"",0,615,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 89","Barrie",N,N,"",0,615,"Olthuis","","John","Liberal","Libéral",N,N,63
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 89","Barrie",N,N,"",0,615,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 90","Barrie",N,N,"",2,510,"Brassard","","John","Conservative","Conservateur",Y,Y,152
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 90","Barrie",N,N,"",2,510,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 90","Barrie",N,N,"",2,510,"Olthuis","","John","Liberal","Libéral",N,N,94
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 90","Barrie",N,N,"",2,510,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 91","Barrie",N,N,"",3,601,"Brassard","","John","Conservative","Conservateur",Y,Y,191
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 91","Barrie",N,N,"",3,601,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 91","Barrie",N,N,"",3,601,"Olthuis","","John","Liberal","Libéral",N,N,111
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 91","Barrie",N,N,"",3,601,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 92","Barrie",N,N,"",1,564,"Brassard","","John","Conservative","Conservateur",Y,Y,142
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 92","Barrie",N,N,"",1,564,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 92","Barrie",N,N,"",1,564,"Olthuis","","John","Liberal","Libéral",N,N,72
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 92","Barrie",N,N,"",1,564,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 93","Barrie",N,N,"",4,667,"Brassard","","John","Conservative","Conservateur",Y,Y,132
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 93","Barrie",N,N,"",4,667,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 93","Barrie",N,N,"",4,667,"Olthuis","","John","Liberal","Libéral",N,N,76
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 93","Barrie",N,N,"",4,667,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 94","Barrie",N,N,"",0,490,"Brassard","","John","Conservative","Conservateur",Y,Y,86
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 94","Barrie",N,N,"",0,490,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 94","Barrie",N,N,"",0,490,"Olthuis","","John","Liberal","Libéral",N,N,53
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 94","Barrie",N,N,"",0,490,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 95","Barrie",N,N,"",0,619,"Brassard","","John","Conservative","Conservateur",Y,Y,109
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 95","Barrie",N,N,"",0,619,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 95","Barrie",N,N,"",0,619,"Olthuis","","John","Liberal","Libéral",N,N,79
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 95","Barrie",N,N,"",0,619,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 96","Barrie",N,N,"",0,515,"Brassard","","John","Conservative","Conservateur",Y,Y,100
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 96","Barrie",N,N,"",0,515,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 96","Barrie",N,N,"",0,515,"Olthuis","","John","Liberal","Libéral",N,N,76
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 96","Barrie",N,N,"",0,515,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 97","Barrie",N,N,"",0,495,"Brassard","","John","Conservative","Conservateur",Y,Y,122
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 97","Barrie",N,N,"",0,495,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 97","Barrie",N,N,"",0,495,"Olthuis","","John","Liberal","Libéral",N,N,64
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 97","Barrie",N,N,"",0,495,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 98","Barrie",N,N,"91",0,527,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 98","Barrie",N,N,"91",0,527,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 98","Barrie",N,N,"91",0,527,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 98","Barrie",N,N,"91",0,527,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 99","Barrie",N,N,"90",0,474,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 99","Barrie",N,N,"90",0,474,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 99","Barrie",N,N,"90",0,474,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 99","Barrie",N,N,"90",0,474,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 100","Barrie",N,N,"",1,791,"Brassard","","John","Conservative","Conservateur",Y,Y,142
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 100","Barrie",N,N,"",1,791,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 100","Barrie",N,N,"",1,791,"Olthuis","","John","Liberal","Libéral",N,N,96
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 100","Barrie",N,N,"",1,791,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 101","Barrie",N,N,"",1,543,"Brassard","","John","Conservative","Conservateur",Y,Y,152
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 101","Barrie",N,N,"",1,543,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 101","Barrie",N,N,"",1,543,"Olthuis","","John","Liberal","Libéral",N,N,71
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 101","Barrie",N,N,"",1,543,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 102","Barrie",N,N,"",1,636,"Brassard","","John","Conservative","Conservateur",Y,Y,117
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 102","Barrie",N,N,"",1,636,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 102","Barrie",N,N,"",1,636,"Olthuis","","John","Liberal","Libéral",N,N,63
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 102","Barrie",N,N,"",1,636,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 103","Barrie",N,N,"",0,579,"Brassard","","John","Conservative","Conservateur",Y,Y,95
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 103","Barrie",N,N,"",0,579,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 103","Barrie",N,N,"",0,579,"Olthuis","","John","Liberal","Libéral",N,N,55
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 103","Barrie",N,N,"",0,579,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 104","Barrie",N,N,"",2,584,"Brassard","","John","Conservative","Conservateur",Y,Y,124
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 104","Barrie",N,N,"",2,584,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 104","Barrie",N,N,"",2,584,"Olthuis","","John","Liberal","Libéral",N,N,53
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 104","Barrie",N,N,"",2,584,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 105","Barrie",N,N,"",3,552,"Brassard","","John","Conservative","Conservateur",Y,Y,130
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 105","Barrie",N,N,"",3,552,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 105","Barrie",N,N,"",3,552,"Olthuis","","John","Liberal","Libéral",N,N,69
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 105","Barrie",N,N,"",3,552,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 106","Barrie",N,N,"",2,591,"Brassard","","John","Conservative","Conservateur",Y,Y,107
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 106","Barrie",N,N,"",2,591,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 106","Barrie",N,N,"",2,591,"Olthuis","","John","Liberal","Libéral",N,N,75
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 106","Barrie",N,N,"",2,591,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 107","Barrie",N,N,"",2,618,"Brassard","","John","Conservative","Conservateur",Y,Y,129
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 107","Barrie",N,N,"",2,618,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 107","Barrie",N,N,"",2,618,"Olthuis","","John","Liberal","Libéral",N,N,93
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 107","Barrie",N,N,"",2,618,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 108","Innisfil",N,N,"",0,615,"Brassard","","John","Conservative","Conservateur",Y,Y,174
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 108","Innisfil",N,N,"",0,615,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 108","Innisfil",N,N,"",0,615,"Olthuis","","John","Liberal","Libéral",N,N,60
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 108","Innisfil",N,N,"",0,615,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 109","Innisfil",N,N,"",0,569,"Brassard","","John","Conservative","Conservateur",Y,Y,182
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 109","Innisfil",N,N,"",0,569,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 109","Innisfil",N,N,"",0,569,"Olthuis","","John","Liberal","Libéral",N,N,61
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 109","Innisfil",N,N,"",0,569,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 110","Innisfil",N,N,"",1,459,"Brassard","","John","Conservative","Conservateur",Y,Y,93
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 110","Innisfil",N,N,"",1,459,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 110","Innisfil",N,N,"",1,459,"Olthuis","","John","Liberal","Libéral",N,N,44
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 110","Innisfil",N,N,"",1,459,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 111","Innisfil",N,N,"",1,498,"Brassard","","John","Conservative","Conservateur",Y,Y,116
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 111","Innisfil",N,N,"",1,498,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 111","Innisfil",N,N,"",1,498,"Olthuis","","John","Liberal","Libéral",N,N,56
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 111","Innisfil",N,N,"",1,498,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 112","Innisfil",N,N,"",2,597,"Brassard","","John","Conservative","Conservateur",Y,Y,115
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 112","Innisfil",N,N,"",2,597,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 112","Innisfil",N,N,"",2,597,"Olthuis","","John","Liberal","Libéral",N,N,63
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 112","Innisfil",N,N,"",2,597,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 113A","Barrie",N,N,"",1,572,"Brassard","","John","Conservative","Conservateur",Y,Y,153
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 113A","Barrie",N,N,"",1,572,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 113A","Barrie",N,N,"",1,572,"Olthuis","","John","Liberal","Libéral",N,N,92
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 113A","Barrie",N,N,"",1,572,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 113B","Barrie",N,N,"",6,523,"Brassard","","John","Conservative","Conservateur",Y,Y,120
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 113B","Barrie",N,N,"",6,523,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 113B","Barrie",N,N,"",6,523,"Olthuis","","John","Liberal","Libéral",N,N,81
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 113B","Barrie",N,N,"",6,523,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 114","Barrie",N,N,"",0,644,"Brassard","","John","Conservative","Conservateur",Y,Y,144
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 114","Barrie",N,N,"",0,644,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 114","Barrie",N,N,"",0,644,"Olthuis","","John","Liberal","Libéral",N,N,114
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 114","Barrie",N,N,"",0,644,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 115A","Barrie",N,N,"",0,665,"Brassard","","John","Conservative","Conservateur",Y,Y,138
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 115A","Barrie",N,N,"",0,665,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 115A","Barrie",N,N,"",0,665,"Olthuis","","John","Liberal","Libéral",N,N,101
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 115A","Barrie",N,N,"",0,665,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 115B","Barrie",N,N,"",0,661,"Brassard","","John","Conservative","Conservateur",Y,Y,162
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 115B","Barrie",N,N,"",0,661,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 115B","Barrie",N,N,"",0,661,"Olthuis","","John","Liberal","Libéral",N,N,80
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 115B","Barrie",N,N,"",0,661,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 116","Innisfil",N,N,"",0,603,"Brassard","","John","Conservative","Conservateur",Y,Y,187
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 116","Innisfil",N,N,"",0,603,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 116","Innisfil",N,N,"",0,603,"Olthuis","","John","Liberal","Libéral",N,N,89
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 116","Innisfil",N,N,"",0,603,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 117","Innisfil",N,N,"",1,599,"Brassard","","John","Conservative","Conservateur",Y,Y,185
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 117","Innisfil",N,N,"",1,599,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 117","Innisfil",N,N,"",1,599,"Olthuis","","John","Liberal","Libéral",N,N,92
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 117","Innisfil",N,N,"",1,599,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 118","Innisfil",N,N,"",3,559,"Brassard","","John","Conservative","Conservateur",Y,Y,172
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 118","Innisfil",N,N,"",3,559,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 118","Innisfil",N,N,"",3,559,"Olthuis","","John","Liberal","Libéral",N,N,84
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 118","Innisfil",N,N,"",3,559,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 119","Innisfil",N,N,"",2,597,"Brassard","","John","Conservative","Conservateur",Y,Y,134
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 119","Innisfil",N,N,"",2,597,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 119","Innisfil",N,N,"",2,597,"Olthuis","","John","Liberal","Libéral",N,N,74
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 119","Innisfil",N,N,"",2,597,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 120","Innisfil",N,N,"",0,601,"Brassard","","John","Conservative","Conservateur",Y,Y,118
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 120","Innisfil",N,N,"",0,601,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 120","Innisfil",N,N,"",0,601,"Olthuis","","John","Liberal","Libéral",N,N,60
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 120","Innisfil",N,N,"",0,601,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 121","Innisfil",N,N,"",0,612,"Brassard","","John","Conservative","Conservateur",Y,Y,161
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 121","Innisfil",N,N,"",0,612,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 121","Innisfil",N,N,"",0,612,"Olthuis","","John","Liberal","Libéral",N,N,78
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 121","Innisfil",N,N,"",0,612,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 122","Innisfil",N,N,"",3,691,"Brassard","","John","Conservative","Conservateur",Y,Y,131
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 122","Innisfil",N,N,"",3,691,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 122","Innisfil",N,N,"",3,691,"Olthuis","","John","Liberal","Libéral",N,N,74
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 122","Innisfil",N,N,"",3,691,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 123","Innisfil",N,N,"",0,554,"Brassard","","John","Conservative","Conservateur",Y,Y,106
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 123","Innisfil",N,N,"",0,554,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 123","Innisfil",N,N,"",0,554,"Olthuis","","John","Liberal","Libéral",N,N,66
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 123","Innisfil",N,N,"",0,554,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 124","Innisfil",N,N,"",0,631,"Brassard","","John","Conservative","Conservateur",Y,Y,139
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 124","Innisfil",N,N,"",0,631,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 124","Innisfil",N,N,"",0,631,"Olthuis","","John","Liberal","Libéral",N,N,72
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 124","Innisfil",N,N,"",0,631,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 125","Innisfil",N,N,"",1,666,"Brassard","","John","Conservative","Conservateur",Y,Y,132
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 125","Innisfil",N,N,"",1,666,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 125","Innisfil",N,N,"",1,666,"Olthuis","","John","Liberal","Libéral",N,N,64
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 125","Innisfil",N,N,"",1,666,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 126","Innisfil",N,N,"",3,537,"Brassard","","John","Conservative","Conservateur",Y,Y,113
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 126","Innisfil",N,N,"",3,537,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 126","Innisfil",N,N,"",3,537,"Olthuis","","John","Liberal","Libéral",N,N,72
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 126","Innisfil",N,N,"",3,537,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 127","Innisfil",N,N,"",2,584,"Brassard","","John","Conservative","Conservateur",Y,Y,124
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 127","Innisfil",N,N,"",2,584,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 127","Innisfil",N,N,"",2,584,"Olthuis","","John","Liberal","Libéral",N,N,60
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 127","Innisfil",N,N,"",2,584,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 128","Innisfil",N,N,"",2,586,"Brassard","","John","Conservative","Conservateur",Y,Y,130
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 128","Innisfil",N,N,"",2,586,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 128","Innisfil",N,N,"",2,586,"Olthuis","","John","Liberal","Libéral",N,N,53
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 128","Innisfil",N,N,"",2,586,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 129","Innisfil",N,N,"",1,569,"Brassard","","John","Conservative","Conservateur",Y,Y,131
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 129","Innisfil",N,N,"",1,569,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 129","Innisfil",N,N,"",1,569,"Olthuis","","John","Liberal","Libéral",N,N,53
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 129","Innisfil",N,N,"",1,569,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 130","Innisfil",N,N,"",0,520,"Brassard","","John","Conservative","Conservateur",Y,Y,142
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 130","Innisfil",N,N,"",0,520,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 130","Innisfil",N,N,"",0,520,"Olthuis","","John","Liberal","Libéral",N,N,45
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 130","Innisfil",N,N,"",0,520,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 131","Innisfil",N,N,"",0,613,"Brassard","","John","Conservative","Conservateur",Y,Y,189
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 131","Innisfil",N,N,"",0,613,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 131","Innisfil",N,N,"",0,613,"Olthuis","","John","Liberal","Libéral",N,N,83
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 131","Innisfil",N,N,"",0,613,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 132","Innisfil",N,N,"",1,540,"Brassard","","John","Conservative","Conservateur",Y,Y,122
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 132","Innisfil",N,N,"",1,540,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 132","Innisfil",N,N,"",1,540,"Olthuis","","John","Liberal","Libéral",N,N,59
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 132","Innisfil",N,N,"",1,540,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 133A","Barrie",N,N,"",1,930,"Brassard","","John","Conservative","Conservateur",Y,Y,215
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 133A","Barrie",N,N,"",1,930,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 133A","Barrie",N,N,"",1,930,"Olthuis","","John","Liberal","Libéral",N,N,108
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 133A","Barrie",N,N,"",1,930,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 133B","Barrie",N,N,"",4,844,"Brassard","","John","Conservative","Conservateur",Y,Y,168
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 133B","Barrie",N,N,"",4,844,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 133B","Barrie",N,N,"",4,844,"Olthuis","","John","Liberal","Libéral",N,N,89
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 133B","Barrie",N,N,"",4,844,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 134","Barrie",N,N,"",2,680,"Brassard","","John","Conservative","Conservateur",Y,Y,132
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 134","Barrie",N,N,"",2,680,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 134","Barrie",N,N,"",2,680,"Olthuis","","John","Liberal","Libéral",N,N,61
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 134","Barrie",N,N,"",2,680,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 135","Barrie",N,N,"140",0,410,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 135","Barrie",N,N,"140",0,410,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 135","Barrie",N,N,"140",0,410,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 135","Barrie",N,N,"140",0,410,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 136","Barrie",N,N,"",0,677,"Brassard","","John","Conservative","Conservateur",Y,Y,166
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 136","Barrie",N,N,"",0,677,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 136","Barrie",N,N,"",0,677,"Olthuis","","John","Liberal","Libéral",N,N,96
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 136","Barrie",N,N,"",0,677,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 137","Barrie",N,N,"",1,612,"Brassard","","John","Conservative","Conservateur",Y,Y,115
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 137","Barrie",N,N,"",1,612,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 137","Barrie",N,N,"",1,612,"Olthuis","","John","Liberal","Libéral",N,N,69
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 137","Barrie",N,N,"",1,612,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 138","Barrie",N,N,"",1,589,"Brassard","","John","Conservative","Conservateur",Y,Y,116
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 138","Barrie",N,N,"",1,589,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 138","Barrie",N,N,"",1,589,"Olthuis","","John","Liberal","Libéral",N,N,71
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 138","Barrie",N,N,"",1,589,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 139","Barrie",N,N,"",1,629,"Brassard","","John","Conservative","Conservateur",Y,Y,165
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 139","Barrie",N,N,"",1,629,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 139","Barrie",N,N,"",1,629,"Olthuis","","John","Liberal","Libéral",N,N,105
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 139","Barrie",N,N,"",1,629,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 140","Barrie",N,N,"",2,549,"Brassard","","John","Conservative","Conservateur",Y,Y,191
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 140","Barrie",N,N,"",2,549,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 140","Barrie",N,N,"",2,549,"Olthuis","","John","Liberal","Libéral",N,N,98
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 140","Barrie",N,N,"",2,549,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 141","Innisfil",N,N,"",1,687,"Brassard","","John","Conservative","Conservateur",Y,Y,160
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 141","Innisfil",N,N,"",1,687,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 141","Innisfil",N,N,"",1,687,"Olthuis","","John","Liberal","Libéral",N,N,80
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 141","Innisfil",N,N,"",1,687,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 142","Innisfil",N,N,"",2,636,"Brassard","","John","Conservative","Conservateur",Y,Y,153
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 142","Innisfil",N,N,"",2,636,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 142","Innisfil",N,N,"",2,636,"Olthuis","","John","Liberal","Libéral",N,N,74
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 142","Innisfil",N,N,"",2,636,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 143","Innisfil",N,N,"",3,558,"Brassard","","John","Conservative","Conservateur",Y,Y,123
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 143","Innisfil",N,N,"",3,558,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 143","Innisfil",N,N,"",3,558,"Olthuis","","John","Liberal","Libéral",N,N,53
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 143","Innisfil",N,N,"",3,558,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 144","Innisfil",N,N,"",2,518,"Brassard","","John","Conservative","Conservateur",Y,Y,92
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 144","Innisfil",N,N,"",2,518,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 144","Innisfil",N,N,"",2,518,"Olthuis","","John","Liberal","Libéral",N,N,54
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 144","Innisfil",N,N,"",2,518,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 145","Innisfil",N,N,"",0,615,"Brassard","","John","Conservative","Conservateur",Y,Y,155
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 145","Innisfil",N,N,"",0,615,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 145","Innisfil",N,N,"",0,615,"Olthuis","","John","Liberal","Libéral",N,N,67
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 145","Innisfil",N,N,"",0,615,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 146A","Innisfil",N,N,"",1,581,"Brassard","","John","Conservative","Conservateur",Y,Y,144
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 146A","Innisfil",N,N,"",1,581,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 146A","Innisfil",N,N,"",1,581,"Olthuis","","John","Liberal","Libéral",N,N,56
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 146A","Innisfil",N,N,"",1,581,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 146B","Innisfil",N,N,"",0,573,"Brassard","","John","Conservative","Conservateur",Y,Y,177
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 146B","Innisfil",N,N,"",0,573,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 146B","Innisfil",N,N,"",0,573,"Olthuis","","John","Liberal","Libéral",N,N,61
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 146B","Innisfil",N,N,"",0,573,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 147","Innisfil",N,N,"",2,597,"Brassard","","John","Conservative","Conservateur",Y,Y,180
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 147","Innisfil",N,N,"",2,597,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 147","Innisfil",N,N,"",2,597,"Olthuis","","John","Liberal","Libéral",N,N,60
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 147","Innisfil",N,N,"",2,597,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 148","Innisfil",N,N,"",0,557,"Brassard","","John","Conservative","Conservateur",Y,Y,177
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 148","Innisfil",N,N,"",0,557,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 148","Innisfil",N,N,"",0,557,"Olthuis","","John","Liberal","Libéral",N,N,64
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 148","Innisfil",N,N,"",0,557,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 149","Innisfil",N,N,"",1,589,"Brassard","","John","Conservative","Conservateur",Y,Y,172
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 149","Innisfil",N,N,"",1,589,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 149","Innisfil",N,N,"",1,589,"Olthuis","","John","Liberal","Libéral",N,N,71
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 149","Innisfil",N,N,"",1,589,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 150","Innisfil",N,N,"",1,633,"Brassard","","John","Conservative","Conservateur",Y,Y,136
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 150","Innisfil",N,N,"",1,633,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 150","Innisfil",N,N,"",1,633,"Olthuis","","John","Liberal","Libéral",N,N,73
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 150","Innisfil",N,N,"",1,633,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 151","Innisfil",N,N,"",0,523,"Brassard","","John","Conservative","Conservateur",Y,Y,126
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 151","Innisfil",N,N,"",0,523,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 151","Innisfil",N,N,"",0,523,"Olthuis","","John","Liberal","Libéral",N,N,49
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 151","Innisfil",N,N,"",0,523,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 152","Innisfil",N,N,"",0,574,"Brassard","","John","Conservative","Conservateur",Y,Y,160
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 152","Innisfil",N,N,"",0,574,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 152","Innisfil",N,N,"",0,574,"Olthuis","","John","Liberal","Libéral",N,N,50
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 152","Innisfil",N,N,"",0,574,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 153","Innisfil",N,N,"",0,587,"Brassard","","John","Conservative","Conservateur",Y,Y,175
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 153","Innisfil",N,N,"",0,587,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 153","Innisfil",N,N,"",0,587,"Olthuis","","John","Liberal","Libéral",N,N,63
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 153","Innisfil",N,N,"",0,587,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 154","Innisfil",N,N,"",0,563,"Brassard","","John","Conservative","Conservateur",Y,Y,128
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 154","Innisfil",N,N,"",0,563,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 154","Innisfil",N,N,"",0,563,"Olthuis","","John","Liberal","Libéral",N,N,43
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 154","Innisfil",N,N,"",0,563,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 155","Innisfil",N,N,"",5,742,"Brassard","","John","Conservative","Conservateur",Y,Y,161
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 155","Innisfil",N,N,"",5,742,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 155","Innisfil",N,N,"",5,742,"Olthuis","","John","Liberal","Libéral",N,N,75
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 155","Innisfil",N,N,"",5,742,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 156","Innisfil",N,N,"",3,727,"Brassard","","John","Conservative","Conservateur",Y,Y,165
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 156","Innisfil",N,N,"",3,727,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 156","Innisfil",N,N,"",3,727,"Olthuis","","John","Liberal","Libéral",N,N,82
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 156","Innisfil",N,N,"",3,727,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 157","Innisfil",N,N,"",1,683,"Brassard","","John","Conservative","Conservateur",Y,Y,177
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 157","Innisfil",N,N,"",1,683,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 157","Innisfil",N,N,"",1,683,"Olthuis","","John","Liberal","Libéral",N,N,91
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 157","Innisfil",N,N,"",1,683,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 158","Innisfil",N,N,"",0,539,"Brassard","","John","Conservative","Conservateur",Y,Y,161
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 158","Innisfil",N,N,"",0,539,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 158","Innisfil",N,N,"",0,539,"Olthuis","","John","Liberal","Libéral",N,N,39
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 158","Innisfil",N,N,"",0,539,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 159","Innisfil",N,N,"162",0,563,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 159","Innisfil",N,N,"162",0,563,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 159","Innisfil",N,N,"162",0,563,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 159","Innisfil",N,N,"162",0,563,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 160","Innisfil",N,N,"",0,563,"Brassard","","John","Conservative","Conservateur",Y,Y,133
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 160","Innisfil",N,N,"",0,563,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 160","Innisfil",N,N,"",0,563,"Olthuis","","John","Liberal","Libéral",N,N,38
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 160","Innisfil",N,N,"",0,563,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 161","Innisfil",N,N,"",0,470,"Brassard","","John","Conservative","Conservateur",Y,Y,109
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 161","Innisfil",N,N,"",0,470,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 161","Innisfil",N,N,"",0,470,"Olthuis","","John","Liberal","Libéral",N,N,50
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 161","Innisfil",N,N,"",0,470,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 162","Innisfil",N,N,"",2,581,"Brassard","","John","Conservative","Conservateur",Y,Y,240
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 162","Innisfil",N,N,"",2,581,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 162","Innisfil",N,N,"",2,581,"Olthuis","","John","Liberal","Libéral",N,N,82
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 162","Innisfil",N,N,"",2,581,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 163","Innisfil",N,N,"",0,609,"Brassard","","John","Conservative","Conservateur",Y,Y,176
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 163","Innisfil",N,N,"",0,609,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 163","Innisfil",N,N,"",0,609,"Olthuis","","John","Liberal","Libéral",N,N,96
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 163","Innisfil",N,N,"",0,609,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 164","Innisfil",N,N,"",1,551,"Brassard","","John","Conservative","Conservateur",Y,Y,162
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 164","Innisfil",N,N,"",1,551,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 164","Innisfil",N,N,"",1,551,"Olthuis","","John","Liberal","Libéral",N,N,83
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 164","Innisfil",N,N,"",1,551,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,4
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 165","Innisfil",N,N,"",0,575,"Brassard","","John","Conservative","Conservateur",Y,Y,164
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 165","Innisfil",N,N,"",0,575,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 165","Innisfil",N,N,"",0,575,"Olthuis","","John","Liberal","Libéral",N,N,80
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 165","Innisfil",N,N,"",0,575,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 166","Innisfil",N,N,"",2,520,"Brassard","","John","Conservative","Conservateur",Y,Y,121
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 166","Innisfil",N,N,"",2,520,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 166","Innisfil",N,N,"",2,520,"Olthuis","","John","Liberal","Libéral",N,N,78
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 166","Innisfil",N,N,"",2,520,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 500","Mobile poll/Bureau itinérant",N,N,"504",0,40,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 500","Mobile poll/Bureau itinérant",N,N,"504",0,40,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 500","Mobile poll/Bureau itinérant",N,N,"504",0,40,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 500","Mobile poll/Bureau itinérant",N,N,"504",0,40,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 501","Mobile poll/Bureau itinérant",N,N,"",0,123,"Brassard","","John","Conservative","Conservateur",Y,Y,39
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 501","Mobile poll/Bureau itinérant",N,N,"",0,123,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 501","Mobile poll/Bureau itinérant",N,N,"",0,123,"Olthuis","","John","Liberal","Libéral",N,N,57
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 501","Mobile poll/Bureau itinérant",N,N,"",0,123,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 502","Mobile poll/Bureau itinérant",N,N,"505",0,45,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 502","Mobile poll/Bureau itinérant",N,N,"505",0,45,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 502","Mobile poll/Bureau itinérant",N,N,"505",0,45,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 502","Mobile poll/Bureau itinérant",N,N,"505",0,45,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 503","Mobile poll/Bureau itinérant",N,N,"",2,161,"Brassard","","John","Conservative","Conservateur",Y,Y,65
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 503","Mobile poll/Bureau itinérant",N,N,"",2,161,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 503","Mobile poll/Bureau itinérant",N,N,"",2,161,"Olthuis","","John","Liberal","Libéral",N,N,105
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 503","Mobile poll/Bureau itinérant",N,N,"",2,161,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,1
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 504","Mobile poll/Bureau itinérant",N,N,"",3,110,"Brassard","","John","Conservative","Conservateur",Y,Y,21
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 504","Mobile poll/Bureau itinérant",N,N,"",3,110,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 504","Mobile poll/Bureau itinérant",N,N,"",3,110,"Olthuis","","John","Liberal","Libéral",N,N,40
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 504","Mobile poll/Bureau itinérant",N,N,"",3,110,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,5
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 505","Mobile poll/Bureau itinérant",N,N,"",4,73,"Brassard","","John","Conservative","Conservateur",Y,Y,25
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 505","Mobile poll/Bureau itinérant",N,N,"",4,73,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 505","Mobile poll/Bureau itinérant",N,N,"",4,73,"Olthuis","","John","Liberal","Libéral",N,N,33
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 505","Mobile poll/Bureau itinérant",N,N,"",4,73,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,2
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 506","Mobile poll/Bureau itinérant",N,N,"503",0,114,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 506","Mobile poll/Bureau itinérant",N,N,"503",0,114,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 506","Mobile poll/Bureau itinérant",N,N,"503",0,114,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 506","Mobile poll/Bureau itinérant",N,N,"503",0,114,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,81,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,81,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,81,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,81,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 508","Mobile poll/Bureau itinérant",N,N,"",0,131,"Brassard","","John","Conservative","Conservateur",Y,Y,43
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 508","Mobile poll/Bureau itinérant",N,N,"",0,131,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 508","Mobile poll/Bureau itinérant",N,N,"",0,131,"Olthuis","","John","Liberal","Libéral",N,N,35
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 508","Mobile poll/Bureau itinérant",N,N,"",0,131,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,77,"Brassard","","John","Conservative","Conservateur",Y,Y,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,77,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,77,"Olthuis","","John","Liberal","Libéral",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,77,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,0
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 600","Innisfil",N,N,"",6,0,"Brassard","","John","Conservative","Conservateur",Y,Y,1233
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 600","Innisfil",N,N,"",6,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 600","Innisfil",N,N,"",6,0,"Olthuis","","John","Liberal","Libéral",N,N,899
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 600","Innisfil",N,N,"",6,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,21
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 601","Innisfil",N,N,"",0,0,"Brassard","","John","Conservative","Conservateur",Y,Y,753
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 601","Innisfil",N,N,"",0,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 601","Innisfil",N,N,"",0,0,"Olthuis","","John","Liberal","Libéral",N,N,585
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 601","Innisfil",N,N,"",0,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,6
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 602","Barrie",N,N,"",1,0,"Brassard","","John","Conservative","Conservateur",Y,Y,657
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 602","Barrie",N,N,"",1,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 602","Barrie",N,N,"",1,0,"Olthuis","","John","Liberal","Libéral",N,N,646
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 602","Barrie",N,N,"",1,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 603","Barrie",N,N,"",9,0,"Brassard","","John","Conservative","Conservateur",Y,Y,877
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 603","Barrie",N,N,"",9,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 603","Barrie",N,N,"",9,0,"Olthuis","","John","Liberal","Libéral",N,N,814
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 603","Barrie",N,N,"",9,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 604","Barrie",N,N,"",1,0,"Brassard","","John","Conservative","Conservateur",Y,Y,638
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 604","Barrie",N,N,"",1,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 604","Barrie",N,N,"",1,0,"Olthuis","","John","Liberal","Libéral",N,N,500
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 604","Barrie",N,N,"",1,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,3
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 605","Barrie",N,N,"",3,0,"Brassard","","John","Conservative","Conservateur",Y,Y,928
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 605","Barrie",N,N,"",3,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 605","Barrie",N,N,"",3,0,"Olthuis","","John","Liberal","Libéral",N,N,637
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 605","Barrie",N,N,"",3,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 606","Barrie",N,N,"",6,0,"Brassard","","John","Conservative","Conservateur",Y,Y,622
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 606","Barrie",N,N,"",6,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 606","Barrie",N,N,"",6,0,"Olthuis","","John","Liberal","Libéral",N,N,754
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 606","Barrie",N,N,"",6,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,13
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 607","Barrie",N,N,"",2,0,"Brassard","","John","Conservative","Conservateur",Y,Y,643
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 607","Barrie",N,N,"",2,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 607","Barrie",N,N,"",2,0,"Olthuis","","John","Liberal","Libéral",N,N,660
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 607","Barrie",N,N,"",2,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,7
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 608","Barrie",N,N,"",4,0,"Brassard","","John","Conservative","Conservateur",Y,Y,691
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 608","Barrie",N,N,"",4,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 608","Barrie",N,N,"",4,0,"Olthuis","","John","Liberal","Libéral",N,N,632
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 608","Barrie",N,N,"",4,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,10
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 609","Barrie",N,N,"",11,0,"Brassard","","John","Conservative","Conservateur",Y,Y,1056
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 609","Barrie",N,N,"",11,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 609","Barrie",N,N,"",11,0,"Olthuis","","John","Liberal","Libéral",N,N,740
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 609","Barrie",N,N,"",11,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,14
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 610","Barrie",N,N,"",10,0,"Brassard","","John","Conservative","Conservateur",Y,Y,813
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 610","Barrie",N,N,"",10,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 610","Barrie",N,N,"",10,0,"Olthuis","","John","Liberal","Libéral",N,N,598
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 610","Barrie",N,N,"",10,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,17
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 611","Barrie",N,N,"",6,0,"Brassard","","John","Conservative","Conservateur",Y,Y,707
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 611","Barrie",N,N,"",6,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 611","Barrie",N,N,"",6,0,"Olthuis","","John","Liberal","Libéral",N,N,612
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 611","Barrie",N,N,"",6,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 612","Innisfil",N,N,"",0,0,"Brassard","","John","Conservative","Conservateur",Y,Y,803
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 612","Innisfil",N,N,"",0,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 612","Innisfil",N,N,"",0,0,"Olthuis","","John","Liberal","Libéral",N,N,450
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 612","Innisfil",N,N,"",0,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,9
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 613","Innisfil",N,N,"",10,0,"Brassard","","John","Conservative","Conservateur",Y,Y,694
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 613","Innisfil",N,N,"",10,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 613","Innisfil",N,N,"",10,0,"Olthuis","","John","Liberal","Libéral",N,N,373
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 613","Innisfil",N,N,"",10,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,13
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 614","Innisfil",N,N,"",11,0,"Brassard","","John","Conservative","Conservateur",Y,Y,847
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 614","Innisfil",N,N,"",11,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 614","Innisfil",N,N,"",11,0,"Olthuis","","John","Liberal","Libéral",N,N,498
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 614","Innisfil",N,N,"",11,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,16
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 615","Innisfil",N,N,"",4,0,"Brassard","","John","Conservative","Conservateur",Y,Y,1030
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 615","Innisfil",N,N,"",4,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 615","Innisfil",N,N,"",4,0,"Olthuis","","John","Liberal","Libéral",N,N,496
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 615","Innisfil",N,N,"",4,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,8
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 616","Innisfil",N,N,"",10,0,"Brassard","","John","Conservative","Conservateur",Y,Y,1037
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 616","Innisfil",N,N,"",10,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 616","Innisfil",N,N,"",10,0,"Olthuis","","John","Liberal","Libéral",N,N,489
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 616","Innisfil",N,N,"",10,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,12
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 617","Innisfil",N,N,"",1,0,"Brassard","","John","Conservative","Conservateur",Y,Y,500
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 617","Innisfil",N,N,"",1,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 617","Innisfil",N,N,"",1,0,"Olthuis","","John","Liberal","Libéral",N,N,328
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," 617","Innisfil",N,N,"",1,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,15
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",60,231,"Brassard","","John","Conservative","Conservateur",Y,Y,357
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",60,231,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",60,231,"Olthuis","","John","Liberal","Libéral",N,N,342
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",60,231,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,11
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",65,0,"Brassard","","John","Conservative","Conservateur",Y,Y,1976
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",65,0,"Harrigan","","Andrew","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",65,0,"Olthuis","","John","Liberal","Libéral",N,N,1625
+35004,"Barrie South--Innisfil","Barrie-Sud--Innisfil"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",65,0,"Sampson","","Mark","People's Party - PPC","Parti populaire - PPC",N,N,26

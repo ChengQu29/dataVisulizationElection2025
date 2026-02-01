@@ -1,0 +1,821 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+35078,"Oshawa","Oshawa"," 1","Oshawa",N,N,"",5,312,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,82
+35078,"Oshawa","Oshawa"," 1","Oshawa",N,N,"",5,312,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35078,"Oshawa","Oshawa"," 1","Oshawa",N,N,"",5,312,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 1","Oshawa",N,N,"",5,312,"Ransom","","Isaac","Liberal","Libéral",N,N,131
+35078,"Oshawa","Oshawa"," 2","Oshawa",N,N,"",4,214,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,54
+35078,"Oshawa","Oshawa"," 2","Oshawa",N,N,"",4,214,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 2","Oshawa",N,N,"",4,214,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 2","Oshawa",N,N,"",4,214,"Ransom","","Isaac","Liberal","Libéral",N,N,105
+35078,"Oshawa","Oshawa"," 3","Oshawa",N,N,"",1,606,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,143
+35078,"Oshawa","Oshawa"," 3","Oshawa",N,N,"",1,606,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35078,"Oshawa","Oshawa"," 3","Oshawa",N,N,"",1,606,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 3","Oshawa",N,N,"",1,606,"Ransom","","Isaac","Liberal","Libéral",N,N,95
+35078,"Oshawa","Oshawa"," 4","Oshawa",N,N,"",0,626,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,149
+35078,"Oshawa","Oshawa"," 4","Oshawa",N,N,"",0,626,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 4","Oshawa",N,N,"",0,626,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 4","Oshawa",N,N,"",0,626,"Ransom","","Isaac","Liberal","Libéral",N,N,126
+35078,"Oshawa","Oshawa"," 5","Oshawa",N,N,"",4,619,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,135
+35078,"Oshawa","Oshawa"," 5","Oshawa",N,N,"",4,619,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35078,"Oshawa","Oshawa"," 5","Oshawa",N,N,"",4,619,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 5","Oshawa",N,N,"",4,619,"Ransom","","Isaac","Liberal","Libéral",N,N,103
+35078,"Oshawa","Oshawa"," 6","Oshawa",N,N,"",2,549,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,125
+35078,"Oshawa","Oshawa"," 6","Oshawa",N,N,"",2,549,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35078,"Oshawa","Oshawa"," 6","Oshawa",N,N,"",2,549,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 6","Oshawa",N,N,"",2,549,"Ransom","","Isaac","Liberal","Libéral",N,N,136
+35078,"Oshawa","Oshawa"," 7","Oshawa",N,N,"",1,582,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,117
+35078,"Oshawa","Oshawa"," 7","Oshawa",N,N,"",1,582,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35078,"Oshawa","Oshawa"," 7","Oshawa",N,N,"",1,582,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 7","Oshawa",N,N,"",1,582,"Ransom","","Isaac","Liberal","Libéral",N,N,100
+35078,"Oshawa","Oshawa"," 8","Oshawa",N,N,"",1,580,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,141
+35078,"Oshawa","Oshawa"," 8","Oshawa",N,N,"",1,580,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35078,"Oshawa","Oshawa"," 8","Oshawa",N,N,"",1,580,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 8","Oshawa",N,N,"",1,580,"Ransom","","Isaac","Liberal","Libéral",N,N,112
+35078,"Oshawa","Oshawa"," 9","Oshawa",N,N,"",3,531,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,91
+35078,"Oshawa","Oshawa"," 9","Oshawa",N,N,"",3,531,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35078,"Oshawa","Oshawa"," 9","Oshawa",N,N,"",3,531,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 9","Oshawa",N,N,"",3,531,"Ransom","","Isaac","Liberal","Libéral",N,N,101
+35078,"Oshawa","Oshawa"," 10","Oshawa",N,N,"",2,599,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,106
+35078,"Oshawa","Oshawa"," 10","Oshawa",N,N,"",2,599,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35078,"Oshawa","Oshawa"," 10","Oshawa",N,N,"",2,599,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 10","Oshawa",N,N,"",2,599,"Ransom","","Isaac","Liberal","Libéral",N,N,101
+35078,"Oshawa","Oshawa"," 11","Oshawa",N,N,"",2,564,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,89
+35078,"Oshawa","Oshawa"," 11","Oshawa",N,N,"",2,564,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35078,"Oshawa","Oshawa"," 11","Oshawa",N,N,"",2,564,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 11","Oshawa",N,N,"",2,564,"Ransom","","Isaac","Liberal","Libéral",N,N,79
+35078,"Oshawa","Oshawa"," 12","Oshawa",N,N,"",5,547,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,99
+35078,"Oshawa","Oshawa"," 12","Oshawa",N,N,"",5,547,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35078,"Oshawa","Oshawa"," 12","Oshawa",N,N,"",5,547,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 12","Oshawa",N,N,"",5,547,"Ransom","","Isaac","Liberal","Libéral",N,N,119
+35078,"Oshawa","Oshawa"," 13","Oshawa",N,N,"",5,556,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,114
+35078,"Oshawa","Oshawa"," 13","Oshawa",N,N,"",5,556,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35078,"Oshawa","Oshawa"," 13","Oshawa",N,N,"",5,556,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 13","Oshawa",N,N,"",5,556,"Ransom","","Isaac","Liberal","Libéral",N,N,135
+35078,"Oshawa","Oshawa"," 14","Oshawa",N,N,"",0,606,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,93
+35078,"Oshawa","Oshawa"," 14","Oshawa",N,N,"",0,606,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 14","Oshawa",N,N,"",0,606,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 14","Oshawa",N,N,"",0,606,"Ransom","","Isaac","Liberal","Libéral",N,N,67
+35078,"Oshawa","Oshawa"," 15","Oshawa",N,N,"",0,632,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,131
+35078,"Oshawa","Oshawa"," 15","Oshawa",N,N,"",0,632,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35078,"Oshawa","Oshawa"," 15","Oshawa",N,N,"",0,632,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 15","Oshawa",N,N,"",0,632,"Ransom","","Isaac","Liberal","Libéral",N,N,111
+35078,"Oshawa","Oshawa"," 16","Oshawa",N,N,"",1,601,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,120
+35078,"Oshawa","Oshawa"," 16","Oshawa",N,N,"",1,601,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35078,"Oshawa","Oshawa"," 16","Oshawa",N,N,"",1,601,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 16","Oshawa",N,N,"",1,601,"Ransom","","Isaac","Liberal","Libéral",N,N,131
+35078,"Oshawa","Oshawa"," 17","Oshawa",N,N,"",0,603,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,160
+35078,"Oshawa","Oshawa"," 17","Oshawa",N,N,"",0,603,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35078,"Oshawa","Oshawa"," 17","Oshawa",N,N,"",0,603,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 17","Oshawa",N,N,"",0,603,"Ransom","","Isaac","Liberal","Libéral",N,N,106
+35078,"Oshawa","Oshawa"," 18","Oshawa",N,N,"",1,561,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,109
+35078,"Oshawa","Oshawa"," 18","Oshawa",N,N,"",1,561,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35078,"Oshawa","Oshawa"," 18","Oshawa",N,N,"",1,561,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 18","Oshawa",N,N,"",1,561,"Ransom","","Isaac","Liberal","Libéral",N,N,63
+35078,"Oshawa","Oshawa"," 19","Oshawa",N,N,"",1,560,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,96
+35078,"Oshawa","Oshawa"," 19","Oshawa",N,N,"",1,560,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35078,"Oshawa","Oshawa"," 19","Oshawa",N,N,"",1,560,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 19","Oshawa",N,N,"",1,560,"Ransom","","Isaac","Liberal","Libéral",N,N,81
+35078,"Oshawa","Oshawa"," 20","Oshawa",N,N,"",1,546,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,116
+35078,"Oshawa","Oshawa"," 20","Oshawa",N,N,"",1,546,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 20","Oshawa",N,N,"",1,546,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 20","Oshawa",N,N,"",1,546,"Ransom","","Isaac","Liberal","Libéral",N,N,97
+35078,"Oshawa","Oshawa"," 21","Oshawa",N,N,"",1,566,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,91
+35078,"Oshawa","Oshawa"," 21","Oshawa",N,N,"",1,566,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35078,"Oshawa","Oshawa"," 21","Oshawa",N,N,"",1,566,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 21","Oshawa",N,N,"",1,566,"Ransom","","Isaac","Liberal","Libéral",N,N,76
+35078,"Oshawa","Oshawa"," 22","Oshawa",N,N,"",0,611,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,121
+35078,"Oshawa","Oshawa"," 22","Oshawa",N,N,"",0,611,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35078,"Oshawa","Oshawa"," 22","Oshawa",N,N,"",0,611,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 22","Oshawa",N,N,"",0,611,"Ransom","","Isaac","Liberal","Libéral",N,N,104
+35078,"Oshawa","Oshawa"," 23","Oshawa",N,N,"",0,563,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,109
+35078,"Oshawa","Oshawa"," 23","Oshawa",N,N,"",0,563,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35078,"Oshawa","Oshawa"," 23","Oshawa",N,N,"",0,563,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 23","Oshawa",N,N,"",0,563,"Ransom","","Isaac","Liberal","Libéral",N,N,94
+35078,"Oshawa","Oshawa"," 24","Oshawa",N,N,"",1,689,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,99
+35078,"Oshawa","Oshawa"," 24","Oshawa",N,N,"",1,689,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35078,"Oshawa","Oshawa"," 24","Oshawa",N,N,"",1,689,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 24","Oshawa",N,N,"",1,689,"Ransom","","Isaac","Liberal","Libéral",N,N,93
+35078,"Oshawa","Oshawa"," 25","Oshawa",N,N,"",0,694,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,124
+35078,"Oshawa","Oshawa"," 25","Oshawa",N,N,"",0,694,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35078,"Oshawa","Oshawa"," 25","Oshawa",N,N,"",0,694,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 25","Oshawa",N,N,"",0,694,"Ransom","","Isaac","Liberal","Libéral",N,N,113
+35078,"Oshawa","Oshawa"," 26","Oshawa",N,N,"",1,514,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,74
+35078,"Oshawa","Oshawa"," 26","Oshawa",N,N,"",1,514,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35078,"Oshawa","Oshawa"," 26","Oshawa",N,N,"",1,514,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 26","Oshawa",N,N,"",1,514,"Ransom","","Isaac","Liberal","Libéral",N,N,82
+35078,"Oshawa","Oshawa"," 27","Oshawa",N,N,"",0,597,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,100
+35078,"Oshawa","Oshawa"," 27","Oshawa",N,N,"",0,597,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35078,"Oshawa","Oshawa"," 27","Oshawa",N,N,"",0,597,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 27","Oshawa",N,N,"",0,597,"Ransom","","Isaac","Liberal","Libéral",N,N,93
+35078,"Oshawa","Oshawa"," 28","Oshawa",N,N,"",2,575,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,87
+35078,"Oshawa","Oshawa"," 28","Oshawa",N,N,"",2,575,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35078,"Oshawa","Oshawa"," 28","Oshawa",N,N,"",2,575,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 28","Oshawa",N,N,"",2,575,"Ransom","","Isaac","Liberal","Libéral",N,N,90
+35078,"Oshawa","Oshawa"," 29","Oshawa",N,N,"",3,571,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,93
+35078,"Oshawa","Oshawa"," 29","Oshawa",N,N,"",3,571,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35078,"Oshawa","Oshawa"," 29","Oshawa",N,N,"",3,571,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 29","Oshawa",N,N,"",3,571,"Ransom","","Isaac","Liberal","Libéral",N,N,68
+35078,"Oshawa","Oshawa"," 30","Oshawa",N,N,"",1,503,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,82
+35078,"Oshawa","Oshawa"," 30","Oshawa",N,N,"",1,503,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35078,"Oshawa","Oshawa"," 30","Oshawa",N,N,"",1,503,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 30","Oshawa",N,N,"",1,503,"Ransom","","Isaac","Liberal","Libéral",N,N,78
+35078,"Oshawa","Oshawa"," 31","Oshawa",N,N,"",0,588,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,123
+35078,"Oshawa","Oshawa"," 31","Oshawa",N,N,"",0,588,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35078,"Oshawa","Oshawa"," 31","Oshawa",N,N,"",0,588,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 31","Oshawa",N,N,"",0,588,"Ransom","","Isaac","Liberal","Libéral",N,N,99
+35078,"Oshawa","Oshawa"," 32","Oshawa",N,N,"",0,790,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,83
+35078,"Oshawa","Oshawa"," 32","Oshawa",N,N,"",0,790,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35078,"Oshawa","Oshawa"," 32","Oshawa",N,N,"",0,790,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 32","Oshawa",N,N,"",0,790,"Ransom","","Isaac","Liberal","Libéral",N,N,92
+35078,"Oshawa","Oshawa"," 33","Oshawa",N,N,"",0,696,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,82
+35078,"Oshawa","Oshawa"," 33","Oshawa",N,N,"",0,696,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35078,"Oshawa","Oshawa"," 33","Oshawa",N,N,"",0,696,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 33","Oshawa",N,N,"",0,696,"Ransom","","Isaac","Liberal","Libéral",N,N,89
+35078,"Oshawa","Oshawa"," 34","Oshawa",N,N,"",1,833,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,155
+35078,"Oshawa","Oshawa"," 34","Oshawa",N,N,"",1,833,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 34","Oshawa",N,N,"",1,833,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 34","Oshawa",N,N,"",1,833,"Ransom","","Isaac","Liberal","Libéral",N,N,108
+35078,"Oshawa","Oshawa"," 35","Oshawa",N,N,"",3,770,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,109
+35078,"Oshawa","Oshawa"," 35","Oshawa",N,N,"",3,770,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35078,"Oshawa","Oshawa"," 35","Oshawa",N,N,"",3,770,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 35","Oshawa",N,N,"",3,770,"Ransom","","Isaac","Liberal","Libéral",N,N,97
+35078,"Oshawa","Oshawa"," 36","Oshawa",N,N,"",5,812,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,132
+35078,"Oshawa","Oshawa"," 36","Oshawa",N,N,"",5,812,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35078,"Oshawa","Oshawa"," 36","Oshawa",N,N,"",5,812,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 36","Oshawa",N,N,"",5,812,"Ransom","","Isaac","Liberal","Libéral",N,N,96
+35078,"Oshawa","Oshawa"," 37","Oshawa",N,N,"",3,884,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,158
+35078,"Oshawa","Oshawa"," 37","Oshawa",N,N,"",3,884,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35078,"Oshawa","Oshawa"," 37","Oshawa",N,N,"",3,884,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 37","Oshawa",N,N,"",3,884,"Ransom","","Isaac","Liberal","Libéral",N,N,122
+35078,"Oshawa","Oshawa"," 38","Oshawa",N,N,"",1,607,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,102
+35078,"Oshawa","Oshawa"," 38","Oshawa",N,N,"",1,607,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 38","Oshawa",N,N,"",1,607,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 38","Oshawa",N,N,"",1,607,"Ransom","","Isaac","Liberal","Libéral",N,N,64
+35078,"Oshawa","Oshawa"," 39","Oshawa",N,N,"",1,595,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,104
+35078,"Oshawa","Oshawa"," 39","Oshawa",N,N,"",1,595,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35078,"Oshawa","Oshawa"," 39","Oshawa",N,N,"",1,595,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 39","Oshawa",N,N,"",1,595,"Ransom","","Isaac","Liberal","Libéral",N,N,83
+35078,"Oshawa","Oshawa"," 40","Oshawa",N,N,"",1,705,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,54
+35078,"Oshawa","Oshawa"," 40","Oshawa",N,N,"",1,705,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35078,"Oshawa","Oshawa"," 40","Oshawa",N,N,"",1,705,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 40","Oshawa",N,N,"",1,705,"Ransom","","Isaac","Liberal","Libéral",N,N,82
+35078,"Oshawa","Oshawa"," 41","Oshawa",N,N,"",0,595,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,118
+35078,"Oshawa","Oshawa"," 41","Oshawa",N,N,"",0,595,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 41","Oshawa",N,N,"",0,595,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 41","Oshawa",N,N,"",0,595,"Ransom","","Isaac","Liberal","Libéral",N,N,110
+35078,"Oshawa","Oshawa"," 42","Oshawa",N,N,"",0,536,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,98
+35078,"Oshawa","Oshawa"," 42","Oshawa",N,N,"",0,536,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35078,"Oshawa","Oshawa"," 42","Oshawa",N,N,"",0,536,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 42","Oshawa",N,N,"",0,536,"Ransom","","Isaac","Liberal","Libéral",N,N,99
+35078,"Oshawa","Oshawa"," 43","Oshawa",N,N,"",2,631,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,103
+35078,"Oshawa","Oshawa"," 43","Oshawa",N,N,"",2,631,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35078,"Oshawa","Oshawa"," 43","Oshawa",N,N,"",2,631,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 43","Oshawa",N,N,"",2,631,"Ransom","","Isaac","Liberal","Libéral",N,N,81
+35078,"Oshawa","Oshawa"," 44","Oshawa",N,N,"",1,619,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,97
+35078,"Oshawa","Oshawa"," 44","Oshawa",N,N,"",1,619,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35078,"Oshawa","Oshawa"," 44","Oshawa",N,N,"",1,619,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 44","Oshawa",N,N,"",1,619,"Ransom","","Isaac","Liberal","Libéral",N,N,95
+35078,"Oshawa","Oshawa"," 45","Oshawa",N,N,"",0,579,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,119
+35078,"Oshawa","Oshawa"," 45","Oshawa",N,N,"",0,579,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35078,"Oshawa","Oshawa"," 45","Oshawa",N,N,"",0,579,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 45","Oshawa",N,N,"",0,579,"Ransom","","Isaac","Liberal","Libéral",N,N,122
+35078,"Oshawa","Oshawa"," 46","Oshawa",N,N,"",1,701,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,86
+35078,"Oshawa","Oshawa"," 46","Oshawa",N,N,"",1,701,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 46","Oshawa",N,N,"",1,701,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 46","Oshawa",N,N,"",1,701,"Ransom","","Isaac","Liberal","Libéral",N,N,94
+35078,"Oshawa","Oshawa"," 47","Oshawa",N,N,"",0,630,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,181
+35078,"Oshawa","Oshawa"," 47","Oshawa",N,N,"",0,630,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 47","Oshawa",N,N,"",0,630,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 47","Oshawa",N,N,"",0,630,"Ransom","","Isaac","Liberal","Libéral",N,N,126
+35078,"Oshawa","Oshawa"," 48","Oshawa",N,N,"",0,587,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,127
+35078,"Oshawa","Oshawa"," 48","Oshawa",N,N,"",0,587,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35078,"Oshawa","Oshawa"," 48","Oshawa",N,N,"",0,587,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 48","Oshawa",N,N,"",0,587,"Ransom","","Isaac","Liberal","Libéral",N,N,92
+35078,"Oshawa","Oshawa"," 49","Oshawa",N,N,"",2,568,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,137
+35078,"Oshawa","Oshawa"," 49","Oshawa",N,N,"",2,568,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35078,"Oshawa","Oshawa"," 49","Oshawa",N,N,"",2,568,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,7
+35078,"Oshawa","Oshawa"," 49","Oshawa",N,N,"",2,568,"Ransom","","Isaac","Liberal","Libéral",N,N,103
+35078,"Oshawa","Oshawa"," 50","Oshawa",N,N,"",2,622,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,170
+35078,"Oshawa","Oshawa"," 50","Oshawa",N,N,"",2,622,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35078,"Oshawa","Oshawa"," 50","Oshawa",N,N,"",2,622,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,7
+35078,"Oshawa","Oshawa"," 50","Oshawa",N,N,"",2,622,"Ransom","","Isaac","Liberal","Libéral",N,N,115
+35078,"Oshawa","Oshawa"," 51","Oshawa",N,N,"",2,612,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,147
+35078,"Oshawa","Oshawa"," 51","Oshawa",N,N,"",2,612,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35078,"Oshawa","Oshawa"," 51","Oshawa",N,N,"",2,612,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,8
+35078,"Oshawa","Oshawa"," 51","Oshawa",N,N,"",2,612,"Ransom","","Isaac","Liberal","Libéral",N,N,134
+35078,"Oshawa","Oshawa"," 52","Oshawa",N,N,"",2,611,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,131
+35078,"Oshawa","Oshawa"," 52","Oshawa",N,N,"",2,611,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35078,"Oshawa","Oshawa"," 52","Oshawa",N,N,"",2,611,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 52","Oshawa",N,N,"",2,611,"Ransom","","Isaac","Liberal","Libéral",N,N,95
+35078,"Oshawa","Oshawa"," 53","Oshawa",N,N,"",3,599,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,136
+35078,"Oshawa","Oshawa"," 53","Oshawa",N,N,"",3,599,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35078,"Oshawa","Oshawa"," 53","Oshawa",N,N,"",3,599,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 53","Oshawa",N,N,"",3,599,"Ransom","","Isaac","Liberal","Libéral",N,N,86
+35078,"Oshawa","Oshawa"," 54","Oshawa",N,N,"",0,556,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,118
+35078,"Oshawa","Oshawa"," 54","Oshawa",N,N,"",0,556,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 54","Oshawa",N,N,"",0,556,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 54","Oshawa",N,N,"",0,556,"Ransom","","Isaac","Liberal","Libéral",N,N,106
+35078,"Oshawa","Oshawa"," 55","Oshawa",N,N,"",0,591,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,122
+35078,"Oshawa","Oshawa"," 55","Oshawa",N,N,"",0,591,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35078,"Oshawa","Oshawa"," 55","Oshawa",N,N,"",0,591,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 55","Oshawa",N,N,"",0,591,"Ransom","","Isaac","Liberal","Libéral",N,N,97
+35078,"Oshawa","Oshawa"," 56","Oshawa",N,N,"",0,604,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,99
+35078,"Oshawa","Oshawa"," 56","Oshawa",N,N,"",0,604,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35078,"Oshawa","Oshawa"," 56","Oshawa",N,N,"",0,604,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 56","Oshawa",N,N,"",0,604,"Ransom","","Isaac","Liberal","Libéral",N,N,104
+35078,"Oshawa","Oshawa"," 57","Oshawa",N,N,"",6,573,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,102
+35078,"Oshawa","Oshawa"," 57","Oshawa",N,N,"",6,573,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35078,"Oshawa","Oshawa"," 57","Oshawa",N,N,"",6,573,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 57","Oshawa",N,N,"",6,573,"Ransom","","Isaac","Liberal","Libéral",N,N,98
+35078,"Oshawa","Oshawa"," 58","Oshawa",N,N,"",1,532,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,87
+35078,"Oshawa","Oshawa"," 58","Oshawa",N,N,"",1,532,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35078,"Oshawa","Oshawa"," 58","Oshawa",N,N,"",1,532,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 58","Oshawa",N,N,"",1,532,"Ransom","","Isaac","Liberal","Libéral",N,N,68
+35078,"Oshawa","Oshawa"," 59","Oshawa",N,N,"",0,551,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,95
+35078,"Oshawa","Oshawa"," 59","Oshawa",N,N,"",0,551,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35078,"Oshawa","Oshawa"," 59","Oshawa",N,N,"",0,551,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 59","Oshawa",N,N,"",0,551,"Ransom","","Isaac","Liberal","Libéral",N,N,94
+35078,"Oshawa","Oshawa"," 60","Oshawa",N,N,"",3,567,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,91
+35078,"Oshawa","Oshawa"," 60","Oshawa",N,N,"",3,567,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35078,"Oshawa","Oshawa"," 60","Oshawa",N,N,"",3,567,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 60","Oshawa",N,N,"",3,567,"Ransom","","Isaac","Liberal","Libéral",N,N,77
+35078,"Oshawa","Oshawa"," 61","Oshawa",N,N,"",3,634,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,129
+35078,"Oshawa","Oshawa"," 61","Oshawa",N,N,"",3,634,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35078,"Oshawa","Oshawa"," 61","Oshawa",N,N,"",3,634,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 61","Oshawa",N,N,"",3,634,"Ransom","","Isaac","Liberal","Libéral",N,N,81
+35078,"Oshawa","Oshawa"," 62A","Oshawa",N,N,"",0,425,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,87
+35078,"Oshawa","Oshawa"," 62A","Oshawa",N,N,"",0,425,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35078,"Oshawa","Oshawa"," 62A","Oshawa",N,N,"",0,425,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 62A","Oshawa",N,N,"",0,425,"Ransom","","Isaac","Liberal","Libéral",N,N,71
+35078,"Oshawa","Oshawa"," 62B","Oshawa",N,N,"",0,461,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,85
+35078,"Oshawa","Oshawa"," 62B","Oshawa",N,N,"",0,461,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35078,"Oshawa","Oshawa"," 62B","Oshawa",N,N,"",0,461,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 62B","Oshawa",N,N,"",0,461,"Ransom","","Isaac","Liberal","Libéral",N,N,92
+35078,"Oshawa","Oshawa"," 63","Oshawa",N,N,"",0,589,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,102
+35078,"Oshawa","Oshawa"," 63","Oshawa",N,N,"",0,589,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 63","Oshawa",N,N,"",0,589,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 63","Oshawa",N,N,"",0,589,"Ransom","","Isaac","Liberal","Libéral",N,N,91
+35078,"Oshawa","Oshawa"," 64","Oshawa",N,N,"",0,517,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,78
+35078,"Oshawa","Oshawa"," 64","Oshawa",N,N,"",0,517,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35078,"Oshawa","Oshawa"," 64","Oshawa",N,N,"",0,517,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 64","Oshawa",N,N,"",0,517,"Ransom","","Isaac","Liberal","Libéral",N,N,73
+35078,"Oshawa","Oshawa"," 65","Oshawa",N,N,"",2,505,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,75
+35078,"Oshawa","Oshawa"," 65","Oshawa",N,N,"",2,505,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35078,"Oshawa","Oshawa"," 65","Oshawa",N,N,"",2,505,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 65","Oshawa",N,N,"",2,505,"Ransom","","Isaac","Liberal","Libéral",N,N,54
+35078,"Oshawa","Oshawa"," 66","Oshawa",N,N,"",2,551,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,98
+35078,"Oshawa","Oshawa"," 66","Oshawa",N,N,"",2,551,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35078,"Oshawa","Oshawa"," 66","Oshawa",N,N,"",2,551,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 66","Oshawa",N,N,"",2,551,"Ransom","","Isaac","Liberal","Libéral",N,N,64
+35078,"Oshawa","Oshawa"," 67","Oshawa",N,N,"",0,542,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,92
+35078,"Oshawa","Oshawa"," 67","Oshawa",N,N,"",0,542,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35078,"Oshawa","Oshawa"," 67","Oshawa",N,N,"",0,542,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 67","Oshawa",N,N,"",0,542,"Ransom","","Isaac","Liberal","Libéral",N,N,75
+35078,"Oshawa","Oshawa"," 68","Oshawa",N,N,"",4,623,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,97
+35078,"Oshawa","Oshawa"," 68","Oshawa",N,N,"",4,623,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35078,"Oshawa","Oshawa"," 68","Oshawa",N,N,"",4,623,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 68","Oshawa",N,N,"",4,623,"Ransom","","Isaac","Liberal","Libéral",N,N,60
+35078,"Oshawa","Oshawa"," 69","Oshawa",N,N,"",2,533,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,88
+35078,"Oshawa","Oshawa"," 69","Oshawa",N,N,"",2,533,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35078,"Oshawa","Oshawa"," 69","Oshawa",N,N,"",2,533,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 69","Oshawa",N,N,"",2,533,"Ransom","","Isaac","Liberal","Libéral",N,N,116
+35078,"Oshawa","Oshawa"," 70","Oshawa",N,N,"",3,509,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,101
+35078,"Oshawa","Oshawa"," 70","Oshawa",N,N,"",3,509,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35078,"Oshawa","Oshawa"," 70","Oshawa",N,N,"",3,509,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 70","Oshawa",N,N,"",3,509,"Ransom","","Isaac","Liberal","Libéral",N,N,95
+35078,"Oshawa","Oshawa"," 71","Oshawa",N,N,"",0,550,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,127
+35078,"Oshawa","Oshawa"," 71","Oshawa",N,N,"",0,550,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35078,"Oshawa","Oshawa"," 71","Oshawa",N,N,"",0,550,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 71","Oshawa",N,N,"",0,550,"Ransom","","Isaac","Liberal","Libéral",N,N,86
+35078,"Oshawa","Oshawa"," 72","Oshawa",N,N,"",0,561,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,97
+35078,"Oshawa","Oshawa"," 72","Oshawa",N,N,"",0,561,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35078,"Oshawa","Oshawa"," 72","Oshawa",N,N,"",0,561,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 72","Oshawa",N,N,"",0,561,"Ransom","","Isaac","Liberal","Libéral",N,N,89
+35078,"Oshawa","Oshawa"," 73","Oshawa",N,N,"",3,561,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,93
+35078,"Oshawa","Oshawa"," 73","Oshawa",N,N,"",3,561,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35078,"Oshawa","Oshawa"," 73","Oshawa",N,N,"",3,561,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 73","Oshawa",N,N,"",3,561,"Ransom","","Isaac","Liberal","Libéral",N,N,103
+35078,"Oshawa","Oshawa"," 74","Oshawa",N,N,"",0,621,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,105
+35078,"Oshawa","Oshawa"," 74","Oshawa",N,N,"",0,621,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35078,"Oshawa","Oshawa"," 74","Oshawa",N,N,"",0,621,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 74","Oshawa",N,N,"",0,621,"Ransom","","Isaac","Liberal","Libéral",N,N,125
+35078,"Oshawa","Oshawa"," 75","Oshawa",N,N,"",2,566,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,100
+35078,"Oshawa","Oshawa"," 75","Oshawa",N,N,"",2,566,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35078,"Oshawa","Oshawa"," 75","Oshawa",N,N,"",2,566,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 75","Oshawa",N,N,"",2,566,"Ransom","","Isaac","Liberal","Libéral",N,N,86
+35078,"Oshawa","Oshawa"," 76","Oshawa",N,N,"",1,515,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,40
+35078,"Oshawa","Oshawa"," 76","Oshawa",N,N,"",1,515,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35078,"Oshawa","Oshawa"," 76","Oshawa",N,N,"",1,515,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 76","Oshawa",N,N,"",1,515,"Ransom","","Isaac","Liberal","Libéral",N,N,63
+35078,"Oshawa","Oshawa"," 77","Oshawa",N,N,"",0,553,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,130
+35078,"Oshawa","Oshawa"," 77","Oshawa",N,N,"",0,553,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35078,"Oshawa","Oshawa"," 77","Oshawa",N,N,"",0,553,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 77","Oshawa",N,N,"",0,553,"Ransom","","Isaac","Liberal","Libéral",N,N,88
+35078,"Oshawa","Oshawa"," 78","Oshawa",N,N,"",1,596,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,119
+35078,"Oshawa","Oshawa"," 78","Oshawa",N,N,"",1,596,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35078,"Oshawa","Oshawa"," 78","Oshawa",N,N,"",1,596,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 78","Oshawa",N,N,"",1,596,"Ransom","","Isaac","Liberal","Libéral",N,N,92
+35078,"Oshawa","Oshawa"," 79","Oshawa",N,N,"",0,505,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,95
+35078,"Oshawa","Oshawa"," 79","Oshawa",N,N,"",0,505,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 79","Oshawa",N,N,"",0,505,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 79","Oshawa",N,N,"",0,505,"Ransom","","Isaac","Liberal","Libéral",N,N,88
+35078,"Oshawa","Oshawa"," 80","Oshawa",N,N,"",1,520,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,117
+35078,"Oshawa","Oshawa"," 80","Oshawa",N,N,"",1,520,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35078,"Oshawa","Oshawa"," 80","Oshawa",N,N,"",1,520,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 80","Oshawa",N,N,"",1,520,"Ransom","","Isaac","Liberal","Libéral",N,N,82
+35078,"Oshawa","Oshawa"," 81","Oshawa",N,N,"",1,445,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,83
+35078,"Oshawa","Oshawa"," 81","Oshawa",N,N,"",1,445,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35078,"Oshawa","Oshawa"," 81","Oshawa",N,N,"",1,445,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 81","Oshawa",N,N,"",1,445,"Ransom","","Isaac","Liberal","Libéral",N,N,64
+35078,"Oshawa","Oshawa"," 82","Oshawa",N,N,"",0,584,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,115
+35078,"Oshawa","Oshawa"," 82","Oshawa",N,N,"",0,584,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 82","Oshawa",N,N,"",0,584,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 82","Oshawa",N,N,"",0,584,"Ransom","","Isaac","Liberal","Libéral",N,N,108
+35078,"Oshawa","Oshawa"," 83","Oshawa",N,N,"",0,633,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,117
+35078,"Oshawa","Oshawa"," 83","Oshawa",N,N,"",0,633,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35078,"Oshawa","Oshawa"," 83","Oshawa",N,N,"",0,633,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 83","Oshawa",N,N,"",0,633,"Ransom","","Isaac","Liberal","Libéral",N,N,120
+35078,"Oshawa","Oshawa"," 84","Oshawa",N,N,"",0,689,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,124
+35078,"Oshawa","Oshawa"," 84","Oshawa",N,N,"",0,689,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35078,"Oshawa","Oshawa"," 84","Oshawa",N,N,"",0,689,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 84","Oshawa",N,N,"",0,689,"Ransom","","Isaac","Liberal","Libéral",N,N,100
+35078,"Oshawa","Oshawa"," 85","Oshawa",N,N,"",0,627,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,127
+35078,"Oshawa","Oshawa"," 85","Oshawa",N,N,"",0,627,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35078,"Oshawa","Oshawa"," 85","Oshawa",N,N,"",0,627,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 85","Oshawa",N,N,"",0,627,"Ransom","","Isaac","Liberal","Libéral",N,N,134
+35078,"Oshawa","Oshawa"," 86","Oshawa",N,N,"",0,680,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,148
+35078,"Oshawa","Oshawa"," 86","Oshawa",N,N,"",0,680,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35078,"Oshawa","Oshawa"," 86","Oshawa",N,N,"",0,680,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 86","Oshawa",N,N,"",0,680,"Ransom","","Isaac","Liberal","Libéral",N,N,136
+35078,"Oshawa","Oshawa"," 87","Oshawa",N,N,"",2,575,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,103
+35078,"Oshawa","Oshawa"," 87","Oshawa",N,N,"",2,575,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 87","Oshawa",N,N,"",2,575,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 87","Oshawa",N,N,"",2,575,"Ransom","","Isaac","Liberal","Libéral",N,N,96
+35078,"Oshawa","Oshawa"," 88","Oshawa",N,N,"",0,644,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,101
+35078,"Oshawa","Oshawa"," 88","Oshawa",N,N,"",0,644,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35078,"Oshawa","Oshawa"," 88","Oshawa",N,N,"",0,644,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 88","Oshawa",N,N,"",0,644,"Ransom","","Isaac","Liberal","Libéral",N,N,91
+35078,"Oshawa","Oshawa"," 89A","Oshawa",N,N,"",0,454,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,68
+35078,"Oshawa","Oshawa"," 89A","Oshawa",N,N,"",0,454,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 89A","Oshawa",N,N,"",0,454,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 89A","Oshawa",N,N,"",0,454,"Ransom","","Isaac","Liberal","Libéral",N,N,74
+35078,"Oshawa","Oshawa"," 89B","Oshawa",N,N,"",0,461,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,58
+35078,"Oshawa","Oshawa"," 89B","Oshawa",N,N,"",0,461,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35078,"Oshawa","Oshawa"," 89B","Oshawa",N,N,"",0,461,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 89B","Oshawa",N,N,"",0,461,"Ransom","","Isaac","Liberal","Libéral",N,N,80
+35078,"Oshawa","Oshawa"," 90","Oshawa",N,N,"",0,611,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,116
+35078,"Oshawa","Oshawa"," 90","Oshawa",N,N,"",0,611,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35078,"Oshawa","Oshawa"," 90","Oshawa",N,N,"",0,611,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 90","Oshawa",N,N,"",0,611,"Ransom","","Isaac","Liberal","Libéral",N,N,122
+35078,"Oshawa","Oshawa"," 91","Oshawa",N,N,"",0,607,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,118
+35078,"Oshawa","Oshawa"," 91","Oshawa",N,N,"",0,607,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35078,"Oshawa","Oshawa"," 91","Oshawa",N,N,"",0,607,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 91","Oshawa",N,N,"",0,607,"Ransom","","Isaac","Liberal","Libéral",N,N,98
+35078,"Oshawa","Oshawa"," 92","Oshawa",N,N,"",4,618,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,98
+35078,"Oshawa","Oshawa"," 92","Oshawa",N,N,"",4,618,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35078,"Oshawa","Oshawa"," 92","Oshawa",N,N,"",4,618,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 92","Oshawa",N,N,"",4,618,"Ransom","","Isaac","Liberal","Libéral",N,N,111
+35078,"Oshawa","Oshawa"," 93","Oshawa",N,N,"",0,604,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,115
+35078,"Oshawa","Oshawa"," 93","Oshawa",N,N,"",0,604,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 93","Oshawa",N,N,"",0,604,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 93","Oshawa",N,N,"",0,604,"Ransom","","Isaac","Liberal","Libéral",N,N,115
+35078,"Oshawa","Oshawa"," 94","Oshawa",N,N,"",3,596,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,125
+35078,"Oshawa","Oshawa"," 94","Oshawa",N,N,"",3,596,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35078,"Oshawa","Oshawa"," 94","Oshawa",N,N,"",3,596,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 94","Oshawa",N,N,"",3,596,"Ransom","","Isaac","Liberal","Libéral",N,N,106
+35078,"Oshawa","Oshawa"," 95","Oshawa",N,N,"",0,539,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,127
+35078,"Oshawa","Oshawa"," 95","Oshawa",N,N,"",0,539,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 95","Oshawa",N,N,"",0,539,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 95","Oshawa",N,N,"",0,539,"Ransom","","Isaac","Liberal","Libéral",N,N,100
+35078,"Oshawa","Oshawa"," 96","Oshawa",N,N,"",1,620,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,107
+35078,"Oshawa","Oshawa"," 96","Oshawa",N,N,"",1,620,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35078,"Oshawa","Oshawa"," 96","Oshawa",N,N,"",1,620,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 96","Oshawa",N,N,"",1,620,"Ransom","","Isaac","Liberal","Libéral",N,N,101
+35078,"Oshawa","Oshawa"," 97","Oshawa",N,N,"",2,594,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,104
+35078,"Oshawa","Oshawa"," 97","Oshawa",N,N,"",2,594,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35078,"Oshawa","Oshawa"," 97","Oshawa",N,N,"",2,594,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 97","Oshawa",N,N,"",2,594,"Ransom","","Isaac","Liberal","Libéral",N,N,75
+35078,"Oshawa","Oshawa"," 98","Oshawa",N,N,"",1,685,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,104
+35078,"Oshawa","Oshawa"," 98","Oshawa",N,N,"",1,685,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35078,"Oshawa","Oshawa"," 98","Oshawa",N,N,"",1,685,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 98","Oshawa",N,N,"",1,685,"Ransom","","Isaac","Liberal","Libéral",N,N,75
+35078,"Oshawa","Oshawa"," 99","Oshawa",N,N,"",0,712,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,82
+35078,"Oshawa","Oshawa"," 99","Oshawa",N,N,"",0,712,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 99","Oshawa",N,N,"",0,712,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 99","Oshawa",N,N,"",0,712,"Ransom","","Isaac","Liberal","Libéral",N,N,78
+35078,"Oshawa","Oshawa"," 100","Oshawa",N,N,"",2,735,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,125
+35078,"Oshawa","Oshawa"," 100","Oshawa",N,N,"",2,735,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35078,"Oshawa","Oshawa"," 100","Oshawa",N,N,"",2,735,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,7
+35078,"Oshawa","Oshawa"," 100","Oshawa",N,N,"",2,735,"Ransom","","Isaac","Liberal","Libéral",N,N,83
+35078,"Oshawa","Oshawa"," 101","Oshawa",N,N,"",3,583,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,100
+35078,"Oshawa","Oshawa"," 101","Oshawa",N,N,"",3,583,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35078,"Oshawa","Oshawa"," 101","Oshawa",N,N,"",3,583,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,7
+35078,"Oshawa","Oshawa"," 101","Oshawa",N,N,"",3,583,"Ransom","","Isaac","Liberal","Libéral",N,N,93
+35078,"Oshawa","Oshawa"," 102","Oshawa",N,N,"",1,594,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,95
+35078,"Oshawa","Oshawa"," 102","Oshawa",N,N,"",1,594,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35078,"Oshawa","Oshawa"," 102","Oshawa",N,N,"",1,594,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 102","Oshawa",N,N,"",1,594,"Ransom","","Isaac","Liberal","Libéral",N,N,109
+35078,"Oshawa","Oshawa"," 103","Oshawa",N,N,"",0,564,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,105
+35078,"Oshawa","Oshawa"," 103","Oshawa",N,N,"",0,564,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 103","Oshawa",N,N,"",0,564,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 103","Oshawa",N,N,"",0,564,"Ransom","","Isaac","Liberal","Libéral",N,N,80
+35078,"Oshawa","Oshawa"," 104","Oshawa",N,N,"",3,617,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,168
+35078,"Oshawa","Oshawa"," 104","Oshawa",N,N,"",3,617,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35078,"Oshawa","Oshawa"," 104","Oshawa",N,N,"",3,617,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 104","Oshawa",N,N,"",3,617,"Ransom","","Isaac","Liberal","Libéral",N,N,93
+35078,"Oshawa","Oshawa"," 105","Oshawa",N,N,"",1,658,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,142
+35078,"Oshawa","Oshawa"," 105","Oshawa",N,N,"",1,658,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35078,"Oshawa","Oshawa"," 105","Oshawa",N,N,"",1,658,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 105","Oshawa",N,N,"",1,658,"Ransom","","Isaac","Liberal","Libéral",N,N,87
+35078,"Oshawa","Oshawa"," 106","Oshawa",N,N,"",0,593,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,135
+35078,"Oshawa","Oshawa"," 106","Oshawa",N,N,"",0,593,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35078,"Oshawa","Oshawa"," 106","Oshawa",N,N,"",0,593,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 106","Oshawa",N,N,"",0,593,"Ransom","","Isaac","Liberal","Libéral",N,N,86
+35078,"Oshawa","Oshawa"," 107","Oshawa",N,N,"",3,554,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,102
+35078,"Oshawa","Oshawa"," 107","Oshawa",N,N,"",3,554,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35078,"Oshawa","Oshawa"," 107","Oshawa",N,N,"",3,554,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 107","Oshawa",N,N,"",3,554,"Ransom","","Isaac","Liberal","Libéral",N,N,83
+35078,"Oshawa","Oshawa"," 108","Oshawa",N,N,"",0,519,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,106
+35078,"Oshawa","Oshawa"," 108","Oshawa",N,N,"",0,519,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35078,"Oshawa","Oshawa"," 108","Oshawa",N,N,"",0,519,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 108","Oshawa",N,N,"",0,519,"Ransom","","Isaac","Liberal","Libéral",N,N,67
+35078,"Oshawa","Oshawa"," 109","Oshawa",N,N,"",1,602,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,137
+35078,"Oshawa","Oshawa"," 109","Oshawa",N,N,"",1,602,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35078,"Oshawa","Oshawa"," 109","Oshawa",N,N,"",1,602,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 109","Oshawa",N,N,"",1,602,"Ransom","","Isaac","Liberal","Libéral",N,N,83
+35078,"Oshawa","Oshawa"," 110","Oshawa",N,N,"",1,548,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,142
+35078,"Oshawa","Oshawa"," 110","Oshawa",N,N,"",1,548,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35078,"Oshawa","Oshawa"," 110","Oshawa",N,N,"",1,548,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 110","Oshawa",N,N,"",1,548,"Ransom","","Isaac","Liberal","Libéral",N,N,80
+35078,"Oshawa","Oshawa"," 111","Oshawa",N,N,"",1,594,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,120
+35078,"Oshawa","Oshawa"," 111","Oshawa",N,N,"",1,594,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35078,"Oshawa","Oshawa"," 111","Oshawa",N,N,"",1,594,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 111","Oshawa",N,N,"",1,594,"Ransom","","Isaac","Liberal","Libéral",N,N,89
+35078,"Oshawa","Oshawa"," 112","Oshawa",N,N,"",2,616,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,117
+35078,"Oshawa","Oshawa"," 112","Oshawa",N,N,"",2,616,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35078,"Oshawa","Oshawa"," 112","Oshawa",N,N,"",2,616,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 112","Oshawa",N,N,"",2,616,"Ransom","","Isaac","Liberal","Libéral",N,N,95
+35078,"Oshawa","Oshawa"," 113","Oshawa",N,N,"",0,593,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,143
+35078,"Oshawa","Oshawa"," 113","Oshawa",N,N,"",0,593,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 113","Oshawa",N,N,"",0,593,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 113","Oshawa",N,N,"",0,593,"Ransom","","Isaac","Liberal","Libéral",N,N,79
+35078,"Oshawa","Oshawa"," 114","Oshawa",N,N,"",2,597,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,74
+35078,"Oshawa","Oshawa"," 114","Oshawa",N,N,"",2,597,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35078,"Oshawa","Oshawa"," 114","Oshawa",N,N,"",2,597,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 114","Oshawa",N,N,"",2,597,"Ransom","","Isaac","Liberal","Libéral",N,N,85
+35078,"Oshawa","Oshawa"," 115","Oshawa",N,N,"",0,611,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,111
+35078,"Oshawa","Oshawa"," 115","Oshawa",N,N,"",0,611,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35078,"Oshawa","Oshawa"," 115","Oshawa",N,N,"",0,611,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 115","Oshawa",N,N,"",0,611,"Ransom","","Isaac","Liberal","Libéral",N,N,79
+35078,"Oshawa","Oshawa"," 116","Oshawa",N,N,"",0,687,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,105
+35078,"Oshawa","Oshawa"," 116","Oshawa",N,N,"",0,687,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35078,"Oshawa","Oshawa"," 116","Oshawa",N,N,"",0,687,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 116","Oshawa",N,N,"",0,687,"Ransom","","Isaac","Liberal","Libéral",N,N,85
+35078,"Oshawa","Oshawa"," 117","Oshawa",N,N,"",1,582,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,124
+35078,"Oshawa","Oshawa"," 117","Oshawa",N,N,"",1,582,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35078,"Oshawa","Oshawa"," 117","Oshawa",N,N,"",1,582,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 117","Oshawa",N,N,"",1,582,"Ransom","","Isaac","Liberal","Libéral",N,N,104
+35078,"Oshawa","Oshawa"," 118","Oshawa",N,N,"",3,806,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,165
+35078,"Oshawa","Oshawa"," 118","Oshawa",N,N,"",3,806,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35078,"Oshawa","Oshawa"," 118","Oshawa",N,N,"",3,806,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 118","Oshawa",N,N,"",3,806,"Ransom","","Isaac","Liberal","Libéral",N,N,116
+35078,"Oshawa","Oshawa"," 119","Oshawa",N,N,"",1,543,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,138
+35078,"Oshawa","Oshawa"," 119","Oshawa",N,N,"",1,543,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 119","Oshawa",N,N,"",1,543,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 119","Oshawa",N,N,"",1,543,"Ransom","","Isaac","Liberal","Libéral",N,N,80
+35078,"Oshawa","Oshawa"," 120","Oshawa",N,N,"",0,631,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,130
+35078,"Oshawa","Oshawa"," 120","Oshawa",N,N,"",0,631,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 120","Oshawa",N,N,"",0,631,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 120","Oshawa",N,N,"",0,631,"Ransom","","Isaac","Liberal","Libéral",N,N,78
+35078,"Oshawa","Oshawa"," 121","Oshawa",N,N,"",0,598,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,143
+35078,"Oshawa","Oshawa"," 121","Oshawa",N,N,"",0,598,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35078,"Oshawa","Oshawa"," 121","Oshawa",N,N,"",0,598,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 121","Oshawa",N,N,"",0,598,"Ransom","","Isaac","Liberal","Libéral",N,N,80
+35078,"Oshawa","Oshawa"," 122","Oshawa",N,N,"",0,699,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,133
+35078,"Oshawa","Oshawa"," 122","Oshawa",N,N,"",0,699,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35078,"Oshawa","Oshawa"," 122","Oshawa",N,N,"",0,699,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 122","Oshawa",N,N,"",0,699,"Ransom","","Isaac","Liberal","Libéral",N,N,101
+35078,"Oshawa","Oshawa"," 123","Oshawa",N,N,"",1,753,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,117
+35078,"Oshawa","Oshawa"," 123","Oshawa",N,N,"",1,753,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35078,"Oshawa","Oshawa"," 123","Oshawa",N,N,"",1,753,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 123","Oshawa",N,N,"",1,753,"Ransom","","Isaac","Liberal","Libéral",N,N,63
+35078,"Oshawa","Oshawa"," 124","Oshawa",N,N,"",1,628,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,90
+35078,"Oshawa","Oshawa"," 124","Oshawa",N,N,"",1,628,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 124","Oshawa",N,N,"",1,628,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 124","Oshawa",N,N,"",1,628,"Ransom","","Isaac","Liberal","Libéral",N,N,66
+35078,"Oshawa","Oshawa"," 125","Oshawa",N,N,"",2,664,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,122
+35078,"Oshawa","Oshawa"," 125","Oshawa",N,N,"",2,664,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35078,"Oshawa","Oshawa"," 125","Oshawa",N,N,"",2,664,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 125","Oshawa",N,N,"",2,664,"Ransom","","Isaac","Liberal","Libéral",N,N,80
+35078,"Oshawa","Oshawa"," 126","Oshawa",N,N,"",0,607,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,144
+35078,"Oshawa","Oshawa"," 126","Oshawa",N,N,"",0,607,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35078,"Oshawa","Oshawa"," 126","Oshawa",N,N,"",0,607,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 126","Oshawa",N,N,"",0,607,"Ransom","","Isaac","Liberal","Libéral",N,N,84
+35078,"Oshawa","Oshawa"," 127","Oshawa",N,N,"",0,721,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,79
+35078,"Oshawa","Oshawa"," 127","Oshawa",N,N,"",0,721,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35078,"Oshawa","Oshawa"," 127","Oshawa",N,N,"",0,721,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 127","Oshawa",N,N,"",0,721,"Ransom","","Isaac","Liberal","Libéral",N,N,63
+35078,"Oshawa","Oshawa"," 128","Oshawa",N,N,"",4,747,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,107
+35078,"Oshawa","Oshawa"," 128","Oshawa",N,N,"",4,747,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 128","Oshawa",N,N,"",4,747,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 128","Oshawa",N,N,"",4,747,"Ransom","","Isaac","Liberal","Libéral",N,N,82
+35078,"Oshawa","Oshawa"," 129","Oshawa",N,N,"",6,715,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,74
+35078,"Oshawa","Oshawa"," 129","Oshawa",N,N,"",6,715,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 129","Oshawa",N,N,"",6,715,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 129","Oshawa",N,N,"",6,715,"Ransom","","Isaac","Liberal","Libéral",N,N,68
+35078,"Oshawa","Oshawa"," 130","Oshawa",N,N,"",1,730,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,94
+35078,"Oshawa","Oshawa"," 130","Oshawa",N,N,"",1,730,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35078,"Oshawa","Oshawa"," 130","Oshawa",N,N,"",1,730,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,8
+35078,"Oshawa","Oshawa"," 130","Oshawa",N,N,"",1,730,"Ransom","","Isaac","Liberal","Libéral",N,N,72
+35078,"Oshawa","Oshawa"," 131","Oshawa",N,N,"",1,578,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,73
+35078,"Oshawa","Oshawa"," 131","Oshawa",N,N,"",1,578,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35078,"Oshawa","Oshawa"," 131","Oshawa",N,N,"",1,578,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 131","Oshawa",N,N,"",1,578,"Ransom","","Isaac","Liberal","Libéral",N,N,72
+35078,"Oshawa","Oshawa"," 132","Oshawa",N,N,"",0,648,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,127
+35078,"Oshawa","Oshawa"," 132","Oshawa",N,N,"",0,648,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 132","Oshawa",N,N,"",0,648,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 132","Oshawa",N,N,"",0,648,"Ransom","","Isaac","Liberal","Libéral",N,N,102
+35078,"Oshawa","Oshawa"," 133","Oshawa",N,N,"",4,700,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,92
+35078,"Oshawa","Oshawa"," 133","Oshawa",N,N,"",4,700,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35078,"Oshawa","Oshawa"," 133","Oshawa",N,N,"",4,700,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 133","Oshawa",N,N,"",4,700,"Ransom","","Isaac","Liberal","Libéral",N,N,76
+35078,"Oshawa","Oshawa"," 134","Oshawa",N,N,"",2,616,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,86
+35078,"Oshawa","Oshawa"," 134","Oshawa",N,N,"",2,616,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 134","Oshawa",N,N,"",2,616,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 134","Oshawa",N,N,"",2,616,"Ransom","","Isaac","Liberal","Libéral",N,N,81
+35078,"Oshawa","Oshawa"," 135","Oshawa",N,N,"",1,668,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,101
+35078,"Oshawa","Oshawa"," 135","Oshawa",N,N,"",1,668,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35078,"Oshawa","Oshawa"," 135","Oshawa",N,N,"",1,668,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 135","Oshawa",N,N,"",1,668,"Ransom","","Isaac","Liberal","Libéral",N,N,107
+35078,"Oshawa","Oshawa"," 136","Oshawa",N,N,"",6,569,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,82
+35078,"Oshawa","Oshawa"," 136","Oshawa",N,N,"",6,569,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 136","Oshawa",N,N,"",6,569,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 136","Oshawa",N,N,"",6,569,"Ransom","","Isaac","Liberal","Libéral",N,N,81
+35078,"Oshawa","Oshawa"," 137","Oshawa",N,N,"",1,579,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,114
+35078,"Oshawa","Oshawa"," 137","Oshawa",N,N,"",1,579,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35078,"Oshawa","Oshawa"," 137","Oshawa",N,N,"",1,579,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 137","Oshawa",N,N,"",1,579,"Ransom","","Isaac","Liberal","Libéral",N,N,118
+35078,"Oshawa","Oshawa"," 138","Oshawa",N,N,"",4,638,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,166
+35078,"Oshawa","Oshawa"," 138","Oshawa",N,N,"",4,638,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35078,"Oshawa","Oshawa"," 138","Oshawa",N,N,"",4,638,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,7
+35078,"Oshawa","Oshawa"," 138","Oshawa",N,N,"",4,638,"Ransom","","Isaac","Liberal","Libéral",N,N,133
+35078,"Oshawa","Oshawa"," 139","Oshawa",N,N,"",1,585,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,109
+35078,"Oshawa","Oshawa"," 139","Oshawa",N,N,"",1,585,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 139","Oshawa",N,N,"",1,585,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 139","Oshawa",N,N,"",1,585,"Ransom","","Isaac","Liberal","Libéral",N,N,117
+35078,"Oshawa","Oshawa"," 140","Oshawa",N,N,"",2,609,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,126
+35078,"Oshawa","Oshawa"," 140","Oshawa",N,N,"",2,609,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 140","Oshawa",N,N,"",2,609,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 140","Oshawa",N,N,"",2,609,"Ransom","","Isaac","Liberal","Libéral",N,N,105
+35078,"Oshawa","Oshawa"," 141","Oshawa",N,N,"",3,708,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,137
+35078,"Oshawa","Oshawa"," 141","Oshawa",N,N,"",3,708,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35078,"Oshawa","Oshawa"," 141","Oshawa",N,N,"",3,708,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 141","Oshawa",N,N,"",3,708,"Ransom","","Isaac","Liberal","Libéral",N,N,98
+35078,"Oshawa","Oshawa"," 142","Oshawa",N,N,"",3,662,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,119
+35078,"Oshawa","Oshawa"," 142","Oshawa",N,N,"",3,662,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35078,"Oshawa","Oshawa"," 142","Oshawa",N,N,"",3,662,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,7
+35078,"Oshawa","Oshawa"," 142","Oshawa",N,N,"",3,662,"Ransom","","Isaac","Liberal","Libéral",N,N,96
+35078,"Oshawa","Oshawa"," 143","Oshawa",N,N,"",5,557,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,118
+35078,"Oshawa","Oshawa"," 143","Oshawa",N,N,"",5,557,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35078,"Oshawa","Oshawa"," 143","Oshawa",N,N,"",5,557,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 143","Oshawa",N,N,"",5,557,"Ransom","","Isaac","Liberal","Libéral",N,N,51
+35078,"Oshawa","Oshawa"," 144","Oshawa",N,N,"",0,603,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,153
+35078,"Oshawa","Oshawa"," 144","Oshawa",N,N,"",0,603,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35078,"Oshawa","Oshawa"," 144","Oshawa",N,N,"",0,603,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 144","Oshawa",N,N,"",0,603,"Ransom","","Isaac","Liberal","Libéral",N,N,121
+35078,"Oshawa","Oshawa"," 145","Oshawa",N,N,"",0,607,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,120
+35078,"Oshawa","Oshawa"," 145","Oshawa",N,N,"",0,607,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35078,"Oshawa","Oshawa"," 145","Oshawa",N,N,"",0,607,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 145","Oshawa",N,N,"",0,607,"Ransom","","Isaac","Liberal","Libéral",N,N,98
+35078,"Oshawa","Oshawa"," 146","Oshawa",N,N,"",3,529,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,133
+35078,"Oshawa","Oshawa"," 146","Oshawa",N,N,"",3,529,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35078,"Oshawa","Oshawa"," 146","Oshawa",N,N,"",3,529,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 146","Oshawa",N,N,"",3,529,"Ransom","","Isaac","Liberal","Libéral",N,N,83
+35078,"Oshawa","Oshawa"," 147","Oshawa",N,N,"",1,695,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,117
+35078,"Oshawa","Oshawa"," 147","Oshawa",N,N,"",1,695,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35078,"Oshawa","Oshawa"," 147","Oshawa",N,N,"",1,695,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 147","Oshawa",N,N,"",1,695,"Ransom","","Isaac","Liberal","Libéral",N,N,63
+35078,"Oshawa","Oshawa"," 148","Oshawa",N,N,"",5,634,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,106
+35078,"Oshawa","Oshawa"," 148","Oshawa",N,N,"",5,634,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35078,"Oshawa","Oshawa"," 148","Oshawa",N,N,"",5,634,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 148","Oshawa",N,N,"",5,634,"Ransom","","Isaac","Liberal","Libéral",N,N,91
+35078,"Oshawa","Oshawa"," 149","Oshawa",N,N,"",5,614,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,117
+35078,"Oshawa","Oshawa"," 149","Oshawa",N,N,"",5,614,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35078,"Oshawa","Oshawa"," 149","Oshawa",N,N,"",5,614,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 149","Oshawa",N,N,"",5,614,"Ransom","","Isaac","Liberal","Libéral",N,N,67
+35078,"Oshawa","Oshawa"," 150","Oshawa",N,N,"",4,646,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,103
+35078,"Oshawa","Oshawa"," 150","Oshawa",N,N,"",4,646,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35078,"Oshawa","Oshawa"," 150","Oshawa",N,N,"",4,646,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 150","Oshawa",N,N,"",4,646,"Ransom","","Isaac","Liberal","Libéral",N,N,76
+35078,"Oshawa","Oshawa"," 151","Oshawa",N,N,"",1,710,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,121
+35078,"Oshawa","Oshawa"," 151","Oshawa",N,N,"",1,710,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35078,"Oshawa","Oshawa"," 151","Oshawa",N,N,"",1,710,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 151","Oshawa",N,N,"",1,710,"Ransom","","Isaac","Liberal","Libéral",N,N,110
+35078,"Oshawa","Oshawa"," 152","Oshawa",N,N,"",1,586,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,144
+35078,"Oshawa","Oshawa"," 152","Oshawa",N,N,"",1,586,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 152","Oshawa",N,N,"",1,586,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 152","Oshawa",N,N,"",1,586,"Ransom","","Isaac","Liberal","Libéral",N,N,88
+35078,"Oshawa","Oshawa"," 153","Oshawa",N,N,"",2,648,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,90
+35078,"Oshawa","Oshawa"," 153","Oshawa",N,N,"",2,648,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 153","Oshawa",N,N,"",2,648,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 153","Oshawa",N,N,"",2,648,"Ransom","","Isaac","Liberal","Libéral",N,N,58
+35078,"Oshawa","Oshawa"," 154","Oshawa",N,N,"",2,676,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,157
+35078,"Oshawa","Oshawa"," 154","Oshawa",N,N,"",2,676,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 154","Oshawa",N,N,"",2,676,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 154","Oshawa",N,N,"",2,676,"Ransom","","Isaac","Liberal","Libéral",N,N,97
+35078,"Oshawa","Oshawa"," 155","Oshawa",N,N,"",1,687,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,140
+35078,"Oshawa","Oshawa"," 155","Oshawa",N,N,"",1,687,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35078,"Oshawa","Oshawa"," 155","Oshawa",N,N,"",1,687,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 155","Oshawa",N,N,"",1,687,"Ransom","","Isaac","Liberal","Libéral",N,N,92
+35078,"Oshawa","Oshawa"," 156","Oshawa",N,N,"",0,577,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,116
+35078,"Oshawa","Oshawa"," 156","Oshawa",N,N,"",0,577,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 156","Oshawa",N,N,"",0,577,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 156","Oshawa",N,N,"",0,577,"Ransom","","Isaac","Liberal","Libéral",N,N,61
+35078,"Oshawa","Oshawa"," 157","Oshawa",N,N,"",3,563,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,112
+35078,"Oshawa","Oshawa"," 157","Oshawa",N,N,"",3,563,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35078,"Oshawa","Oshawa"," 157","Oshawa",N,N,"",3,563,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 157","Oshawa",N,N,"",3,563,"Ransom","","Isaac","Liberal","Libéral",N,N,71
+35078,"Oshawa","Oshawa"," 158","Oshawa",N,N,"",4,652,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,125
+35078,"Oshawa","Oshawa"," 158","Oshawa",N,N,"",4,652,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 158","Oshawa",N,N,"",4,652,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 158","Oshawa",N,N,"",4,652,"Ransom","","Isaac","Liberal","Libéral",N,N,83
+35078,"Oshawa","Oshawa"," 159","Oshawa",N,N,"",0,624,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,111
+35078,"Oshawa","Oshawa"," 159","Oshawa",N,N,"",0,624,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35078,"Oshawa","Oshawa"," 159","Oshawa",N,N,"",0,624,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 159","Oshawa",N,N,"",0,624,"Ransom","","Isaac","Liberal","Libéral",N,N,100
+35078,"Oshawa","Oshawa"," 160","Oshawa",N,N,"",2,670,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,132
+35078,"Oshawa","Oshawa"," 160","Oshawa",N,N,"",2,670,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35078,"Oshawa","Oshawa"," 160","Oshawa",N,N,"",2,670,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,8
+35078,"Oshawa","Oshawa"," 160","Oshawa",N,N,"",2,670,"Ransom","","Isaac","Liberal","Libéral",N,N,93
+35078,"Oshawa","Oshawa"," 161","Oshawa",N,N,"",0,648,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,123
+35078,"Oshawa","Oshawa"," 161","Oshawa",N,N,"",0,648,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35078,"Oshawa","Oshawa"," 161","Oshawa",N,N,"",0,648,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,1
+35078,"Oshawa","Oshawa"," 161","Oshawa",N,N,"",0,648,"Ransom","","Isaac","Liberal","Libéral",N,N,90
+35078,"Oshawa","Oshawa"," 162","Oshawa",N,N,"",1,745,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,124
+35078,"Oshawa","Oshawa"," 162","Oshawa",N,N,"",1,745,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35078,"Oshawa","Oshawa"," 162","Oshawa",N,N,"",1,745,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 162","Oshawa",N,N,"",1,745,"Ransom","","Isaac","Liberal","Libéral",N,N,89
+35078,"Oshawa","Oshawa"," 163","Oshawa",N,N,"",0,604,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,108
+35078,"Oshawa","Oshawa"," 163","Oshawa",N,N,"",0,604,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35078,"Oshawa","Oshawa"," 163","Oshawa",N,N,"",0,604,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 163","Oshawa",N,N,"",0,604,"Ransom","","Isaac","Liberal","Libéral",N,N,83
+35078,"Oshawa","Oshawa"," 164","Oshawa",N,N,"",2,683,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,125
+35078,"Oshawa","Oshawa"," 164","Oshawa",N,N,"",2,683,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 164","Oshawa",N,N,"",2,683,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 164","Oshawa",N,N,"",2,683,"Ransom","","Isaac","Liberal","Libéral",N,N,100
+35078,"Oshawa","Oshawa"," 165","Oshawa",N,N,"",0,670,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,136
+35078,"Oshawa","Oshawa"," 165","Oshawa",N,N,"",0,670,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35078,"Oshawa","Oshawa"," 165","Oshawa",N,N,"",0,670,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 165","Oshawa",N,N,"",0,670,"Ransom","","Isaac","Liberal","Libéral",N,N,81
+35078,"Oshawa","Oshawa"," 166","Oshawa",N,N,"",1,682,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,129
+35078,"Oshawa","Oshawa"," 166","Oshawa",N,N,"",1,682,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35078,"Oshawa","Oshawa"," 166","Oshawa",N,N,"",1,682,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 166","Oshawa",N,N,"",1,682,"Ransom","","Isaac","Liberal","Libéral",N,N,87
+35078,"Oshawa","Oshawa"," 167","Oshawa",N,N,"",0,663,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,112
+35078,"Oshawa","Oshawa"," 167","Oshawa",N,N,"",0,663,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 167","Oshawa",N,N,"",0,663,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 167","Oshawa",N,N,"",0,663,"Ransom","","Isaac","Liberal","Libéral",N,N,85
+35078,"Oshawa","Oshawa"," 168","Oshawa",N,N,"",1,609,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,116
+35078,"Oshawa","Oshawa"," 168","Oshawa",N,N,"",1,609,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35078,"Oshawa","Oshawa"," 168","Oshawa",N,N,"",1,609,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 168","Oshawa",N,N,"",1,609,"Ransom","","Isaac","Liberal","Libéral",N,N,63
+35078,"Oshawa","Oshawa"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,197,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,0
+35078,"Oshawa","Oshawa"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,197,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35078,"Oshawa","Oshawa"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,197,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,197,"Ransom","","Isaac","Liberal","Libéral",N,N,0
+35078,"Oshawa","Oshawa"," 501","Mobile poll/Bureau itinérant",N,N,"",3,290,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,46
+35078,"Oshawa","Oshawa"," 501","Mobile poll/Bureau itinérant",N,N,"",3,290,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35078,"Oshawa","Oshawa"," 501","Mobile poll/Bureau itinérant",N,N,"",3,290,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,9
+35078,"Oshawa","Oshawa"," 501","Mobile poll/Bureau itinérant",N,N,"",3,290,"Ransom","","Isaac","Liberal","Libéral",N,N,33
+35078,"Oshawa","Oshawa"," 502","Mobile poll/Bureau itinérant",N,N,"504",0,48,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,0
+35078,"Oshawa","Oshawa"," 502","Mobile poll/Bureau itinérant",N,N,"504",0,48,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35078,"Oshawa","Oshawa"," 502","Mobile poll/Bureau itinérant",N,N,"504",0,48,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 502","Mobile poll/Bureau itinérant",N,N,"504",0,48,"Ransom","","Isaac","Liberal","Libéral",N,N,0
+35078,"Oshawa","Oshawa"," 503","Mobile poll/Bureau itinérant",N,N,"508",0,48,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,0
+35078,"Oshawa","Oshawa"," 503","Mobile poll/Bureau itinérant",N,N,"508",0,48,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35078,"Oshawa","Oshawa"," 503","Mobile poll/Bureau itinérant",N,N,"508",0,48,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 503","Mobile poll/Bureau itinérant",N,N,"508",0,48,"Ransom","","Isaac","Liberal","Libéral",N,N,0
+35078,"Oshawa","Oshawa"," 504","Mobile poll/Bureau itinérant",N,N,"",3,148,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,37
+35078,"Oshawa","Oshawa"," 504","Mobile poll/Bureau itinérant",N,N,"",3,148,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35078,"Oshawa","Oshawa"," 504","Mobile poll/Bureau itinérant",N,N,"",3,148,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,5
+35078,"Oshawa","Oshawa"," 504","Mobile poll/Bureau itinérant",N,N,"",3,148,"Ransom","","Isaac","Liberal","Libéral",N,N,39
+35078,"Oshawa","Oshawa"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,64,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,0
+35078,"Oshawa","Oshawa"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,64,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35078,"Oshawa","Oshawa"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,64,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,64,"Ransom","","Isaac","Liberal","Libéral",N,N,0
+35078,"Oshawa","Oshawa"," 506","Mobile poll/Bureau itinérant",N,N,"",4,75,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,29
+35078,"Oshawa","Oshawa"," 506","Mobile poll/Bureau itinérant",N,N,"",4,75,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 506","Mobile poll/Bureau itinérant",N,N,"",4,75,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 506","Mobile poll/Bureau itinérant",N,N,"",4,75,"Ransom","","Isaac","Liberal","Libéral",N,N,42
+35078,"Oshawa","Oshawa"," 507","Mobile poll/Bureau itinérant",N,N,"",4,45,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,31
+35078,"Oshawa","Oshawa"," 507","Mobile poll/Bureau itinérant",N,N,"",4,45,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35078,"Oshawa","Oshawa"," 507","Mobile poll/Bureau itinérant",N,N,"",4,45,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 507","Mobile poll/Bureau itinérant",N,N,"",4,45,"Ransom","","Isaac","Liberal","Libéral",N,N,25
+35078,"Oshawa","Oshawa"," 508","Mobile poll/Bureau itinérant",N,N,"",3,128,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,47
+35078,"Oshawa","Oshawa"," 508","Mobile poll/Bureau itinérant",N,N,"",3,128,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35078,"Oshawa","Oshawa"," 508","Mobile poll/Bureau itinérant",N,N,"",3,128,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,3
+35078,"Oshawa","Oshawa"," 508","Mobile poll/Bureau itinérant",N,N,"",3,128,"Ransom","","Isaac","Liberal","Libéral",N,N,46
+35078,"Oshawa","Oshawa"," 509","Mobile poll/Bureau itinérant",N,N,"510",0,75,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,0
+35078,"Oshawa","Oshawa"," 509","Mobile poll/Bureau itinérant",N,N,"510",0,75,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35078,"Oshawa","Oshawa"," 509","Mobile poll/Bureau itinérant",N,N,"510",0,75,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 509","Mobile poll/Bureau itinérant",N,N,"510",0,75,"Ransom","","Isaac","Liberal","Libéral",N,N,0
+35078,"Oshawa","Oshawa"," 510","Mobile poll/Bureau itinérant",N,N,"",0,94,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,30
+35078,"Oshawa","Oshawa"," 510","Mobile poll/Bureau itinérant",N,N,"",0,94,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35078,"Oshawa","Oshawa"," 510","Mobile poll/Bureau itinérant",N,N,"",0,94,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,2
+35078,"Oshawa","Oshawa"," 510","Mobile poll/Bureau itinérant",N,N,"",0,94,"Ransom","","Isaac","Liberal","Libéral",N,N,39
+35078,"Oshawa","Oshawa"," 511","Mobile poll/Bureau itinérant",N,N,"507",0,48,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,0
+35078,"Oshawa","Oshawa"," 511","Mobile poll/Bureau itinérant",N,N,"507",0,48,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35078,"Oshawa","Oshawa"," 511","Mobile poll/Bureau itinérant",N,N,"507",0,48,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,0
+35078,"Oshawa","Oshawa"," 511","Mobile poll/Bureau itinérant",N,N,"507",0,48,"Ransom","","Isaac","Liberal","Libéral",N,N,0
+35078,"Oshawa","Oshawa"," 600","Oshawa",N,N,"",3,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,584
+35078,"Oshawa","Oshawa"," 600","Oshawa",N,N,"",3,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35078,"Oshawa","Oshawa"," 600","Oshawa",N,N,"",3,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,4
+35078,"Oshawa","Oshawa"," 600","Oshawa",N,N,"",3,0,"Ransom","","Isaac","Liberal","Libéral",N,N,600
+35078,"Oshawa","Oshawa"," 601","Oshawa",N,N,"",9,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,577
+35078,"Oshawa","Oshawa"," 601","Oshawa",N,N,"",9,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35078,"Oshawa","Oshawa"," 601","Oshawa",N,N,"",9,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,12
+35078,"Oshawa","Oshawa"," 601","Oshawa",N,N,"",9,0,"Ransom","","Isaac","Liberal","Libéral",N,N,625
+35078,"Oshawa","Oshawa"," 602","Oshawa",N,N,"",11,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,551
+35078,"Oshawa","Oshawa"," 602","Oshawa",N,N,"",11,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,106
+35078,"Oshawa","Oshawa"," 602","Oshawa",N,N,"",11,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,15
+35078,"Oshawa","Oshawa"," 602","Oshawa",N,N,"",11,0,"Ransom","","Isaac","Liberal","Libéral",N,N,722
+35078,"Oshawa","Oshawa"," 603","Oshawa",N,N,"",5,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,494
+35078,"Oshawa","Oshawa"," 603","Oshawa",N,N,"",5,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,115
+35078,"Oshawa","Oshawa"," 603","Oshawa",N,N,"",5,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,19
+35078,"Oshawa","Oshawa"," 603","Oshawa",N,N,"",5,0,"Ransom","","Isaac","Liberal","Libéral",N,N,553
+35078,"Oshawa","Oshawa"," 604","Oshawa",N,N,"",5,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,544
+35078,"Oshawa","Oshawa"," 604","Oshawa",N,N,"",5,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+35078,"Oshawa","Oshawa"," 604","Oshawa",N,N,"",5,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,8
+35078,"Oshawa","Oshawa"," 604","Oshawa",N,N,"",5,0,"Ransom","","Isaac","Liberal","Libéral",N,N,534
+35078,"Oshawa","Oshawa"," 605","Oshawa",N,N,"",7,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,667
+35078,"Oshawa","Oshawa"," 605","Oshawa",N,N,"",7,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35078,"Oshawa","Oshawa"," 605","Oshawa",N,N,"",7,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,11
+35078,"Oshawa","Oshawa"," 605","Oshawa",N,N,"",7,0,"Ransom","","Isaac","Liberal","Libéral",N,N,817
+35078,"Oshawa","Oshawa"," 606","Oshawa",N,N,"",4,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,508
+35078,"Oshawa","Oshawa"," 606","Oshawa",N,N,"",4,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35078,"Oshawa","Oshawa"," 606","Oshawa",N,N,"",4,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,9
+35078,"Oshawa","Oshawa"," 606","Oshawa",N,N,"",4,0,"Ransom","","Isaac","Liberal","Libéral",N,N,572
+35078,"Oshawa","Oshawa"," 607","Oshawa",N,N,"",9,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,534
+35078,"Oshawa","Oshawa"," 607","Oshawa",N,N,"",9,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35078,"Oshawa","Oshawa"," 607","Oshawa",N,N,"",9,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,10
+35078,"Oshawa","Oshawa"," 607","Oshawa",N,N,"",9,0,"Ransom","","Isaac","Liberal","Libéral",N,N,730
+35078,"Oshawa","Oshawa"," 608","Oshawa",N,N,"",6,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,327
+35078,"Oshawa","Oshawa"," 608","Oshawa",N,N,"",6,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35078,"Oshawa","Oshawa"," 608","Oshawa",N,N,"",6,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,7
+35078,"Oshawa","Oshawa"," 608","Oshawa",N,N,"",6,0,"Ransom","","Isaac","Liberal","Libéral",N,N,399
+35078,"Oshawa","Oshawa"," 609","Oshawa",N,N,"",6,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,614
+35078,"Oshawa","Oshawa"," 609","Oshawa",N,N,"",6,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+35078,"Oshawa","Oshawa"," 609","Oshawa",N,N,"",6,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,10
+35078,"Oshawa","Oshawa"," 609","Oshawa",N,N,"",6,0,"Ransom","","Isaac","Liberal","Libéral",N,N,608
+35078,"Oshawa","Oshawa"," 610","Oshawa",N,N,"",6,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,658
+35078,"Oshawa","Oshawa"," 610","Oshawa",N,N,"",6,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35078,"Oshawa","Oshawa"," 610","Oshawa",N,N,"",6,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,11
+35078,"Oshawa","Oshawa"," 610","Oshawa",N,N,"",6,0,"Ransom","","Isaac","Liberal","Libéral",N,N,747
+35078,"Oshawa","Oshawa"," 611","Oshawa",N,N,"",9,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,620
+35078,"Oshawa","Oshawa"," 611","Oshawa",N,N,"",9,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+35078,"Oshawa","Oshawa"," 611","Oshawa",N,N,"",9,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,15
+35078,"Oshawa","Oshawa"," 611","Oshawa",N,N,"",9,0,"Ransom","","Isaac","Liberal","Libéral",N,N,592
+35078,"Oshawa","Oshawa"," 612","Oshawa",N,N,"",2,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,558
+35078,"Oshawa","Oshawa"," 612","Oshawa",N,N,"",2,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35078,"Oshawa","Oshawa"," 612","Oshawa",N,N,"",2,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,12
+35078,"Oshawa","Oshawa"," 612","Oshawa",N,N,"",2,0,"Ransom","","Isaac","Liberal","Libéral",N,N,431
+35078,"Oshawa","Oshawa"," 613","Oshawa",N,N,"",2,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,313
+35078,"Oshawa","Oshawa"," 613","Oshawa",N,N,"",2,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35078,"Oshawa","Oshawa"," 613","Oshawa",N,N,"",2,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,6
+35078,"Oshawa","Oshawa"," 613","Oshawa",N,N,"",2,0,"Ransom","","Isaac","Liberal","Libéral",N,N,373
+35078,"Oshawa","Oshawa"," 614","Oshawa",N,N,"",11,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,371
+35078,"Oshawa","Oshawa"," 614","Oshawa",N,N,"",11,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+35078,"Oshawa","Oshawa"," 614","Oshawa",N,N,"",11,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,8
+35078,"Oshawa","Oshawa"," 614","Oshawa",N,N,"",11,0,"Ransom","","Isaac","Liberal","Libéral",N,N,371
+35078,"Oshawa","Oshawa"," 615","Oshawa",N,N,"",9,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,512
+35078,"Oshawa","Oshawa"," 615","Oshawa",N,N,"",9,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35078,"Oshawa","Oshawa"," 615","Oshawa",N,N,"",9,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,11
+35078,"Oshawa","Oshawa"," 615","Oshawa",N,N,"",9,0,"Ransom","","Isaac","Liberal","Libéral",N,N,513
+35078,"Oshawa","Oshawa"," 616","Oshawa",N,N,"",2,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,314
+35078,"Oshawa","Oshawa"," 616","Oshawa",N,N,"",2,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35078,"Oshawa","Oshawa"," 616","Oshawa",N,N,"",2,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,10
+35078,"Oshawa","Oshawa"," 616","Oshawa",N,N,"",2,0,"Ransom","","Isaac","Liberal","Libéral",N,N,245
+35078,"Oshawa","Oshawa"," 617","Oshawa",N,N,"",12,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,396
+35078,"Oshawa","Oshawa"," 617","Oshawa",N,N,"",12,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+35078,"Oshawa","Oshawa"," 617","Oshawa",N,N,"",12,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,8
+35078,"Oshawa","Oshawa"," 617","Oshawa",N,N,"",12,0,"Ransom","","Isaac","Liberal","Libéral",N,N,309
+35078,"Oshawa","Oshawa"," 618","Oshawa",N,N,"",7,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,454
+35078,"Oshawa","Oshawa"," 618","Oshawa",N,N,"",7,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35078,"Oshawa","Oshawa"," 618","Oshawa",N,N,"",7,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,13
+35078,"Oshawa","Oshawa"," 618","Oshawa",N,N,"",7,0,"Ransom","","Isaac","Liberal","Libéral",N,N,406
+35078,"Oshawa","Oshawa"," 619","Oshawa",N,N,"",8,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,547
+35078,"Oshawa","Oshawa"," 619","Oshawa",N,N,"",8,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+35078,"Oshawa","Oshawa"," 619","Oshawa",N,N,"",8,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,18
+35078,"Oshawa","Oshawa"," 619","Oshawa",N,N,"",8,0,"Ransom","","Isaac","Liberal","Libéral",N,N,490
+35078,"Oshawa","Oshawa"," 620","Oshawa",N,N,"",9,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,474
+35078,"Oshawa","Oshawa"," 620","Oshawa",N,N,"",9,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35078,"Oshawa","Oshawa"," 620","Oshawa",N,N,"",9,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,13
+35078,"Oshawa","Oshawa"," 620","Oshawa",N,N,"",9,0,"Ransom","","Isaac","Liberal","Libéral",N,N,467
+35078,"Oshawa","Oshawa"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,310,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,132
+35078,"Oshawa","Oshawa"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,310,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35078,"Oshawa","Oshawa"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,310,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,9
+35078,"Oshawa","Oshawa"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,310,"Ransom","","Isaac","Liberal","Libéral",N,N,293
+35078,"Oshawa","Oshawa"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",95,0,"Kirkland","","Rhonda","Conservative","Conservateur",N,Y,2044
+35078,"Oshawa","Oshawa"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",95,0,"Labelle","","Sara","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,317
+35078,"Oshawa","Oshawa"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",95,0,"Mathewson","","Katherine","Green Party","Parti Vert",N,N,26
+35078,"Oshawa","Oshawa"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",95,0,"Ransom","","Isaac","Liberal","Libéral",N,N,1396

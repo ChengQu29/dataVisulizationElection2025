@@ -1,0 +1,897 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+59038,"Vancouver Granville","Vancouver Granville"," 1","Vancouver",N,N,"",0,581,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 1","Vancouver",N,N,"",0,581,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,125
+59038,"Vancouver Granville","Vancouver Granville"," 1","Vancouver",N,N,"",0,581,"Rogers","","Marie","Conservative","Conservateur",N,N,73
+59038,"Vancouver Granville","Vancouver Granville"," 1","Vancouver",N,N,"",0,581,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 2","Vancouver",N,N,"",0,407,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 2","Vancouver",N,N,"",0,407,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,87
+59038,"Vancouver Granville","Vancouver Granville"," 2","Vancouver",N,N,"",0,407,"Rogers","","Marie","Conservative","Conservateur",N,N,48
+59038,"Vancouver Granville","Vancouver Granville"," 2","Vancouver",N,N,"",0,407,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 3","Vancouver",N,N,"",0,388,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 3","Vancouver",N,N,"",0,388,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,76
+59038,"Vancouver Granville","Vancouver Granville"," 3","Vancouver",N,N,"",0,388,"Rogers","","Marie","Conservative","Conservateur",N,N,27
+59038,"Vancouver Granville","Vancouver Granville"," 3","Vancouver",N,N,"",0,388,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59038,"Vancouver Granville","Vancouver Granville"," 4","Vancouver",N,N,"",0,573,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 4","Vancouver",N,N,"",0,573,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,119
+59038,"Vancouver Granville","Vancouver Granville"," 4","Vancouver",N,N,"",0,573,"Rogers","","Marie","Conservative","Conservateur",N,N,56
+59038,"Vancouver Granville","Vancouver Granville"," 4","Vancouver",N,N,"",0,573,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59038,"Vancouver Granville","Vancouver Granville"," 5","Vancouver",N,N,"",0,470,"Kroll","","Jerry","Green Party","Parti Vert",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 5","Vancouver",N,N,"",0,470,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,82
+59038,"Vancouver Granville","Vancouver Granville"," 5","Vancouver",N,N,"",0,470,"Rogers","","Marie","Conservative","Conservateur",N,N,37
+59038,"Vancouver Granville","Vancouver Granville"," 5","Vancouver",N,N,"",0,470,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 6","Vancouver",N,N,"",0,390,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 6","Vancouver",N,N,"",0,390,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,77
+59038,"Vancouver Granville","Vancouver Granville"," 6","Vancouver",N,N,"",0,390,"Rogers","","Marie","Conservative","Conservateur",N,N,32
+59038,"Vancouver Granville","Vancouver Granville"," 6","Vancouver",N,N,"",0,390,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 7","Vancouver",N,N,"",0,597,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 7","Vancouver",N,N,"",0,597,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,105
+59038,"Vancouver Granville","Vancouver Granville"," 7","Vancouver",N,N,"",0,597,"Rogers","","Marie","Conservative","Conservateur",N,N,47
+59038,"Vancouver Granville","Vancouver Granville"," 7","Vancouver",N,N,"",0,597,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59038,"Vancouver Granville","Vancouver Granville"," 8","Vancouver",N,N,"",0,510,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 8","Vancouver",N,N,"",0,510,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,102
+59038,"Vancouver Granville","Vancouver Granville"," 8","Vancouver",N,N,"",0,510,"Rogers","","Marie","Conservative","Conservateur",N,N,43
+59038,"Vancouver Granville","Vancouver Granville"," 8","Vancouver",N,N,"",0,510,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59038,"Vancouver Granville","Vancouver Granville"," 9","Vancouver",N,N,"",0,516,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 9","Vancouver",N,N,"",0,516,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,81
+59038,"Vancouver Granville","Vancouver Granville"," 9","Vancouver",N,N,"",0,516,"Rogers","","Marie","Conservative","Conservateur",N,N,47
+59038,"Vancouver Granville","Vancouver Granville"," 9","Vancouver",N,N,"",0,516,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 10","Vancouver",N,N,"",1,511,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 10","Vancouver",N,N,"",1,511,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,95
+59038,"Vancouver Granville","Vancouver Granville"," 10","Vancouver",N,N,"",1,511,"Rogers","","Marie","Conservative","Conservateur",N,N,52
+59038,"Vancouver Granville","Vancouver Granville"," 10","Vancouver",N,N,"",1,511,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 11","Vancouver",N,N,"",1,491,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 11","Vancouver",N,N,"",1,491,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,111
+59038,"Vancouver Granville","Vancouver Granville"," 11","Vancouver",N,N,"",1,491,"Rogers","","Marie","Conservative","Conservateur",N,N,40
+59038,"Vancouver Granville","Vancouver Granville"," 11","Vancouver",N,N,"",1,491,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 12","Vancouver",N,N,"",0,433,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 12","Vancouver",N,N,"",0,433,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,106
+59038,"Vancouver Granville","Vancouver Granville"," 12","Vancouver",N,N,"",0,433,"Rogers","","Marie","Conservative","Conservateur",N,N,40
+59038,"Vancouver Granville","Vancouver Granville"," 12","Vancouver",N,N,"",0,433,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59038,"Vancouver Granville","Vancouver Granville"," 13","Vancouver",N,N,"",0,456,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 13","Vancouver",N,N,"",0,456,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,39
+59038,"Vancouver Granville","Vancouver Granville"," 13","Vancouver",N,N,"",0,456,"Rogers","","Marie","Conservative","Conservateur",N,N,19
+59038,"Vancouver Granville","Vancouver Granville"," 13","Vancouver",N,N,"",0,456,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 14","Vancouver",N,N,"",1,490,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 14","Vancouver",N,N,"",1,490,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,93
+59038,"Vancouver Granville","Vancouver Granville"," 14","Vancouver",N,N,"",1,490,"Rogers","","Marie","Conservative","Conservateur",N,N,34
+59038,"Vancouver Granville","Vancouver Granville"," 14","Vancouver",N,N,"",1,490,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 15","Vancouver",N,N,"",0,425,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 15","Vancouver",N,N,"",0,425,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,54
+59038,"Vancouver Granville","Vancouver Granville"," 15","Vancouver",N,N,"",0,425,"Rogers","","Marie","Conservative","Conservateur",N,N,27
+59038,"Vancouver Granville","Vancouver Granville"," 15","Vancouver",N,N,"",0,425,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59038,"Vancouver Granville","Vancouver Granville"," 16","Vancouver",N,N,"",0,457,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 16","Vancouver",N,N,"",0,457,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,67
+59038,"Vancouver Granville","Vancouver Granville"," 16","Vancouver",N,N,"",0,457,"Rogers","","Marie","Conservative","Conservateur",N,N,31
+59038,"Vancouver Granville","Vancouver Granville"," 16","Vancouver",N,N,"",0,457,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 17","Vancouver",N,N,"",0,453,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 17","Vancouver",N,N,"",0,453,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,87
+59038,"Vancouver Granville","Vancouver Granville"," 17","Vancouver",N,N,"",0,453,"Rogers","","Marie","Conservative","Conservateur",N,N,48
+59038,"Vancouver Granville","Vancouver Granville"," 17","Vancouver",N,N,"",0,453,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59038,"Vancouver Granville","Vancouver Granville"," 18","Vancouver",N,N,"",0,578,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 18","Vancouver",N,N,"",0,578,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,110
+59038,"Vancouver Granville","Vancouver Granville"," 18","Vancouver",N,N,"",0,578,"Rogers","","Marie","Conservative","Conservateur",N,N,45
+59038,"Vancouver Granville","Vancouver Granville"," 18","Vancouver",N,N,"",0,578,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 19","Vancouver",N,N,"",1,482,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 19","Vancouver",N,N,"",1,482,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,65
+59038,"Vancouver Granville","Vancouver Granville"," 19","Vancouver",N,N,"",1,482,"Rogers","","Marie","Conservative","Conservateur",N,N,43
+59038,"Vancouver Granville","Vancouver Granville"," 19","Vancouver",N,N,"",1,482,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 20","Vancouver",N,N,"",0,508,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 20","Vancouver",N,N,"",0,508,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,106
+59038,"Vancouver Granville","Vancouver Granville"," 20","Vancouver",N,N,"",0,508,"Rogers","","Marie","Conservative","Conservateur",N,N,60
+59038,"Vancouver Granville","Vancouver Granville"," 20","Vancouver",N,N,"",0,508,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59038,"Vancouver Granville","Vancouver Granville"," 21A","Vancouver",N,N,"",0,507,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 21A","Vancouver",N,N,"",0,507,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,92
+59038,"Vancouver Granville","Vancouver Granville"," 21A","Vancouver",N,N,"",0,507,"Rogers","","Marie","Conservative","Conservateur",N,N,55
+59038,"Vancouver Granville","Vancouver Granville"," 21A","Vancouver",N,N,"",0,507,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59038,"Vancouver Granville","Vancouver Granville"," 21B","Mobile poll/Bureau itinérant",N,N,"88B",0,51,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 21B","Mobile poll/Bureau itinérant",N,N,"88B",0,51,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,0
+59038,"Vancouver Granville","Vancouver Granville"," 21B","Mobile poll/Bureau itinérant",N,N,"88B",0,51,"Rogers","","Marie","Conservative","Conservateur",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 21B","Mobile poll/Bureau itinérant",N,N,"88B",0,51,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 22","Vancouver",N,N,"",1,562,"Kroll","","Jerry","Green Party","Parti Vert",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 22","Vancouver",N,N,"",1,562,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,90
+59038,"Vancouver Granville","Vancouver Granville"," 22","Vancouver",N,N,"",1,562,"Rogers","","Marie","Conservative","Conservateur",N,N,43
+59038,"Vancouver Granville","Vancouver Granville"," 22","Vancouver",N,N,"",1,562,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59038,"Vancouver Granville","Vancouver Granville"," 23","Vancouver",N,N,"",1,521,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 23","Vancouver",N,N,"",1,521,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,90
+59038,"Vancouver Granville","Vancouver Granville"," 23","Vancouver",N,N,"",1,521,"Rogers","","Marie","Conservative","Conservateur",N,N,45
+59038,"Vancouver Granville","Vancouver Granville"," 23","Vancouver",N,N,"",1,521,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59038,"Vancouver Granville","Vancouver Granville"," 24","Vancouver",N,N,"",0,513,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 24","Vancouver",N,N,"",0,513,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,88
+59038,"Vancouver Granville","Vancouver Granville"," 24","Vancouver",N,N,"",0,513,"Rogers","","Marie","Conservative","Conservateur",N,N,54
+59038,"Vancouver Granville","Vancouver Granville"," 24","Vancouver",N,N,"",0,513,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 25","Vancouver",N,N,"",0,392,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 25","Vancouver",N,N,"",0,392,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,63
+59038,"Vancouver Granville","Vancouver Granville"," 25","Vancouver",N,N,"",0,392,"Rogers","","Marie","Conservative","Conservateur",N,N,35
+59038,"Vancouver Granville","Vancouver Granville"," 25","Vancouver",N,N,"",0,392,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59038,"Vancouver Granville","Vancouver Granville"," 26","Vancouver",N,N,"",0,533,"Kroll","","Jerry","Green Party","Parti Vert",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 26","Vancouver",N,N,"",0,533,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,85
+59038,"Vancouver Granville","Vancouver Granville"," 26","Vancouver",N,N,"",0,533,"Rogers","","Marie","Conservative","Conservateur",N,N,35
+59038,"Vancouver Granville","Vancouver Granville"," 26","Vancouver",N,N,"",0,533,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59038,"Vancouver Granville","Vancouver Granville"," 27","Vancouver",N,N,"",0,583,"Kroll","","Jerry","Green Party","Parti Vert",N,N,9
+59038,"Vancouver Granville","Vancouver Granville"," 27","Vancouver",N,N,"",0,583,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,156
+59038,"Vancouver Granville","Vancouver Granville"," 27","Vancouver",N,N,"",0,583,"Rogers","","Marie","Conservative","Conservateur",N,N,43
+59038,"Vancouver Granville","Vancouver Granville"," 27","Vancouver",N,N,"",0,583,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59038,"Vancouver Granville","Vancouver Granville"," 28","Vancouver",N,N,"",0,584,"Kroll","","Jerry","Green Party","Parti Vert",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 28","Vancouver",N,N,"",0,584,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,151
+59038,"Vancouver Granville","Vancouver Granville"," 28","Vancouver",N,N,"",0,584,"Rogers","","Marie","Conservative","Conservateur",N,N,54
+59038,"Vancouver Granville","Vancouver Granville"," 28","Vancouver",N,N,"",0,584,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59038,"Vancouver Granville","Vancouver Granville"," 29","Vancouver",N,N,"",0,443,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 29","Vancouver",N,N,"",0,443,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,123
+59038,"Vancouver Granville","Vancouver Granville"," 29","Vancouver",N,N,"",0,443,"Rogers","","Marie","Conservative","Conservateur",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 29","Vancouver",N,N,"",0,443,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59038,"Vancouver Granville","Vancouver Granville"," 30","Vancouver",N,N,"",1,482,"Kroll","","Jerry","Green Party","Parti Vert",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 30","Vancouver",N,N,"",1,482,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,75
+59038,"Vancouver Granville","Vancouver Granville"," 30","Vancouver",N,N,"",1,482,"Rogers","","Marie","Conservative","Conservateur",N,N,48
+59038,"Vancouver Granville","Vancouver Granville"," 30","Vancouver",N,N,"",1,482,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59038,"Vancouver Granville","Vancouver Granville"," 31","Vancouver",N,N,"",0,598,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 31","Vancouver",N,N,"",0,598,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,137
+59038,"Vancouver Granville","Vancouver Granville"," 31","Vancouver",N,N,"",0,598,"Rogers","","Marie","Conservative","Conservateur",N,N,58
+59038,"Vancouver Granville","Vancouver Granville"," 31","Vancouver",N,N,"",0,598,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59038,"Vancouver Granville","Vancouver Granville"," 32","Vancouver",N,N,"",0,499,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 32","Vancouver",N,N,"",0,499,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,83
+59038,"Vancouver Granville","Vancouver Granville"," 32","Vancouver",N,N,"",0,499,"Rogers","","Marie","Conservative","Conservateur",N,N,42
+59038,"Vancouver Granville","Vancouver Granville"," 32","Vancouver",N,N,"",0,499,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 33","Vancouver",N,N,"",0,590,"Kroll","","Jerry","Green Party","Parti Vert",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 33","Vancouver",N,N,"",0,590,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,88
+59038,"Vancouver Granville","Vancouver Granville"," 33","Vancouver",N,N,"",0,590,"Rogers","","Marie","Conservative","Conservateur",N,N,38
+59038,"Vancouver Granville","Vancouver Granville"," 33","Vancouver",N,N,"",0,590,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59038,"Vancouver Granville","Vancouver Granville"," 34","Vancouver",N,N,"",2,563,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 34","Vancouver",N,N,"",2,563,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,107
+59038,"Vancouver Granville","Vancouver Granville"," 34","Vancouver",N,N,"",2,563,"Rogers","","Marie","Conservative","Conservateur",N,N,41
+59038,"Vancouver Granville","Vancouver Granville"," 34","Vancouver",N,N,"",2,563,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59038,"Vancouver Granville","Vancouver Granville"," 35","Vancouver",N,N,"",0,583,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 35","Vancouver",N,N,"",0,583,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,85
+59038,"Vancouver Granville","Vancouver Granville"," 35","Vancouver",N,N,"",0,583,"Rogers","","Marie","Conservative","Conservateur",N,N,38
+59038,"Vancouver Granville","Vancouver Granville"," 35","Vancouver",N,N,"",0,583,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59038,"Vancouver Granville","Vancouver Granville"," 36","Vancouver",N,N,"",0,520,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 36","Vancouver",N,N,"",0,520,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,84
+59038,"Vancouver Granville","Vancouver Granville"," 36","Vancouver",N,N,"",0,520,"Rogers","","Marie","Conservative","Conservateur",N,N,40
+59038,"Vancouver Granville","Vancouver Granville"," 36","Vancouver",N,N,"",0,520,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 37","Vancouver",N,N,"",0,441,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 37","Vancouver",N,N,"",0,441,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,64
+59038,"Vancouver Granville","Vancouver Granville"," 37","Vancouver",N,N,"",0,441,"Rogers","","Marie","Conservative","Conservateur",N,N,26
+59038,"Vancouver Granville","Vancouver Granville"," 37","Vancouver",N,N,"",0,441,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59038,"Vancouver Granville","Vancouver Granville"," 38","Vancouver",N,N,"",0,557,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 38","Vancouver",N,N,"",0,557,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,128
+59038,"Vancouver Granville","Vancouver Granville"," 38","Vancouver",N,N,"",0,557,"Rogers","","Marie","Conservative","Conservateur",N,N,45
+59038,"Vancouver Granville","Vancouver Granville"," 38","Vancouver",N,N,"",0,557,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 39","Vancouver",N,N,"",0,435,"Kroll","","Jerry","Green Party","Parti Vert",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 39","Vancouver",N,N,"",0,435,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,89
+59038,"Vancouver Granville","Vancouver Granville"," 39","Vancouver",N,N,"",0,435,"Rogers","","Marie","Conservative","Conservateur",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 39","Vancouver",N,N,"",0,435,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59038,"Vancouver Granville","Vancouver Granville"," 40","Vancouver",N,N,"",1,490,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 40","Vancouver",N,N,"",1,490,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,90
+59038,"Vancouver Granville","Vancouver Granville"," 40","Vancouver",N,N,"",1,490,"Rogers","","Marie","Conservative","Conservateur",N,N,47
+59038,"Vancouver Granville","Vancouver Granville"," 40","Vancouver",N,N,"",1,490,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59038,"Vancouver Granville","Vancouver Granville"," 41","Vancouver",N,N,"",0,562,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 41","Vancouver",N,N,"",0,562,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,114
+59038,"Vancouver Granville","Vancouver Granville"," 41","Vancouver",N,N,"",0,562,"Rogers","","Marie","Conservative","Conservateur",N,N,40
+59038,"Vancouver Granville","Vancouver Granville"," 41","Vancouver",N,N,"",0,562,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 42","Vancouver",N,N,"",1,434,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 42","Vancouver",N,N,"",1,434,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,65
+59038,"Vancouver Granville","Vancouver Granville"," 42","Vancouver",N,N,"",1,434,"Rogers","","Marie","Conservative","Conservateur",N,N,26
+59038,"Vancouver Granville","Vancouver Granville"," 42","Vancouver",N,N,"",1,434,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 43","Vancouver",N,N,"",0,432,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 43","Vancouver",N,N,"",0,432,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,83
+59038,"Vancouver Granville","Vancouver Granville"," 43","Vancouver",N,N,"",0,432,"Rogers","","Marie","Conservative","Conservateur",N,N,33
+59038,"Vancouver Granville","Vancouver Granville"," 43","Vancouver",N,N,"",0,432,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 44","Vancouver",N,N,"",0,518,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 44","Vancouver",N,N,"",0,518,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,86
+59038,"Vancouver Granville","Vancouver Granville"," 44","Vancouver",N,N,"",0,518,"Rogers","","Marie","Conservative","Conservateur",N,N,38
+59038,"Vancouver Granville","Vancouver Granville"," 44","Vancouver",N,N,"",0,518,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 45","Vancouver",N,N,"",1,447,"Kroll","","Jerry","Green Party","Parti Vert",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 45","Vancouver",N,N,"",1,447,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,68
+59038,"Vancouver Granville","Vancouver Granville"," 45","Vancouver",N,N,"",1,447,"Rogers","","Marie","Conservative","Conservateur",N,N,37
+59038,"Vancouver Granville","Vancouver Granville"," 45","Vancouver",N,N,"",1,447,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59038,"Vancouver Granville","Vancouver Granville"," 46","Vancouver",N,N,"",1,450,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 46","Vancouver",N,N,"",1,450,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,66
+59038,"Vancouver Granville","Vancouver Granville"," 46","Vancouver",N,N,"",1,450,"Rogers","","Marie","Conservative","Conservateur",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 46","Vancouver",N,N,"",1,450,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 47","Vancouver",N,N,"",0,591,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 47","Vancouver",N,N,"",0,591,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,103
+59038,"Vancouver Granville","Vancouver Granville"," 47","Vancouver",N,N,"",0,591,"Rogers","","Marie","Conservative","Conservateur",N,N,58
+59038,"Vancouver Granville","Vancouver Granville"," 47","Vancouver",N,N,"",0,591,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59038,"Vancouver Granville","Vancouver Granville"," 48","Vancouver",N,N,"",2,512,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 48","Vancouver",N,N,"",2,512,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,75
+59038,"Vancouver Granville","Vancouver Granville"," 48","Vancouver",N,N,"",2,512,"Rogers","","Marie","Conservative","Conservateur",N,N,21
+59038,"Vancouver Granville","Vancouver Granville"," 48","Vancouver",N,N,"",2,512,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59038,"Vancouver Granville","Vancouver Granville"," 49","Vancouver",N,N,"",0,429,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 49","Vancouver",N,N,"",0,429,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,68
+59038,"Vancouver Granville","Vancouver Granville"," 49","Vancouver",N,N,"",0,429,"Rogers","","Marie","Conservative","Conservateur",N,N,35
+59038,"Vancouver Granville","Vancouver Granville"," 49","Vancouver",N,N,"",0,429,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 50","Vancouver",N,N,"",0,588,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 50","Vancouver",N,N,"",0,588,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,97
+59038,"Vancouver Granville","Vancouver Granville"," 50","Vancouver",N,N,"",0,588,"Rogers","","Marie","Conservative","Conservateur",N,N,42
+59038,"Vancouver Granville","Vancouver Granville"," 50","Vancouver",N,N,"",0,588,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59038,"Vancouver Granville","Vancouver Granville"," 51","Vancouver",N,N,"",1,524,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 51","Vancouver",N,N,"",1,524,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,81
+59038,"Vancouver Granville","Vancouver Granville"," 51","Vancouver",N,N,"",1,524,"Rogers","","Marie","Conservative","Conservateur",N,N,29
+59038,"Vancouver Granville","Vancouver Granville"," 51","Vancouver",N,N,"",1,524,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 52","Vancouver",N,N,"",0,442,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 52","Vancouver",N,N,"",0,442,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,113
+59038,"Vancouver Granville","Vancouver Granville"," 52","Vancouver",N,N,"",0,442,"Rogers","","Marie","Conservative","Conservateur",N,N,33
+59038,"Vancouver Granville","Vancouver Granville"," 52","Vancouver",N,N,"",0,442,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59038,"Vancouver Granville","Vancouver Granville"," 53","Vancouver",N,N,"",0,528,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 53","Vancouver",N,N,"",0,528,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,124
+59038,"Vancouver Granville","Vancouver Granville"," 53","Vancouver",N,N,"",0,528,"Rogers","","Marie","Conservative","Conservateur",N,N,40
+59038,"Vancouver Granville","Vancouver Granville"," 53","Vancouver",N,N,"",0,528,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 54","Vancouver",N,N,"",0,513,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 54","Vancouver",N,N,"",0,513,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,128
+59038,"Vancouver Granville","Vancouver Granville"," 54","Vancouver",N,N,"",0,513,"Rogers","","Marie","Conservative","Conservateur",N,N,54
+59038,"Vancouver Granville","Vancouver Granville"," 54","Vancouver",N,N,"",0,513,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59038,"Vancouver Granville","Vancouver Granville"," 55","Vancouver",N,N,"",2,472,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 55","Vancouver",N,N,"",2,472,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,86
+59038,"Vancouver Granville","Vancouver Granville"," 55","Vancouver",N,N,"",2,472,"Rogers","","Marie","Conservative","Conservateur",N,N,46
+59038,"Vancouver Granville","Vancouver Granville"," 55","Vancouver",N,N,"",2,472,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 56","Vancouver",N,N,"",0,468,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 56","Vancouver",N,N,"",0,468,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,96
+59038,"Vancouver Granville","Vancouver Granville"," 56","Vancouver",N,N,"",0,468,"Rogers","","Marie","Conservative","Conservateur",N,N,31
+59038,"Vancouver Granville","Vancouver Granville"," 56","Vancouver",N,N,"",0,468,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59038,"Vancouver Granville","Vancouver Granville"," 57","Vancouver",N,N,"",0,464,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 57","Vancouver",N,N,"",0,464,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,106
+59038,"Vancouver Granville","Vancouver Granville"," 57","Vancouver",N,N,"",0,464,"Rogers","","Marie","Conservative","Conservateur",N,N,44
+59038,"Vancouver Granville","Vancouver Granville"," 57","Vancouver",N,N,"",0,464,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59038,"Vancouver Granville","Vancouver Granville"," 58","Vancouver",N,N,"",0,526,"Kroll","","Jerry","Green Party","Parti Vert",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 58","Vancouver",N,N,"",0,526,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,92
+59038,"Vancouver Granville","Vancouver Granville"," 58","Vancouver",N,N,"",0,526,"Rogers","","Marie","Conservative","Conservateur",N,N,40
+59038,"Vancouver Granville","Vancouver Granville"," 58","Vancouver",N,N,"",0,526,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59038,"Vancouver Granville","Vancouver Granville"," 59","Vancouver",N,N,"",0,495,"Kroll","","Jerry","Green Party","Parti Vert",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 59","Vancouver",N,N,"",0,495,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,129
+59038,"Vancouver Granville","Vancouver Granville"," 59","Vancouver",N,N,"",0,495,"Rogers","","Marie","Conservative","Conservateur",N,N,51
+59038,"Vancouver Granville","Vancouver Granville"," 59","Vancouver",N,N,"",0,495,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 60","Vancouver",N,N,"",0,520,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 60","Vancouver",N,N,"",0,520,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,117
+59038,"Vancouver Granville","Vancouver Granville"," 60","Vancouver",N,N,"",0,520,"Rogers","","Marie","Conservative","Conservateur",N,N,43
+59038,"Vancouver Granville","Vancouver Granville"," 60","Vancouver",N,N,"",0,520,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 61","Vancouver",N,N,"",1,487,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 61","Vancouver",N,N,"",1,487,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,103
+59038,"Vancouver Granville","Vancouver Granville"," 61","Vancouver",N,N,"",1,487,"Rogers","","Marie","Conservative","Conservateur",N,N,48
+59038,"Vancouver Granville","Vancouver Granville"," 61","Vancouver",N,N,"",1,487,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 62","Vancouver",N,N,"",1,462,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 62","Vancouver",N,N,"",1,462,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,81
+59038,"Vancouver Granville","Vancouver Granville"," 62","Vancouver",N,N,"",1,462,"Rogers","","Marie","Conservative","Conservateur",N,N,38
+59038,"Vancouver Granville","Vancouver Granville"," 62","Vancouver",N,N,"",1,462,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 63","Vancouver",N,N,"",1,483,"Kroll","","Jerry","Green Party","Parti Vert",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 63","Vancouver",N,N,"",1,483,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,115
+59038,"Vancouver Granville","Vancouver Granville"," 63","Vancouver",N,N,"",1,483,"Rogers","","Marie","Conservative","Conservateur",N,N,28
+59038,"Vancouver Granville","Vancouver Granville"," 63","Vancouver",N,N,"",1,483,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59038,"Vancouver Granville","Vancouver Granville"," 64","Vancouver",N,N,"",1,440,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 64","Vancouver",N,N,"",1,440,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,103
+59038,"Vancouver Granville","Vancouver Granville"," 64","Vancouver",N,N,"",1,440,"Rogers","","Marie","Conservative","Conservateur",N,N,27
+59038,"Vancouver Granville","Vancouver Granville"," 64","Vancouver",N,N,"",1,440,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59038,"Vancouver Granville","Vancouver Granville"," 65","Vancouver",N,N,"",0,482,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 65","Vancouver",N,N,"",0,482,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,103
+59038,"Vancouver Granville","Vancouver Granville"," 65","Vancouver",N,N,"",0,482,"Rogers","","Marie","Conservative","Conservateur",N,N,50
+59038,"Vancouver Granville","Vancouver Granville"," 65","Vancouver",N,N,"",0,482,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 66","Vancouver",N,N,"",1,583,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 66","Vancouver",N,N,"",1,583,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,139
+59038,"Vancouver Granville","Vancouver Granville"," 66","Vancouver",N,N,"",1,583,"Rogers","","Marie","Conservative","Conservateur",N,N,39
+59038,"Vancouver Granville","Vancouver Granville"," 66","Vancouver",N,N,"",1,583,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59038,"Vancouver Granville","Vancouver Granville"," 67","Vancouver",N,N,"",1,522,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 67","Vancouver",N,N,"",1,522,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,122
+59038,"Vancouver Granville","Vancouver Granville"," 67","Vancouver",N,N,"",1,522,"Rogers","","Marie","Conservative","Conservateur",N,N,43
+59038,"Vancouver Granville","Vancouver Granville"," 67","Vancouver",N,N,"",1,522,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59038,"Vancouver Granville","Vancouver Granville"," 68","Vancouver",N,N,"",0,541,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 68","Vancouver",N,N,"",0,541,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,110
+59038,"Vancouver Granville","Vancouver Granville"," 68","Vancouver",N,N,"",0,541,"Rogers","","Marie","Conservative","Conservateur",N,N,61
+59038,"Vancouver Granville","Vancouver Granville"," 68","Vancouver",N,N,"",0,541,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 69","Vancouver",N,N,"",0,533,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 69","Vancouver",N,N,"",0,533,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,98
+59038,"Vancouver Granville","Vancouver Granville"," 69","Vancouver",N,N,"",0,533,"Rogers","","Marie","Conservative","Conservateur",N,N,31
+59038,"Vancouver Granville","Vancouver Granville"," 69","Vancouver",N,N,"",0,533,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59038,"Vancouver Granville","Vancouver Granville"," 70","Vancouver",N,N,"",0,434,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 70","Vancouver",N,N,"",0,434,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,85
+59038,"Vancouver Granville","Vancouver Granville"," 70","Vancouver",N,N,"",0,434,"Rogers","","Marie","Conservative","Conservateur",N,N,43
+59038,"Vancouver Granville","Vancouver Granville"," 70","Vancouver",N,N,"",0,434,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 71","Vancouver",N,N,"",0,534,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 71","Vancouver",N,N,"",0,534,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,99
+59038,"Vancouver Granville","Vancouver Granville"," 71","Vancouver",N,N,"",0,534,"Rogers","","Marie","Conservative","Conservateur",N,N,29
+59038,"Vancouver Granville","Vancouver Granville"," 71","Vancouver",N,N,"",0,534,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59038,"Vancouver Granville","Vancouver Granville"," 72","Vancouver",N,N,"",2,479,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 72","Vancouver",N,N,"",2,479,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,79
+59038,"Vancouver Granville","Vancouver Granville"," 72","Vancouver",N,N,"",2,479,"Rogers","","Marie","Conservative","Conservateur",N,N,50
+59038,"Vancouver Granville","Vancouver Granville"," 72","Vancouver",N,N,"",2,479,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59038,"Vancouver Granville","Vancouver Granville"," 73","Vancouver",N,N,"",1,496,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 73","Vancouver",N,N,"",1,496,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,66
+59038,"Vancouver Granville","Vancouver Granville"," 73","Vancouver",N,N,"",1,496,"Rogers","","Marie","Conservative","Conservateur",N,N,36
+59038,"Vancouver Granville","Vancouver Granville"," 73","Vancouver",N,N,"",1,496,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59038,"Vancouver Granville","Vancouver Granville"," 74","Vancouver",N,N,"",1,345,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 74","Vancouver",N,N,"",1,345,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,44
+59038,"Vancouver Granville","Vancouver Granville"," 74","Vancouver",N,N,"",1,345,"Rogers","","Marie","Conservative","Conservateur",N,N,19
+59038,"Vancouver Granville","Vancouver Granville"," 74","Vancouver",N,N,"",1,345,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 75","Vancouver",N,N,"",0,451,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 75","Vancouver",N,N,"",0,451,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,120
+59038,"Vancouver Granville","Vancouver Granville"," 75","Vancouver",N,N,"",0,451,"Rogers","","Marie","Conservative","Conservateur",N,N,51
+59038,"Vancouver Granville","Vancouver Granville"," 75","Vancouver",N,N,"",0,451,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59038,"Vancouver Granville","Vancouver Granville"," 76","Vancouver",N,N,"",1,528,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 76","Vancouver",N,N,"",1,528,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,70
+59038,"Vancouver Granville","Vancouver Granville"," 76","Vancouver",N,N,"",1,528,"Rogers","","Marie","Conservative","Conservateur",N,N,51
+59038,"Vancouver Granville","Vancouver Granville"," 76","Vancouver",N,N,"",1,528,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 77","Vancouver",N,N,"",1,481,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 77","Vancouver",N,N,"",1,481,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,91
+59038,"Vancouver Granville","Vancouver Granville"," 77","Vancouver",N,N,"",1,481,"Rogers","","Marie","Conservative","Conservateur",N,N,33
+59038,"Vancouver Granville","Vancouver Granville"," 77","Vancouver",N,N,"",1,481,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59038,"Vancouver Granville","Vancouver Granville"," 78","Vancouver",N,N,"",0,505,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 78","Vancouver",N,N,"",0,505,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,122
+59038,"Vancouver Granville","Vancouver Granville"," 78","Vancouver",N,N,"",0,505,"Rogers","","Marie","Conservative","Conservateur",N,N,40
+59038,"Vancouver Granville","Vancouver Granville"," 78","Vancouver",N,N,"",0,505,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59038,"Vancouver Granville","Vancouver Granville"," 79","Vancouver",N,N,"",0,444,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 79","Vancouver",N,N,"",0,444,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,116
+59038,"Vancouver Granville","Vancouver Granville"," 79","Vancouver",N,N,"",0,444,"Rogers","","Marie","Conservative","Conservateur",N,N,42
+59038,"Vancouver Granville","Vancouver Granville"," 79","Vancouver",N,N,"",0,444,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59038,"Vancouver Granville","Vancouver Granville"," 80","Vancouver",N,N,"",1,483,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 80","Vancouver",N,N,"",1,483,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,127
+59038,"Vancouver Granville","Vancouver Granville"," 80","Vancouver",N,N,"",1,483,"Rogers","","Marie","Conservative","Conservateur",N,N,37
+59038,"Vancouver Granville","Vancouver Granville"," 80","Vancouver",N,N,"",1,483,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 81","Vancouver",N,N,"",1,424,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 81","Vancouver",N,N,"",1,424,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,86
+59038,"Vancouver Granville","Vancouver Granville"," 81","Vancouver",N,N,"",1,424,"Rogers","","Marie","Conservative","Conservateur",N,N,34
+59038,"Vancouver Granville","Vancouver Granville"," 81","Vancouver",N,N,"",1,424,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 82","Vancouver",N,N,"",0,555,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 82","Vancouver",N,N,"",0,555,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,116
+59038,"Vancouver Granville","Vancouver Granville"," 82","Vancouver",N,N,"",0,555,"Rogers","","Marie","Conservative","Conservateur",N,N,47
+59038,"Vancouver Granville","Vancouver Granville"," 82","Vancouver",N,N,"",0,555,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59038,"Vancouver Granville","Vancouver Granville"," 83","Vancouver",N,N,"",0,363,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 83","Vancouver",N,N,"",0,363,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,59
+59038,"Vancouver Granville","Vancouver Granville"," 83","Vancouver",N,N,"",0,363,"Rogers","","Marie","Conservative","Conservateur",N,N,33
+59038,"Vancouver Granville","Vancouver Granville"," 83","Vancouver",N,N,"",0,363,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 84","Vancouver",N,N,"",2,407,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 84","Vancouver",N,N,"",2,407,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,72
+59038,"Vancouver Granville","Vancouver Granville"," 84","Vancouver",N,N,"",2,407,"Rogers","","Marie","Conservative","Conservateur",N,N,42
+59038,"Vancouver Granville","Vancouver Granville"," 84","Vancouver",N,N,"",2,407,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 85","Vancouver",N,N,"",1,446,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 85","Vancouver",N,N,"",1,446,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,93
+59038,"Vancouver Granville","Vancouver Granville"," 85","Vancouver",N,N,"",1,446,"Rogers","","Marie","Conservative","Conservateur",N,N,64
+59038,"Vancouver Granville","Vancouver Granville"," 85","Vancouver",N,N,"",1,446,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 86","Vancouver",N,N,"",0,452,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 86","Vancouver",N,N,"",0,452,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,55
+59038,"Vancouver Granville","Vancouver Granville"," 86","Vancouver",N,N,"",0,452,"Rogers","","Marie","Conservative","Conservateur",N,N,31
+59038,"Vancouver Granville","Vancouver Granville"," 86","Vancouver",N,N,"",0,452,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 87","Vancouver",N,N,"",0,456,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 87","Vancouver",N,N,"",0,456,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,84
+59038,"Vancouver Granville","Vancouver Granville"," 87","Vancouver",N,N,"",0,456,"Rogers","","Marie","Conservative","Conservateur",N,N,57
+59038,"Vancouver Granville","Vancouver Granville"," 87","Vancouver",N,N,"",0,456,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59038,"Vancouver Granville","Vancouver Granville"," 88A","Vancouver",N,N,"",0,313,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 88A","Vancouver",N,N,"",0,313,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,61
+59038,"Vancouver Granville","Vancouver Granville"," 88A","Vancouver",N,N,"",0,313,"Rogers","","Marie","Conservative","Conservateur",N,N,40
+59038,"Vancouver Granville","Vancouver Granville"," 88A","Vancouver",N,N,"",0,313,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 88B","Mobile poll/Bureau itinérant",N,N,"",0,77,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 88B","Mobile poll/Bureau itinérant",N,N,"",0,77,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,21
+59038,"Vancouver Granville","Vancouver Granville"," 88B","Mobile poll/Bureau itinérant",N,N,"",0,77,"Rogers","","Marie","Conservative","Conservateur",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 88B","Mobile poll/Bureau itinérant",N,N,"",0,77,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 89","Vancouver",N,N,"",0,371,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 89","Vancouver",N,N,"",0,371,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,68
+59038,"Vancouver Granville","Vancouver Granville"," 89","Vancouver",N,N,"",0,371,"Rogers","","Marie","Conservative","Conservateur",N,N,53
+59038,"Vancouver Granville","Vancouver Granville"," 89","Vancouver",N,N,"",0,371,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 90","Vancouver",N,N,"",0,360,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 90","Vancouver",N,N,"",0,360,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,37
+59038,"Vancouver Granville","Vancouver Granville"," 90","Vancouver",N,N,"",0,360,"Rogers","","Marie","Conservative","Conservateur",N,N,56
+59038,"Vancouver Granville","Vancouver Granville"," 90","Vancouver",N,N,"",0,360,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 91","Vancouver",N,N,"",1,395,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 91","Vancouver",N,N,"",1,395,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,56
+59038,"Vancouver Granville","Vancouver Granville"," 91","Vancouver",N,N,"",1,395,"Rogers","","Marie","Conservative","Conservateur",N,N,61
+59038,"Vancouver Granville","Vancouver Granville"," 91","Vancouver",N,N,"",1,395,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 92","Vancouver",N,N,"",0,490,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 92","Vancouver",N,N,"",0,490,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,84
+59038,"Vancouver Granville","Vancouver Granville"," 92","Vancouver",N,N,"",0,490,"Rogers","","Marie","Conservative","Conservateur",N,N,69
+59038,"Vancouver Granville","Vancouver Granville"," 92","Vancouver",N,N,"",0,490,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59038,"Vancouver Granville","Vancouver Granville"," 93","Vancouver",N,N,"",0,522,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 93","Vancouver",N,N,"",0,522,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,102
+59038,"Vancouver Granville","Vancouver Granville"," 93","Vancouver",N,N,"",0,522,"Rogers","","Marie","Conservative","Conservateur",N,N,81
+59038,"Vancouver Granville","Vancouver Granville"," 93","Vancouver",N,N,"",0,522,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 94","Vancouver",N,N,"",0,458,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 94","Vancouver",N,N,"",0,458,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,62
+59038,"Vancouver Granville","Vancouver Granville"," 94","Vancouver",N,N,"",0,458,"Rogers","","Marie","Conservative","Conservateur",N,N,55
+59038,"Vancouver Granville","Vancouver Granville"," 94","Vancouver",N,N,"",0,458,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 95","Vancouver",N,N,"",0,407,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 95","Vancouver",N,N,"",0,407,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,39
+59038,"Vancouver Granville","Vancouver Granville"," 95","Vancouver",N,N,"",0,407,"Rogers","","Marie","Conservative","Conservateur",N,N,57
+59038,"Vancouver Granville","Vancouver Granville"," 95","Vancouver",N,N,"",0,407,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 96","Vancouver",N,N,"",0,430,"Kroll","","Jerry","Green Party","Parti Vert",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 96","Vancouver",N,N,"",0,430,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,68
+59038,"Vancouver Granville","Vancouver Granville"," 96","Vancouver",N,N,"",0,430,"Rogers","","Marie","Conservative","Conservateur",N,N,45
+59038,"Vancouver Granville","Vancouver Granville"," 96","Vancouver",N,N,"",0,430,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59038,"Vancouver Granville","Vancouver Granville"," 97","Vancouver",N,N,"",0,461,"Kroll","","Jerry","Green Party","Parti Vert",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 97","Vancouver",N,N,"",0,461,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,60
+59038,"Vancouver Granville","Vancouver Granville"," 97","Vancouver",N,N,"",0,461,"Rogers","","Marie","Conservative","Conservateur",N,N,31
+59038,"Vancouver Granville","Vancouver Granville"," 97","Vancouver",N,N,"",0,461,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59038,"Vancouver Granville","Vancouver Granville"," 98","Vancouver",N,N,"",0,427,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 98","Vancouver",N,N,"",0,427,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,61
+59038,"Vancouver Granville","Vancouver Granville"," 98","Vancouver",N,N,"",0,427,"Rogers","","Marie","Conservative","Conservateur",N,N,37
+59038,"Vancouver Granville","Vancouver Granville"," 98","Vancouver",N,N,"",0,427,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59038,"Vancouver Granville","Vancouver Granville"," 99","Vancouver",N,N,"",1,380,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 99","Vancouver",N,N,"",1,380,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,42
+59038,"Vancouver Granville","Vancouver Granville"," 99","Vancouver",N,N,"",1,380,"Rogers","","Marie","Conservative","Conservateur",N,N,33
+59038,"Vancouver Granville","Vancouver Granville"," 99","Vancouver",N,N,"",1,380,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 100","Vancouver",N,N,"",1,418,"Kroll","","Jerry","Green Party","Parti Vert",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 100","Vancouver",N,N,"",1,418,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,60
+59038,"Vancouver Granville","Vancouver Granville"," 100","Vancouver",N,N,"",1,418,"Rogers","","Marie","Conservative","Conservateur",N,N,18
+59038,"Vancouver Granville","Vancouver Granville"," 100","Vancouver",N,N,"",1,418,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59038,"Vancouver Granville","Vancouver Granville"," 101","Vancouver",N,N,"",0,363,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 101","Vancouver",N,N,"",0,363,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,34
+59038,"Vancouver Granville","Vancouver Granville"," 101","Vancouver",N,N,"",0,363,"Rogers","","Marie","Conservative","Conservateur",N,N,64
+59038,"Vancouver Granville","Vancouver Granville"," 101","Vancouver",N,N,"",0,363,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 102","Vancouver",N,N,"",1,418,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 102","Vancouver",N,N,"",1,418,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,61
+59038,"Vancouver Granville","Vancouver Granville"," 102","Vancouver",N,N,"",1,418,"Rogers","","Marie","Conservative","Conservateur",N,N,54
+59038,"Vancouver Granville","Vancouver Granville"," 102","Vancouver",N,N,"",1,418,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59038,"Vancouver Granville","Vancouver Granville"," 103","Vancouver",N,N,"",1,415,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 103","Vancouver",N,N,"",1,415,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,47
+59038,"Vancouver Granville","Vancouver Granville"," 103","Vancouver",N,N,"",1,415,"Rogers","","Marie","Conservative","Conservateur",N,N,77
+59038,"Vancouver Granville","Vancouver Granville"," 103","Vancouver",N,N,"",1,415,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 104","Vancouver",N,N,"",1,378,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 104","Vancouver",N,N,"",1,378,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,56
+59038,"Vancouver Granville","Vancouver Granville"," 104","Vancouver",N,N,"",1,378,"Rogers","","Marie","Conservative","Conservateur",N,N,52
+59038,"Vancouver Granville","Vancouver Granville"," 104","Vancouver",N,N,"",1,378,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 105","Vancouver",N,N,"",1,418,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 105","Vancouver",N,N,"",1,418,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,48
+59038,"Vancouver Granville","Vancouver Granville"," 105","Vancouver",N,N,"",1,418,"Rogers","","Marie","Conservative","Conservateur",N,N,62
+59038,"Vancouver Granville","Vancouver Granville"," 105","Vancouver",N,N,"",1,418,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 106","Vancouver",N,N,"",0,429,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 106","Vancouver",N,N,"",0,429,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,48
+59038,"Vancouver Granville","Vancouver Granville"," 106","Vancouver",N,N,"",0,429,"Rogers","","Marie","Conservative","Conservateur",N,N,51
+59038,"Vancouver Granville","Vancouver Granville"," 106","Vancouver",N,N,"",0,429,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 107","Vancouver",N,N,"",0,426,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 107","Vancouver",N,N,"",0,426,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,81
+59038,"Vancouver Granville","Vancouver Granville"," 107","Vancouver",N,N,"",0,426,"Rogers","","Marie","Conservative","Conservateur",N,N,34
+59038,"Vancouver Granville","Vancouver Granville"," 107","Vancouver",N,N,"",0,426,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 108","Vancouver",N,N,"",0,462,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 108","Vancouver",N,N,"",0,462,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,71
+59038,"Vancouver Granville","Vancouver Granville"," 108","Vancouver",N,N,"",0,462,"Rogers","","Marie","Conservative","Conservateur",N,N,55
+59038,"Vancouver Granville","Vancouver Granville"," 108","Vancouver",N,N,"",0,462,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59038,"Vancouver Granville","Vancouver Granville"," 109","Vancouver",N,N,"",0,485,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 109","Vancouver",N,N,"",0,485,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,94
+59038,"Vancouver Granville","Vancouver Granville"," 109","Vancouver",N,N,"",0,485,"Rogers","","Marie","Conservative","Conservateur",N,N,30
+59038,"Vancouver Granville","Vancouver Granville"," 109","Vancouver",N,N,"",0,485,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59038,"Vancouver Granville","Vancouver Granville"," 110","Vancouver",N,N,"",1,360,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 110","Vancouver",N,N,"",1,360,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,86
+59038,"Vancouver Granville","Vancouver Granville"," 110","Vancouver",N,N,"",1,360,"Rogers","","Marie","Conservative","Conservateur",N,N,25
+59038,"Vancouver Granville","Vancouver Granville"," 110","Vancouver",N,N,"",1,360,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 111","Vancouver",N,N,"",0,434,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 111","Vancouver",N,N,"",0,434,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,59
+59038,"Vancouver Granville","Vancouver Granville"," 111","Vancouver",N,N,"",0,434,"Rogers","","Marie","Conservative","Conservateur",N,N,35
+59038,"Vancouver Granville","Vancouver Granville"," 111","Vancouver",N,N,"",0,434,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 112","Vancouver",N,N,"",0,375,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 112","Vancouver",N,N,"",0,375,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,62
+59038,"Vancouver Granville","Vancouver Granville"," 112","Vancouver",N,N,"",0,375,"Rogers","","Marie","Conservative","Conservateur",N,N,31
+59038,"Vancouver Granville","Vancouver Granville"," 112","Vancouver",N,N,"",0,375,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 113","Vancouver",N,N,"",0,473,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 113","Vancouver",N,N,"",0,473,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,91
+59038,"Vancouver Granville","Vancouver Granville"," 113","Vancouver",N,N,"",0,473,"Rogers","","Marie","Conservative","Conservateur",N,N,48
+59038,"Vancouver Granville","Vancouver Granville"," 113","Vancouver",N,N,"",0,473,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 114","Vancouver",N,N,"",2,596,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 114","Vancouver",N,N,"",2,596,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,145
+59038,"Vancouver Granville","Vancouver Granville"," 114","Vancouver",N,N,"",2,596,"Rogers","","Marie","Conservative","Conservateur",N,N,58
+59038,"Vancouver Granville","Vancouver Granville"," 114","Vancouver",N,N,"",2,596,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 115","Vancouver",N,N,"",0,435,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 115","Vancouver",N,N,"",0,435,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,88
+59038,"Vancouver Granville","Vancouver Granville"," 115","Vancouver",N,N,"",0,435,"Rogers","","Marie","Conservative","Conservateur",N,N,63
+59038,"Vancouver Granville","Vancouver Granville"," 115","Vancouver",N,N,"",0,435,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 116","Vancouver",N,N,"",2,516,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 116","Vancouver",N,N,"",2,516,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,145
+59038,"Vancouver Granville","Vancouver Granville"," 116","Vancouver",N,N,"",2,516,"Rogers","","Marie","Conservative","Conservateur",N,N,61
+59038,"Vancouver Granville","Vancouver Granville"," 116","Vancouver",N,N,"",2,516,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59038,"Vancouver Granville","Vancouver Granville"," 117","Vancouver",N,N,"",0,495,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 117","Vancouver",N,N,"",0,495,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,121
+59038,"Vancouver Granville","Vancouver Granville"," 117","Vancouver",N,N,"",0,495,"Rogers","","Marie","Conservative","Conservateur",N,N,52
+59038,"Vancouver Granville","Vancouver Granville"," 117","Vancouver",N,N,"",0,495,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59038,"Vancouver Granville","Vancouver Granville"," 118","Vancouver",N,N,"",1,434,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 118","Vancouver",N,N,"",1,434,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,60
+59038,"Vancouver Granville","Vancouver Granville"," 118","Vancouver",N,N,"",1,434,"Rogers","","Marie","Conservative","Conservateur",N,N,44
+59038,"Vancouver Granville","Vancouver Granville"," 118","Vancouver",N,N,"",1,434,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 119","Vancouver",N,N,"",0,431,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 119","Vancouver",N,N,"",0,431,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,71
+59038,"Vancouver Granville","Vancouver Granville"," 119","Vancouver",N,N,"",0,431,"Rogers","","Marie","Conservative","Conservateur",N,N,49
+59038,"Vancouver Granville","Vancouver Granville"," 119","Vancouver",N,N,"",0,431,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 120","Vancouver",N,N,"",0,438,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 120","Vancouver",N,N,"",0,438,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,64
+59038,"Vancouver Granville","Vancouver Granville"," 120","Vancouver",N,N,"",0,438,"Rogers","","Marie","Conservative","Conservateur",N,N,62
+59038,"Vancouver Granville","Vancouver Granville"," 120","Vancouver",N,N,"",0,438,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 121","Vancouver",N,N,"",3,409,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 121","Vancouver",N,N,"",3,409,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,61
+59038,"Vancouver Granville","Vancouver Granville"," 121","Vancouver",N,N,"",3,409,"Rogers","","Marie","Conservative","Conservateur",N,N,56
+59038,"Vancouver Granville","Vancouver Granville"," 121","Vancouver",N,N,"",3,409,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 122","Vancouver",N,N,"",0,374,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 122","Vancouver",N,N,"",0,374,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,43
+59038,"Vancouver Granville","Vancouver Granville"," 122","Vancouver",N,N,"",0,374,"Rogers","","Marie","Conservative","Conservateur",N,N,45
+59038,"Vancouver Granville","Vancouver Granville"," 122","Vancouver",N,N,"",0,374,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 123","Vancouver",N,N,"",0,494,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 123","Vancouver",N,N,"",0,494,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,74
+59038,"Vancouver Granville","Vancouver Granville"," 123","Vancouver",N,N,"",0,494,"Rogers","","Marie","Conservative","Conservateur",N,N,60
+59038,"Vancouver Granville","Vancouver Granville"," 123","Vancouver",N,N,"",0,494,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 124","Vancouver",N,N,"",0,505,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 124","Vancouver",N,N,"",0,505,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,49
+59038,"Vancouver Granville","Vancouver Granville"," 124","Vancouver",N,N,"",0,505,"Rogers","","Marie","Conservative","Conservateur",N,N,63
+59038,"Vancouver Granville","Vancouver Granville"," 124","Vancouver",N,N,"",0,505,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 125","Vancouver",N,N,"",0,465,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 125","Vancouver",N,N,"",0,465,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,67
+59038,"Vancouver Granville","Vancouver Granville"," 125","Vancouver",N,N,"",0,465,"Rogers","","Marie","Conservative","Conservateur",N,N,82
+59038,"Vancouver Granville","Vancouver Granville"," 125","Vancouver",N,N,"",0,465,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 126","Vancouver",N,N,"",0,485,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 126","Vancouver",N,N,"",0,485,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,55
+59038,"Vancouver Granville","Vancouver Granville"," 126","Vancouver",N,N,"",0,485,"Rogers","","Marie","Conservative","Conservateur",N,N,49
+59038,"Vancouver Granville","Vancouver Granville"," 126","Vancouver",N,N,"",0,485,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 127","Vancouver",N,N,"",0,589,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 127","Vancouver",N,N,"",0,589,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,101
+59038,"Vancouver Granville","Vancouver Granville"," 127","Vancouver",N,N,"",0,589,"Rogers","","Marie","Conservative","Conservateur",N,N,75
+59038,"Vancouver Granville","Vancouver Granville"," 127","Vancouver",N,N,"",0,589,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 128","Vancouver",N,N,"",0,494,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 128","Vancouver",N,N,"",0,494,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,86
+59038,"Vancouver Granville","Vancouver Granville"," 128","Vancouver",N,N,"",0,494,"Rogers","","Marie","Conservative","Conservateur",N,N,62
+59038,"Vancouver Granville","Vancouver Granville"," 128","Vancouver",N,N,"",0,494,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59038,"Vancouver Granville","Vancouver Granville"," 129","Vancouver",N,N,"",1,496,"Kroll","","Jerry","Green Party","Parti Vert",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 129","Vancouver",N,N,"",1,496,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,108
+59038,"Vancouver Granville","Vancouver Granville"," 129","Vancouver",N,N,"",1,496,"Rogers","","Marie","Conservative","Conservateur",N,N,66
+59038,"Vancouver Granville","Vancouver Granville"," 129","Vancouver",N,N,"",1,496,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 130","Vancouver",N,N,"",2,390,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 130","Vancouver",N,N,"",2,390,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,54
+59038,"Vancouver Granville","Vancouver Granville"," 130","Vancouver",N,N,"",2,390,"Rogers","","Marie","Conservative","Conservateur",N,N,57
+59038,"Vancouver Granville","Vancouver Granville"," 130","Vancouver",N,N,"",2,390,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 131","Vancouver",N,N,"",0,442,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 131","Vancouver",N,N,"",0,442,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,48
+59038,"Vancouver Granville","Vancouver Granville"," 131","Vancouver",N,N,"",0,442,"Rogers","","Marie","Conservative","Conservateur",N,N,45
+59038,"Vancouver Granville","Vancouver Granville"," 131","Vancouver",N,N,"",0,442,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 132","Vancouver",N,N,"",0,481,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 132","Vancouver",N,N,"",0,481,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,103
+59038,"Vancouver Granville","Vancouver Granville"," 132","Vancouver",N,N,"",0,481,"Rogers","","Marie","Conservative","Conservateur",N,N,63
+59038,"Vancouver Granville","Vancouver Granville"," 132","Vancouver",N,N,"",0,481,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59038,"Vancouver Granville","Vancouver Granville"," 133","Vancouver",N,N,"",0,371,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 133","Vancouver",N,N,"",0,371,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,52
+59038,"Vancouver Granville","Vancouver Granville"," 133","Vancouver",N,N,"",0,371,"Rogers","","Marie","Conservative","Conservateur",N,N,43
+59038,"Vancouver Granville","Vancouver Granville"," 133","Vancouver",N,N,"",0,371,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 134","Vancouver",N,N,"",1,447,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 134","Vancouver",N,N,"",1,447,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,83
+59038,"Vancouver Granville","Vancouver Granville"," 134","Vancouver",N,N,"",1,447,"Rogers","","Marie","Conservative","Conservateur",N,N,68
+59038,"Vancouver Granville","Vancouver Granville"," 134","Vancouver",N,N,"",1,447,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 135","Vancouver",N,N,"",0,331,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 135","Vancouver",N,N,"",0,331,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,54
+59038,"Vancouver Granville","Vancouver Granville"," 135","Vancouver",N,N,"",0,331,"Rogers","","Marie","Conservative","Conservateur",N,N,57
+59038,"Vancouver Granville","Vancouver Granville"," 135","Vancouver",N,N,"",0,331,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 136","Vancouver",N,N,"",0,485,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 136","Vancouver",N,N,"",0,485,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,76
+59038,"Vancouver Granville","Vancouver Granville"," 136","Vancouver",N,N,"",0,485,"Rogers","","Marie","Conservative","Conservateur",N,N,69
+59038,"Vancouver Granville","Vancouver Granville"," 136","Vancouver",N,N,"",0,485,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 137","Vancouver",N,N,"",0,330,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 137","Vancouver",N,N,"",0,330,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,46
+59038,"Vancouver Granville","Vancouver Granville"," 137","Vancouver",N,N,"",0,330,"Rogers","","Marie","Conservative","Conservateur",N,N,65
+59038,"Vancouver Granville","Vancouver Granville"," 137","Vancouver",N,N,"",0,330,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 138","Vancouver",N,N,"",0,342,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 138","Vancouver",N,N,"",0,342,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,30
+59038,"Vancouver Granville","Vancouver Granville"," 138","Vancouver",N,N,"",0,342,"Rogers","","Marie","Conservative","Conservateur",N,N,49
+59038,"Vancouver Granville","Vancouver Granville"," 138","Vancouver",N,N,"",0,342,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 139","Vancouver",N,N,"",0,290,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 139","Vancouver",N,N,"",0,290,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,54
+59038,"Vancouver Granville","Vancouver Granville"," 139","Vancouver",N,N,"",0,290,"Rogers","","Marie","Conservative","Conservateur",N,N,35
+59038,"Vancouver Granville","Vancouver Granville"," 139","Vancouver",N,N,"",0,290,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 140","Vancouver",N,N,"",1,480,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 140","Vancouver",N,N,"",1,480,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,76
+59038,"Vancouver Granville","Vancouver Granville"," 140","Vancouver",N,N,"",1,480,"Rogers","","Marie","Conservative","Conservateur",N,N,56
+59038,"Vancouver Granville","Vancouver Granville"," 140","Vancouver",N,N,"",1,480,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 141","Vancouver",N,N,"",2,371,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 141","Vancouver",N,N,"",2,371,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,46
+59038,"Vancouver Granville","Vancouver Granville"," 141","Vancouver",N,N,"",2,371,"Rogers","","Marie","Conservative","Conservateur",N,N,67
+59038,"Vancouver Granville","Vancouver Granville"," 141","Vancouver",N,N,"",2,371,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 142","Vancouver",N,N,"",0,285,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 142","Vancouver",N,N,"",0,285,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,27
+59038,"Vancouver Granville","Vancouver Granville"," 142","Vancouver",N,N,"",0,285,"Rogers","","Marie","Conservative","Conservateur",N,N,36
+59038,"Vancouver Granville","Vancouver Granville"," 142","Vancouver",N,N,"",0,285,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 143","Vancouver",N,N,"",4,424,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 143","Vancouver",N,N,"",4,424,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,55
+59038,"Vancouver Granville","Vancouver Granville"," 143","Vancouver",N,N,"",4,424,"Rogers","","Marie","Conservative","Conservateur",N,N,71
+59038,"Vancouver Granville","Vancouver Granville"," 143","Vancouver",N,N,"",4,424,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 144","Vancouver",N,N,"",0,343,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 144","Vancouver",N,N,"",0,343,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,48
+59038,"Vancouver Granville","Vancouver Granville"," 144","Vancouver",N,N,"",0,343,"Rogers","","Marie","Conservative","Conservateur",N,N,44
+59038,"Vancouver Granville","Vancouver Granville"," 144","Vancouver",N,N,"",0,343,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 145","Vancouver",N,N,"",0,374,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 145","Vancouver",N,N,"",0,374,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,39
+59038,"Vancouver Granville","Vancouver Granville"," 145","Vancouver",N,N,"",0,374,"Rogers","","Marie","Conservative","Conservateur",N,N,52
+59038,"Vancouver Granville","Vancouver Granville"," 145","Vancouver",N,N,"",0,374,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 146","Vancouver",N,N,"",0,353,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 146","Vancouver",N,N,"",0,353,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,28
+59038,"Vancouver Granville","Vancouver Granville"," 146","Vancouver",N,N,"",0,353,"Rogers","","Marie","Conservative","Conservateur",N,N,54
+59038,"Vancouver Granville","Vancouver Granville"," 146","Vancouver",N,N,"",0,353,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 147","Vancouver",N,N,"",2,438,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 147","Vancouver",N,N,"",2,438,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,37
+59038,"Vancouver Granville","Vancouver Granville"," 147","Vancouver",N,N,"",2,438,"Rogers","","Marie","Conservative","Conservateur",N,N,52
+59038,"Vancouver Granville","Vancouver Granville"," 147","Vancouver",N,N,"",2,438,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 148","Vancouver",N,N,"",0,469,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 148","Vancouver",N,N,"",0,469,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,63
+59038,"Vancouver Granville","Vancouver Granville"," 148","Vancouver",N,N,"",0,469,"Rogers","","Marie","Conservative","Conservateur",N,N,48
+59038,"Vancouver Granville","Vancouver Granville"," 148","Vancouver",N,N,"",0,469,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 149","Vancouver",N,N,"",0,358,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 149","Vancouver",N,N,"",0,358,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,39
+59038,"Vancouver Granville","Vancouver Granville"," 149","Vancouver",N,N,"",0,358,"Rogers","","Marie","Conservative","Conservateur",N,N,32
+59038,"Vancouver Granville","Vancouver Granville"," 149","Vancouver",N,N,"",0,358,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 150","Vancouver",N,N,"",1,498,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 150","Vancouver",N,N,"",1,498,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,60
+59038,"Vancouver Granville","Vancouver Granville"," 150","Vancouver",N,N,"",1,498,"Rogers","","Marie","Conservative","Conservateur",N,N,46
+59038,"Vancouver Granville","Vancouver Granville"," 150","Vancouver",N,N,"",1,498,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 151","Vancouver",N,N,"",0,414,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 151","Vancouver",N,N,"",0,414,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,85
+59038,"Vancouver Granville","Vancouver Granville"," 151","Vancouver",N,N,"",0,414,"Rogers","","Marie","Conservative","Conservateur",N,N,79
+59038,"Vancouver Granville","Vancouver Granville"," 151","Vancouver",N,N,"",0,414,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59038,"Vancouver Granville","Vancouver Granville"," 152","Vancouver",N,N,"",0,417,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 152","Vancouver",N,N,"",0,417,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,99
+59038,"Vancouver Granville","Vancouver Granville"," 152","Vancouver",N,N,"",0,417,"Rogers","","Marie","Conservative","Conservateur",N,N,63
+59038,"Vancouver Granville","Vancouver Granville"," 152","Vancouver",N,N,"",0,417,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 153","Vancouver",N,N,"",1,404,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 153","Vancouver",N,N,"",1,404,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,55
+59038,"Vancouver Granville","Vancouver Granville"," 153","Vancouver",N,N,"",1,404,"Rogers","","Marie","Conservative","Conservateur",N,N,68
+59038,"Vancouver Granville","Vancouver Granville"," 153","Vancouver",N,N,"",1,404,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 154","Vancouver",N,N,"",0,416,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 154","Vancouver",N,N,"",0,416,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,56
+59038,"Vancouver Granville","Vancouver Granville"," 154","Vancouver",N,N,"",0,416,"Rogers","","Marie","Conservative","Conservateur",N,N,50
+59038,"Vancouver Granville","Vancouver Granville"," 154","Vancouver",N,N,"",0,416,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 155","Vancouver",N,N,"",0,376,"Kroll","","Jerry","Green Party","Parti Vert",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 155","Vancouver",N,N,"",0,376,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,62
+59038,"Vancouver Granville","Vancouver Granville"," 155","Vancouver",N,N,"",0,376,"Rogers","","Marie","Conservative","Conservateur",N,N,53
+59038,"Vancouver Granville","Vancouver Granville"," 155","Vancouver",N,N,"",0,376,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59038,"Vancouver Granville","Vancouver Granville"," 156","Vancouver",N,N,"",1,395,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 156","Vancouver",N,N,"",1,395,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,50
+59038,"Vancouver Granville","Vancouver Granville"," 156","Vancouver",N,N,"",1,395,"Rogers","","Marie","Conservative","Conservateur",N,N,54
+59038,"Vancouver Granville","Vancouver Granville"," 156","Vancouver",N,N,"",1,395,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59038,"Vancouver Granville","Vancouver Granville"," 157","Vancouver",N,N,"",0,416,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 157","Vancouver",N,N,"",0,416,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,60
+59038,"Vancouver Granville","Vancouver Granville"," 157","Vancouver",N,N,"",0,416,"Rogers","","Marie","Conservative","Conservateur",N,N,51
+59038,"Vancouver Granville","Vancouver Granville"," 157","Vancouver",N,N,"",0,416,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 158","Vancouver",N,N,"",1,438,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 158","Vancouver",N,N,"",1,438,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,48
+59038,"Vancouver Granville","Vancouver Granville"," 158","Vancouver",N,N,"",1,438,"Rogers","","Marie","Conservative","Conservateur",N,N,45
+59038,"Vancouver Granville","Vancouver Granville"," 158","Vancouver",N,N,"",1,438,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 159","Vancouver",N,N,"",0,418,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 159","Vancouver",N,N,"",0,418,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,42
+59038,"Vancouver Granville","Vancouver Granville"," 159","Vancouver",N,N,"",0,418,"Rogers","","Marie","Conservative","Conservateur",N,N,61
+59038,"Vancouver Granville","Vancouver Granville"," 159","Vancouver",N,N,"",0,418,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 160","Vancouver",N,N,"",0,386,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 160","Vancouver",N,N,"",0,386,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,54
+59038,"Vancouver Granville","Vancouver Granville"," 160","Vancouver",N,N,"",0,386,"Rogers","","Marie","Conservative","Conservateur",N,N,54
+59038,"Vancouver Granville","Vancouver Granville"," 160","Vancouver",N,N,"",0,386,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59038,"Vancouver Granville","Vancouver Granville"," 161","Vancouver",N,N,"",1,464,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 161","Vancouver",N,N,"",1,464,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,57
+59038,"Vancouver Granville","Vancouver Granville"," 161","Vancouver",N,N,"",1,464,"Rogers","","Marie","Conservative","Conservateur",N,N,42
+59038,"Vancouver Granville","Vancouver Granville"," 161","Vancouver",N,N,"",1,464,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 162","Vancouver",N,N,"",1,373,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 162","Vancouver",N,N,"",1,373,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,57
+59038,"Vancouver Granville","Vancouver Granville"," 162","Vancouver",N,N,"",1,373,"Rogers","","Marie","Conservative","Conservateur",N,N,60
+59038,"Vancouver Granville","Vancouver Granville"," 162","Vancouver",N,N,"",1,373,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59038,"Vancouver Granville","Vancouver Granville"," 163","Vancouver",N,N,"",0,518,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 163","Vancouver",N,N,"",0,518,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,54
+59038,"Vancouver Granville","Vancouver Granville"," 163","Vancouver",N,N,"",0,518,"Rogers","","Marie","Conservative","Conservateur",N,N,45
+59038,"Vancouver Granville","Vancouver Granville"," 163","Vancouver",N,N,"",0,518,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 164","Vancouver",N,N,"",2,421,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 164","Vancouver",N,N,"",2,421,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,74
+59038,"Vancouver Granville","Vancouver Granville"," 164","Vancouver",N,N,"",2,421,"Rogers","","Marie","Conservative","Conservateur",N,N,60
+59038,"Vancouver Granville","Vancouver Granville"," 164","Vancouver",N,N,"",2,421,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 165","Vancouver",N,N,"",2,361,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 165","Vancouver",N,N,"",2,361,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,56
+59038,"Vancouver Granville","Vancouver Granville"," 165","Vancouver",N,N,"",2,361,"Rogers","","Marie","Conservative","Conservateur",N,N,35
+59038,"Vancouver Granville","Vancouver Granville"," 165","Vancouver",N,N,"",2,361,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59038,"Vancouver Granville","Vancouver Granville"," 166","Vancouver",N,N,"",0,410,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 166","Vancouver",N,N,"",0,410,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,89
+59038,"Vancouver Granville","Vancouver Granville"," 166","Vancouver",N,N,"",0,410,"Rogers","","Marie","Conservative","Conservateur",N,N,78
+59038,"Vancouver Granville","Vancouver Granville"," 166","Vancouver",N,N,"",0,410,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59038,"Vancouver Granville","Vancouver Granville"," 167","Vancouver",N,N,"",1,413,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 167","Vancouver",N,N,"",1,413,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,81
+59038,"Vancouver Granville","Vancouver Granville"," 167","Vancouver",N,N,"",1,413,"Rogers","","Marie","Conservative","Conservateur",N,N,59
+59038,"Vancouver Granville","Vancouver Granville"," 167","Vancouver",N,N,"",1,413,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 168","Vancouver",N,N,"",1,451,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 168","Vancouver",N,N,"",1,451,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,53
+59038,"Vancouver Granville","Vancouver Granville"," 168","Vancouver",N,N,"",1,451,"Rogers","","Marie","Conservative","Conservateur",N,N,69
+59038,"Vancouver Granville","Vancouver Granville"," 168","Vancouver",N,N,"",1,451,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 169","Vancouver",N,N,"",0,480,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 169","Vancouver",N,N,"",0,480,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,82
+59038,"Vancouver Granville","Vancouver Granville"," 169","Vancouver",N,N,"",0,480,"Rogers","","Marie","Conservative","Conservateur",N,N,59
+59038,"Vancouver Granville","Vancouver Granville"," 169","Vancouver",N,N,"",0,480,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 170","Vancouver",N,N,"",0,521,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 170","Vancouver",N,N,"",0,521,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,39
+59038,"Vancouver Granville","Vancouver Granville"," 170","Vancouver",N,N,"",0,521,"Rogers","","Marie","Conservative","Conservateur",N,N,47
+59038,"Vancouver Granville","Vancouver Granville"," 170","Vancouver",N,N,"",0,521,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 171","Vancouver",N,N,"",0,552,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 171","Vancouver",N,N,"",0,552,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,56
+59038,"Vancouver Granville","Vancouver Granville"," 171","Vancouver",N,N,"",0,552,"Rogers","","Marie","Conservative","Conservateur",N,N,65
+59038,"Vancouver Granville","Vancouver Granville"," 171","Vancouver",N,N,"",0,552,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 172","Vancouver",N,N,"",1,388,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 172","Vancouver",N,N,"",1,388,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,32
+59038,"Vancouver Granville","Vancouver Granville"," 172","Vancouver",N,N,"",1,388,"Rogers","","Marie","Conservative","Conservateur",N,N,20
+59038,"Vancouver Granville","Vancouver Granville"," 172","Vancouver",N,N,"",1,388,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 173","Vancouver",N,N,"",0,406,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 173","Vancouver",N,N,"",0,406,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,45
+59038,"Vancouver Granville","Vancouver Granville"," 173","Vancouver",N,N,"",0,406,"Rogers","","Marie","Conservative","Conservateur",N,N,32
+59038,"Vancouver Granville","Vancouver Granville"," 173","Vancouver",N,N,"",0,406,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 174","Vancouver",N,N,"",0,607,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 174","Vancouver",N,N,"",0,607,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,57
+59038,"Vancouver Granville","Vancouver Granville"," 174","Vancouver",N,N,"",0,607,"Rogers","","Marie","Conservative","Conservateur",N,N,58
+59038,"Vancouver Granville","Vancouver Granville"," 174","Vancouver",N,N,"",0,607,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 175","Vancouver",N,N,"",0,461,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 175","Vancouver",N,N,"",0,461,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,49
+59038,"Vancouver Granville","Vancouver Granville"," 175","Vancouver",N,N,"",0,461,"Rogers","","Marie","Conservative","Conservateur",N,N,50
+59038,"Vancouver Granville","Vancouver Granville"," 175","Vancouver",N,N,"",0,461,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59038,"Vancouver Granville","Vancouver Granville"," 176","Vancouver",N,N,"",3,378,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 176","Vancouver",N,N,"",3,378,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,53
+59038,"Vancouver Granville","Vancouver Granville"," 176","Vancouver",N,N,"",3,378,"Rogers","","Marie","Conservative","Conservateur",N,N,63
+59038,"Vancouver Granville","Vancouver Granville"," 176","Vancouver",N,N,"",3,378,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 177","Vancouver",N,N,"",1,485,"Kroll","","Jerry","Green Party","Parti Vert",N,N,2
+59038,"Vancouver Granville","Vancouver Granville"," 177","Vancouver",N,N,"",1,485,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,83
+59038,"Vancouver Granville","Vancouver Granville"," 177","Vancouver",N,N,"",1,485,"Rogers","","Marie","Conservative","Conservateur",N,N,64
+59038,"Vancouver Granville","Vancouver Granville"," 177","Vancouver",N,N,"",1,485,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59038,"Vancouver Granville","Vancouver Granville"," 178","Vancouver",N,N,"",0,454,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 178","Vancouver",N,N,"",0,454,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,40
+59038,"Vancouver Granville","Vancouver Granville"," 178","Vancouver",N,N,"",0,454,"Rogers","","Marie","Conservative","Conservateur",N,N,50
+59038,"Vancouver Granville","Vancouver Granville"," 178","Vancouver",N,N,"",0,454,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59038,"Vancouver Granville","Vancouver Granville"," 179","Vancouver",N,N,"",2,490,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 179","Vancouver",N,N,"",2,490,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,46
+59038,"Vancouver Granville","Vancouver Granville"," 179","Vancouver",N,N,"",2,490,"Rogers","","Marie","Conservative","Conservateur",N,N,40
+59038,"Vancouver Granville","Vancouver Granville"," 179","Vancouver",N,N,"",2,490,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 180","Vancouver",N,N,"",0,341,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 180","Vancouver",N,N,"",0,341,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,45
+59038,"Vancouver Granville","Vancouver Granville"," 180","Vancouver",N,N,"",0,341,"Rogers","","Marie","Conservative","Conservateur",N,N,56
+59038,"Vancouver Granville","Vancouver Granville"," 180","Vancouver",N,N,"",0,341,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 181","Vancouver",N,N,"",2,412,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 181","Vancouver",N,N,"",2,412,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,44
+59038,"Vancouver Granville","Vancouver Granville"," 181","Vancouver",N,N,"",2,412,"Rogers","","Marie","Conservative","Conservateur",N,N,44
+59038,"Vancouver Granville","Vancouver Granville"," 181","Vancouver",N,N,"",2,412,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 182","Vancouver",N,N,"",1,375,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 182","Vancouver",N,N,"",1,375,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,84
+59038,"Vancouver Granville","Vancouver Granville"," 182","Vancouver",N,N,"",1,375,"Rogers","","Marie","Conservative","Conservateur",N,N,47
+59038,"Vancouver Granville","Vancouver Granville"," 182","Vancouver",N,N,"",1,375,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59038,"Vancouver Granville","Vancouver Granville"," 183","Vancouver",N,N,"",2,391,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 183","Vancouver",N,N,"",2,391,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,61
+59038,"Vancouver Granville","Vancouver Granville"," 183","Vancouver",N,N,"",2,391,"Rogers","","Marie","Conservative","Conservateur",N,N,48
+59038,"Vancouver Granville","Vancouver Granville"," 183","Vancouver",N,N,"",2,391,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59038,"Vancouver Granville","Vancouver Granville"," 184","Vancouver",N,N,"",1,396,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 184","Vancouver",N,N,"",1,396,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,65
+59038,"Vancouver Granville","Vancouver Granville"," 184","Vancouver",N,N,"",1,396,"Rogers","","Marie","Conservative","Conservateur",N,N,31
+59038,"Vancouver Granville","Vancouver Granville"," 184","Vancouver",N,N,"",1,396,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 400","Vancouver",N,N,"",0,160,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 400","Vancouver",N,N,"",0,160,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,41
+59038,"Vancouver Granville","Vancouver Granville"," 400","Vancouver",N,N,"",0,160,"Rogers","","Marie","Conservative","Conservateur",N,N,36
+59038,"Vancouver Granville","Vancouver Granville"," 400","Vancouver",N,N,"",0,160,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 401","Vancouver",N,N,"400",0,130,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 401","Vancouver",N,N,"400",0,130,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,0
+59038,"Vancouver Granville","Vancouver Granville"," 401","Vancouver",N,N,"400",0,130,"Rogers","","Marie","Conservative","Conservateur",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 401","Vancouver",N,N,"400",0,130,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 500","Mobile poll/Bureau itinérant",N,N,"",0,96,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 500","Mobile poll/Bureau itinérant",N,N,"",0,96,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,73
+59038,"Vancouver Granville","Vancouver Granville"," 500","Mobile poll/Bureau itinérant",N,N,"",0,96,"Rogers","","Marie","Conservative","Conservateur",N,N,26
+59038,"Vancouver Granville","Vancouver Granville"," 500","Mobile poll/Bureau itinérant",N,N,"",0,96,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 501","Mobile poll/Bureau itinérant",N,N,"",1,59,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 501","Mobile poll/Bureau itinérant",N,N,"",1,59,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,19
+59038,"Vancouver Granville","Vancouver Granville"," 501","Mobile poll/Bureau itinérant",N,N,"",1,59,"Rogers","","Marie","Conservative","Conservateur",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 501","Mobile poll/Bureau itinérant",N,N,"",1,59,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59038,"Vancouver Granville","Vancouver Granville"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,21,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,21,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,0
+59038,"Vancouver Granville","Vancouver Granville"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,21,"Rogers","","Marie","Conservative","Conservateur",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,21,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 503","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 503","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,0
+59038,"Vancouver Granville","Vancouver Granville"," 503","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Rogers","","Marie","Conservative","Conservateur",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 503","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 504","Mobile poll/Bureau itinérant",N,N,"",4,53,"Kroll","","Jerry","Green Party","Parti Vert",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 504","Mobile poll/Bureau itinérant",N,N,"",4,53,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,24
+59038,"Vancouver Granville","Vancouver Granville"," 504","Mobile poll/Bureau itinérant",N,N,"",4,53,"Rogers","","Marie","Conservative","Conservateur",N,N,18
+59038,"Vancouver Granville","Vancouver Granville"," 504","Mobile poll/Bureau itinérant",N,N,"",4,53,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59038,"Vancouver Granville","Vancouver Granville"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,46,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,46,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,0
+59038,"Vancouver Granville","Vancouver Granville"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,46,"Rogers","","Marie","Conservative","Conservateur",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,46,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,24,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,24,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,0
+59038,"Vancouver Granville","Vancouver Granville"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,24,"Rogers","","Marie","Conservative","Conservateur",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,24,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 507","Mobile poll/Bureau itinérant",N,N,"",1,74,"Kroll","","Jerry","Green Party","Parti Vert",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 507","Mobile poll/Bureau itinérant",N,N,"",1,74,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,27
+59038,"Vancouver Granville","Vancouver Granville"," 507","Mobile poll/Bureau itinérant",N,N,"",1,74,"Rogers","","Marie","Conservative","Conservateur",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 507","Mobile poll/Bureau itinérant",N,N,"",1,74,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59038,"Vancouver Granville","Vancouver Granville"," 508","Mobile poll/Bureau itinérant",N,N,"512",0,45,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 508","Mobile poll/Bureau itinérant",N,N,"512",0,45,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,0
+59038,"Vancouver Granville","Vancouver Granville"," 508","Mobile poll/Bureau itinérant",N,N,"512",0,45,"Rogers","","Marie","Conservative","Conservateur",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 508","Mobile poll/Bureau itinérant",N,N,"512",0,45,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 509","Mobile poll/Bureau itinérant",N,N,"513",0,18,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 509","Mobile poll/Bureau itinérant",N,N,"513",0,18,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,0
+59038,"Vancouver Granville","Vancouver Granville"," 509","Mobile poll/Bureau itinérant",N,N,"513",0,18,"Rogers","","Marie","Conservative","Conservateur",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 509","Mobile poll/Bureau itinérant",N,N,"513",0,18,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 510","Mobile poll/Bureau itinérant",N,N,"511",0,47,"Kroll","","Jerry","Green Party","Parti Vert",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 510","Mobile poll/Bureau itinérant",N,N,"511",0,47,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,0
+59038,"Vancouver Granville","Vancouver Granville"," 510","Mobile poll/Bureau itinérant",N,N,"511",0,47,"Rogers","","Marie","Conservative","Conservateur",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 510","Mobile poll/Bureau itinérant",N,N,"511",0,47,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59038,"Vancouver Granville","Vancouver Granville"," 511","Mobile poll/Bureau itinérant",N,N,"",3,55,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 511","Mobile poll/Bureau itinérant",N,N,"",3,55,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,24
+59038,"Vancouver Granville","Vancouver Granville"," 511","Mobile poll/Bureau itinérant",N,N,"",3,55,"Rogers","","Marie","Conservative","Conservateur",N,N,23
+59038,"Vancouver Granville","Vancouver Granville"," 511","Mobile poll/Bureau itinérant",N,N,"",3,55,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 512","Mobile poll/Bureau itinérant",N,N,"",3,52,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 512","Mobile poll/Bureau itinérant",N,N,"",3,52,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,36
+59038,"Vancouver Granville","Vancouver Granville"," 512","Mobile poll/Bureau itinérant",N,N,"",3,52,"Rogers","","Marie","Conservative","Conservateur",N,N,25
+59038,"Vancouver Granville","Vancouver Granville"," 512","Mobile poll/Bureau itinérant",N,N,"",3,52,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 513","Mobile poll/Bureau itinérant",N,N,"",2,89,"Kroll","","Jerry","Green Party","Parti Vert",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 513","Mobile poll/Bureau itinérant",N,N,"",2,89,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,30
+59038,"Vancouver Granville","Vancouver Granville"," 513","Mobile poll/Bureau itinérant",N,N,"",2,89,"Rogers","","Marie","Conservative","Conservateur",N,N,12
+59038,"Vancouver Granville","Vancouver Granville"," 513","Mobile poll/Bureau itinérant",N,N,"",2,89,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59038,"Vancouver Granville","Vancouver Granville"," 600","Vancouver",N,N,"",5,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,25
+59038,"Vancouver Granville","Vancouver Granville"," 600","Vancouver",N,N,"",5,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,1097
+59038,"Vancouver Granville","Vancouver Granville"," 600","Vancouver",N,N,"",5,0,"Rogers","","Marie","Conservative","Conservateur",N,N,321
+59038,"Vancouver Granville","Vancouver Granville"," 600","Vancouver",N,N,"",5,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+59038,"Vancouver Granville","Vancouver Granville"," 601","Vancouver",N,N,"",3,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,19
+59038,"Vancouver Granville","Vancouver Granville"," 601","Vancouver",N,N,"",3,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,934
+59038,"Vancouver Granville","Vancouver Granville"," 601","Vancouver",N,N,"",3,0,"Rogers","","Marie","Conservative","Conservateur",N,N,244
+59038,"Vancouver Granville","Vancouver Granville"," 601","Vancouver",N,N,"",3,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+59038,"Vancouver Granville","Vancouver Granville"," 602","Vancouver",N,N,"",2,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,24
+59038,"Vancouver Granville","Vancouver Granville"," 602","Vancouver",N,N,"",2,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,1119
+59038,"Vancouver Granville","Vancouver Granville"," 602","Vancouver",N,N,"",2,0,"Rogers","","Marie","Conservative","Conservateur",N,N,258
+59038,"Vancouver Granville","Vancouver Granville"," 602","Vancouver",N,N,"",2,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,143
+59038,"Vancouver Granville","Vancouver Granville"," 603","Vancouver",N,N,"",2,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,21
+59038,"Vancouver Granville","Vancouver Granville"," 603","Vancouver",N,N,"",2,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,1117
+59038,"Vancouver Granville","Vancouver Granville"," 603","Vancouver",N,N,"",2,0,"Rogers","","Marie","Conservative","Conservateur",N,N,265
+59038,"Vancouver Granville","Vancouver Granville"," 603","Vancouver",N,N,"",2,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+59038,"Vancouver Granville","Vancouver Granville"," 604","Vancouver",N,N,"",4,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,32
+59038,"Vancouver Granville","Vancouver Granville"," 604","Vancouver",N,N,"",4,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,1211
+59038,"Vancouver Granville","Vancouver Granville"," 604","Vancouver",N,N,"",4,0,"Rogers","","Marie","Conservative","Conservateur",N,N,273
+59038,"Vancouver Granville","Vancouver Granville"," 604","Vancouver",N,N,"",4,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,162
+59038,"Vancouver Granville","Vancouver Granville"," 605","Vancouver",N,N,"",4,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,26
+59038,"Vancouver Granville","Vancouver Granville"," 605","Vancouver",N,N,"",4,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,1540
+59038,"Vancouver Granville","Vancouver Granville"," 605","Vancouver",N,N,"",4,0,"Rogers","","Marie","Conservative","Conservateur",N,N,339
+59038,"Vancouver Granville","Vancouver Granville"," 605","Vancouver",N,N,"",4,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,183
+59038,"Vancouver Granville","Vancouver Granville"," 606","Vancouver",N,N,"",3,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 606","Vancouver",N,N,"",3,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,1031
+59038,"Vancouver Granville","Vancouver Granville"," 606","Vancouver",N,N,"",3,0,"Rogers","","Marie","Conservative","Conservateur",N,N,286
+59038,"Vancouver Granville","Vancouver Granville"," 606","Vancouver",N,N,"",3,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,111
+59038,"Vancouver Granville","Vancouver Granville"," 607","Vancouver",N,N,"",2,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,34
+59038,"Vancouver Granville","Vancouver Granville"," 607","Vancouver",N,N,"",2,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,1126
+59038,"Vancouver Granville","Vancouver Granville"," 607","Vancouver",N,N,"",2,0,"Rogers","","Marie","Conservative","Conservateur",N,N,322
+59038,"Vancouver Granville","Vancouver Granville"," 607","Vancouver",N,N,"",2,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,126
+59038,"Vancouver Granville","Vancouver Granville"," 608","Vancouver",N,N,"",3,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,4
+59038,"Vancouver Granville","Vancouver Granville"," 608","Vancouver",N,N,"",3,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,598
+59038,"Vancouver Granville","Vancouver Granville"," 608","Vancouver",N,N,"",3,0,"Rogers","","Marie","Conservative","Conservateur",N,N,398
+59038,"Vancouver Granville","Vancouver Granville"," 608","Vancouver",N,N,"",3,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59038,"Vancouver Granville","Vancouver Granville"," 609","Vancouver",N,N,"",3,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,25
+59038,"Vancouver Granville","Vancouver Granville"," 609","Vancouver",N,N,"",3,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,1324
+59038,"Vancouver Granville","Vancouver Granville"," 609","Vancouver",N,N,"",3,0,"Rogers","","Marie","Conservative","Conservateur",N,N,327
+59038,"Vancouver Granville","Vancouver Granville"," 609","Vancouver",N,N,"",3,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,119
+59038,"Vancouver Granville","Vancouver Granville"," 610","Vancouver",N,N,"",4,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,12
+59038,"Vancouver Granville","Vancouver Granville"," 610","Vancouver",N,N,"",4,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,1180
+59038,"Vancouver Granville","Vancouver Granville"," 610","Vancouver",N,N,"",4,0,"Rogers","","Marie","Conservative","Conservateur",N,N,441
+59038,"Vancouver Granville","Vancouver Granville"," 610","Vancouver",N,N,"",4,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,111
+59038,"Vancouver Granville","Vancouver Granville"," 611","Vancouver",N,N,"",2,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,13
+59038,"Vancouver Granville","Vancouver Granville"," 611","Vancouver",N,N,"",2,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,753
+59038,"Vancouver Granville","Vancouver Granville"," 611","Vancouver",N,N,"",2,0,"Rogers","","Marie","Conservative","Conservateur",N,N,301
+59038,"Vancouver Granville","Vancouver Granville"," 611","Vancouver",N,N,"",2,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+59038,"Vancouver Granville","Vancouver Granville"," 612","Vancouver",N,N,"",1,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 612","Vancouver",N,N,"",1,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,543
+59038,"Vancouver Granville","Vancouver Granville"," 612","Vancouver",N,N,"",1,0,"Rogers","","Marie","Conservative","Conservateur",N,N,381
+59038,"Vancouver Granville","Vancouver Granville"," 612","Vancouver",N,N,"",1,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59038,"Vancouver Granville","Vancouver Granville"," 613","Vancouver",N,N,"",1,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,3
+59038,"Vancouver Granville","Vancouver Granville"," 613","Vancouver",N,N,"",1,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,415
+59038,"Vancouver Granville","Vancouver Granville"," 613","Vancouver",N,N,"",1,0,"Rogers","","Marie","Conservative","Conservateur",N,N,335
+59038,"Vancouver Granville","Vancouver Granville"," 613","Vancouver",N,N,"",1,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 614","Vancouver",N,N,"",2,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,6
+59038,"Vancouver Granville","Vancouver Granville"," 614","Vancouver",N,N,"",2,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,285
+59038,"Vancouver Granville","Vancouver Granville"," 614","Vancouver",N,N,"",2,0,"Rogers","","Marie","Conservative","Conservateur",N,N,172
+59038,"Vancouver Granville","Vancouver Granville"," 614","Vancouver",N,N,"",2,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59038,"Vancouver Granville","Vancouver Granville"," 615","Vancouver",N,N,"",9,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,1
+59038,"Vancouver Granville","Vancouver Granville"," 615","Vancouver",N,N,"",9,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,215
+59038,"Vancouver Granville","Vancouver Granville"," 615","Vancouver",N,N,"",9,0,"Rogers","","Marie","Conservative","Conservateur",N,N,185
+59038,"Vancouver Granville","Vancouver Granville"," 615","Vancouver",N,N,"",9,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59038,"Vancouver Granville","Vancouver Granville"," 616","Vancouver",N,N,"",5,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,17
+59038,"Vancouver Granville","Vancouver Granville"," 616","Vancouver",N,N,"",5,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,597
+59038,"Vancouver Granville","Vancouver Granville"," 616","Vancouver",N,N,"",5,0,"Rogers","","Marie","Conservative","Conservateur",N,N,389
+59038,"Vancouver Granville","Vancouver Granville"," 616","Vancouver",N,N,"",5,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+59038,"Vancouver Granville","Vancouver Granville"," 617","Vancouver",N,N,"",8,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,11
+59038,"Vancouver Granville","Vancouver Granville"," 617","Vancouver",N,N,"",8,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,816
+59038,"Vancouver Granville","Vancouver Granville"," 617","Vancouver",N,N,"",8,0,"Rogers","","Marie","Conservative","Conservateur",N,N,619
+59038,"Vancouver Granville","Vancouver Granville"," 617","Vancouver",N,N,"",8,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+59038,"Vancouver Granville","Vancouver Granville"," 618","Vancouver",N,N,"",11,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,7
+59038,"Vancouver Granville","Vancouver Granville"," 618","Vancouver",N,N,"",11,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,771
+59038,"Vancouver Granville","Vancouver Granville"," 618","Vancouver",N,N,"",11,0,"Rogers","","Marie","Conservative","Conservateur",N,N,439
+59038,"Vancouver Granville","Vancouver Granville"," 618","Vancouver",N,N,"",11,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+59038,"Vancouver Granville","Vancouver Granville"," 619","Vancouver",N,N,"",4,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,8
+59038,"Vancouver Granville","Vancouver Granville"," 619","Vancouver",N,N,"",4,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,724
+59038,"Vancouver Granville","Vancouver Granville"," 619","Vancouver",N,N,"",4,0,"Rogers","","Marie","Conservative","Conservateur",N,N,404
+59038,"Vancouver Granville","Vancouver Granville"," 619","Vancouver",N,N,"",4,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+59038,"Vancouver Granville","Vancouver Granville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",103,1388,"Kroll","","Jerry","Green Party","Parti Vert",N,N,41
+59038,"Vancouver Granville","Vancouver Granville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",103,1388,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,1822
+59038,"Vancouver Granville","Vancouver Granville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",103,1388,"Rogers","","Marie","Conservative","Conservateur",N,N,684
+59038,"Vancouver Granville","Vancouver Granville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",103,1388,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,196
+59038,"Vancouver Granville","Vancouver Granville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",108,0,"Kroll","","Jerry","Green Party","Parti Vert",N,N,61
+59038,"Vancouver Granville","Vancouver Granville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",108,0,"Noormohamed","","Taleeb","Liberal","Libéral",Y,Y,3180
+59038,"Vancouver Granville","Vancouver Granville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",108,0,"Rogers","","Marie","Conservative","Conservateur",N,N,936
+59038,"Vancouver Granville","Vancouver Granville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",108,0,"Sahota","","Sukhi Singh","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,293

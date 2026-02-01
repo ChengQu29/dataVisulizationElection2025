@@ -1,0 +1,913 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 1","Peawanuck",N,N,"",0,123,"Black","","Steve","Liberal","Libéral",N,N,17
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 1","Peawanuck",N,N,"",0,123,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 1","Peawanuck",N,N,"",0,123,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 1","Peawanuck",N,N,"",0,123,"Malette","","Gaétan","Conservative","Conservateur",N,Y,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 2","Attawapiskat",N,N,"",0,770,"Black","","Steve","Liberal","Libéral",N,N,51
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 2","Attawapiskat",N,N,"",0,770,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 2","Attawapiskat",N,N,"",0,770,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 2","Attawapiskat",N,N,"",0,770,"Malette","","Gaétan","Conservative","Conservateur",N,Y,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 3","Fort Albany 67",N,N,"",0,702,"Black","","Steve","Liberal","Libéral",N,N,73
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 3","Fort Albany 67",N,N,"",0,702,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 3","Fort Albany 67",N,N,"",0,702,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 3","Fort Albany 67",N,N,"",0,702,"Malette","","Gaétan","Conservative","Conservateur",N,Y,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 4","Moosonee",N,N,"",1,434,"Black","","Steve","Liberal","Libéral",N,N,66
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 4","Moosonee",N,N,"",1,434,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 4","Moosonee",N,N,"",1,434,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 4","Moosonee",N,N,"",1,434,"Malette","","Gaétan","Conservative","Conservateur",N,Y,29
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 5","Moosonee",N,N,"",4,575,"Black","","Steve","Liberal","Libéral",N,N,72
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 5","Moosonee",N,N,"",4,575,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 5","Moosonee",N,N,"",4,575,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 5","Moosonee",N,N,"",4,575,"Malette","","Gaétan","Conservative","Conservateur",N,Y,26
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 6","Fort Albany 67",N,N,"",0,353,"Black","","Steve","Liberal","Libéral",N,N,105
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 6","Fort Albany 67",N,N,"",0,353,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 6","Fort Albany 67",N,N,"",0,353,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 6","Fort Albany 67",N,N,"",0,353,"Malette","","Gaétan","Conservative","Conservateur",N,Y,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 7","Factory Island 1",N,N,"",0,591,"Black","","Steve","Liberal","Libéral",N,N,140
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 7","Factory Island 1",N,N,"",0,591,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 7","Factory Island 1",N,N,"",0,591,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 7","Factory Island 1",N,N,"",0,591,"Malette","","Gaétan","Conservative","Conservateur",N,Y,34
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 7-1","Factory Island 1--Moose Factory",N,N,"7",0,241,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 7-1","Factory Island 1--Moose Factory",N,N,"7",0,241,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 7-1","Factory Island 1--Moose Factory",N,N,"7",0,241,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 7-1","Factory Island 1--Moose Factory",N,N,"7",0,241,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 8","Factory Island",N,N,"7",0,310,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 8","Factory Island",N,N,"7",0,310,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 8","Factory Island",N,N,"7",0,310,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 8","Factory Island",N,N,"7",0,310,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 9","Kapuskasing",N,N,"",1,410,"Black","","Steve","Liberal","Libéral",N,N,74
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 9","Kapuskasing",N,N,"",1,410,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 9","Kapuskasing",N,N,"",1,410,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 9","Kapuskasing",N,N,"",1,410,"Malette","","Gaétan","Conservative","Conservateur",N,Y,64
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 10","Kapuskasing",N,N,"",1,558,"Black","","Steve","Liberal","Libéral",N,N,69
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 10","Kapuskasing",N,N,"",1,558,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 10","Kapuskasing",N,N,"",1,558,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 10","Kapuskasing",N,N,"",1,558,"Malette","","Gaétan","Conservative","Conservateur",N,Y,72
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 11","Kapuskasing",N,N,"",0,487,"Black","","Steve","Liberal","Libéral",N,N,65
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 11","Kapuskasing",N,N,"",0,487,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 11","Kapuskasing",N,N,"",0,487,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 11","Kapuskasing",N,N,"",0,487,"Malette","","Gaétan","Conservative","Conservateur",N,Y,79
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 12","Kapuskasing",N,N,"",0,513,"Black","","Steve","Liberal","Libéral",N,N,46
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 12","Kapuskasing",N,N,"",0,513,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 12","Kapuskasing",N,N,"",0,513,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 12","Kapuskasing",N,N,"",0,513,"Malette","","Gaétan","Conservative","Conservateur",N,Y,93
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 13","Kapuskasing",N,N,"",0,408,"Black","","Steve","Liberal","Libéral",N,N,61
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 13","Kapuskasing",N,N,"",0,408,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 13","Kapuskasing",N,N,"",0,408,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 13","Kapuskasing",N,N,"",0,408,"Malette","","Gaétan","Conservative","Conservateur",N,Y,78
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 14","Kapuskasing",N,N,"",1,413,"Black","","Steve","Liberal","Libéral",N,N,40
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 14","Kapuskasing",N,N,"",1,413,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 14","Kapuskasing",N,N,"",1,413,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 14","Kapuskasing",N,N,"",1,413,"Malette","","Gaétan","Conservative","Conservateur",N,Y,94
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 15","Constance Lake 92",N,N,"",0,477,"Black","","Steve","Liberal","Libéral",N,N,35
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 15","Constance Lake 92",N,N,"",0,477,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 15","Constance Lake 92",N,N,"",0,477,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 15","Constance Lake 92",N,N,"",0,477,"Malette","","Gaétan","Conservative","Conservateur",N,Y,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 16","Mattice",N,N,"",0,263,"Black","","Steve","Liberal","Libéral",N,N,35
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 16","Mattice",N,N,"",0,263,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 16","Mattice",N,N,"",0,263,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 16","Mattice",N,N,"",0,263,"Malette","","Gaétan","Conservative","Conservateur",N,Y,66
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 17","Mattice",N,N,"",3,261,"Black","","Steve","Liberal","Libéral",N,N,54
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 17","Mattice",N,N,"",3,261,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 17","Mattice",N,N,"",3,261,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 17","Mattice",N,N,"",3,261,"Malette","","Gaétan","Conservative","Conservateur",N,Y,70
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 18","Lac-Ste-Thérèse",N,N,"",2,309,"Black","","Steve","Liberal","Libéral",N,N,53
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 18","Lac-Ste-Thérèse",N,N,"",2,309,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 18","Lac-Ste-Thérèse",N,N,"",2,309,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 18","Lac-Ste-Thérèse",N,N,"",2,309,"Malette","","Gaétan","Conservative","Conservateur",N,Y,57
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 19","Calstock",N,N,"",1,209,"Black","","Steve","Liberal","Libéral",N,N,36
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 19","Calstock",N,N,"",1,209,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 19","Calstock",N,N,"",1,209,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 19","Calstock",N,N,"",1,209,"Malette","","Gaétan","Conservative","Conservateur",N,Y,33
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 20","Hearst",N,N,"",0,459,"Black","","Steve","Liberal","Libéral",N,N,71
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 20","Hearst",N,N,"",0,459,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 20","Hearst",N,N,"",0,459,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 20","Hearst",N,N,"",0,459,"Malette","","Gaétan","Conservative","Conservateur",N,Y,78
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 21","Hearst",N,N,"",2,457,"Black","","Steve","Liberal","Libéral",N,N,83
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 21","Hearst",N,N,"",2,457,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 21","Hearst",N,N,"",2,457,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 21","Hearst",N,N,"",2,457,"Malette","","Gaétan","Conservative","Conservateur",N,Y,76
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 22","Hearst",N,N,"",0,502,"Black","","Steve","Liberal","Libéral",N,N,75
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 22","Hearst",N,N,"",0,502,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 22","Hearst",N,N,"",0,502,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 22","Hearst",N,N,"",0,502,"Malette","","Gaétan","Conservative","Conservateur",N,Y,53
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 23","Hearst",N,N,"",0,482,"Black","","Steve","Liberal","Libéral",N,N,77
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 23","Hearst",N,N,"",0,482,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 23","Hearst",N,N,"",0,482,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 23","Hearst",N,N,"",0,482,"Malette","","Gaétan","Conservative","Conservateur",N,Y,70
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 24","Hearst",N,N,"",1,490,"Black","","Steve","Liberal","Libéral",N,N,53
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 24","Hearst",N,N,"",1,490,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 24","Hearst",N,N,"",1,490,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 24","Hearst",N,N,"",1,490,"Malette","","Gaétan","Conservative","Conservateur",N,Y,70
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 25","Hearst",N,N,"",2,433,"Black","","Steve","Liberal","Libéral",N,N,65
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 25","Hearst",N,N,"",2,433,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 25","Hearst",N,N,"",2,433,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 25","Hearst",N,N,"",2,433,"Malette","","Gaétan","Conservative","Conservateur",N,Y,66
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 26","Hearst",N,N,"",1,465,"Black","","Steve","Liberal","Libéral",N,N,76
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 26","Hearst",N,N,"",1,465,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 26","Hearst",N,N,"",1,465,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 26","Hearst",N,N,"",1,465,"Malette","","Gaétan","Conservative","Conservateur",N,Y,67
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 27","Hearst",N,N,"",1,562,"Black","","Steve","Liberal","Libéral",N,N,102
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 27","Hearst",N,N,"",1,562,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 27","Hearst",N,N,"",1,562,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 27","Hearst",N,N,"",1,562,"Malette","","Gaétan","Conservative","Conservateur",N,Y,73
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 28","Smooth Rock Falls",N,N,"",0,268,"Black","","Steve","Liberal","Libéral",N,N,33
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 28","Smooth Rock Falls",N,N,"",0,268,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 28","Smooth Rock Falls",N,N,"",0,268,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 28","Smooth Rock Falls",N,N,"",0,268,"Malette","","Gaétan","Conservative","Conservateur",N,Y,57
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 29","Smooth Rock Falls",N,N,"",2,278,"Black","","Steve","Liberal","Libéral",N,N,38
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 29","Smooth Rock Falls",N,N,"",2,278,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 29","Smooth Rock Falls",N,N,"",2,278,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 29","Smooth Rock Falls",N,N,"",2,278,"Malette","","Gaétan","Conservative","Conservateur",N,Y,43
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 30","Smooth Rock Falls",N,N,"",0,268,"Black","","Steve","Liberal","Libéral",N,N,36
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 30","Smooth Rock Falls",N,N,"",0,268,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 30","Smooth Rock Falls",N,N,"",0,268,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 30","Smooth Rock Falls",N,N,"",0,268,"Malette","","Gaétan","Conservative","Conservateur",N,Y,55
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 31","Smooth Rock Falls",N,N,"",2,330,"Black","","Steve","Liberal","Libéral",N,N,33
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 31","Smooth Rock Falls",N,N,"",2,330,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 31","Smooth Rock Falls",N,N,"",2,330,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 31","Smooth Rock Falls",N,N,"",2,330,"Malette","","Gaétan","Conservative","Conservateur",N,Y,56
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 32","Opasatika",N,N,"",0,311,"Black","","Steve","Liberal","Libéral",N,N,35
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 32","Opasatika",N,N,"",0,311,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 32","Opasatika",N,N,"",0,311,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 32","Opasatika",N,N,"",0,311,"Malette","","Gaétan","Conservative","Conservateur",N,Y,62
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 33","Moonbeam",N,N,"",2,434,"Black","","Steve","Liberal","Libéral",N,N,101
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 33","Moonbeam",N,N,"",2,434,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 33","Moonbeam",N,N,"",2,434,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 33","Moonbeam",N,N,"",2,434,"Malette","","Gaétan","Conservative","Conservateur",N,Y,78
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 34","Moonbeam",N,N,"",1,273,"Black","","Steve","Liberal","Libéral",N,N,57
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 34","Moonbeam",N,N,"",1,273,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 34","Moonbeam",N,N,"",1,273,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 34","Moonbeam",N,N,"",1,273,"Malette","","Gaétan","Conservative","Conservateur",N,Y,83
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 35","Moonbeam",N,N,"",1,358,"Black","","Steve","Liberal","Libéral",N,N,62
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 35","Moonbeam",N,N,"",1,358,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 35","Moonbeam",N,N,"",1,358,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 35","Moonbeam",N,N,"",1,358,"Malette","","Gaétan","Conservative","Conservateur",N,Y,101
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 36","Kapuskasing",N,N,"",1,463,"Black","","Steve","Liberal","Libéral",N,N,51
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 36","Kapuskasing",N,N,"",1,463,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 36","Kapuskasing",N,N,"",1,463,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 36","Kapuskasing",N,N,"",1,463,"Malette","","Gaétan","Conservative","Conservateur",N,Y,60
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 37","Kapuskasing",N,N,"",1,541,"Black","","Steve","Liberal","Libéral",N,N,85
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 37","Kapuskasing",N,N,"",1,541,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 37","Kapuskasing",N,N,"",1,541,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 37","Kapuskasing",N,N,"",1,541,"Malette","","Gaétan","Conservative","Conservateur",N,Y,94
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 38","Kapuskasing",N,N,"",1,559,"Black","","Steve","Liberal","Libéral",N,N,94
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 38","Kapuskasing",N,N,"",1,559,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 38","Kapuskasing",N,N,"",1,559,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 38","Kapuskasing",N,N,"",1,559,"Malette","","Gaétan","Conservative","Conservateur",N,Y,73
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 39","Kapuskasing",N,N,"",1,556,"Black","","Steve","Liberal","Libéral",N,N,55
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 39","Kapuskasing",N,N,"",1,556,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 39","Kapuskasing",N,N,"",1,556,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 39","Kapuskasing",N,N,"",1,556,"Malette","","Gaétan","Conservative","Conservateur",N,Y,88
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 40","Kapuskasing",N,N,"",2,333,"Black","","Steve","Liberal","Libéral",N,N,32
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 40","Kapuskasing",N,N,"",2,333,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 40","Kapuskasing",N,N,"",2,333,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 40","Kapuskasing",N,N,"",2,333,"Malette","","Gaétan","Conservative","Conservateur",N,Y,43
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 41","Kapuskasing",N,N,"",3,523,"Black","","Steve","Liberal","Libéral",N,N,51
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 41","Kapuskasing",N,N,"",3,523,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 41","Kapuskasing",N,N,"",3,523,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 41","Kapuskasing",N,N,"",3,523,"Malette","","Gaétan","Conservative","Conservateur",N,Y,60
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 42","Kapuskasing",N,N,"",1,445,"Black","","Steve","Liberal","Libéral",N,N,45
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 42","Kapuskasing",N,N,"",1,445,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 42","Kapuskasing",N,N,"",1,445,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 42","Kapuskasing",N,N,"",1,445,"Malette","","Gaétan","Conservative","Conservateur",N,Y,37
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 43","Kapuskasing",N,N,"",1,485,"Black","","Steve","Liberal","Libéral",N,N,49
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 43","Kapuskasing",N,N,"",1,485,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 43","Kapuskasing",N,N,"",1,485,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 43","Kapuskasing",N,N,"",1,485,"Malette","","Gaétan","Conservative","Conservateur",N,Y,85
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 44","Cochrane",N,N,"",1,533,"Black","","Steve","Liberal","Libéral",N,N,57
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 44","Cochrane",N,N,"",1,533,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 44","Cochrane",N,N,"",1,533,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 44","Cochrane",N,N,"",1,533,"Malette","","Gaétan","Conservative","Conservateur",N,Y,93
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 44-1","New Post 69A",N,N,"",4,58,"Black","","Steve","Liberal","Libéral",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 44-1","New Post 69A",N,N,"",4,58,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 44-1","New Post 69A",N,N,"",4,58,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 44-1","New Post 69A",N,N,"",4,58,"Malette","","Gaétan","Conservative","Conservateur",N,Y,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 45","Cochrane",N,N,"",0,568,"Black","","Steve","Liberal","Libéral",N,N,97
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 45","Cochrane",N,N,"",0,568,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 45","Cochrane",N,N,"",0,568,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 45","Cochrane",N,N,"",0,568,"Malette","","Gaétan","Conservative","Conservateur",N,Y,74
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 46","Cochrane",N,N,"",1,525,"Black","","Steve","Liberal","Libéral",N,N,65
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 46","Cochrane",N,N,"",1,525,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 46","Cochrane",N,N,"",1,525,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 46","Cochrane",N,N,"",1,525,"Malette","","Gaétan","Conservative","Conservateur",N,Y,81
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 47","Cochrane",N,N,"",1,461,"Black","","Steve","Liberal","Libéral",N,N,76
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 47","Cochrane",N,N,"",1,461,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 47","Cochrane",N,N,"",1,461,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 47","Cochrane",N,N,"",1,461,"Malette","","Gaétan","Conservative","Conservateur",N,Y,71
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 48","Cochrane",N,N,"",0,494,"Black","","Steve","Liberal","Libéral",N,N,61
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 48","Cochrane",N,N,"",0,494,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 48","Cochrane",N,N,"",0,494,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 48","Cochrane",N,N,"",0,494,"Malette","","Gaétan","Conservative","Conservateur",N,Y,64
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 49","Cochrane",N,N,"",2,549,"Black","","Steve","Liberal","Libéral",N,N,75
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 49","Cochrane",N,N,"",2,549,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 49","Cochrane",N,N,"",2,549,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 49","Cochrane",N,N,"",2,549,"Malette","","Gaétan","Conservative","Conservateur",N,Y,92
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 50","Cochrane",N,N,"",1,574,"Black","","Steve","Liberal","Libéral",N,N,54
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 50","Cochrane",N,N,"",1,574,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 50","Cochrane",N,N,"",1,574,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 50","Cochrane",N,N,"",1,574,"Malette","","Gaétan","Conservative","Conservateur",N,Y,74
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 51","Cochrane",N,N,"",1,747,"Black","","Steve","Liberal","Libéral",N,N,90
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 51","Cochrane",N,N,"",1,747,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 51","Cochrane",N,N,"",1,747,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 51","Cochrane",N,N,"",1,747,"Malette","","Gaétan","Conservative","Conservateur",N,Y,125
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 52","Cochrane",N,N,"",1,481,"Black","","Steve","Liberal","Libéral",N,N,47
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 52","Cochrane",N,N,"",1,481,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 52","Cochrane",N,N,"",1,481,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 52","Cochrane",N,N,"",1,481,"Malette","","Gaétan","Conservative","Conservateur",N,Y,93
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 53","Strickland",N,N,"",1,207,"Black","","Steve","Liberal","Libéral",N,N,26
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 53","Strickland",N,N,"",1,207,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 53","Strickland",N,N,"",1,207,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 53","Strickland",N,N,"",1,207,"Malette","","Gaétan","Conservative","Conservateur",N,Y,46
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 54","Fauquier",N,N,"",4,286,"Black","","Steve","Liberal","Libéral",N,N,62
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 54","Fauquier",N,N,"",4,286,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 54","Fauquier",N,N,"",4,286,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 54","Fauquier",N,N,"",4,286,"Malette","","Gaétan","Conservative","Conservateur",N,Y,92
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 55","Val Rita",N,N,"",0,502,"Black","","Steve","Liberal","Libéral",N,N,67
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 55","Val Rita",N,N,"",0,502,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 55","Val Rita",N,N,"",0,502,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 55","Val Rita",N,N,"",0,502,"Malette","","Gaétan","Conservative","Conservateur",N,Y,127
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 56","Iroquois Falls",N,N,"",1,518,"Black","","Steve","Liberal","Libéral",N,N,69
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 56","Iroquois Falls",N,N,"",1,518,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 56","Iroquois Falls",N,N,"",1,518,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 56","Iroquois Falls",N,N,"",1,518,"Malette","","Gaétan","Conservative","Conservateur",N,Y,62
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 57","Iroquois Falls",N,N,"",0,425,"Black","","Steve","Liberal","Libéral",N,N,38
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 57","Iroquois Falls",N,N,"",0,425,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 57","Iroquois Falls",N,N,"",0,425,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 57","Iroquois Falls",N,N,"",0,425,"Malette","","Gaétan","Conservative","Conservateur",N,Y,69
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 58","Iroquois Falls",N,N,"",1,441,"Black","","Steve","Liberal","Libéral",N,N,36
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 58","Iroquois Falls",N,N,"",1,441,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 58","Iroquois Falls",N,N,"",1,441,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 58","Iroquois Falls",N,N,"",1,441,"Malette","","Gaétan","Conservative","Conservateur",N,Y,66
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 59","Iroquois Falls",N,N,"",0,467,"Black","","Steve","Liberal","Libéral",N,N,63
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 59","Iroquois Falls",N,N,"",0,467,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 59","Iroquois Falls",N,N,"",0,467,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 59","Iroquois Falls",N,N,"",0,467,"Malette","","Gaétan","Conservative","Conservateur",N,Y,103
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 60","Iroquois Falls",N,N,"",3,572,"Black","","Steve","Liberal","Libéral",N,N,68
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 60","Iroquois Falls",N,N,"",3,572,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 60","Iroquois Falls",N,N,"",3,572,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 60","Iroquois Falls",N,N,"",3,572,"Malette","","Gaétan","Conservative","Conservateur",N,Y,94
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 61","Iroquois Falls",N,N,"",1,482,"Black","","Steve","Liberal","Libéral",N,N,35
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 61","Iroquois Falls",N,N,"",1,482,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 61","Iroquois Falls",N,N,"",1,482,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 61","Iroquois Falls",N,N,"",1,482,"Malette","","Gaétan","Conservative","Conservateur",N,Y,69
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 62","Iroquois Falls",N,N,"",1,481,"Black","","Steve","Liberal","Libéral",N,N,48
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 62","Iroquois Falls",N,N,"",1,481,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 62","Iroquois Falls",N,N,"",1,481,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 62","Iroquois Falls",N,N,"",1,481,"Malette","","Gaétan","Conservative","Conservateur",N,Y,81
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 63","Abitibi 70",N,N,"",0,53,"Black","","Steve","Liberal","Libéral",N,N,16
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 63","Abitibi 70",N,N,"",0,53,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 63","Abitibi 70",N,N,"",0,53,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 63","Abitibi 70",N,N,"",0,53,"Malette","","Gaétan","Conservative","Conservateur",N,Y,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 64","Hornepayne",N,N,"",2,311,"Black","","Steve","Liberal","Libéral",N,N,48
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 64","Hornepayne",N,N,"",2,311,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 64","Hornepayne",N,N,"",2,311,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 64","Hornepayne",N,N,"",2,311,"Malette","","Gaétan","Conservative","Conservateur",N,Y,68
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 65","Shillington",N,N,"",2,472,"Black","","Steve","Liberal","Libéral",N,N,34
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 65","Shillington",N,N,"",2,472,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 65","Shillington",N,N,"",2,472,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 65","Shillington",N,N,"",2,472,"Malette","","Gaétan","Conservative","Conservateur",N,Y,73
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 66","Matheson",N,N,"",2,406,"Black","","Steve","Liberal","Libéral",N,N,32
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 66","Matheson",N,N,"",2,406,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 66","Matheson",N,N,"",2,406,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 66","Matheson",N,N,"",2,406,"Malette","","Gaétan","Conservative","Conservateur",N,Y,64
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 67","Matheson",N,N,"",2,361,"Black","","Steve","Liberal","Libéral",N,N,32
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 67","Matheson",N,N,"",2,361,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 67","Matheson",N,N,"",2,361,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 67","Matheson",N,N,"",2,361,"Malette","","Gaétan","Conservative","Conservateur",N,Y,91
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 68","Iroquois Falls",N,N,"",2,517,"Black","","Steve","Liberal","Libéral",N,N,58
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 68","Iroquois Falls",N,N,"",2,517,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 68","Iroquois Falls",N,N,"",2,517,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,12
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 68","Iroquois Falls",N,N,"",2,517,"Malette","","Gaétan","Conservative","Conservateur",N,Y,108
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 69","Val Gagné",N,N,"",2,387,"Black","","Steve","Liberal","Libéral",N,N,73
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 69","Val Gagné",N,N,"",2,387,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 69","Val Gagné",N,N,"",2,387,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 69","Val Gagné",N,N,"",2,387,"Malette","","Gaétan","Conservative","Conservateur",N,Y,102
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 70","Timmins",N,N,"",1,492,"Black","","Steve","Liberal","Libéral",N,N,51
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 70","Timmins",N,N,"",1,492,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 70","Timmins",N,N,"",1,492,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 70","Timmins",N,N,"",1,492,"Malette","","Gaétan","Conservative","Conservateur",N,Y,81
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 71","Timmins",N,N,"",1,505,"Black","","Steve","Liberal","Libéral",N,N,76
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 71","Timmins",N,N,"",1,505,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 71","Timmins",N,N,"",1,505,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 71","Timmins",N,N,"",1,505,"Malette","","Gaétan","Conservative","Conservateur",N,Y,107
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 72","Timmins",N,N,"",3,644,"Black","","Steve","Liberal","Libéral",N,N,123
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 72","Timmins",N,N,"",3,644,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 72","Timmins",N,N,"",3,644,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 72","Timmins",N,N,"",3,644,"Malette","","Gaétan","Conservative","Conservateur",N,Y,149
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 73","Timmins",N,N,"",1,492,"Black","","Steve","Liberal","Libéral",N,N,123
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 73","Timmins",N,N,"",1,492,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 73","Timmins",N,N,"",1,492,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 73","Timmins",N,N,"",1,492,"Malette","","Gaétan","Conservative","Conservateur",N,Y,121
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 74","Timmins",N,N,"",0,615,"Black","","Steve","Liberal","Libéral",N,N,99
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 74","Timmins",N,N,"",0,615,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 74","Timmins",N,N,"",0,615,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 74","Timmins",N,N,"",0,615,"Malette","","Gaétan","Conservative","Conservateur",N,Y,98
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 75","Timmins",N,N,"",6,424,"Black","","Steve","Liberal","Libéral",N,N,69
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 75","Timmins",N,N,"",6,424,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 75","Timmins",N,N,"",6,424,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 75","Timmins",N,N,"",6,424,"Malette","","Gaétan","Conservative","Conservateur",N,Y,162
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 76","Ramore",N,N,"",1,447,"Black","","Steve","Liberal","Libéral",N,N,49
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 76","Ramore",N,N,"",1,447,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 76","Ramore",N,N,"",1,447,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 76","Ramore",N,N,"",1,447,"Malette","","Gaétan","Conservative","Conservateur",N,Y,121
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 77","Timmins",N,N,"",1,501,"Black","","Steve","Liberal","Libéral",N,N,70
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 77","Timmins",N,N,"",1,501,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 77","Timmins",N,N,"",1,501,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 77","Timmins",N,N,"",1,501,"Malette","","Gaétan","Conservative","Conservateur",N,Y,128
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 78","Timmins",N,N,"",0,558,"Black","","Steve","Liberal","Libéral",N,N,45
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 78","Timmins",N,N,"",0,558,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 78","Timmins",N,N,"",0,558,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 78","Timmins",N,N,"",0,558,"Malette","","Gaétan","Conservative","Conservateur",N,Y,162
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 79","Timmins",N,N,"",0,484,"Black","","Steve","Liberal","Libéral",N,N,58
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 79","Timmins",N,N,"",0,484,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 79","Timmins",N,N,"",0,484,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 79","Timmins",N,N,"",0,484,"Malette","","Gaétan","Conservative","Conservateur",N,Y,132
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 80","Timmins",N,N,"",1,457,"Black","","Steve","Liberal","Libéral",N,N,55
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 80","Timmins",N,N,"",1,457,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 80","Timmins",N,N,"",1,457,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 80","Timmins",N,N,"",1,457,"Malette","","Gaétan","Conservative","Conservateur",N,Y,67
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 81","Timmins",N,N,"",1,594,"Black","","Steve","Liberal","Libéral",N,N,81
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 81","Timmins",N,N,"",1,594,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 81","Timmins",N,N,"",1,594,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 81","Timmins",N,N,"",1,594,"Malette","","Gaétan","Conservative","Conservateur",N,Y,99
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 82","Timmins",N,N,"",2,460,"Black","","Steve","Liberal","Libéral",N,N,50
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 82","Timmins",N,N,"",2,460,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 82","Timmins",N,N,"",2,460,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 82","Timmins",N,N,"",2,460,"Malette","","Gaétan","Conservative","Conservateur",N,Y,102
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 83","Timmins",N,N,"",2,548,"Black","","Steve","Liberal","Libéral",N,N,38
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 83","Timmins",N,N,"",2,548,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 83","Timmins",N,N,"",2,548,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 83","Timmins",N,N,"",2,548,"Malette","","Gaétan","Conservative","Conservateur",N,Y,117
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 84","Timmins",N,N,"",2,525,"Black","","Steve","Liberal","Libéral",N,N,102
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 84","Timmins",N,N,"",2,525,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 84","Timmins",N,N,"",2,525,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 84","Timmins",N,N,"",2,525,"Malette","","Gaétan","Conservative","Conservateur",N,Y,130
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 85","Timmins",N,N,"",1,238,"Black","","Steve","Liberal","Libéral",N,N,57
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 85","Timmins",N,N,"",1,238,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 85","Timmins",N,N,"",1,238,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 85","Timmins",N,N,"",1,238,"Malette","","Gaétan","Conservative","Conservateur",N,Y,93
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 86A","Timmins",N,N,"",2,519,"Black","","Steve","Liberal","Libéral",N,N,93
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 86A","Timmins",N,N,"",2,519,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 86A","Timmins",N,N,"",2,519,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 86A","Timmins",N,N,"",2,519,"Malette","","Gaétan","Conservative","Conservateur",N,Y,110
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 86B","Timmins",N,N,"85",0,275,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 86B","Timmins",N,N,"85",0,275,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 86B","Timmins",N,N,"85",0,275,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 86B","Timmins",N,N,"85",0,275,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 87","Timmins",N,N,"",2,418,"Black","","Steve","Liberal","Libéral",N,N,60
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 87","Timmins",N,N,"",2,418,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 87","Timmins",N,N,"",2,418,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 87","Timmins",N,N,"",2,418,"Malette","","Gaétan","Conservative","Conservateur",N,Y,79
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 88","Timmins",N,N,"",1,522,"Black","","Steve","Liberal","Libéral",N,N,82
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 88","Timmins",N,N,"",1,522,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 88","Timmins",N,N,"",1,522,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 88","Timmins",N,N,"",1,522,"Malette","","Gaétan","Conservative","Conservateur",N,Y,112
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 89","Timmins",N,N,"",4,593,"Black","","Steve","Liberal","Libéral",N,N,99
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 89","Timmins",N,N,"",4,593,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 89","Timmins",N,N,"",4,593,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 89","Timmins",N,N,"",4,593,"Malette","","Gaétan","Conservative","Conservateur",N,Y,113
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 90","Timmins",N,N,"",2,547,"Black","","Steve","Liberal","Libéral",N,N,48
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 90","Timmins",N,N,"",2,547,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 90","Timmins",N,N,"",2,547,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 90","Timmins",N,N,"",2,547,"Malette","","Gaétan","Conservative","Conservateur",N,Y,102
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 91","Timmins",N,N,"",0,634,"Black","","Steve","Liberal","Libéral",N,N,59
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 91","Timmins",N,N,"",0,634,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 91","Timmins",N,N,"",0,634,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 91","Timmins",N,N,"",0,634,"Malette","","Gaétan","Conservative","Conservateur",N,Y,122
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 92","Timmins",N,N,"",4,500,"Black","","Steve","Liberal","Libéral",N,N,100
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 92","Timmins",N,N,"",4,500,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 92","Timmins",N,N,"",4,500,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 92","Timmins",N,N,"",4,500,"Malette","","Gaétan","Conservative","Conservateur",N,Y,121
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 93","Timmins",N,N,"",2,420,"Black","","Steve","Liberal","Libéral",N,N,73
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 93","Timmins",N,N,"",2,420,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 93","Timmins",N,N,"",2,420,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 93","Timmins",N,N,"",2,420,"Malette","","Gaétan","Conservative","Conservateur",N,Y,67
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 94","Timmins",N,N,"",0,462,"Black","","Steve","Liberal","Libéral",N,N,67
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 94","Timmins",N,N,"",0,462,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 94","Timmins",N,N,"",0,462,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 94","Timmins",N,N,"",0,462,"Malette","","Gaétan","Conservative","Conservateur",N,Y,103
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 95","Timmins",N,N,"",1,542,"Black","","Steve","Liberal","Libéral",N,N,59
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 95","Timmins",N,N,"",1,542,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 95","Timmins",N,N,"",1,542,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 95","Timmins",N,N,"",1,542,"Malette","","Gaétan","Conservative","Conservateur",N,Y,112
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 96","Timmins",N,N,"",2,550,"Black","","Steve","Liberal","Libéral",N,N,59
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 96","Timmins",N,N,"",2,550,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 96","Timmins",N,N,"",2,550,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 96","Timmins",N,N,"",2,550,"Malette","","Gaétan","Conservative","Conservateur",N,Y,87
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 97","Timmins",N,N,"",0,548,"Black","","Steve","Liberal","Libéral",N,N,47
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 97","Timmins",N,N,"",0,548,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 97","Timmins",N,N,"",0,548,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 97","Timmins",N,N,"",0,548,"Malette","","Gaétan","Conservative","Conservateur",N,Y,72
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 98","Timmins",N,N,"",1,362,"Black","","Steve","Liberal","Libéral",N,N,70
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 98","Timmins",N,N,"",1,362,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 98","Timmins",N,N,"",1,362,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 98","Timmins",N,N,"",1,362,"Malette","","Gaétan","Conservative","Conservateur",N,Y,104
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 99","Timmins",N,N,"",2,543,"Black","","Steve","Liberal","Libéral",N,N,69
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 99","Timmins",N,N,"",2,543,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 99","Timmins",N,N,"",2,543,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 99","Timmins",N,N,"",2,543,"Malette","","Gaétan","Conservative","Conservateur",N,Y,129
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 100","Timmins",N,N,"",3,451,"Black","","Steve","Liberal","Libéral",N,N,83
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 100","Timmins",N,N,"",3,451,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 100","Timmins",N,N,"",3,451,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 100","Timmins",N,N,"",3,451,"Malette","","Gaétan","Conservative","Conservateur",N,Y,119
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 101","Timmins",N,N,"",1,358,"Black","","Steve","Liberal","Libéral",N,N,35
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 101","Timmins",N,N,"",1,358,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 101","Timmins",N,N,"",1,358,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 101","Timmins",N,N,"",1,358,"Malette","","Gaétan","Conservative","Conservateur",N,Y,68
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 102","Timmins",N,N,"",4,506,"Black","","Steve","Liberal","Libéral",N,N,74
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 102","Timmins",N,N,"",4,506,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 102","Timmins",N,N,"",4,506,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 102","Timmins",N,N,"",4,506,"Malette","","Gaétan","Conservative","Conservateur",N,Y,130
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 103","Timmins",N,N,"",0,441,"Black","","Steve","Liberal","Libéral",N,N,61
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 103","Timmins",N,N,"",0,441,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 103","Timmins",N,N,"",0,441,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 103","Timmins",N,N,"",0,441,"Malette","","Gaétan","Conservative","Conservateur",N,Y,106
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 104","Timmins",N,N,"",6,548,"Black","","Steve","Liberal","Libéral",N,N,85
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 104","Timmins",N,N,"",6,548,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 104","Timmins",N,N,"",6,548,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 104","Timmins",N,N,"",6,548,"Malette","","Gaétan","Conservative","Conservateur",N,Y,121
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 105","Timmins",N,N,"",2,519,"Black","","Steve","Liberal","Libéral",N,N,42
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 105","Timmins",N,N,"",2,519,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 105","Timmins",N,N,"",2,519,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 105","Timmins",N,N,"",2,519,"Malette","","Gaétan","Conservative","Conservateur",N,Y,106
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 106","Timmins",N,N,"",1,467,"Black","","Steve","Liberal","Libéral",N,N,44
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 106","Timmins",N,N,"",1,467,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 106","Timmins",N,N,"",1,467,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 106","Timmins",N,N,"",1,467,"Malette","","Gaétan","Conservative","Conservateur",N,Y,67
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 107","Timmins",N,N,"",0,541,"Black","","Steve","Liberal","Libéral",N,N,79
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 107","Timmins",N,N,"",0,541,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 107","Timmins",N,N,"",0,541,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 107","Timmins",N,N,"",0,541,"Malette","","Gaétan","Conservative","Conservateur",N,Y,136
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 108","Timmins",N,N,"",1,497,"Black","","Steve","Liberal","Libéral",N,N,37
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 108","Timmins",N,N,"",1,497,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 108","Timmins",N,N,"",1,497,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 108","Timmins",N,N,"",1,497,"Malette","","Gaétan","Conservative","Conservateur",N,Y,70
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 109","Timmins",N,N,"",1,562,"Black","","Steve","Liberal","Libéral",N,N,73
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 109","Timmins",N,N,"",1,562,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 109","Timmins",N,N,"",1,562,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 109","Timmins",N,N,"",1,562,"Malette","","Gaétan","Conservative","Conservateur",N,Y,95
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 110","Timmins",N,N,"",1,362,"Black","","Steve","Liberal","Libéral",N,N,35
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 110","Timmins",N,N,"",1,362,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 110","Timmins",N,N,"",1,362,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 110","Timmins",N,N,"",1,362,"Malette","","Gaétan","Conservative","Conservateur",N,Y,44
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 111","Timmins",N,N,"",2,516,"Black","","Steve","Liberal","Libéral",N,N,86
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 111","Timmins",N,N,"",2,516,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 111","Timmins",N,N,"",2,516,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 111","Timmins",N,N,"",2,516,"Malette","","Gaétan","Conservative","Conservateur",N,Y,138
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 112","Timmins",N,N,"",2,497,"Black","","Steve","Liberal","Libéral",N,N,40
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 112","Timmins",N,N,"",2,497,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 112","Timmins",N,N,"",2,497,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 112","Timmins",N,N,"",2,497,"Malette","","Gaétan","Conservative","Conservateur",N,Y,66
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 113","Timmins",N,N,"",2,510,"Black","","Steve","Liberal","Libéral",N,N,44
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 113","Timmins",N,N,"",2,510,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 113","Timmins",N,N,"",2,510,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 113","Timmins",N,N,"",2,510,"Malette","","Gaétan","Conservative","Conservateur",N,Y,84
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 114","Timmins",N,N,"",0,567,"Black","","Steve","Liberal","Libéral",N,N,66
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 114","Timmins",N,N,"",0,567,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 114","Timmins",N,N,"",0,567,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 114","Timmins",N,N,"",0,567,"Malette","","Gaétan","Conservative","Conservateur",N,Y,100
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 115","Timmins",N,N,"",2,506,"Black","","Steve","Liberal","Libéral",N,N,70
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 115","Timmins",N,N,"",2,506,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 115","Timmins",N,N,"",2,506,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 115","Timmins",N,N,"",2,506,"Malette","","Gaétan","Conservative","Conservateur",N,Y,161
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 116","Kearns",N,N,"",1,279,"Black","","Steve","Liberal","Libéral",N,N,44
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 116","Kearns",N,N,"",1,279,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 116","Kearns",N,N,"",1,279,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 116","Kearns",N,N,"",1,279,"Malette","","Gaétan","Conservative","Conservateur",N,Y,88
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 117","Kearns",N,N,"",0,245,"Black","","Steve","Liberal","Libéral",N,N,46
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 117","Kearns",N,N,"",0,245,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 117","Kearns",N,N,"",0,245,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 117","Kearns",N,N,"",0,245,"Malette","","Gaétan","Conservative","Conservateur",N,Y,71
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 118","Timmins",N,N,"",0,563,"Black","","Steve","Liberal","Libéral",N,N,58
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 118","Timmins",N,N,"",0,563,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 118","Timmins",N,N,"",0,563,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 118","Timmins",N,N,"",0,563,"Malette","","Gaétan","Conservative","Conservateur",N,Y,86
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 119","Timmins",N,N,"",2,416,"Black","","Steve","Liberal","Libéral",N,N,57
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 119","Timmins",N,N,"",2,416,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 119","Timmins",N,N,"",2,416,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 119","Timmins",N,N,"",2,416,"Malette","","Gaétan","Conservative","Conservateur",N,Y,88
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 120","Timmins",N,N,"",1,356,"Black","","Steve","Liberal","Libéral",N,N,48
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 120","Timmins",N,N,"",1,356,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 120","Timmins",N,N,"",1,356,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 120","Timmins",N,N,"",1,356,"Malette","","Gaétan","Conservative","Conservateur",N,Y,100
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 121","Timmins",N,N,"",0,361,"Black","","Steve","Liberal","Libéral",N,N,74
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 121","Timmins",N,N,"",0,361,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 121","Timmins",N,N,"",0,361,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 121","Timmins",N,N,"",0,361,"Malette","","Gaétan","Conservative","Conservateur",N,Y,57
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 122","Timmins",N,N,"",2,461,"Black","","Steve","Liberal","Libéral",N,N,50
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 122","Timmins",N,N,"",2,461,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 122","Timmins",N,N,"",2,461,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 122","Timmins",N,N,"",2,461,"Malette","","Gaétan","Conservative","Conservateur",N,Y,112
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 123","Timmins",N,N,"",0,461,"Black","","Steve","Liberal","Libéral",N,N,63
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 123","Timmins",N,N,"",0,461,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 123","Timmins",N,N,"",0,461,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 123","Timmins",N,N,"",0,461,"Malette","","Gaétan","Conservative","Conservateur",N,Y,89
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 124","Timmins",N,N,"",0,518,"Black","","Steve","Liberal","Libéral",N,N,75
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 124","Timmins",N,N,"",0,518,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 124","Timmins",N,N,"",0,518,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 124","Timmins",N,N,"",0,518,"Malette","","Gaétan","Conservative","Conservateur",N,Y,99
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 125","Timmins",N,N,"",0,506,"Black","","Steve","Liberal","Libéral",N,N,83
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 125","Timmins",N,N,"",0,506,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 125","Timmins",N,N,"",0,506,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 125","Timmins",N,N,"",0,506,"Malette","","Gaétan","Conservative","Conservateur",N,Y,117
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 126","Timmins",N,N,"",0,484,"Black","","Steve","Liberal","Libéral",N,N,33
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 126","Timmins",N,N,"",0,484,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 126","Timmins",N,N,"",0,484,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 126","Timmins",N,N,"",0,484,"Malette","","Gaétan","Conservative","Conservateur",N,Y,112
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 127","Hillary",N,N,"",1,506,"Black","","Steve","Liberal","Libéral",N,N,68
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 127","Hillary",N,N,"",1,506,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 127","Hillary",N,N,"",1,506,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 127","Hillary",N,N,"",1,506,"Malette","","Gaétan","Conservative","Conservateur",N,Y,103
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 127-1","Flying Post 73",N,N,"127",0,1,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 127-1","Flying Post 73",N,N,"127",0,1,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 127-1","Flying Post 73",N,N,"127",0,1,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 127-1","Flying Post 73",N,N,"127",0,1,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 128","Sesekinika",N,N,"",1,265,"Black","","Steve","Liberal","Libéral",N,N,55
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 128","Sesekinika",N,N,"",1,265,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 128","Sesekinika",N,N,"",1,265,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 128","Sesekinika",N,N,"",1,265,"Malette","","Gaétan","Conservative","Conservateur",N,Y,86
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 129","Timmins",N,N,"",0,549,"Black","","Steve","Liberal","Libéral",N,N,47
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 129","Timmins",N,N,"",0,549,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 129","Timmins",N,N,"",0,549,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 129","Timmins",N,N,"",0,549,"Malette","","Gaétan","Conservative","Conservateur",N,Y,87
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 130","Timmins",N,N,"",2,564,"Black","","Steve","Liberal","Libéral",N,N,75
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 130","Timmins",N,N,"",2,564,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 130","Timmins",N,N,"",2,564,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 130","Timmins",N,N,"",2,564,"Malette","","Gaétan","Conservative","Conservateur",N,Y,93
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 131","Timmins",N,N,"",3,577,"Black","","Steve","Liberal","Libéral",N,N,68
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 131","Timmins",N,N,"",3,577,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 131","Timmins",N,N,"",3,577,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 131","Timmins",N,N,"",3,577,"Malette","","Gaétan","Conservative","Conservateur",N,Y,111
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 132","Timmins",N,N,"",3,560,"Black","","Steve","Liberal","Libéral",N,N,60
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 132","Timmins",N,N,"",3,560,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 132","Timmins",N,N,"",3,560,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 132","Timmins",N,N,"",3,560,"Malette","","Gaétan","Conservative","Conservateur",N,Y,124
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 133","Kirkland Lake",N,N,"",2,483,"Black","","Steve","Liberal","Libéral",N,N,54
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 133","Kirkland Lake",N,N,"",2,483,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 133","Kirkland Lake",N,N,"",2,483,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 133","Kirkland Lake",N,N,"",2,483,"Malette","","Gaétan","Conservative","Conservateur",N,Y,74
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 134","Timmins",N,N,"",0,485,"Black","","Steve","Liberal","Libéral",N,N,84
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 134","Timmins",N,N,"",0,485,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 134","Timmins",N,N,"",0,485,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 134","Timmins",N,N,"",0,485,"Malette","","Gaétan","Conservative","Conservateur",N,Y,78
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 135","Timmins",N,N,"",2,478,"Black","","Steve","Liberal","Libéral",N,N,78
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 135","Timmins",N,N,"",2,478,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 135","Timmins",N,N,"",2,478,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 135","Timmins",N,N,"",2,478,"Malette","","Gaétan","Conservative","Conservateur",N,Y,121
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 136","Timmins",N,N,"",0,518,"Black","","Steve","Liberal","Libéral",N,N,69
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 136","Timmins",N,N,"",0,518,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 136","Timmins",N,N,"",0,518,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 136","Timmins",N,N,"",0,518,"Malette","","Gaétan","Conservative","Conservateur",N,Y,121
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 137","Timmins",N,N,"",0,475,"Black","","Steve","Liberal","Libéral",N,N,89
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 137","Timmins",N,N,"",0,475,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 137","Timmins",N,N,"",0,475,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 137","Timmins",N,N,"",0,475,"Malette","","Gaétan","Conservative","Conservateur",N,Y,96
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 138","Timmins",N,N,"",0,330,"Black","","Steve","Liberal","Libéral",N,N,38
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 138","Timmins",N,N,"",0,330,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 138","Timmins",N,N,"",0,330,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 138","Timmins",N,N,"",0,330,"Malette","","Gaétan","Conservative","Conservateur",N,Y,110
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 139","Dobie",N,N,"",0,401,"Black","","Steve","Liberal","Libéral",N,N,57
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 139","Dobie",N,N,"",0,401,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 139","Dobie",N,N,"",0,401,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 139","Dobie",N,N,"",0,401,"Malette","","Gaétan","Conservative","Conservateur",N,Y,123
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 140","Kirkland Lake",N,N,"",0,548,"Black","","Steve","Liberal","Libéral",N,N,80
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 140","Kirkland Lake",N,N,"",0,548,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 140","Kirkland Lake",N,N,"",0,548,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 140","Kirkland Lake",N,N,"",0,548,"Malette","","Gaétan","Conservative","Conservateur",N,Y,72
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 141","Kirkland Lake",N,N,"",2,552,"Black","","Steve","Liberal","Libéral",N,N,40
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 141","Kirkland Lake",N,N,"",2,552,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 141","Kirkland Lake",N,N,"",2,552,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 141","Kirkland Lake",N,N,"",2,552,"Malette","","Gaétan","Conservative","Conservateur",N,Y,80
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 142","Kirkland Lake",N,N,"",1,546,"Black","","Steve","Liberal","Libéral",N,N,40
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 142","Kirkland Lake",N,N,"",1,546,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 142","Kirkland Lake",N,N,"",1,546,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 142","Kirkland Lake",N,N,"",1,546,"Malette","","Gaétan","Conservative","Conservateur",N,Y,75
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 143","Kirkland Lake",N,N,"",1,546,"Black","","Steve","Liberal","Libéral",N,N,44
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 143","Kirkland Lake",N,N,"",1,546,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 143","Kirkland Lake",N,N,"",1,546,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 143","Kirkland Lake",N,N,"",1,546,"Malette","","Gaétan","Conservative","Conservateur",N,Y,83
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 144","Kirkland Lake",N,N,"",2,575,"Black","","Steve","Liberal","Libéral",N,N,56
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 144","Kirkland Lake",N,N,"",2,575,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 144","Kirkland Lake",N,N,"",2,575,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 144","Kirkland Lake",N,N,"",2,575,"Malette","","Gaétan","Conservative","Conservateur",N,Y,106
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 145","Larder Lake",N,N,"",0,338,"Black","","Steve","Liberal","Libéral",N,N,51
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 145","Larder Lake",N,N,"",0,338,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 145","Larder Lake",N,N,"",0,338,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 145","Larder Lake",N,N,"",0,338,"Malette","","Gaétan","Conservative","Conservateur",N,Y,102
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 146","Larder Lake",N,N,"",0,333,"Black","","Steve","Liberal","Libéral",N,N,57
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 146","Larder Lake",N,N,"",0,333,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 146","Larder Lake",N,N,"",0,333,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 146","Larder Lake",N,N,"",0,333,"Malette","","Gaétan","Conservative","Conservateur",N,Y,120
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 147","Kirkland Lake",N,N,"",3,581,"Black","","Steve","Liberal","Libéral",N,N,38
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 147","Kirkland Lake",N,N,"",3,581,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 147","Kirkland Lake",N,N,"",3,581,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 147","Kirkland Lake",N,N,"",3,581,"Malette","","Gaétan","Conservative","Conservateur",N,Y,78
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 148","Kirkland Lake",N,N,"",2,599,"Black","","Steve","Liberal","Libéral",N,N,40
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 148","Kirkland Lake",N,N,"",2,599,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 148","Kirkland Lake",N,N,"",2,599,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 148","Kirkland Lake",N,N,"",2,599,"Malette","","Gaétan","Conservative","Conservateur",N,Y,85
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 149","Kirkland Lake",N,N,"",1,383,"Black","","Steve","Liberal","Libéral",N,N,38
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 149","Kirkland Lake",N,N,"",1,383,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 149","Kirkland Lake",N,N,"",1,383,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 149","Kirkland Lake",N,N,"",1,383,"Malette","","Gaétan","Conservative","Conservateur",N,Y,62
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 150","Kirkland Lake",N,N,"",2,316,"Black","","Steve","Liberal","Libéral",N,N,28
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 150","Kirkland Lake",N,N,"",2,316,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 150","Kirkland Lake",N,N,"",2,316,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 150","Kirkland Lake",N,N,"",2,316,"Malette","","Gaétan","Conservative","Conservateur",N,Y,59
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 151","Kirkland Lake",N,N,"",0,555,"Black","","Steve","Liberal","Libéral",N,N,43
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 151","Kirkland Lake",N,N,"",0,555,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 151","Kirkland Lake",N,N,"",0,555,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 151","Kirkland Lake",N,N,"",0,555,"Malette","","Gaétan","Conservative","Conservateur",N,Y,97
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 152","Kirkland Lake",N,N,"",0,448,"Black","","Steve","Liberal","Libéral",N,N,49
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 152","Kirkland Lake",N,N,"",0,448,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 152","Kirkland Lake",N,N,"",0,448,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 152","Kirkland Lake",N,N,"",0,448,"Malette","","Gaétan","Conservative","Conservateur",N,Y,82
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 153","Matachewan",N,N,"",0,299,"Black","","Steve","Liberal","Libéral",N,N,28
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 153","Matachewan",N,N,"",0,299,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 153","Matachewan",N,N,"",0,299,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 153","Matachewan",N,N,"",0,299,"Malette","","Gaétan","Conservative","Conservateur",N,Y,117
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 154","Dane",N,N,"",0,405,"Black","","Steve","Liberal","Libéral",N,N,31
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 154","Dane",N,N,"",0,405,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 154","Dane",N,N,"",0,405,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 154","Dane",N,N,"",0,405,"Malette","","Gaétan","Conservative","Conservateur",N,Y,126
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 155","Foleyet",N,N,"",0,261,"Black","","Steve","Liberal","Libéral",N,N,14
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 155","Foleyet",N,N,"",0,261,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 155","Foleyet",N,N,"",0,261,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 155","Foleyet",N,N,"",0,261,"Malette","","Gaétan","Conservative","Conservateur",N,Y,44
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 156","Kenogami Lake",N,N,"",2,411,"Black","","Steve","Liberal","Libéral",N,N,97
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 156","Kenogami Lake",N,N,"",2,411,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 156","Kenogami Lake",N,N,"",2,411,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 156","Kenogami Lake",N,N,"",2,411,"Malette","","Gaétan","Conservative","Conservateur",N,Y,108
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 157","Matachewan 72",N,N,"",0,40,"Black","","Steve","Liberal","Libéral",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 157","Matachewan 72",N,N,"",0,40,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 157","Matachewan 72",N,N,"",0,40,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 157","Matachewan 72",N,N,"",0,40,"Malette","","Gaétan","Conservative","Conservateur",N,Y,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 158","Gowganda",N,N,"",0,79,"Black","","Steve","Liberal","Libéral",N,N,12
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 158","Gowganda",N,N,"",0,79,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 158","Gowganda",N,N,"",0,79,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 158","Gowganda",N,N,"",0,79,"Malette","","Gaétan","Conservative","Conservateur",N,Y,30
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159","Chapleau",N,N,"",0,272,"Black","","Steve","Liberal","Libéral",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159","Chapleau",N,N,"",0,272,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159","Chapleau",N,N,"",0,272,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159","Chapleau",N,N,"",0,272,"Malette","","Gaétan","Conservative","Conservateur",N,Y,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-1","Chapleau 74A",N,N,"163",0,23,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-1","Chapleau 74A",N,N,"163",0,23,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-1","Chapleau 74A",N,N,"163",0,23,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-1","Chapleau 74A",N,N,"163",0,23,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-2","Chapleau Cree Fox Lake",N,N,"163",0,93,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-2","Chapleau Cree Fox Lake",N,N,"163",0,93,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-2","Chapleau Cree Fox Lake",N,N,"163",0,93,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-2","Chapleau Cree Fox Lake",N,N,"163",0,93,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-3","Duck Lake 76B",N,N,"160",0,23,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-3","Duck Lake 76B",N,N,"160",0,23,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-3","Duck Lake 76B",N,N,"160",0,23,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 159-3","Duck Lake 76B",N,N,"160",0,23,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 160","Chapleau",N,N,"",0,322,"Black","","Steve","Liberal","Libéral",N,N,66
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 160","Chapleau",N,N,"",0,322,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 160","Chapleau",N,N,"",0,322,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 160","Chapleau",N,N,"",0,322,"Malette","","Gaétan","Conservative","Conservateur",N,Y,81
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 161A","Chapleau",N,N,"",0,383,"Black","","Steve","Liberal","Libéral",N,N,44
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 161A","Chapleau",N,N,"",0,383,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 161A","Chapleau",N,N,"",0,383,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 161A","Chapleau",N,N,"",0,383,"Malette","","Gaétan","Conservative","Conservateur",N,Y,68
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 161B","Mobile poll/Bureau itinérant",N,N,"",0,11,"Black","","Steve","Liberal","Libéral",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 161B","Mobile poll/Bureau itinérant",N,N,"",0,11,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 161B","Mobile poll/Bureau itinérant",N,N,"",0,11,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 161B","Mobile poll/Bureau itinérant",N,N,"",0,11,"Malette","","Gaétan","Conservative","Conservateur",N,Y,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 162A","Chapleau",N,N,"",0,372,"Black","","Steve","Liberal","Libéral",N,N,37
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 162A","Chapleau",N,N,"",0,372,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 162A","Chapleau",N,N,"",0,372,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 162A","Chapleau",N,N,"",0,372,"Malette","","Gaétan","Conservative","Conservateur",N,Y,34
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 162B","Mobile poll/Bureau itinérant",N,N,"161B",0,20,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 162B","Mobile poll/Bureau itinérant",N,N,"161B",0,20,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 162B","Mobile poll/Bureau itinérant",N,N,"161B",0,20,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 162B","Mobile poll/Bureau itinérant",N,N,"161B",0,20,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 163","Chapleau",N,N,"",0,277,"Black","","Steve","Liberal","Libéral",N,N,54
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 163","Chapleau",N,N,"",0,277,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 163","Chapleau",N,N,"",0,277,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 163","Chapleau",N,N,"",0,277,"Malette","","Gaétan","Conservative","Conservateur",N,Y,62
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 164","Chapleau",N,N,"",1,352,"Black","","Steve","Liberal","Libéral",N,N,21
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 164","Chapleau",N,N,"",1,352,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 164","Chapleau",N,N,"",1,352,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 164","Chapleau",N,N,"",1,352,"Malette","","Gaétan","Conservative","Conservateur",N,Y,40
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,13,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,13,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,13,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,13,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 501","Mobile poll/Bureau itinérant",N,N,"",1,87,"Black","","Steve","Liberal","Libéral",N,N,33
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 501","Mobile poll/Bureau itinérant",N,N,"",1,87,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 501","Mobile poll/Bureau itinérant",N,N,"",1,87,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 501","Mobile poll/Bureau itinérant",N,N,"",1,87,"Malette","","Gaétan","Conservative","Conservateur",N,Y,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,34,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,34,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,34,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,34,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 503","Mobile poll/Bureau itinérant",N,N,"",4,88,"Black","","Steve","Liberal","Libéral",N,N,39
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 503","Mobile poll/Bureau itinérant",N,N,"",4,88,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 503","Mobile poll/Bureau itinérant",N,N,"",4,88,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 503","Mobile poll/Bureau itinérant",N,N,"",4,88,"Malette","","Gaétan","Conservative","Conservateur",N,Y,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,61,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,61,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,61,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,61,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 505","Mobile poll/Bureau itinérant",N,Y,"",0,14,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 505","Mobile poll/Bureau itinérant",N,Y,"",0,14,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 505","Mobile poll/Bureau itinérant",N,Y,"",0,14,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 505","Mobile poll/Bureau itinérant",N,Y,"",0,14,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,1,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,1,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,1,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,1,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 507","Mobile poll/Bureau itinérant",N,N,"",4,32,"Black","","Steve","Liberal","Libéral",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 507","Mobile poll/Bureau itinérant",N,N,"",4,32,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 507","Mobile poll/Bureau itinérant",N,N,"",4,32,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 507","Mobile poll/Bureau itinérant",N,N,"",4,32,"Malette","","Gaétan","Conservative","Conservateur",N,Y,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 508","Mobile poll/Bureau itinérant",N,N,"507",0,17,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 508","Mobile poll/Bureau itinérant",N,N,"507",0,17,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 508","Mobile poll/Bureau itinérant",N,N,"507",0,17,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 508","Mobile poll/Bureau itinérant",N,N,"507",0,17,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 509","Mobile poll/Bureau itinérant",N,N,"",6,79,"Black","","Steve","Liberal","Libéral",N,N,47
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 509","Mobile poll/Bureau itinérant",N,N,"",6,79,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 509","Mobile poll/Bureau itinérant",N,N,"",6,79,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 509","Mobile poll/Bureau itinérant",N,N,"",6,79,"Malette","","Gaétan","Conservative","Conservateur",N,Y,37
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 510","Mobile poll/Bureau itinérant",N,N,"513",0,27,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 510","Mobile poll/Bureau itinérant",N,N,"513",0,27,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 510","Mobile poll/Bureau itinérant",N,N,"513",0,27,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 510","Mobile poll/Bureau itinérant",N,N,"513",0,27,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 511","Mobile poll/Bureau itinérant",N,N,"513",0,16,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 511","Mobile poll/Bureau itinérant",N,N,"513",0,16,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 511","Mobile poll/Bureau itinérant",N,N,"513",0,16,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 511","Mobile poll/Bureau itinérant",N,N,"513",0,16,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 512","Mobile poll/Bureau itinérant",N,N,"509",0,74,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 512","Mobile poll/Bureau itinérant",N,N,"509",0,74,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 512","Mobile poll/Bureau itinérant",N,N,"509",0,74,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 512","Mobile poll/Bureau itinérant",N,N,"509",0,74,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 513","Mobile poll/Bureau itinérant",N,N,"",0,166,"Black","","Steve","Liberal","Libéral",N,N,92
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 513","Mobile poll/Bureau itinérant",N,N,"",0,166,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 513","Mobile poll/Bureau itinérant",N,N,"",0,166,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 513","Mobile poll/Bureau itinérant",N,N,"",0,166,"Malette","","Gaétan","Conservative","Conservateur",N,Y,37
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 514","Mobile poll/Bureau itinérant",N,N,"513",0,147,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 514","Mobile poll/Bureau itinérant",N,N,"513",0,147,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 514","Mobile poll/Bureau itinérant",N,N,"513",0,147,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 514","Mobile poll/Bureau itinérant",N,N,"513",0,147,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 515","Mobile poll/Bureau itinérant",N,N,"",0,168,"Black","","Steve","Liberal","Libéral",N,N,39
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 515","Mobile poll/Bureau itinérant",N,N,"",0,168,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 515","Mobile poll/Bureau itinérant",N,N,"",0,168,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 515","Mobile poll/Bureau itinérant",N,N,"",0,168,"Malette","","Gaétan","Conservative","Conservateur",N,Y,21
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 516","Mobile poll/Bureau itinérant",N,N,"515",0,46,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 516","Mobile poll/Bureau itinérant",N,N,"515",0,46,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 516","Mobile poll/Bureau itinérant",N,N,"515",0,46,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 516","Mobile poll/Bureau itinérant",N,N,"515",0,46,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 517","Mobile poll/Bureau itinérant",N,N,"",3,84,"Black","","Steve","Liberal","Libéral",N,N,32
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 517","Mobile poll/Bureau itinérant",N,N,"",3,84,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 517","Mobile poll/Bureau itinérant",N,N,"",3,84,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 517","Mobile poll/Bureau itinérant",N,N,"",3,84,"Malette","","Gaétan","Conservative","Conservateur",N,Y,19
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 518A","Mobile poll/Bureau itinérant",N,N,"517",0,7,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 518A","Mobile poll/Bureau itinérant",N,N,"517",0,7,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 518A","Mobile poll/Bureau itinérant",N,N,"517",0,7,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 518A","Mobile poll/Bureau itinérant",N,N,"517",0,7,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 518B","Mobile poll/Bureau itinérant",N,N,"517",0,63,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 518B","Mobile poll/Bureau itinérant",N,N,"517",0,63,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 518B","Mobile poll/Bureau itinérant",N,N,"517",0,63,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 518B","Mobile poll/Bureau itinérant",N,N,"517",0,63,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 600","Peawanuck",N,N,"604",0,0,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 600","Peawanuck",N,N,"604",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 600","Peawanuck",N,N,"604",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 600","Peawanuck",N,N,"604",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 601","Attawapiskat",N,N,"604",0,0,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 601","Attawapiskat",N,N,"604",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 601","Attawapiskat",N,N,"604",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 601","Attawapiskat",N,N,"604",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 602","Fort Albany 67",N,N,"604",0,0,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 602","Fort Albany 67",N,N,"604",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 602","Fort Albany 67",N,N,"604",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 602","Fort Albany 67",N,N,"604",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 603","Factory Island 1",N,N,"",0,0,"Black","","Steve","Liberal","Libéral",N,N,33
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 603","Factory Island 1",N,N,"",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 603","Factory Island 1",N,N,"",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 603","Factory Island 1",N,N,"",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 604","Moosonee",N,N,"",1,0,"Black","","Steve","Liberal","Libéral",N,N,21
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 604","Moosonee",N,N,"",1,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 604","Moosonee",N,N,"",1,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 604","Moosonee",N,N,"",1,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,23
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 605","Cochrane",N,N,"",11,0,"Black","","Steve","Liberal","Libéral",N,N,608
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 605","Cochrane",N,N,"",11,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,152
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 605","Cochrane",N,N,"",11,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,20
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 605","Cochrane",N,N,"",11,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,549
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 606","New Post 69A",N,N,"605",0,0,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 606","New Post 69A",N,N,"605",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 606","New Post 69A",N,N,"605",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 606","New Post 69A",N,N,"605",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 607","Matheson",N,N,"",3,0,"Black","","Steve","Liberal","Libéral",N,N,170
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 607","Matheson",N,N,"",3,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 607","Matheson",N,N,"",3,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 607","Matheson",N,N,"",3,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,298
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 608","Abitibi 70",N,N,"",0,0,"Black","","Steve","Liberal","Libéral",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 608","Abitibi 70",N,N,"",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 608","Abitibi 70",N,N,"",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 608","Abitibi 70",N,N,"",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 609","Kirkland Lake",N,N,"",8,0,"Black","","Steve","Liberal","Libéral",N,N,274
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 609","Kirkland Lake",N,N,"",8,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 609","Kirkland Lake",N,N,"",8,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,12
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 609","Kirkland Lake",N,N,"",8,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,292
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 610","Kirkland Lake",N,N,"",9,0,"Black","","Steve","Liberal","Libéral",N,N,356
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 610","Kirkland Lake",N,N,"",9,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,127
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 610","Kirkland Lake",N,N,"",9,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,24
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 610","Kirkland Lake",N,N,"",9,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,451
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 611","Englehart",N,N,"",0,0,"Black","","Steve","Liberal","Libéral",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 611","Englehart",N,N,"",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 611","Englehart",N,N,"",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 611","Englehart",N,N,"",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,7
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 612","Englehart",N,N,"",0,0,"Black","","Steve","Liberal","Libéral",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 612","Englehart",N,N,"",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 612","Englehart",N,N,"",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 612","Englehart",N,N,"",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 613","Iroquois Falls",N,N,"",10,0,"Black","","Steve","Liberal","Libéral",N,N,483
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 613","Iroquois Falls",N,N,"",10,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,135
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 613","Iroquois Falls",N,N,"",10,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,36
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 613","Iroquois Falls",N,N,"",10,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,639
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 614","Timmins",N,N,"",3,0,"Black","","Steve","Liberal","Libéral",N,N,630
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 614","Timmins",N,N,"",3,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 614","Timmins",N,N,"",3,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,23
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 614","Timmins",N,N,"",3,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,887
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 615","Timmins",N,N,"",6,0,"Black","","Steve","Liberal","Libéral",N,N,284
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 615","Timmins",N,N,"",6,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 615","Timmins",N,N,"",6,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 615","Timmins",N,N,"",6,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,234
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 616","Timmins",N,N,"",6,0,"Black","","Steve","Liberal","Libéral",N,N,393
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 616","Timmins",N,N,"",6,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 616","Timmins",N,N,"",6,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 616","Timmins",N,N,"",6,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,405
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 617","Timmins",N,N,"",2,0,"Black","","Steve","Liberal","Libéral",N,N,341
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 617","Timmins",N,N,"",2,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 617","Timmins",N,N,"",2,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 617","Timmins",N,N,"",2,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,362
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 618","Timmins",N,N,"",6,0,"Black","","Steve","Liberal","Libéral",N,N,260
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 618","Timmins",N,N,"",6,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 618","Timmins",N,N,"",6,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 618","Timmins",N,N,"",6,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,308
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 619","Timmins",N,N,"",0,0,"Black","","Steve","Liberal","Libéral",N,N,300
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 619","Timmins",N,N,"",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 619","Timmins",N,N,"",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 619","Timmins",N,N,"",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,405
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 620","Timmins",N,N,"",11,0,"Black","","Steve","Liberal","Libéral",N,N,588
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 620","Timmins",N,N,"",11,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 620","Timmins",N,N,"",11,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,10
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 620","Timmins",N,N,"",11,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,768
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 621","Flying Post 73",N,N,"620",0,0,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 621","Flying Post 73",N,N,"620",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 621","Flying Post 73",N,N,"620",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 621","Flying Post 73",N,N,"620",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 622","Smooth Rock Falls",N,N,"",3,0,"Black","","Steve","Liberal","Libéral",N,N,137
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 622","Smooth Rock Falls",N,N,"",3,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 622","Smooth Rock Falls",N,N,"",3,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,5
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 622","Smooth Rock Falls",N,N,"",3,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,214
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 623","Kapuskasing--Moonbeam",N,N,"",8,0,"Black","","Steve","Liberal","Libéral",N,N,253
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 623","Kapuskasing--Moonbeam",N,N,"",8,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 623","Kapuskasing--Moonbeam",N,N,"",8,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 623","Kapuskasing--Moonbeam",N,N,"",8,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,347
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 624","Kapuskasing",N,N,"",12,0,"Black","","Steve","Liberal","Libéral",N,N,526
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 624","Kapuskasing",N,N,"",12,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,193
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 624","Kapuskasing",N,N,"",12,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,15
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 624","Kapuskasing",N,N,"",12,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,469
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 625","Constance Lake 92",N,N,"",0,0,"Black","","Steve","Liberal","Libéral",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 625","Constance Lake 92",N,N,"",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 625","Constance Lake 92",N,N,"",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,1
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 625","Constance Lake 92",N,N,"",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,2
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 626","Hearst",N,N,"",17,0,"Black","","Steve","Liberal","Libéral",N,N,641
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 626","Hearst",N,N,"",17,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,141
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 626","Hearst",N,N,"",17,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,11
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 626","Hearst",N,N,"",17,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,391
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 627","Mattice",N,N,"",3,0,"Black","","Steve","Liberal","Libéral",N,N,109
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 627","Mattice",N,N,"",3,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 627","Mattice",N,N,"",3,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,6
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 627","Mattice",N,N,"",3,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,124
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 628","Chapleau",N,N,"",4,0,"Black","","Steve","Liberal","Libéral",N,N,18
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 628","Chapleau",N,N,"",4,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 628","Chapleau",N,N,"",4,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,3
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 628","Chapleau",N,N,"",4,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,60
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 629","Chapleau Cree Fox Lake",N,N,"",3,0,"Black","","Steve","Liberal","Libéral",N,N,272
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 629","Chapleau Cree Fox Lake",N,N,"",3,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 629","Chapleau Cree Fox Lake",N,N,"",3,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,4
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 629","Chapleau Cree Fox Lake",N,N,"",3,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,263
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 630","Chapleau 74A",N,N,"629",0,0,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 630","Chapleau 74A",N,N,"629",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 630","Chapleau 74A",N,N,"629",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 630","Chapleau 74A",N,N,"629",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 631","Duck Lake 76B",N,N,"629",0,0,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 631","Duck Lake 76B",N,N,"629",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 631","Duck Lake 76B",N,N,"629",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 631","Duck Lake 76B",N,N,"629",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 632","Moosonee",N,N,"629",0,0,"Black","","Steve","Liberal","Libéral",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 632","Moosonee",N,N,"629",0,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 632","Moosonee",N,N,"629",0,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," 632","Moosonee",N,N,"629",0,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,0
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",26,148,"Black","","Steve","Liberal","Libéral",N,N,256
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",26,148,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",26,148,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,8
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",26,148,"Malette","","Gaétan","Conservative","Conservateur",N,Y,189
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",51,0,"Black","","Steve","Liberal","Libéral",N,N,1519
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",51,0,"Fortier Levesque","","Nicole","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,333
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",51,0,"Lefebvre","","Serge","People's Party - PPC","Parti populaire - PPC",N,N,37
+35044,"Kapuskasing--Timmins--Mushkegowuk","Kapuskasing--Timmins--Mushkegowuk"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",51,0,"Malette","","Gaétan","Conservative","Conservateur",N,Y,1558

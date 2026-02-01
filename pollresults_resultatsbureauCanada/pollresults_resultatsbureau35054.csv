@@ -1,0 +1,937 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+35054,"London--Fanshawe","London--Fanshawe"," 1","London",N,N,"",1,398,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 1","London",N,N,"",1,398,"Holman","","Kurt","Conservative","Conservateur",N,Y,62
+35054,"London--Fanshawe","London--Fanshawe"," 1","London",N,N,"",1,398,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,30
+35054,"London--Fanshawe","London--Fanshawe"," 1","London",N,N,"",1,398,"Naqvi","","Najam","Liberal","Libéral",N,N,46
+35054,"London--Fanshawe","London--Fanshawe"," 2","London",N,N,"",0,516,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 2","London",N,N,"",0,516,"Holman","","Kurt","Conservative","Conservateur",N,Y,69
+35054,"London--Fanshawe","London--Fanshawe"," 2","London",N,N,"",0,516,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,12
+35054,"London--Fanshawe","London--Fanshawe"," 2","London",N,N,"",0,516,"Naqvi","","Najam","Liberal","Libéral",N,N,76
+35054,"London--Fanshawe","London--Fanshawe"," 3","London",N,N,"",3,490,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 3","London",N,N,"",3,490,"Holman","","Kurt","Conservative","Conservateur",N,Y,98
+35054,"London--Fanshawe","London--Fanshawe"," 3","London",N,N,"",3,490,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+35054,"London--Fanshawe","London--Fanshawe"," 3","London",N,N,"",3,490,"Naqvi","","Najam","Liberal","Libéral",N,N,76
+35054,"London--Fanshawe","London--Fanshawe"," 4","London",N,N,"",1,554,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 4","London",N,N,"",1,554,"Holman","","Kurt","Conservative","Conservateur",N,Y,108
+35054,"London--Fanshawe","London--Fanshawe"," 4","London",N,N,"",1,554,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 4","London",N,N,"",1,554,"Naqvi","","Najam","Liberal","Libéral",N,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 5","London",N,N,"",3,504,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 5","London",N,N,"",3,504,"Holman","","Kurt","Conservative","Conservateur",N,Y,64
+35054,"London--Fanshawe","London--Fanshawe"," 5","London",N,N,"",3,504,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+35054,"London--Fanshawe","London--Fanshawe"," 5","London",N,N,"",3,504,"Naqvi","","Najam","Liberal","Libéral",N,N,59
+35054,"London--Fanshawe","London--Fanshawe"," 6","London",N,N,"",1,470,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 6","London",N,N,"",1,470,"Holman","","Kurt","Conservative","Conservateur",N,Y,71
+35054,"London--Fanshawe","London--Fanshawe"," 6","London",N,N,"",1,470,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+35054,"London--Fanshawe","London--Fanshawe"," 6","London",N,N,"",1,470,"Naqvi","","Najam","Liberal","Libéral",N,N,35
+35054,"London--Fanshawe","London--Fanshawe"," 7","London",N,N,"",2,320,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 7","London",N,N,"",2,320,"Holman","","Kurt","Conservative","Conservateur",N,Y,63
+35054,"London--Fanshawe","London--Fanshawe"," 7","London",N,N,"",2,320,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,17
+35054,"London--Fanshawe","London--Fanshawe"," 7","London",N,N,"",2,320,"Naqvi","","Najam","Liberal","Libéral",N,N,38
+35054,"London--Fanshawe","London--Fanshawe"," 8","London",N,N,"",6,461,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 8","London",N,N,"",6,461,"Holman","","Kurt","Conservative","Conservateur",N,Y,82
+35054,"London--Fanshawe","London--Fanshawe"," 8","London",N,N,"",6,461,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+35054,"London--Fanshawe","London--Fanshawe"," 8","London",N,N,"",6,461,"Naqvi","","Najam","Liberal","Libéral",N,N,57
+35054,"London--Fanshawe","London--Fanshawe"," 9","London",N,N,"",1,541,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 9","London",N,N,"",1,541,"Holman","","Kurt","Conservative","Conservateur",N,Y,94
+35054,"London--Fanshawe","London--Fanshawe"," 9","London",N,N,"",1,541,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+35054,"London--Fanshawe","London--Fanshawe"," 9","London",N,N,"",1,541,"Naqvi","","Najam","Liberal","Libéral",N,N,60
+35054,"London--Fanshawe","London--Fanshawe"," 10","London",N,N,"",3,527,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,7
+35054,"London--Fanshawe","London--Fanshawe"," 10","London",N,N,"",3,527,"Holman","","Kurt","Conservative","Conservateur",N,Y,103
+35054,"London--Fanshawe","London--Fanshawe"," 10","London",N,N,"",3,527,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,57
+35054,"London--Fanshawe","London--Fanshawe"," 10","London",N,N,"",3,527,"Naqvi","","Najam","Liberal","Libéral",N,N,60
+35054,"London--Fanshawe","London--Fanshawe"," 11","London",N,N,"",2,514,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 11","London",N,N,"",2,514,"Holman","","Kurt","Conservative","Conservateur",N,Y,103
+35054,"London--Fanshawe","London--Fanshawe"," 11","London",N,N,"",2,514,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 11","London",N,N,"",2,514,"Naqvi","","Najam","Liberal","Libéral",N,N,62
+35054,"London--Fanshawe","London--Fanshawe"," 12","London",N,N,"",3,521,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,5
+35054,"London--Fanshawe","London--Fanshawe"," 12","London",N,N,"",3,521,"Holman","","Kurt","Conservative","Conservateur",N,Y,95
+35054,"London--Fanshawe","London--Fanshawe"," 12","London",N,N,"",3,521,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+35054,"London--Fanshawe","London--Fanshawe"," 12","London",N,N,"",3,521,"Naqvi","","Najam","Liberal","Libéral",N,N,73
+35054,"London--Fanshawe","London--Fanshawe"," 13","London",N,N,"",1,420,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 13","London",N,N,"",1,420,"Holman","","Kurt","Conservative","Conservateur",N,Y,62
+35054,"London--Fanshawe","London--Fanshawe"," 13","London",N,N,"",1,420,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 13","London",N,N,"",1,420,"Naqvi","","Najam","Liberal","Libéral",N,N,33
+35054,"London--Fanshawe","London--Fanshawe"," 14","London",N,N,"",1,411,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 14","London",N,N,"",1,411,"Holman","","Kurt","Conservative","Conservateur",N,Y,62
+35054,"London--Fanshawe","London--Fanshawe"," 14","London",N,N,"",1,411,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+35054,"London--Fanshawe","London--Fanshawe"," 14","London",N,N,"",1,411,"Naqvi","","Najam","Liberal","Libéral",N,N,41
+35054,"London--Fanshawe","London--Fanshawe"," 15","London",N,N,"",1,489,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 15","London",N,N,"",1,489,"Holman","","Kurt","Conservative","Conservateur",N,Y,81
+35054,"London--Fanshawe","London--Fanshawe"," 15","London",N,N,"",1,489,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,54
+35054,"London--Fanshawe","London--Fanshawe"," 15","London",N,N,"",1,489,"Naqvi","","Najam","Liberal","Libéral",N,N,37
+35054,"London--Fanshawe","London--Fanshawe"," 16","London",N,N,"",3,523,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 16","London",N,N,"",3,523,"Holman","","Kurt","Conservative","Conservateur",N,Y,74
+35054,"London--Fanshawe","London--Fanshawe"," 16","London",N,N,"",3,523,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,55
+35054,"London--Fanshawe","London--Fanshawe"," 16","London",N,N,"",3,523,"Naqvi","","Najam","Liberal","Libéral",N,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 17","London",N,N,"",0,341,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 17","London",N,N,"",0,341,"Holman","","Kurt","Conservative","Conservateur",N,Y,61
+35054,"London--Fanshawe","London--Fanshawe"," 17","London",N,N,"",0,341,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 17","London",N,N,"",0,341,"Naqvi","","Najam","Liberal","Libéral",N,N,32
+35054,"London--Fanshawe","London--Fanshawe"," 18","London",N,N,"",2,466,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 18","London",N,N,"",2,466,"Holman","","Kurt","Conservative","Conservateur",N,Y,72
+35054,"London--Fanshawe","London--Fanshawe"," 18","London",N,N,"",2,466,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,43
+35054,"London--Fanshawe","London--Fanshawe"," 18","London",N,N,"",2,466,"Naqvi","","Najam","Liberal","Libéral",N,N,53
+35054,"London--Fanshawe","London--Fanshawe"," 19","London",N,N,"",0,466,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 19","London",N,N,"",0,466,"Holman","","Kurt","Conservative","Conservateur",N,Y,107
+35054,"London--Fanshawe","London--Fanshawe"," 19","London",N,N,"",0,466,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,24
+35054,"London--Fanshawe","London--Fanshawe"," 19","London",N,N,"",0,466,"Naqvi","","Najam","Liberal","Libéral",N,N,29
+35054,"London--Fanshawe","London--Fanshawe"," 20","London",N,N,"",1,420,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 20","London",N,N,"",1,420,"Holman","","Kurt","Conservative","Conservateur",N,Y,73
+35054,"London--Fanshawe","London--Fanshawe"," 20","London",N,N,"",1,420,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,54
+35054,"London--Fanshawe","London--Fanshawe"," 20","London",N,N,"",1,420,"Naqvi","","Najam","Liberal","Libéral",N,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 21","London",N,N,"",0,447,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 21","London",N,N,"",0,447,"Holman","","Kurt","Conservative","Conservateur",N,Y,85
+35054,"London--Fanshawe","London--Fanshawe"," 21","London",N,N,"",0,447,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 21","London",N,N,"",0,447,"Naqvi","","Najam","Liberal","Libéral",N,N,35
+35054,"London--Fanshawe","London--Fanshawe"," 22","London",N,N,"",0,372,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 22","London",N,N,"",0,372,"Holman","","Kurt","Conservative","Conservateur",N,Y,65
+35054,"London--Fanshawe","London--Fanshawe"," 22","London",N,N,"",0,372,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,62
+35054,"London--Fanshawe","London--Fanshawe"," 22","London",N,N,"",0,372,"Naqvi","","Najam","Liberal","Libéral",N,N,49
+35054,"London--Fanshawe","London--Fanshawe"," 23","London",N,N,"",0,442,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 23","London",N,N,"",0,442,"Holman","","Kurt","Conservative","Conservateur",N,Y,82
+35054,"London--Fanshawe","London--Fanshawe"," 23","London",N,N,"",0,442,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 23","London",N,N,"",0,442,"Naqvi","","Najam","Liberal","Libéral",N,N,47
+35054,"London--Fanshawe","London--Fanshawe"," 24","London",N,N,"",1,388,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 24","London",N,N,"",1,388,"Holman","","Kurt","Conservative","Conservateur",N,Y,59
+35054,"London--Fanshawe","London--Fanshawe"," 24","London",N,N,"",1,388,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,31
+35054,"London--Fanshawe","London--Fanshawe"," 24","London",N,N,"",1,388,"Naqvi","","Najam","Liberal","Libéral",N,N,35
+35054,"London--Fanshawe","London--Fanshawe"," 25","London",N,N,"",0,419,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 25","London",N,N,"",0,419,"Holman","","Kurt","Conservative","Conservateur",N,Y,46
+35054,"London--Fanshawe","London--Fanshawe"," 25","London",N,N,"",0,419,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,28
+35054,"London--Fanshawe","London--Fanshawe"," 25","London",N,N,"",0,419,"Naqvi","","Najam","Liberal","Libéral",N,N,29
+35054,"London--Fanshawe","London--Fanshawe"," 26","London",N,N,"",3,368,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 26","London",N,N,"",3,368,"Holman","","Kurt","Conservative","Conservateur",N,Y,64
+35054,"London--Fanshawe","London--Fanshawe"," 26","London",N,N,"",3,368,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,28
+35054,"London--Fanshawe","London--Fanshawe"," 26","London",N,N,"",3,368,"Naqvi","","Najam","Liberal","Libéral",N,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 27","London",N,N,"",0,503,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 27","London",N,N,"",0,503,"Holman","","Kurt","Conservative","Conservateur",N,Y,86
+35054,"London--Fanshawe","London--Fanshawe"," 27","London",N,N,"",0,503,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,61
+35054,"London--Fanshawe","London--Fanshawe"," 27","London",N,N,"",0,503,"Naqvi","","Najam","Liberal","Libéral",N,N,53
+35054,"London--Fanshawe","London--Fanshawe"," 28","London",N,N,"",0,406,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 28","London",N,N,"",0,406,"Holman","","Kurt","Conservative","Conservateur",N,Y,60
+35054,"London--Fanshawe","London--Fanshawe"," 28","London",N,N,"",0,406,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+35054,"London--Fanshawe","London--Fanshawe"," 28","London",N,N,"",0,406,"Naqvi","","Najam","Liberal","Libéral",N,N,29
+35054,"London--Fanshawe","London--Fanshawe"," 29","London",N,N,"",1,542,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 29","London",N,N,"",1,542,"Holman","","Kurt","Conservative","Conservateur",N,Y,82
+35054,"London--Fanshawe","London--Fanshawe"," 29","London",N,N,"",1,542,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 29","London",N,N,"",1,542,"Naqvi","","Najam","Liberal","Libéral",N,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 30","London",N,N,"",1,506,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,6
+35054,"London--Fanshawe","London--Fanshawe"," 30","London",N,N,"",1,506,"Holman","","Kurt","Conservative","Conservateur",N,Y,53
+35054,"London--Fanshawe","London--Fanshawe"," 30","London",N,N,"",1,506,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 30","London",N,N,"",1,506,"Naqvi","","Najam","Liberal","Libéral",N,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 31","London",N,N,"",1,376,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 31","London",N,N,"",1,376,"Holman","","Kurt","Conservative","Conservateur",N,Y,41
+35054,"London--Fanshawe","London--Fanshawe"," 31","London",N,N,"",1,376,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+35054,"London--Fanshawe","London--Fanshawe"," 31","London",N,N,"",1,376,"Naqvi","","Najam","Liberal","Libéral",N,N,39
+35054,"London--Fanshawe","London--Fanshawe"," 32","London",N,N,"",0,336,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 32","London",N,N,"",0,336,"Holman","","Kurt","Conservative","Conservateur",N,Y,49
+35054,"London--Fanshawe","London--Fanshawe"," 32","London",N,N,"",0,336,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 32","London",N,N,"",0,336,"Naqvi","","Najam","Liberal","Libéral",N,N,13
+35054,"London--Fanshawe","London--Fanshawe"," 33","London",N,N,"",3,355,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 33","London",N,N,"",3,355,"Holman","","Kurt","Conservative","Conservateur",N,Y,79
+35054,"London--Fanshawe","London--Fanshawe"," 33","London",N,N,"",3,355,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,27
+35054,"London--Fanshawe","London--Fanshawe"," 33","London",N,N,"",3,355,"Naqvi","","Najam","Liberal","Libéral",N,N,27
+35054,"London--Fanshawe","London--Fanshawe"," 34","London",N,N,"",2,342,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 34","London",N,N,"",2,342,"Holman","","Kurt","Conservative","Conservateur",N,Y,53
+35054,"London--Fanshawe","London--Fanshawe"," 34","London",N,N,"",2,342,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+35054,"London--Fanshawe","London--Fanshawe"," 34","London",N,N,"",2,342,"Naqvi","","Najam","Liberal","Libéral",N,N,27
+35054,"London--Fanshawe","London--Fanshawe"," 35","London",N,N,"",3,373,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 35","London",N,N,"",3,373,"Holman","","Kurt","Conservative","Conservateur",N,Y,48
+35054,"London--Fanshawe","London--Fanshawe"," 35","London",N,N,"",3,373,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 35","London",N,N,"",3,373,"Naqvi","","Najam","Liberal","Libéral",N,N,29
+35054,"London--Fanshawe","London--Fanshawe"," 36","London",N,N,"",0,335,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 36","London",N,N,"",0,335,"Holman","","Kurt","Conservative","Conservateur",N,Y,56
+35054,"London--Fanshawe","London--Fanshawe"," 36","London",N,N,"",0,335,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+35054,"London--Fanshawe","London--Fanshawe"," 36","London",N,N,"",0,335,"Naqvi","","Najam","Liberal","Libéral",N,N,24
+35054,"London--Fanshawe","London--Fanshawe"," 37","London",N,N,"",2,423,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 37","London",N,N,"",2,423,"Holman","","Kurt","Conservative","Conservateur",N,Y,64
+35054,"London--Fanshawe","London--Fanshawe"," 37","London",N,N,"",2,423,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 37","London",N,N,"",2,423,"Naqvi","","Najam","Liberal","Libéral",N,N,49
+35054,"London--Fanshawe","London--Fanshawe"," 38","London",N,N,"",0,378,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 38","London",N,N,"",0,378,"Holman","","Kurt","Conservative","Conservateur",N,Y,57
+35054,"London--Fanshawe","London--Fanshawe"," 38","London",N,N,"",0,378,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,28
+35054,"London--Fanshawe","London--Fanshawe"," 38","London",N,N,"",0,378,"Naqvi","","Najam","Liberal","Libéral",N,N,29
+35054,"London--Fanshawe","London--Fanshawe"," 39","London",N,N,"",0,394,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 39","London",N,N,"",0,394,"Holman","","Kurt","Conservative","Conservateur",N,Y,47
+35054,"London--Fanshawe","London--Fanshawe"," 39","London",N,N,"",0,394,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,28
+35054,"London--Fanshawe","London--Fanshawe"," 39","London",N,N,"",0,394,"Naqvi","","Najam","Liberal","Libéral",N,N,39
+35054,"London--Fanshawe","London--Fanshawe"," 40","London",N,N,"",2,463,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 40","London",N,N,"",2,463,"Holman","","Kurt","Conservative","Conservateur",N,Y,83
+35054,"London--Fanshawe","London--Fanshawe"," 40","London",N,N,"",2,463,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+35054,"London--Fanshawe","London--Fanshawe"," 40","London",N,N,"",2,463,"Naqvi","","Najam","Liberal","Libéral",N,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 41","London",N,N,"",2,355,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 41","London",N,N,"",2,355,"Holman","","Kurt","Conservative","Conservateur",N,Y,79
+35054,"London--Fanshawe","London--Fanshawe"," 41","London",N,N,"",2,355,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,42
+35054,"London--Fanshawe","London--Fanshawe"," 41","London",N,N,"",2,355,"Naqvi","","Najam","Liberal","Libéral",N,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 42","London",N,N,"",1,443,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 42","London",N,N,"",1,443,"Holman","","Kurt","Conservative","Conservateur",N,Y,68
+35054,"London--Fanshawe","London--Fanshawe"," 42","London",N,N,"",1,443,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+35054,"London--Fanshawe","London--Fanshawe"," 42","London",N,N,"",1,443,"Naqvi","","Najam","Liberal","Libéral",N,N,47
+35054,"London--Fanshawe","London--Fanshawe"," 43","London",N,N,"",0,341,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 43","London",N,N,"",0,341,"Holman","","Kurt","Conservative","Conservateur",N,Y,42
+35054,"London--Fanshawe","London--Fanshawe"," 43","London",N,N,"",0,341,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+35054,"London--Fanshawe","London--Fanshawe"," 43","London",N,N,"",0,341,"Naqvi","","Najam","Liberal","Libéral",N,N,17
+35054,"London--Fanshawe","London--Fanshawe"," 44","London",N,N,"",0,434,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 44","London",N,N,"",0,434,"Holman","","Kurt","Conservative","Conservateur",N,Y,59
+35054,"London--Fanshawe","London--Fanshawe"," 44","London",N,N,"",0,434,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 44","London",N,N,"",0,434,"Naqvi","","Najam","Liberal","Libéral",N,N,26
+35054,"London--Fanshawe","London--Fanshawe"," 45","London",N,N,"",0,368,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 45","London",N,N,"",0,368,"Holman","","Kurt","Conservative","Conservateur",N,Y,44
+35054,"London--Fanshawe","London--Fanshawe"," 45","London",N,N,"",0,368,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 45","London",N,N,"",0,368,"Naqvi","","Najam","Liberal","Libéral",N,N,27
+35054,"London--Fanshawe","London--Fanshawe"," 46","London",N,N,"",0,440,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 46","London",N,N,"",0,440,"Holman","","Kurt","Conservative","Conservateur",N,Y,72
+35054,"London--Fanshawe","London--Fanshawe"," 46","London",N,N,"",0,440,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+35054,"London--Fanshawe","London--Fanshawe"," 46","London",N,N,"",0,440,"Naqvi","","Najam","Liberal","Libéral",N,N,41
+35054,"London--Fanshawe","London--Fanshawe"," 47","London",N,N,"",1,437,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 47","London",N,N,"",1,437,"Holman","","Kurt","Conservative","Conservateur",N,Y,66
+35054,"London--Fanshawe","London--Fanshawe"," 47","London",N,N,"",1,437,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 47","London",N,N,"",1,437,"Naqvi","","Najam","Liberal","Libéral",N,N,45
+35054,"London--Fanshawe","London--Fanshawe"," 48","London",N,N,"",1,535,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 48","London",N,N,"",1,535,"Holman","","Kurt","Conservative","Conservateur",N,Y,83
+35054,"London--Fanshawe","London--Fanshawe"," 48","London",N,N,"",1,535,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+35054,"London--Fanshawe","London--Fanshawe"," 48","London",N,N,"",1,535,"Naqvi","","Najam","Liberal","Libéral",N,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 49","London",N,N,"",1,377,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 49","London",N,N,"",1,377,"Holman","","Kurt","Conservative","Conservateur",N,Y,55
+35054,"London--Fanshawe","London--Fanshawe"," 49","London",N,N,"",1,377,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 49","London",N,N,"",1,377,"Naqvi","","Najam","Liberal","Libéral",N,N,46
+35054,"London--Fanshawe","London--Fanshawe"," 50","London",N,N,"",2,462,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,7
+35054,"London--Fanshawe","London--Fanshawe"," 50","London",N,N,"",2,462,"Holman","","Kurt","Conservative","Conservateur",N,Y,73
+35054,"London--Fanshawe","London--Fanshawe"," 50","London",N,N,"",2,462,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,24
+35054,"London--Fanshawe","London--Fanshawe"," 50","London",N,N,"",2,462,"Naqvi","","Najam","Liberal","Libéral",N,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 51","London",N,N,"",0,382,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 51","London",N,N,"",0,382,"Holman","","Kurt","Conservative","Conservateur",N,Y,52
+35054,"London--Fanshawe","London--Fanshawe"," 51","London",N,N,"",0,382,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,35
+35054,"London--Fanshawe","London--Fanshawe"," 51","London",N,N,"",0,382,"Naqvi","","Najam","Liberal","Libéral",N,N,45
+35054,"London--Fanshawe","London--Fanshawe"," 52","London",N,N,"",0,441,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 52","London",N,N,"",0,441,"Holman","","Kurt","Conservative","Conservateur",N,Y,61
+35054,"London--Fanshawe","London--Fanshawe"," 52","London",N,N,"",0,441,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+35054,"London--Fanshawe","London--Fanshawe"," 52","London",N,N,"",0,441,"Naqvi","","Najam","Liberal","Libéral",N,N,38
+35054,"London--Fanshawe","London--Fanshawe"," 53","London",N,N,"",0,344,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 53","London",N,N,"",0,344,"Holman","","Kurt","Conservative","Conservateur",N,Y,55
+35054,"London--Fanshawe","London--Fanshawe"," 53","London",N,N,"",0,344,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,23
+35054,"London--Fanshawe","London--Fanshawe"," 53","London",N,N,"",0,344,"Naqvi","","Najam","Liberal","Libéral",N,N,42
+35054,"London--Fanshawe","London--Fanshawe"," 54","London",N,N,"",4,492,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 54","London",N,N,"",4,492,"Holman","","Kurt","Conservative","Conservateur",N,Y,70
+35054,"London--Fanshawe","London--Fanshawe"," 54","London",N,N,"",4,492,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,41
+35054,"London--Fanshawe","London--Fanshawe"," 54","London",N,N,"",4,492,"Naqvi","","Najam","Liberal","Libéral",N,N,27
+35054,"London--Fanshawe","London--Fanshawe"," 55","London",N,N,"",4,386,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 55","London",N,N,"",4,386,"Holman","","Kurt","Conservative","Conservateur",N,Y,77
+35054,"London--Fanshawe","London--Fanshawe"," 55","London",N,N,"",4,386,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 55","London",N,N,"",4,386,"Naqvi","","Najam","Liberal","Libéral",N,N,35
+35054,"London--Fanshawe","London--Fanshawe"," 56A","London",N,N,"",1,216,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 56A","London",N,N,"",1,216,"Holman","","Kurt","Conservative","Conservateur",N,Y,37
+35054,"London--Fanshawe","London--Fanshawe"," 56A","London",N,N,"",1,216,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,18
+35054,"London--Fanshawe","London--Fanshawe"," 56A","London",N,N,"",1,216,"Naqvi","","Najam","Liberal","Libéral",N,N,13
+35054,"London--Fanshawe","London--Fanshawe"," 56B","London",N,N,"59",0,136,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 56B","London",N,N,"59",0,136,"Holman","","Kurt","Conservative","Conservateur",N,Y,0
+35054,"London--Fanshawe","London--Fanshawe"," 56B","London",N,N,"59",0,136,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 56B","London",N,N,"59",0,136,"Naqvi","","Najam","Liberal","Libéral",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 57","London",N,N,"",1,358,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 57","London",N,N,"",1,358,"Holman","","Kurt","Conservative","Conservateur",N,Y,85
+35054,"London--Fanshawe","London--Fanshawe"," 57","London",N,N,"",1,358,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+35054,"London--Fanshawe","London--Fanshawe"," 57","London",N,N,"",1,358,"Naqvi","","Najam","Liberal","Libéral",N,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 58","London",N,N,"",2,356,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 58","London",N,N,"",2,356,"Holman","","Kurt","Conservative","Conservateur",N,Y,74
+35054,"London--Fanshawe","London--Fanshawe"," 58","London",N,N,"",2,356,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+35054,"London--Fanshawe","London--Fanshawe"," 58","London",N,N,"",2,356,"Naqvi","","Najam","Liberal","Libéral",N,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 59","London",N,N,"",0,579,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,6
+35054,"London--Fanshawe","London--Fanshawe"," 59","London",N,N,"",0,579,"Holman","","Kurt","Conservative","Conservateur",N,Y,134
+35054,"London--Fanshawe","London--Fanshawe"," 59","London",N,N,"",0,579,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+35054,"London--Fanshawe","London--Fanshawe"," 59","London",N,N,"",0,579,"Naqvi","","Najam","Liberal","Libéral",N,N,61
+35054,"London--Fanshawe","London--Fanshawe"," 60","London",N,N,"",1,424,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 60","London",N,N,"",1,424,"Holman","","Kurt","Conservative","Conservateur",N,Y,66
+35054,"London--Fanshawe","London--Fanshawe"," 60","London",N,N,"",1,424,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 60","London",N,N,"",1,424,"Naqvi","","Najam","Liberal","Libéral",N,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 61","London",N,N,"",4,444,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 61","London",N,N,"",4,444,"Holman","","Kurt","Conservative","Conservateur",N,Y,48
+35054,"London--Fanshawe","London--Fanshawe"," 61","London",N,N,"",4,444,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,67
+35054,"London--Fanshawe","London--Fanshawe"," 61","London",N,N,"",4,444,"Naqvi","","Najam","Liberal","Libéral",N,N,35
+35054,"London--Fanshawe","London--Fanshawe"," 62","London",N,N,"",0,369,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,5
+35054,"London--Fanshawe","London--Fanshawe"," 62","London",N,N,"",0,369,"Holman","","Kurt","Conservative","Conservateur",N,Y,48
+35054,"London--Fanshawe","London--Fanshawe"," 62","London",N,N,"",0,369,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+35054,"London--Fanshawe","London--Fanshawe"," 62","London",N,N,"",0,369,"Naqvi","","Najam","Liberal","Libéral",N,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 63","London",N,N,"",1,414,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 63","London",N,N,"",1,414,"Holman","","Kurt","Conservative","Conservateur",N,Y,69
+35054,"London--Fanshawe","London--Fanshawe"," 63","London",N,N,"",1,414,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 63","London",N,N,"",1,414,"Naqvi","","Najam","Liberal","Libéral",N,N,33
+35054,"London--Fanshawe","London--Fanshawe"," 64","London",N,N,"",0,377,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 64","London",N,N,"",0,377,"Holman","","Kurt","Conservative","Conservateur",N,Y,52
+35054,"London--Fanshawe","London--Fanshawe"," 64","London",N,N,"",0,377,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+35054,"London--Fanshawe","London--Fanshawe"," 64","London",N,N,"",0,377,"Naqvi","","Najam","Liberal","Libéral",N,N,26
+35054,"London--Fanshawe","London--Fanshawe"," 65","London",N,N,"",4,341,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 65","London",N,N,"",4,341,"Holman","","Kurt","Conservative","Conservateur",N,Y,55
+35054,"London--Fanshawe","London--Fanshawe"," 65","London",N,N,"",4,341,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+35054,"London--Fanshawe","London--Fanshawe"," 65","London",N,N,"",4,341,"Naqvi","","Najam","Liberal","Libéral",N,N,32
+35054,"London--Fanshawe","London--Fanshawe"," 66","London",N,N,"",1,381,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 66","London",N,N,"",1,381,"Holman","","Kurt","Conservative","Conservateur",N,Y,45
+35054,"London--Fanshawe","London--Fanshawe"," 66","London",N,N,"",1,381,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+35054,"London--Fanshawe","London--Fanshawe"," 66","London",N,N,"",1,381,"Naqvi","","Najam","Liberal","Libéral",N,N,32
+35054,"London--Fanshawe","London--Fanshawe"," 67","London",N,N,"",2,358,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 67","London",N,N,"",2,358,"Holman","","Kurt","Conservative","Conservateur",N,Y,63
+35054,"London--Fanshawe","London--Fanshawe"," 67","London",N,N,"",2,358,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,24
+35054,"London--Fanshawe","London--Fanshawe"," 67","London",N,N,"",2,358,"Naqvi","","Najam","Liberal","Libéral",N,N,28
+35054,"London--Fanshawe","London--Fanshawe"," 68","London",N,N,"",2,507,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 68","London",N,N,"",2,507,"Holman","","Kurt","Conservative","Conservateur",N,Y,72
+35054,"London--Fanshawe","London--Fanshawe"," 68","London",N,N,"",2,507,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+35054,"London--Fanshawe","London--Fanshawe"," 68","London",N,N,"",2,507,"Naqvi","","Najam","Liberal","Libéral",N,N,42
+35054,"London--Fanshawe","London--Fanshawe"," 69","London",N,N,"",1,327,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 69","London",N,N,"",1,327,"Holman","","Kurt","Conservative","Conservateur",N,Y,62
+35054,"London--Fanshawe","London--Fanshawe"," 69","London",N,N,"",1,327,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 69","London",N,N,"",1,327,"Naqvi","","Najam","Liberal","Libéral",N,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 70","London",N,N,"",1,378,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 70","London",N,N,"",1,378,"Holman","","Kurt","Conservative","Conservateur",N,Y,71
+35054,"London--Fanshawe","London--Fanshawe"," 70","London",N,N,"",1,378,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 70","London",N,N,"",1,378,"Naqvi","","Najam","Liberal","Libéral",N,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 71","London",N,N,"",0,329,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 71","London",N,N,"",0,329,"Holman","","Kurt","Conservative","Conservateur",N,Y,50
+35054,"London--Fanshawe","London--Fanshawe"," 71","London",N,N,"",0,329,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 71","London",N,N,"",0,329,"Naqvi","","Najam","Liberal","Libéral",N,N,39
+35054,"London--Fanshawe","London--Fanshawe"," 72","London",N,N,"",1,381,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 72","London",N,N,"",1,381,"Holman","","Kurt","Conservative","Conservateur",N,Y,54
+35054,"London--Fanshawe","London--Fanshawe"," 72","London",N,N,"",1,381,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,39
+35054,"London--Fanshawe","London--Fanshawe"," 72","London",N,N,"",1,381,"Naqvi","","Najam","Liberal","Libéral",N,N,37
+35054,"London--Fanshawe","London--Fanshawe"," 73","London",N,N,"",1,462,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 73","London",N,N,"",1,462,"Holman","","Kurt","Conservative","Conservateur",N,Y,69
+35054,"London--Fanshawe","London--Fanshawe"," 73","London",N,N,"",1,462,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 73","London",N,N,"",1,462,"Naqvi","","Najam","Liberal","Libéral",N,N,54
+35054,"London--Fanshawe","London--Fanshawe"," 74","London",N,N,"",0,462,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 74","London",N,N,"",0,462,"Holman","","Kurt","Conservative","Conservateur",N,Y,61
+35054,"London--Fanshawe","London--Fanshawe"," 74","London",N,N,"",0,462,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,47
+35054,"London--Fanshawe","London--Fanshawe"," 74","London",N,N,"",0,462,"Naqvi","","Najam","Liberal","Libéral",N,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 75","London",N,N,"",0,344,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 75","London",N,N,"",0,344,"Holman","","Kurt","Conservative","Conservateur",N,Y,55
+35054,"London--Fanshawe","London--Fanshawe"," 75","London",N,N,"",0,344,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+35054,"London--Fanshawe","London--Fanshawe"," 75","London",N,N,"",0,344,"Naqvi","","Najam","Liberal","Libéral",N,N,24
+35054,"London--Fanshawe","London--Fanshawe"," 76","London",N,N,"",0,526,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 76","London",N,N,"",0,526,"Holman","","Kurt","Conservative","Conservateur",N,Y,119
+35054,"London--Fanshawe","London--Fanshawe"," 76","London",N,N,"",0,526,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+35054,"London--Fanshawe","London--Fanshawe"," 76","London",N,N,"",0,526,"Naqvi","","Najam","Liberal","Libéral",N,N,41
+35054,"London--Fanshawe","London--Fanshawe"," 77","London",N,N,"",0,391,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 77","London",N,N,"",0,391,"Holman","","Kurt","Conservative","Conservateur",N,Y,100
+35054,"London--Fanshawe","London--Fanshawe"," 77","London",N,N,"",0,391,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,47
+35054,"London--Fanshawe","London--Fanshawe"," 77","London",N,N,"",0,391,"Naqvi","","Najam","Liberal","Libéral",N,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 78","London",N,N,"",3,499,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 78","London",N,N,"",3,499,"Holman","","Kurt","Conservative","Conservateur",N,Y,101
+35054,"London--Fanshawe","London--Fanshawe"," 78","London",N,N,"",3,499,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 78","London",N,N,"",3,499,"Naqvi","","Najam","Liberal","Libéral",N,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 79","London",N,N,"",0,474,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 79","London",N,N,"",0,474,"Holman","","Kurt","Conservative","Conservateur",N,Y,99
+35054,"London--Fanshawe","London--Fanshawe"," 79","London",N,N,"",0,474,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,60
+35054,"London--Fanshawe","London--Fanshawe"," 79","London",N,N,"",0,474,"Naqvi","","Najam","Liberal","Libéral",N,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 80","London",N,N,"",0,472,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 80","London",N,N,"",0,472,"Holman","","Kurt","Conservative","Conservateur",N,Y,68
+35054,"London--Fanshawe","London--Fanshawe"," 80","London",N,N,"",0,472,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+35054,"London--Fanshawe","London--Fanshawe"," 80","London",N,N,"",0,472,"Naqvi","","Najam","Liberal","Libéral",N,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 81","London",N,N,"",0,376,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 81","London",N,N,"",0,376,"Holman","","Kurt","Conservative","Conservateur",N,Y,59
+35054,"London--Fanshawe","London--Fanshawe"," 81","London",N,N,"",0,376,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 81","London",N,N,"",0,376,"Naqvi","","Najam","Liberal","Libéral",N,N,39
+35054,"London--Fanshawe","London--Fanshawe"," 82","London",N,N,"",1,407,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 82","London",N,N,"",1,407,"Holman","","Kurt","Conservative","Conservateur",N,Y,50
+35054,"London--Fanshawe","London--Fanshawe"," 82","London",N,N,"",1,407,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+35054,"London--Fanshawe","London--Fanshawe"," 82","London",N,N,"",1,407,"Naqvi","","Najam","Liberal","Libéral",N,N,24
+35054,"London--Fanshawe","London--Fanshawe"," 83","London",N,N,"",1,324,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,7
+35054,"London--Fanshawe","London--Fanshawe"," 83","London",N,N,"",1,324,"Holman","","Kurt","Conservative","Conservateur",N,Y,54
+35054,"London--Fanshawe","London--Fanshawe"," 83","London",N,N,"",1,324,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,38
+35054,"London--Fanshawe","London--Fanshawe"," 83","London",N,N,"",1,324,"Naqvi","","Najam","Liberal","Libéral",N,N,25
+35054,"London--Fanshawe","London--Fanshawe"," 84","London",N,N,"",1,364,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 84","London",N,N,"",1,364,"Holman","","Kurt","Conservative","Conservateur",N,Y,48
+35054,"London--Fanshawe","London--Fanshawe"," 84","London",N,N,"",1,364,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,33
+35054,"London--Fanshawe","London--Fanshawe"," 84","London",N,N,"",1,364,"Naqvi","","Najam","Liberal","Libéral",N,N,31
+35054,"London--Fanshawe","London--Fanshawe"," 85","London",N,N,"",0,391,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 85","London",N,N,"",0,391,"Holman","","Kurt","Conservative","Conservateur",N,Y,59
+35054,"London--Fanshawe","London--Fanshawe"," 85","London",N,N,"",0,391,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,55
+35054,"London--Fanshawe","London--Fanshawe"," 85","London",N,N,"",0,391,"Naqvi","","Najam","Liberal","Libéral",N,N,37
+35054,"London--Fanshawe","London--Fanshawe"," 86","London",N,N,"",0,479,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 86","London",N,N,"",0,479,"Holman","","Kurt","Conservative","Conservateur",N,Y,70
+35054,"London--Fanshawe","London--Fanshawe"," 86","London",N,N,"",0,479,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,38
+35054,"London--Fanshawe","London--Fanshawe"," 86","London",N,N,"",0,479,"Naqvi","","Najam","Liberal","Libéral",N,N,45
+35054,"London--Fanshawe","London--Fanshawe"," 87","London",N,N,"",1,463,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 87","London",N,N,"",1,463,"Holman","","Kurt","Conservative","Conservateur",N,Y,73
+35054,"London--Fanshawe","London--Fanshawe"," 87","London",N,N,"",1,463,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,53
+35054,"London--Fanshawe","London--Fanshawe"," 87","London",N,N,"",1,463,"Naqvi","","Najam","Liberal","Libéral",N,N,30
+35054,"London--Fanshawe","London--Fanshawe"," 88","London",N,N,"",1,389,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 88","London",N,N,"",1,389,"Holman","","Kurt","Conservative","Conservateur",N,Y,51
+35054,"London--Fanshawe","London--Fanshawe"," 88","London",N,N,"",1,389,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,43
+35054,"London--Fanshawe","London--Fanshawe"," 88","London",N,N,"",1,389,"Naqvi","","Najam","Liberal","Libéral",N,N,34
+35054,"London--Fanshawe","London--Fanshawe"," 89","London",N,N,"",1,370,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 89","London",N,N,"",1,370,"Holman","","Kurt","Conservative","Conservateur",N,Y,63
+35054,"London--Fanshawe","London--Fanshawe"," 89","London",N,N,"",1,370,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,27
+35054,"London--Fanshawe","London--Fanshawe"," 89","London",N,N,"",1,370,"Naqvi","","Najam","Liberal","Libéral",N,N,23
+35054,"London--Fanshawe","London--Fanshawe"," 90","London",N,N,"",0,507,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 90","London",N,N,"",0,507,"Holman","","Kurt","Conservative","Conservateur",N,Y,64
+35054,"London--Fanshawe","London--Fanshawe"," 90","London",N,N,"",0,507,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+35054,"London--Fanshawe","London--Fanshawe"," 90","London",N,N,"",0,507,"Naqvi","","Najam","Liberal","Libéral",N,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 91","London",N,N,"",1,423,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 91","London",N,N,"",1,423,"Holman","","Kurt","Conservative","Conservateur",N,Y,83
+35054,"London--Fanshawe","London--Fanshawe"," 91","London",N,N,"",1,423,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 91","London",N,N,"",1,423,"Naqvi","","Najam","Liberal","Libéral",N,N,42
+35054,"London--Fanshawe","London--Fanshawe"," 92","London",N,N,"",0,403,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 92","London",N,N,"",0,403,"Holman","","Kurt","Conservative","Conservateur",N,Y,57
+35054,"London--Fanshawe","London--Fanshawe"," 92","London",N,N,"",0,403,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,39
+35054,"London--Fanshawe","London--Fanshawe"," 92","London",N,N,"",0,403,"Naqvi","","Najam","Liberal","Libéral",N,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 93","London",N,N,"",1,527,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 93","London",N,N,"",1,527,"Holman","","Kurt","Conservative","Conservateur",N,Y,104
+35054,"London--Fanshawe","London--Fanshawe"," 93","London",N,N,"",1,527,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+35054,"London--Fanshawe","London--Fanshawe"," 93","London",N,N,"",1,527,"Naqvi","","Najam","Liberal","Libéral",N,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 94","London",N,N,"",0,526,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 94","London",N,N,"",0,526,"Holman","","Kurt","Conservative","Conservateur",N,Y,110
+35054,"London--Fanshawe","London--Fanshawe"," 94","London",N,N,"",0,526,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+35054,"London--Fanshawe","London--Fanshawe"," 94","London",N,N,"",0,526,"Naqvi","","Najam","Liberal","Libéral",N,N,46
+35054,"London--Fanshawe","London--Fanshawe"," 95","London",N,N,"",0,546,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 95","London",N,N,"",0,546,"Holman","","Kurt","Conservative","Conservateur",N,Y,73
+35054,"London--Fanshawe","London--Fanshawe"," 95","London",N,N,"",0,546,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+35054,"London--Fanshawe","London--Fanshawe"," 95","London",N,N,"",0,546,"Naqvi","","Najam","Liberal","Libéral",N,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 96","London",N,N,"",0,399,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 96","London",N,N,"",0,399,"Holman","","Kurt","Conservative","Conservateur",N,Y,65
+35054,"London--Fanshawe","London--Fanshawe"," 96","London",N,N,"",0,399,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,41
+35054,"London--Fanshawe","London--Fanshawe"," 96","London",N,N,"",0,399,"Naqvi","","Najam","Liberal","Libéral",N,N,39
+35054,"London--Fanshawe","London--Fanshawe"," 97","London",N,N,"",1,452,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 97","London",N,N,"",1,452,"Holman","","Kurt","Conservative","Conservateur",N,Y,62
+35054,"London--Fanshawe","London--Fanshawe"," 97","London",N,N,"",1,452,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 97","London",N,N,"",1,452,"Naqvi","","Najam","Liberal","Libéral",N,N,23
+35054,"London--Fanshawe","London--Fanshawe"," 98","London",N,N,"",0,513,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 98","London",N,N,"",0,513,"Holman","","Kurt","Conservative","Conservateur",N,Y,66
+35054,"London--Fanshawe","London--Fanshawe"," 98","London",N,N,"",0,513,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 98","London",N,N,"",0,513,"Naqvi","","Najam","Liberal","Libéral",N,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 99","London",N,N,"",0,348,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 99","London",N,N,"",0,348,"Holman","","Kurt","Conservative","Conservateur",N,Y,51
+35054,"London--Fanshawe","London--Fanshawe"," 99","London",N,N,"",0,348,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,27
+35054,"London--Fanshawe","London--Fanshawe"," 99","London",N,N,"",0,348,"Naqvi","","Najam","Liberal","Libéral",N,N,25
+35054,"London--Fanshawe","London--Fanshawe"," 100","London",N,N,"",5,468,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 100","London",N,N,"",5,468,"Holman","","Kurt","Conservative","Conservateur",N,Y,41
+35054,"London--Fanshawe","London--Fanshawe"," 100","London",N,N,"",5,468,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+35054,"London--Fanshawe","London--Fanshawe"," 100","London",N,N,"",5,468,"Naqvi","","Najam","Liberal","Libéral",N,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 101","London",N,N,"",2,455,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 101","London",N,N,"",2,455,"Holman","","Kurt","Conservative","Conservateur",N,Y,58
+35054,"London--Fanshawe","London--Fanshawe"," 101","London",N,N,"",2,455,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 101","London",N,N,"",2,455,"Naqvi","","Najam","Liberal","Libéral",N,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 102","London",N,N,"",0,373,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 102","London",N,N,"",0,373,"Holman","","Kurt","Conservative","Conservateur",N,Y,49
+35054,"London--Fanshawe","London--Fanshawe"," 102","London",N,N,"",0,373,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 102","London",N,N,"",0,373,"Naqvi","","Najam","Liberal","Libéral",N,N,41
+35054,"London--Fanshawe","London--Fanshawe"," 103","London",N,N,"",0,483,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 103","London",N,N,"",0,483,"Holman","","Kurt","Conservative","Conservateur",N,Y,91
+35054,"London--Fanshawe","London--Fanshawe"," 103","London",N,N,"",0,483,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,57
+35054,"London--Fanshawe","London--Fanshawe"," 103","London",N,N,"",0,483,"Naqvi","","Najam","Liberal","Libéral",N,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 104","London",N,N,"",0,405,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,8
+35054,"London--Fanshawe","London--Fanshawe"," 104","London",N,N,"",0,405,"Holman","","Kurt","Conservative","Conservateur",N,Y,71
+35054,"London--Fanshawe","London--Fanshawe"," 104","London",N,N,"",0,405,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 104","London",N,N,"",0,405,"Naqvi","","Najam","Liberal","Libéral",N,N,31
+35054,"London--Fanshawe","London--Fanshawe"," 105","London",N,N,"",2,430,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,5
+35054,"London--Fanshawe","London--Fanshawe"," 105","London",N,N,"",2,430,"Holman","","Kurt","Conservative","Conservateur",N,Y,94
+35054,"London--Fanshawe","London--Fanshawe"," 105","London",N,N,"",2,430,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,53
+35054,"London--Fanshawe","London--Fanshawe"," 105","London",N,N,"",2,430,"Naqvi","","Najam","Liberal","Libéral",N,N,42
+35054,"London--Fanshawe","London--Fanshawe"," 106","London",N,N,"",0,434,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 106","London",N,N,"",0,434,"Holman","","Kurt","Conservative","Conservateur",N,Y,107
+35054,"London--Fanshawe","London--Fanshawe"," 106","London",N,N,"",0,434,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 106","London",N,N,"",0,434,"Naqvi","","Najam","Liberal","Libéral",N,N,60
+35054,"London--Fanshawe","London--Fanshawe"," 107","London",N,N,"",3,574,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 107","London",N,N,"",3,574,"Holman","","Kurt","Conservative","Conservateur",N,Y,62
+35054,"London--Fanshawe","London--Fanshawe"," 107","London",N,N,"",3,574,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+35054,"London--Fanshawe","London--Fanshawe"," 107","London",N,N,"",3,574,"Naqvi","","Najam","Liberal","Libéral",N,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 108","London",N,N,"",1,394,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 108","London",N,N,"",1,394,"Holman","","Kurt","Conservative","Conservateur",N,Y,64
+35054,"London--Fanshawe","London--Fanshawe"," 108","London",N,N,"",1,394,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,34
+35054,"London--Fanshawe","London--Fanshawe"," 108","London",N,N,"",1,394,"Naqvi","","Najam","Liberal","Libéral",N,N,59
+35054,"London--Fanshawe","London--Fanshawe"," 109","London",N,N,"",2,413,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 109","London",N,N,"",2,413,"Holman","","Kurt","Conservative","Conservateur",N,Y,60
+35054,"London--Fanshawe","London--Fanshawe"," 109","London",N,N,"",2,413,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 109","London",N,N,"",2,413,"Naqvi","","Najam","Liberal","Libéral",N,N,56
+35054,"London--Fanshawe","London--Fanshawe"," 110","London",N,N,"",2,568,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 110","London",N,N,"",2,568,"Holman","","Kurt","Conservative","Conservateur",N,Y,89
+35054,"London--Fanshawe","London--Fanshawe"," 110","London",N,N,"",2,568,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 110","London",N,N,"",2,568,"Naqvi","","Najam","Liberal","Libéral",N,N,62
+35054,"London--Fanshawe","London--Fanshawe"," 111","London",N,N,"",2,447,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,5
+35054,"London--Fanshawe","London--Fanshawe"," 111","London",N,N,"",2,447,"Holman","","Kurt","Conservative","Conservateur",N,Y,46
+35054,"London--Fanshawe","London--Fanshawe"," 111","London",N,N,"",2,447,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,25
+35054,"London--Fanshawe","London--Fanshawe"," 111","London",N,N,"",2,447,"Naqvi","","Najam","Liberal","Libéral",N,N,25
+35054,"London--Fanshawe","London--Fanshawe"," 112","London",N,N,"",1,456,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 112","London",N,N,"",1,456,"Holman","","Kurt","Conservative","Conservateur",N,Y,57
+35054,"London--Fanshawe","London--Fanshawe"," 112","London",N,N,"",1,456,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,23
+35054,"London--Fanshawe","London--Fanshawe"," 112","London",N,N,"",1,456,"Naqvi","","Najam","Liberal","Libéral",N,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 113","London",N,N,"",0,342,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 113","London",N,N,"",0,342,"Holman","","Kurt","Conservative","Conservateur",N,Y,38
+35054,"London--Fanshawe","London--Fanshawe"," 113","London",N,N,"",0,342,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,24
+35054,"London--Fanshawe","London--Fanshawe"," 113","London",N,N,"",0,342,"Naqvi","","Najam","Liberal","Libéral",N,N,21
+35054,"London--Fanshawe","London--Fanshawe"," 114","London",N,N,"",0,469,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 114","London",N,N,"",0,469,"Holman","","Kurt","Conservative","Conservateur",N,Y,52
+35054,"London--Fanshawe","London--Fanshawe"," 114","London",N,N,"",0,469,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 114","London",N,N,"",0,469,"Naqvi","","Najam","Liberal","Libéral",N,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 115","London",N,N,"",0,531,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 115","London",N,N,"",0,531,"Holman","","Kurt","Conservative","Conservateur",N,Y,85
+35054,"London--Fanshawe","London--Fanshawe"," 115","London",N,N,"",0,531,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+35054,"London--Fanshawe","London--Fanshawe"," 115","London",N,N,"",0,531,"Naqvi","","Najam","Liberal","Libéral",N,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 116","London",N,N,"",2,525,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 116","London",N,N,"",2,525,"Holman","","Kurt","Conservative","Conservateur",N,Y,81
+35054,"London--Fanshawe","London--Fanshawe"," 116","London",N,N,"",2,525,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,41
+35054,"London--Fanshawe","London--Fanshawe"," 116","London",N,N,"",2,525,"Naqvi","","Najam","Liberal","Libéral",N,N,53
+35054,"London--Fanshawe","London--Fanshawe"," 117","London",N,N,"",3,438,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 117","London",N,N,"",3,438,"Holman","","Kurt","Conservative","Conservateur",N,Y,56
+35054,"London--Fanshawe","London--Fanshawe"," 117","London",N,N,"",3,438,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+35054,"London--Fanshawe","London--Fanshawe"," 117","London",N,N,"",3,438,"Naqvi","","Najam","Liberal","Libéral",N,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 118","London",N,N,"",1,380,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 118","London",N,N,"",1,380,"Holman","","Kurt","Conservative","Conservateur",N,Y,84
+35054,"London--Fanshawe","London--Fanshawe"," 118","London",N,N,"",1,380,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+35054,"London--Fanshawe","London--Fanshawe"," 118","London",N,N,"",1,380,"Naqvi","","Najam","Liberal","Libéral",N,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 119","London",N,N,"",0,572,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 119","London",N,N,"",0,572,"Holman","","Kurt","Conservative","Conservateur",N,Y,86
+35054,"London--Fanshawe","London--Fanshawe"," 119","London",N,N,"",0,572,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,39
+35054,"London--Fanshawe","London--Fanshawe"," 119","London",N,N,"",0,572,"Naqvi","","Najam","Liberal","Libéral",N,N,57
+35054,"London--Fanshawe","London--Fanshawe"," 120","London",N,N,"",2,519,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 120","London",N,N,"",2,519,"Holman","","Kurt","Conservative","Conservateur",N,Y,75
+35054,"London--Fanshawe","London--Fanshawe"," 120","London",N,N,"",2,519,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+35054,"London--Fanshawe","London--Fanshawe"," 120","London",N,N,"",2,519,"Naqvi","","Najam","Liberal","Libéral",N,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 121","London",N,N,"",2,538,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 121","London",N,N,"",2,538,"Holman","","Kurt","Conservative","Conservateur",N,Y,96
+35054,"London--Fanshawe","London--Fanshawe"," 121","London",N,N,"",2,538,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,57
+35054,"London--Fanshawe","London--Fanshawe"," 121","London",N,N,"",2,538,"Naqvi","","Najam","Liberal","Libéral",N,N,49
+35054,"London--Fanshawe","London--Fanshawe"," 122","London",N,N,"",2,572,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 122","London",N,N,"",2,572,"Holman","","Kurt","Conservative","Conservateur",N,Y,117
+35054,"London--Fanshawe","London--Fanshawe"," 122","London",N,N,"",2,572,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,60
+35054,"London--Fanshawe","London--Fanshawe"," 122","London",N,N,"",2,572,"Naqvi","","Najam","Liberal","Libéral",N,N,62
+35054,"London--Fanshawe","London--Fanshawe"," 123","London",N,N,"",4,832,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,6
+35054,"London--Fanshawe","London--Fanshawe"," 123","London",N,N,"",4,832,"Holman","","Kurt","Conservative","Conservateur",N,Y,147
+35054,"London--Fanshawe","London--Fanshawe"," 123","London",N,N,"",4,832,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+35054,"London--Fanshawe","London--Fanshawe"," 123","London",N,N,"",4,832,"Naqvi","","Najam","Liberal","Libéral",N,N,87
+35054,"London--Fanshawe","London--Fanshawe"," 124","London",N,N,"",3,378,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 124","London",N,N,"",3,378,"Holman","","Kurt","Conservative","Conservateur",N,Y,64
+35054,"London--Fanshawe","London--Fanshawe"," 124","London",N,N,"",3,378,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+35054,"London--Fanshawe","London--Fanshawe"," 124","London",N,N,"",3,378,"Naqvi","","Najam","Liberal","Libéral",N,N,42
+35054,"London--Fanshawe","London--Fanshawe"," 125","London",N,N,"",0,462,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 125","London",N,N,"",0,462,"Holman","","Kurt","Conservative","Conservateur",N,Y,75
+35054,"London--Fanshawe","London--Fanshawe"," 125","London",N,N,"",0,462,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,62
+35054,"London--Fanshawe","London--Fanshawe"," 125","London",N,N,"",0,462,"Naqvi","","Najam","Liberal","Libéral",N,N,76
+35054,"London--Fanshawe","London--Fanshawe"," 126","London",N,N,"",7,589,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 126","London",N,N,"",7,589,"Holman","","Kurt","Conservative","Conservateur",N,Y,95
+35054,"London--Fanshawe","London--Fanshawe"," 126","London",N,N,"",7,589,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,71
+35054,"London--Fanshawe","London--Fanshawe"," 126","London",N,N,"",7,589,"Naqvi","","Najam","Liberal","Libéral",N,N,78
+35054,"London--Fanshawe","London--Fanshawe"," 127","London",N,N,"",1,341,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 127","London",N,N,"",1,341,"Holman","","Kurt","Conservative","Conservateur",N,Y,70
+35054,"London--Fanshawe","London--Fanshawe"," 127","London",N,N,"",1,341,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,35
+35054,"London--Fanshawe","London--Fanshawe"," 127","London",N,N,"",1,341,"Naqvi","","Najam","Liberal","Libéral",N,N,43
+35054,"London--Fanshawe","London--Fanshawe"," 128","London",N,N,"",2,450,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,5
+35054,"London--Fanshawe","London--Fanshawe"," 128","London",N,N,"",2,450,"Holman","","Kurt","Conservative","Conservateur",N,Y,88
+35054,"London--Fanshawe","London--Fanshawe"," 128","London",N,N,"",2,450,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+35054,"London--Fanshawe","London--Fanshawe"," 128","London",N,N,"",2,450,"Naqvi","","Najam","Liberal","Libéral",N,N,62
+35054,"London--Fanshawe","London--Fanshawe"," 129","London",N,N,"",2,463,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 129","London",N,N,"",2,463,"Holman","","Kurt","Conservative","Conservateur",N,Y,59
+35054,"London--Fanshawe","London--Fanshawe"," 129","London",N,N,"",2,463,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+35054,"London--Fanshawe","London--Fanshawe"," 129","London",N,N,"",2,463,"Naqvi","","Najam","Liberal","Libéral",N,N,46
+35054,"London--Fanshawe","London--Fanshawe"," 130","London",N,N,"",0,376,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 130","London",N,N,"",0,376,"Holman","","Kurt","Conservative","Conservateur",N,Y,61
+35054,"London--Fanshawe","London--Fanshawe"," 130","London",N,N,"",0,376,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,33
+35054,"London--Fanshawe","London--Fanshawe"," 130","London",N,N,"",0,376,"Naqvi","","Najam","Liberal","Libéral",N,N,43
+35054,"London--Fanshawe","London--Fanshawe"," 131","London",N,N,"",0,598,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 131","London",N,N,"",0,598,"Holman","","Kurt","Conservative","Conservateur",N,Y,102
+35054,"London--Fanshawe","London--Fanshawe"," 131","London",N,N,"",0,598,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+35054,"London--Fanshawe","London--Fanshawe"," 131","London",N,N,"",0,598,"Naqvi","","Najam","Liberal","Libéral",N,N,64
+35054,"London--Fanshawe","London--Fanshawe"," 132","London",N,N,"",4,621,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 132","London",N,N,"",4,621,"Holman","","Kurt","Conservative","Conservateur",N,Y,163
+35054,"London--Fanshawe","London--Fanshawe"," 132","London",N,N,"",4,621,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,54
+35054,"London--Fanshawe","London--Fanshawe"," 132","London",N,N,"",4,621,"Naqvi","","Najam","Liberal","Libéral",N,N,101
+35054,"London--Fanshawe","London--Fanshawe"," 133","London",N,N,"",1,473,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 133","London",N,N,"",1,473,"Holman","","Kurt","Conservative","Conservateur",N,Y,68
+35054,"London--Fanshawe","London--Fanshawe"," 133","London",N,N,"",1,473,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 133","London",N,N,"",1,473,"Naqvi","","Najam","Liberal","Libéral",N,N,79
+35054,"London--Fanshawe","London--Fanshawe"," 134","London",N,N,"",1,491,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 134","London",N,N,"",1,491,"Holman","","Kurt","Conservative","Conservateur",N,Y,86
+35054,"London--Fanshawe","London--Fanshawe"," 134","London",N,N,"",1,491,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,53
+35054,"London--Fanshawe","London--Fanshawe"," 134","London",N,N,"",1,491,"Naqvi","","Najam","Liberal","Libéral",N,N,59
+35054,"London--Fanshawe","London--Fanshawe"," 135","London",N,N,"",1,590,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 135","London",N,N,"",1,590,"Holman","","Kurt","Conservative","Conservateur",N,Y,126
+35054,"London--Fanshawe","London--Fanshawe"," 135","London",N,N,"",1,590,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,49
+35054,"London--Fanshawe","London--Fanshawe"," 135","London",N,N,"",1,590,"Naqvi","","Najam","Liberal","Libéral",N,N,79
+35054,"London--Fanshawe","London--Fanshawe"," 136","London",N,N,"",0,469,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 136","London",N,N,"",0,469,"Holman","","Kurt","Conservative","Conservateur",N,Y,103
+35054,"London--Fanshawe","London--Fanshawe"," 136","London",N,N,"",0,469,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+35054,"London--Fanshawe","London--Fanshawe"," 136","London",N,N,"",0,469,"Naqvi","","Najam","Liberal","Libéral",N,N,88
+35054,"London--Fanshawe","London--Fanshawe"," 137","London",N,N,"",0,563,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 137","London",N,N,"",0,563,"Holman","","Kurt","Conservative","Conservateur",N,Y,109
+35054,"London--Fanshawe","London--Fanshawe"," 137","London",N,N,"",0,563,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 137","London",N,N,"",0,563,"Naqvi","","Najam","Liberal","Libéral",N,N,63
+35054,"London--Fanshawe","London--Fanshawe"," 138","London",N,N,"",2,490,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 138","London",N,N,"",2,490,"Holman","","Kurt","Conservative","Conservateur",N,Y,95
+35054,"London--Fanshawe","London--Fanshawe"," 138","London",N,N,"",2,490,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+35054,"London--Fanshawe","London--Fanshawe"," 138","London",N,N,"",2,490,"Naqvi","","Najam","Liberal","Libéral",N,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 139","London",N,N,"",1,421,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 139","London",N,N,"",1,421,"Holman","","Kurt","Conservative","Conservateur",N,Y,93
+35054,"London--Fanshawe","London--Fanshawe"," 139","London",N,N,"",1,421,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,61
+35054,"London--Fanshawe","London--Fanshawe"," 139","London",N,N,"",1,421,"Naqvi","","Najam","Liberal","Libéral",N,N,54
+35054,"London--Fanshawe","London--Fanshawe"," 140","London",N,N,"",3,415,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,6
+35054,"London--Fanshawe","London--Fanshawe"," 140","London",N,N,"",3,415,"Holman","","Kurt","Conservative","Conservateur",N,Y,63
+35054,"London--Fanshawe","London--Fanshawe"," 140","London",N,N,"",3,415,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,56
+35054,"London--Fanshawe","London--Fanshawe"," 140","London",N,N,"",3,415,"Naqvi","","Najam","Liberal","Libéral",N,N,58
+35054,"London--Fanshawe","London--Fanshawe"," 141","London",N,N,"",1,488,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 141","London",N,N,"",1,488,"Holman","","Kurt","Conservative","Conservateur",N,Y,75
+35054,"London--Fanshawe","London--Fanshawe"," 141","London",N,N,"",1,488,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,60
+35054,"London--Fanshawe","London--Fanshawe"," 141","London",N,N,"",1,488,"Naqvi","","Najam","Liberal","Libéral",N,N,59
+35054,"London--Fanshawe","London--Fanshawe"," 142","London",N,N,"",1,367,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 142","London",N,N,"",1,367,"Holman","","Kurt","Conservative","Conservateur",N,Y,60
+35054,"London--Fanshawe","London--Fanshawe"," 142","London",N,N,"",1,367,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+35054,"London--Fanshawe","London--Fanshawe"," 142","London",N,N,"",1,367,"Naqvi","","Najam","Liberal","Libéral",N,N,45
+35054,"London--Fanshawe","London--Fanshawe"," 143","London",N,N,"",0,209,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 143","London",N,N,"",0,209,"Holman","","Kurt","Conservative","Conservateur",N,Y,26
+35054,"London--Fanshawe","London--Fanshawe"," 143","London",N,N,"",0,209,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+35054,"London--Fanshawe","London--Fanshawe"," 143","London",N,N,"",0,209,"Naqvi","","Najam","Liberal","Libéral",N,N,29
+35054,"London--Fanshawe","London--Fanshawe"," 144","London",N,N,"",2,419,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 144","London",N,N,"",2,419,"Holman","","Kurt","Conservative","Conservateur",N,Y,61
+35054,"London--Fanshawe","London--Fanshawe"," 144","London",N,N,"",2,419,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,35
+35054,"London--Fanshawe","London--Fanshawe"," 144","London",N,N,"",2,419,"Naqvi","","Najam","Liberal","Libéral",N,N,30
+35054,"London--Fanshawe","London--Fanshawe"," 145","London",N,N,"",0,535,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 145","London",N,N,"",0,535,"Holman","","Kurt","Conservative","Conservateur",N,Y,75
+35054,"London--Fanshawe","London--Fanshawe"," 145","London",N,N,"",0,535,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+35054,"London--Fanshawe","London--Fanshawe"," 145","London",N,N,"",0,535,"Naqvi","","Najam","Liberal","Libéral",N,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 146","London",N,N,"",0,536,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 146","London",N,N,"",0,536,"Holman","","Kurt","Conservative","Conservateur",N,Y,58
+35054,"London--Fanshawe","London--Fanshawe"," 146","London",N,N,"",0,536,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+35054,"London--Fanshawe","London--Fanshawe"," 146","London",N,N,"",0,536,"Naqvi","","Najam","Liberal","Libéral",N,N,74
+35054,"London--Fanshawe","London--Fanshawe"," 147","London",N,N,"",1,340,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 147","London",N,N,"",1,340,"Holman","","Kurt","Conservative","Conservateur",N,Y,48
+35054,"London--Fanshawe","London--Fanshawe"," 147","London",N,N,"",1,340,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,49
+35054,"London--Fanshawe","London--Fanshawe"," 147","London",N,N,"",1,340,"Naqvi","","Najam","Liberal","Libéral",N,N,49
+35054,"London--Fanshawe","London--Fanshawe"," 148","London",N,N,"",3,398,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 148","London",N,N,"",3,398,"Holman","","Kurt","Conservative","Conservateur",N,Y,59
+35054,"London--Fanshawe","London--Fanshawe"," 148","London",N,N,"",3,398,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,42
+35054,"London--Fanshawe","London--Fanshawe"," 148","London",N,N,"",3,398,"Naqvi","","Najam","Liberal","Libéral",N,N,39
+35054,"London--Fanshawe","London--Fanshawe"," 149","London",N,N,"",1,349,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,6
+35054,"London--Fanshawe","London--Fanshawe"," 149","London",N,N,"",1,349,"Holman","","Kurt","Conservative","Conservateur",N,Y,42
+35054,"London--Fanshawe","London--Fanshawe"," 149","London",N,N,"",1,349,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+35054,"London--Fanshawe","London--Fanshawe"," 149","London",N,N,"",1,349,"Naqvi","","Najam","Liberal","Libéral",N,N,38
+35054,"London--Fanshawe","London--Fanshawe"," 150","London",N,N,"",1,478,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 150","London",N,N,"",1,478,"Holman","","Kurt","Conservative","Conservateur",N,Y,88
+35054,"London--Fanshawe","London--Fanshawe"," 150","London",N,N,"",1,478,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,54
+35054,"London--Fanshawe","London--Fanshawe"," 150","London",N,N,"",1,478,"Naqvi","","Najam","Liberal","Libéral",N,N,72
+35054,"London--Fanshawe","London--Fanshawe"," 151","London",N,N,"",4,520,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 151","London",N,N,"",4,520,"Holman","","Kurt","Conservative","Conservateur",N,Y,71
+35054,"London--Fanshawe","London--Fanshawe"," 151","London",N,N,"",4,520,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,55
+35054,"London--Fanshawe","London--Fanshawe"," 151","London",N,N,"",4,520,"Naqvi","","Najam","Liberal","Libéral",N,N,75
+35054,"London--Fanshawe","London--Fanshawe"," 152","London",N,N,"",1,394,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 152","London",N,N,"",1,394,"Holman","","Kurt","Conservative","Conservateur",N,Y,69
+35054,"London--Fanshawe","London--Fanshawe"," 152","London",N,N,"",1,394,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 152","London",N,N,"",1,394,"Naqvi","","Najam","Liberal","Libéral",N,N,68
+35054,"London--Fanshawe","London--Fanshawe"," 153","London",N,N,"",1,505,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 153","London",N,N,"",1,505,"Holman","","Kurt","Conservative","Conservateur",N,Y,59
+35054,"London--Fanshawe","London--Fanshawe"," 153","London",N,N,"",1,505,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 153","London",N,N,"",1,505,"Naqvi","","Najam","Liberal","Libéral",N,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 154","London",N,N,"",1,335,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 154","London",N,N,"",1,335,"Holman","","Kurt","Conservative","Conservateur",N,Y,47
+35054,"London--Fanshawe","London--Fanshawe"," 154","London",N,N,"",1,335,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,31
+35054,"London--Fanshawe","London--Fanshawe"," 154","London",N,N,"",1,335,"Naqvi","","Najam","Liberal","Libéral",N,N,72
+35054,"London--Fanshawe","London--Fanshawe"," 155","London",N,N,"",2,450,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 155","London",N,N,"",2,450,"Holman","","Kurt","Conservative","Conservateur",N,Y,58
+35054,"London--Fanshawe","London--Fanshawe"," 155","London",N,N,"",2,450,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,27
+35054,"London--Fanshawe","London--Fanshawe"," 155","London",N,N,"",2,450,"Naqvi","","Najam","Liberal","Libéral",N,N,45
+35054,"London--Fanshawe","London--Fanshawe"," 156","London",N,N,"",1,407,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 156","London",N,N,"",1,407,"Holman","","Kurt","Conservative","Conservateur",N,Y,50
+35054,"London--Fanshawe","London--Fanshawe"," 156","London",N,N,"",1,407,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 156","London",N,N,"",1,407,"Naqvi","","Najam","Liberal","Libéral",N,N,38
+35054,"London--Fanshawe","London--Fanshawe"," 157","London",N,N,"",0,432,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,5
+35054,"London--Fanshawe","London--Fanshawe"," 157","London",N,N,"",0,432,"Holman","","Kurt","Conservative","Conservateur",N,Y,46
+35054,"London--Fanshawe","London--Fanshawe"," 157","London",N,N,"",0,432,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,33
+35054,"London--Fanshawe","London--Fanshawe"," 157","London",N,N,"",0,432,"Naqvi","","Najam","Liberal","Libéral",N,N,37
+35054,"London--Fanshawe","London--Fanshawe"," 158","London",N,N,"",0,389,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 158","London",N,N,"",0,389,"Holman","","Kurt","Conservative","Conservateur",N,Y,52
+35054,"London--Fanshawe","London--Fanshawe"," 158","London",N,N,"",0,389,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 158","London",N,N,"",0,389,"Naqvi","","Najam","Liberal","Libéral",N,N,32
+35054,"London--Fanshawe","London--Fanshawe"," 159","London",N,N,"",0,443,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 159","London",N,N,"",0,443,"Holman","","Kurt","Conservative","Conservateur",N,Y,32
+35054,"London--Fanshawe","London--Fanshawe"," 159","London",N,N,"",0,443,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,38
+35054,"London--Fanshawe","London--Fanshawe"," 159","London",N,N,"",0,443,"Naqvi","","Najam","Liberal","Libéral",N,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 160","London",N,N,"",1,482,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 160","London",N,N,"",1,482,"Holman","","Kurt","Conservative","Conservateur",N,Y,71
+35054,"London--Fanshawe","London--Fanshawe"," 160","London",N,N,"",1,482,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,39
+35054,"London--Fanshawe","London--Fanshawe"," 160","London",N,N,"",1,482,"Naqvi","","Najam","Liberal","Libéral",N,N,78
+35054,"London--Fanshawe","London--Fanshawe"," 161","London",N,N,"",2,459,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 161","London",N,N,"",2,459,"Holman","","Kurt","Conservative","Conservateur",N,Y,68
+35054,"London--Fanshawe","London--Fanshawe"," 161","London",N,N,"",2,459,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,34
+35054,"London--Fanshawe","London--Fanshawe"," 161","London",N,N,"",2,459,"Naqvi","","Najam","Liberal","Libéral",N,N,79
+35054,"London--Fanshawe","London--Fanshawe"," 162","London",N,N,"",0,455,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 162","London",N,N,"",0,455,"Holman","","Kurt","Conservative","Conservateur",N,Y,56
+35054,"London--Fanshawe","London--Fanshawe"," 162","London",N,N,"",0,455,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,57
+35054,"London--Fanshawe","London--Fanshawe"," 162","London",N,N,"",0,455,"Naqvi","","Najam","Liberal","Libéral",N,N,64
+35054,"London--Fanshawe","London--Fanshawe"," 163","London",N,N,"",1,420,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 163","London",N,N,"",1,420,"Holman","","Kurt","Conservative","Conservateur",N,Y,70
+35054,"London--Fanshawe","London--Fanshawe"," 163","London",N,N,"",1,420,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,28
+35054,"London--Fanshawe","London--Fanshawe"," 163","London",N,N,"",1,420,"Naqvi","","Najam","Liberal","Libéral",N,N,76
+35054,"London--Fanshawe","London--Fanshawe"," 164","London",N,N,"",0,514,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 164","London",N,N,"",0,514,"Holman","","Kurt","Conservative","Conservateur",N,Y,91
+35054,"London--Fanshawe","London--Fanshawe"," 164","London",N,N,"",0,514,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+35054,"London--Fanshawe","London--Fanshawe"," 164","London",N,N,"",0,514,"Naqvi","","Najam","Liberal","Libéral",N,N,73
+35054,"London--Fanshawe","London--Fanshawe"," 165","London",N,N,"",1,500,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 165","London",N,N,"",1,500,"Holman","","Kurt","Conservative","Conservateur",N,Y,55
+35054,"London--Fanshawe","London--Fanshawe"," 165","London",N,N,"",1,500,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,38
+35054,"London--Fanshawe","London--Fanshawe"," 165","London",N,N,"",1,500,"Naqvi","","Najam","Liberal","Libéral",N,N,42
+35054,"London--Fanshawe","London--Fanshawe"," 166","London",N,N,"",2,464,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 166","London",N,N,"",2,464,"Holman","","Kurt","Conservative","Conservateur",N,Y,79
+35054,"London--Fanshawe","London--Fanshawe"," 166","London",N,N,"",2,464,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+35054,"London--Fanshawe","London--Fanshawe"," 166","London",N,N,"",2,464,"Naqvi","","Najam","Liberal","Libéral",N,N,64
+35054,"London--Fanshawe","London--Fanshawe"," 167","London",N,N,"",2,453,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 167","London",N,N,"",2,453,"Holman","","Kurt","Conservative","Conservateur",N,Y,87
+35054,"London--Fanshawe","London--Fanshawe"," 167","London",N,N,"",2,453,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 167","London",N,N,"",2,453,"Naqvi","","Najam","Liberal","Libéral",N,N,78
+35054,"London--Fanshawe","London--Fanshawe"," 168","London",N,N,"",1,486,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 168","London",N,N,"",1,486,"Holman","","Kurt","Conservative","Conservateur",N,Y,113
+35054,"London--Fanshawe","London--Fanshawe"," 168","London",N,N,"",1,486,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,53
+35054,"London--Fanshawe","London--Fanshawe"," 168","London",N,N,"",1,486,"Naqvi","","Najam","Liberal","Libéral",N,N,70
+35054,"London--Fanshawe","London--Fanshawe"," 169","London",N,N,"",1,516,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,5
+35054,"London--Fanshawe","London--Fanshawe"," 169","London",N,N,"",1,516,"Holman","","Kurt","Conservative","Conservateur",N,Y,90
+35054,"London--Fanshawe","London--Fanshawe"," 169","London",N,N,"",1,516,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 169","London",N,N,"",1,516,"Naqvi","","Najam","Liberal","Libéral",N,N,44
+35054,"London--Fanshawe","London--Fanshawe"," 170","London",N,N,"",3,551,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 170","London",N,N,"",3,551,"Holman","","Kurt","Conservative","Conservateur",N,Y,129
+35054,"London--Fanshawe","London--Fanshawe"," 170","London",N,N,"",3,551,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,61
+35054,"London--Fanshawe","London--Fanshawe"," 170","London",N,N,"",3,551,"Naqvi","","Najam","Liberal","Libéral",N,N,71
+35054,"London--Fanshawe","London--Fanshawe"," 171","London",N,N,"",2,537,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,6
+35054,"London--Fanshawe","London--Fanshawe"," 171","London",N,N,"",2,537,"Holman","","Kurt","Conservative","Conservateur",N,Y,103
+35054,"London--Fanshawe","London--Fanshawe"," 171","London",N,N,"",2,537,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,67
+35054,"London--Fanshawe","London--Fanshawe"," 171","London",N,N,"",2,537,"Naqvi","","Najam","Liberal","Libéral",N,N,74
+35054,"London--Fanshawe","London--Fanshawe"," 172","London",N,N,"",3,392,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 172","London",N,N,"",3,392,"Holman","","Kurt","Conservative","Conservateur",N,Y,52
+35054,"London--Fanshawe","London--Fanshawe"," 172","London",N,N,"",3,392,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,55
+35054,"London--Fanshawe","London--Fanshawe"," 172","London",N,N,"",3,392,"Naqvi","","Najam","Liberal","Libéral",N,N,59
+35054,"London--Fanshawe","London--Fanshawe"," 173","London",N,N,"",2,580,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 173","London",N,N,"",2,580,"Holman","","Kurt","Conservative","Conservateur",N,Y,112
+35054,"London--Fanshawe","London--Fanshawe"," 173","London",N,N,"",2,580,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+35054,"London--Fanshawe","London--Fanshawe"," 173","London",N,N,"",2,580,"Naqvi","","Najam","Liberal","Libéral",N,N,81
+35054,"London--Fanshawe","London--Fanshawe"," 174","London",N,N,"",2,411,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 174","London",N,N,"",2,411,"Holman","","Kurt","Conservative","Conservateur",N,Y,52
+35054,"London--Fanshawe","London--Fanshawe"," 174","London",N,N,"",2,411,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,30
+35054,"London--Fanshawe","London--Fanshawe"," 174","London",N,N,"",2,411,"Naqvi","","Najam","Liberal","Libéral",N,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 175","London",N,N,"",4,404,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 175","London",N,N,"",4,404,"Holman","","Kurt","Conservative","Conservateur",N,Y,66
+35054,"London--Fanshawe","London--Fanshawe"," 175","London",N,N,"",4,404,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 175","London",N,N,"",4,404,"Naqvi","","Najam","Liberal","Libéral",N,N,47
+35054,"London--Fanshawe","London--Fanshawe"," 176","London",N,N,"",0,452,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 176","London",N,N,"",0,452,"Holman","","Kurt","Conservative","Conservateur",N,Y,75
+35054,"London--Fanshawe","London--Fanshawe"," 176","London",N,N,"",0,452,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+35054,"London--Fanshawe","London--Fanshawe"," 176","London",N,N,"",0,452,"Naqvi","","Najam","Liberal","Libéral",N,N,48
+35054,"London--Fanshawe","London--Fanshawe"," 177","London",N,N,"",0,382,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 177","London",N,N,"",0,382,"Holman","","Kurt","Conservative","Conservateur",N,Y,50
+35054,"London--Fanshawe","London--Fanshawe"," 177","London",N,N,"",0,382,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 177","London",N,N,"",0,382,"Naqvi","","Najam","Liberal","Libéral",N,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 178","London",N,N,"",2,437,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 178","London",N,N,"",2,437,"Holman","","Kurt","Conservative","Conservateur",N,Y,63
+35054,"London--Fanshawe","London--Fanshawe"," 178","London",N,N,"",2,437,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,49
+35054,"London--Fanshawe","London--Fanshawe"," 178","London",N,N,"",2,437,"Naqvi","","Najam","Liberal","Libéral",N,N,59
+35054,"London--Fanshawe","London--Fanshawe"," 179","London",N,N,"",2,454,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 179","London",N,N,"",2,454,"Holman","","Kurt","Conservative","Conservateur",N,Y,78
+35054,"London--Fanshawe","London--Fanshawe"," 179","London",N,N,"",2,454,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 179","London",N,N,"",2,454,"Naqvi","","Najam","Liberal","Libéral",N,N,72
+35054,"London--Fanshawe","London--Fanshawe"," 180","London",N,N,"",0,491,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 180","London",N,N,"",0,491,"Holman","","Kurt","Conservative","Conservateur",N,Y,73
+35054,"London--Fanshawe","London--Fanshawe"," 180","London",N,N,"",0,491,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,42
+35054,"London--Fanshawe","London--Fanshawe"," 180","London",N,N,"",0,491,"Naqvi","","Najam","Liberal","Libéral",N,N,62
+35054,"London--Fanshawe","London--Fanshawe"," 181","London",N,N,"",1,480,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 181","London",N,N,"",1,480,"Holman","","Kurt","Conservative","Conservateur",N,Y,48
+35054,"London--Fanshawe","London--Fanshawe"," 181","London",N,N,"",1,480,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+35054,"London--Fanshawe","London--Fanshawe"," 181","London",N,N,"",1,480,"Naqvi","","Najam","Liberal","Libéral",N,N,37
+35054,"London--Fanshawe","London--Fanshawe"," 182","London",N,N,"",2,323,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 182","London",N,N,"",2,323,"Holman","","Kurt","Conservative","Conservateur",N,Y,56
+35054,"London--Fanshawe","London--Fanshawe"," 182","London",N,N,"",2,323,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,27
+35054,"London--Fanshawe","London--Fanshawe"," 182","London",N,N,"",2,323,"Naqvi","","Najam","Liberal","Libéral",N,N,28
+35054,"London--Fanshawe","London--Fanshawe"," 183","London",N,N,"",3,480,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 183","London",N,N,"",3,480,"Holman","","Kurt","Conservative","Conservateur",N,Y,82
+35054,"London--Fanshawe","London--Fanshawe"," 183","London",N,N,"",3,480,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 183","London",N,N,"",3,480,"Naqvi","","Najam","Liberal","Libéral",N,N,55
+35054,"London--Fanshawe","London--Fanshawe"," 184","London",N,N,"",6,503,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 184","London",N,N,"",6,503,"Holman","","Kurt","Conservative","Conservateur",N,Y,59
+35054,"London--Fanshawe","London--Fanshawe"," 184","London",N,N,"",6,503,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,35
+35054,"London--Fanshawe","London--Fanshawe"," 184","London",N,N,"",6,503,"Naqvi","","Najam","Liberal","Libéral",N,N,33
+35054,"London--Fanshawe","London--Fanshawe"," 185","London",N,N,"",1,344,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 185","London",N,N,"",1,344,"Holman","","Kurt","Conservative","Conservateur",N,Y,75
+35054,"London--Fanshawe","London--Fanshawe"," 185","London",N,N,"",1,344,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+35054,"London--Fanshawe","London--Fanshawe"," 185","London",N,N,"",1,344,"Naqvi","","Najam","Liberal","Libéral",N,N,39
+35054,"London--Fanshawe","London--Fanshawe"," 186","London",N,N,"",1,569,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,6
+35054,"London--Fanshawe","London--Fanshawe"," 186","London",N,N,"",1,569,"Holman","","Kurt","Conservative","Conservateur",N,Y,88
+35054,"London--Fanshawe","London--Fanshawe"," 186","London",N,N,"",1,569,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,73
+35054,"London--Fanshawe","London--Fanshawe"," 186","London",N,N,"",1,569,"Naqvi","","Najam","Liberal","Libéral",N,N,83
+35054,"London--Fanshawe","London--Fanshawe"," 187","London",N,N,"",2,499,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 187","London",N,N,"",2,499,"Holman","","Kurt","Conservative","Conservateur",N,Y,67
+35054,"London--Fanshawe","London--Fanshawe"," 187","London",N,N,"",2,499,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+35054,"London--Fanshawe","London--Fanshawe"," 187","London",N,N,"",2,499,"Naqvi","","Najam","Liberal","Libéral",N,N,53
+35054,"London--Fanshawe","London--Fanshawe"," 188","London",N,N,"",2,403,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 188","London",N,N,"",2,403,"Holman","","Kurt","Conservative","Conservateur",N,Y,57
+35054,"London--Fanshawe","London--Fanshawe"," 188","London",N,N,"",2,403,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 188","London",N,N,"",2,403,"Naqvi","","Najam","Liberal","Libéral",N,N,40
+35054,"London--Fanshawe","London--Fanshawe"," 189","London",N,N,"",2,454,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 189","London",N,N,"",2,454,"Holman","","Kurt","Conservative","Conservateur",N,Y,45
+35054,"London--Fanshawe","London--Fanshawe"," 189","London",N,N,"",2,454,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+35054,"London--Fanshawe","London--Fanshawe"," 189","London",N,N,"",2,454,"Naqvi","","Najam","Liberal","Libéral",N,N,42
+35054,"London--Fanshawe","London--Fanshawe"," 190","London",N,N,"",5,618,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 190","London",N,N,"",5,618,"Holman","","Kurt","Conservative","Conservateur",N,Y,86
+35054,"London--Fanshawe","London--Fanshawe"," 190","London",N,N,"",5,618,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,81
+35054,"London--Fanshawe","London--Fanshawe"," 190","London",N,N,"",5,618,"Naqvi","","Najam","Liberal","Libéral",N,N,62
+35054,"London--Fanshawe","London--Fanshawe"," 191","London",N,N,"",0,548,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,5
+35054,"London--Fanshawe","London--Fanshawe"," 191","London",N,N,"",0,548,"Holman","","Kurt","Conservative","Conservateur",N,Y,70
+35054,"London--Fanshawe","London--Fanshawe"," 191","London",N,N,"",0,548,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+35054,"London--Fanshawe","London--Fanshawe"," 191","London",N,N,"",0,548,"Naqvi","","Najam","Liberal","Libéral",N,N,69
+35054,"London--Fanshawe","London--Fanshawe"," 192","London",N,N,"",5,545,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 192","London",N,N,"",5,545,"Holman","","Kurt","Conservative","Conservateur",N,Y,56
+35054,"London--Fanshawe","London--Fanshawe"," 192","London",N,N,"",5,545,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+35054,"London--Fanshawe","London--Fanshawe"," 192","London",N,N,"",5,545,"Naqvi","","Najam","Liberal","Libéral",N,N,64
+35054,"London--Fanshawe","London--Fanshawe"," 193","London",N,N,"",0,534,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 193","London",N,N,"",0,534,"Holman","","Kurt","Conservative","Conservateur",N,Y,53
+35054,"London--Fanshawe","London--Fanshawe"," 193","London",N,N,"",0,534,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,47
+35054,"London--Fanshawe","London--Fanshawe"," 193","London",N,N,"",0,534,"Naqvi","","Najam","Liberal","Libéral",N,N,64
+35054,"London--Fanshawe","London--Fanshawe"," 194","London",N,N,"",2,364,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 194","London",N,N,"",2,364,"Holman","","Kurt","Conservative","Conservateur",N,Y,40
+35054,"London--Fanshawe","London--Fanshawe"," 194","London",N,N,"",2,364,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,23
+35054,"London--Fanshawe","London--Fanshawe"," 194","London",N,N,"",2,364,"Naqvi","","Najam","Liberal","Libéral",N,N,49
+35054,"London--Fanshawe","London--Fanshawe"," 195","London",N,N,"",0,356,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 195","London",N,N,"",0,356,"Holman","","Kurt","Conservative","Conservateur",N,Y,42
+35054,"London--Fanshawe","London--Fanshawe"," 195","London",N,N,"",0,356,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,41
+35054,"London--Fanshawe","London--Fanshawe"," 195","London",N,N,"",0,356,"Naqvi","","Najam","Liberal","Libéral",N,N,57
+35054,"London--Fanshawe","London--Fanshawe"," 196","London",N,N,"",2,560,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 196","London",N,N,"",2,560,"Holman","","Kurt","Conservative","Conservateur",N,Y,92
+35054,"London--Fanshawe","London--Fanshawe"," 196","London",N,N,"",2,560,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,60
+35054,"London--Fanshawe","London--Fanshawe"," 196","London",N,N,"",2,560,"Naqvi","","Najam","Liberal","Libéral",N,N,61
+35054,"London--Fanshawe","London--Fanshawe"," 197","London",N,N,"",1,511,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 197","London",N,N,"",1,511,"Holman","","Kurt","Conservative","Conservateur",N,Y,84
+35054,"London--Fanshawe","London--Fanshawe"," 197","London",N,N,"",1,511,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 197","London",N,N,"",1,511,"Naqvi","","Najam","Liberal","Libéral",N,N,43
+35054,"London--Fanshawe","London--Fanshawe"," 198","London",N,N,"",9,565,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 198","London",N,N,"",9,565,"Holman","","Kurt","Conservative","Conservateur",N,Y,80
+35054,"London--Fanshawe","London--Fanshawe"," 198","London",N,N,"",9,565,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,70
+35054,"London--Fanshawe","London--Fanshawe"," 198","London",N,N,"",9,565,"Naqvi","","Najam","Liberal","Libéral",N,N,70
+35054,"London--Fanshawe","London--Fanshawe"," 199","London",N,N,"",2,443,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,10
+35054,"London--Fanshawe","London--Fanshawe"," 199","London",N,N,"",2,443,"Holman","","Kurt","Conservative","Conservateur",N,Y,71
+35054,"London--Fanshawe","London--Fanshawe"," 199","London",N,N,"",2,443,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 199","London",N,N,"",2,443,"Naqvi","","Najam","Liberal","Libéral",N,N,45
+35054,"London--Fanshawe","London--Fanshawe"," 200","London",N,N,"",3,551,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 200","London",N,N,"",3,551,"Holman","","Kurt","Conservative","Conservateur",N,Y,93
+35054,"London--Fanshawe","London--Fanshawe"," 200","London",N,N,"",3,551,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+35054,"London--Fanshawe","London--Fanshawe"," 200","London",N,N,"",3,551,"Naqvi","","Najam","Liberal","Libéral",N,N,71
+35054,"London--Fanshawe","London--Fanshawe"," 201","London",N,N,"",4,450,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 201","London",N,N,"",4,450,"Holman","","Kurt","Conservative","Conservateur",N,Y,95
+35054,"London--Fanshawe","London--Fanshawe"," 201","London",N,N,"",4,450,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,69
+35054,"London--Fanshawe","London--Fanshawe"," 201","London",N,N,"",4,450,"Naqvi","","Najam","Liberal","Libéral",N,N,53
+35054,"London--Fanshawe","London--Fanshawe"," 202","London",N,N,"",6,433,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,3
+35054,"London--Fanshawe","London--Fanshawe"," 202","London",N,N,"",6,433,"Holman","","Kurt","Conservative","Conservateur",N,Y,82
+35054,"London--Fanshawe","London--Fanshawe"," 202","London",N,N,"",6,433,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,45
+35054,"London--Fanshawe","London--Fanshawe"," 202","London",N,N,"",6,433,"Naqvi","","Najam","Liberal","Libéral",N,N,53
+35054,"London--Fanshawe","London--Fanshawe"," 203","London",N,N,"",2,453,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 203","London",N,N,"",2,453,"Holman","","Kurt","Conservative","Conservateur",N,Y,84
+35054,"London--Fanshawe","London--Fanshawe"," 203","London",N,N,"",2,453,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 203","London",N,N,"",2,453,"Naqvi","","Najam","Liberal","Libéral",N,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 204","London",N,N,"",0,518,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 204","London",N,N,"",0,518,"Holman","","Kurt","Conservative","Conservateur",N,Y,69
+35054,"London--Fanshawe","London--Fanshawe"," 204","London",N,N,"",0,518,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+35054,"London--Fanshawe","London--Fanshawe"," 204","London",N,N,"",0,518,"Naqvi","","Najam","Liberal","Libéral",N,N,63
+35054,"London--Fanshawe","London--Fanshawe"," 400","London",N,N,"30",0,14,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 400","London",N,N,"30",0,14,"Holman","","Kurt","Conservative","Conservateur",N,Y,0
+35054,"London--Fanshawe","London--Fanshawe"," 400","London",N,N,"30",0,14,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 400","London",N,N,"30",0,14,"Naqvi","","Najam","Liberal","Libéral",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 401","London",N,N,"",0,235,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 401","London",N,N,"",0,235,"Holman","","Kurt","Conservative","Conservateur",N,Y,39
+35054,"London--Fanshawe","London--Fanshawe"," 401","London",N,N,"",0,235,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,51
+35054,"London--Fanshawe","London--Fanshawe"," 401","London",N,N,"",0,235,"Naqvi","","Najam","Liberal","Libéral",N,N,50
+35054,"London--Fanshawe","London--Fanshawe"," 500","Mobile poll/Bureau itinérant",N,N,"",0,193,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,6
+35054,"London--Fanshawe","London--Fanshawe"," 500","Mobile poll/Bureau itinérant",N,N,"",0,193,"Holman","","Kurt","Conservative","Conservateur",N,Y,27
+35054,"London--Fanshawe","London--Fanshawe"," 500","Mobile poll/Bureau itinérant",N,N,"",0,193,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,17
+35054,"London--Fanshawe","London--Fanshawe"," 500","Mobile poll/Bureau itinérant",N,N,"",0,193,"Naqvi","","Najam","Liberal","Libéral",N,N,31
+35054,"London--Fanshawe","London--Fanshawe"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,129,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,129,"Holman","","Kurt","Conservative","Conservateur",N,Y,0
+35054,"London--Fanshawe","London--Fanshawe"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,129,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,129,"Naqvi","","Najam","Liberal","Libéral",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 502","Mobile poll/Bureau itinérant",N,N,"",9,236,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,4
+35054,"London--Fanshawe","London--Fanshawe"," 502","Mobile poll/Bureau itinérant",N,N,"",9,236,"Holman","","Kurt","Conservative","Conservateur",N,Y,22
+35054,"London--Fanshawe","London--Fanshawe"," 502","Mobile poll/Bureau itinérant",N,N,"",9,236,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,38
+35054,"London--Fanshawe","London--Fanshawe"," 502","Mobile poll/Bureau itinérant",N,N,"",9,236,"Naqvi","","Najam","Liberal","Libéral",N,N,49
+35054,"London--Fanshawe","London--Fanshawe"," 503","Mobile poll/Bureau itinérant",N,N,"506",0,10,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 503","Mobile poll/Bureau itinérant",N,N,"506",0,10,"Holman","","Kurt","Conservative","Conservateur",N,Y,0
+35054,"London--Fanshawe","London--Fanshawe"," 503","Mobile poll/Bureau itinérant",N,N,"506",0,10,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 503","Mobile poll/Bureau itinérant",N,N,"506",0,10,"Naqvi","","Najam","Liberal","Libéral",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 504","Mobile poll/Bureau itinérant",N,N,"",3,591,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,1
+35054,"London--Fanshawe","London--Fanshawe"," 504","Mobile poll/Bureau itinérant",N,N,"",3,591,"Holman","","Kurt","Conservative","Conservateur",N,Y,43
+35054,"London--Fanshawe","London--Fanshawe"," 504","Mobile poll/Bureau itinérant",N,N,"",3,591,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,27
+35054,"London--Fanshawe","London--Fanshawe"," 504","Mobile poll/Bureau itinérant",N,N,"",3,591,"Naqvi","","Najam","Liberal","Libéral",N,N,41
+35054,"London--Fanshawe","London--Fanshawe"," 505","Mobile poll/Bureau itinérant",N,N,"502",0,108,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 505","Mobile poll/Bureau itinérant",N,N,"502",0,108,"Holman","","Kurt","Conservative","Conservateur",N,Y,0
+35054,"London--Fanshawe","London--Fanshawe"," 505","Mobile poll/Bureau itinérant",N,N,"502",0,108,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 505","Mobile poll/Bureau itinérant",N,N,"502",0,108,"Naqvi","","Najam","Liberal","Libéral",N,N,0
+35054,"London--Fanshawe","London--Fanshawe"," 506","Mobile poll/Bureau itinérant",N,N,"",0,156,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,2
+35054,"London--Fanshawe","London--Fanshawe"," 506","Mobile poll/Bureau itinérant",N,N,"",0,156,"Holman","","Kurt","Conservative","Conservateur",N,Y,17
+35054,"London--Fanshawe","London--Fanshawe"," 506","Mobile poll/Bureau itinérant",N,N,"",0,156,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,28
+35054,"London--Fanshawe","London--Fanshawe"," 506","Mobile poll/Bureau itinérant",N,N,"",0,156,"Naqvi","","Najam","Liberal","Libéral",N,N,28
+35054,"London--Fanshawe","London--Fanshawe"," 600","London",N,N,"",8,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,11
+35054,"London--Fanshawe","London--Fanshawe"," 600","London",N,N,"",8,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,445
+35054,"London--Fanshawe","London--Fanshawe"," 600","London",N,N,"",8,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,283
+35054,"London--Fanshawe","London--Fanshawe"," 600","London",N,N,"",8,0,"Naqvi","","Najam","Liberal","Libéral",N,N,479
+35054,"London--Fanshawe","London--Fanshawe"," 601","London",N,N,"",3,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,11
+35054,"London--Fanshawe","London--Fanshawe"," 601","London",N,N,"",3,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,483
+35054,"London--Fanshawe","London--Fanshawe"," 601","London",N,N,"",3,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,285
+35054,"London--Fanshawe","London--Fanshawe"," 601","London",N,N,"",3,0,"Naqvi","","Najam","Liberal","Libéral",N,N,338
+35054,"London--Fanshawe","London--Fanshawe"," 602","London",N,N,"",6,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,17
+35054,"London--Fanshawe","London--Fanshawe"," 602","London",N,N,"",6,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,443
+35054,"London--Fanshawe","London--Fanshawe"," 602","London",N,N,"",6,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,352
+35054,"London--Fanshawe","London--Fanshawe"," 602","London",N,N,"",6,0,"Naqvi","","Najam","Liberal","Libéral",N,N,355
+35054,"London--Fanshawe","London--Fanshawe"," 603","London",N,N,"",21,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,10
+35054,"London--Fanshawe","London--Fanshawe"," 603","London",N,N,"",21,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,429
+35054,"London--Fanshawe","London--Fanshawe"," 603","London",N,N,"",21,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,314
+35054,"London--Fanshawe","London--Fanshawe"," 603","London",N,N,"",21,0,"Naqvi","","Najam","Liberal","Libéral",N,N,303
+35054,"London--Fanshawe","London--Fanshawe"," 604","London",N,N,"",6,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,18
+35054,"London--Fanshawe","London--Fanshawe"," 604","London",N,N,"",6,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,532
+35054,"London--Fanshawe","London--Fanshawe"," 604","London",N,N,"",6,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,388
+35054,"London--Fanshawe","London--Fanshawe"," 604","London",N,N,"",6,0,"Naqvi","","Najam","Liberal","Libéral",N,N,352
+35054,"London--Fanshawe","London--Fanshawe"," 605","London",N,N,"",6,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,8
+35054,"London--Fanshawe","London--Fanshawe"," 605","London",N,N,"",6,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,543
+35054,"London--Fanshawe","London--Fanshawe"," 605","London",N,N,"",6,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,375
+35054,"London--Fanshawe","London--Fanshawe"," 605","London",N,N,"",6,0,"Naqvi","","Najam","Liberal","Libéral",N,N,375
+35054,"London--Fanshawe","London--Fanshawe"," 606","London",N,N,"",8,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,14
+35054,"London--Fanshawe","London--Fanshawe"," 606","London",N,N,"",8,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,555
+35054,"London--Fanshawe","London--Fanshawe"," 606","London",N,N,"",8,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,331
+35054,"London--Fanshawe","London--Fanshawe"," 606","London",N,N,"",8,0,"Naqvi","","Najam","Liberal","Libéral",N,N,366
+35054,"London--Fanshawe","London--Fanshawe"," 607","London",N,N,"",18,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,10
+35054,"London--Fanshawe","London--Fanshawe"," 607","London",N,N,"",18,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,426
+35054,"London--Fanshawe","London--Fanshawe"," 607","London",N,N,"",18,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,365
+35054,"London--Fanshawe","London--Fanshawe"," 607","London",N,N,"",18,0,"Naqvi","","Najam","Liberal","Libéral",N,N,384
+35054,"London--Fanshawe","London--Fanshawe"," 608","London",N,N,"",6,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,11
+35054,"London--Fanshawe","London--Fanshawe"," 608","London",N,N,"",6,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,395
+35054,"London--Fanshawe","London--Fanshawe"," 608","London",N,N,"",6,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,362
+35054,"London--Fanshawe","London--Fanshawe"," 608","London",N,N,"",6,0,"Naqvi","","Najam","Liberal","Libéral",N,N,370
+35054,"London--Fanshawe","London--Fanshawe"," 609","London",N,N,"",10,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,13
+35054,"London--Fanshawe","London--Fanshawe"," 609","London",N,N,"",10,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,420
+35054,"London--Fanshawe","London--Fanshawe"," 609","London",N,N,"",10,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,301
+35054,"London--Fanshawe","London--Fanshawe"," 609","London",N,N,"",10,0,"Naqvi","","Najam","Liberal","Libéral",N,N,408
+35054,"London--Fanshawe","London--Fanshawe"," 610","London",N,N,"",5,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,14
+35054,"London--Fanshawe","London--Fanshawe"," 610","London",N,N,"",5,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,668
+35054,"London--Fanshawe","London--Fanshawe"," 610","London",N,N,"",5,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,388
+35054,"London--Fanshawe","London--Fanshawe"," 610","London",N,N,"",5,0,"Naqvi","","Najam","Liberal","Libéral",N,N,548
+35054,"London--Fanshawe","London--Fanshawe"," 611","London",N,N,"",9,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,18
+35054,"London--Fanshawe","London--Fanshawe"," 611","London",N,N,"",9,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,552
+35054,"London--Fanshawe","London--Fanshawe"," 611","London",N,N,"",9,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,251
+35054,"London--Fanshawe","London--Fanshawe"," 611","London",N,N,"",9,0,"Naqvi","","Najam","Liberal","Libéral",N,N,328
+35054,"London--Fanshawe","London--Fanshawe"," 612","London",N,N,"",11,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,15
+35054,"London--Fanshawe","London--Fanshawe"," 612","London",N,N,"",11,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,397
+35054,"London--Fanshawe","London--Fanshawe"," 612","London",N,N,"",11,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,318
+35054,"London--Fanshawe","London--Fanshawe"," 612","London",N,N,"",11,0,"Naqvi","","Najam","Liberal","Libéral",N,N,422
+35054,"London--Fanshawe","London--Fanshawe"," 613","London",N,N,"",8,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,12
+35054,"London--Fanshawe","London--Fanshawe"," 613","London",N,N,"",8,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,395
+35054,"London--Fanshawe","London--Fanshawe"," 613","London",N,N,"",8,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,294
+35054,"London--Fanshawe","London--Fanshawe"," 613","London",N,N,"",8,0,"Naqvi","","Najam","Liberal","Libéral",N,N,532
+35054,"London--Fanshawe","London--Fanshawe"," 614","London",N,N,"",14,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,10
+35054,"London--Fanshawe","London--Fanshawe"," 614","London",N,N,"",14,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,411
+35054,"London--Fanshawe","London--Fanshawe"," 614","London",N,N,"",14,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,354
+35054,"London--Fanshawe","London--Fanshawe"," 614","London",N,N,"",14,0,"Naqvi","","Najam","Liberal","Libéral",N,N,455
+35054,"London--Fanshawe","London--Fanshawe"," 615","London",N,N,"",11,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,14
+35054,"London--Fanshawe","London--Fanshawe"," 615","London",N,N,"",11,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,491
+35054,"London--Fanshawe","London--Fanshawe"," 615","London",N,N,"",11,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,387
+35054,"London--Fanshawe","London--Fanshawe"," 615","London",N,N,"",11,0,"Naqvi","","Najam","Liberal","Libéral",N,N,369
+35054,"London--Fanshawe","London--Fanshawe"," 616","London",N,N,"",6,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,18
+35054,"London--Fanshawe","London--Fanshawe"," 616","London",N,N,"",6,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,400
+35054,"London--Fanshawe","London--Fanshawe"," 616","London",N,N,"",6,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,369
+35054,"London--Fanshawe","London--Fanshawe"," 616","London",N,N,"",6,0,"Naqvi","","Najam","Liberal","Libéral",N,N,457
+35054,"London--Fanshawe","London--Fanshawe"," 617","London",N,N,"",18,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,15
+35054,"London--Fanshawe","London--Fanshawe"," 617","London",N,N,"",18,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,358
+35054,"London--Fanshawe","London--Fanshawe"," 617","London",N,N,"",18,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,383
+35054,"London--Fanshawe","London--Fanshawe"," 617","London",N,N,"",18,0,"Naqvi","","Najam","Liberal","Libéral",N,N,311
+35054,"London--Fanshawe","London--Fanshawe"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",44,267,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,9
+35054,"London--Fanshawe","London--Fanshawe"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",44,267,"Holman","","Kurt","Conservative","Conservateur",N,Y,206
+35054,"London--Fanshawe","London--Fanshawe"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",44,267,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,175
+35054,"London--Fanshawe","London--Fanshawe"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",44,267,"Naqvi","","Najam","Liberal","Libéral",N,N,247
+35054,"London--Fanshawe","London--Fanshawe"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",85,0,"Buta","","Daniel","People's Party - PPC","Parti populaire - PPC",N,N,11
+35054,"London--Fanshawe","London--Fanshawe"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",85,0,"Holman","","Kurt","Conservative","Conservateur",N,Y,505
+35054,"London--Fanshawe","London--Fanshawe"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",85,0,"Mathyssen","","Lindsay","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,510
+35054,"London--Fanshawe","London--Fanshawe"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",85,0,"Naqvi","","Najam","Liberal","Libéral",N,N,497

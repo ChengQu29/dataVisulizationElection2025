@@ -1,0 +1,985 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+48016,"Edmonton Gateway","Edmonton Gateway"," 1","Edmonton",N,N,"",0,694,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,109
+48016,"Edmonton Gateway","Edmonton Gateway"," 1","Edmonton",N,N,"",0,694,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 1","Edmonton",N,N,"",0,694,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48016,"Edmonton Gateway","Edmonton Gateway"," 1","Edmonton",N,N,"",0,694,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 1","Edmonton",N,N,"",0,694,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 1","Edmonton",N,N,"",0,694,"Uppal","","Tim","Conservative","Conservateur",Y,Y,144
+48016,"Edmonton Gateway","Edmonton Gateway"," 2","Edmonton",N,N,"",2,484,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,97
+48016,"Edmonton Gateway","Edmonton Gateway"," 2","Edmonton",N,N,"",2,484,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 2","Edmonton",N,N,"",2,484,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 2","Edmonton",N,N,"",2,484,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 2","Edmonton",N,N,"",2,484,"Patel","","Ashok","Independent","Indépendant(e)",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 2","Edmonton",N,N,"",2,484,"Uppal","","Tim","Conservative","Conservateur",Y,Y,103
+48016,"Edmonton Gateway","Edmonton Gateway"," 3","Edmonton",N,N,"",1,625,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,74
+48016,"Edmonton Gateway","Edmonton Gateway"," 3","Edmonton",N,N,"",1,625,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 3","Edmonton",N,N,"",1,625,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48016,"Edmonton Gateway","Edmonton Gateway"," 3","Edmonton",N,N,"",1,625,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 3","Edmonton",N,N,"",1,625,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 3","Edmonton",N,N,"",1,625,"Uppal","","Tim","Conservative","Conservateur",Y,Y,120
+48016,"Edmonton Gateway","Edmonton Gateway"," 4","Edmonton",N,N,"",4,692,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,106
+48016,"Edmonton Gateway","Edmonton Gateway"," 4","Edmonton",N,N,"",4,692,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,24
+48016,"Edmonton Gateway","Edmonton Gateway"," 4","Edmonton",N,N,"",4,692,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48016,"Edmonton Gateway","Edmonton Gateway"," 4","Edmonton",N,N,"",4,692,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 4","Edmonton",N,N,"",4,692,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 4","Edmonton",N,N,"",4,692,"Uppal","","Tim","Conservative","Conservateur",Y,Y,105
+48016,"Edmonton Gateway","Edmonton Gateway"," 5","Edmonton",N,N,"",0,715,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,160
+48016,"Edmonton Gateway","Edmonton Gateway"," 5","Edmonton",N,N,"",0,715,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 5","Edmonton",N,N,"",0,715,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48016,"Edmonton Gateway","Edmonton Gateway"," 5","Edmonton",N,N,"",0,715,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 5","Edmonton",N,N,"",0,715,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 5","Edmonton",N,N,"",0,715,"Uppal","","Tim","Conservative","Conservateur",Y,Y,131
+48016,"Edmonton Gateway","Edmonton Gateway"," 6","Edmonton",N,N,"",1,653,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,127
+48016,"Edmonton Gateway","Edmonton Gateway"," 6","Edmonton",N,N,"",1,653,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 6","Edmonton",N,N,"",1,653,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48016,"Edmonton Gateway","Edmonton Gateway"," 6","Edmonton",N,N,"",1,653,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 6","Edmonton",N,N,"",1,653,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 6","Edmonton",N,N,"",1,653,"Uppal","","Tim","Conservative","Conservateur",Y,Y,132
+48016,"Edmonton Gateway","Edmonton Gateway"," 7","Edmonton",N,N,"",2,743,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,108
+48016,"Edmonton Gateway","Edmonton Gateway"," 7","Edmonton",N,N,"",2,743,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 7","Edmonton",N,N,"",2,743,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48016,"Edmonton Gateway","Edmonton Gateway"," 7","Edmonton",N,N,"",2,743,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 7","Edmonton",N,N,"",2,743,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 7","Edmonton",N,N,"",2,743,"Uppal","","Tim","Conservative","Conservateur",Y,Y,187
+48016,"Edmonton Gateway","Edmonton Gateway"," 8","Edmonton",N,N,"",3,440,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,55
+48016,"Edmonton Gateway","Edmonton Gateway"," 8","Edmonton",N,N,"",3,440,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,14
+48016,"Edmonton Gateway","Edmonton Gateway"," 8","Edmonton",N,N,"",3,440,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 8","Edmonton",N,N,"",3,440,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 8","Edmonton",N,N,"",3,440,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 8","Edmonton",N,N,"",3,440,"Uppal","","Tim","Conservative","Conservateur",Y,Y,78
+48016,"Edmonton Gateway","Edmonton Gateway"," 9","Edmonton",N,N,"",3,512,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,70
+48016,"Edmonton Gateway","Edmonton Gateway"," 9","Edmonton",N,N,"",3,512,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 9","Edmonton",N,N,"",3,512,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48016,"Edmonton Gateway","Edmonton Gateway"," 9","Edmonton",N,N,"",3,512,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 9","Edmonton",N,N,"",3,512,"Patel","","Ashok","Independent","Indépendant(e)",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 9","Edmonton",N,N,"",3,512,"Uppal","","Tim","Conservative","Conservateur",Y,Y,75
+48016,"Edmonton Gateway","Edmonton Gateway"," 10","Edmonton",N,N,"",2,371,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,50
+48016,"Edmonton Gateway","Edmonton Gateway"," 10","Edmonton",N,N,"",2,371,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 10","Edmonton",N,N,"",2,371,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 10","Edmonton",N,N,"",2,371,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 10","Edmonton",N,N,"",2,371,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 10","Edmonton",N,N,"",2,371,"Uppal","","Tim","Conservative","Conservateur",Y,Y,46
+48016,"Edmonton Gateway","Edmonton Gateway"," 11","Edmonton",N,N,"",1,510,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,56
+48016,"Edmonton Gateway","Edmonton Gateway"," 11","Edmonton",N,N,"",1,510,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 11","Edmonton",N,N,"",1,510,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 11","Edmonton",N,N,"",1,510,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 11","Edmonton",N,N,"",1,510,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 11","Edmonton",N,N,"",1,510,"Uppal","","Tim","Conservative","Conservateur",Y,Y,98
+48016,"Edmonton Gateway","Edmonton Gateway"," 12","Edmonton",N,N,"",1,439,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,58
+48016,"Edmonton Gateway","Edmonton Gateway"," 12","Edmonton",N,N,"",1,439,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 12","Edmonton",N,N,"",1,439,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48016,"Edmonton Gateway","Edmonton Gateway"," 12","Edmonton",N,N,"",1,439,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 12","Edmonton",N,N,"",1,439,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 12","Edmonton",N,N,"",1,439,"Uppal","","Tim","Conservative","Conservateur",Y,Y,68
+48016,"Edmonton Gateway","Edmonton Gateway"," 13","Edmonton",N,N,"",2,624,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,63
+48016,"Edmonton Gateway","Edmonton Gateway"," 13","Edmonton",N,N,"",2,624,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 13","Edmonton",N,N,"",2,624,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 13","Edmonton",N,N,"",2,624,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 13","Edmonton",N,N,"",2,624,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 13","Edmonton",N,N,"",2,624,"Uppal","","Tim","Conservative","Conservateur",Y,Y,139
+48016,"Edmonton Gateway","Edmonton Gateway"," 14A","Edmonton",N,N,"14B",0,413,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 14A","Edmonton",N,N,"14B",0,413,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 14A","Edmonton",N,N,"14B",0,413,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 14A","Edmonton",N,N,"14B",0,413,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 14A","Edmonton",N,N,"14B",0,413,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 14A","Edmonton",N,N,"14B",0,413,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 14B","Edmonton",N,N,"",1,433,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,94
+48016,"Edmonton Gateway","Edmonton Gateway"," 14B","Edmonton",N,N,"",1,433,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,26
+48016,"Edmonton Gateway","Edmonton Gateway"," 14B","Edmonton",N,N,"",1,433,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 14B","Edmonton",N,N,"",1,433,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 14B","Edmonton",N,N,"",1,433,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 14B","Edmonton",N,N,"",1,433,"Uppal","","Tim","Conservative","Conservateur",Y,Y,121
+48016,"Edmonton Gateway","Edmonton Gateway"," 15","Edmonton",N,N,"",1,610,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,65
+48016,"Edmonton Gateway","Edmonton Gateway"," 15","Edmonton",N,N,"",1,610,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,23
+48016,"Edmonton Gateway","Edmonton Gateway"," 15","Edmonton",N,N,"",1,610,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 15","Edmonton",N,N,"",1,610,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 15","Edmonton",N,N,"",1,610,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 15","Edmonton",N,N,"",1,610,"Uppal","","Tim","Conservative","Conservateur",Y,Y,79
+48016,"Edmonton Gateway","Edmonton Gateway"," 16","Edmonton",N,N,"",0,431,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,63
+48016,"Edmonton Gateway","Edmonton Gateway"," 16","Edmonton",N,N,"",0,431,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 16","Edmonton",N,N,"",0,431,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 16","Edmonton",N,N,"",0,431,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 16","Edmonton",N,N,"",0,431,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 16","Edmonton",N,N,"",0,431,"Uppal","","Tim","Conservative","Conservateur",Y,Y,71
+48016,"Edmonton Gateway","Edmonton Gateway"," 17","Edmonton",N,N,"",0,430,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,49
+48016,"Edmonton Gateway","Edmonton Gateway"," 17","Edmonton",N,N,"",0,430,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 17","Edmonton",N,N,"",0,430,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 17","Edmonton",N,N,"",0,430,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 17","Edmonton",N,N,"",0,430,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 17","Edmonton",N,N,"",0,430,"Uppal","","Tim","Conservative","Conservateur",Y,Y,51
+48016,"Edmonton Gateway","Edmonton Gateway"," 18","Edmonton",N,N,"",0,408,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,48
+48016,"Edmonton Gateway","Edmonton Gateway"," 18","Edmonton",N,N,"",0,408,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 18","Edmonton",N,N,"",0,408,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 18","Edmonton",N,N,"",0,408,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 18","Edmonton",N,N,"",0,408,"Patel","","Ashok","Independent","Indépendant(e)",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 18","Edmonton",N,N,"",0,408,"Uppal","","Tim","Conservative","Conservateur",Y,Y,57
+48016,"Edmonton Gateway","Edmonton Gateway"," 19","Edmonton",N,N,"",1,437,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,58
+48016,"Edmonton Gateway","Edmonton Gateway"," 19","Edmonton",N,N,"",1,437,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 19","Edmonton",N,N,"",1,437,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 19","Edmonton",N,N,"",1,437,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 19","Edmonton",N,N,"",1,437,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 19","Edmonton",N,N,"",1,437,"Uppal","","Tim","Conservative","Conservateur",Y,Y,76
+48016,"Edmonton Gateway","Edmonton Gateway"," 20","Edmonton",N,N,"",2,608,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,75
+48016,"Edmonton Gateway","Edmonton Gateway"," 20","Edmonton",N,N,"",2,608,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,24
+48016,"Edmonton Gateway","Edmonton Gateway"," 20","Edmonton",N,N,"",2,608,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48016,"Edmonton Gateway","Edmonton Gateway"," 20","Edmonton",N,N,"",2,608,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 20","Edmonton",N,N,"",2,608,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 20","Edmonton",N,N,"",2,608,"Uppal","","Tim","Conservative","Conservateur",Y,Y,145
+48016,"Edmonton Gateway","Edmonton Gateway"," 21","Edmonton",N,N,"",4,600,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,88
+48016,"Edmonton Gateway","Edmonton Gateway"," 21","Edmonton",N,N,"",4,600,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 21","Edmonton",N,N,"",4,600,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48016,"Edmonton Gateway","Edmonton Gateway"," 21","Edmonton",N,N,"",4,600,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 21","Edmonton",N,N,"",4,600,"Patel","","Ashok","Independent","Indépendant(e)",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 21","Edmonton",N,N,"",4,600,"Uppal","","Tim","Conservative","Conservateur",Y,Y,114
+48016,"Edmonton Gateway","Edmonton Gateway"," 22","Edmonton",N,N,"",0,573,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,89
+48016,"Edmonton Gateway","Edmonton Gateway"," 22","Edmonton",N,N,"",0,573,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 22","Edmonton",N,N,"",0,573,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48016,"Edmonton Gateway","Edmonton Gateway"," 22","Edmonton",N,N,"",0,573,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 22","Edmonton",N,N,"",0,573,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 22","Edmonton",N,N,"",0,573,"Uppal","","Tim","Conservative","Conservateur",Y,Y,101
+48016,"Edmonton Gateway","Edmonton Gateway"," 23","Edmonton",N,N,"",1,694,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,103
+48016,"Edmonton Gateway","Edmonton Gateway"," 23","Edmonton",N,N,"",1,694,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 23","Edmonton",N,N,"",1,694,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 23","Edmonton",N,N,"",1,694,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 23","Edmonton",N,N,"",1,694,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 23","Edmonton",N,N,"",1,694,"Uppal","","Tim","Conservative","Conservateur",Y,Y,107
+48016,"Edmonton Gateway","Edmonton Gateway"," 24A","Edmonton",N,N,"",2,484,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,115
+48016,"Edmonton Gateway","Edmonton Gateway"," 24A","Edmonton",N,N,"",2,484,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 24A","Edmonton",N,N,"",2,484,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48016,"Edmonton Gateway","Edmonton Gateway"," 24A","Edmonton",N,N,"",2,484,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 24A","Edmonton",N,N,"",2,484,"Patel","","Ashok","Independent","Indépendant(e)",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 24A","Edmonton",N,N,"",2,484,"Uppal","","Tim","Conservative","Conservateur",Y,Y,121
+48016,"Edmonton Gateway","Edmonton Gateway"," 24B","Edmonton",N,N,"24A",0,431,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 24B","Edmonton",N,N,"24A",0,431,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 24B","Edmonton",N,N,"24A",0,431,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 24B","Edmonton",N,N,"24A",0,431,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 24B","Edmonton",N,N,"24A",0,431,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 24B","Edmonton",N,N,"24A",0,431,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 25A","Edmonton",N,N,"",3,669,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,100
+48016,"Edmonton Gateway","Edmonton Gateway"," 25A","Edmonton",N,N,"",3,669,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 25A","Edmonton",N,N,"",3,669,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48016,"Edmonton Gateway","Edmonton Gateway"," 25A","Edmonton",N,N,"",3,669,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 25A","Edmonton",N,N,"",3,669,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 25A","Edmonton",N,N,"",3,669,"Uppal","","Tim","Conservative","Conservateur",Y,Y,113
+48016,"Edmonton Gateway","Edmonton Gateway"," 25B","Mobile poll/Bureau itinérant",N,N,"502",0,9,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 25B","Mobile poll/Bureau itinérant",N,N,"502",0,9,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 25B","Mobile poll/Bureau itinérant",N,N,"502",0,9,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 25B","Mobile poll/Bureau itinérant",N,N,"502",0,9,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 25B","Mobile poll/Bureau itinérant",N,N,"502",0,9,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 25B","Mobile poll/Bureau itinérant",N,N,"502",0,9,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 26","Edmonton",N,N,"",1,727,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,96
+48016,"Edmonton Gateway","Edmonton Gateway"," 26","Edmonton",N,N,"",1,727,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 26","Edmonton",N,N,"",1,727,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 26","Edmonton",N,N,"",1,727,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 26","Edmonton",N,N,"",1,727,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 26","Edmonton",N,N,"",1,727,"Uppal","","Tim","Conservative","Conservateur",Y,Y,83
+48016,"Edmonton Gateway","Edmonton Gateway"," 27","Edmonton",N,N,"",3,609,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,97
+48016,"Edmonton Gateway","Edmonton Gateway"," 27","Edmonton",N,N,"",3,609,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 27","Edmonton",N,N,"",3,609,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 27","Edmonton",N,N,"",3,609,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 27","Edmonton",N,N,"",3,609,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 27","Edmonton",N,N,"",3,609,"Uppal","","Tim","Conservative","Conservateur",Y,Y,95
+48016,"Edmonton Gateway","Edmonton Gateway"," 28","Edmonton",N,N,"",3,643,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,81
+48016,"Edmonton Gateway","Edmonton Gateway"," 28","Edmonton",N,N,"",3,643,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 28","Edmonton",N,N,"",3,643,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48016,"Edmonton Gateway","Edmonton Gateway"," 28","Edmonton",N,N,"",3,643,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 28","Edmonton",N,N,"",3,643,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 28","Edmonton",N,N,"",3,643,"Uppal","","Tim","Conservative","Conservateur",Y,Y,101
+48016,"Edmonton Gateway","Edmonton Gateway"," 29","Edmonton",N,N,"",0,579,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,67
+48016,"Edmonton Gateway","Edmonton Gateway"," 29","Edmonton",N,N,"",0,579,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 29","Edmonton",N,N,"",0,579,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 29","Edmonton",N,N,"",0,579,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 29","Edmonton",N,N,"",0,579,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 29","Edmonton",N,N,"",0,579,"Uppal","","Tim","Conservative","Conservateur",Y,Y,92
+48016,"Edmonton Gateway","Edmonton Gateway"," 30","Edmonton",N,N,"",2,726,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,92
+48016,"Edmonton Gateway","Edmonton Gateway"," 30","Edmonton",N,N,"",2,726,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 30","Edmonton",N,N,"",2,726,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48016,"Edmonton Gateway","Edmonton Gateway"," 30","Edmonton",N,N,"",2,726,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 30","Edmonton",N,N,"",2,726,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 30","Edmonton",N,N,"",2,726,"Uppal","","Tim","Conservative","Conservateur",Y,Y,161
+48016,"Edmonton Gateway","Edmonton Gateway"," 31","Edmonton",N,N,"",2,753,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,96
+48016,"Edmonton Gateway","Edmonton Gateway"," 31","Edmonton",N,N,"",2,753,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 31","Edmonton",N,N,"",2,753,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48016,"Edmonton Gateway","Edmonton Gateway"," 31","Edmonton",N,N,"",2,753,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 31","Edmonton",N,N,"",2,753,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 31","Edmonton",N,N,"",2,753,"Uppal","","Tim","Conservative","Conservateur",Y,Y,114
+48016,"Edmonton Gateway","Edmonton Gateway"," 32","Edmonton",N,N,"",2,621,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,81
+48016,"Edmonton Gateway","Edmonton Gateway"," 32","Edmonton",N,N,"",2,621,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 32","Edmonton",N,N,"",2,621,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+48016,"Edmonton Gateway","Edmonton Gateway"," 32","Edmonton",N,N,"",2,621,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 32","Edmonton",N,N,"",2,621,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 32","Edmonton",N,N,"",2,621,"Uppal","","Tim","Conservative","Conservateur",Y,Y,131
+48016,"Edmonton Gateway","Edmonton Gateway"," 33","Edmonton",N,N,"",2,578,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,109
+48016,"Edmonton Gateway","Edmonton Gateway"," 33","Edmonton",N,N,"",2,578,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 33","Edmonton",N,N,"",2,578,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 33","Edmonton",N,N,"",2,578,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 33","Edmonton",N,N,"",2,578,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 33","Edmonton",N,N,"",2,578,"Uppal","","Tim","Conservative","Conservateur",Y,Y,112
+48016,"Edmonton Gateway","Edmonton Gateway"," 34","Edmonton",N,N,"",2,404,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,71
+48016,"Edmonton Gateway","Edmonton Gateway"," 34","Edmonton",N,N,"",2,404,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 34","Edmonton",N,N,"",2,404,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48016,"Edmonton Gateway","Edmonton Gateway"," 34","Edmonton",N,N,"",2,404,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 34","Edmonton",N,N,"",2,404,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 34","Edmonton",N,N,"",2,404,"Uppal","","Tim","Conservative","Conservateur",Y,Y,83
+48016,"Edmonton Gateway","Edmonton Gateway"," 35","Edmonton",N,N,"",2,485,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,79
+48016,"Edmonton Gateway","Edmonton Gateway"," 35","Edmonton",N,N,"",2,485,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 35","Edmonton",N,N,"",2,485,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48016,"Edmonton Gateway","Edmonton Gateway"," 35","Edmonton",N,N,"",2,485,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 35","Edmonton",N,N,"",2,485,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 35","Edmonton",N,N,"",2,485,"Uppal","","Tim","Conservative","Conservateur",Y,Y,126
+48016,"Edmonton Gateway","Edmonton Gateway"," 36","Edmonton",N,N,"",1,623,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,93
+48016,"Edmonton Gateway","Edmonton Gateway"," 36","Edmonton",N,N,"",1,623,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 36","Edmonton",N,N,"",1,623,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 36","Edmonton",N,N,"",1,623,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 36","Edmonton",N,N,"",1,623,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 36","Edmonton",N,N,"",1,623,"Uppal","","Tim","Conservative","Conservateur",Y,Y,69
+48016,"Edmonton Gateway","Edmonton Gateway"," 37","Edmonton",N,N,"",1,714,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,96
+48016,"Edmonton Gateway","Edmonton Gateway"," 37","Edmonton",N,N,"",1,714,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 37","Edmonton",N,N,"",1,714,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 37","Edmonton",N,N,"",1,714,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 37","Edmonton",N,N,"",1,714,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 37","Edmonton",N,N,"",1,714,"Uppal","","Tim","Conservative","Conservateur",Y,Y,101
+48016,"Edmonton Gateway","Edmonton Gateway"," 38","Edmonton",N,N,"",3,641,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,79
+48016,"Edmonton Gateway","Edmonton Gateway"," 38","Edmonton",N,N,"",3,641,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 38","Edmonton",N,N,"",3,641,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 38","Edmonton",N,N,"",3,641,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 38","Edmonton",N,N,"",3,641,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 38","Edmonton",N,N,"",3,641,"Uppal","","Tim","Conservative","Conservateur",Y,Y,130
+48016,"Edmonton Gateway","Edmonton Gateway"," 39","Edmonton",N,N,"",0,602,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,101
+48016,"Edmonton Gateway","Edmonton Gateway"," 39","Edmonton",N,N,"",0,602,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 39","Edmonton",N,N,"",0,602,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48016,"Edmonton Gateway","Edmonton Gateway"," 39","Edmonton",N,N,"",0,602,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 39","Edmonton",N,N,"",0,602,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 39","Edmonton",N,N,"",0,602,"Uppal","","Tim","Conservative","Conservateur",Y,Y,183
+48016,"Edmonton Gateway","Edmonton Gateway"," 40","Edmonton",N,N,"",2,651,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,58
+48016,"Edmonton Gateway","Edmonton Gateway"," 40","Edmonton",N,N,"",2,651,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 40","Edmonton",N,N,"",2,651,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48016,"Edmonton Gateway","Edmonton Gateway"," 40","Edmonton",N,N,"",2,651,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 40","Edmonton",N,N,"",2,651,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 40","Edmonton",N,N,"",2,651,"Uppal","","Tim","Conservative","Conservateur",Y,Y,134
+48016,"Edmonton Gateway","Edmonton Gateway"," 41","Edmonton",N,N,"",2,450,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,41
+48016,"Edmonton Gateway","Edmonton Gateway"," 41","Edmonton",N,N,"",2,450,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 41","Edmonton",N,N,"",2,450,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 41","Edmonton",N,N,"",2,450,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 41","Edmonton",N,N,"",2,450,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 41","Edmonton",N,N,"",2,450,"Uppal","","Tim","Conservative","Conservateur",Y,Y,85
+48016,"Edmonton Gateway","Edmonton Gateway"," 42","Edmonton",N,N,"",2,457,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,77
+48016,"Edmonton Gateway","Edmonton Gateway"," 42","Edmonton",N,N,"",2,457,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 42","Edmonton",N,N,"",2,457,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48016,"Edmonton Gateway","Edmonton Gateway"," 42","Edmonton",N,N,"",2,457,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 42","Edmonton",N,N,"",2,457,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 42","Edmonton",N,N,"",2,457,"Uppal","","Tim","Conservative","Conservateur",Y,Y,101
+48016,"Edmonton Gateway","Edmonton Gateway"," 43","Edmonton",N,N,"",2,466,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,77
+48016,"Edmonton Gateway","Edmonton Gateway"," 43","Edmonton",N,N,"",2,466,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 43","Edmonton",N,N,"",2,466,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 43","Edmonton",N,N,"",2,466,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 43","Edmonton",N,N,"",2,466,"Patel","","Ashok","Independent","Indépendant(e)",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 43","Edmonton",N,N,"",2,466,"Uppal","","Tim","Conservative","Conservateur",Y,Y,122
+48016,"Edmonton Gateway","Edmonton Gateway"," 44","Edmonton",N,N,"",1,397,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,50
+48016,"Edmonton Gateway","Edmonton Gateway"," 44","Edmonton",N,N,"",1,397,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 44","Edmonton",N,N,"",1,397,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 44","Edmonton",N,N,"",1,397,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 44","Edmonton",N,N,"",1,397,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 44","Edmonton",N,N,"",1,397,"Uppal","","Tim","Conservative","Conservateur",Y,Y,83
+48016,"Edmonton Gateway","Edmonton Gateway"," 45","Edmonton",N,N,"",0,374,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,69
+48016,"Edmonton Gateway","Edmonton Gateway"," 45","Edmonton",N,N,"",0,374,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 45","Edmonton",N,N,"",0,374,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48016,"Edmonton Gateway","Edmonton Gateway"," 45","Edmonton",N,N,"",0,374,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 45","Edmonton",N,N,"",0,374,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 45","Edmonton",N,N,"",0,374,"Uppal","","Tim","Conservative","Conservateur",Y,Y,76
+48016,"Edmonton Gateway","Edmonton Gateway"," 46","Edmonton",N,N,"",0,450,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,57
+48016,"Edmonton Gateway","Edmonton Gateway"," 46","Edmonton",N,N,"",0,450,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 46","Edmonton",N,N,"",0,450,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 46","Edmonton",N,N,"",0,450,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 46","Edmonton",N,N,"",0,450,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 46","Edmonton",N,N,"",0,450,"Uppal","","Tim","Conservative","Conservateur",Y,Y,85
+48016,"Edmonton Gateway","Edmonton Gateway"," 47","Edmonton",N,N,"",0,746,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,96
+48016,"Edmonton Gateway","Edmonton Gateway"," 47","Edmonton",N,N,"",0,746,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 47","Edmonton",N,N,"",0,746,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 47","Edmonton",N,N,"",0,746,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 47","Edmonton",N,N,"",0,746,"Patel","","Ashok","Independent","Indépendant(e)",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 47","Edmonton",N,N,"",0,746,"Uppal","","Tim","Conservative","Conservateur",Y,Y,152
+48016,"Edmonton Gateway","Edmonton Gateway"," 48","Edmonton",N,N,"",0,734,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,104
+48016,"Edmonton Gateway","Edmonton Gateway"," 48","Edmonton",N,N,"",0,734,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 48","Edmonton",N,N,"",0,734,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 48","Edmonton",N,N,"",0,734,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 48","Edmonton",N,N,"",0,734,"Patel","","Ashok","Independent","Indépendant(e)",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 48","Edmonton",N,N,"",0,734,"Uppal","","Tim","Conservative","Conservateur",Y,Y,126
+48016,"Edmonton Gateway","Edmonton Gateway"," 49","Edmonton",N,N,"",2,524,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,56
+48016,"Edmonton Gateway","Edmonton Gateway"," 49","Edmonton",N,N,"",2,524,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 49","Edmonton",N,N,"",2,524,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48016,"Edmonton Gateway","Edmonton Gateway"," 49","Edmonton",N,N,"",2,524,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 49","Edmonton",N,N,"",2,524,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 49","Edmonton",N,N,"",2,524,"Uppal","","Tim","Conservative","Conservateur",Y,Y,120
+48016,"Edmonton Gateway","Edmonton Gateway"," 50","Edmonton",N,N,"",0,376,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,48
+48016,"Edmonton Gateway","Edmonton Gateway"," 50","Edmonton",N,N,"",0,376,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 50","Edmonton",N,N,"",0,376,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 50","Edmonton",N,N,"",0,376,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 50","Edmonton",N,N,"",0,376,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 50","Edmonton",N,N,"",0,376,"Uppal","","Tim","Conservative","Conservateur",Y,Y,80
+48016,"Edmonton Gateway","Edmonton Gateway"," 51","Edmonton",N,N,"",1,420,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,69
+48016,"Edmonton Gateway","Edmonton Gateway"," 51","Edmonton",N,N,"",1,420,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 51","Edmonton",N,N,"",1,420,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 51","Edmonton",N,N,"",1,420,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 51","Edmonton",N,N,"",1,420,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 51","Edmonton",N,N,"",1,420,"Uppal","","Tim","Conservative","Conservateur",Y,Y,113
+48016,"Edmonton Gateway","Edmonton Gateway"," 52","Edmonton",N,N,"",0,692,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,91
+48016,"Edmonton Gateway","Edmonton Gateway"," 52","Edmonton",N,N,"",0,692,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 52","Edmonton",N,N,"",0,692,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48016,"Edmonton Gateway","Edmonton Gateway"," 52","Edmonton",N,N,"",0,692,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 52","Edmonton",N,N,"",0,692,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 52","Edmonton",N,N,"",0,692,"Uppal","","Tim","Conservative","Conservateur",Y,Y,169
+48016,"Edmonton Gateway","Edmonton Gateway"," 53","Edmonton",N,N,"",0,572,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,61
+48016,"Edmonton Gateway","Edmonton Gateway"," 53","Edmonton",N,N,"",0,572,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 53","Edmonton",N,N,"",0,572,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 53","Edmonton",N,N,"",0,572,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 53","Edmonton",N,N,"",0,572,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 53","Edmonton",N,N,"",0,572,"Uppal","","Tim","Conservative","Conservateur",Y,Y,101
+48016,"Edmonton Gateway","Edmonton Gateway"," 54","Edmonton",N,N,"",0,429,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,52
+48016,"Edmonton Gateway","Edmonton Gateway"," 54","Edmonton",N,N,"",0,429,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 54","Edmonton",N,N,"",0,429,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 54","Edmonton",N,N,"",0,429,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 54","Edmonton",N,N,"",0,429,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 54","Edmonton",N,N,"",0,429,"Uppal","","Tim","Conservative","Conservateur",Y,Y,65
+48016,"Edmonton Gateway","Edmonton Gateway"," 55","Edmonton",N,N,"",1,613,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,80
+48016,"Edmonton Gateway","Edmonton Gateway"," 55","Edmonton",N,N,"",1,613,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 55","Edmonton",N,N,"",1,613,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 55","Edmonton",N,N,"",1,613,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 55","Edmonton",N,N,"",1,613,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 55","Edmonton",N,N,"",1,613,"Uppal","","Tim","Conservative","Conservateur",Y,Y,114
+48016,"Edmonton Gateway","Edmonton Gateway"," 56","Edmonton",N,N,"",0,529,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,53
+48016,"Edmonton Gateway","Edmonton Gateway"," 56","Edmonton",N,N,"",0,529,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 56","Edmonton",N,N,"",0,529,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 56","Edmonton",N,N,"",0,529,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 56","Edmonton",N,N,"",0,529,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 56","Edmonton",N,N,"",0,529,"Uppal","","Tim","Conservative","Conservateur",Y,Y,94
+48016,"Edmonton Gateway","Edmonton Gateway"," 57","Edmonton",N,N,"",0,591,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,62
+48016,"Edmonton Gateway","Edmonton Gateway"," 57","Edmonton",N,N,"",0,591,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 57","Edmonton",N,N,"",0,591,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 57","Edmonton",N,N,"",0,591,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 57","Edmonton",N,N,"",0,591,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 57","Edmonton",N,N,"",0,591,"Uppal","","Tim","Conservative","Conservateur",Y,Y,84
+48016,"Edmonton Gateway","Edmonton Gateway"," 58","Edmonton",N,N,"",0,380,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,37
+48016,"Edmonton Gateway","Edmonton Gateway"," 58","Edmonton",N,N,"",0,380,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 58","Edmonton",N,N,"",0,380,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 58","Edmonton",N,N,"",0,380,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 58","Edmonton",N,N,"",0,380,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 58","Edmonton",N,N,"",0,380,"Uppal","","Tim","Conservative","Conservateur",Y,Y,67
+48016,"Edmonton Gateway","Edmonton Gateway"," 59","Edmonton",N,N,"",2,666,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,76
+48016,"Edmonton Gateway","Edmonton Gateway"," 59","Edmonton",N,N,"",2,666,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 59","Edmonton",N,N,"",2,666,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 59","Edmonton",N,N,"",2,666,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 59","Edmonton",N,N,"",2,666,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 59","Edmonton",N,N,"",2,666,"Uppal","","Tim","Conservative","Conservateur",Y,Y,106
+48016,"Edmonton Gateway","Edmonton Gateway"," 60","Edmonton",N,N,"",1,780,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,101
+48016,"Edmonton Gateway","Edmonton Gateway"," 60","Edmonton",N,N,"",1,780,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 60","Edmonton",N,N,"",1,780,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 60","Edmonton",N,N,"",1,780,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 60","Edmonton",N,N,"",1,780,"Patel","","Ashok","Independent","Indépendant(e)",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 60","Edmonton",N,N,"",1,780,"Uppal","","Tim","Conservative","Conservateur",Y,Y,115
+48016,"Edmonton Gateway","Edmonton Gateway"," 61","Edmonton",N,N,"",0,440,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,48
+48016,"Edmonton Gateway","Edmonton Gateway"," 61","Edmonton",N,N,"",0,440,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 61","Edmonton",N,N,"",0,440,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 61","Edmonton",N,N,"",0,440,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 61","Edmonton",N,N,"",0,440,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 61","Edmonton",N,N,"",0,440,"Uppal","","Tim","Conservative","Conservateur",Y,Y,66
+48016,"Edmonton Gateway","Edmonton Gateway"," 62","Edmonton",N,N,"",0,741,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,114
+48016,"Edmonton Gateway","Edmonton Gateway"," 62","Edmonton",N,N,"",0,741,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 62","Edmonton",N,N,"",0,741,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48016,"Edmonton Gateway","Edmonton Gateway"," 62","Edmonton",N,N,"",0,741,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 62","Edmonton",N,N,"",0,741,"Patel","","Ashok","Independent","Indépendant(e)",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 62","Edmonton",N,N,"",0,741,"Uppal","","Tim","Conservative","Conservateur",Y,Y,103
+48016,"Edmonton Gateway","Edmonton Gateway"," 63","Edmonton",N,N,"",2,519,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,66
+48016,"Edmonton Gateway","Edmonton Gateway"," 63","Edmonton",N,N,"",2,519,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 63","Edmonton",N,N,"",2,519,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 63","Edmonton",N,N,"",2,519,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 63","Edmonton",N,N,"",2,519,"Patel","","Ashok","Independent","Indépendant(e)",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 63","Edmonton",N,N,"",2,519,"Uppal","","Tim","Conservative","Conservateur",Y,Y,88
+48016,"Edmonton Gateway","Edmonton Gateway"," 64","Edmonton",N,N,"",0,730,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,103
+48016,"Edmonton Gateway","Edmonton Gateway"," 64","Edmonton",N,N,"",0,730,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,24
+48016,"Edmonton Gateway","Edmonton Gateway"," 64","Edmonton",N,N,"",0,730,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 64","Edmonton",N,N,"",0,730,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 64","Edmonton",N,N,"",0,730,"Patel","","Ashok","Independent","Indépendant(e)",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 64","Edmonton",N,N,"",0,730,"Uppal","","Tim","Conservative","Conservateur",Y,Y,111
+48016,"Edmonton Gateway","Edmonton Gateway"," 65","Edmonton",N,N,"",2,817,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,79
+48016,"Edmonton Gateway","Edmonton Gateway"," 65","Edmonton",N,N,"",2,817,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 65","Edmonton",N,N,"",2,817,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 65","Edmonton",N,N,"",2,817,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 65","Edmonton",N,N,"",2,817,"Patel","","Ashok","Independent","Indépendant(e)",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 65","Edmonton",N,N,"",2,817,"Uppal","","Tim","Conservative","Conservateur",Y,Y,108
+48016,"Edmonton Gateway","Edmonton Gateway"," 66","Edmonton",N,N,"",0,500,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,63
+48016,"Edmonton Gateway","Edmonton Gateway"," 66","Edmonton",N,N,"",0,500,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 66","Edmonton",N,N,"",0,500,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 66","Edmonton",N,N,"",0,500,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 66","Edmonton",N,N,"",0,500,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 66","Edmonton",N,N,"",0,500,"Uppal","","Tim","Conservative","Conservateur",Y,Y,92
+48016,"Edmonton Gateway","Edmonton Gateway"," 67","Edmonton",N,N,"",0,534,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,53
+48016,"Edmonton Gateway","Edmonton Gateway"," 67","Edmonton",N,N,"",0,534,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 67","Edmonton",N,N,"",0,534,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 67","Edmonton",N,N,"",0,534,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 67","Edmonton",N,N,"",0,534,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 67","Edmonton",N,N,"",0,534,"Uppal","","Tim","Conservative","Conservateur",Y,Y,105
+48016,"Edmonton Gateway","Edmonton Gateway"," 68","Edmonton",N,N,"",0,830,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,130
+48016,"Edmonton Gateway","Edmonton Gateway"," 68","Edmonton",N,N,"",0,830,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,21
+48016,"Edmonton Gateway","Edmonton Gateway"," 68","Edmonton",N,N,"",0,830,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48016,"Edmonton Gateway","Edmonton Gateway"," 68","Edmonton",N,N,"",0,830,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 68","Edmonton",N,N,"",0,830,"Patel","","Ashok","Independent","Indépendant(e)",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 68","Edmonton",N,N,"",0,830,"Uppal","","Tim","Conservative","Conservateur",Y,Y,185
+48016,"Edmonton Gateway","Edmonton Gateway"," 69","Edmonton",N,N,"",1,414,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,56
+48016,"Edmonton Gateway","Edmonton Gateway"," 69","Edmonton",N,N,"",1,414,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 69","Edmonton",N,N,"",1,414,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 69","Edmonton",N,N,"",1,414,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 69","Edmonton",N,N,"",1,414,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 69","Edmonton",N,N,"",1,414,"Uppal","","Tim","Conservative","Conservateur",Y,Y,98
+48016,"Edmonton Gateway","Edmonton Gateway"," 70","Edmonton",N,N,"",0,414,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,48
+48016,"Edmonton Gateway","Edmonton Gateway"," 70","Edmonton",N,N,"",0,414,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 70","Edmonton",N,N,"",0,414,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 70","Edmonton",N,N,"",0,414,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 70","Edmonton",N,N,"",0,414,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 70","Edmonton",N,N,"",0,414,"Uppal","","Tim","Conservative","Conservateur",Y,Y,71
+48016,"Edmonton Gateway","Edmonton Gateway"," 71","Edmonton",N,N,"",2,456,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,54
+48016,"Edmonton Gateway","Edmonton Gateway"," 71","Edmonton",N,N,"",2,456,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 71","Edmonton",N,N,"",2,456,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 71","Edmonton",N,N,"",2,456,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 71","Edmonton",N,N,"",2,456,"Patel","","Ashok","Independent","Indépendant(e)",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 71","Edmonton",N,N,"",2,456,"Uppal","","Tim","Conservative","Conservateur",Y,Y,90
+48016,"Edmonton Gateway","Edmonton Gateway"," 72","Edmonton",N,N,"",1,434,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,44
+48016,"Edmonton Gateway","Edmonton Gateway"," 72","Edmonton",N,N,"",1,434,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 72","Edmonton",N,N,"",1,434,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 72","Edmonton",N,N,"",1,434,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 72","Edmonton",N,N,"",1,434,"Patel","","Ashok","Independent","Indépendant(e)",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 72","Edmonton",N,N,"",1,434,"Uppal","","Tim","Conservative","Conservateur",Y,Y,72
+48016,"Edmonton Gateway","Edmonton Gateway"," 73","Edmonton",N,N,"",0,715,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,94
+48016,"Edmonton Gateway","Edmonton Gateway"," 73","Edmonton",N,N,"",0,715,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 73","Edmonton",N,N,"",0,715,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 73","Edmonton",N,N,"",0,715,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 73","Edmonton",N,N,"",0,715,"Patel","","Ashok","Independent","Indépendant(e)",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 73","Edmonton",N,N,"",0,715,"Uppal","","Tim","Conservative","Conservateur",Y,Y,114
+48016,"Edmonton Gateway","Edmonton Gateway"," 74","Edmonton",N,N,"",1,780,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,77
+48016,"Edmonton Gateway","Edmonton Gateway"," 74","Edmonton",N,N,"",1,780,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 74","Edmonton",N,N,"",1,780,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 74","Edmonton",N,N,"",1,780,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 74","Edmonton",N,N,"",1,780,"Patel","","Ashok","Independent","Indépendant(e)",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 74","Edmonton",N,N,"",1,780,"Uppal","","Tim","Conservative","Conservateur",Y,Y,142
+48016,"Edmonton Gateway","Edmonton Gateway"," 75A","Edmonton",N,N,"75B",0,477,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 75A","Edmonton",N,N,"75B",0,477,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 75A","Edmonton",N,N,"75B",0,477,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 75A","Edmonton",N,N,"75B",0,477,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 75A","Edmonton",N,N,"75B",0,477,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 75A","Edmonton",N,N,"75B",0,477,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 75B","Edmonton",N,N,"",1,438,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,113
+48016,"Edmonton Gateway","Edmonton Gateway"," 75B","Edmonton",N,N,"",1,438,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 75B","Edmonton",N,N,"",1,438,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48016,"Edmonton Gateway","Edmonton Gateway"," 75B","Edmonton",N,N,"",1,438,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 75B","Edmonton",N,N,"",1,438,"Patel","","Ashok","Independent","Indépendant(e)",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 75B","Edmonton",N,N,"",1,438,"Uppal","","Tim","Conservative","Conservateur",Y,Y,171
+48016,"Edmonton Gateway","Edmonton Gateway"," 76","Edmonton",N,N,"",0,458,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,66
+48016,"Edmonton Gateway","Edmonton Gateway"," 76","Edmonton",N,N,"",0,458,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 76","Edmonton",N,N,"",0,458,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 76","Edmonton",N,N,"",0,458,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 76","Edmonton",N,N,"",0,458,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 76","Edmonton",N,N,"",0,458,"Uppal","","Tim","Conservative","Conservateur",Y,Y,67
+48016,"Edmonton Gateway","Edmonton Gateway"," 77","Edmonton",N,N,"",2,476,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,69
+48016,"Edmonton Gateway","Edmonton Gateway"," 77","Edmonton",N,N,"",2,476,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 77","Edmonton",N,N,"",2,476,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 77","Edmonton",N,N,"",2,476,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 77","Edmonton",N,N,"",2,476,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 77","Edmonton",N,N,"",2,476,"Uppal","","Tim","Conservative","Conservateur",Y,Y,100
+48016,"Edmonton Gateway","Edmonton Gateway"," 78","Edmonton",N,N,"",0,439,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,50
+48016,"Edmonton Gateway","Edmonton Gateway"," 78","Edmonton",N,N,"",0,439,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 78","Edmonton",N,N,"",0,439,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 78","Edmonton",N,N,"",0,439,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 78","Edmonton",N,N,"",0,439,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 78","Edmonton",N,N,"",0,439,"Uppal","","Tim","Conservative","Conservateur",Y,Y,73
+48016,"Edmonton Gateway","Edmonton Gateway"," 79","Edmonton",N,N,"",0,495,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,42
+48016,"Edmonton Gateway","Edmonton Gateway"," 79","Edmonton",N,N,"",0,495,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 79","Edmonton",N,N,"",0,495,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 79","Edmonton",N,N,"",0,495,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 79","Edmonton",N,N,"",0,495,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 79","Edmonton",N,N,"",0,495,"Uppal","","Tim","Conservative","Conservateur",Y,Y,94
+48016,"Edmonton Gateway","Edmonton Gateway"," 80","Edmonton",N,N,"",1,559,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,65
+48016,"Edmonton Gateway","Edmonton Gateway"," 80","Edmonton",N,N,"",1,559,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 80","Edmonton",N,N,"",1,559,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 80","Edmonton",N,N,"",1,559,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 80","Edmonton",N,N,"",1,559,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 80","Edmonton",N,N,"",1,559,"Uppal","","Tim","Conservative","Conservateur",Y,Y,96
+48016,"Edmonton Gateway","Edmonton Gateway"," 81","Edmonton",N,N,"",0,543,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,61
+48016,"Edmonton Gateway","Edmonton Gateway"," 81","Edmonton",N,N,"",0,543,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 81","Edmonton",N,N,"",0,543,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 81","Edmonton",N,N,"",0,543,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 81","Edmonton",N,N,"",0,543,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 81","Edmonton",N,N,"",0,543,"Uppal","","Tim","Conservative","Conservateur",Y,Y,108
+48016,"Edmonton Gateway","Edmonton Gateway"," 82","Edmonton",N,N,"",1,635,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,85
+48016,"Edmonton Gateway","Edmonton Gateway"," 82","Edmonton",N,N,"",1,635,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 82","Edmonton",N,N,"",1,635,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 82","Edmonton",N,N,"",1,635,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 82","Edmonton",N,N,"",1,635,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 82","Edmonton",N,N,"",1,635,"Uppal","","Tim","Conservative","Conservateur",Y,Y,124
+48016,"Edmonton Gateway","Edmonton Gateway"," 83","Edmonton",N,N,"",3,712,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,77
+48016,"Edmonton Gateway","Edmonton Gateway"," 83","Edmonton",N,N,"",3,712,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 83","Edmonton",N,N,"",3,712,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48016,"Edmonton Gateway","Edmonton Gateway"," 83","Edmonton",N,N,"",3,712,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 83","Edmonton",N,N,"",3,712,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 83","Edmonton",N,N,"",3,712,"Uppal","","Tim","Conservative","Conservateur",Y,Y,96
+48016,"Edmonton Gateway","Edmonton Gateway"," 84","Edmonton",N,N,"",3,836,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,112
+48016,"Edmonton Gateway","Edmonton Gateway"," 84","Edmonton",N,N,"",3,836,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 84","Edmonton",N,N,"",3,836,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48016,"Edmonton Gateway","Edmonton Gateway"," 84","Edmonton",N,N,"",3,836,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 84","Edmonton",N,N,"",3,836,"Patel","","Ashok","Independent","Indépendant(e)",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 84","Edmonton",N,N,"",3,836,"Uppal","","Tim","Conservative","Conservateur",Y,Y,205
+48016,"Edmonton Gateway","Edmonton Gateway"," 85","Edmonton",N,N,"",0,586,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,76
+48016,"Edmonton Gateway","Edmonton Gateway"," 85","Edmonton",N,N,"",0,586,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 85","Edmonton",N,N,"",0,586,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 85","Edmonton",N,N,"",0,586,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 85","Edmonton",N,N,"",0,586,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 85","Edmonton",N,N,"",0,586,"Uppal","","Tim","Conservative","Conservateur",Y,Y,73
+48016,"Edmonton Gateway","Edmonton Gateway"," 86","Edmonton",N,N,"",3,521,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,77
+48016,"Edmonton Gateway","Edmonton Gateway"," 86","Edmonton",N,N,"",3,521,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 86","Edmonton",N,N,"",3,521,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 86","Edmonton",N,N,"",3,521,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 86","Edmonton",N,N,"",3,521,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 86","Edmonton",N,N,"",3,521,"Uppal","","Tim","Conservative","Conservateur",Y,Y,103
+48016,"Edmonton Gateway","Edmonton Gateway"," 87","Edmonton",N,N,"",1,579,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,90
+48016,"Edmonton Gateway","Edmonton Gateway"," 87","Edmonton",N,N,"",1,579,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 87","Edmonton",N,N,"",1,579,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48016,"Edmonton Gateway","Edmonton Gateway"," 87","Edmonton",N,N,"",1,579,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 87","Edmonton",N,N,"",1,579,"Patel","","Ashok","Independent","Indépendant(e)",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 87","Edmonton",N,N,"",1,579,"Uppal","","Tim","Conservative","Conservateur",Y,Y,106
+48016,"Edmonton Gateway","Edmonton Gateway"," 88","Edmonton",N,N,"",2,664,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,93
+48016,"Edmonton Gateway","Edmonton Gateway"," 88","Edmonton",N,N,"",2,664,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,18
+48016,"Edmonton Gateway","Edmonton Gateway"," 88","Edmonton",N,N,"",2,664,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 88","Edmonton",N,N,"",2,664,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 88","Edmonton",N,N,"",2,664,"Patel","","Ashok","Independent","Indépendant(e)",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 88","Edmonton",N,N,"",2,664,"Uppal","","Tim","Conservative","Conservateur",Y,Y,154
+48016,"Edmonton Gateway","Edmonton Gateway"," 89","Edmonton",N,N,"",1,699,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,82
+48016,"Edmonton Gateway","Edmonton Gateway"," 89","Edmonton",N,N,"",1,699,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 89","Edmonton",N,N,"",1,699,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48016,"Edmonton Gateway","Edmonton Gateway"," 89","Edmonton",N,N,"",1,699,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 89","Edmonton",N,N,"",1,699,"Patel","","Ashok","Independent","Indépendant(e)",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 89","Edmonton",N,N,"",1,699,"Uppal","","Tim","Conservative","Conservateur",Y,Y,113
+48016,"Edmonton Gateway","Edmonton Gateway"," 90","Edmonton",N,N,"",1,494,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,64
+48016,"Edmonton Gateway","Edmonton Gateway"," 90","Edmonton",N,N,"",1,494,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 90","Edmonton",N,N,"",1,494,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48016,"Edmonton Gateway","Edmonton Gateway"," 90","Edmonton",N,N,"",1,494,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 90","Edmonton",N,N,"",1,494,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 90","Edmonton",N,N,"",1,494,"Uppal","","Tim","Conservative","Conservateur",Y,Y,103
+48016,"Edmonton Gateway","Edmonton Gateway"," 91","Edmonton",N,N,"",0,567,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,59
+48016,"Edmonton Gateway","Edmonton Gateway"," 91","Edmonton",N,N,"",0,567,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 91","Edmonton",N,N,"",0,567,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48016,"Edmonton Gateway","Edmonton Gateway"," 91","Edmonton",N,N,"",0,567,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 91","Edmonton",N,N,"",0,567,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 91","Edmonton",N,N,"",0,567,"Uppal","","Tim","Conservative","Conservateur",Y,Y,107
+48016,"Edmonton Gateway","Edmonton Gateway"," 92","Edmonton",N,N,"",0,501,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,62
+48016,"Edmonton Gateway","Edmonton Gateway"," 92","Edmonton",N,N,"",0,501,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,14
+48016,"Edmonton Gateway","Edmonton Gateway"," 92","Edmonton",N,N,"",0,501,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 92","Edmonton",N,N,"",0,501,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 92","Edmonton",N,N,"",0,501,"Patel","","Ashok","Independent","Indépendant(e)",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 92","Edmonton",N,N,"",0,501,"Uppal","","Tim","Conservative","Conservateur",Y,Y,96
+48016,"Edmonton Gateway","Edmonton Gateway"," 93","Edmonton",N,N,"",0,542,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,67
+48016,"Edmonton Gateway","Edmonton Gateway"," 93","Edmonton",N,N,"",0,542,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 93","Edmonton",N,N,"",0,542,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 93","Edmonton",N,N,"",0,542,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 93","Edmonton",N,N,"",0,542,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 93","Edmonton",N,N,"",0,542,"Uppal","","Tim","Conservative","Conservateur",Y,Y,77
+48016,"Edmonton Gateway","Edmonton Gateway"," 94","Edmonton",N,N,"",2,533,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,64
+48016,"Edmonton Gateway","Edmonton Gateway"," 94","Edmonton",N,N,"",2,533,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 94","Edmonton",N,N,"",2,533,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 94","Edmonton",N,N,"",2,533,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 94","Edmonton",N,N,"",2,533,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 94","Edmonton",N,N,"",2,533,"Uppal","","Tim","Conservative","Conservateur",Y,Y,116
+48016,"Edmonton Gateway","Edmonton Gateway"," 95","Edmonton",N,N,"",2,527,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,73
+48016,"Edmonton Gateway","Edmonton Gateway"," 95","Edmonton",N,N,"",2,527,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 95","Edmonton",N,N,"",2,527,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 95","Edmonton",N,N,"",2,527,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 95","Edmonton",N,N,"",2,527,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 95","Edmonton",N,N,"",2,527,"Uppal","","Tim","Conservative","Conservateur",Y,Y,122
+48016,"Edmonton Gateway","Edmonton Gateway"," 96","Edmonton",N,N,"",3,465,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,40
+48016,"Edmonton Gateway","Edmonton Gateway"," 96","Edmonton",N,N,"",3,465,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,22
+48016,"Edmonton Gateway","Edmonton Gateway"," 96","Edmonton",N,N,"",3,465,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 96","Edmonton",N,N,"",3,465,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 96","Edmonton",N,N,"",3,465,"Patel","","Ashok","Independent","Indépendant(e)",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 96","Edmonton",N,N,"",3,465,"Uppal","","Tim","Conservative","Conservateur",Y,Y,49
+48016,"Edmonton Gateway","Edmonton Gateway"," 97","Edmonton",N,N,"",2,745,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,97
+48016,"Edmonton Gateway","Edmonton Gateway"," 97","Edmonton",N,N,"",2,745,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 97","Edmonton",N,N,"",2,745,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 97","Edmonton",N,N,"",2,745,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 97","Edmonton",N,N,"",2,745,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 97","Edmonton",N,N,"",2,745,"Uppal","","Tim","Conservative","Conservateur",Y,Y,193
+48016,"Edmonton Gateway","Edmonton Gateway"," 98","Edmonton",N,N,"",0,725,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,80
+48016,"Edmonton Gateway","Edmonton Gateway"," 98","Edmonton",N,N,"",0,725,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 98","Edmonton",N,N,"",0,725,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 98","Edmonton",N,N,"",0,725,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 98","Edmonton",N,N,"",0,725,"Patel","","Ashok","Independent","Indépendant(e)",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 98","Edmonton",N,N,"",0,725,"Uppal","","Tim","Conservative","Conservateur",Y,Y,167
+48016,"Edmonton Gateway","Edmonton Gateway"," 99","Edmonton",N,N,"",0,450,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,60
+48016,"Edmonton Gateway","Edmonton Gateway"," 99","Edmonton",N,N,"",0,450,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 99","Edmonton",N,N,"",0,450,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 99","Edmonton",N,N,"",0,450,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 99","Edmonton",N,N,"",0,450,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 99","Edmonton",N,N,"",0,450,"Uppal","","Tim","Conservative","Conservateur",Y,Y,106
+48016,"Edmonton Gateway","Edmonton Gateway"," 100","Edmonton",N,N,"",2,597,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,81
+48016,"Edmonton Gateway","Edmonton Gateway"," 100","Edmonton",N,N,"",2,597,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 100","Edmonton",N,N,"",2,597,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 100","Edmonton",N,N,"",2,597,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 100","Edmonton",N,N,"",2,597,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 100","Edmonton",N,N,"",2,597,"Uppal","","Tim","Conservative","Conservateur",Y,Y,139
+48016,"Edmonton Gateway","Edmonton Gateway"," 101","Edmonton",N,N,"",1,710,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,59
+48016,"Edmonton Gateway","Edmonton Gateway"," 101","Edmonton",N,N,"",1,710,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 101","Edmonton",N,N,"",1,710,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 101","Edmonton",N,N,"",1,710,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 101","Edmonton",N,N,"",1,710,"Patel","","Ashok","Independent","Indépendant(e)",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 101","Edmonton",N,N,"",1,710,"Uppal","","Tim","Conservative","Conservateur",Y,Y,132
+48016,"Edmonton Gateway","Edmonton Gateway"," 102","Edmonton",N,N,"",3,645,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,62
+48016,"Edmonton Gateway","Edmonton Gateway"," 102","Edmonton",N,N,"",3,645,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 102","Edmonton",N,N,"",3,645,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 102","Edmonton",N,N,"",3,645,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 102","Edmonton",N,N,"",3,645,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 102","Edmonton",N,N,"",3,645,"Uppal","","Tim","Conservative","Conservateur",Y,Y,109
+48016,"Edmonton Gateway","Edmonton Gateway"," 103","Edmonton",N,N,"",1,620,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,61
+48016,"Edmonton Gateway","Edmonton Gateway"," 103","Edmonton",N,N,"",1,620,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 103","Edmonton",N,N,"",1,620,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 103","Edmonton",N,N,"",1,620,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 103","Edmonton",N,N,"",1,620,"Patel","","Ashok","Independent","Indépendant(e)",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 103","Edmonton",N,N,"",1,620,"Uppal","","Tim","Conservative","Conservateur",Y,Y,97
+48016,"Edmonton Gateway","Edmonton Gateway"," 104","Edmonton",N,N,"",1,473,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,61
+48016,"Edmonton Gateway","Edmonton Gateway"," 104","Edmonton",N,N,"",1,473,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 104","Edmonton",N,N,"",1,473,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 104","Edmonton",N,N,"",1,473,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 104","Edmonton",N,N,"",1,473,"Patel","","Ashok","Independent","Indépendant(e)",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 104","Edmonton",N,N,"",1,473,"Uppal","","Tim","Conservative","Conservateur",Y,Y,108
+48016,"Edmonton Gateway","Edmonton Gateway"," 105","Edmonton",N,N,"",0,566,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,88
+48016,"Edmonton Gateway","Edmonton Gateway"," 105","Edmonton",N,N,"",0,566,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 105","Edmonton",N,N,"",0,566,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48016,"Edmonton Gateway","Edmonton Gateway"," 105","Edmonton",N,N,"",0,566,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 105","Edmonton",N,N,"",0,566,"Patel","","Ashok","Independent","Indépendant(e)",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 105","Edmonton",N,N,"",0,566,"Uppal","","Tim","Conservative","Conservateur",Y,Y,115
+48016,"Edmonton Gateway","Edmonton Gateway"," 106","Edmonton",N,N,"",0,532,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,63
+48016,"Edmonton Gateway","Edmonton Gateway"," 106","Edmonton",N,N,"",0,532,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 106","Edmonton",N,N,"",0,532,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 106","Edmonton",N,N,"",0,532,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 106","Edmonton",N,N,"",0,532,"Patel","","Ashok","Independent","Indépendant(e)",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 106","Edmonton",N,N,"",0,532,"Uppal","","Tim","Conservative","Conservateur",Y,Y,133
+48016,"Edmonton Gateway","Edmonton Gateway"," 107A","Edmonton",N,N,"",0,504,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,129
+48016,"Edmonton Gateway","Edmonton Gateway"," 107A","Edmonton",N,N,"",0,504,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 107A","Edmonton",N,N,"",0,504,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48016,"Edmonton Gateway","Edmonton Gateway"," 107A","Edmonton",N,N,"",0,504,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 107A","Edmonton",N,N,"",0,504,"Patel","","Ashok","Independent","Indépendant(e)",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 107A","Edmonton",N,N,"",0,504,"Uppal","","Tim","Conservative","Conservateur",Y,Y,196
+48016,"Edmonton Gateway","Edmonton Gateway"," 107B","Edmonton",N,N,"107A",0,462,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 107B","Edmonton",N,N,"107A",0,462,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 107B","Edmonton",N,N,"107A",0,462,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 107B","Edmonton",N,N,"107A",0,462,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 107B","Edmonton",N,N,"107A",0,462,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 107B","Edmonton",N,N,"107A",0,462,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 108","Edmonton",N,N,"",0,607,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,102
+48016,"Edmonton Gateway","Edmonton Gateway"," 108","Edmonton",N,N,"",0,607,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,14
+48016,"Edmonton Gateway","Edmonton Gateway"," 108","Edmonton",N,N,"",0,607,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 108","Edmonton",N,N,"",0,607,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 108","Edmonton",N,N,"",0,607,"Patel","","Ashok","Independent","Indépendant(e)",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 108","Edmonton",N,N,"",0,607,"Uppal","","Tim","Conservative","Conservateur",Y,Y,121
+48016,"Edmonton Gateway","Edmonton Gateway"," 109","Edmonton",N,N,"",1,517,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,64
+48016,"Edmonton Gateway","Edmonton Gateway"," 109","Edmonton",N,N,"",1,517,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 109","Edmonton",N,N,"",1,517,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 109","Edmonton",N,N,"",1,517,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 109","Edmonton",N,N,"",1,517,"Patel","","Ashok","Independent","Indépendant(e)",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 109","Edmonton",N,N,"",1,517,"Uppal","","Tim","Conservative","Conservateur",Y,Y,105
+48016,"Edmonton Gateway","Edmonton Gateway"," 110","Edmonton",N,N,"",2,502,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,63
+48016,"Edmonton Gateway","Edmonton Gateway"," 110","Edmonton",N,N,"",2,502,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 110","Edmonton",N,N,"",2,502,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 110","Edmonton",N,N,"",2,502,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 110","Edmonton",N,N,"",2,502,"Patel","","Ashok","Independent","Indépendant(e)",N,N,14
+48016,"Edmonton Gateway","Edmonton Gateway"," 110","Edmonton",N,N,"",2,502,"Uppal","","Tim","Conservative","Conservateur",Y,Y,125
+48016,"Edmonton Gateway","Edmonton Gateway"," 111","Edmonton",N,N,"",3,545,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,33
+48016,"Edmonton Gateway","Edmonton Gateway"," 111","Edmonton",N,N,"",3,545,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,14
+48016,"Edmonton Gateway","Edmonton Gateway"," 111","Edmonton",N,N,"",3,545,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 111","Edmonton",N,N,"",3,545,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 111","Edmonton",N,N,"",3,545,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 111","Edmonton",N,N,"",3,545,"Uppal","","Tim","Conservative","Conservateur",Y,Y,92
+48016,"Edmonton Gateway","Edmonton Gateway"," 112","Edmonton",N,N,"",3,460,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,40
+48016,"Edmonton Gateway","Edmonton Gateway"," 112","Edmonton",N,N,"",3,460,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,19
+48016,"Edmonton Gateway","Edmonton Gateway"," 112","Edmonton",N,N,"",3,460,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 112","Edmonton",N,N,"",3,460,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 112","Edmonton",N,N,"",3,460,"Patel","","Ashok","Independent","Indépendant(e)",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 112","Edmonton",N,N,"",3,460,"Uppal","","Tim","Conservative","Conservateur",Y,Y,67
+48016,"Edmonton Gateway","Edmonton Gateway"," 113","Edmonton",N,N,"",5,736,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,63
+48016,"Edmonton Gateway","Edmonton Gateway"," 113","Edmonton",N,N,"",5,736,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,19
+48016,"Edmonton Gateway","Edmonton Gateway"," 113","Edmonton",N,N,"",5,736,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 113","Edmonton",N,N,"",5,736,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 113","Edmonton",N,N,"",5,736,"Patel","","Ashok","Independent","Indépendant(e)",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 113","Edmonton",N,N,"",5,736,"Uppal","","Tim","Conservative","Conservateur",Y,Y,144
+48016,"Edmonton Gateway","Edmonton Gateway"," 114","Edmonton",N,N,"",0,644,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,54
+48016,"Edmonton Gateway","Edmonton Gateway"," 114","Edmonton",N,N,"",0,644,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 114","Edmonton",N,N,"",0,644,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 114","Edmonton",N,N,"",0,644,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 114","Edmonton",N,N,"",0,644,"Patel","","Ashok","Independent","Indépendant(e)",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 114","Edmonton",N,N,"",0,644,"Uppal","","Tim","Conservative","Conservateur",Y,Y,135
+48016,"Edmonton Gateway","Edmonton Gateway"," 115","Edmonton",N,N,"",1,652,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,54
+48016,"Edmonton Gateway","Edmonton Gateway"," 115","Edmonton",N,N,"",1,652,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,23
+48016,"Edmonton Gateway","Edmonton Gateway"," 115","Edmonton",N,N,"",1,652,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 115","Edmonton",N,N,"",1,652,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 115","Edmonton",N,N,"",1,652,"Patel","","Ashok","Independent","Indépendant(e)",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 115","Edmonton",N,N,"",1,652,"Uppal","","Tim","Conservative","Conservateur",Y,Y,114
+48016,"Edmonton Gateway","Edmonton Gateway"," 116","Edmonton",N,N,"",1,594,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,60
+48016,"Edmonton Gateway","Edmonton Gateway"," 116","Edmonton",N,N,"",1,594,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,19
+48016,"Edmonton Gateway","Edmonton Gateway"," 116","Edmonton",N,N,"",1,594,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 116","Edmonton",N,N,"",1,594,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 116","Edmonton",N,N,"",1,594,"Patel","","Ashok","Independent","Indépendant(e)",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 116","Edmonton",N,N,"",1,594,"Uppal","","Tim","Conservative","Conservateur",Y,Y,129
+48016,"Edmonton Gateway","Edmonton Gateway"," 117","Edmonton",N,N,"",2,529,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,72
+48016,"Edmonton Gateway","Edmonton Gateway"," 117","Edmonton",N,N,"",2,529,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,23
+48016,"Edmonton Gateway","Edmonton Gateway"," 117","Edmonton",N,N,"",2,529,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 117","Edmonton",N,N,"",2,529,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 117","Edmonton",N,N,"",2,529,"Patel","","Ashok","Independent","Indépendant(e)",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 117","Edmonton",N,N,"",2,529,"Uppal","","Tim","Conservative","Conservateur",Y,Y,118
+48016,"Edmonton Gateway","Edmonton Gateway"," 118","Edmonton",N,N,"",2,541,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,74
+48016,"Edmonton Gateway","Edmonton Gateway"," 118","Edmonton",N,N,"",2,541,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,20
+48016,"Edmonton Gateway","Edmonton Gateway"," 118","Edmonton",N,N,"",2,541,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 118","Edmonton",N,N,"",2,541,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 118","Edmonton",N,N,"",2,541,"Patel","","Ashok","Independent","Indépendant(e)",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 118","Edmonton",N,N,"",2,541,"Uppal","","Tim","Conservative","Conservateur",Y,Y,102
+48016,"Edmonton Gateway","Edmonton Gateway"," 119A","Edmonton",N,N,"119B",0,438,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 119A","Edmonton",N,N,"119B",0,438,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 119A","Edmonton",N,N,"119B",0,438,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 119A","Edmonton",N,N,"119B",0,438,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 119A","Edmonton",N,N,"119B",0,438,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 119A","Edmonton",N,N,"119B",0,438,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 119B","Edmonton",N,N,"",4,468,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,94
+48016,"Edmonton Gateway","Edmonton Gateway"," 119B","Edmonton",N,N,"",4,468,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,35
+48016,"Edmonton Gateway","Edmonton Gateway"," 119B","Edmonton",N,N,"",4,468,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 119B","Edmonton",N,N,"",4,468,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 119B","Edmonton",N,N,"",4,468,"Patel","","Ashok","Independent","Indépendant(e)",N,N,24
+48016,"Edmonton Gateway","Edmonton Gateway"," 119B","Edmonton",N,N,"",4,468,"Uppal","","Tim","Conservative","Conservateur",Y,Y,227
+48016,"Edmonton Gateway","Edmonton Gateway"," 120","Edmonton",N,N,"",0,514,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,81
+48016,"Edmonton Gateway","Edmonton Gateway"," 120","Edmonton",N,N,"",0,514,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 120","Edmonton",N,N,"",0,514,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 120","Edmonton",N,N,"",0,514,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 120","Edmonton",N,N,"",0,514,"Patel","","Ashok","Independent","Indépendant(e)",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 120","Edmonton",N,N,"",0,514,"Uppal","","Tim","Conservative","Conservateur",Y,Y,109
+48016,"Edmonton Gateway","Edmonton Gateway"," 121","Edmonton",N,N,"",1,462,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,54
+48016,"Edmonton Gateway","Edmonton Gateway"," 121","Edmonton",N,N,"",1,462,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,14
+48016,"Edmonton Gateway","Edmonton Gateway"," 121","Edmonton",N,N,"",1,462,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 121","Edmonton",N,N,"",1,462,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 121","Edmonton",N,N,"",1,462,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 121","Edmonton",N,N,"",1,462,"Uppal","","Tim","Conservative","Conservateur",Y,Y,85
+48016,"Edmonton Gateway","Edmonton Gateway"," 122","Edmonton",N,N,"",0,525,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,64
+48016,"Edmonton Gateway","Edmonton Gateway"," 122","Edmonton",N,N,"",0,525,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 122","Edmonton",N,N,"",0,525,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 122","Edmonton",N,N,"",0,525,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 122","Edmonton",N,N,"",0,525,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 122","Edmonton",N,N,"",0,525,"Uppal","","Tim","Conservative","Conservateur",Y,Y,97
+48016,"Edmonton Gateway","Edmonton Gateway"," 123","Edmonton",N,N,"",0,580,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,69
+48016,"Edmonton Gateway","Edmonton Gateway"," 123","Edmonton",N,N,"",0,580,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 123","Edmonton",N,N,"",0,580,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48016,"Edmonton Gateway","Edmonton Gateway"," 123","Edmonton",N,N,"",0,580,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 123","Edmonton",N,N,"",0,580,"Patel","","Ashok","Independent","Indépendant(e)",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 123","Edmonton",N,N,"",0,580,"Uppal","","Tim","Conservative","Conservateur",Y,Y,135
+48016,"Edmonton Gateway","Edmonton Gateway"," 124","Edmonton",N,N,"",3,592,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,63
+48016,"Edmonton Gateway","Edmonton Gateway"," 124","Edmonton",N,N,"",3,592,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 124","Edmonton",N,N,"",3,592,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 124","Edmonton",N,N,"",3,592,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 124","Edmonton",N,N,"",3,592,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 124","Edmonton",N,N,"",3,592,"Uppal","","Tim","Conservative","Conservateur",Y,Y,105
+48016,"Edmonton Gateway","Edmonton Gateway"," 125","Edmonton",N,N,"",3,686,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,50
+48016,"Edmonton Gateway","Edmonton Gateway"," 125","Edmonton",N,N,"",3,686,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,15
+48016,"Edmonton Gateway","Edmonton Gateway"," 125","Edmonton",N,N,"",3,686,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 125","Edmonton",N,N,"",3,686,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 125","Edmonton",N,N,"",3,686,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 125","Edmonton",N,N,"",3,686,"Uppal","","Tim","Conservative","Conservateur",Y,Y,118
+48016,"Edmonton Gateway","Edmonton Gateway"," 126","Edmonton",N,N,"",2,787,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,78
+48016,"Edmonton Gateway","Edmonton Gateway"," 126","Edmonton",N,N,"",2,787,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,24
+48016,"Edmonton Gateway","Edmonton Gateway"," 126","Edmonton",N,N,"",2,787,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 126","Edmonton",N,N,"",2,787,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 126","Edmonton",N,N,"",2,787,"Patel","","Ashok","Independent","Indépendant(e)",N,N,10
+48016,"Edmonton Gateway","Edmonton Gateway"," 126","Edmonton",N,N,"",2,787,"Uppal","","Tim","Conservative","Conservateur",Y,Y,167
+48016,"Edmonton Gateway","Edmonton Gateway"," 127","Edmonton",N,N,"",3,841,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,85
+48016,"Edmonton Gateway","Edmonton Gateway"," 127","Edmonton",N,N,"",3,841,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,29
+48016,"Edmonton Gateway","Edmonton Gateway"," 127","Edmonton",N,N,"",3,841,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48016,"Edmonton Gateway","Edmonton Gateway"," 127","Edmonton",N,N,"",3,841,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 127","Edmonton",N,N,"",3,841,"Patel","","Ashok","Independent","Indépendant(e)",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 127","Edmonton",N,N,"",3,841,"Uppal","","Tim","Conservative","Conservateur",Y,Y,153
+48016,"Edmonton Gateway","Edmonton Gateway"," 128A","Edmonton",N,N,"",6,552,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,106
+48016,"Edmonton Gateway","Edmonton Gateway"," 128A","Edmonton",N,N,"",6,552,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,21
+48016,"Edmonton Gateway","Edmonton Gateway"," 128A","Edmonton",N,N,"",6,552,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 128A","Edmonton",N,N,"",6,552,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 128A","Edmonton",N,N,"",6,552,"Patel","","Ashok","Independent","Indépendant(e)",N,N,12
+48016,"Edmonton Gateway","Edmonton Gateway"," 128A","Edmonton",N,N,"",6,552,"Uppal","","Tim","Conservative","Conservateur",Y,Y,204
+48016,"Edmonton Gateway","Edmonton Gateway"," 128B","Edmonton",N,N,"128A",0,574,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 128B","Edmonton",N,N,"128A",0,574,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 128B","Edmonton",N,N,"128A",0,574,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 128B","Edmonton",N,N,"128A",0,574,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 128B","Edmonton",N,N,"128A",0,574,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 128B","Edmonton",N,N,"128A",0,574,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,31,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,31,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,31,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,31,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,31,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,31,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,11,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,11,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,11,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,11,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,11,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,11,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 502","Mobile poll/Bureau itinérant",N,N,"",1,34,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,20
+48016,"Edmonton Gateway","Edmonton Gateway"," 502","Mobile poll/Bureau itinérant",N,N,"",1,34,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 502","Mobile poll/Bureau itinérant",N,N,"",1,34,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 502","Mobile poll/Bureau itinérant",N,N,"",1,34,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 502","Mobile poll/Bureau itinérant",N,N,"",1,34,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 502","Mobile poll/Bureau itinérant",N,N,"",1,34,"Uppal","","Tim","Conservative","Conservateur",Y,Y,36
+48016,"Edmonton Gateway","Edmonton Gateway"," 503","Mobile poll/Bureau itinérant",N,N,"",1,84,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,24
+48016,"Edmonton Gateway","Edmonton Gateway"," 503","Mobile poll/Bureau itinérant",N,N,"",1,84,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 503","Mobile poll/Bureau itinérant",N,N,"",1,84,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 503","Mobile poll/Bureau itinérant",N,N,"",1,84,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 503","Mobile poll/Bureau itinérant",N,N,"",1,84,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 503","Mobile poll/Bureau itinérant",N,N,"",1,84,"Uppal","","Tim","Conservative","Conservateur",Y,Y,29
+48016,"Edmonton Gateway","Edmonton Gateway"," 504","Edmonton",N,N,"25A",0,149,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 504","Edmonton",N,N,"25A",0,149,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 504","Edmonton",N,N,"25A",0,149,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 504","Edmonton",N,N,"25A",0,149,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 504","Edmonton",N,N,"25A",0,149,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 504","Edmonton",N,N,"25A",0,149,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 505","Mobile poll/Bureau itinérant",N,N,"503",0,19,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 505","Mobile poll/Bureau itinérant",N,N,"503",0,19,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 505","Mobile poll/Bureau itinérant",N,N,"503",0,19,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 505","Mobile poll/Bureau itinérant",N,N,"503",0,19,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 505","Mobile poll/Bureau itinérant",N,N,"503",0,19,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 505","Mobile poll/Bureau itinérant",N,N,"503",0,19,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 506","Mobile poll/Bureau itinérant",N,N,"",5,65,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,16
+48016,"Edmonton Gateway","Edmonton Gateway"," 506","Mobile poll/Bureau itinérant",N,N,"",5,65,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 506","Mobile poll/Bureau itinérant",N,N,"",5,65,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 506","Mobile poll/Bureau itinérant",N,N,"",5,65,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 506","Mobile poll/Bureau itinérant",N,N,"",5,65,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 506","Mobile poll/Bureau itinérant",N,N,"",5,65,"Uppal","","Tim","Conservative","Conservateur",Y,Y,59
+48016,"Edmonton Gateway","Edmonton Gateway"," 507","Mobile poll/Bureau itinérant",N,N,"506",0,51,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 507","Mobile poll/Bureau itinérant",N,N,"506",0,51,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 507","Mobile poll/Bureau itinérant",N,N,"506",0,51,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 507","Mobile poll/Bureau itinérant",N,N,"506",0,51,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 507","Mobile poll/Bureau itinérant",N,N,"506",0,51,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 507","Mobile poll/Bureau itinérant",N,N,"506",0,51,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 508","Mobile poll/Bureau itinérant",N,N,"506",0,15,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 508","Mobile poll/Bureau itinérant",N,N,"506",0,15,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 508","Mobile poll/Bureau itinérant",N,N,"506",0,15,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 508","Mobile poll/Bureau itinérant",N,N,"506",0,15,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 508","Mobile poll/Bureau itinérant",N,N,"506",0,15,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 508","Mobile poll/Bureau itinérant",N,N,"506",0,15,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 509","Mobile poll/Bureau itinérant",N,N,"",0,147,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 509","Mobile poll/Bureau itinérant",N,N,"",0,147,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 509","Mobile poll/Bureau itinérant",N,N,"",0,147,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 509","Mobile poll/Bureau itinérant",N,N,"",0,147,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 509","Mobile poll/Bureau itinérant",N,N,"",0,147,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 509","Mobile poll/Bureau itinérant",N,N,"",0,147,"Uppal","","Tim","Conservative","Conservateur",Y,Y,91
+48016,"Edmonton Gateway","Edmonton Gateway"," 510","Mobile poll/Bureau itinérant",N,N,"",4,176,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,80
+48016,"Edmonton Gateway","Edmonton Gateway"," 510","Mobile poll/Bureau itinérant",N,N,"",4,176,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,4
+48016,"Edmonton Gateway","Edmonton Gateway"," 510","Mobile poll/Bureau itinérant",N,N,"",4,176,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 510","Mobile poll/Bureau itinérant",N,N,"",4,176,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 510","Mobile poll/Bureau itinérant",N,N,"",4,176,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 510","Mobile poll/Bureau itinérant",N,N,"",4,176,"Uppal","","Tim","Conservative","Conservateur",Y,Y,73
+48016,"Edmonton Gateway","Edmonton Gateway"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,93,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,93,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,93,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,93,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,93,"Patel","","Ashok","Independent","Indépendant(e)",N,N,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,93,"Uppal","","Tim","Conservative","Conservateur",Y,Y,0
+48016,"Edmonton Gateway","Edmonton Gateway"," 600","Edmonton",N,N,"",4,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,451
+48016,"Edmonton Gateway","Edmonton Gateway"," 600","Edmonton",N,N,"",4,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,76
+48016,"Edmonton Gateway","Edmonton Gateway"," 600","Edmonton",N,N,"",4,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+48016,"Edmonton Gateway","Edmonton Gateway"," 600","Edmonton",N,N,"",4,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,16
+48016,"Edmonton Gateway","Edmonton Gateway"," 600","Edmonton",N,N,"",4,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,2
+48016,"Edmonton Gateway","Edmonton Gateway"," 600","Edmonton",N,N,"",4,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,418
+48016,"Edmonton Gateway","Edmonton Gateway"," 601","Edmonton",N,N,"",8,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,375
+48016,"Edmonton Gateway","Edmonton Gateway"," 601","Edmonton",N,N,"",8,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,83
+48016,"Edmonton Gateway","Edmonton Gateway"," 601","Edmonton",N,N,"",8,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+48016,"Edmonton Gateway","Edmonton Gateway"," 601","Edmonton",N,N,"",8,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 601","Edmonton",N,N,"",8,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,5
+48016,"Edmonton Gateway","Edmonton Gateway"," 601","Edmonton",N,N,"",8,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,470
+48016,"Edmonton Gateway","Edmonton Gateway"," 602","Edmonton",N,N,"",5,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,732
+48016,"Edmonton Gateway","Edmonton Gateway"," 602","Edmonton",N,N,"",5,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,29
+48016,"Edmonton Gateway","Edmonton Gateway"," 602","Edmonton",N,N,"",5,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+48016,"Edmonton Gateway","Edmonton Gateway"," 602","Edmonton",N,N,"",5,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 602","Edmonton",N,N,"",5,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 602","Edmonton",N,N,"",5,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,669
+48016,"Edmonton Gateway","Edmonton Gateway"," 603","Edmonton",N,N,"",19,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,759
+48016,"Edmonton Gateway","Edmonton Gateway"," 603","Edmonton",N,N,"",19,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,23
+48016,"Edmonton Gateway","Edmonton Gateway"," 603","Edmonton",N,N,"",19,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+48016,"Edmonton Gateway","Edmonton Gateway"," 603","Edmonton",N,N,"",19,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," 603","Edmonton",N,N,"",19,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,3
+48016,"Edmonton Gateway","Edmonton Gateway"," 603","Edmonton",N,N,"",19,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,680
+48016,"Edmonton Gateway","Edmonton Gateway"," 604","Edmonton",N,N,"",6,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,311
+48016,"Edmonton Gateway","Edmonton Gateway"," 604","Edmonton",N,N,"",6,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,32
+48016,"Edmonton Gateway","Edmonton Gateway"," 604","Edmonton",N,N,"",6,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+48016,"Edmonton Gateway","Edmonton Gateway"," 604","Edmonton",N,N,"",6,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 604","Edmonton",N,N,"",6,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,1
+48016,"Edmonton Gateway","Edmonton Gateway"," 604","Edmonton",N,N,"",6,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,371
+48016,"Edmonton Gateway","Edmonton Gateway"," 605","Edmonton",N,N,"",3,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,364
+48016,"Edmonton Gateway","Edmonton Gateway"," 605","Edmonton",N,N,"",3,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,20
+48016,"Edmonton Gateway","Edmonton Gateway"," 605","Edmonton",N,N,"",3,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+48016,"Edmonton Gateway","Edmonton Gateway"," 605","Edmonton",N,N,"",3,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,8
+48016,"Edmonton Gateway","Edmonton Gateway"," 605","Edmonton",N,N,"",3,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 605","Edmonton",N,N,"",3,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,601
+48016,"Edmonton Gateway","Edmonton Gateway"," 606","Edmonton",N,N,"",8,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,637
+48016,"Edmonton Gateway","Edmonton Gateway"," 606","Edmonton",N,N,"",8,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,99
+48016,"Edmonton Gateway","Edmonton Gateway"," 606","Edmonton",N,N,"",8,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+48016,"Edmonton Gateway","Edmonton Gateway"," 606","Edmonton",N,N,"",8,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 606","Edmonton",N,N,"",8,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,21
+48016,"Edmonton Gateway","Edmonton Gateway"," 606","Edmonton",N,N,"",8,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,735
+48016,"Edmonton Gateway","Edmonton Gateway"," 607","Edmonton",N,N,"",7,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,625
+48016,"Edmonton Gateway","Edmonton Gateway"," 607","Edmonton",N,N,"",7,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,62
+48016,"Edmonton Gateway","Edmonton Gateway"," 607","Edmonton",N,N,"",7,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+48016,"Edmonton Gateway","Edmonton Gateway"," 607","Edmonton",N,N,"",7,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,22
+48016,"Edmonton Gateway","Edmonton Gateway"," 607","Edmonton",N,N,"",7,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,54
+48016,"Edmonton Gateway","Edmonton Gateway"," 607","Edmonton",N,N,"",7,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,887
+48016,"Edmonton Gateway","Edmonton Gateway"," 608","Edmonton",N,N,"",4,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,775
+48016,"Edmonton Gateway","Edmonton Gateway"," 608","Edmonton",N,N,"",4,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,69
+48016,"Edmonton Gateway","Edmonton Gateway"," 608","Edmonton",N,N,"",4,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+48016,"Edmonton Gateway","Edmonton Gateway"," 608","Edmonton",N,N,"",4,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 608","Edmonton",N,N,"",4,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,38
+48016,"Edmonton Gateway","Edmonton Gateway"," 608","Edmonton",N,N,"",4,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,887
+48016,"Edmonton Gateway","Edmonton Gateway"," 609","Edmonton",N,N,"",13,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,708
+48016,"Edmonton Gateway","Edmonton Gateway"," 609","Edmonton",N,N,"",13,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,50
+48016,"Edmonton Gateway","Edmonton Gateway"," 609","Edmonton",N,N,"",13,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+48016,"Edmonton Gateway","Edmonton Gateway"," 609","Edmonton",N,N,"",13,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,16
+48016,"Edmonton Gateway","Edmonton Gateway"," 609","Edmonton",N,N,"",13,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,41
+48016,"Edmonton Gateway","Edmonton Gateway"," 609","Edmonton",N,N,"",13,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,789
+48016,"Edmonton Gateway","Edmonton Gateway"," 610","Edmonton",N,N,"",5,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,507
+48016,"Edmonton Gateway","Edmonton Gateway"," 610","Edmonton",N,N,"",5,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,49
+48016,"Edmonton Gateway","Edmonton Gateway"," 610","Edmonton",N,N,"",5,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+48016,"Edmonton Gateway","Edmonton Gateway"," 610","Edmonton",N,N,"",5,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,13
+48016,"Edmonton Gateway","Edmonton Gateway"," 610","Edmonton",N,N,"",5,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,70
+48016,"Edmonton Gateway","Edmonton Gateway"," 610","Edmonton",N,N,"",5,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,702
+48016,"Edmonton Gateway","Edmonton Gateway"," 611","Edmonton",N,N,"",4,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,600
+48016,"Edmonton Gateway","Edmonton Gateway"," 611","Edmonton",N,N,"",4,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,53
+48016,"Edmonton Gateway","Edmonton Gateway"," 611","Edmonton",N,N,"",4,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+48016,"Edmonton Gateway","Edmonton Gateway"," 611","Edmonton",N,N,"",4,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,6
+48016,"Edmonton Gateway","Edmonton Gateway"," 611","Edmonton",N,N,"",4,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,19
+48016,"Edmonton Gateway","Edmonton Gateway"," 611","Edmonton",N,N,"",4,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,858
+48016,"Edmonton Gateway","Edmonton Gateway"," 612","Edmonton",N,N,"",10,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,510
+48016,"Edmonton Gateway","Edmonton Gateway"," 612","Edmonton",N,N,"",10,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,76
+48016,"Edmonton Gateway","Edmonton Gateway"," 612","Edmonton",N,N,"",10,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+48016,"Edmonton Gateway","Edmonton Gateway"," 612","Edmonton",N,N,"",10,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 612","Edmonton",N,N,"",10,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,17
+48016,"Edmonton Gateway","Edmonton Gateway"," 612","Edmonton",N,N,"",10,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,701
+48016,"Edmonton Gateway","Edmonton Gateway"," 613","Edmonton",N,N,"",12,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,463
+48016,"Edmonton Gateway","Edmonton Gateway"," 613","Edmonton",N,N,"",12,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,162
+48016,"Edmonton Gateway","Edmonton Gateway"," 613","Edmonton",N,N,"",12,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+48016,"Edmonton Gateway","Edmonton Gateway"," 613","Edmonton",N,N,"",12,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,7
+48016,"Edmonton Gateway","Edmonton Gateway"," 613","Edmonton",N,N,"",12,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,48
+48016,"Edmonton Gateway","Edmonton Gateway"," 613","Edmonton",N,N,"",12,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,636
+48016,"Edmonton Gateway","Edmonton Gateway"," 614","Beaumont",N,N,"",4,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,581
+48016,"Edmonton Gateway","Edmonton Gateway"," 614","Beaumont",N,N,"",4,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,115
+48016,"Edmonton Gateway","Edmonton Gateway"," 614","Beaumont",N,N,"",4,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+48016,"Edmonton Gateway","Edmonton Gateway"," 614","Beaumont",N,N,"",4,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," 614","Beaumont",N,N,"",4,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,63
+48016,"Edmonton Gateway","Edmonton Gateway"," 614","Beaumont",N,N,"",4,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,813
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",80,223,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,668
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",80,223,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,75
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",80,223,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",80,223,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,16
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",80,223,"Patel","","Ashok","Independent","Indépendant(e)",N,N,19
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",80,223,"Uppal","","Tim","Conservative","Conservateur",Y,Y,876
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",75,0,"Hoefsloot","","Jeremy","Liberal","Libéral",N,N,605
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",75,0,"Loyola","","Rod","No Affiliation","Aucune appartenance",N,N,87
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",75,0,"Mayes","","Madeline","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",75,0,"McCormack","","Paul","People's Party - PPC","Parti populaire - PPC",N,N,9
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",75,0,"Patel","","Ashok","Independent","Indépendant(e)",N,N,11
+48016,"Edmonton Gateway","Edmonton Gateway"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",75,0,"Uppal","","Tim","Conservative","Conservateur",Y,Y,704

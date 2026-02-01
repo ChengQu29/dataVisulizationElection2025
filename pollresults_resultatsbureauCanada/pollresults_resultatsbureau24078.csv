@@ -1,0 +1,941 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+24078,"Vimy","Vimy"," 1","Laval",N,N,"",9,430,"Daou","","Grace","Conservative","Conservateur",N,N,57
+24078,"Vimy","Vimy"," 1","Laval",N,N,"",9,430,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,82
+24078,"Vimy","Vimy"," 1","Laval",N,N,"",9,430,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+24078,"Vimy","Vimy"," 1","Laval",N,N,"",9,430,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,44
+24078,"Vimy","Vimy"," 2","Laval",N,N,"",3,481,"Daou","","Grace","Conservative","Conservateur",N,N,61
+24078,"Vimy","Vimy"," 2","Laval",N,N,"",3,481,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,133
+24078,"Vimy","Vimy"," 2","Laval",N,N,"",3,481,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 2","Laval",N,N,"",3,481,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,55
+24078,"Vimy","Vimy"," 3","Laval",N,N,"",4,443,"Daou","","Grace","Conservative","Conservateur",N,N,55
+24078,"Vimy","Vimy"," 3","Laval",N,N,"",4,443,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,134
+24078,"Vimy","Vimy"," 3","Laval",N,N,"",4,443,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 3","Laval",N,N,"",4,443,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,34
+24078,"Vimy","Vimy"," 4","Laval",N,N,"",4,410,"Daou","","Grace","Conservative","Conservateur",N,N,62
+24078,"Vimy","Vimy"," 4","Laval",N,N,"",4,410,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,111
+24078,"Vimy","Vimy"," 4","Laval",N,N,"",4,410,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 4","Laval",N,N,"",4,410,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,39
+24078,"Vimy","Vimy"," 5","Laval",N,N,"",5,400,"Daou","","Grace","Conservative","Conservateur",N,N,48
+24078,"Vimy","Vimy"," 5","Laval",N,N,"",5,400,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,121
+24078,"Vimy","Vimy"," 5","Laval",N,N,"",5,400,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 5","Laval",N,N,"",5,400,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,34
+24078,"Vimy","Vimy"," 6","Laval",N,N,"",3,385,"Daou","","Grace","Conservative","Conservateur",N,N,47
+24078,"Vimy","Vimy"," 6","Laval",N,N,"",3,385,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,121
+24078,"Vimy","Vimy"," 6","Laval",N,N,"",3,385,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 6","Laval",N,N,"",3,385,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,39
+24078,"Vimy","Vimy"," 7","Laval",N,N,"",5,387,"Daou","","Grace","Conservative","Conservateur",N,N,65
+24078,"Vimy","Vimy"," 7","Laval",N,N,"",5,387,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,103
+24078,"Vimy","Vimy"," 7","Laval",N,N,"",5,387,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 7","Laval",N,N,"",5,387,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,24
+24078,"Vimy","Vimy"," 8","Laval",N,N,"",10,472,"Daou","","Grace","Conservative","Conservateur",N,N,77
+24078,"Vimy","Vimy"," 8","Laval",N,N,"",10,472,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,112
+24078,"Vimy","Vimy"," 8","Laval",N,N,"",10,472,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 8","Laval",N,N,"",10,472,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,30
+24078,"Vimy","Vimy"," 9","Laval",N,N,"",8,448,"Daou","","Grace","Conservative","Conservateur",N,N,22
+24078,"Vimy","Vimy"," 9","Laval",N,N,"",8,448,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,42
+24078,"Vimy","Vimy"," 9","Laval",N,N,"",8,448,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 9","Laval",N,N,"",8,448,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,27
+24078,"Vimy","Vimy"," 10","Laval",N,N,"",0,417,"Daou","","Grace","Conservative","Conservateur",N,N,47
+24078,"Vimy","Vimy"," 10","Laval",N,N,"",0,417,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,48
+24078,"Vimy","Vimy"," 10","Laval",N,N,"",0,417,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 10","Laval",N,N,"",0,417,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,29
+24078,"Vimy","Vimy"," 11","Laval",N,N,"",2,416,"Daou","","Grace","Conservative","Conservateur",N,N,16
+24078,"Vimy","Vimy"," 11","Laval",N,N,"",2,416,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,35
+24078,"Vimy","Vimy"," 11","Laval",N,N,"",2,416,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 11","Laval",N,N,"",2,416,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,45
+24078,"Vimy","Vimy"," 12","Laval",N,N,"",3,390,"Daou","","Grace","Conservative","Conservateur",N,N,41
+24078,"Vimy","Vimy"," 12","Laval",N,N,"",3,390,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,52
+24078,"Vimy","Vimy"," 12","Laval",N,N,"",3,390,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 12","Laval",N,N,"",3,390,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,27
+24078,"Vimy","Vimy"," 13","Laval",N,N,"",5,564,"Daou","","Grace","Conservative","Conservateur",N,N,51
+24078,"Vimy","Vimy"," 13","Laval",N,N,"",5,564,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,103
+24078,"Vimy","Vimy"," 13","Laval",N,N,"",5,564,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 13","Laval",N,N,"",5,564,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,37
+24078,"Vimy","Vimy"," 14","Laval",N,N,"",0,601,"Daou","","Grace","Conservative","Conservateur",N,N,62
+24078,"Vimy","Vimy"," 14","Laval",N,N,"",0,601,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,110
+24078,"Vimy","Vimy"," 14","Laval",N,N,"",0,601,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 14","Laval",N,N,"",0,601,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,32
+24078,"Vimy","Vimy"," 15","Laval",N,N,"",3,343,"Daou","","Grace","Conservative","Conservateur",N,N,25
+24078,"Vimy","Vimy"," 15","Laval",N,N,"",3,343,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,57
+24078,"Vimy","Vimy"," 15","Laval",N,N,"",3,343,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 15","Laval",N,N,"",3,343,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,13
+24078,"Vimy","Vimy"," 16","Laval",N,N,"",2,361,"Daou","","Grace","Conservative","Conservateur",N,N,23
+24078,"Vimy","Vimy"," 16","Laval",N,N,"",2,361,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,45
+24078,"Vimy","Vimy"," 16","Laval",N,N,"",2,361,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 16","Laval",N,N,"",2,361,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,31
+24078,"Vimy","Vimy"," 17","Laval",N,N,"",2,399,"Daou","","Grace","Conservative","Conservateur",N,N,42
+24078,"Vimy","Vimy"," 17","Laval",N,N,"",2,399,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,60
+24078,"Vimy","Vimy"," 17","Laval",N,N,"",2,399,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 17","Laval",N,N,"",2,399,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,27
+24078,"Vimy","Vimy"," 18","Laval",N,N,"",7,485,"Daou","","Grace","Conservative","Conservateur",N,N,35
+24078,"Vimy","Vimy"," 18","Laval",N,N,"",7,485,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,73
+24078,"Vimy","Vimy"," 18","Laval",N,N,"",7,485,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 18","Laval",N,N,"",7,485,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,43
+24078,"Vimy","Vimy"," 19","Laval",N,N,"",1,336,"Daou","","Grace","Conservative","Conservateur",N,N,13
+24078,"Vimy","Vimy"," 19","Laval",N,N,"",1,336,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,50
+24078,"Vimy","Vimy"," 19","Laval",N,N,"",1,336,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24078,"Vimy","Vimy"," 19","Laval",N,N,"",1,336,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,13
+24078,"Vimy","Vimy"," 20","Laval",N,N,"",1,342,"Daou","","Grace","Conservative","Conservateur",N,N,21
+24078,"Vimy","Vimy"," 20","Laval",N,N,"",1,342,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,46
+24078,"Vimy","Vimy"," 20","Laval",N,N,"",1,342,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 20","Laval",N,N,"",1,342,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,27
+24078,"Vimy","Vimy"," 21","Laval",N,N,"",4,370,"Daou","","Grace","Conservative","Conservateur",N,N,24
+24078,"Vimy","Vimy"," 21","Laval",N,N,"",4,370,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,46
+24078,"Vimy","Vimy"," 21","Laval",N,N,"",4,370,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 21","Laval",N,N,"",4,370,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,12
+24078,"Vimy","Vimy"," 22","Laval",N,N,"",2,381,"Daou","","Grace","Conservative","Conservateur",N,N,24
+24078,"Vimy","Vimy"," 22","Laval",N,N,"",2,381,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,57
+24078,"Vimy","Vimy"," 22","Laval",N,N,"",2,381,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 22","Laval",N,N,"",2,381,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,27
+24078,"Vimy","Vimy"," 23","Laval",N,N,"",2,396,"Daou","","Grace","Conservative","Conservateur",N,N,22
+24078,"Vimy","Vimy"," 23","Laval",N,N,"",2,396,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,37
+24078,"Vimy","Vimy"," 23","Laval",N,N,"",2,396,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24078,"Vimy","Vimy"," 23","Laval",N,N,"",2,396,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,22
+24078,"Vimy","Vimy"," 24","Laval",N,N,"",1,407,"Daou","","Grace","Conservative","Conservateur",N,N,36
+24078,"Vimy","Vimy"," 24","Laval",N,N,"",1,407,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,72
+24078,"Vimy","Vimy"," 24","Laval",N,N,"",1,407,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 24","Laval",N,N,"",1,407,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,11
+24078,"Vimy","Vimy"," 25","Laval",N,N,"",1,404,"Daou","","Grace","Conservative","Conservateur",N,N,45
+24078,"Vimy","Vimy"," 25","Laval",N,N,"",1,404,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,57
+24078,"Vimy","Vimy"," 25","Laval",N,N,"",1,404,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 25","Laval",N,N,"",1,404,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,15
+24078,"Vimy","Vimy"," 26","Laval",N,N,"",2,376,"Daou","","Grace","Conservative","Conservateur",N,N,31
+24078,"Vimy","Vimy"," 26","Laval",N,N,"",2,376,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,74
+24078,"Vimy","Vimy"," 26","Laval",N,N,"",2,376,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+24078,"Vimy","Vimy"," 26","Laval",N,N,"",2,376,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,33
+24078,"Vimy","Vimy"," 27","Laval",N,N,"",0,399,"Daou","","Grace","Conservative","Conservateur",N,N,25
+24078,"Vimy","Vimy"," 27","Laval",N,N,"",0,399,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,59
+24078,"Vimy","Vimy"," 27","Laval",N,N,"",0,399,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+24078,"Vimy","Vimy"," 27","Laval",N,N,"",0,399,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,18
+24078,"Vimy","Vimy"," 28","Laval",N,N,"",5,379,"Daou","","Grace","Conservative","Conservateur",N,N,40
+24078,"Vimy","Vimy"," 28","Laval",N,N,"",5,379,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,65
+24078,"Vimy","Vimy"," 28","Laval",N,N,"",5,379,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24078,"Vimy","Vimy"," 28","Laval",N,N,"",5,379,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,30
+24078,"Vimy","Vimy"," 29","Laval",N,N,"",2,351,"Daou","","Grace","Conservative","Conservateur",N,N,16
+24078,"Vimy","Vimy"," 29","Laval",N,N,"",2,351,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,67
+24078,"Vimy","Vimy"," 29","Laval",N,N,"",2,351,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 29","Laval",N,N,"",2,351,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,24
+24078,"Vimy","Vimy"," 30","Laval",N,N,"",0,373,"Daou","","Grace","Conservative","Conservateur",N,N,23
+24078,"Vimy","Vimy"," 30","Laval",N,N,"",0,373,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,58
+24078,"Vimy","Vimy"," 30","Laval",N,N,"",0,373,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+24078,"Vimy","Vimy"," 30","Laval",N,N,"",0,373,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,27
+24078,"Vimy","Vimy"," 31","Laval",N,N,"",10,480,"Daou","","Grace","Conservative","Conservateur",N,N,40
+24078,"Vimy","Vimy"," 31","Laval",N,N,"",10,480,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,68
+24078,"Vimy","Vimy"," 31","Laval",N,N,"",10,480,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 31","Laval",N,N,"",10,480,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,41
+24078,"Vimy","Vimy"," 32","Laval",N,N,"",7,469,"Daou","","Grace","Conservative","Conservateur",N,N,74
+24078,"Vimy","Vimy"," 32","Laval",N,N,"",7,469,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,112
+24078,"Vimy","Vimy"," 32","Laval",N,N,"",7,469,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+24078,"Vimy","Vimy"," 32","Laval",N,N,"",7,469,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,38
+24078,"Vimy","Vimy"," 33","Laval",N,N,"",7,385,"Daou","","Grace","Conservative","Conservateur",N,N,54
+24078,"Vimy","Vimy"," 33","Laval",N,N,"",7,385,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,91
+24078,"Vimy","Vimy"," 33","Laval",N,N,"",7,385,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 33","Laval",N,N,"",7,385,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,18
+24078,"Vimy","Vimy"," 34","Laval",N,N,"",2,491,"Daou","","Grace","Conservative","Conservateur",N,N,70
+24078,"Vimy","Vimy"," 34","Laval",N,N,"",2,491,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,135
+24078,"Vimy","Vimy"," 34","Laval",N,N,"",2,491,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+24078,"Vimy","Vimy"," 34","Laval",N,N,"",2,491,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,38
+24078,"Vimy","Vimy"," 35","Laval",N,N,"",5,372,"Daou","","Grace","Conservative","Conservateur",N,N,66
+24078,"Vimy","Vimy"," 35","Laval",N,N,"",5,372,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,109
+24078,"Vimy","Vimy"," 35","Laval",N,N,"",5,372,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 35","Laval",N,N,"",5,372,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,20
+24078,"Vimy","Vimy"," 36","Laval",N,N,"",6,466,"Daou","","Grace","Conservative","Conservateur",N,N,65
+24078,"Vimy","Vimy"," 36","Laval",N,N,"",6,466,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,96
+24078,"Vimy","Vimy"," 36","Laval",N,N,"",6,466,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 36","Laval",N,N,"",6,466,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,43
+24078,"Vimy","Vimy"," 37","Laval",N,N,"",10,255,"Daou","","Grace","Conservative","Conservateur",N,N,57
+24078,"Vimy","Vimy"," 37","Laval",N,N,"",10,255,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,56
+24078,"Vimy","Vimy"," 37","Laval",N,N,"",10,255,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 37","Laval",N,N,"",10,255,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,11
+24078,"Vimy","Vimy"," 38","Laval",N,N,"",6,440,"Daou","","Grace","Conservative","Conservateur",N,N,35
+24078,"Vimy","Vimy"," 38","Laval",N,N,"",6,440,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,85
+24078,"Vimy","Vimy"," 38","Laval",N,N,"",6,440,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 38","Laval",N,N,"",6,440,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,13
+24078,"Vimy","Vimy"," 39","Laval",N,N,"",7,437,"Daou","","Grace","Conservative","Conservateur",N,N,59
+24078,"Vimy","Vimy"," 39","Laval",N,N,"",7,437,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,125
+24078,"Vimy","Vimy"," 39","Laval",N,N,"",7,437,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 39","Laval",N,N,"",7,437,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,48
+24078,"Vimy","Vimy"," 40","Laval",N,N,"",5,442,"Daou","","Grace","Conservative","Conservateur",N,N,55
+24078,"Vimy","Vimy"," 40","Laval",N,N,"",5,442,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,117
+24078,"Vimy","Vimy"," 40","Laval",N,N,"",5,442,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+24078,"Vimy","Vimy"," 40","Laval",N,N,"",5,442,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,47
+24078,"Vimy","Vimy"," 41","Laval",N,N,"",1,423,"Daou","","Grace","Conservative","Conservateur",N,N,35
+24078,"Vimy","Vimy"," 41","Laval",N,N,"",1,423,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,60
+24078,"Vimy","Vimy"," 41","Laval",N,N,"",1,423,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 41","Laval",N,N,"",1,423,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,23
+24078,"Vimy","Vimy"," 42","Laval",N,N,"",1,508,"Daou","","Grace","Conservative","Conservateur",N,N,49
+24078,"Vimy","Vimy"," 42","Laval",N,N,"",1,508,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,160
+24078,"Vimy","Vimy"," 42","Laval",N,N,"",1,508,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 42","Laval",N,N,"",1,508,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,39
+24078,"Vimy","Vimy"," 43","Laval",N,N,"",4,346,"Daou","","Grace","Conservative","Conservateur",N,N,38
+24078,"Vimy","Vimy"," 43","Laval",N,N,"",4,346,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,90
+24078,"Vimy","Vimy"," 43","Laval",N,N,"",4,346,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 43","Laval",N,N,"",4,346,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,15
+24078,"Vimy","Vimy"," 44","Laval",N,N,"",3,339,"Daou","","Grace","Conservative","Conservateur",N,N,25
+24078,"Vimy","Vimy"," 44","Laval",N,N,"",3,339,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,78
+24078,"Vimy","Vimy"," 44","Laval",N,N,"",3,339,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 44","Laval",N,N,"",3,339,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,29
+24078,"Vimy","Vimy"," 45","Laval",N,N,"",2,394,"Daou","","Grace","Conservative","Conservateur",N,N,51
+24078,"Vimy","Vimy"," 45","Laval",N,N,"",2,394,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,70
+24078,"Vimy","Vimy"," 45","Laval",N,N,"",2,394,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 45","Laval",N,N,"",2,394,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,20
+24078,"Vimy","Vimy"," 46","Laval",N,N,"",3,523,"Daou","","Grace","Conservative","Conservateur",N,N,44
+24078,"Vimy","Vimy"," 46","Laval",N,N,"",3,523,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,73
+24078,"Vimy","Vimy"," 46","Laval",N,N,"",3,523,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24078,"Vimy","Vimy"," 46","Laval",N,N,"",3,523,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,19
+24078,"Vimy","Vimy"," 47","Laval",N,N,"",4,435,"Daou","","Grace","Conservative","Conservateur",N,N,41
+24078,"Vimy","Vimy"," 47","Laval",N,N,"",4,435,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,99
+24078,"Vimy","Vimy"," 47","Laval",N,N,"",4,435,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+24078,"Vimy","Vimy"," 47","Laval",N,N,"",4,435,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,31
+24078,"Vimy","Vimy"," 48","Laval",N,N,"",3,480,"Daou","","Grace","Conservative","Conservateur",N,N,57
+24078,"Vimy","Vimy"," 48","Laval",N,N,"",3,480,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,135
+24078,"Vimy","Vimy"," 48","Laval",N,N,"",3,480,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 48","Laval",N,N,"",3,480,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,46
+24078,"Vimy","Vimy"," 49","Laval",N,N,"",6,479,"Daou","","Grace","Conservative","Conservateur",N,N,43
+24078,"Vimy","Vimy"," 49","Laval",N,N,"",6,479,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,110
+24078,"Vimy","Vimy"," 49","Laval",N,N,"",6,479,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24078,"Vimy","Vimy"," 49","Laval",N,N,"",6,479,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,41
+24078,"Vimy","Vimy"," 50","Laval",N,N,"",2,368,"Daou","","Grace","Conservative","Conservateur",N,N,34
+24078,"Vimy","Vimy"," 50","Laval",N,N,"",2,368,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,81
+24078,"Vimy","Vimy"," 50","Laval",N,N,"",2,368,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+24078,"Vimy","Vimy"," 50","Laval",N,N,"",2,368,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,34
+24078,"Vimy","Vimy"," 51","Laval",N,N,"",2,400,"Daou","","Grace","Conservative","Conservateur",N,N,54
+24078,"Vimy","Vimy"," 51","Laval",N,N,"",2,400,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,91
+24078,"Vimy","Vimy"," 51","Laval",N,N,"",2,400,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 51","Laval",N,N,"",2,400,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,32
+24078,"Vimy","Vimy"," 52","Laval",N,N,"",3,304,"Daou","","Grace","Conservative","Conservateur",N,N,29
+24078,"Vimy","Vimy"," 52","Laval",N,N,"",3,304,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,56
+24078,"Vimy","Vimy"," 52","Laval",N,N,"",3,304,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 52","Laval",N,N,"",3,304,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,25
+24078,"Vimy","Vimy"," 53","Laval",N,N,"",2,389,"Daou","","Grace","Conservative","Conservateur",N,N,24
+24078,"Vimy","Vimy"," 53","Laval",N,N,"",2,389,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,61
+24078,"Vimy","Vimy"," 53","Laval",N,N,"",2,389,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 53","Laval",N,N,"",2,389,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,23
+24078,"Vimy","Vimy"," 54A","Laval",N,N,"",3,410,"Daou","","Grace","Conservative","Conservateur",N,N,55
+24078,"Vimy","Vimy"," 54A","Laval",N,N,"",3,410,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,112
+24078,"Vimy","Vimy"," 54A","Laval",N,N,"",3,410,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+24078,"Vimy","Vimy"," 54A","Laval",N,N,"",3,410,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,54
+24078,"Vimy","Vimy"," 54B","Laval",N,N,"",3,404,"Daou","","Grace","Conservative","Conservateur",N,N,72
+24078,"Vimy","Vimy"," 54B","Laval",N,N,"",3,404,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,125
+24078,"Vimy","Vimy"," 54B","Laval",N,N,"",3,404,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+24078,"Vimy","Vimy"," 54B","Laval",N,N,"",3,404,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,48
+24078,"Vimy","Vimy"," 55","Laval",N,N,"",3,440,"Daou","","Grace","Conservative","Conservateur",N,N,50
+24078,"Vimy","Vimy"," 55","Laval",N,N,"",3,440,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,73
+24078,"Vimy","Vimy"," 55","Laval",N,N,"",3,440,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 55","Laval",N,N,"",3,440,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,22
+24078,"Vimy","Vimy"," 56","Laval",N,N,"",5,327,"Daou","","Grace","Conservative","Conservateur",N,N,27
+24078,"Vimy","Vimy"," 56","Laval",N,N,"",5,327,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,42
+24078,"Vimy","Vimy"," 56","Laval",N,N,"",5,327,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+24078,"Vimy","Vimy"," 56","Laval",N,N,"",5,327,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,33
+24078,"Vimy","Vimy"," 57","Laval",N,N,"",3,428,"Daou","","Grace","Conservative","Conservateur",N,N,52
+24078,"Vimy","Vimy"," 57","Laval",N,N,"",3,428,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,65
+24078,"Vimy","Vimy"," 57","Laval",N,N,"",3,428,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24078,"Vimy","Vimy"," 57","Laval",N,N,"",3,428,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,31
+24078,"Vimy","Vimy"," 58","Laval",N,N,"",2,398,"Daou","","Grace","Conservative","Conservateur",N,N,40
+24078,"Vimy","Vimy"," 58","Laval",N,N,"",2,398,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,81
+24078,"Vimy","Vimy"," 58","Laval",N,N,"",2,398,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 58","Laval",N,N,"",2,398,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,33
+24078,"Vimy","Vimy"," 59","Laval",N,N,"",2,385,"Daou","","Grace","Conservative","Conservateur",N,N,41
+24078,"Vimy","Vimy"," 59","Laval",N,N,"",2,385,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,78
+24078,"Vimy","Vimy"," 59","Laval",N,N,"",2,385,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 59","Laval",N,N,"",2,385,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,32
+24078,"Vimy","Vimy"," 60A","Laval",N,N,"112A",0,186,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 60A","Laval",N,N,"112A",0,186,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 60A","Laval",N,N,"112A",0,186,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 60A","Laval",N,N,"112A",0,186,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 60B","Laval",N,N,"112B",0,182,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 60B","Laval",N,N,"112B",0,182,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 60B","Laval",N,N,"112B",0,182,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 60B","Laval",N,N,"112B",0,182,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 61","Laval",N,N,"",10,442,"Daou","","Grace","Conservative","Conservateur",N,N,33
+24078,"Vimy","Vimy"," 61","Laval",N,N,"",10,442,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,84
+24078,"Vimy","Vimy"," 61","Laval",N,N,"",10,442,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24078,"Vimy","Vimy"," 61","Laval",N,N,"",10,442,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,21
+24078,"Vimy","Vimy"," 62","Laval",N,N,"",2,320,"Daou","","Grace","Conservative","Conservateur",N,N,17
+24078,"Vimy","Vimy"," 62","Laval",N,N,"",2,320,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,61
+24078,"Vimy","Vimy"," 62","Laval",N,N,"",2,320,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 62","Laval",N,N,"",2,320,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,30
+24078,"Vimy","Vimy"," 63","Laval",N,N,"",7,369,"Daou","","Grace","Conservative","Conservateur",N,N,30
+24078,"Vimy","Vimy"," 63","Laval",N,N,"",7,369,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,69
+24078,"Vimy","Vimy"," 63","Laval",N,N,"",7,369,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24078,"Vimy","Vimy"," 63","Laval",N,N,"",7,369,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,30
+24078,"Vimy","Vimy"," 64","Laval",N,N,"",4,348,"Daou","","Grace","Conservative","Conservateur",N,N,19
+24078,"Vimy","Vimy"," 64","Laval",N,N,"",4,348,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,79
+24078,"Vimy","Vimy"," 64","Laval",N,N,"",4,348,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 64","Laval",N,N,"",4,348,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,37
+24078,"Vimy","Vimy"," 65A","Laval",N,N,"54A",0,163,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 65A","Laval",N,N,"54A",0,163,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 65A","Laval",N,N,"54A",0,163,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 65A","Laval",N,N,"54A",0,163,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 65B","Laval",N,N,"54B",0,196,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 65B","Laval",N,N,"54B",0,196,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 65B","Laval",N,N,"54B",0,196,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 65B","Laval",N,N,"54B",0,196,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 66","Laval",N,N,"",7,462,"Daou","","Grace","Conservative","Conservateur",N,N,35
+24078,"Vimy","Vimy"," 66","Laval",N,N,"",7,462,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,92
+24078,"Vimy","Vimy"," 66","Laval",N,N,"",7,462,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+24078,"Vimy","Vimy"," 66","Laval",N,N,"",7,462,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,42
+24078,"Vimy","Vimy"," 67","Laval",N,N,"",4,420,"Daou","","Grace","Conservative","Conservateur",N,N,31
+24078,"Vimy","Vimy"," 67","Laval",N,N,"",4,420,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,91
+24078,"Vimy","Vimy"," 67","Laval",N,N,"",4,420,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 67","Laval",N,N,"",4,420,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,28
+24078,"Vimy","Vimy"," 68","Laval",N,N,"",4,393,"Daou","","Grace","Conservative","Conservateur",N,N,37
+24078,"Vimy","Vimy"," 68","Laval",N,N,"",4,393,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,84
+24078,"Vimy","Vimy"," 68","Laval",N,N,"",4,393,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 68","Laval",N,N,"",4,393,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,23
+24078,"Vimy","Vimy"," 69","Laval",N,N,"",6,416,"Daou","","Grace","Conservative","Conservateur",N,N,25
+24078,"Vimy","Vimy"," 69","Laval",N,N,"",6,416,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,106
+24078,"Vimy","Vimy"," 69","Laval",N,N,"",6,416,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 69","Laval",N,N,"",6,416,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,36
+24078,"Vimy","Vimy"," 70","Laval",N,N,"",4,363,"Daou","","Grace","Conservative","Conservateur",N,N,42
+24078,"Vimy","Vimy"," 70","Laval",N,N,"",4,363,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,73
+24078,"Vimy","Vimy"," 70","Laval",N,N,"",4,363,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+24078,"Vimy","Vimy"," 70","Laval",N,N,"",4,363,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,21
+24078,"Vimy","Vimy"," 71","Laval",N,N,"",5,520,"Daou","","Grace","Conservative","Conservateur",N,N,40
+24078,"Vimy","Vimy"," 71","Laval",N,N,"",5,520,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,118
+24078,"Vimy","Vimy"," 71","Laval",N,N,"",5,520,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 71","Laval",N,N,"",5,520,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,43
+24078,"Vimy","Vimy"," 72","Laval",N,N,"",2,499,"Daou","","Grace","Conservative","Conservateur",N,N,36
+24078,"Vimy","Vimy"," 72","Laval",N,N,"",2,499,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,121
+24078,"Vimy","Vimy"," 72","Laval",N,N,"",2,499,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+24078,"Vimy","Vimy"," 72","Laval",N,N,"",2,499,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,81
+24078,"Vimy","Vimy"," 73","Laval",N,N,"",12,351,"Daou","","Grace","Conservative","Conservateur",N,N,75
+24078,"Vimy","Vimy"," 73","Laval",N,N,"",12,351,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,162
+24078,"Vimy","Vimy"," 73","Laval",N,N,"",12,351,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 73","Laval",N,N,"",12,351,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,67
+24078,"Vimy","Vimy"," 74","Laval",N,N,"73",0,342,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 74","Laval",N,N,"73",0,342,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 74","Laval",N,N,"73",0,342,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 74","Laval",N,N,"73",0,342,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 75","Laval",N,N,"",5,362,"Daou","","Grace","Conservative","Conservateur",N,N,38
+24078,"Vimy","Vimy"," 75","Laval",N,N,"",5,362,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,75
+24078,"Vimy","Vimy"," 75","Laval",N,N,"",5,362,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 75","Laval",N,N,"",5,362,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,50
+24078,"Vimy","Vimy"," 76","Laval",N,N,"77",0,423,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 76","Laval",N,N,"77",0,423,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 76","Laval",N,N,"77",0,423,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 76","Laval",N,N,"77",0,423,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 77","Laval",N,N,"",6,452,"Daou","","Grace","Conservative","Conservateur",N,N,70
+24078,"Vimy","Vimy"," 77","Laval",N,N,"",6,452,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,126
+24078,"Vimy","Vimy"," 77","Laval",N,N,"",6,452,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+24078,"Vimy","Vimy"," 77","Laval",N,N,"",6,452,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,47
+24078,"Vimy","Vimy"," 78","Laval",N,N,"",3,389,"Daou","","Grace","Conservative","Conservateur",N,N,29
+24078,"Vimy","Vimy"," 78","Laval",N,N,"",3,389,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,70
+24078,"Vimy","Vimy"," 78","Laval",N,N,"",3,389,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24078,"Vimy","Vimy"," 78","Laval",N,N,"",3,389,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,39
+24078,"Vimy","Vimy"," 79","Laval",N,N,"",3,599,"Daou","","Grace","Conservative","Conservateur",N,N,52
+24078,"Vimy","Vimy"," 79","Laval",N,N,"",3,599,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,123
+24078,"Vimy","Vimy"," 79","Laval",N,N,"",3,599,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+24078,"Vimy","Vimy"," 79","Laval",N,N,"",3,599,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,45
+24078,"Vimy","Vimy"," 80","Laval",N,N,"",0,412,"Daou","","Grace","Conservative","Conservateur",N,N,35
+24078,"Vimy","Vimy"," 80","Laval",N,N,"",0,412,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,60
+24078,"Vimy","Vimy"," 80","Laval",N,N,"",0,412,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 80","Laval",N,N,"",0,412,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,31
+24078,"Vimy","Vimy"," 81","Laval",N,N,"",3,334,"Daou","","Grace","Conservative","Conservateur",N,N,27
+24078,"Vimy","Vimy"," 81","Laval",N,N,"",3,334,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,72
+24078,"Vimy","Vimy"," 81","Laval",N,N,"",3,334,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24078,"Vimy","Vimy"," 81","Laval",N,N,"",3,334,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,20
+24078,"Vimy","Vimy"," 82","Laval",N,N,"",5,532,"Daou","","Grace","Conservative","Conservateur",N,N,55
+24078,"Vimy","Vimy"," 82","Laval",N,N,"",5,532,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,92
+24078,"Vimy","Vimy"," 82","Laval",N,N,"",5,532,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+24078,"Vimy","Vimy"," 82","Laval",N,N,"",5,532,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,8
+24078,"Vimy","Vimy"," 83","Laval",N,N,"",2,497,"Daou","","Grace","Conservative","Conservateur",N,N,57
+24078,"Vimy","Vimy"," 83","Laval",N,N,"",2,497,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,109
+24078,"Vimy","Vimy"," 83","Laval",N,N,"",2,497,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+24078,"Vimy","Vimy"," 83","Laval",N,N,"",2,497,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,28
+24078,"Vimy","Vimy"," 84","Laval",N,N,"",3,338,"Daou","","Grace","Conservative","Conservateur",N,N,23
+24078,"Vimy","Vimy"," 84","Laval",N,N,"",3,338,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,44
+24078,"Vimy","Vimy"," 84","Laval",N,N,"",3,338,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+24078,"Vimy","Vimy"," 84","Laval",N,N,"",3,338,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,19
+24078,"Vimy","Vimy"," 85","Laval",N,N,"",5,374,"Daou","","Grace","Conservative","Conservateur",N,N,39
+24078,"Vimy","Vimy"," 85","Laval",N,N,"",5,374,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,81
+24078,"Vimy","Vimy"," 85","Laval",N,N,"",5,374,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 85","Laval",N,N,"",5,374,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,25
+24078,"Vimy","Vimy"," 86","Laval",N,N,"",3,343,"Daou","","Grace","Conservative","Conservateur",N,N,30
+24078,"Vimy","Vimy"," 86","Laval",N,N,"",3,343,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,69
+24078,"Vimy","Vimy"," 86","Laval",N,N,"",3,343,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 86","Laval",N,N,"",3,343,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,35
+24078,"Vimy","Vimy"," 87","Laval",N,N,"",3,399,"Daou","","Grace","Conservative","Conservateur",N,N,50
+24078,"Vimy","Vimy"," 87","Laval",N,N,"",3,399,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,61
+24078,"Vimy","Vimy"," 87","Laval",N,N,"",3,399,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24078,"Vimy","Vimy"," 87","Laval",N,N,"",3,399,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,19
+24078,"Vimy","Vimy"," 88","Laval",N,N,"",2,500,"Daou","","Grace","Conservative","Conservateur",N,N,56
+24078,"Vimy","Vimy"," 88","Laval",N,N,"",2,500,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,96
+24078,"Vimy","Vimy"," 88","Laval",N,N,"",2,500,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 88","Laval",N,N,"",2,500,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,21
+24078,"Vimy","Vimy"," 89","Laval",N,N,"",0,618,"Daou","","Grace","Conservative","Conservateur",N,N,66
+24078,"Vimy","Vimy"," 89","Laval",N,N,"",0,618,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,71
+24078,"Vimy","Vimy"," 89","Laval",N,N,"",0,618,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 89","Laval",N,N,"",0,618,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,26
+24078,"Vimy","Vimy"," 90","Laval",N,N,"",1,376,"Daou","","Grace","Conservative","Conservateur",N,N,46
+24078,"Vimy","Vimy"," 90","Laval",N,N,"",1,376,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,55
+24078,"Vimy","Vimy"," 90","Laval",N,N,"",1,376,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 90","Laval",N,N,"",1,376,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,11
+24078,"Vimy","Vimy"," 91","Laval",N,N,"",3,572,"Daou","","Grace","Conservative","Conservateur",N,N,52
+24078,"Vimy","Vimy"," 91","Laval",N,N,"",3,572,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,95
+24078,"Vimy","Vimy"," 91","Laval",N,N,"",3,572,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 91","Laval",N,N,"",3,572,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,26
+24078,"Vimy","Vimy"," 92","Laval",N,N,"",4,471,"Daou","","Grace","Conservative","Conservateur",N,N,37
+24078,"Vimy","Vimy"," 92","Laval",N,N,"",4,471,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,70
+24078,"Vimy","Vimy"," 92","Laval",N,N,"",4,471,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 92","Laval",N,N,"",4,471,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,25
+24078,"Vimy","Vimy"," 93A","Laval",N,N,"97A",0,236,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 93A","Laval",N,N,"97A",0,236,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 93A","Laval",N,N,"97A",0,236,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 93A","Laval",N,N,"97A",0,236,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 93B","Laval",N,N,"97B",0,206,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 93B","Laval",N,N,"97B",0,206,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 93B","Laval",N,N,"97B",0,206,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 93B","Laval",N,N,"97B",0,206,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 94","Laval",N,N,"",2,626,"Daou","","Grace","Conservative","Conservateur",N,N,65
+24078,"Vimy","Vimy"," 94","Laval",N,N,"",2,626,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,101
+24078,"Vimy","Vimy"," 94","Laval",N,N,"",2,626,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 94","Laval",N,N,"",2,626,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,21
+24078,"Vimy","Vimy"," 95","Laval",N,N,"",1,379,"Daou","","Grace","Conservative","Conservateur",N,N,77
+24078,"Vimy","Vimy"," 95","Laval",N,N,"",1,379,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,60
+24078,"Vimy","Vimy"," 95","Laval",N,N,"",1,379,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24078,"Vimy","Vimy"," 95","Laval",N,N,"",1,379,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,12
+24078,"Vimy","Vimy"," 96A","Laval",N,N,"",1,404,"Daou","","Grace","Conservative","Conservateur",N,N,96
+24078,"Vimy","Vimy"," 96A","Laval",N,N,"",1,404,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,67
+24078,"Vimy","Vimy"," 96A","Laval",N,N,"",1,404,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 96A","Laval",N,N,"",1,404,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,21
+24078,"Vimy","Vimy"," 96B","Laval",N,N,"",2,439,"Daou","","Grace","Conservative","Conservateur",N,N,98
+24078,"Vimy","Vimy"," 96B","Laval",N,N,"",2,439,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,64
+24078,"Vimy","Vimy"," 96B","Laval",N,N,"",2,439,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 96B","Laval",N,N,"",2,439,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,34
+24078,"Vimy","Vimy"," 97A","Laval",N,N,"",9,388,"Daou","","Grace","Conservative","Conservateur",N,N,76
+24078,"Vimy","Vimy"," 97A","Laval",N,N,"",9,388,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,101
+24078,"Vimy","Vimy"," 97A","Laval",N,N,"",9,388,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 97A","Laval",N,N,"",9,388,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,19
+24078,"Vimy","Vimy"," 97B","Laval",N,N,"",6,357,"Daou","","Grace","Conservative","Conservateur",N,N,74
+24078,"Vimy","Vimy"," 97B","Laval",N,N,"",6,357,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,103
+24078,"Vimy","Vimy"," 97B","Laval",N,N,"",6,357,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24078,"Vimy","Vimy"," 97B","Laval",N,N,"",6,357,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,30
+24078,"Vimy","Vimy"," 98","Laval",N,N,"",3,520,"Daou","","Grace","Conservative","Conservateur",N,N,27
+24078,"Vimy","Vimy"," 98","Laval",N,N,"",3,520,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,76
+24078,"Vimy","Vimy"," 98","Laval",N,N,"",3,520,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 98","Laval",N,N,"",3,520,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,16
+24078,"Vimy","Vimy"," 99A","Laval",N,N,"96A",0,163,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 99A","Laval",N,N,"96A",0,163,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 99A","Laval",N,N,"96A",0,163,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 99A","Laval",N,N,"96A",0,163,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 99B","Laval",N,N,"96B",0,152,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 99B","Laval",N,N,"96B",0,152,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 99B","Laval",N,N,"96B",0,152,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 99B","Laval",N,N,"96B",0,152,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 100","Laval",N,N,"",3,519,"Daou","","Grace","Conservative","Conservateur",N,N,34
+24078,"Vimy","Vimy"," 100","Laval",N,N,"",3,519,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,72
+24078,"Vimy","Vimy"," 100","Laval",N,N,"",3,519,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 100","Laval",N,N,"",3,519,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,29
+24078,"Vimy","Vimy"," 101","Laval",N,N,"",2,562,"Daou","","Grace","Conservative","Conservateur",N,N,100
+24078,"Vimy","Vimy"," 101","Laval",N,N,"",2,562,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,90
+24078,"Vimy","Vimy"," 101","Laval",N,N,"",2,562,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 101","Laval",N,N,"",2,562,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,13
+24078,"Vimy","Vimy"," 102","Laval",N,N,"",2,530,"Daou","","Grace","Conservative","Conservateur",N,N,10
+24078,"Vimy","Vimy"," 102","Laval",N,N,"",2,530,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,60
+24078,"Vimy","Vimy"," 102","Laval",N,N,"",2,530,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24078,"Vimy","Vimy"," 102","Laval",N,N,"",2,530,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,21
+24078,"Vimy","Vimy"," 103","Laval",N,N,"",3,419,"Daou","","Grace","Conservative","Conservateur",N,N,45
+24078,"Vimy","Vimy"," 103","Laval",N,N,"",3,419,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,57
+24078,"Vimy","Vimy"," 103","Laval",N,N,"",3,419,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 103","Laval",N,N,"",3,419,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,19
+24078,"Vimy","Vimy"," 104","Laval",N,N,"",6,471,"Daou","","Grace","Conservative","Conservateur",N,N,54
+24078,"Vimy","Vimy"," 104","Laval",N,N,"",6,471,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,49
+24078,"Vimy","Vimy"," 104","Laval",N,N,"",6,471,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 104","Laval",N,N,"",6,471,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,13
+24078,"Vimy","Vimy"," 105","Laval",N,N,"",2,357,"Daou","","Grace","Conservative","Conservateur",N,N,42
+24078,"Vimy","Vimy"," 105","Laval",N,N,"",2,357,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,57
+24078,"Vimy","Vimy"," 105","Laval",N,N,"",2,357,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 105","Laval",N,N,"",2,357,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,18
+24078,"Vimy","Vimy"," 106","Laval",N,N,"",7,495,"Daou","","Grace","Conservative","Conservateur",N,N,43
+24078,"Vimy","Vimy"," 106","Laval",N,N,"",7,495,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,59
+24078,"Vimy","Vimy"," 106","Laval",N,N,"",7,495,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 106","Laval",N,N,"",7,495,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,15
+24078,"Vimy","Vimy"," 107","Laval",N,N,"",4,481,"Daou","","Grace","Conservative","Conservateur",N,N,53
+24078,"Vimy","Vimy"," 107","Laval",N,N,"",4,481,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,83
+24078,"Vimy","Vimy"," 107","Laval",N,N,"",4,481,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 107","Laval",N,N,"",4,481,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,15
+24078,"Vimy","Vimy"," 108","Laval",N,N,"",1,409,"Daou","","Grace","Conservative","Conservateur",N,N,62
+24078,"Vimy","Vimy"," 108","Laval",N,N,"",1,409,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,78
+24078,"Vimy","Vimy"," 108","Laval",N,N,"",1,409,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 108","Laval",N,N,"",1,409,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,21
+24078,"Vimy","Vimy"," 109","Laval",N,N,"",16,496,"Daou","","Grace","Conservative","Conservateur",N,N,61
+24078,"Vimy","Vimy"," 109","Laval",N,N,"",16,496,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,118
+24078,"Vimy","Vimy"," 109","Laval",N,N,"",16,496,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24078,"Vimy","Vimy"," 109","Laval",N,N,"",16,496,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,12
+24078,"Vimy","Vimy"," 110","Laval",N,N,"",4,467,"Daou","","Grace","Conservative","Conservateur",N,N,52
+24078,"Vimy","Vimy"," 110","Laval",N,N,"",4,467,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,87
+24078,"Vimy","Vimy"," 110","Laval",N,N,"",4,467,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 110","Laval",N,N,"",4,467,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,14
+24078,"Vimy","Vimy"," 111","Laval",N,N,"",2,448,"Daou","","Grace","Conservative","Conservateur",N,N,32
+24078,"Vimy","Vimy"," 111","Laval",N,N,"",2,448,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,77
+24078,"Vimy","Vimy"," 111","Laval",N,N,"",2,448,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+24078,"Vimy","Vimy"," 111","Laval",N,N,"",2,448,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,32
+24078,"Vimy","Vimy"," 112A","Laval",N,N,"",3,449,"Daou","","Grace","Conservative","Conservateur",N,N,64
+24078,"Vimy","Vimy"," 112A","Laval",N,N,"",3,449,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,126
+24078,"Vimy","Vimy"," 112A","Laval",N,N,"",3,449,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+24078,"Vimy","Vimy"," 112A","Laval",N,N,"",3,449,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,58
+24078,"Vimy","Vimy"," 112B","Laval",N,N,"",3,469,"Daou","","Grace","Conservative","Conservateur",N,N,58
+24078,"Vimy","Vimy"," 112B","Laval",N,N,"",3,469,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,108
+24078,"Vimy","Vimy"," 112B","Laval",N,N,"",3,469,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 112B","Laval",N,N,"",3,469,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,46
+24078,"Vimy","Vimy"," 113","Laval",N,N,"",5,439,"Daou","","Grace","Conservative","Conservateur",N,N,20
+24078,"Vimy","Vimy"," 113","Laval",N,N,"",5,439,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,95
+24078,"Vimy","Vimy"," 113","Laval",N,N,"",5,439,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 113","Laval",N,N,"",5,439,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,31
+24078,"Vimy","Vimy"," 114","Laval",N,N,"115",0,395,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 114","Laval",N,N,"115",0,395,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 114","Laval",N,N,"115",0,395,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 114","Laval",N,N,"115",0,395,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 115","Laval",N,N,"",5,426,"Daou","","Grace","Conservative","Conservateur",N,N,88
+24078,"Vimy","Vimy"," 115","Laval",N,N,"",5,426,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,183
+24078,"Vimy","Vimy"," 115","Laval",N,N,"",5,426,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24078,"Vimy","Vimy"," 115","Laval",N,N,"",5,426,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,63
+24078,"Vimy","Vimy"," 116","Laval",N,N,"",4,447,"Daou","","Grace","Conservative","Conservateur",N,N,57
+24078,"Vimy","Vimy"," 116","Laval",N,N,"",4,447,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,90
+24078,"Vimy","Vimy"," 116","Laval",N,N,"",4,447,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 116","Laval",N,N,"",4,447,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,22
+24078,"Vimy","Vimy"," 117","Laval",N,N,"",3,347,"Daou","","Grace","Conservative","Conservateur",N,N,43
+24078,"Vimy","Vimy"," 117","Laval",N,N,"",3,347,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,81
+24078,"Vimy","Vimy"," 117","Laval",N,N,"",3,347,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+24078,"Vimy","Vimy"," 117","Laval",N,N,"",3,347,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,34
+24078,"Vimy","Vimy"," 118","Laval",N,N,"",8,439,"Daou","","Grace","Conservative","Conservateur",N,N,48
+24078,"Vimy","Vimy"," 118","Laval",N,N,"",8,439,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,81
+24078,"Vimy","Vimy"," 118","Laval",N,N,"",8,439,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+24078,"Vimy","Vimy"," 118","Laval",N,N,"",8,439,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,54
+24078,"Vimy","Vimy"," 119","Laval",N,N,"",1,388,"Daou","","Grace","Conservative","Conservateur",N,N,42
+24078,"Vimy","Vimy"," 119","Laval",N,N,"",1,388,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,72
+24078,"Vimy","Vimy"," 119","Laval",N,N,"",1,388,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 119","Laval",N,N,"",1,388,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,38
+24078,"Vimy","Vimy"," 120","Laval",N,N,"",3,385,"Daou","","Grace","Conservative","Conservateur",N,N,37
+24078,"Vimy","Vimy"," 120","Laval",N,N,"",3,385,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,90
+24078,"Vimy","Vimy"," 120","Laval",N,N,"",3,385,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24078,"Vimy","Vimy"," 120","Laval",N,N,"",3,385,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,44
+24078,"Vimy","Vimy"," 121","Laval",N,N,"",3,327,"Daou","","Grace","Conservative","Conservateur",N,N,26
+24078,"Vimy","Vimy"," 121","Laval",N,N,"",3,327,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,93
+24078,"Vimy","Vimy"," 121","Laval",N,N,"",3,327,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 121","Laval",N,N,"",3,327,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,37
+24078,"Vimy","Vimy"," 122","Laval",N,N,"",3,395,"Daou","","Grace","Conservative","Conservateur",N,N,53
+24078,"Vimy","Vimy"," 122","Laval",N,N,"",3,395,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,76
+24078,"Vimy","Vimy"," 122","Laval",N,N,"",3,395,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24078,"Vimy","Vimy"," 122","Laval",N,N,"",3,395,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,49
+24078,"Vimy","Vimy"," 123","Laval",N,N,"",5,439,"Daou","","Grace","Conservative","Conservateur",N,N,54
+24078,"Vimy","Vimy"," 123","Laval",N,N,"",5,439,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,80
+24078,"Vimy","Vimy"," 123","Laval",N,N,"",5,439,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 123","Laval",N,N,"",5,439,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,39
+24078,"Vimy","Vimy"," 124","Laval",N,N,"140",0,419,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 124","Laval",N,N,"140",0,419,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 124","Laval",N,N,"140",0,419,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 124","Laval",N,N,"140",0,419,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 125","Laval",N,N,"",2,421,"Daou","","Grace","Conservative","Conservateur",N,N,58
+24078,"Vimy","Vimy"," 125","Laval",N,N,"",2,421,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,72
+24078,"Vimy","Vimy"," 125","Laval",N,N,"",2,421,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24078,"Vimy","Vimy"," 125","Laval",N,N,"",2,421,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,14
+24078,"Vimy","Vimy"," 126","Laval",N,N,"",7,513,"Daou","","Grace","Conservative","Conservateur",N,N,79
+24078,"Vimy","Vimy"," 126","Laval",N,N,"",7,513,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,89
+24078,"Vimy","Vimy"," 126","Laval",N,N,"",7,513,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 126","Laval",N,N,"",7,513,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,17
+24078,"Vimy","Vimy"," 127","Laval",N,N,"",9,555,"Daou","","Grace","Conservative","Conservateur",N,N,62
+24078,"Vimy","Vimy"," 127","Laval",N,N,"",9,555,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,86
+24078,"Vimy","Vimy"," 127","Laval",N,N,"",9,555,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 127","Laval",N,N,"",9,555,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,16
+24078,"Vimy","Vimy"," 128","Laval",N,N,"",5,472,"Daou","","Grace","Conservative","Conservateur",N,N,68
+24078,"Vimy","Vimy"," 128","Laval",N,N,"",5,472,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,103
+24078,"Vimy","Vimy"," 128","Laval",N,N,"",5,472,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+24078,"Vimy","Vimy"," 128","Laval",N,N,"",5,472,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,12
+24078,"Vimy","Vimy"," 129","Laval",N,N,"",5,437,"Daou","","Grace","Conservative","Conservateur",N,N,82
+24078,"Vimy","Vimy"," 129","Laval",N,N,"",5,437,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,107
+24078,"Vimy","Vimy"," 129","Laval",N,N,"",5,437,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 129","Laval",N,N,"",5,437,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,8
+24078,"Vimy","Vimy"," 130","Laval",N,N,"",2,420,"Daou","","Grace","Conservative","Conservateur",N,N,41
+24078,"Vimy","Vimy"," 130","Laval",N,N,"",2,420,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,67
+24078,"Vimy","Vimy"," 130","Laval",N,N,"",2,420,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 130","Laval",N,N,"",2,420,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,10
+24078,"Vimy","Vimy"," 131","Laval",N,N,"",2,415,"Daou","","Grace","Conservative","Conservateur",N,N,36
+24078,"Vimy","Vimy"," 131","Laval",N,N,"",2,415,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,67
+24078,"Vimy","Vimy"," 131","Laval",N,N,"",2,415,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 131","Laval",N,N,"",2,415,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,13
+24078,"Vimy","Vimy"," 132","Laval",N,N,"",4,433,"Daou","","Grace","Conservative","Conservateur",N,N,70
+24078,"Vimy","Vimy"," 132","Laval",N,N,"",4,433,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,112
+24078,"Vimy","Vimy"," 132","Laval",N,N,"",4,433,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 132","Laval",N,N,"",4,433,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,18
+24078,"Vimy","Vimy"," 133A","Laval",N,N,"",3,360,"Daou","","Grace","Conservative","Conservateur",N,N,40
+24078,"Vimy","Vimy"," 133A","Laval",N,N,"",3,360,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,80
+24078,"Vimy","Vimy"," 133A","Laval",N,N,"",3,360,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24078,"Vimy","Vimy"," 133A","Laval",N,N,"",3,360,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,21
+24078,"Vimy","Vimy"," 133B","Mobile poll/Bureau itinérant",N,N,"",7,127,"Daou","","Grace","Conservative","Conservateur",N,N,9
+24078,"Vimy","Vimy"," 133B","Mobile poll/Bureau itinérant",N,N,"",7,127,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,77
+24078,"Vimy","Vimy"," 133B","Mobile poll/Bureau itinérant",N,N,"",7,127,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24078,"Vimy","Vimy"," 133B","Mobile poll/Bureau itinérant",N,N,"",7,127,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,29
+24078,"Vimy","Vimy"," 134A","Laval",N,N,"133A",0,74,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 134A","Laval",N,N,"133A",0,74,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 134A","Laval",N,N,"133A",0,74,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 134A","Laval",N,N,"133A",0,74,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 134B","Laval",N,N,"405B",0,343,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 134B","Laval",N,N,"405B",0,343,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 134B","Laval",N,N,"405B",0,343,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 134B","Laval",N,N,"405B",0,343,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 135","Laval",N,N,"",9,564,"Daou","","Grace","Conservative","Conservateur",N,N,82
+24078,"Vimy","Vimy"," 135","Laval",N,N,"",9,564,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,141
+24078,"Vimy","Vimy"," 135","Laval",N,N,"",9,564,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 135","Laval",N,N,"",9,564,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,20
+24078,"Vimy","Vimy"," 136","Laval",N,N,"",6,526,"Daou","","Grace","Conservative","Conservateur",N,N,54
+24078,"Vimy","Vimy"," 136","Laval",N,N,"",6,526,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,124
+24078,"Vimy","Vimy"," 136","Laval",N,N,"",6,526,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 136","Laval",N,N,"",6,526,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,21
+24078,"Vimy","Vimy"," 137","Laval",N,N,"",11,552,"Daou","","Grace","Conservative","Conservateur",N,N,42
+24078,"Vimy","Vimy"," 137","Laval",N,N,"",11,552,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,98
+24078,"Vimy","Vimy"," 137","Laval",N,N,"",11,552,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 137","Laval",N,N,"",11,552,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,60
+24078,"Vimy","Vimy"," 138","Laval",N,N,"",5,466,"Daou","","Grace","Conservative","Conservateur",N,N,49
+24078,"Vimy","Vimy"," 138","Laval",N,N,"",5,466,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,94
+24078,"Vimy","Vimy"," 138","Laval",N,N,"",5,466,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 138","Laval",N,N,"",5,466,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,17
+24078,"Vimy","Vimy"," 139","Laval",N,N,"",4,617,"Daou","","Grace","Conservative","Conservateur",N,N,61
+24078,"Vimy","Vimy"," 139","Laval",N,N,"",4,617,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,105
+24078,"Vimy","Vimy"," 139","Laval",N,N,"",4,617,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 139","Laval",N,N,"",4,617,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,26
+24078,"Vimy","Vimy"," 140","Laval",N,N,"",17,484,"Daou","","Grace","Conservative","Conservateur",N,N,117
+24078,"Vimy","Vimy"," 140","Laval",N,N,"",17,484,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,201
+24078,"Vimy","Vimy"," 140","Laval",N,N,"",17,484,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+24078,"Vimy","Vimy"," 140","Laval",N,N,"",17,484,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,52
+24078,"Vimy","Vimy"," 141A","Laval",N,N,"",3,558,"Daou","","Grace","Conservative","Conservateur",N,N,56
+24078,"Vimy","Vimy"," 141A","Laval",N,N,"",3,558,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,77
+24078,"Vimy","Vimy"," 141A","Laval",N,N,"",3,558,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 141A","Laval",N,N,"",3,558,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,35
+24078,"Vimy","Vimy"," 141B","Laval",N,N,"",3,345,"Daou","","Grace","Conservative","Conservateur",N,N,29
+24078,"Vimy","Vimy"," 141B","Laval",N,N,"",3,345,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,81
+24078,"Vimy","Vimy"," 141B","Laval",N,N,"",3,345,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 141B","Laval",N,N,"",3,345,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,24
+24078,"Vimy","Vimy"," 142","Laval",N,N,"",2,493,"Daou","","Grace","Conservative","Conservateur",N,N,120
+24078,"Vimy","Vimy"," 142","Laval",N,N,"",2,493,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,101
+24078,"Vimy","Vimy"," 142","Laval",N,N,"",2,493,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 142","Laval",N,N,"",2,493,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,13
+24078,"Vimy","Vimy"," 143","Laval",N,N,"",6,501,"Daou","","Grace","Conservative","Conservateur",N,N,75
+24078,"Vimy","Vimy"," 143","Laval",N,N,"",6,501,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,90
+24078,"Vimy","Vimy"," 143","Laval",N,N,"",6,501,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 143","Laval",N,N,"",6,501,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,25
+24078,"Vimy","Vimy"," 144","Laval",N,N,"",6,465,"Daou","","Grace","Conservative","Conservateur",N,N,68
+24078,"Vimy","Vimy"," 144","Laval",N,N,"",6,465,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,75
+24078,"Vimy","Vimy"," 144","Laval",N,N,"",6,465,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 144","Laval",N,N,"",6,465,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,16
+24078,"Vimy","Vimy"," 145","Laval",N,N,"",7,473,"Daou","","Grace","Conservative","Conservateur",N,N,75
+24078,"Vimy","Vimy"," 145","Laval",N,N,"",7,473,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,94
+24078,"Vimy","Vimy"," 145","Laval",N,N,"",7,473,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 145","Laval",N,N,"",7,473,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,15
+24078,"Vimy","Vimy"," 146","Laval",N,N,"",5,386,"Daou","","Grace","Conservative","Conservateur",N,N,62
+24078,"Vimy","Vimy"," 146","Laval",N,N,"",5,386,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,70
+24078,"Vimy","Vimy"," 146","Laval",N,N,"",5,386,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 146","Laval",N,N,"",5,386,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,23
+24078,"Vimy","Vimy"," 147","Laval",N,N,"",3,349,"Daou","","Grace","Conservative","Conservateur",N,N,46
+24078,"Vimy","Vimy"," 147","Laval",N,N,"",3,349,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,61
+24078,"Vimy","Vimy"," 147","Laval",N,N,"",3,349,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24078,"Vimy","Vimy"," 147","Laval",N,N,"",3,349,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,10
+24078,"Vimy","Vimy"," 148","Laval",N,N,"",3,501,"Daou","","Grace","Conservative","Conservateur",N,N,55
+24078,"Vimy","Vimy"," 148","Laval",N,N,"",3,501,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,103
+24078,"Vimy","Vimy"," 148","Laval",N,N,"",3,501,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 148","Laval",N,N,"",3,501,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,25
+24078,"Vimy","Vimy"," 149","Laval",N,N,"",5,502,"Daou","","Grace","Conservative","Conservateur",N,N,98
+24078,"Vimy","Vimy"," 149","Laval",N,N,"",5,502,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,71
+24078,"Vimy","Vimy"," 149","Laval",N,N,"",5,502,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 149","Laval",N,N,"",5,502,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,15
+24078,"Vimy","Vimy"," 150","Laval",N,N,"",4,511,"Daou","","Grace","Conservative","Conservateur",N,N,99
+24078,"Vimy","Vimy"," 150","Laval",N,N,"",4,511,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,106
+24078,"Vimy","Vimy"," 150","Laval",N,N,"",4,511,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24078,"Vimy","Vimy"," 150","Laval",N,N,"",4,511,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,5
+24078,"Vimy","Vimy"," 151","Laval",N,N,"",2,363,"Daou","","Grace","Conservative","Conservateur",N,N,72
+24078,"Vimy","Vimy"," 151","Laval",N,N,"",2,363,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,82
+24078,"Vimy","Vimy"," 151","Laval",N,N,"",2,363,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 151","Laval",N,N,"",2,363,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 152","Laval",N,N,"",2,547,"Daou","","Grace","Conservative","Conservateur",N,N,98
+24078,"Vimy","Vimy"," 152","Laval",N,N,"",2,547,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,97
+24078,"Vimy","Vimy"," 152","Laval",N,N,"",2,547,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 152","Laval",N,N,"",2,547,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,7
+24078,"Vimy","Vimy"," 153","Laval",N,N,"",3,464,"Daou","","Grace","Conservative","Conservateur",N,N,73
+24078,"Vimy","Vimy"," 153","Laval",N,N,"",3,464,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,117
+24078,"Vimy","Vimy"," 153","Laval",N,N,"",3,464,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 153","Laval",N,N,"",3,464,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,5
+24078,"Vimy","Vimy"," 154","Laval",N,N,"",4,411,"Daou","","Grace","Conservative","Conservateur",N,N,39
+24078,"Vimy","Vimy"," 154","Laval",N,N,"",4,411,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,91
+24078,"Vimy","Vimy"," 154","Laval",N,N,"",4,411,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 154","Laval",N,N,"",4,411,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,12
+24078,"Vimy","Vimy"," 155","Laval",N,N,"",4,451,"Daou","","Grace","Conservative","Conservateur",N,N,57
+24078,"Vimy","Vimy"," 155","Laval",N,N,"",4,451,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,87
+24078,"Vimy","Vimy"," 155","Laval",N,N,"",4,451,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 155","Laval",N,N,"",4,451,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,18
+24078,"Vimy","Vimy"," 156","Laval",N,N,"",1,464,"Daou","","Grace","Conservative","Conservateur",N,N,52
+24078,"Vimy","Vimy"," 156","Laval",N,N,"",1,464,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,108
+24078,"Vimy","Vimy"," 156","Laval",N,N,"",1,464,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 156","Laval",N,N,"",1,464,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,14
+24078,"Vimy","Vimy"," 157","Laval",N,N,"",2,500,"Daou","","Grace","Conservative","Conservateur",N,N,40
+24078,"Vimy","Vimy"," 157","Laval",N,N,"",2,500,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,90
+24078,"Vimy","Vimy"," 157","Laval",N,N,"",2,500,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24078,"Vimy","Vimy"," 157","Laval",N,N,"",2,500,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,34
+24078,"Vimy","Vimy"," 158","Laval",N,N,"",6,530,"Daou","","Grace","Conservative","Conservateur",N,N,80
+24078,"Vimy","Vimy"," 158","Laval",N,N,"",6,530,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,118
+24078,"Vimy","Vimy"," 158","Laval",N,N,"",6,530,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 158","Laval",N,N,"",6,530,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,6
+24078,"Vimy","Vimy"," 159","Laval",N,N,"",2,381,"Daou","","Grace","Conservative","Conservateur",N,N,70
+24078,"Vimy","Vimy"," 159","Laval",N,N,"",2,381,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,74
+24078,"Vimy","Vimy"," 159","Laval",N,N,"",2,381,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 159","Laval",N,N,"",2,381,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,6
+24078,"Vimy","Vimy"," 160","Laval",N,N,"",2,435,"Daou","","Grace","Conservative","Conservateur",N,N,65
+24078,"Vimy","Vimy"," 160","Laval",N,N,"",2,435,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,110
+24078,"Vimy","Vimy"," 160","Laval",N,N,"",2,435,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 160","Laval",N,N,"",2,435,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,19
+24078,"Vimy","Vimy"," 161","Laval",N,N,"",2,467,"Daou","","Grace","Conservative","Conservateur",N,N,68
+24078,"Vimy","Vimy"," 161","Laval",N,N,"",2,467,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,106
+24078,"Vimy","Vimy"," 161","Laval",N,N,"",2,467,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24078,"Vimy","Vimy"," 161","Laval",N,N,"",2,467,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,22
+24078,"Vimy","Vimy"," 162","Laval",N,N,"",5,343,"Daou","","Grace","Conservative","Conservateur",N,N,33
+24078,"Vimy","Vimy"," 162","Laval",N,N,"",5,343,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,69
+24078,"Vimy","Vimy"," 162","Laval",N,N,"",5,343,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 162","Laval",N,N,"",5,343,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,9
+24078,"Vimy","Vimy"," 163","Laval",N,N,"",2,434,"Daou","","Grace","Conservative","Conservateur",N,N,33
+24078,"Vimy","Vimy"," 163","Laval",N,N,"",2,434,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,55
+24078,"Vimy","Vimy"," 163","Laval",N,N,"",2,434,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 163","Laval",N,N,"",2,434,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,9
+24078,"Vimy","Vimy"," 164","Laval",N,N,"",0,583,"Daou","","Grace","Conservative","Conservateur",N,N,96
+24078,"Vimy","Vimy"," 164","Laval",N,N,"",0,583,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,102
+24078,"Vimy","Vimy"," 164","Laval",N,N,"",0,583,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24078,"Vimy","Vimy"," 164","Laval",N,N,"",0,583,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,22
+24078,"Vimy","Vimy"," 165","Laval",N,N,"",4,429,"Daou","","Grace","Conservative","Conservateur",N,N,54
+24078,"Vimy","Vimy"," 165","Laval",N,N,"",4,429,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,87
+24078,"Vimy","Vimy"," 165","Laval",N,N,"",4,429,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 165","Laval",N,N,"",4,429,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,11
+24078,"Vimy","Vimy"," 166","Laval",N,N,"",1,445,"Daou","","Grace","Conservative","Conservateur",N,N,66
+24078,"Vimy","Vimy"," 166","Laval",N,N,"",1,445,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,84
+24078,"Vimy","Vimy"," 166","Laval",N,N,"",1,445,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24078,"Vimy","Vimy"," 166","Laval",N,N,"",1,445,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,12
+24078,"Vimy","Vimy"," 167","Laval",N,N,"",2,417,"Daou","","Grace","Conservative","Conservateur",N,N,71
+24078,"Vimy","Vimy"," 167","Laval",N,N,"",2,417,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,75
+24078,"Vimy","Vimy"," 167","Laval",N,N,"",2,417,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24078,"Vimy","Vimy"," 167","Laval",N,N,"",2,417,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,8
+24078,"Vimy","Vimy"," 168","Laval",N,N,"",5,340,"Daou","","Grace","Conservative","Conservateur",N,N,57
+24078,"Vimy","Vimy"," 168","Laval",N,N,"",5,340,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,76
+24078,"Vimy","Vimy"," 168","Laval",N,N,"",5,340,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 168","Laval",N,N,"",5,340,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,5
+24078,"Vimy","Vimy"," 169","Laval",N,N,"",6,617,"Daou","","Grace","Conservative","Conservateur",N,N,104
+24078,"Vimy","Vimy"," 169","Laval",N,N,"",6,617,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,116
+24078,"Vimy","Vimy"," 169","Laval",N,N,"",6,617,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24078,"Vimy","Vimy"," 169","Laval",N,N,"",6,617,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,18
+24078,"Vimy","Vimy"," 170","Laval",N,N,"",4,380,"Daou","","Grace","Conservative","Conservateur",N,N,31
+24078,"Vimy","Vimy"," 170","Laval",N,N,"",4,380,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,67
+24078,"Vimy","Vimy"," 170","Laval",N,N,"",4,380,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 170","Laval",N,N,"",4,380,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,8
+24078,"Vimy","Vimy"," 171","Laval",N,N,"",8,683,"Daou","","Grace","Conservative","Conservateur",N,N,41
+24078,"Vimy","Vimy"," 171","Laval",N,N,"",8,683,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,144
+24078,"Vimy","Vimy"," 171","Laval",N,N,"",8,683,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+24078,"Vimy","Vimy"," 171","Laval",N,N,"",8,683,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,27
+24078,"Vimy","Vimy"," 172","Laval",N,N,"",8,489,"Daou","","Grace","Conservative","Conservateur",N,N,51
+24078,"Vimy","Vimy"," 172","Laval",N,N,"",8,489,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,91
+24078,"Vimy","Vimy"," 172","Laval",N,N,"",8,489,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 172","Laval",N,N,"",8,489,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,25
+24078,"Vimy","Vimy"," 173","Laval",N,N,"",6,585,"Daou","","Grace","Conservative","Conservateur",N,N,69
+24078,"Vimy","Vimy"," 173","Laval",N,N,"",6,585,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,110
+24078,"Vimy","Vimy"," 173","Laval",N,N,"",6,585,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+24078,"Vimy","Vimy"," 173","Laval",N,N,"",6,585,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,22
+24078,"Vimy","Vimy"," 174","Laval",N,N,"",1,445,"Daou","","Grace","Conservative","Conservateur",N,N,66
+24078,"Vimy","Vimy"," 174","Laval",N,N,"",1,445,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,82
+24078,"Vimy","Vimy"," 174","Laval",N,N,"",1,445,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 174","Laval",N,N,"",1,445,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,29
+24078,"Vimy","Vimy"," 175","Laval",N,N,"",4,436,"Daou","","Grace","Conservative","Conservateur",N,N,31
+24078,"Vimy","Vimy"," 175","Laval",N,N,"",4,436,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,67
+24078,"Vimy","Vimy"," 175","Laval",N,N,"",4,436,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 175","Laval",N,N,"",4,436,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,9
+24078,"Vimy","Vimy"," 400","Laval",N,N,"",14,241,"Daou","","Grace","Conservative","Conservateur",N,N,12
+24078,"Vimy","Vimy"," 400","Laval",N,N,"",14,241,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,119
+24078,"Vimy","Vimy"," 400","Laval",N,N,"",14,241,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24078,"Vimy","Vimy"," 400","Laval",N,N,"",14,241,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,44
+24078,"Vimy","Vimy"," 401","Laval",N,N,"37",0,235,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 401","Laval",N,N,"37",0,235,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 401","Laval",N,N,"37",0,235,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 401","Laval",N,N,"37",0,235,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 402","Laval",N,N,"",8,208,"Daou","","Grace","Conservative","Conservateur",N,N,12
+24078,"Vimy","Vimy"," 402","Laval",N,N,"",8,208,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,86
+24078,"Vimy","Vimy"," 402","Laval",N,N,"",8,208,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24078,"Vimy","Vimy"," 402","Laval",N,N,"",8,208,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,63
+24078,"Vimy","Vimy"," 403A","Laval",N,N,"",15,405,"Daou","","Grace","Conservative","Conservateur",N,N,25
+24078,"Vimy","Vimy"," 403A","Laval",N,N,"",15,405,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,158
+24078,"Vimy","Vimy"," 403A","Laval",N,N,"",15,405,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 403A","Laval",N,N,"",15,405,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,66
+24078,"Vimy","Vimy"," 403B","Laval",N,N,"",13,359,"Daou","","Grace","Conservative","Conservateur",N,N,24
+24078,"Vimy","Vimy"," 403B","Laval",N,N,"",13,359,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,154
+24078,"Vimy","Vimy"," 403B","Laval",N,N,"",13,359,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 403B","Laval",N,N,"",13,359,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,66
+24078,"Vimy","Vimy"," 404","Laval",N,N,"",6,267,"Daou","","Grace","Conservative","Conservateur",N,N,17
+24078,"Vimy","Vimy"," 404","Laval",N,N,"",6,267,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,92
+24078,"Vimy","Vimy"," 404","Laval",N,N,"",6,267,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24078,"Vimy","Vimy"," 404","Laval",N,N,"",6,267,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,59
+24078,"Vimy","Vimy"," 405A","Laval",N,N,"",15,432,"Daou","","Grace","Conservative","Conservateur",N,N,11
+24078,"Vimy","Vimy"," 405A","Laval",N,N,"",15,432,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,179
+24078,"Vimy","Vimy"," 405A","Laval",N,N,"",15,432,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 405A","Laval",N,N,"",15,432,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,83
+24078,"Vimy","Vimy"," 405B","Laval",N,N,"",5,91,"Daou","","Grace","Conservative","Conservateur",N,N,4
+24078,"Vimy","Vimy"," 405B","Laval",N,N,"",5,91,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,122
+24078,"Vimy","Vimy"," 405B","Laval",N,N,"",5,91,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24078,"Vimy","Vimy"," 405B","Laval",N,N,"",5,91,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,43
+24078,"Vimy","Vimy"," 406","Laval",N,N,"",5,253,"Daou","","Grace","Conservative","Conservateur",N,N,9
+24078,"Vimy","Vimy"," 406","Laval",N,N,"",5,253,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,130
+24078,"Vimy","Vimy"," 406","Laval",N,N,"",5,253,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 406","Laval",N,N,"",5,253,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,41
+24078,"Vimy","Vimy"," 407","Laval",N,N,"",6,262,"Daou","","Grace","Conservative","Conservateur",N,N,7
+24078,"Vimy","Vimy"," 407","Laval",N,N,"",6,262,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,129
+24078,"Vimy","Vimy"," 407","Laval",N,N,"",6,262,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 407","Laval",N,N,"",6,262,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,45
+24078,"Vimy","Vimy"," 408","Laval",N,N,"",2,166,"Daou","","Grace","Conservative","Conservateur",N,N,9
+24078,"Vimy","Vimy"," 408","Laval",N,N,"",2,166,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,64
+24078,"Vimy","Vimy"," 408","Laval",N,N,"",2,166,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24078,"Vimy","Vimy"," 408","Laval",N,N,"",2,166,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,27
+24078,"Vimy","Vimy"," 409","Laval",N,N,"",2,208,"Daou","","Grace","Conservative","Conservateur",N,N,7
+24078,"Vimy","Vimy"," 409","Laval",N,N,"",2,208,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,113
+24078,"Vimy","Vimy"," 409","Laval",N,N,"",2,208,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 409","Laval",N,N,"",2,208,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,23
+24078,"Vimy","Vimy"," 410","Laval",N,N,"",8,248,"Daou","","Grace","Conservative","Conservateur",N,N,8
+24078,"Vimy","Vimy"," 410","Laval",N,N,"",8,248,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,116
+24078,"Vimy","Vimy"," 410","Laval",N,N,"",8,248,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24078,"Vimy","Vimy"," 410","Laval",N,N,"",8,248,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,44
+24078,"Vimy","Vimy"," 411","Laval",N,N,"",6,172,"Daou","","Grace","Conservative","Conservateur",N,N,20
+24078,"Vimy","Vimy"," 411","Laval",N,N,"",6,172,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,86
+24078,"Vimy","Vimy"," 411","Laval",N,N,"",6,172,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24078,"Vimy","Vimy"," 411","Laval",N,N,"",6,172,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,35
+24078,"Vimy","Vimy"," 412","Laval",N,N,"",4,247,"Daou","","Grace","Conservative","Conservateur",N,N,23
+24078,"Vimy","Vimy"," 412","Laval",N,N,"",4,247,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,52
+24078,"Vimy","Vimy"," 412","Laval",N,N,"",4,247,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 412","Laval",N,N,"",4,247,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,20
+24078,"Vimy","Vimy"," 413","Laval",N,N,"",1,320,"Daou","","Grace","Conservative","Conservateur",N,N,32
+24078,"Vimy","Vimy"," 413","Laval",N,N,"",1,320,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,81
+24078,"Vimy","Vimy"," 413","Laval",N,N,"",1,320,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24078,"Vimy","Vimy"," 413","Laval",N,N,"",1,320,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,34
+24078,"Vimy","Vimy"," 414","Laval",N,N,"",6,301,"Daou","","Grace","Conservative","Conservateur",N,N,12
+24078,"Vimy","Vimy"," 414","Laval",N,N,"",6,301,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,163
+24078,"Vimy","Vimy"," 414","Laval",N,N,"",6,301,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24078,"Vimy","Vimy"," 414","Laval",N,N,"",6,301,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,41
+24078,"Vimy","Vimy"," 500","Mobile poll/Bureau itinérant",N,N,"",2,180,"Daou","","Grace","Conservative","Conservateur",N,N,12
+24078,"Vimy","Vimy"," 500","Mobile poll/Bureau itinérant",N,N,"",2,180,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,38
+24078,"Vimy","Vimy"," 500","Mobile poll/Bureau itinérant",N,N,"",2,180,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 500","Mobile poll/Bureau itinérant",N,N,"",2,180,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,26
+24078,"Vimy","Vimy"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,87,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,87,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,87,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,87,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 502","Mobile poll/Bureau itinérant",N,N,"",5,118,"Daou","","Grace","Conservative","Conservateur",N,N,20
+24078,"Vimy","Vimy"," 502","Mobile poll/Bureau itinérant",N,N,"",5,118,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,70
+24078,"Vimy","Vimy"," 502","Mobile poll/Bureau itinérant",N,N,"",5,118,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24078,"Vimy","Vimy"," 502","Mobile poll/Bureau itinérant",N,N,"",5,118,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,41
+24078,"Vimy","Vimy"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,103,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,103,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,103,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,103,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 504","Laval",N,N,"404",0,46,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 504","Laval",N,N,"404",0,46,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 504","Laval",N,N,"404",0,46,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 504","Laval",N,N,"404",0,46,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,83,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,83,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,83,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,83,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 506","Mobile poll/Bureau itinérant",N,N,"",10,120,"Daou","","Grace","Conservative","Conservateur",N,N,9
+24078,"Vimy","Vimy"," 506","Mobile poll/Bureau itinérant",N,N,"",10,120,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,80
+24078,"Vimy","Vimy"," 506","Mobile poll/Bureau itinérant",N,N,"",10,120,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24078,"Vimy","Vimy"," 506","Mobile poll/Bureau itinérant",N,N,"",10,120,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,30
+24078,"Vimy","Vimy"," 507","Mobile poll/Bureau itinérant",N,N,"133B",0,84,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 507","Mobile poll/Bureau itinérant",N,N,"133B",0,84,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 507","Mobile poll/Bureau itinérant",N,N,"133B",0,84,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 507","Mobile poll/Bureau itinérant",N,N,"133B",0,84,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 508","Mobile poll/Bureau itinérant",N,N,"",16,126,"Daou","","Grace","Conservative","Conservateur",N,N,17
+24078,"Vimy","Vimy"," 508","Mobile poll/Bureau itinérant",N,N,"",16,126,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,101
+24078,"Vimy","Vimy"," 508","Mobile poll/Bureau itinérant",N,N,"",16,126,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 508","Mobile poll/Bureau itinérant",N,N,"",16,126,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,40
+24078,"Vimy","Vimy"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,39,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,39,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,39,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,39,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 510","Mobile poll/Bureau itinérant",N,N,"508",0,127,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 510","Mobile poll/Bureau itinérant",N,N,"508",0,127,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 510","Mobile poll/Bureau itinérant",N,N,"508",0,127,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 510","Mobile poll/Bureau itinérant",N,N,"508",0,127,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 511","Mobile poll/Bureau itinérant",N,N,"512",0,60,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 511","Mobile poll/Bureau itinérant",N,N,"512",0,60,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 511","Mobile poll/Bureau itinérant",N,N,"512",0,60,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 511","Mobile poll/Bureau itinérant",N,N,"512",0,60,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 512","Mobile poll/Bureau itinérant",N,N,"",4,90,"Daou","","Grace","Conservative","Conservateur",N,N,11
+24078,"Vimy","Vimy"," 512","Mobile poll/Bureau itinérant",N,N,"",4,90,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,43
+24078,"Vimy","Vimy"," 512","Mobile poll/Bureau itinérant",N,N,"",4,90,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24078,"Vimy","Vimy"," 512","Mobile poll/Bureau itinérant",N,N,"",4,90,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,16
+24078,"Vimy","Vimy"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,28,"Daou","","Grace","Conservative","Conservateur",N,N,0
+24078,"Vimy","Vimy"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,28,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,0
+24078,"Vimy","Vimy"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,28,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24078,"Vimy","Vimy"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,28,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,0
+24078,"Vimy","Vimy"," 514","Mobile poll/Bureau itinérant",N,N,"",3,52,"Daou","","Grace","Conservative","Conservateur",N,N,7
+24078,"Vimy","Vimy"," 514","Mobile poll/Bureau itinérant",N,N,"",3,52,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,20
+24078,"Vimy","Vimy"," 514","Mobile poll/Bureau itinérant",N,N,"",3,52,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24078,"Vimy","Vimy"," 514","Mobile poll/Bureau itinérant",N,N,"",3,52,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,9
+24078,"Vimy","Vimy"," 600","Laval",N,N,"",12,0,"Daou","","Grace","Conservative","Conservateur",N,N,129
+24078,"Vimy","Vimy"," 600","Laval",N,N,"",12,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,429
+24078,"Vimy","Vimy"," 600","Laval",N,N,"",12,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+24078,"Vimy","Vimy"," 600","Laval",N,N,"",12,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,173
+24078,"Vimy","Vimy"," 601","Laval",N,N,"",17,0,"Daou","","Grace","Conservative","Conservateur",N,N,173
+24078,"Vimy","Vimy"," 601","Laval",N,N,"",17,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,492
+24078,"Vimy","Vimy"," 601","Laval",N,N,"",17,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+24078,"Vimy","Vimy"," 601","Laval",N,N,"",17,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,218
+24078,"Vimy","Vimy"," 602","Laval",N,N,"",11,0,"Daou","","Grace","Conservative","Conservateur",N,N,157
+24078,"Vimy","Vimy"," 602","Laval",N,N,"",11,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,543
+24078,"Vimy","Vimy"," 602","Laval",N,N,"",11,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+24078,"Vimy","Vimy"," 602","Laval",N,N,"",11,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,232
+24078,"Vimy","Vimy"," 603","Laval",N,N,"",17,0,"Daou","","Grace","Conservative","Conservateur",N,N,103
+24078,"Vimy","Vimy"," 603","Laval",N,N,"",17,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,398
+24078,"Vimy","Vimy"," 603","Laval",N,N,"",17,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+24078,"Vimy","Vimy"," 603","Laval",N,N,"",17,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,151
+24078,"Vimy","Vimy"," 604","Laval",N,N,"",19,0,"Daou","","Grace","Conservative","Conservateur",N,N,158
+24078,"Vimy","Vimy"," 604","Laval",N,N,"",19,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,410
+24078,"Vimy","Vimy"," 604","Laval",N,N,"",19,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+24078,"Vimy","Vimy"," 604","Laval",N,N,"",19,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,216
+24078,"Vimy","Vimy"," 605","Laval",N,N,"",16,0,"Daou","","Grace","Conservative","Conservateur",N,N,209
+24078,"Vimy","Vimy"," 605","Laval",N,N,"",16,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,543
+24078,"Vimy","Vimy"," 605","Laval",N,N,"",16,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+24078,"Vimy","Vimy"," 605","Laval",N,N,"",16,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,266
+24078,"Vimy","Vimy"," 606","Laval",N,N,"",4,0,"Daou","","Grace","Conservative","Conservateur",N,N,95
+24078,"Vimy","Vimy"," 606","Laval",N,N,"",4,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,292
+24078,"Vimy","Vimy"," 606","Laval",N,N,"",4,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+24078,"Vimy","Vimy"," 606","Laval",N,N,"",4,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,99
+24078,"Vimy","Vimy"," 607","Laval",N,N,"",18,0,"Daou","","Grace","Conservative","Conservateur",N,N,258
+24078,"Vimy","Vimy"," 607","Laval",N,N,"",18,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,782
+24078,"Vimy","Vimy"," 607","Laval",N,N,"",18,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+24078,"Vimy","Vimy"," 607","Laval",N,N,"",18,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,290
+24078,"Vimy","Vimy"," 608","Laval",N,N,"",19,0,"Daou","","Grace","Conservative","Conservateur",N,N,278
+24078,"Vimy","Vimy"," 608","Laval",N,N,"",19,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,688
+24078,"Vimy","Vimy"," 608","Laval",N,N,"",19,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+24078,"Vimy","Vimy"," 608","Laval",N,N,"",19,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,176
+24078,"Vimy","Vimy"," 609","Laval",N,N,"",16,0,"Daou","","Grace","Conservative","Conservateur",N,N,165
+24078,"Vimy","Vimy"," 609","Laval",N,N,"",16,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,413
+24078,"Vimy","Vimy"," 609","Laval",N,N,"",16,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+24078,"Vimy","Vimy"," 609","Laval",N,N,"",16,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,97
+24078,"Vimy","Vimy"," 610","Laval",N,N,"",14,0,"Daou","","Grace","Conservative","Conservateur",N,N,67
+24078,"Vimy","Vimy"," 610","Laval",N,N,"",14,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,201
+24078,"Vimy","Vimy"," 610","Laval",N,N,"",14,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24078,"Vimy","Vimy"," 610","Laval",N,N,"",14,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,68
+24078,"Vimy","Vimy"," 611","Laval",N,N,"",36,0,"Daou","","Grace","Conservative","Conservateur",N,N,265
+24078,"Vimy","Vimy"," 611","Laval",N,N,"",36,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,1104
+24078,"Vimy","Vimy"," 611","Laval",N,N,"",36,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+24078,"Vimy","Vimy"," 611","Laval",N,N,"",36,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,340
+24078,"Vimy","Vimy"," 612","Laval",N,N,"",16,0,"Daou","","Grace","Conservative","Conservateur",N,N,207
+24078,"Vimy","Vimy"," 612","Laval",N,N,"",16,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,636
+24078,"Vimy","Vimy"," 612","Laval",N,N,"",16,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+24078,"Vimy","Vimy"," 612","Laval",N,N,"",16,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,154
+24078,"Vimy","Vimy"," 613","Laval",N,N,"",18,0,"Daou","","Grace","Conservative","Conservateur",N,N,255
+24078,"Vimy","Vimy"," 613","Laval",N,N,"",18,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,485
+24078,"Vimy","Vimy"," 613","Laval",N,N,"",18,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+24078,"Vimy","Vimy"," 613","Laval",N,N,"",18,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,146
+24078,"Vimy","Vimy"," 614","Laval",N,N,"",25,0,"Daou","","Grace","Conservative","Conservateur",N,N,312
+24078,"Vimy","Vimy"," 614","Laval",N,N,"",25,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,733
+24078,"Vimy","Vimy"," 614","Laval",N,N,"",25,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+24078,"Vimy","Vimy"," 614","Laval",N,N,"",25,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,128
+24078,"Vimy","Vimy"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",43,160,"Daou","","Grace","Conservative","Conservateur",N,N,109
+24078,"Vimy","Vimy"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",43,160,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,330
+24078,"Vimy","Vimy"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",43,160,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+24078,"Vimy","Vimy"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",43,160,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,71
+24078,"Vimy","Vimy"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Daou","","Grace","Conservative","Conservateur",N,N,315
+24078,"Vimy","Vimy"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Koutrakis","","Annie","Liberal","Libéral",Y,Y,892
+24078,"Vimy","Vimy"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Mercer","","Cindy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+24078,"Vimy","Vimy"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Parenteau-Malakhanian","","Alicia","Bloc Québécois","Bloc Québécois",N,N,248

@@ -1,0 +1,613 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 1","Sachs Harbour",N,N,"",1,66,"Alty","","Rebecca","Liberal","Libéral",N,Y,13
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 1","Sachs Harbour",N,N,"",1,66,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 1","Sachs Harbour",N,N,"",1,66,"Fairman","","Kimberly","Conservative","Conservateur",N,N,7
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 1","Sachs Harbour",N,N,"",1,66,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 1-1","Mould Bay",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 1-1","Mould Bay",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 1-1","Mould Bay",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 1-1","Mould Bay",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 2","Inuvik",N,N,"",1,273,"Alty","","Rebecca","Liberal","Libéral",N,Y,36
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 2","Inuvik",N,N,"",1,273,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 2","Inuvik",N,N,"",1,273,"Fairman","","Kimberly","Conservative","Conservateur",N,N,29
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 2","Inuvik",N,N,"",1,273,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 3","Inuvik",N,N,"",1,317,"Alty","","Rebecca","Liberal","Libéral",N,Y,40
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 3","Inuvik",N,N,"",1,317,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 3","Inuvik",N,N,"",1,317,"Fairman","","Kimberly","Conservative","Conservateur",N,N,19
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 3","Inuvik",N,N,"",1,317,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 4","Inuvik",N,N,"",1,317,"Alty","","Rebecca","Liberal","Libéral",N,Y,49
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 4","Inuvik",N,N,"",1,317,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 4","Inuvik",N,N,"",1,317,"Fairman","","Kimberly","Conservative","Conservateur",N,N,32
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 4","Inuvik",N,N,"",1,317,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 5","Inuvik",N,N,"",2,386,"Alty","","Rebecca","Liberal","Libéral",N,Y,48
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 5","Inuvik",N,N,"",2,386,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 5","Inuvik",N,N,"",2,386,"Fairman","","Kimberly","Conservative","Conservateur",N,N,30
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 5","Inuvik",N,N,"",2,386,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 6","Inuvik",N,N,"",4,462,"Alty","","Rebecca","Liberal","Libéral",N,Y,79
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 6","Inuvik",N,N,"",4,462,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 6","Inuvik",N,N,"",4,462,"Fairman","","Kimberly","Conservative","Conservateur",N,N,51
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 6","Inuvik",N,N,"",4,462,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 7","Inuvik",N,N,"",0,271,"Alty","","Rebecca","Liberal","Libéral",N,Y,66
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 7","Inuvik",N,N,"",0,271,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 7","Inuvik",N,N,"",0,271,"Fairman","","Kimberly","Conservative","Conservateur",N,N,36
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 7","Inuvik",N,N,"",0,271,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 8","Inuvik",N,N,"",0,299,"Alty","","Rebecca","Liberal","Libéral",N,Y,61
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 8","Inuvik",N,N,"",0,299,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 8","Inuvik",N,N,"",0,299,"Fairman","","Kimberly","Conservative","Conservateur",N,N,38
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 8","Inuvik",N,N,"",0,299,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 9","Aklavik",N,N,"",18,387,"Alty","","Rebecca","Liberal","Libéral",N,Y,55
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 9","Aklavik",N,N,"",18,387,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 9","Aklavik",N,N,"",18,387,"Fairman","","Kimberly","Conservative","Conservateur",N,N,15
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 9","Aklavik",N,N,"",18,387,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 10","Tuktoyaktuk",N,N,"",1,572,"Alty","","Rebecca","Liberal","Libéral",N,Y,58
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 10","Tuktoyaktuk",N,N,"",1,572,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 10","Tuktoyaktuk",N,N,"",1,572,"Fairman","","Kimberly","Conservative","Conservateur",N,N,30
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 10","Tuktoyaktuk",N,N,"",1,572,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 11","Fort McPherson",N,N,"",1,517,"Alty","","Rebecca","Liberal","Libéral",N,Y,93
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 11","Fort McPherson",N,N,"",1,517,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,4
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 11","Fort McPherson",N,N,"",1,517,"Fairman","","Kimberly","Conservative","Conservateur",N,N,15
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 11","Fort McPherson",N,N,"",1,517,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 12","Ulukhaktok",N,N,"",3,230,"Alty","","Rebecca","Liberal","Libéral",N,Y,42
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 12","Ulukhaktok",N,N,"",3,230,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 12","Ulukhaktok",N,N,"",3,230,"Fairman","","Kimberly","Conservative","Conservateur",N,N,18
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 12","Ulukhaktok",N,N,"",3,230,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 13","Paulatuk",N,N,"",1,186,"Alty","","Rebecca","Liberal","Libéral",N,Y,38
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 13","Paulatuk",N,N,"",1,186,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 13","Paulatuk",N,N,"",1,186,"Fairman","","Kimberly","Conservative","Conservateur",N,N,7
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 13","Paulatuk",N,N,"",1,186,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 14","Cape Parry",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 14","Cape Parry",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 14","Cape Parry",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 14","Cape Parry",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 15","Tsiigehtchic",N,N,"",0,91,"Alty","","Rebecca","Liberal","Libéral",N,Y,17
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 15","Tsiigehtchic",N,N,"",0,91,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 15","Tsiigehtchic",N,N,"",0,91,"Fairman","","Kimberly","Conservative","Conservateur",N,N,5
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 15","Tsiigehtchic",N,N,"",0,91,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 16","Fort Good Hope",N,N,"",2,278,"Alty","","Rebecca","Liberal","Libéral",N,Y,56
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 16","Fort Good Hope",N,N,"",2,278,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 16","Fort Good Hope",N,N,"",2,278,"Fairman","","Kimberly","Conservative","Conservateur",N,N,28
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 16","Fort Good Hope",N,N,"",2,278,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 17","Colville Lake",N,N,"",0,81,"Alty","","Rebecca","Liberal","Libéral",N,Y,15
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 17","Colville Lake",N,N,"",0,81,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 17","Colville Lake",N,N,"",0,81,"Fairman","","Kimberly","Conservative","Conservateur",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 17","Colville Lake",N,N,"",0,81,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 18","Norman Wells",N,N,"",0,508,"Alty","","Rebecca","Liberal","Libéral",N,Y,69
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 18","Norman Wells",N,N,"",0,508,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 18","Norman Wells",N,N,"",0,508,"Fairman","","Kimberly","Conservative","Conservateur",N,N,80
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 18","Norman Wells",N,N,"",0,508,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 19","Déline",N,N,"",0,327,"Alty","","Rebecca","Liberal","Libéral",N,Y,60
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 19","Déline",N,N,"",0,327,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 19","Déline",N,N,"",0,327,"Fairman","","Kimberly","Conservative","Conservateur",N,N,11
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 19","Déline",N,N,"",0,327,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 20","Déline",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 20","Déline",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 20","Déline",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 20","Déline",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 21","Tulita",N,N,"",0,300,"Alty","","Rebecca","Liberal","Libéral",N,Y,58
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 21","Tulita",N,N,"",0,300,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 21","Tulita",N,N,"",0,300,"Fairman","","Kimberly","Conservative","Conservateur",N,N,24
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 21","Tulita",N,N,"",0,300,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 22","Wrigley",N,N,"",0,88,"Alty","","Rebecca","Liberal","Libéral",N,Y,14
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 22","Wrigley",N,N,"",0,88,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 22","Wrigley",N,N,"",0,88,"Fairman","","Kimberly","Conservative","Conservateur",N,N,4
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 22","Wrigley",N,N,"",0,88,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 23","Gamètì",N,N,"",0,184,"Alty","","Rebecca","Liberal","Libéral",N,Y,40
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 23","Gamètì",N,N,"",0,184,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 23","Gamètì",N,N,"",0,184,"Fairman","","Kimberly","Conservative","Conservateur",N,N,14
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 23","Gamètì",N,N,"",0,184,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 24","Wekweètì",N,N,"",2,97,"Alty","","Rebecca","Liberal","Libéral",N,Y,10
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 24","Wekweètì",N,N,"",2,97,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 24","Wekweètì",N,N,"",2,97,"Fairman","","Kimberly","Conservative","Conservateur",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 24","Wekweètì",N,N,"",2,97,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 25","Nahanni Butte",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 25","Nahanni Butte",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 25","Nahanni Butte",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 25","Nahanni Butte",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 26","Nahanni Butte",N,N,"",2,46,"Alty","","Rebecca","Liberal","Libéral",N,Y,20
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 26","Nahanni Butte",N,N,"",2,46,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 26","Nahanni Butte",N,N,"",2,46,"Fairman","","Kimberly","Conservative","Conservateur",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 26","Nahanni Butte",N,N,"",2,46,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 27","Wha Ti",N,N,"",0,347,"Alty","","Rebecca","Liberal","Libéral",N,Y,67
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 27","Wha Ti",N,N,"",0,347,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 27","Wha Ti",N,N,"",0,347,"Fairman","","Kimberly","Conservative","Conservateur",N,N,26
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 27","Wha Ti",N,N,"",0,347,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 28","Yellowknife",N,N,"",0,588,"Alty","","Rebecca","Liberal","Libéral",N,Y,106
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 28","Yellowknife",N,N,"",0,588,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 28","Yellowknife",N,N,"",0,588,"Fairman","","Kimberly","Conservative","Conservateur",N,N,88
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 28","Yellowknife",N,N,"",0,588,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 28-1","Discovery",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 28-1","Discovery",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 28-1","Discovery",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 28-1","Discovery",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 29","Yellowknife",N,N,"",3,262,"Alty","","Rebecca","Liberal","Libéral",N,Y,42
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 29","Yellowknife",N,N,"",3,262,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 29","Yellowknife",N,N,"",3,262,"Fairman","","Kimberly","Conservative","Conservateur",N,N,30
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 29","Yellowknife",N,N,"",3,262,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 30","Yellowknife",N,N,"",3,379,"Alty","","Rebecca","Liberal","Libéral",N,Y,66
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 30","Yellowknife",N,N,"",3,379,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 30","Yellowknife",N,N,"",3,379,"Fairman","","Kimberly","Conservative","Conservateur",N,N,54
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 30","Yellowknife",N,N,"",3,379,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 31","Yellowknife",N,N,"",1,504,"Alty","","Rebecca","Liberal","Libéral",N,Y,92
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 31","Yellowknife",N,N,"",1,504,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 31","Yellowknife",N,N,"",1,504,"Fairman","","Kimberly","Conservative","Conservateur",N,N,66
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 31","Yellowknife",N,N,"",1,504,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 32","Yellowknife",N,N,"",1,451,"Alty","","Rebecca","Liberal","Libéral",N,Y,52
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 32","Yellowknife",N,N,"",1,451,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 32","Yellowknife",N,N,"",1,451,"Fairman","","Kimberly","Conservative","Conservateur",N,N,35
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 32","Yellowknife",N,N,"",1,451,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 33","Yellowknife",N,N,"",1,258,"Alty","","Rebecca","Liberal","Libéral",N,Y,42
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 33","Yellowknife",N,N,"",1,258,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 33","Yellowknife",N,N,"",1,258,"Fairman","","Kimberly","Conservative","Conservateur",N,N,33
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 33","Yellowknife",N,N,"",1,258,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 34","Yellowknife",N,N,"",3,488,"Alty","","Rebecca","Liberal","Libéral",N,Y,88
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 34","Yellowknife",N,N,"",3,488,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 34","Yellowknife",N,N,"",3,488,"Fairman","","Kimberly","Conservative","Conservateur",N,N,51
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 34","Yellowknife",N,N,"",3,488,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 35","Yellowknife",N,N,"",0,248,"Alty","","Rebecca","Liberal","Libéral",N,Y,40
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 35","Yellowknife",N,N,"",0,248,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 35","Yellowknife",N,N,"",0,248,"Fairman","","Kimberly","Conservative","Conservateur",N,N,43
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 35","Yellowknife",N,N,"",0,248,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 36","Yellowknife",N,N,"",1,644,"Alty","","Rebecca","Liberal","Libéral",N,Y,138
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 36","Yellowknife",N,N,"",1,644,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 36","Yellowknife",N,N,"",1,644,"Fairman","","Kimberly","Conservative","Conservateur",N,N,103
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 36","Yellowknife",N,N,"",1,644,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 37","Yellowknife",N,N,"",0,381,"Alty","","Rebecca","Liberal","Libéral",N,Y,45
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 37","Yellowknife",N,N,"",0,381,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 37","Yellowknife",N,N,"",0,381,"Fairman","","Kimberly","Conservative","Conservateur",N,N,51
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 37","Yellowknife",N,N,"",0,381,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 38","Edzo",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 38","Edzo",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 38","Edzo",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 38","Edzo",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 39","Behchoko",N,N,"",1,186,"Alty","","Rebecca","Liberal","Libéral",N,Y,76
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 39","Behchoko",N,N,"",1,186,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,4
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 39","Behchoko",N,N,"",1,186,"Fairman","","Kimberly","Conservative","Conservateur",N,N,17
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 39","Behchoko",N,N,"",1,186,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 40","Behchoko",N,N,"",3,153,"Alty","","Rebecca","Liberal","Libéral",N,Y,38
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 40","Behchoko",N,N,"",3,153,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 40","Behchoko",N,N,"",3,153,"Fairman","","Kimberly","Conservative","Conservateur",N,N,10
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 40","Behchoko",N,N,"",3,153,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 41","Behchoko",N,N,"",6,906,"Alty","","Rebecca","Liberal","Libéral",N,Y,127
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 41","Behchoko",N,N,"",6,906,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,7
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 41","Behchoko",N,N,"",6,906,"Fairman","","Kimberly","Conservative","Conservateur",N,N,35
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 41","Behchoko",N,N,"",6,906,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 42A","Fort Simpson",N,N,"",1,217,"Alty","","Rebecca","Liberal","Libéral",N,Y,69
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 42A","Fort Simpson",N,N,"",1,217,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,6
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 42A","Fort Simpson",N,N,"",1,217,"Fairman","","Kimberly","Conservative","Conservateur",N,N,47
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 42A","Fort Simpson",N,N,"",1,217,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 42B","Fort Simpson",N,N,"",1,101,"Alty","","Rebecca","Liberal","Libéral",N,Y,57
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 42B","Fort Simpson",N,N,"",1,101,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 42B","Fort Simpson",N,N,"",1,101,"Fairman","","Kimberly","Conservative","Conservateur",N,N,37
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 42B","Fort Simpson",N,N,"",1,101,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 43A","Fort Simpson",N,N,"42A",0,203,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 43A","Fort Simpson",N,N,"42A",0,203,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 43A","Fort Simpson",N,N,"42A",0,203,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 43A","Fort Simpson",N,N,"42A",0,203,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 43B","Fort Simpson",N,N,"42B",0,114,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 43B","Fort Simpson",N,N,"42B",0,114,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 43B","Fort Simpson",N,N,"42B",0,114,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 43B","Fort Simpson",N,N,"42B",0,114,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 44A","Fort Simpson",N,N,"42A",0,189,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 44A","Fort Simpson",N,N,"42A",0,189,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 44A","Fort Simpson",N,N,"42A",0,189,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 44A","Fort Simpson",N,N,"42A",0,189,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 44B","Fort Simpson",N,N,"42B",0,82,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 44B","Fort Simpson",N,N,"42B",0,82,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 44B","Fort Simpson",N,N,"42B",0,82,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 44B","Fort Simpson",N,N,"42B",0,82,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 45","Jean Marie River",N,N,"",1,29,"Alty","","Rebecca","Liberal","Libéral",N,Y,14
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 45","Jean Marie River",N,N,"",1,29,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 45","Jean Marie River",N,N,"",1,29,"Fairman","","Kimberly","Conservative","Conservateur",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 45","Jean Marie River",N,N,"",1,29,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 46","Yellowknife",N,N,"",13,387,"Alty","","Rebecca","Liberal","Libéral",N,Y,35
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 46","Yellowknife",N,N,"",13,387,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 46","Yellowknife",N,N,"",13,387,"Fairman","","Kimberly","Conservative","Conservateur",N,N,80
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 46","Yellowknife",N,N,"",13,387,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 47","Yellowknife",N,N,"",0,447,"Alty","","Rebecca","Liberal","Libéral",N,Y,88
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 47","Yellowknife",N,N,"",0,447,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 47","Yellowknife",N,N,"",0,447,"Fairman","","Kimberly","Conservative","Conservateur",N,N,43
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 47","Yellowknife",N,N,"",0,447,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 48","Yellowknife",N,N,"",4,378,"Alty","","Rebecca","Liberal","Libéral",N,Y,82
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 48","Yellowknife",N,N,"",4,378,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 48","Yellowknife",N,N,"",4,378,"Fairman","","Kimberly","Conservative","Conservateur",N,N,48
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 48","Yellowknife",N,N,"",4,378,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 49","Yellowknife",N,N,"",1,312,"Alty","","Rebecca","Liberal","Libéral",N,Y,40
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 49","Yellowknife",N,N,"",1,312,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 49","Yellowknife",N,N,"",1,312,"Fairman","","Kimberly","Conservative","Conservateur",N,N,37
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 49","Yellowknife",N,N,"",1,312,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 50","Yellowknife",N,N,"",1,238,"Alty","","Rebecca","Liberal","Libéral",N,Y,59
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 50","Yellowknife",N,N,"",1,238,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 50","Yellowknife",N,N,"",1,238,"Fairman","","Kimberly","Conservative","Conservateur",N,N,41
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 50","Yellowknife",N,N,"",1,238,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 51","Yellowknife",N,N,"",0,345,"Alty","","Rebecca","Liberal","Libéral",N,Y,92
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 51","Yellowknife",N,N,"",0,345,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 51","Yellowknife",N,N,"",0,345,"Fairman","","Kimberly","Conservative","Conservateur",N,N,68
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 51","Yellowknife",N,N,"",0,345,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 52","Yellowknife",N,N,"",1,432,"Alty","","Rebecca","Liberal","Libéral",N,Y,84
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 52","Yellowknife",N,N,"",1,432,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 52","Yellowknife",N,N,"",1,432,"Fairman","","Kimberly","Conservative","Conservateur",N,N,81
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 52","Yellowknife",N,N,"",1,432,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 53","Yellowknife",N,N,"",0,358,"Alty","","Rebecca","Liberal","Libéral",N,Y,56
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 53","Yellowknife",N,N,"",0,358,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 53","Yellowknife",N,N,"",0,358,"Fairman","","Kimberly","Conservative","Conservateur",N,N,78
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 53","Yellowknife",N,N,"",0,358,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 54","Yellowknife",N,N,"",1,440,"Alty","","Rebecca","Liberal","Libéral",N,Y,52
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 54","Yellowknife",N,N,"",1,440,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 54","Yellowknife",N,N,"",1,440,"Fairman","","Kimberly","Conservative","Conservateur",N,N,32
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 54","Yellowknife",N,N,"",1,440,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 55","Yellowknife",N,N,"",0,367,"Alty","","Rebecca","Liberal","Libéral",N,Y,61
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 55","Yellowknife",N,N,"",0,367,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,4
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 55","Yellowknife",N,N,"",0,367,"Fairman","","Kimberly","Conservative","Conservateur",N,N,25
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 55","Yellowknife",N,N,"",0,367,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 56","Yellowknife",N,N,"",0,318,"Alty","","Rebecca","Liberal","Libéral",N,Y,58
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 56","Yellowknife",N,N,"",0,318,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 56","Yellowknife",N,N,"",0,318,"Fairman","","Kimberly","Conservative","Conservateur",N,N,56
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 56","Yellowknife",N,N,"",0,318,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 57","Yellowknife",N,N,"",0,245,"Alty","","Rebecca","Liberal","Libéral",N,Y,70
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 57","Yellowknife",N,N,"",0,245,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 57","Yellowknife",N,N,"",0,245,"Fairman","","Kimberly","Conservative","Conservateur",N,N,27
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 57","Yellowknife",N,N,"",0,245,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 58","Yellowknife",N,N,"",1,320,"Alty","","Rebecca","Liberal","Libéral",N,Y,63
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 58","Yellowknife",N,N,"",1,320,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 58","Yellowknife",N,N,"",1,320,"Fairman","","Kimberly","Conservative","Conservateur",N,N,13
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 58","Yellowknife",N,N,"",1,320,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 59","Yellowknife",N,N,"",2,370,"Alty","","Rebecca","Liberal","Libéral",N,Y,74
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 59","Yellowknife",N,N,"",2,370,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 59","Yellowknife",N,N,"",2,370,"Fairman","","Kimberly","Conservative","Conservateur",N,N,44
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 59","Yellowknife",N,N,"",2,370,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 60","Yellowknife",N,N,"",1,398,"Alty","","Rebecca","Liberal","Libéral",N,Y,101
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 60","Yellowknife",N,N,"",1,398,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 60","Yellowknife",N,N,"",1,398,"Fairman","","Kimberly","Conservative","Conservateur",N,N,37
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 60","Yellowknife",N,N,"",1,398,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 61","Yellowknife",N,N,"",5,451,"Alty","","Rebecca","Liberal","Libéral",N,Y,97
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 61","Yellowknife",N,N,"",5,451,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 61","Yellowknife",N,N,"",5,451,"Fairman","","Kimberly","Conservative","Conservateur",N,N,46
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 61","Yellowknife",N,N,"",5,451,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 62","Yellowknife",N,N,"",1,338,"Alty","","Rebecca","Liberal","Libéral",N,Y,47
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 62","Yellowknife",N,N,"",1,338,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 62","Yellowknife",N,N,"",1,338,"Fairman","","Kimberly","Conservative","Conservateur",N,N,35
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 62","Yellowknife",N,N,"",1,338,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 63","Yellowknife",N,N,"",2,564,"Alty","","Rebecca","Liberal","Libéral",N,Y,69
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 63","Yellowknife",N,N,"",2,564,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 63","Yellowknife",N,N,"",2,564,"Fairman","","Kimberly","Conservative","Conservateur",N,N,34
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 63","Yellowknife",N,N,"",2,564,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 64","Yellowknife",N,N,"",1,367,"Alty","","Rebecca","Liberal","Libéral",N,Y,51
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 64","Yellowknife",N,N,"",1,367,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 64","Yellowknife",N,N,"",1,367,"Fairman","","Kimberly","Conservative","Conservateur",N,N,34
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 64","Yellowknife",N,N,"",1,367,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 65","Yellowknife",N,N,"",1,154,"Alty","","Rebecca","Liberal","Libéral",N,Y,22
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 65","Yellowknife",N,N,"",1,154,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 65","Yellowknife",N,N,"",1,154,"Fairman","","Kimberly","Conservative","Conservateur",N,N,15
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 65","Yellowknife",N,N,"",1,154,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 66","Yellowknife",N,N,"",0,529,"Alty","","Rebecca","Liberal","Libéral",N,Y,104
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 66","Yellowknife",N,N,"",0,529,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 66","Yellowknife",N,N,"",0,529,"Fairman","","Kimberly","Conservative","Conservateur",N,N,60
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 66","Yellowknife",N,N,"",0,529,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 67","Yellowknife",N,N,"",1,436,"Alty","","Rebecca","Liberal","Libéral",N,Y,56
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 67","Yellowknife",N,N,"",1,436,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,4
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 67","Yellowknife",N,N,"",1,436,"Fairman","","Kimberly","Conservative","Conservateur",N,N,38
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 67","Yellowknife",N,N,"",1,436,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 68","Yellowknife",N,N,"",0,373,"Alty","","Rebecca","Liberal","Libéral",N,Y,76
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 68","Yellowknife",N,N,"",0,373,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,4
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 68","Yellowknife",N,N,"",0,373,"Fairman","","Kimberly","Conservative","Conservateur",N,N,28
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 68","Yellowknife",N,N,"",0,373,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 69","Yellowknife",N,N,"",1,391,"Alty","","Rebecca","Liberal","Libéral",N,Y,54
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 69","Yellowknife",N,N,"",1,391,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 69","Yellowknife",N,N,"",1,391,"Fairman","","Kimberly","Conservative","Conservateur",N,N,41
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 69","Yellowknife",N,N,"",1,391,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 70","Yellowknife",N,N,"",0,356,"Alty","","Rebecca","Liberal","Libéral",N,Y,65
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 70","Yellowknife",N,N,"",0,356,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 70","Yellowknife",N,N,"",0,356,"Fairman","","Kimberly","Conservative","Conservateur",N,N,30
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 70","Yellowknife",N,N,"",0,356,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 71","Yellowknife",N,N,"",5,466,"Alty","","Rebecca","Liberal","Libéral",N,Y,88
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 71","Yellowknife",N,N,"",5,466,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 71","Yellowknife",N,N,"",5,466,"Fairman","","Kimberly","Conservative","Conservateur",N,N,57
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 71","Yellowknife",N,N,"",5,466,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 72","Yellowknife",N,N,"",1,490,"Alty","","Rebecca","Liberal","Libéral",N,Y,106
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 72","Yellowknife",N,N,"",1,490,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 72","Yellowknife",N,N,"",1,490,"Fairman","","Kimberly","Conservative","Conservateur",N,N,101
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 72","Yellowknife",N,N,"",1,490,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 73","Yellowknife",N,N,"",1,427,"Alty","","Rebecca","Liberal","Libéral",N,Y,59
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 73","Yellowknife",N,N,"",1,427,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 73","Yellowknife",N,N,"",1,427,"Fairman","","Kimberly","Conservative","Conservateur",N,N,76
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 73","Yellowknife",N,N,"",1,427,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 74","Yellowknife",N,N,"",3,477,"Alty","","Rebecca","Liberal","Libéral",N,Y,82
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 74","Yellowknife",N,N,"",3,477,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 74","Yellowknife",N,N,"",3,477,"Fairman","","Kimberly","Conservative","Conservateur",N,N,82
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 74","Yellowknife",N,N,"",3,477,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 75","Detah",N,N,"",0,19,"Alty","","Rebecca","Liberal","Libéral",N,Y,33
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 75","Detah",N,N,"",0,19,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 75","Detah",N,N,"",0,19,"Fairman","","Kimberly","Conservative","Conservateur",N,N,13
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 75","Detah",N,N,"",0,19,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 75-1","Detah",N,N,"75",0,106,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 75-1","Detah",N,N,"75",0,106,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 75-1","Detah",N,N,"75",0,106,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 75-1","Detah",N,N,"75",0,106,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 76","Fort Liard",N,N,"",2,369,"Alty","","Rebecca","Liberal","Libéral",N,Y,56
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 76","Fort Liard",N,N,"",2,369,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 76","Fort Liard",N,N,"",2,369,"Fairman","","Kimberly","Conservative","Conservateur",N,N,45
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 76","Fort Liard",N,N,"",2,369,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 77","Fort Providence",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 77","Fort Providence",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 77","Fort Providence",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 77","Fort Providence",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 78","Fort Providence",N,N,"",1,485,"Alty","","Rebecca","Liberal","Libéral",N,Y,116
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 78","Fort Providence",N,N,"",1,485,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,5
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 78","Fort Providence",N,N,"",1,485,"Fairman","","Kimberly","Conservative","Conservateur",N,N,58
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 78","Fort Providence",N,N,"",1,485,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 79","Trout Lake",N,N,"",0,59,"Alty","","Rebecca","Liberal","Libéral",N,Y,11
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 79","Trout Lake",N,N,"",0,59,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 79","Trout Lake",N,N,"",0,59,"Fairman","","Kimberly","Conservative","Conservateur",N,N,9
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 79","Trout Lake",N,N,"",0,59,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 80","Kakisa",N,N,"",0,19,"Alty","","Rebecca","Liberal","Libéral",N,Y,4
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 80","Kakisa",N,N,"",0,19,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 80","Kakisa",N,N,"",0,19,"Fairman","","Kimberly","Conservative","Conservateur",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 80","Kakisa",N,N,"",0,19,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 81","Hay River Dene 1",N,N,"",0,160,"Alty","","Rebecca","Liberal","Libéral",N,Y,18
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 81","Hay River Dene 1",N,N,"",0,160,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 81","Hay River Dene 1",N,N,"",0,160,"Fairman","","Kimberly","Conservative","Conservateur",N,N,12
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 81","Hay River Dene 1",N,N,"",0,160,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 82","Hay River",N,N,"",1,277,"Alty","","Rebecca","Liberal","Libéral",N,Y,33
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 82","Hay River",N,N,"",1,277,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 82","Hay River",N,N,"",1,277,"Fairman","","Kimberly","Conservative","Conservateur",N,N,57
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 82","Hay River",N,N,"",1,277,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 83","Hay River",N,N,"",0,350,"Alty","","Rebecca","Liberal","Libéral",N,Y,61
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 83","Hay River",N,N,"",0,350,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 83","Hay River",N,N,"",0,350,"Fairman","","Kimberly","Conservative","Conservateur",N,N,55
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 83","Hay River",N,N,"",0,350,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 84","Hay River",N,N,"",1,317,"Alty","","Rebecca","Liberal","Libéral",N,Y,43
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 84","Hay River",N,N,"",1,317,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 84","Hay River",N,N,"",1,317,"Fairman","","Kimberly","Conservative","Conservateur",N,N,61
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 84","Hay River",N,N,"",1,317,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 85A","Hay River",N,N,"",1,339,"Alty","","Rebecca","Liberal","Libéral",N,Y,49
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 85A","Hay River",N,N,"",1,339,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 85A","Hay River",N,N,"",1,339,"Fairman","","Kimberly","Conservative","Conservateur",N,N,36
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 85A","Hay River",N,N,"",1,339,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 85B","Mobile poll/Bureau itinérant",N,N,"",0,9,"Alty","","Rebecca","Liberal","Libéral",N,Y,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 85B","Mobile poll/Bureau itinérant",N,N,"",0,9,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 85B","Mobile poll/Bureau itinérant",N,N,"",0,9,"Fairman","","Kimberly","Conservative","Conservateur",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 85B","Mobile poll/Bureau itinérant",N,N,"",0,9,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 86","Hay River",N,N,"",1,242,"Alty","","Rebecca","Liberal","Libéral",N,Y,30
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 86","Hay River",N,N,"",1,242,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 86","Hay River",N,N,"",1,242,"Fairman","","Kimberly","Conservative","Conservateur",N,N,40
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 86","Hay River",N,N,"",1,242,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 87","Hay River",N,N,"",1,285,"Alty","","Rebecca","Liberal","Libéral",N,Y,39
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 87","Hay River",N,N,"",1,285,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 87","Hay River",N,N,"",1,285,"Fairman","","Kimberly","Conservative","Conservateur",N,N,54
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 87","Hay River",N,N,"",1,285,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 88","Hay River",N,N,"",1,425,"Alty","","Rebecca","Liberal","Libéral",N,Y,61
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 88","Hay River",N,N,"",1,425,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 88","Hay River",N,N,"",1,425,"Fairman","","Kimberly","Conservative","Conservateur",N,N,95
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 88","Hay River",N,N,"",1,425,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 89","Hay River",N,N,"",1,345,"Alty","","Rebecca","Liberal","Libéral",N,Y,24
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 89","Hay River",N,N,"",1,345,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 89","Hay River",N,N,"",1,345,"Fairman","","Kimberly","Conservative","Conservateur",N,N,93
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 89","Hay River",N,N,"",1,345,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 90","Hay River",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 90","Hay River",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 90","Hay River",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 90","Hay River",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 91","Fort Resolution",N,N,"",4,299,"Alty","","Rebecca","Liberal","Libéral",N,Y,66
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 91","Fort Resolution",N,N,"",4,299,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 91","Fort Resolution",N,N,"",4,299,"Fairman","","Kimberly","Conservative","Conservateur",N,N,34
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 91","Fort Resolution",N,N,"",4,299,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 92","Enterprise",N,N,"",0,63,"Alty","","Rebecca","Liberal","Libéral",N,Y,8
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 92","Enterprise",N,N,"",0,63,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 92","Enterprise",N,N,"",0,63,"Fairman","","Kimberly","Conservative","Conservateur",N,N,10
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 92","Enterprise",N,N,"",0,63,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 93","Lutselk'e",N,N,"",0,197,"Alty","","Rebecca","Liberal","Libéral",N,Y,36
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 93","Lutselk'e",N,N,"",0,197,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 93","Lutselk'e",N,N,"",0,197,"Fairman","","Kimberly","Conservative","Conservateur",N,N,11
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 93","Lutselk'e",N,N,"",0,197,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 94","Reliance",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 94","Reliance",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 94","Reliance",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 94","Reliance",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 95","Fort Smith",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 95","Fort Smith",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 95","Fort Smith",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 95","Fort Smith",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 96","Fort Smith",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 96","Fort Smith",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 96","Fort Smith",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 96","Fort Smith",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 97","Fort Smith",N,N,"",0,381,"Alty","","Rebecca","Liberal","Libéral",N,Y,82
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 97","Fort Smith",N,N,"",0,381,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,4
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 97","Fort Smith",N,N,"",0,381,"Fairman","","Kimberly","Conservative","Conservateur",N,N,47
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 97","Fort Smith",N,N,"",0,381,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 98","Fort Smith",N,N,"",1,260,"Alty","","Rebecca","Liberal","Libéral",N,Y,87
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 98","Fort Smith",N,N,"",1,260,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 98","Fort Smith",N,N,"",1,260,"Fairman","","Kimberly","Conservative","Conservateur",N,N,40
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 98","Fort Smith",N,N,"",1,260,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 99","Fort Smith",N,N,"",0,286,"Alty","","Rebecca","Liberal","Libéral",N,Y,54
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 99","Fort Smith",N,N,"",0,286,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 99","Fort Smith",N,N,"",0,286,"Fairman","","Kimberly","Conservative","Conservateur",N,N,21
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 99","Fort Smith",N,N,"",0,286,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 100","Fort Smith",N,N,"",0,392,"Alty","","Rebecca","Liberal","Libéral",N,Y,81
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 100","Fort Smith",N,N,"",0,392,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 100","Fort Smith",N,N,"",0,392,"Fairman","","Kimberly","Conservative","Conservateur",N,N,42
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 100","Fort Smith",N,N,"",0,392,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 101","Fort Smith",N,N,"",2,491,"Alty","","Rebecca","Liberal","Libéral",N,Y,102
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 101","Fort Smith",N,N,"",2,491,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 101","Fort Smith",N,N,"",2,491,"Fairman","","Kimberly","Conservative","Conservateur",N,N,49
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 101","Fort Smith",N,N,"",2,491,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 600","Sachs Harbour",N,N,"606",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 600","Sachs Harbour",N,N,"606",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 600","Sachs Harbour",N,N,"606",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 600","Sachs Harbour",N,N,"606",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 601","Mould Bay",N,N,"606",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 601","Mould Bay",N,N,"606",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 601","Mould Bay",N,N,"606",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 601","Mould Bay",N,N,"606",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 602","Ulukhaktok",N,N,"606",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 602","Ulukhaktok",N,N,"606",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 602","Ulukhaktok",N,N,"606",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 602","Ulukhaktok",N,N,"606",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 603","Paulatuk",N,N,"606",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 603","Paulatuk",N,N,"606",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 603","Paulatuk",N,N,"606",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 603","Paulatuk",N,N,"606",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 604","Cape Parry",N,N,"606",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 604","Cape Parry",N,N,"606",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 604","Cape Parry",N,N,"606",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 604","Cape Parry",N,N,"606",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 605","Tuktoyaktuk",N,N,"606",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 605","Tuktoyaktuk",N,N,"606",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 605","Tuktoyaktuk",N,N,"606",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 605","Tuktoyaktuk",N,N,"606",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 606","Inuvik",N,N,"",2,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,135
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 606","Inuvik",N,N,"",2,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 606","Inuvik",N,N,"",2,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,61
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 606","Inuvik",N,N,"",2,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 607","Aklavik",N,N,"606",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 607","Aklavik",N,N,"606",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 607","Aklavik",N,N,"606",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 607","Aklavik",N,N,"606",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 608","Fort McPherson",N,N,"606",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 608","Fort McPherson",N,N,"606",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 608","Fort McPherson",N,N,"606",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 608","Fort McPherson",N,N,"606",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 609","Tsiigehtchic",N,N,"606",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 609","Tsiigehtchic",N,N,"606",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 609","Tsiigehtchic",N,N,"606",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 609","Tsiigehtchic",N,N,"606",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 610","Fort Good Hope",N,N,"612",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 610","Fort Good Hope",N,N,"612",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 610","Fort Good Hope",N,N,"612",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 610","Fort Good Hope",N,N,"612",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 611","Colville Lake",N,N,"612",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 611","Colville Lake",N,N,"612",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 611","Colville Lake",N,N,"612",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 611","Colville Lake",N,N,"612",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 612","Norman Wells",N,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,32
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 612","Norman Wells",N,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 612","Norman Wells",N,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,33
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 612","Norman Wells",N,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 613","Déline",N,N,"612",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 613","Déline",N,N,"612",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 613","Déline",N,N,"612",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 613","Déline",N,N,"612",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 614","Tulita",N,N,"612",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 614","Tulita",N,N,"612",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 614","Tulita",N,N,"612",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 614","Tulita",N,N,"612",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 615","Gamètì",N,N,"622",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 615","Gamètì",N,N,"622",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 615","Gamètì",N,N,"622",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 615","Gamètì",N,N,"622",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 616","Wekweètì",N,N,"622",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 616","Wekweètì",N,N,"622",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 616","Wekweètì",N,N,"622",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 616","Wekweètì",N,N,"622",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 617","Discovery",N,N,"619",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 617","Discovery",N,N,"619",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 617","Discovery",N,N,"619",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 617","Discovery",N,N,"619",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 618","Detah",N,N,"621",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 618","Detah",N,N,"621",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 618","Detah",N,N,"621",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 618","Detah",N,N,"621",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 619","Yellowknife",N,N,"",2,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,494
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 619","Yellowknife",N,N,"",2,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,5
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 619","Yellowknife",N,N,"",2,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,290
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 619","Yellowknife",N,N,"",2,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 620","Yellowknife",N,N,"",2,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,586
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 620","Yellowknife",N,N,"",2,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,5
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 620","Yellowknife",N,N,"",2,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,226
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 620","Yellowknife",N,N,"",2,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 621","Yellowknife",N,N,"",2,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,309
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 621","Yellowknife",N,N,"",2,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 621","Yellowknife",N,N,"",2,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,254
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 621","Yellowknife",N,N,"",2,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 622","Behchoko",N,N,"",1,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,23
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 622","Behchoko",N,N,"",1,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,1
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 622","Behchoko",N,N,"",1,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,10
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 622","Behchoko",N,N,"",1,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 623","Fort Providence",N,N,"622",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 623","Fort Providence",N,N,"622",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 623","Fort Providence",N,N,"622",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 623","Fort Providence",N,N,"622",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 624","Wha Ti",N,N,"622",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 624","Wha Ti",N,N,"622",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 624","Wha Ti",N,N,"622",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 624","Wha Ti",N,N,"622",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 625","Wrigley",N,N,"628",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 625","Wrigley",N,N,"628",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 625","Wrigley",N,N,"628",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 625","Wrigley",N,N,"628",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 626","Nahanni Butte",N,N,"628",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 626","Nahanni Butte",N,N,"628",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 626","Nahanni Butte",N,N,"628",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 626","Nahanni Butte",N,N,"628",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 627","Fort Liard",N,N,"628",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 627","Fort Liard",N,N,"628",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 627","Fort Liard",N,N,"628",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 627","Fort Liard",N,N,"628",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 628","Fort Simpson",N,N,"",2,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,88
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 628","Fort Simpson",N,N,"",2,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,2
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 628","Fort Simpson",N,N,"",2,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,59
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 628","Fort Simpson",N,N,"",2,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 629","Jean Marie River",N,N,"628",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 629","Jean Marie River",N,N,"628",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 629","Jean Marie River",N,N,"628",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 629","Jean Marie River",N,N,"628",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 630","Trout Lake",N,N,"628",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 630","Trout Lake",N,N,"628",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 630","Trout Lake",N,N,"628",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 630","Trout Lake",N,N,"628",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 631","Kakisa",N,N,"633",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 631","Kakisa",N,N,"633",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 631","Kakisa",N,N,"633",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 631","Kakisa",N,N,"633",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 632","Enterprise",N,N,"633",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 632","Enterprise",N,N,"633",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 632","Enterprise",N,N,"633",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 632","Enterprise",N,N,"633",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 633","Hay River",N,N,"",6,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,250
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 633","Hay River",N,N,"",6,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,3
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 633","Hay River",N,N,"",6,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,235
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 633","Hay River",N,N,"",6,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 634","Hay River Dene 1",N,N,"633",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 634","Hay River Dene 1",N,N,"633",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 634","Hay River Dene 1",N,N,"633",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 634","Hay River Dene 1",N,N,"633",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 635","Fort Resolution",N,N,"633",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 635","Fort Resolution",N,N,"633",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 635","Fort Resolution",N,N,"633",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 635","Fort Resolution",N,N,"633",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 636","Fort Smith",N,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,204
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 636","Fort Smith",N,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,5
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 636","Fort Smith",N,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,69
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 636","Fort Smith",N,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 637","Lutselk'e",N,N,"621",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 637","Lutselk'e",N,N,"621",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 637","Lutselk'e",N,N,"621",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 637","Lutselk'e",N,N,"621",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 638","Reliance",N,N,"621",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 638","Reliance",N,N,"621",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 638","Reliance",N,N,"621",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 638","Reliance",N,N,"621",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 639","Fort Smith",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 639","Fort Smith",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 639","Fort Smith",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 639","Fort Smith",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 640","Behchokò",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 640","Behchokò",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 640","Behchokò",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 640","Behchokò",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 641","Fort Simpson",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 641","Fort Simpson",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 641","Fort Simpson",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 641","Fort Simpson",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 642","Fort Smith",Y,N,"",0,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 642","Fort Smith",Y,N,"",0,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 642","Fort Smith",Y,N,"",0,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," 642","Fort Smith",Y,N,"",0,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+61001,"Northwest Territories","Territoires du Nord-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,135,"Alty","","Rebecca","Liberal","Libéral",N,Y,274
+61001,"Northwest Territories","Territoires du Nord-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,135,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,8
+61001,"Northwest Territories","Territoires du Nord-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,135,"Fairman","","Kimberly","Conservative","Conservateur",N,N,178
+61001,"Northwest Territories","Territoires du Nord-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,135,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+61001,"Northwest Territories","Territoires du Nord-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",19,0,"Alty","","Rebecca","Liberal","Libéral",N,Y,1177
+61001,"Northwest Territories","Territoires du Nord-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",19,0,"Eyes","","Rainbow","Green Party","Parti Vert",N,N,18
+61001,"Northwest Territories","Territoires du Nord-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",19,0,"Fairman","","Kimberly","Conservative","Conservateur",N,N,597
+61001,"Northwest Territories","Territoires du Nord-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",19,0,"Kotchilea","","Kelvin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,231

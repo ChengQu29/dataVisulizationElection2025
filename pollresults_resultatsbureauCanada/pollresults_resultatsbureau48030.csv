@@ -1,0 +1,913 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 1","Ralston",N,N,"",0,351,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 1","Ralston",N,N,"",0,351,"Motz","","Glen","Conservative","Conservateur",Y,Y,150
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 1","Ralston",N,N,"",0,351,"Rooke","","Tom","Liberal","Libéral",N,N,29
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 1","Ralston",N,N,"",0,351,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 2","Schuler",N,N,"",2,416,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 2","Schuler",N,N,"",2,416,"Motz","","Glen","Conservative","Conservateur",Y,Y,143
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 2","Schuler",N,N,"",2,416,"Rooke","","Tom","Liberal","Libéral",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 2","Schuler",N,N,"",2,416,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 3","Cypress County",N,N,"",2,449,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 3","Cypress County",N,N,"",2,449,"Motz","","Glen","Conservative","Conservateur",Y,Y,156
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 3","Cypress County",N,N,"",2,449,"Rooke","","Tom","Liberal","Libéral",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 3","Cypress County",N,N,"",2,449,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 4","Redcliff",N,N,"",2,493,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 4","Redcliff",N,N,"",2,493,"Motz","","Glen","Conservative","Conservateur",Y,Y,139
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 4","Redcliff",N,N,"",2,493,"Rooke","","Tom","Liberal","Libéral",N,N,14
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 4","Redcliff",N,N,"",2,493,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 5","Redcliff",N,N,"",0,544,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 5","Redcliff",N,N,"",0,544,"Motz","","Glen","Conservative","Conservateur",Y,Y,159
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 5","Redcliff",N,N,"",0,544,"Rooke","","Tom","Liberal","Libéral",N,N,27
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 5","Redcliff",N,N,"",0,544,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 6","Redcliff",N,N,"",1,638,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 6","Redcliff",N,N,"",1,638,"Motz","","Glen","Conservative","Conservateur",Y,Y,137
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 6","Redcliff",N,N,"",1,638,"Rooke","","Tom","Liberal","Libéral",N,N,47
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 6","Redcliff",N,N,"",1,638,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 7","Medicine Hat",N,N,"",2,415,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 7","Medicine Hat",N,N,"",2,415,"Motz","","Glen","Conservative","Conservateur",Y,Y,142
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 7","Medicine Hat",N,N,"",2,415,"Rooke","","Tom","Liberal","Libéral",N,N,38
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 7","Medicine Hat",N,N,"",2,415,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 8","Medicine Hat",N,N,"",1,439,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 8","Medicine Hat",N,N,"",1,439,"Motz","","Glen","Conservative","Conservateur",Y,Y,113
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 8","Medicine Hat",N,N,"",1,439,"Rooke","","Tom","Liberal","Libéral",N,N,36
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 8","Medicine Hat",N,N,"",1,439,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 9","Medicine Hat",N,N,"",0,545,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 9","Medicine Hat",N,N,"",0,545,"Motz","","Glen","Conservative","Conservateur",Y,Y,139
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 9","Medicine Hat",N,N,"",0,545,"Rooke","","Tom","Liberal","Libéral",N,N,43
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 9","Medicine Hat",N,N,"",0,545,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 10","Medicine Hat",N,N,"",1,479,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 10","Medicine Hat",N,N,"",1,479,"Motz","","Glen","Conservative","Conservateur",Y,Y,107
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 10","Medicine Hat",N,N,"",1,479,"Rooke","","Tom","Liberal","Libéral",N,N,33
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 10","Medicine Hat",N,N,"",1,479,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 11","Medicine Hat",N,N,"",0,416,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 11","Medicine Hat",N,N,"",0,416,"Motz","","Glen","Conservative","Conservateur",Y,Y,106
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 11","Medicine Hat",N,N,"",0,416,"Rooke","","Tom","Liberal","Libéral",N,N,35
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 11","Medicine Hat",N,N,"",0,416,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 12","Medicine Hat",N,N,"",1,566,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 12","Medicine Hat",N,N,"",1,566,"Motz","","Glen","Conservative","Conservateur",Y,Y,183
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 12","Medicine Hat",N,N,"",1,566,"Rooke","","Tom","Liberal","Libéral",N,N,45
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 12","Medicine Hat",N,N,"",1,566,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 13","Medicine Hat",N,N,"",0,421,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 13","Medicine Hat",N,N,"",0,421,"Motz","","Glen","Conservative","Conservateur",Y,Y,117
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 13","Medicine Hat",N,N,"",0,421,"Rooke","","Tom","Liberal","Libéral",N,N,37
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 13","Medicine Hat",N,N,"",0,421,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 14","Medicine Hat",N,N,"",0,477,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 14","Medicine Hat",N,N,"",0,477,"Motz","","Glen","Conservative","Conservateur",Y,Y,122
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 14","Medicine Hat",N,N,"",0,477,"Rooke","","Tom","Liberal","Libéral",N,N,24
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 14","Medicine Hat",N,N,"",0,477,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 15","Medicine Hat",N,N,"",0,424,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 15","Medicine Hat",N,N,"",0,424,"Motz","","Glen","Conservative","Conservateur",Y,Y,122
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 15","Medicine Hat",N,N,"",0,424,"Rooke","","Tom","Liberal","Libéral",N,N,26
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 15","Medicine Hat",N,N,"",0,424,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 16","Medicine Hat",N,N,"",1,217,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 16","Medicine Hat",N,N,"",1,217,"Motz","","Glen","Conservative","Conservateur",Y,Y,65
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 16","Medicine Hat",N,N,"",1,217,"Rooke","","Tom","Liberal","Libéral",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 16","Medicine Hat",N,N,"",1,217,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 17","Medicine Hat",N,N,"",0,482,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 17","Medicine Hat",N,N,"",0,482,"Motz","","Glen","Conservative","Conservateur",Y,Y,148
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 17","Medicine Hat",N,N,"",0,482,"Rooke","","Tom","Liberal","Libéral",N,N,21
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 17","Medicine Hat",N,N,"",0,482,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 18","Medicine Hat",N,N,"",2,435,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 18","Medicine Hat",N,N,"",2,435,"Motz","","Glen","Conservative","Conservateur",Y,Y,116
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 18","Medicine Hat",N,N,"",2,435,"Rooke","","Tom","Liberal","Libéral",N,N,25
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 18","Medicine Hat",N,N,"",2,435,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 19","Medicine Hat",N,N,"",1,406,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 19","Medicine Hat",N,N,"",1,406,"Motz","","Glen","Conservative","Conservateur",Y,Y,97
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 19","Medicine Hat",N,N,"",1,406,"Rooke","","Tom","Liberal","Libéral",N,N,27
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 19","Medicine Hat",N,N,"",1,406,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 20","Medicine Hat",N,N,"",0,519,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 20","Medicine Hat",N,N,"",0,519,"Motz","","Glen","Conservative","Conservateur",Y,Y,153
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 20","Medicine Hat",N,N,"",0,519,"Rooke","","Tom","Liberal","Libéral",N,N,47
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 20","Medicine Hat",N,N,"",0,519,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 21","Medicine Hat",N,N,"",1,561,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 21","Medicine Hat",N,N,"",1,561,"Motz","","Glen","Conservative","Conservateur",Y,Y,150
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 21","Medicine Hat",N,N,"",1,561,"Rooke","","Tom","Liberal","Libéral",N,N,50
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 21","Medicine Hat",N,N,"",1,561,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 22","Medicine Hat",N,N,"",0,425,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 22","Medicine Hat",N,N,"",0,425,"Motz","","Glen","Conservative","Conservateur",Y,Y,110
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 22","Medicine Hat",N,N,"",0,425,"Rooke","","Tom","Liberal","Libéral",N,N,30
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 22","Medicine Hat",N,N,"",0,425,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 23","Medicine Hat",N,N,"",0,425,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 23","Medicine Hat",N,N,"",0,425,"Motz","","Glen","Conservative","Conservateur",Y,Y,107
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 23","Medicine Hat",N,N,"",0,425,"Rooke","","Tom","Liberal","Libéral",N,N,32
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 23","Medicine Hat",N,N,"",0,425,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 24","Medicine Hat",N,N,"",1,375,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 24","Medicine Hat",N,N,"",1,375,"Motz","","Glen","Conservative","Conservateur",Y,Y,100
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 24","Medicine Hat",N,N,"",1,375,"Rooke","","Tom","Liberal","Libéral",N,N,19
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 24","Medicine Hat",N,N,"",1,375,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 25","Medicine Hat",N,N,"",0,380,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 25","Medicine Hat",N,N,"",0,380,"Motz","","Glen","Conservative","Conservateur",Y,Y,130
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 25","Medicine Hat",N,N,"",0,380,"Rooke","","Tom","Liberal","Libéral",N,N,28
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 25","Medicine Hat",N,N,"",0,380,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 26","Medicine Hat",N,N,"",0,303,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 26","Medicine Hat",N,N,"",0,303,"Motz","","Glen","Conservative","Conservateur",Y,Y,69
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 26","Medicine Hat",N,N,"",0,303,"Rooke","","Tom","Liberal","Libéral",N,N,35
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 26","Medicine Hat",N,N,"",0,303,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 27","Redcliff",N,N,"",0,444,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 27","Redcliff",N,N,"",0,444,"Motz","","Glen","Conservative","Conservateur",Y,Y,134
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 27","Redcliff",N,N,"",0,444,"Rooke","","Tom","Liberal","Libéral",N,N,44
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 27","Redcliff",N,N,"",0,444,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 28","Redcliff",N,N,"",1,469,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 28","Redcliff",N,N,"",1,469,"Motz","","Glen","Conservative","Conservateur",Y,Y,125
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 28","Redcliff",N,N,"",1,469,"Rooke","","Tom","Liberal","Libéral",N,N,33
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 28","Redcliff",N,N,"",1,469,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 29","Redcliff",N,N,"",1,574,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 29","Redcliff",N,N,"",1,574,"Motz","","Glen","Conservative","Conservateur",Y,Y,148
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 29","Redcliff",N,N,"",1,574,"Rooke","","Tom","Liberal","Libéral",N,N,39
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 29","Redcliff",N,N,"",1,574,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 30","Redcliff",N,N,"",1,563,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 30","Redcliff",N,N,"",1,563,"Motz","","Glen","Conservative","Conservateur",Y,Y,166
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 30","Redcliff",N,N,"",1,563,"Rooke","","Tom","Liberal","Libéral",N,N,36
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 30","Redcliff",N,N,"",1,563,"Shadrack","","Andy","Green Party","Parti Vert",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 31","Redcliff",N,N,"",0,226,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 31","Redcliff",N,N,"",0,226,"Motz","","Glen","Conservative","Conservateur",Y,Y,103
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 31","Redcliff",N,N,"",0,226,"Rooke","","Tom","Liberal","Libéral",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 31","Redcliff",N,N,"",0,226,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 32A","Medicine Hat",N,N,"",0,393,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 32A","Medicine Hat",N,N,"",0,393,"Motz","","Glen","Conservative","Conservateur",Y,Y,90
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 32A","Medicine Hat",N,N,"",0,393,"Rooke","","Tom","Liberal","Libéral",N,N,32
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 32A","Medicine Hat",N,N,"",0,393,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 32B","Medicine Hat",N,N,"",0,379,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 32B","Medicine Hat",N,N,"",0,379,"Motz","","Glen","Conservative","Conservateur",Y,Y,84
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 32B","Medicine Hat",N,N,"",0,379,"Rooke","","Tom","Liberal","Libéral",N,N,42
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 32B","Medicine Hat",N,N,"",0,379,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 33","Medicine Hat",N,N,"",0,382,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 33","Medicine Hat",N,N,"",0,382,"Motz","","Glen","Conservative","Conservateur",Y,Y,81
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 33","Medicine Hat",N,N,"",0,382,"Rooke","","Tom","Liberal","Libéral",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 33","Medicine Hat",N,N,"",0,382,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 34","Medicine Hat",N,N,"",1,366,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 34","Medicine Hat",N,N,"",1,366,"Motz","","Glen","Conservative","Conservateur",Y,Y,101
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 34","Medicine Hat",N,N,"",1,366,"Rooke","","Tom","Liberal","Libéral",N,N,43
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 34","Medicine Hat",N,N,"",1,366,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 35","Medicine Hat",N,N,"",1,449,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 35","Medicine Hat",N,N,"",1,449,"Motz","","Glen","Conservative","Conservateur",Y,Y,131
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 35","Medicine Hat",N,N,"",1,449,"Rooke","","Tom","Liberal","Libéral",N,N,42
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 35","Medicine Hat",N,N,"",1,449,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 36","Medicine Hat",N,N,"",1,441,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 36","Medicine Hat",N,N,"",1,441,"Motz","","Glen","Conservative","Conservateur",Y,Y,121
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 36","Medicine Hat",N,N,"",1,441,"Rooke","","Tom","Liberal","Libéral",N,N,43
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 36","Medicine Hat",N,N,"",1,441,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 37","Medicine Hat",N,N,"",1,456,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 37","Medicine Hat",N,N,"",1,456,"Motz","","Glen","Conservative","Conservateur",Y,Y,133
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 37","Medicine Hat",N,N,"",1,456,"Rooke","","Tom","Liberal","Libéral",N,N,53
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 37","Medicine Hat",N,N,"",1,456,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 38","Medicine Hat",N,N,"",1,580,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 38","Medicine Hat",N,N,"",1,580,"Motz","","Glen","Conservative","Conservateur",Y,Y,188
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 38","Medicine Hat",N,N,"",1,580,"Rooke","","Tom","Liberal","Libéral",N,N,57
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 38","Medicine Hat",N,N,"",1,580,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 39","Medicine Hat",N,N,"",0,424,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 39","Medicine Hat",N,N,"",0,424,"Motz","","Glen","Conservative","Conservateur",Y,Y,115
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 39","Medicine Hat",N,N,"",0,424,"Rooke","","Tom","Liberal","Libéral",N,N,61
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 39","Medicine Hat",N,N,"",0,424,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 40","Medicine Hat",N,N,"",0,399,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 40","Medicine Hat",N,N,"",0,399,"Motz","","Glen","Conservative","Conservateur",Y,Y,124
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 40","Medicine Hat",N,N,"",0,399,"Rooke","","Tom","Liberal","Libéral",N,N,52
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 40","Medicine Hat",N,N,"",0,399,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 41","Medicine Hat",N,N,"",0,446,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 41","Medicine Hat",N,N,"",0,446,"Motz","","Glen","Conservative","Conservateur",Y,Y,103
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 41","Medicine Hat",N,N,"",0,446,"Rooke","","Tom","Liberal","Libéral",N,N,52
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 41","Medicine Hat",N,N,"",0,446,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 42","Medicine Hat",N,N,"",1,389,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 42","Medicine Hat",N,N,"",1,389,"Motz","","Glen","Conservative","Conservateur",Y,Y,79
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 42","Medicine Hat",N,N,"",1,389,"Rooke","","Tom","Liberal","Libéral",N,N,46
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 42","Medicine Hat",N,N,"",1,389,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 43","Medicine Hat",N,N,"",0,379,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 43","Medicine Hat",N,N,"",0,379,"Motz","","Glen","Conservative","Conservateur",Y,Y,87
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 43","Medicine Hat",N,N,"",0,379,"Rooke","","Tom","Liberal","Libéral",N,N,43
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 43","Medicine Hat",N,N,"",0,379,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 44","Medicine Hat",N,N,"",3,403,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 44","Medicine Hat",N,N,"",3,403,"Motz","","Glen","Conservative","Conservateur",Y,Y,88
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 44","Medicine Hat",N,N,"",3,403,"Rooke","","Tom","Liberal","Libéral",N,N,48
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 44","Medicine Hat",N,N,"",3,403,"Shadrack","","Andy","Green Party","Parti Vert",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 45","Medicine Hat",N,N,"",0,446,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 45","Medicine Hat",N,N,"",0,446,"Motz","","Glen","Conservative","Conservateur",Y,Y,98
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 45","Medicine Hat",N,N,"",0,446,"Rooke","","Tom","Liberal","Libéral",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 45","Medicine Hat",N,N,"",0,446,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 46","Seven Persons",N,N,"",0,346,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 46","Seven Persons",N,N,"",0,346,"Motz","","Glen","Conservative","Conservateur",Y,Y,120
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 46","Seven Persons",N,N,"",0,346,"Rooke","","Tom","Liberal","Libéral",N,N,9
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 46","Seven Persons",N,N,"",0,346,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 47","Medicine Hat",N,N,"",2,453,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 47","Medicine Hat",N,N,"",2,453,"Motz","","Glen","Conservative","Conservateur",Y,Y,70
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 47","Medicine Hat",N,N,"",2,453,"Rooke","","Tom","Liberal","Libéral",N,N,25
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 47","Medicine Hat",N,N,"",2,453,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 48","Seven Persons",N,N,"",0,282,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 48","Seven Persons",N,N,"",0,282,"Motz","","Glen","Conservative","Conservateur",Y,Y,103
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 48","Seven Persons",N,N,"",0,282,"Rooke","","Tom","Liberal","Libéral",N,N,17
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 48","Seven Persons",N,N,"",0,282,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 49","Medicine Hat",N,N,"",1,441,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 49","Medicine Hat",N,N,"",1,441,"Motz","","Glen","Conservative","Conservateur",Y,Y,142
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 49","Medicine Hat",N,N,"",1,441,"Rooke","","Tom","Liberal","Libéral",N,N,26
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 49","Medicine Hat",N,N,"",1,441,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 50","Medicine Hat",N,N,"",1,409,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 50","Medicine Hat",N,N,"",1,409,"Motz","","Glen","Conservative","Conservateur",Y,Y,113
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 50","Medicine Hat",N,N,"",1,409,"Rooke","","Tom","Liberal","Libéral",N,N,33
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 50","Medicine Hat",N,N,"",1,409,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 51","Medicine Hat",N,N,"",0,474,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 51","Medicine Hat",N,N,"",0,474,"Motz","","Glen","Conservative","Conservateur",Y,Y,146
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 51","Medicine Hat",N,N,"",0,474,"Rooke","","Tom","Liberal","Libéral",N,N,38
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 51","Medicine Hat",N,N,"",0,474,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 52","Medicine Hat",N,N,"",1,485,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 52","Medicine Hat",N,N,"",1,485,"Motz","","Glen","Conservative","Conservateur",Y,Y,123
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 52","Medicine Hat",N,N,"",1,485,"Rooke","","Tom","Liberal","Libéral",N,N,45
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 52","Medicine Hat",N,N,"",1,485,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 53","Medicine Hat",N,N,"",0,388,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 53","Medicine Hat",N,N,"",0,388,"Motz","","Glen","Conservative","Conservateur",Y,Y,83
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 53","Medicine Hat",N,N,"",0,388,"Rooke","","Tom","Liberal","Libéral",N,N,41
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 53","Medicine Hat",N,N,"",0,388,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 54","Medicine Hat",N,N,"",4,465,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 54","Medicine Hat",N,N,"",4,465,"Motz","","Glen","Conservative","Conservateur",Y,Y,133
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 54","Medicine Hat",N,N,"",4,465,"Rooke","","Tom","Liberal","Libéral",N,N,43
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 54","Medicine Hat",N,N,"",4,465,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 55","Medicine Hat",N,N,"",0,430,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 55","Medicine Hat",N,N,"",0,430,"Motz","","Glen","Conservative","Conservateur",Y,Y,120
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 55","Medicine Hat",N,N,"",0,430,"Rooke","","Tom","Liberal","Libéral",N,N,35
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 55","Medicine Hat",N,N,"",0,430,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 56","Medicine Hat",N,N,"",0,352,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 56","Medicine Hat",N,N,"",0,352,"Motz","","Glen","Conservative","Conservateur",Y,Y,75
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 56","Medicine Hat",N,N,"",0,352,"Rooke","","Tom","Liberal","Libéral",N,N,43
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 56","Medicine Hat",N,N,"",0,352,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 57","Medicine Hat",N,N,"",0,373,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 57","Medicine Hat",N,N,"",0,373,"Motz","","Glen","Conservative","Conservateur",Y,Y,99
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 57","Medicine Hat",N,N,"",0,373,"Rooke","","Tom","Liberal","Libéral",N,N,26
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 57","Medicine Hat",N,N,"",0,373,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 58","Medicine Hat",N,N,"",3,396,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 58","Medicine Hat",N,N,"",3,396,"Motz","","Glen","Conservative","Conservateur",Y,Y,115
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 58","Medicine Hat",N,N,"",3,396,"Rooke","","Tom","Liberal","Libéral",N,N,40
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 58","Medicine Hat",N,N,"",3,396,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 59","Medicine Hat",N,N,"",0,429,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 59","Medicine Hat",N,N,"",0,429,"Motz","","Glen","Conservative","Conservateur",Y,Y,131
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 59","Medicine Hat",N,N,"",0,429,"Rooke","","Tom","Liberal","Libéral",N,N,54
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 59","Medicine Hat",N,N,"",0,429,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 60","Medicine Hat",N,N,"",0,406,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 60","Medicine Hat",N,N,"",0,406,"Motz","","Glen","Conservative","Conservateur",Y,Y,140
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 60","Medicine Hat",N,N,"",0,406,"Rooke","","Tom","Liberal","Libéral",N,N,31
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 60","Medicine Hat",N,N,"",0,406,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 61","Medicine Hat",N,N,"",1,440,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 61","Medicine Hat",N,N,"",1,440,"Motz","","Glen","Conservative","Conservateur",Y,Y,142
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 61","Medicine Hat",N,N,"",1,440,"Rooke","","Tom","Liberal","Libéral",N,N,36
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 61","Medicine Hat",N,N,"",1,440,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 62","Medicine Hat",N,N,"",1,423,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 62","Medicine Hat",N,N,"",1,423,"Motz","","Glen","Conservative","Conservateur",Y,Y,159
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 62","Medicine Hat",N,N,"",1,423,"Rooke","","Tom","Liberal","Libéral",N,N,25
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 62","Medicine Hat",N,N,"",1,423,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 63","Medicine Hat",N,N,"",0,495,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 63","Medicine Hat",N,N,"",0,495,"Motz","","Glen","Conservative","Conservateur",Y,Y,112
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 63","Medicine Hat",N,N,"",0,495,"Rooke","","Tom","Liberal","Libéral",N,N,26
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 63","Medicine Hat",N,N,"",0,495,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 64","Medicine Hat",N,N,"",0,457,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 64","Medicine Hat",N,N,"",0,457,"Motz","","Glen","Conservative","Conservateur",Y,Y,108
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 64","Medicine Hat",N,N,"",0,457,"Rooke","","Tom","Liberal","Libéral",N,N,46
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 64","Medicine Hat",N,N,"",0,457,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 65","Medicine Hat",N,N,"",1,519,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 65","Medicine Hat",N,N,"",1,519,"Motz","","Glen","Conservative","Conservateur",Y,Y,154
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 65","Medicine Hat",N,N,"",1,519,"Rooke","","Tom","Liberal","Libéral",N,N,35
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 65","Medicine Hat",N,N,"",1,519,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 66","Medicine Hat",N,N,"",2,422,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 66","Medicine Hat",N,N,"",2,422,"Motz","","Glen","Conservative","Conservateur",Y,Y,106
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 66","Medicine Hat",N,N,"",2,422,"Rooke","","Tom","Liberal","Libéral",N,N,37
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 66","Medicine Hat",N,N,"",2,422,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 67","Medicine Hat",N,N,"",1,507,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 67","Medicine Hat",N,N,"",1,507,"Motz","","Glen","Conservative","Conservateur",Y,Y,128
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 67","Medicine Hat",N,N,"",1,507,"Rooke","","Tom","Liberal","Libéral",N,N,59
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 67","Medicine Hat",N,N,"",1,507,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 68","Medicine Hat",N,N,"",9,425,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 68","Medicine Hat",N,N,"",9,425,"Motz","","Glen","Conservative","Conservateur",Y,Y,97
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 68","Medicine Hat",N,N,"",9,425,"Rooke","","Tom","Liberal","Libéral",N,N,22
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 68","Medicine Hat",N,N,"",9,425,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 69","Medicine Hat",N,N,"",0,376,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 69","Medicine Hat",N,N,"",0,376,"Motz","","Glen","Conservative","Conservateur",Y,Y,96
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 69","Medicine Hat",N,N,"",0,376,"Rooke","","Tom","Liberal","Libéral",N,N,39
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 69","Medicine Hat",N,N,"",0,376,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 70","Medicine Hat",N,N,"",3,471,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 70","Medicine Hat",N,N,"",3,471,"Motz","","Glen","Conservative","Conservateur",Y,Y,100
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 70","Medicine Hat",N,N,"",3,471,"Rooke","","Tom","Liberal","Libéral",N,N,42
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 70","Medicine Hat",N,N,"",3,471,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 71","Medicine Hat",N,N,"",2,419,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 71","Medicine Hat",N,N,"",2,419,"Motz","","Glen","Conservative","Conservateur",Y,Y,92
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 71","Medicine Hat",N,N,"",2,419,"Rooke","","Tom","Liberal","Libéral",N,N,29
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 71","Medicine Hat",N,N,"",2,419,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 72","Medicine Hat",N,N,"",1,371,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 72","Medicine Hat",N,N,"",1,371,"Motz","","Glen","Conservative","Conservateur",Y,Y,109
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 72","Medicine Hat",N,N,"",1,371,"Rooke","","Tom","Liberal","Libéral",N,N,35
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 72","Medicine Hat",N,N,"",1,371,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 73","Medicine Hat",N,N,"",1,526,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 73","Medicine Hat",N,N,"",1,526,"Motz","","Glen","Conservative","Conservateur",Y,Y,95
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 73","Medicine Hat",N,N,"",1,526,"Rooke","","Tom","Liberal","Libéral",N,N,50
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 73","Medicine Hat",N,N,"",1,526,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 74","Medicine Hat",N,N,"",1,611,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 74","Medicine Hat",N,N,"",1,611,"Motz","","Glen","Conservative","Conservateur",Y,Y,141
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 74","Medicine Hat",N,N,"",1,611,"Rooke","","Tom","Liberal","Libéral",N,N,40
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 74","Medicine Hat",N,N,"",1,611,"Shadrack","","Andy","Green Party","Parti Vert",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 75","Medicine Hat",N,N,"",1,438,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 75","Medicine Hat",N,N,"",1,438,"Motz","","Glen","Conservative","Conservateur",Y,Y,81
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 75","Medicine Hat",N,N,"",1,438,"Rooke","","Tom","Liberal","Libéral",N,N,30
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 75","Medicine Hat",N,N,"",1,438,"Shadrack","","Andy","Green Party","Parti Vert",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 76","Medicine Hat",N,N,"",2,407,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 76","Medicine Hat",N,N,"",2,407,"Motz","","Glen","Conservative","Conservateur",Y,Y,123
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 76","Medicine Hat",N,N,"",2,407,"Rooke","","Tom","Liberal","Libéral",N,N,38
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 76","Medicine Hat",N,N,"",2,407,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 77","Medicine Hat",N,N,"",0,390,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 77","Medicine Hat",N,N,"",0,390,"Motz","","Glen","Conservative","Conservateur",Y,Y,101
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 77","Medicine Hat",N,N,"",0,390,"Rooke","","Tom","Liberal","Libéral",N,N,29
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 77","Medicine Hat",N,N,"",0,390,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 78","Medicine Hat",N,N,"",2,395,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 78","Medicine Hat",N,N,"",2,395,"Motz","","Glen","Conservative","Conservateur",Y,Y,131
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 78","Medicine Hat",N,N,"",2,395,"Rooke","","Tom","Liberal","Libéral",N,N,51
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 78","Medicine Hat",N,N,"",2,395,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 79","Medicine Hat",N,N,"",1,441,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 79","Medicine Hat",N,N,"",1,441,"Motz","","Glen","Conservative","Conservateur",Y,Y,93
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 79","Medicine Hat",N,N,"",1,441,"Rooke","","Tom","Liberal","Libéral",N,N,26
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 79","Medicine Hat",N,N,"",1,441,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 80","Medicine Hat",N,N,"",3,543,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 80","Medicine Hat",N,N,"",3,543,"Motz","","Glen","Conservative","Conservateur",Y,Y,129
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 80","Medicine Hat",N,N,"",3,543,"Rooke","","Tom","Liberal","Libéral",N,N,38
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 80","Medicine Hat",N,N,"",3,543,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 81","Medicine Hat",N,N,"",0,566,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 81","Medicine Hat",N,N,"",0,566,"Motz","","Glen","Conservative","Conservateur",Y,Y,160
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 81","Medicine Hat",N,N,"",0,566,"Rooke","","Tom","Liberal","Libéral",N,N,32
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 81","Medicine Hat",N,N,"",0,566,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 82","Medicine Hat",N,N,"",0,399,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 82","Medicine Hat",N,N,"",0,399,"Motz","","Glen","Conservative","Conservateur",Y,Y,109
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 82","Medicine Hat",N,N,"",0,399,"Rooke","","Tom","Liberal","Libéral",N,N,37
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 82","Medicine Hat",N,N,"",0,399,"Shadrack","","Andy","Green Party","Parti Vert",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 83","Medicine Hat",N,N,"",3,367,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 83","Medicine Hat",N,N,"",3,367,"Motz","","Glen","Conservative","Conservateur",Y,Y,141
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 83","Medicine Hat",N,N,"",3,367,"Rooke","","Tom","Liberal","Libéral",N,N,34
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 83","Medicine Hat",N,N,"",3,367,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 84","Medicine Hat",N,N,"",0,439,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 84","Medicine Hat",N,N,"",0,439,"Motz","","Glen","Conservative","Conservateur",Y,Y,109
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 84","Medicine Hat",N,N,"",0,439,"Rooke","","Tom","Liberal","Libéral",N,N,32
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 84","Medicine Hat",N,N,"",0,439,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 85","Medicine Hat",N,N,"",1,492,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 85","Medicine Hat",N,N,"",1,492,"Motz","","Glen","Conservative","Conservateur",Y,Y,71
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 85","Medicine Hat",N,N,"",1,492,"Rooke","","Tom","Liberal","Libéral",N,N,28
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 85","Medicine Hat",N,N,"",1,492,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 86","Medicine Hat",N,N,"",2,577,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 86","Medicine Hat",N,N,"",2,577,"Motz","","Glen","Conservative","Conservateur",Y,Y,111
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 86","Medicine Hat",N,N,"",2,577,"Rooke","","Tom","Liberal","Libéral",N,N,30
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 86","Medicine Hat",N,N,"",2,577,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 87","Medicine Hat",N,N,"",0,463,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 87","Medicine Hat",N,N,"",0,463,"Motz","","Glen","Conservative","Conservateur",Y,Y,121
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 87","Medicine Hat",N,N,"",0,463,"Rooke","","Tom","Liberal","Libéral",N,N,35
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 87","Medicine Hat",N,N,"",0,463,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 88","Medicine Hat",N,N,"",1,418,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 88","Medicine Hat",N,N,"",1,418,"Motz","","Glen","Conservative","Conservateur",Y,Y,117
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 88","Medicine Hat",N,N,"",1,418,"Rooke","","Tom","Liberal","Libéral",N,N,22
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 88","Medicine Hat",N,N,"",1,418,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 89","Medicine Hat",N,N,"",1,550,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 89","Medicine Hat",N,N,"",1,550,"Motz","","Glen","Conservative","Conservateur",Y,Y,150
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 89","Medicine Hat",N,N,"",1,550,"Rooke","","Tom","Liberal","Libéral",N,N,29
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 89","Medicine Hat",N,N,"",1,550,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 90A","Medicine Hat",N,N,"",0,368,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 90A","Medicine Hat",N,N,"",0,368,"Motz","","Glen","Conservative","Conservateur",Y,Y,93
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 90A","Medicine Hat",N,N,"",0,368,"Rooke","","Tom","Liberal","Libéral",N,N,19
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 90A","Medicine Hat",N,N,"",0,368,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 90B","Mobile poll/Bureau itinérant",N,N,"504",0,158,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 90B","Mobile poll/Bureau itinérant",N,N,"504",0,158,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 90B","Mobile poll/Bureau itinérant",N,N,"504",0,158,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 90B","Mobile poll/Bureau itinérant",N,N,"504",0,158,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 91","Medicine Hat",N,N,"",0,505,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 91","Medicine Hat",N,N,"",0,505,"Motz","","Glen","Conservative","Conservateur",Y,Y,153
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 91","Medicine Hat",N,N,"",0,505,"Rooke","","Tom","Liberal","Libéral",N,N,47
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 91","Medicine Hat",N,N,"",0,505,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 92","Medicine Hat",N,N,"",0,438,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 92","Medicine Hat",N,N,"",0,438,"Motz","","Glen","Conservative","Conservateur",Y,Y,146
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 92","Medicine Hat",N,N,"",0,438,"Rooke","","Tom","Liberal","Libéral",N,N,36
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 92","Medicine Hat",N,N,"",0,438,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 93A","Medicine Hat",N,N,"",1,407,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 93A","Medicine Hat",N,N,"",1,407,"Motz","","Glen","Conservative","Conservateur",Y,Y,74
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 93A","Medicine Hat",N,N,"",1,407,"Rooke","","Tom","Liberal","Libéral",N,N,18
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 93A","Medicine Hat",N,N,"",1,407,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 93B","Mobile poll/Bureau itinérant",N,N,"",5,106,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 93B","Mobile poll/Bureau itinérant",N,N,"",5,106,"Motz","","Glen","Conservative","Conservateur",Y,Y,83
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 93B","Mobile poll/Bureau itinérant",N,N,"",5,106,"Rooke","","Tom","Liberal","Libéral",N,N,21
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 93B","Mobile poll/Bureau itinérant",N,N,"",5,106,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 94","Medicine Hat",N,N,"",2,458,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 94","Medicine Hat",N,N,"",2,458,"Motz","","Glen","Conservative","Conservateur",Y,Y,150
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 94","Medicine Hat",N,N,"",2,458,"Rooke","","Tom","Liberal","Libéral",N,N,35
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 94","Medicine Hat",N,N,"",2,458,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 95","Medicine Hat",N,N,"",1,415,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 95","Medicine Hat",N,N,"",1,415,"Motz","","Glen","Conservative","Conservateur",Y,Y,139
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 95","Medicine Hat",N,N,"",1,415,"Rooke","","Tom","Liberal","Libéral",N,N,41
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 95","Medicine Hat",N,N,"",1,415,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 96","Medicine Hat",N,N,"",0,491,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 96","Medicine Hat",N,N,"",0,491,"Motz","","Glen","Conservative","Conservateur",Y,Y,170
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 96","Medicine Hat",N,N,"",0,491,"Rooke","","Tom","Liberal","Libéral",N,N,42
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 96","Medicine Hat",N,N,"",0,491,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 97","Medicine Hat",N,N,"",2,587,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 97","Medicine Hat",N,N,"",2,587,"Motz","","Glen","Conservative","Conservateur",Y,Y,157
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 97","Medicine Hat",N,N,"",2,587,"Rooke","","Tom","Liberal","Libéral",N,N,45
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 97","Medicine Hat",N,N,"",2,587,"Shadrack","","Andy","Green Party","Parti Vert",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 98","Medicine Hat",N,N,"",7,477,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 98","Medicine Hat",N,N,"",7,477,"Motz","","Glen","Conservative","Conservateur",Y,Y,120
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 98","Medicine Hat",N,N,"",7,477,"Rooke","","Tom","Liberal","Libéral",N,N,26
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 98","Medicine Hat",N,N,"",7,477,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 99","Medicine Hat",N,N,"",1,552,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 99","Medicine Hat",N,N,"",1,552,"Motz","","Glen","Conservative","Conservateur",Y,Y,197
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 99","Medicine Hat",N,N,"",1,552,"Rooke","","Tom","Liberal","Libéral",N,N,36
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 99","Medicine Hat",N,N,"",1,552,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 100","Medicine Hat",N,N,"",1,527,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 100","Medicine Hat",N,N,"",1,527,"Motz","","Glen","Conservative","Conservateur",Y,Y,168
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 100","Medicine Hat",N,N,"",1,527,"Rooke","","Tom","Liberal","Libéral",N,N,31
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 100","Medicine Hat",N,N,"",1,527,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 101","Medicine Hat",N,N,"",1,459,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 101","Medicine Hat",N,N,"",1,459,"Motz","","Glen","Conservative","Conservateur",Y,Y,151
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 101","Medicine Hat",N,N,"",1,459,"Rooke","","Tom","Liberal","Libéral",N,N,30
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 101","Medicine Hat",N,N,"",1,459,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 102A","Medicine Hat",N,N,"",2,533,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 102A","Medicine Hat",N,N,"",2,533,"Motz","","Glen","Conservative","Conservateur",Y,Y,131
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 102A","Medicine Hat",N,N,"",2,533,"Rooke","","Tom","Liberal","Libéral",N,N,39
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 102A","Medicine Hat",N,N,"",2,533,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 102B","Mobile poll/Bureau itinérant",N,N,"93B",0,33,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 102B","Mobile poll/Bureau itinérant",N,N,"93B",0,33,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 102B","Mobile poll/Bureau itinérant",N,N,"93B",0,33,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 102B","Mobile poll/Bureau itinérant",N,N,"93B",0,33,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 103","Medicine Hat",N,N,"",2,343,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 103","Medicine Hat",N,N,"",2,343,"Motz","","Glen","Conservative","Conservateur",Y,Y,118
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 103","Medicine Hat",N,N,"",2,343,"Rooke","","Tom","Liberal","Libéral",N,N,46
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 103","Medicine Hat",N,N,"",2,343,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 104","Medicine Hat",N,N,"",0,347,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 104","Medicine Hat",N,N,"",0,347,"Motz","","Glen","Conservative","Conservateur",Y,Y,104
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 104","Medicine Hat",N,N,"",0,347,"Rooke","","Tom","Liberal","Libéral",N,N,19
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 104","Medicine Hat",N,N,"",0,347,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 105","Medicine Hat",N,N,"",1,488,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 105","Medicine Hat",N,N,"",1,488,"Motz","","Glen","Conservative","Conservateur",Y,Y,155
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 105","Medicine Hat",N,N,"",1,488,"Rooke","","Tom","Liberal","Libéral",N,N,32
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 105","Medicine Hat",N,N,"",1,488,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 106","Medicine Hat",N,N,"",0,367,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 106","Medicine Hat",N,N,"",0,367,"Motz","","Glen","Conservative","Conservateur",Y,Y,118
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 106","Medicine Hat",N,N,"",0,367,"Rooke","","Tom","Liberal","Libéral",N,N,34
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 106","Medicine Hat",N,N,"",0,367,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 107","Medicine Hat",N,N,"",0,533,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 107","Medicine Hat",N,N,"",0,533,"Motz","","Glen","Conservative","Conservateur",Y,Y,171
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 107","Medicine Hat",N,N,"",0,533,"Rooke","","Tom","Liberal","Libéral",N,N,40
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 107","Medicine Hat",N,N,"",0,533,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 108","Medicine Hat",N,N,"",5,545,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 108","Medicine Hat",N,N,"",5,545,"Motz","","Glen","Conservative","Conservateur",Y,Y,190
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 108","Medicine Hat",N,N,"",5,545,"Rooke","","Tom","Liberal","Libéral",N,N,41
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 108","Medicine Hat",N,N,"",5,545,"Shadrack","","Andy","Green Party","Parti Vert",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 109","Medicine Hat",N,N,"",1,523,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 109","Medicine Hat",N,N,"",1,523,"Motz","","Glen","Conservative","Conservateur",Y,Y,119
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 109","Medicine Hat",N,N,"",1,523,"Rooke","","Tom","Liberal","Libéral",N,N,37
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 109","Medicine Hat",N,N,"",1,523,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 110","Medicine Hat",N,N,"",0,319,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 110","Medicine Hat",N,N,"",0,319,"Motz","","Glen","Conservative","Conservateur",Y,Y,92
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 110","Medicine Hat",N,N,"",0,319,"Rooke","","Tom","Liberal","Libéral",N,N,24
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 110","Medicine Hat",N,N,"",0,319,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 111","Medicine Hat",N,N,"",0,420,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 111","Medicine Hat",N,N,"",0,420,"Motz","","Glen","Conservative","Conservateur",Y,Y,144
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 111","Medicine Hat",N,N,"",0,420,"Rooke","","Tom","Liberal","Libéral",N,N,33
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 111","Medicine Hat",N,N,"",0,420,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 112","Medicine Hat",N,N,"",1,578,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 112","Medicine Hat",N,N,"",1,578,"Motz","","Glen","Conservative","Conservateur",Y,Y,173
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 112","Medicine Hat",N,N,"",1,578,"Rooke","","Tom","Liberal","Libéral",N,N,58
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 112","Medicine Hat",N,N,"",1,578,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 113","Medicine Hat",N,N,"",2,500,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 113","Medicine Hat",N,N,"",2,500,"Motz","","Glen","Conservative","Conservateur",Y,Y,169
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 113","Medicine Hat",N,N,"",2,500,"Rooke","","Tom","Liberal","Libéral",N,N,31
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 113","Medicine Hat",N,N,"",2,500,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 114","Medicine Hat",N,N,"",1,501,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 114","Medicine Hat",N,N,"",1,501,"Motz","","Glen","Conservative","Conservateur",Y,Y,150
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 114","Medicine Hat",N,N,"",1,501,"Rooke","","Tom","Liberal","Libéral",N,N,41
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 114","Medicine Hat",N,N,"",1,501,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 115","Medicine Hat",N,N,"",1,410,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 115","Medicine Hat",N,N,"",1,410,"Motz","","Glen","Conservative","Conservateur",Y,Y,126
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 115","Medicine Hat",N,N,"",1,410,"Rooke","","Tom","Liberal","Libéral",N,N,45
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 115","Medicine Hat",N,N,"",1,410,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 116","Medicine Hat",N,N,"",2,465,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 116","Medicine Hat",N,N,"",2,465,"Motz","","Glen","Conservative","Conservateur",Y,Y,159
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 116","Medicine Hat",N,N,"",2,465,"Rooke","","Tom","Liberal","Libéral",N,N,57
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 116","Medicine Hat",N,N,"",2,465,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 117","Medicine Hat",N,N,"",3,366,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 117","Medicine Hat",N,N,"",3,366,"Motz","","Glen","Conservative","Conservateur",Y,Y,113
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 117","Medicine Hat",N,N,"",3,366,"Rooke","","Tom","Liberal","Libéral",N,N,30
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 117","Medicine Hat",N,N,"",3,366,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 118","Medicine Hat",N,N,"",1,352,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 118","Medicine Hat",N,N,"",1,352,"Motz","","Glen","Conservative","Conservateur",Y,Y,109
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 118","Medicine Hat",N,N,"",1,352,"Rooke","","Tom","Liberal","Libéral",N,N,19
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 118","Medicine Hat",N,N,"",1,352,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 119","Medicine Hat",N,N,"",0,407,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 119","Medicine Hat",N,N,"",0,407,"Motz","","Glen","Conservative","Conservateur",Y,Y,135
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 119","Medicine Hat",N,N,"",0,407,"Rooke","","Tom","Liberal","Libéral",N,N,37
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 119","Medicine Hat",N,N,"",0,407,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 120","Medicine Hat",N,N,"",0,415,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 120","Medicine Hat",N,N,"",0,415,"Motz","","Glen","Conservative","Conservateur",Y,Y,140
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 120","Medicine Hat",N,N,"",0,415,"Rooke","","Tom","Liberal","Libéral",N,N,40
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 120","Medicine Hat",N,N,"",0,415,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 121","Medicine Hat",N,N,"",0,371,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 121","Medicine Hat",N,N,"",0,371,"Motz","","Glen","Conservative","Conservateur",Y,Y,91
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 121","Medicine Hat",N,N,"",0,371,"Rooke","","Tom","Liberal","Libéral",N,N,24
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 121","Medicine Hat",N,N,"",0,371,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 122","Medicine Hat",N,N,"",0,464,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 122","Medicine Hat",N,N,"",0,464,"Motz","","Glen","Conservative","Conservateur",Y,Y,104
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 122","Medicine Hat",N,N,"",0,464,"Rooke","","Tom","Liberal","Libéral",N,N,34
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 122","Medicine Hat",N,N,"",0,464,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 123","Medicine Hat",N,N,"",1,391,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 123","Medicine Hat",N,N,"",1,391,"Motz","","Glen","Conservative","Conservateur",Y,Y,100
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 123","Medicine Hat",N,N,"",1,391,"Rooke","","Tom","Liberal","Libéral",N,N,33
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 123","Medicine Hat",N,N,"",1,391,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 124","Medicine Hat",N,N,"",0,441,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 124","Medicine Hat",N,N,"",0,441,"Motz","","Glen","Conservative","Conservateur",Y,Y,128
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 124","Medicine Hat",N,N,"",0,441,"Rooke","","Tom","Liberal","Libéral",N,N,31
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 124","Medicine Hat",N,N,"",0,441,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 125","Bow Island",N,N,"",1,518,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 125","Bow Island",N,N,"",1,518,"Motz","","Glen","Conservative","Conservateur",Y,Y,185
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 125","Bow Island",N,N,"",1,518,"Rooke","","Tom","Liberal","Libéral",N,N,14
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 125","Bow Island",N,N,"",1,518,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 126","Bow Island",N,N,"",1,295,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 126","Bow Island",N,N,"",1,295,"Motz","","Glen","Conservative","Conservateur",Y,Y,90
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 126","Bow Island",N,N,"",1,295,"Rooke","","Tom","Liberal","Libéral",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 126","Bow Island",N,N,"",1,295,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 127","Bow Island",N,N,"",0,345,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 127","Bow Island",N,N,"",0,345,"Motz","","Glen","Conservative","Conservateur",Y,Y,127
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 127","Bow Island",N,N,"",0,345,"Rooke","","Tom","Liberal","Libéral",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 127","Bow Island",N,N,"",0,345,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 128A","Bow Island",N,N,"",3,496,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 128A","Bow Island",N,N,"",3,496,"Motz","","Glen","Conservative","Conservateur",Y,Y,160
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 128A","Bow Island",N,N,"",3,496,"Rooke","","Tom","Liberal","Libéral",N,N,23
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 128A","Bow Island",N,N,"",3,496,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 128B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 128B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 128B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 128B","Mobile poll/Bureau itinérant",N,N,"505",0,1,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 129","Bow Island",N,N,"",2,373,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 129","Bow Island",N,N,"",2,373,"Motz","","Glen","Conservative","Conservateur",Y,Y,145
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 129","Bow Island",N,N,"",2,373,"Rooke","","Tom","Liberal","Libéral",N,N,14
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 129","Bow Island",N,N,"",2,373,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 130","Juno",N,N,"",1,512,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 130","Juno",N,N,"",1,512,"Motz","","Glen","Conservative","Conservateur",Y,Y,255
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 130","Juno",N,N,"",1,512,"Rooke","","Tom","Liberal","Libéral",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 130","Juno",N,N,"",1,512,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 131","Seven Persons",N,N,"",0,351,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 131","Seven Persons",N,N,"",0,351,"Motz","","Glen","Conservative","Conservateur",Y,Y,173
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 131","Seven Persons",N,N,"",0,351,"Rooke","","Tom","Liberal","Libéral",N,N,18
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 131","Seven Persons",N,N,"",0,351,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 132","Bullshead",N,N,"",0,353,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 132","Bullshead",N,N,"",0,353,"Motz","","Glen","Conservative","Conservateur",Y,Y,134
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 132","Bullshead",N,N,"",0,353,"Rooke","","Tom","Liberal","Libéral",N,N,31
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 132","Bullshead",N,N,"",0,353,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 133","Bullshead",N,N,"",0,388,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 133","Bullshead",N,N,"",0,388,"Motz","","Glen","Conservative","Conservateur",Y,Y,145
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 133","Bullshead",N,N,"",0,388,"Rooke","","Tom","Liberal","Libéral",N,N,27
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 133","Bullshead",N,N,"",0,388,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 134","Bullshead",N,N,"",2,479,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 134","Bullshead",N,N,"",2,479,"Motz","","Glen","Conservative","Conservateur",Y,Y,211
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 134","Bullshead",N,N,"",2,479,"Rooke","","Tom","Liberal","Libéral",N,N,24
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 134","Bullshead",N,N,"",2,479,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 135","Bowmanton--Dunmore",N,N,"",0,356,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 135","Bowmanton--Dunmore",N,N,"",0,356,"Motz","","Glen","Conservative","Conservateur",Y,Y,136
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 135","Bowmanton--Dunmore",N,N,"",0,356,"Rooke","","Tom","Liberal","Libéral",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 135","Bowmanton--Dunmore",N,N,"",0,356,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 136","Dunmore",N,N,"",0,449,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 136","Dunmore",N,N,"",0,449,"Motz","","Glen","Conservative","Conservateur",Y,Y,159
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 136","Dunmore",N,N,"",0,449,"Rooke","","Tom","Liberal","Libéral",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 136","Dunmore",N,N,"",0,449,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 137","Dunmore",N,N,"",0,463,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 137","Dunmore",N,N,"",0,463,"Motz","","Glen","Conservative","Conservateur",Y,Y,143
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 137","Dunmore",N,N,"",0,463,"Rooke","","Tom","Liberal","Libéral",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 137","Dunmore",N,N,"",0,463,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 138","Dunmore",N,N,"",1,500,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 138","Dunmore",N,N,"",1,500,"Motz","","Glen","Conservative","Conservateur",Y,Y,193
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 138","Dunmore",N,N,"",1,500,"Rooke","","Tom","Liberal","Libéral",N,N,17
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 138","Dunmore",N,N,"",1,500,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 139","Irvine",N,N,"",1,351,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 139","Irvine",N,N,"",1,351,"Motz","","Glen","Conservative","Conservateur",Y,Y,165
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 139","Irvine",N,N,"",1,351,"Rooke","","Tom","Liberal","Libéral",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 139","Irvine",N,N,"",1,351,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 140","Irvine",N,N,"",0,356,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 140","Irvine",N,N,"",0,356,"Motz","","Glen","Conservative","Conservateur",Y,Y,163
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 140","Irvine",N,N,"",0,356,"Rooke","","Tom","Liberal","Libéral",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 140","Irvine",N,N,"",0,356,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 141","Stirling",N,N,"",0,521,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 141","Stirling",N,N,"",0,521,"Motz","","Glen","Conservative","Conservateur",Y,Y,245
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 141","Stirling",N,N,"",0,521,"Rooke","","Tom","Liberal","Libéral",N,N,27
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 141","Stirling",N,N,"",0,521,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 142","Stirling",N,N,"",0,416,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 142","Stirling",N,N,"",0,416,"Motz","","Glen","Conservative","Conservateur",Y,Y,108
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 142","Stirling",N,N,"",0,416,"Rooke","","Tom","Liberal","Libéral",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 142","Stirling",N,N,"",0,416,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 143","Stirling",N,N,"",0,460,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 143","Stirling",N,N,"",0,460,"Motz","","Glen","Conservative","Conservateur",Y,Y,194
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 143","Stirling",N,N,"",0,460,"Rooke","","Tom","Liberal","Libéral",N,N,18
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 143","Stirling",N,N,"",0,460,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 144","Raymond",N,N,"",0,421,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 144","Raymond",N,N,"",0,421,"Motz","","Glen","Conservative","Conservateur",Y,Y,141
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 144","Raymond",N,N,"",0,421,"Rooke","","Tom","Liberal","Libéral",N,N,25
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 144","Raymond",N,N,"",0,421,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 145","Raymond",N,N,"",0,428,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 145","Raymond",N,N,"",0,428,"Motz","","Glen","Conservative","Conservateur",Y,Y,109
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 145","Raymond",N,N,"",0,428,"Rooke","","Tom","Liberal","Libéral",N,N,33
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 145","Raymond",N,N,"",0,428,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 146","Raymond",N,N,"",2,377,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 146","Raymond",N,N,"",2,377,"Motz","","Glen","Conservative","Conservateur",Y,Y,122
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 146","Raymond",N,N,"",2,377,"Rooke","","Tom","Liberal","Libéral",N,N,17
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 146","Raymond",N,N,"",2,377,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 147","Raymond",N,N,"",2,426,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 147","Raymond",N,N,"",2,426,"Motz","","Glen","Conservative","Conservateur",Y,Y,110
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 147","Raymond",N,N,"",2,426,"Rooke","","Tom","Liberal","Libéral",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 147","Raymond",N,N,"",2,426,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 148","Raymond",N,N,"",1,685,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 148","Raymond",N,N,"",1,685,"Motz","","Glen","Conservative","Conservateur",Y,Y,242
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 148","Raymond",N,N,"",1,685,"Rooke","","Tom","Liberal","Libéral",N,N,28
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 148","Raymond",N,N,"",1,685,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 149","Raymond",N,N,"",0,561,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 149","Raymond",N,N,"",0,561,"Motz","","Glen","Conservative","Conservateur",Y,Y,227
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 149","Raymond",N,N,"",0,561,"Rooke","","Tom","Liberal","Libéral",N,N,19
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 149","Raymond",N,N,"",0,561,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 150","Raymond",N,N,"",0,336,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 150","Raymond",N,N,"",0,336,"Motz","","Glen","Conservative","Conservateur",Y,Y,132
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 150","Raymond",N,N,"",0,336,"Rooke","","Tom","Liberal","Libéral",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 150","Raymond",N,N,"",0,336,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 151A","Raymond",N,N,"",2,436,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 151A","Raymond",N,N,"",2,436,"Motz","","Glen","Conservative","Conservateur",Y,Y,113
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 151A","Raymond",N,N,"",2,436,"Rooke","","Tom","Liberal","Libéral",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 151A","Raymond",N,N,"",2,436,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 151B","Mobile poll/Bureau itinérant",N,N,"517",0,40,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 151B","Mobile poll/Bureau itinérant",N,N,"517",0,40,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 151B","Mobile poll/Bureau itinérant",N,N,"517",0,40,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 151B","Mobile poll/Bureau itinérant",N,N,"517",0,40,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 152","Raymond",N,N,"",0,447,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 152","Raymond",N,N,"",0,447,"Motz","","Glen","Conservative","Conservateur",Y,Y,101
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 152","Raymond",N,N,"",0,447,"Rooke","","Tom","Liberal","Libéral",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 152","Raymond",N,N,"",0,447,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 153","Welling",N,N,"",0,329,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 153","Welling",N,N,"",0,329,"Motz","","Glen","Conservative","Conservateur",Y,Y,117
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 153","Welling",N,N,"",0,329,"Rooke","","Tom","Liberal","Libéral",N,N,9
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 153","Welling",N,N,"",0,329,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 154","Magrath",N,N,"",0,395,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 154","Magrath",N,N,"",0,395,"Motz","","Glen","Conservative","Conservateur",Y,Y,134
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 154","Magrath",N,N,"",0,395,"Rooke","","Tom","Liberal","Libéral",N,N,20
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 154","Magrath",N,N,"",0,395,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 155","Magrath",N,N,"",0,555,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 155","Magrath",N,N,"",0,555,"Motz","","Glen","Conservative","Conservateur",Y,Y,162
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 155","Magrath",N,N,"",0,555,"Rooke","","Tom","Liberal","Libéral",N,N,20
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 155","Magrath",N,N,"",0,555,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 156","Magrath",N,N,"",0,614,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 156","Magrath",N,N,"",0,614,"Motz","","Glen","Conservative","Conservateur",Y,Y,217
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 156","Magrath",N,N,"",0,614,"Rooke","","Tom","Liberal","Libéral",N,N,30
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 156","Magrath",N,N,"",0,614,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 157","Magrath",N,N,"",0,292,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 157","Magrath",N,N,"",0,292,"Motz","","Glen","Conservative","Conservateur",Y,Y,69
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 157","Magrath",N,N,"",0,292,"Rooke","","Tom","Liberal","Libéral",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 157","Magrath",N,N,"",0,292,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 158","Magrath",N,N,"",0,472,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 158","Magrath",N,N,"",0,472,"Motz","","Glen","Conservative","Conservateur",Y,Y,110
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 158","Magrath",N,N,"",0,472,"Rooke","","Tom","Liberal","Libéral",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 158","Magrath",N,N,"",0,472,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 159","Spring Coulee",N,N,"",0,403,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 159","Spring Coulee",N,N,"",0,403,"Motz","","Glen","Conservative","Conservateur",Y,Y,54
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 159","Spring Coulee",N,N,"",0,403,"Rooke","","Tom","Liberal","Libéral",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 159","Spring Coulee",N,N,"",0,403,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 160","Mountain View",N,N,"",0,370,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 160","Mountain View",N,N,"",0,370,"Motz","","Glen","Conservative","Conservateur",Y,Y,221
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 160","Mountain View",N,N,"",0,370,"Rooke","","Tom","Liberal","Libéral",N,N,14
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 160","Mountain View",N,N,"",0,370,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 161","Conrad",N,N,"",1,381,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 161","Conrad",N,N,"",1,381,"Motz","","Glen","Conservative","Conservateur",Y,Y,70
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 161","Conrad",N,N,"",1,381,"Rooke","","Tom","Liberal","Libéral",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 161","Conrad",N,N,"",1,381,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 162","Warner",N,N,"",1,339,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 162","Warner",N,N,"",1,339,"Motz","","Glen","Conservative","Conservateur",Y,Y,90
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 162","Warner",N,N,"",1,339,"Rooke","","Tom","Liberal","Libéral",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 162","Warner",N,N,"",1,339,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 163","Warner",N,N,"",0,353,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 163","Warner",N,N,"",0,353,"Motz","","Glen","Conservative","Conservateur",Y,Y,153
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 163","Warner",N,N,"",0,353,"Rooke","","Tom","Liberal","Libéral",N,N,30
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 163","Warner",N,N,"",0,353,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 164","Cardston",N,N,"",1,383,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 164","Cardston",N,N,"",1,383,"Motz","","Glen","Conservative","Conservateur",Y,Y,137
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 164","Cardston",N,N,"",1,383,"Rooke","","Tom","Liberal","Libéral",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 164","Cardston",N,N,"",1,383,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 165","Cardston",N,N,"",2,407,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 165","Cardston",N,N,"",2,407,"Motz","","Glen","Conservative","Conservateur",Y,Y,101
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 165","Cardston",N,N,"",2,407,"Rooke","","Tom","Liberal","Libéral",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 165","Cardston",N,N,"",2,407,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 166","Cardston",N,N,"",1,455,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 166","Cardston",N,N,"",1,455,"Motz","","Glen","Conservative","Conservateur",Y,Y,130
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 166","Cardston",N,N,"",1,455,"Rooke","","Tom","Liberal","Libéral",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 166","Cardston",N,N,"",1,455,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 167","Cardston",N,N,"",0,384,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 167","Cardston",N,N,"",0,384,"Motz","","Glen","Conservative","Conservateur",Y,Y,130
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 167","Cardston",N,N,"",0,384,"Rooke","","Tom","Liberal","Libéral",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 167","Cardston",N,N,"",0,384,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 168","Cardston",N,N,"",0,387,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 168","Cardston",N,N,"",0,387,"Motz","","Glen","Conservative","Conservateur",Y,Y,110
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 168","Cardston",N,N,"",0,387,"Rooke","","Tom","Liberal","Libéral",N,N,14
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 168","Cardston",N,N,"",0,387,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 169","Cardston",N,N,"",0,397,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 169","Cardston",N,N,"",0,397,"Motz","","Glen","Conservative","Conservateur",Y,Y,139
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 169","Cardston",N,N,"",0,397,"Rooke","","Tom","Liberal","Libéral",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 169","Cardston",N,N,"",0,397,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 170","Cardston",N,N,"",1,409,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 170","Cardston",N,N,"",1,409,"Motz","","Glen","Conservative","Conservateur",Y,Y,132
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 170","Cardston",N,N,"",1,409,"Rooke","","Tom","Liberal","Libéral",N,N,20
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 170","Cardston",N,N,"",1,409,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 171","Leavitt",N,N,"",1,369,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 171","Leavitt",N,N,"",1,369,"Motz","","Glen","Conservative","Conservateur",Y,Y,136
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 171","Leavitt",N,N,"",1,369,"Rooke","","Tom","Liberal","Libéral",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 171","Leavitt",N,N,"",1,369,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 172","Aetna",N,N,"",3,411,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 172","Aetna",N,N,"",3,411,"Motz","","Glen","Conservative","Conservateur",Y,Y,127
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 172","Aetna",N,N,"",3,411,"Rooke","","Tom","Liberal","Libéral",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 172","Aetna",N,N,"",3,411,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 173","Jefferson",N,N,"",0,396,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 173","Jefferson",N,N,"",0,396,"Motz","","Glen","Conservative","Conservateur",Y,Y,79
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 173","Jefferson",N,N,"",0,396,"Rooke","","Tom","Liberal","Libéral",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 173","Jefferson",N,N,"",0,396,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 174","Foremost",N,N,"",0,422,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 174","Foremost",N,N,"",0,422,"Motz","","Glen","Conservative","Conservateur",Y,Y,240
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 174","Foremost",N,N,"",0,422,"Rooke","","Tom","Liberal","Libéral",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 174","Foremost",N,N,"",0,422,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 175","Foremost",N,N,"",3,398,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 175","Foremost",N,N,"",3,398,"Motz","","Glen","Conservative","Conservateur",Y,Y,128
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 175","Foremost",N,N,"",3,398,"Rooke","","Tom","Liberal","Libéral",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 175","Foremost",N,N,"",3,398,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 176","Etzikom",N,N,"",1,411,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 176","Etzikom",N,N,"",1,411,"Motz","","Glen","Conservative","Conservateur",Y,Y,124
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 176","Etzikom",N,N,"",1,411,"Rooke","","Tom","Liberal","Libéral",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 176","Etzikom",N,N,"",1,411,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 177","Elkwater",N,N,"",0,284,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 177","Elkwater",N,N,"",0,284,"Motz","","Glen","Conservative","Conservateur",Y,Y,107
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 177","Elkwater",N,N,"",0,284,"Rooke","","Tom","Liberal","Libéral",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 177","Elkwater",N,N,"",0,284,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 178","Milk River",N,N,"",0,380,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 178","Milk River",N,N,"",0,380,"Motz","","Glen","Conservative","Conservateur",Y,Y,141
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 178","Milk River",N,N,"",0,380,"Rooke","","Tom","Liberal","Libéral",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 178","Milk River",N,N,"",0,380,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 179","Milk River",N,N,"",0,208,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 179","Milk River",N,N,"",0,208,"Motz","","Glen","Conservative","Conservateur",Y,Y,81
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 179","Milk River",N,N,"",0,208,"Rooke","","Tom","Liberal","Libéral",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 179","Milk River",N,N,"",0,208,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 180","Milk River",N,N,"",1,294,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 180","Milk River",N,N,"",1,294,"Motz","","Glen","Conservative","Conservateur",Y,Y,82
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 180","Milk River",N,N,"",1,294,"Rooke","","Tom","Liberal","Libéral",N,N,14
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 180","Milk River",N,N,"",1,294,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 181","Coutts",N,N,"",1,238,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 181","Coutts",N,N,"",1,238,"Motz","","Glen","Conservative","Conservateur",Y,Y,121
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 181","Coutts",N,N,"",1,238,"Rooke","","Tom","Liberal","Libéral",N,N,11
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 181","Coutts",N,N,"",1,238,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 182","Allerston",N,N,"",1,350,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 182","Allerston",N,N,"",1,350,"Motz","","Glen","Conservative","Conservateur",Y,Y,91
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 182","Allerston",N,N,"",1,350,"Rooke","","Tom","Liberal","Libéral",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 182","Allerston",N,N,"",1,350,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 183","Manyberries",N,N,"",1,208,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 183","Manyberries",N,N,"",1,208,"Motz","","Glen","Conservative","Conservateur",Y,Y,96
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 183","Manyberries",N,N,"",1,208,"Rooke","","Tom","Liberal","Libéral",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 183","Manyberries",N,N,"",1,208,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 500","Mobile poll/Bureau itinérant",N,N,"",0,106,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 500","Mobile poll/Bureau itinérant",N,N,"",0,106,"Motz","","Glen","Conservative","Conservateur",Y,Y,43
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 500","Mobile poll/Bureau itinérant",N,N,"",0,106,"Rooke","","Tom","Liberal","Libéral",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 500","Mobile poll/Bureau itinérant",N,N,"",0,106,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 501","Mobile poll/Bureau itinérant",N,N,"",2,183,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 501","Mobile poll/Bureau itinérant",N,N,"",2,183,"Motz","","Glen","Conservative","Conservateur",Y,Y,95
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 501","Mobile poll/Bureau itinérant",N,N,"",2,183,"Rooke","","Tom","Liberal","Libéral",N,N,26
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 501","Mobile poll/Bureau itinérant",N,N,"",2,183,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,23,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,23,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,23,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,23,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 503","Mobile poll/Bureau itinérant",N,N,"501",0,52,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 503","Mobile poll/Bureau itinérant",N,N,"501",0,52,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 503","Mobile poll/Bureau itinérant",N,N,"501",0,52,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 503","Mobile poll/Bureau itinérant",N,N,"501",0,52,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 504","Mobile poll/Bureau itinérant",N,N,"",5,46,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 504","Mobile poll/Bureau itinérant",N,N,"",5,46,"Motz","","Glen","Conservative","Conservateur",Y,Y,85
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 504","Mobile poll/Bureau itinérant",N,N,"",5,46,"Rooke","","Tom","Liberal","Libéral",N,N,18
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 504","Mobile poll/Bureau itinérant",N,N,"",5,46,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 505","Mobile poll/Bureau itinérant",N,N,"",2,53,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 505","Mobile poll/Bureau itinérant",N,N,"",2,53,"Motz","","Glen","Conservative","Conservateur",Y,Y,68
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 505","Mobile poll/Bureau itinérant",N,N,"",2,53,"Rooke","","Tom","Liberal","Libéral",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 505","Mobile poll/Bureau itinérant",N,N,"",2,53,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,34,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,34,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,34,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,34,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 507","Medicine Hat",N,N,"93A",0,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 507","Medicine Hat",N,N,"93A",0,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 507","Medicine Hat",N,N,"93A",0,0,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 507","Medicine Hat",N,N,"93A",0,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,55,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,55,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,55,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,55,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 509","Mobile poll/Bureau itinérant",N,N,"",2,188,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 509","Mobile poll/Bureau itinérant",N,N,"",2,188,"Motz","","Glen","Conservative","Conservateur",Y,Y,106
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 509","Mobile poll/Bureau itinérant",N,N,"",2,188,"Rooke","","Tom","Liberal","Libéral",N,N,40
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 509","Mobile poll/Bureau itinérant",N,N,"",2,188,"Shadrack","","Andy","Green Party","Parti Vert",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 510","Mobile poll/Bureau itinérant",N,N,"512",0,5,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 510","Mobile poll/Bureau itinérant",N,N,"512",0,5,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 510","Mobile poll/Bureau itinérant",N,N,"512",0,5,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 510","Mobile poll/Bureau itinérant",N,N,"512",0,5,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 511","Mobile poll/Bureau itinérant",N,N,"517",0,3,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 511","Mobile poll/Bureau itinérant",N,N,"517",0,3,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 511","Mobile poll/Bureau itinérant",N,N,"517",0,3,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 511","Mobile poll/Bureau itinérant",N,N,"517",0,3,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 512","Mobile poll/Bureau itinérant",N,N,"",0,39,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 512","Mobile poll/Bureau itinérant",N,N,"",0,39,"Motz","","Glen","Conservative","Conservateur",Y,Y,37
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 512","Mobile poll/Bureau itinérant",N,N,"",0,39,"Rooke","","Tom","Liberal","Libéral",N,N,5
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 512","Mobile poll/Bureau itinérant",N,N,"",0,39,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 513","Mobile poll/Bureau itinérant",N,N,"517",0,22,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 513","Mobile poll/Bureau itinérant",N,N,"517",0,22,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 513","Mobile poll/Bureau itinérant",N,N,"517",0,22,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 513","Mobile poll/Bureau itinérant",N,N,"517",0,22,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 514","Mobile poll/Bureau itinérant",N,N,"515",0,1,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 514","Mobile poll/Bureau itinérant",N,N,"515",0,1,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 514","Mobile poll/Bureau itinérant",N,N,"515",0,1,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 514","Mobile poll/Bureau itinérant",N,N,"515",0,1,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 515","Mobile poll/Bureau itinérant",N,N,"",0,47,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 515","Mobile poll/Bureau itinérant",N,N,"",0,47,"Motz","","Glen","Conservative","Conservateur",Y,Y,58
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 515","Mobile poll/Bureau itinérant",N,N,"",0,47,"Rooke","","Tom","Liberal","Libéral",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 515","Mobile poll/Bureau itinérant",N,N,"",0,47,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 516","Mobile poll/Bureau itinérant",N,N,"515",0,41,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 516","Mobile poll/Bureau itinérant",N,N,"515",0,41,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 516","Mobile poll/Bureau itinérant",N,N,"515",0,41,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 516","Mobile poll/Bureau itinérant",N,N,"515",0,41,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 517","Mobile poll/Bureau itinérant",N,N,"",2,48,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 517","Mobile poll/Bureau itinérant",N,N,"",2,48,"Motz","","Glen","Conservative","Conservateur",Y,Y,63
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 517","Mobile poll/Bureau itinérant",N,N,"",2,48,"Rooke","","Tom","Liberal","Libéral",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 517","Mobile poll/Bureau itinérant",N,N,"",2,48,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,7,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,7,"Motz","","Glen","Conservative","Conservateur",Y,Y,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,7,"Rooke","","Tom","Liberal","Libéral",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,7,"Shadrack","","Andy","Green Party","Parti Vert",N,N,0
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 600","Cypress County",N,N,"",14,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 600","Cypress County",N,N,"",14,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,1213
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 600","Cypress County",N,N,"",14,0,"Rooke","","Tom","Liberal","Libéral",N,N,225
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 600","Cypress County",N,N,"",14,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 601","Medicine Hat",N,N,"",9,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 601","Medicine Hat",N,N,"",9,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,1064
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 601","Medicine Hat",N,N,"",9,0,"Rooke","","Tom","Liberal","Libéral",N,N,311
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 601","Medicine Hat",N,N,"",9,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 602","Medicine Hat",N,N,"",4,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 602","Medicine Hat",N,N,"",4,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,960
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 602","Medicine Hat",N,N,"",4,0,"Rooke","","Tom","Liberal","Libéral",N,N,327
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 602","Medicine Hat",N,N,"",4,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,9
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 603","Medicine Hat",N,N,"",9,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 603","Medicine Hat",N,N,"",9,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,761
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 603","Medicine Hat",N,N,"",9,0,"Rooke","","Tom","Liberal","Libéral",N,N,316
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 603","Medicine Hat",N,N,"",9,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 604","Medicine Hat",N,N,"",7,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 604","Medicine Hat",N,N,"",7,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,609
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 604","Medicine Hat",N,N,"",7,0,"Rooke","","Tom","Liberal","Libéral",N,N,257
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 604","Medicine Hat",N,N,"",7,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,7
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 605","Cypress County",N,N,"",1,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 605","Cypress County",N,N,"",1,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,516
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 605","Cypress County",N,N,"",1,0,"Rooke","","Tom","Liberal","Libéral",N,N,287
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 605","Cypress County",N,N,"",1,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 606","Medicine Hat",N,N,"",0,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 606","Medicine Hat",N,N,"",0,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,1128
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 606","Medicine Hat",N,N,"",0,0,"Rooke","","Tom","Liberal","Libéral",N,N,392
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 606","Medicine Hat",N,N,"",0,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 607","Medicine Hat",N,N,"",3,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 607","Medicine Hat",N,N,"",3,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,1048
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 607","Medicine Hat",N,N,"",3,0,"Rooke","","Tom","Liberal","Libéral",N,N,268
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 607","Medicine Hat",N,N,"",3,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 608","Medicine Hat",N,N,"",8,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 608","Medicine Hat",N,N,"",8,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,1097
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 608","Medicine Hat",N,N,"",8,0,"Rooke","","Tom","Liberal","Libéral",N,N,325
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 608","Medicine Hat",N,N,"",8,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 609","Medicine Hat",N,N,"",8,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 609","Medicine Hat",N,N,"",8,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,805
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 609","Medicine Hat",N,N,"",8,0,"Rooke","","Tom","Liberal","Libéral",N,N,246
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 609","Medicine Hat",N,N,"",8,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,10
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 610","Cypress County",N,N,"",3,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 610","Cypress County",N,N,"",3,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,771
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 610","Cypress County",N,N,"",3,0,"Rooke","","Tom","Liberal","Libéral",N,N,70
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 610","Cypress County",N,N,"",3,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,2
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 611","Cypress County",N,N,"",6,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 611","Cypress County",N,N,"",6,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,1255
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 611","Cypress County",N,N,"",6,0,"Rooke","","Tom","Liberal","Libéral",N,N,235
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 611","Cypress County",N,N,"",6,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 612","Bow Island",N,N,"",4,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 612","Bow Island",N,N,"",4,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,398
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 612","Bow Island",N,N,"",4,0,"Rooke","","Tom","Liberal","Libéral",N,N,40
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 612","Bow Island",N,N,"",4,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 613","Forty Mile County No. 8",N,N,"",2,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 613","Forty Mile County No. 8",N,N,"",2,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,380
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 613","Forty Mile County No. 8",N,N,"",2,0,"Rooke","","Tom","Liberal","Libéral",N,N,39
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 613","Forty Mile County No. 8",N,N,"",2,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,3
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 614","Raymond--Stirling",N,N,"",1,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 614","Raymond--Stirling",N,N,"",1,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,316
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 614","Raymond--Stirling",N,N,"",1,0,"Rooke","","Tom","Liberal","Libéral",N,N,38
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 614","Raymond--Stirling",N,N,"",1,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,1
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 615","Milk River",N,N,"",3,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 615","Milk River",N,N,"",3,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,914
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 615","Milk River",N,N,"",3,0,"Rooke","","Tom","Liberal","Libéral",N,N,122
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 615","Milk River",N,N,"",3,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,6
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 616","Raymond--Stirling",N,N,"",3,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 616","Raymond--Stirling",N,N,"",3,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,762
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 616","Raymond--Stirling",N,N,"",3,0,"Rooke","","Tom","Liberal","Libéral",N,N,115
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 616","Raymond--Stirling",N,N,"",3,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 617","Cardston",N,N,"",6,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 617","Cardston",N,N,"",6,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,829
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 617","Cardston",N,N,"",6,0,"Rooke","","Tom","Liberal","Libéral",N,N,62
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," 617","Cardston",N,N,"",6,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,4
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",25,179,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",25,179,"Motz","","Glen","Conservative","Conservateur",Y,Y,353
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",25,179,"Rooke","","Tom","Liberal","Libéral",N,N,113
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",25,179,"Shadrack","","Andy","Green Party","Parti Vert",N,N,8
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",46,0,"Johnson","","Jocelyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",46,0,"Motz","","Glen","Conservative","Conservateur",Y,Y,2009
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",46,0,"Rooke","","Tom","Liberal","Libéral",N,N,440
+48030,"Medicine Hat--Cardston--Warner","Medicine Hat--Cardston--Warner"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",46,0,"Shadrack","","Andy","Green Party","Parti Vert",N,N,14

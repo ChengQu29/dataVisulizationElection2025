@@ -1,0 +1,909 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+10001,"Avalon","Avalon"," 1","Salmon Cove--Perry's Cove",N,N,"",0,227,"Connors","","Paul","Liberal","Libéral",N,Y,58
+10001,"Avalon","Avalon"," 1","Salmon Cove--Perry's Cove",N,N,"",0,227,"Kent","","Steve","Conservative","Conservateur",N,N,39
+10001,"Avalon","Avalon"," 1","Salmon Cove--Perry's Cove",N,N,"",0,227,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 1","Salmon Cove--Perry's Cove",N,N,"",0,227,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 2","Salmon Cove",N,N,"",2,342,"Connors","","Paul","Liberal","Libéral",N,Y,97
+10001,"Avalon","Avalon"," 2","Salmon Cove",N,N,"",2,342,"Kent","","Steve","Conservative","Conservateur",N,N,71
+10001,"Avalon","Avalon"," 2","Salmon Cove",N,N,"",2,342,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 2","Salmon Cove",N,N,"",2,342,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 3","Victoria",N,N,"",0,353,"Connors","","Paul","Liberal","Libéral",N,Y,72
+10001,"Avalon","Avalon"," 3","Victoria",N,N,"",0,353,"Kent","","Steve","Conservative","Conservateur",N,N,70
+10001,"Avalon","Avalon"," 3","Victoria",N,N,"",0,353,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 3","Victoria",N,N,"",0,353,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 4","Victoria",N,N,"",2,450,"Connors","","Paul","Liberal","Libéral",N,Y,83
+10001,"Avalon","Avalon"," 4","Victoria",N,N,"",2,450,"Kent","","Steve","Conservative","Conservateur",N,N,114
+10001,"Avalon","Avalon"," 4","Victoria",N,N,"",2,450,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 4","Victoria",N,N,"",2,450,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 5","Victoria",N,N,"",0,335,"Connors","","Paul","Liberal","Libéral",N,Y,55
+10001,"Avalon","Avalon"," 5","Victoria",N,N,"",0,335,"Kent","","Steve","Conservative","Conservateur",N,N,80
+10001,"Avalon","Avalon"," 5","Victoria",N,N,"",0,335,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 5","Victoria",N,N,"",0,335,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 6","Victoria",N,N,"",2,381,"Connors","","Paul","Liberal","Libéral",N,Y,58
+10001,"Avalon","Avalon"," 6","Victoria",N,N,"",2,381,"Kent","","Steve","Conservative","Conservateur",N,N,86
+10001,"Avalon","Avalon"," 6","Victoria",N,N,"",2,381,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 6","Victoria",N,N,"",2,381,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 7","Freshwater",N,N,"",0,135,"Connors","","Paul","Liberal","Libéral",N,Y,54
+10001,"Avalon","Avalon"," 7","Freshwater",N,N,"",0,135,"Kent","","Steve","Conservative","Conservateur",N,N,49
+10001,"Avalon","Avalon"," 7","Freshwater",N,N,"",0,135,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 7","Freshwater",N,N,"",0,135,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 8","Carbonear",N,N,"",5,358,"Connors","","Paul","Liberal","Libéral",N,Y,85
+10001,"Avalon","Avalon"," 8","Carbonear",N,N,"",5,358,"Kent","","Steve","Conservative","Conservateur",N,N,41
+10001,"Avalon","Avalon"," 8","Carbonear",N,N,"",5,358,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 8","Carbonear",N,N,"",5,358,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 9","Carbonear",N,N,"",2,318,"Connors","","Paul","Liberal","Libéral",N,Y,72
+10001,"Avalon","Avalon"," 9","Carbonear",N,N,"",2,318,"Kent","","Steve","Conservative","Conservateur",N,N,36
+10001,"Avalon","Avalon"," 9","Carbonear",N,N,"",2,318,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 9","Carbonear",N,N,"",2,318,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 10","Carbonear",N,N,"",0,352,"Connors","","Paul","Liberal","Libéral",N,Y,76
+10001,"Avalon","Avalon"," 10","Carbonear",N,N,"",0,352,"Kent","","Steve","Conservative","Conservateur",N,N,59
+10001,"Avalon","Avalon"," 10","Carbonear",N,N,"",0,352,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 10","Carbonear",N,N,"",0,352,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 11","Carbonear",N,N,"",1,330,"Connors","","Paul","Liberal","Libéral",N,Y,68
+10001,"Avalon","Avalon"," 11","Carbonear",N,N,"",1,330,"Kent","","Steve","Conservative","Conservateur",N,N,66
+10001,"Avalon","Avalon"," 11","Carbonear",N,N,"",1,330,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 11","Carbonear",N,N,"",1,330,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 12","Carbonear",N,N,"",3,366,"Connors","","Paul","Liberal","Libéral",N,Y,50
+10001,"Avalon","Avalon"," 12","Carbonear",N,N,"",3,366,"Kent","","Steve","Conservative","Conservateur",N,N,47
+10001,"Avalon","Avalon"," 12","Carbonear",N,N,"",3,366,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 12","Carbonear",N,N,"",3,366,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 13","Carbonear",N,N,"",1,350,"Connors","","Paul","Liberal","Libéral",N,Y,61
+10001,"Avalon","Avalon"," 13","Carbonear",N,N,"",1,350,"Kent","","Steve","Conservative","Conservateur",N,N,46
+10001,"Avalon","Avalon"," 13","Carbonear",N,N,"",1,350,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 13","Carbonear",N,N,"",1,350,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 14","Carbonear",N,N,"",2,376,"Connors","","Paul","Liberal","Libéral",N,Y,57
+10001,"Avalon","Avalon"," 14","Carbonear",N,N,"",2,376,"Kent","","Steve","Conservative","Conservateur",N,N,65
+10001,"Avalon","Avalon"," 14","Carbonear",N,N,"",2,376,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 14","Carbonear",N,N,"",2,376,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 15","Carbonear",N,N,"",3,423,"Connors","","Paul","Liberal","Libéral",N,Y,81
+10001,"Avalon","Avalon"," 15","Carbonear",N,N,"",3,423,"Kent","","Steve","Conservative","Conservateur",N,N,61
+10001,"Avalon","Avalon"," 15","Carbonear",N,N,"",3,423,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 15","Carbonear",N,N,"",3,423,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 16","Carbonear",N,N,"",0,335,"Connors","","Paul","Liberal","Libéral",N,Y,58
+10001,"Avalon","Avalon"," 16","Carbonear",N,N,"",0,335,"Kent","","Steve","Conservative","Conservateur",N,N,55
+10001,"Avalon","Avalon"," 16","Carbonear",N,N,"",0,335,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 16","Carbonear",N,N,"",0,335,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 17","Carbonear",N,N,"",0,428,"Connors","","Paul","Liberal","Libéral",N,Y,93
+10001,"Avalon","Avalon"," 17","Carbonear",N,N,"",0,428,"Kent","","Steve","Conservative","Conservateur",N,N,58
+10001,"Avalon","Avalon"," 17","Carbonear",N,N,"",0,428,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 17","Carbonear",N,N,"",0,428,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 18","Carbonear",N,N,"",0,437,"Connors","","Paul","Liberal","Libéral",N,Y,76
+10001,"Avalon","Avalon"," 18","Carbonear",N,N,"",0,437,"Kent","","Steve","Conservative","Conservateur",N,N,69
+10001,"Avalon","Avalon"," 18","Carbonear",N,N,"",0,437,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 18","Carbonear",N,N,"",0,437,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 19","Harbour Grace",N,N,"",1,454,"Connors","","Paul","Liberal","Libéral",N,Y,88
+10001,"Avalon","Avalon"," 19","Harbour Grace",N,N,"",1,454,"Kent","","Steve","Conservative","Conservateur",N,N,65
+10001,"Avalon","Avalon"," 19","Harbour Grace",N,N,"",1,454,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 19","Harbour Grace",N,N,"",1,454,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 20","Harbour Grace--Bristol's Hope",N,N,"",1,447,"Connors","","Paul","Liberal","Libéral",N,Y,108
+10001,"Avalon","Avalon"," 20","Harbour Grace--Bristol's Hope",N,N,"",1,447,"Kent","","Steve","Conservative","Conservateur",N,N,76
+10001,"Avalon","Avalon"," 20","Harbour Grace--Bristol's Hope",N,N,"",1,447,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 20","Harbour Grace--Bristol's Hope",N,N,"",1,447,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 21","Harbour Grace",N,N,"",0,473,"Connors","","Paul","Liberal","Libéral",N,Y,85
+10001,"Avalon","Avalon"," 21","Harbour Grace",N,N,"",0,473,"Kent","","Steve","Conservative","Conservateur",N,N,74
+10001,"Avalon","Avalon"," 21","Harbour Grace",N,N,"",0,473,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 21","Harbour Grace",N,N,"",0,473,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 22","Harbour Grace",N,N,"",0,400,"Connors","","Paul","Liberal","Libéral",N,Y,88
+10001,"Avalon","Avalon"," 22","Harbour Grace",N,N,"",0,400,"Kent","","Steve","Conservative","Conservateur",N,N,56
+10001,"Avalon","Avalon"," 22","Harbour Grace",N,N,"",0,400,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 22","Harbour Grace",N,N,"",0,400,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 23","Harbour Grace",N,N,"",0,388,"Connors","","Paul","Liberal","Libéral",N,Y,59
+10001,"Avalon","Avalon"," 23","Harbour Grace",N,N,"",0,388,"Kent","","Steve","Conservative","Conservateur",N,N,77
+10001,"Avalon","Avalon"," 23","Harbour Grace",N,N,"",0,388,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 23","Harbour Grace",N,N,"",0,388,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 24","Riverhead--Harbour Grace",N,N,"",8,366,"Connors","","Paul","Liberal","Libéral",N,Y,85
+10001,"Avalon","Avalon"," 24","Riverhead--Harbour Grace",N,N,"",8,366,"Kent","","Steve","Conservative","Conservateur",N,N,60
+10001,"Avalon","Avalon"," 24","Riverhead--Harbour Grace",N,N,"",8,366,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 24","Riverhead--Harbour Grace",N,N,"",8,366,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 25","Harbour Grace South",N,N,"",1,347,"Connors","","Paul","Liberal","Libéral",N,Y,116
+10001,"Avalon","Avalon"," 25","Harbour Grace South",N,N,"",1,347,"Kent","","Steve","Conservative","Conservateur",N,N,67
+10001,"Avalon","Avalon"," 25","Harbour Grace South",N,N,"",1,347,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 25","Harbour Grace South",N,N,"",1,347,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 26","Bryant's Cove",N,N,"",1,267,"Connors","","Paul","Liberal","Libéral",N,Y,52
+10001,"Avalon","Avalon"," 26","Bryant's Cove",N,N,"",1,267,"Kent","","Steve","Conservative","Conservateur",N,N,73
+10001,"Avalon","Avalon"," 26","Bryant's Cove",N,N,"",1,267,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 26","Bryant's Cove",N,N,"",1,267,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 27","Upper Island Cove",N,N,"",0,419,"Connors","","Paul","Liberal","Libéral",N,Y,100
+10001,"Avalon","Avalon"," 27","Upper Island Cove",N,N,"",0,419,"Kent","","Steve","Conservative","Conservateur",N,N,73
+10001,"Avalon","Avalon"," 27","Upper Island Cove",N,N,"",0,419,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 27","Upper Island Cove",N,N,"",0,419,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 28","Upper Island Cove",N,N,"",0,283,"Connors","","Paul","Liberal","Libéral",N,Y,74
+10001,"Avalon","Avalon"," 28","Upper Island Cove",N,N,"",0,283,"Kent","","Steve","Conservative","Conservateur",N,N,50
+10001,"Avalon","Avalon"," 28","Upper Island Cove",N,N,"",0,283,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 28","Upper Island Cove",N,N,"",0,283,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 29","Upper Island Cove",N,N,"",0,312,"Connors","","Paul","Liberal","Libéral",N,Y,72
+10001,"Avalon","Avalon"," 29","Upper Island Cove",N,N,"",0,312,"Kent","","Steve","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 29","Upper Island Cove",N,N,"",0,312,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 29","Upper Island Cove",N,N,"",0,312,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 30","Upper Island Cove",N,N,"",0,471,"Connors","","Paul","Liberal","Libéral",N,Y,130
+10001,"Avalon","Avalon"," 30","Upper Island Cove",N,N,"",0,471,"Kent","","Steve","Conservative","Conservateur",N,N,87
+10001,"Avalon","Avalon"," 30","Upper Island Cove",N,N,"",0,471,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 30","Upper Island Cove",N,N,"",0,471,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 31","Tilton",N,N,"",0,368,"Connors","","Paul","Liberal","Libéral",N,Y,72
+10001,"Avalon","Avalon"," 31","Tilton",N,N,"",0,368,"Kent","","Steve","Conservative","Conservateur",N,N,107
+10001,"Avalon","Avalon"," 31","Tilton",N,N,"",0,368,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 31","Tilton",N,N,"",0,368,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 32","Spaniard's Bay",N,N,"",0,383,"Connors","","Paul","Liberal","Libéral",N,Y,79
+10001,"Avalon","Avalon"," 32","Spaniard's Bay",N,N,"",0,383,"Kent","","Steve","Conservative","Conservateur",N,N,81
+10001,"Avalon","Avalon"," 32","Spaniard's Bay",N,N,"",0,383,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 32","Spaniard's Bay",N,N,"",0,383,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 33","Spaniard's Bay",N,N,"",1,399,"Connors","","Paul","Liberal","Libéral",N,Y,71
+10001,"Avalon","Avalon"," 33","Spaniard's Bay",N,N,"",1,399,"Kent","","Steve","Conservative","Conservateur",N,N,88
+10001,"Avalon","Avalon"," 33","Spaniard's Bay",N,N,"",1,399,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 33","Spaniard's Bay",N,N,"",1,399,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 34","Spaniard's Bay",N,N,"",0,371,"Connors","","Paul","Liberal","Libéral",N,Y,56
+10001,"Avalon","Avalon"," 34","Spaniard's Bay",N,N,"",0,371,"Kent","","Steve","Conservative","Conservateur",N,N,80
+10001,"Avalon","Avalon"," 34","Spaniard's Bay",N,N,"",0,371,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 34","Spaniard's Bay",N,N,"",0,371,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 35","Spaniard's Bay",N,N,"",2,380,"Connors","","Paul","Liberal","Libéral",N,Y,65
+10001,"Avalon","Avalon"," 35","Spaniard's Bay",N,N,"",2,380,"Kent","","Steve","Conservative","Conservateur",N,N,45
+10001,"Avalon","Avalon"," 35","Spaniard's Bay",N,N,"",2,380,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 35","Spaniard's Bay",N,N,"",2,380,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 36","Spaniard's Bay",N,N,"",1,308,"Connors","","Paul","Liberal","Libéral",N,Y,49
+10001,"Avalon","Avalon"," 36","Spaniard's Bay",N,N,"",1,308,"Kent","","Steve","Conservative","Conservateur",N,N,69
+10001,"Avalon","Avalon"," 36","Spaniard's Bay",N,N,"",1,308,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 36","Spaniard's Bay",N,N,"",1,308,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 37","Shearstown",N,N,"",2,534,"Connors","","Paul","Liberal","Libéral",N,Y,128
+10001,"Avalon","Avalon"," 37","Shearstown",N,N,"",2,534,"Kent","","Steve","Conservative","Conservateur",N,N,73
+10001,"Avalon","Avalon"," 37","Shearstown",N,N,"",2,534,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 37","Shearstown",N,N,"",2,534,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 38","Butlerville",N,N,"",1,270,"Connors","","Paul","Liberal","Libéral",N,Y,41
+10001,"Avalon","Avalon"," 38","Butlerville",N,N,"",1,270,"Kent","","Steve","Conservative","Conservateur",N,N,63
+10001,"Avalon","Avalon"," 38","Butlerville",N,N,"",1,270,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 38","Butlerville",N,N,"",1,270,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 39","Bay Roberts",N,N,"",1,404,"Connors","","Paul","Liberal","Libéral",N,Y,58
+10001,"Avalon","Avalon"," 39","Bay Roberts",N,N,"",1,404,"Kent","","Steve","Conservative","Conservateur",N,N,96
+10001,"Avalon","Avalon"," 39","Bay Roberts",N,N,"",1,404,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 39","Bay Roberts",N,N,"",1,404,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 40","Bay Roberts",N,N,"",0,570,"Connors","","Paul","Liberal","Libéral",N,Y,111
+10001,"Avalon","Avalon"," 40","Bay Roberts",N,N,"",0,570,"Kent","","Steve","Conservative","Conservateur",N,N,106
+10001,"Avalon","Avalon"," 40","Bay Roberts",N,N,"",0,570,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 40","Bay Roberts",N,N,"",0,570,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 41","Bay Roberts",N,N,"",0,348,"Connors","","Paul","Liberal","Libéral",N,Y,83
+10001,"Avalon","Avalon"," 41","Bay Roberts",N,N,"",0,348,"Kent","","Steve","Conservative","Conservateur",N,N,53
+10001,"Avalon","Avalon"," 41","Bay Roberts",N,N,"",0,348,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 41","Bay Roberts",N,N,"",0,348,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 42","Bay Roberts",N,N,"",2,556,"Connors","","Paul","Liberal","Libéral",N,Y,112
+10001,"Avalon","Avalon"," 42","Bay Roberts",N,N,"",2,556,"Kent","","Steve","Conservative","Conservateur",N,N,98
+10001,"Avalon","Avalon"," 42","Bay Roberts",N,N,"",2,556,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 42","Bay Roberts",N,N,"",2,556,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 43","Bay Roberts",N,N,"",1,519,"Connors","","Paul","Liberal","Libéral",N,Y,108
+10001,"Avalon","Avalon"," 43","Bay Roberts",N,N,"",1,519,"Kent","","Steve","Conservative","Conservateur",N,N,75
+10001,"Avalon","Avalon"," 43","Bay Roberts",N,N,"",1,519,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 43","Bay Roberts",N,N,"",1,519,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 44","Bay Roberts",N,N,"",2,433,"Connors","","Paul","Liberal","Libéral",N,Y,82
+10001,"Avalon","Avalon"," 44","Bay Roberts",N,N,"",2,433,"Kent","","Steve","Conservative","Conservateur",N,N,81
+10001,"Avalon","Avalon"," 44","Bay Roberts",N,N,"",2,433,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 44","Bay Roberts",N,N,"",2,433,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 45","Bay Roberts",N,N,"",3,640,"Connors","","Paul","Liberal","Libéral",N,Y,107
+10001,"Avalon","Avalon"," 45","Bay Roberts",N,N,"",3,640,"Kent","","Steve","Conservative","Conservateur",N,N,93
+10001,"Avalon","Avalon"," 45","Bay Roberts",N,N,"",3,640,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 45","Bay Roberts",N,N,"",3,640,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10001,"Avalon","Avalon"," 46","Bay Roberts",N,N,"",1,655,"Connors","","Paul","Liberal","Libéral",N,Y,141
+10001,"Avalon","Avalon"," 46","Bay Roberts",N,N,"",1,655,"Kent","","Steve","Conservative","Conservateur",N,N,113
+10001,"Avalon","Avalon"," 46","Bay Roberts",N,N,"",1,655,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 46","Bay Roberts",N,N,"",1,655,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 47","Bareneed--The Dock--Black Duck Pond",N,N,"",1,285,"Connors","","Paul","Liberal","Libéral",N,Y,61
+10001,"Avalon","Avalon"," 47","Bareneed--The Dock--Black Duck Pond",N,N,"",1,285,"Kent","","Steve","Conservative","Conservateur",N,N,44
+10001,"Avalon","Avalon"," 47","Bareneed--The Dock--Black Duck Pond",N,N,"",1,285,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 47","Bareneed--The Dock--Black Duck Pond",N,N,"",1,285,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 48","Blow Me Down--Port de Grave",N,N,"",0,453,"Connors","","Paul","Liberal","Libéral",N,Y,116
+10001,"Avalon","Avalon"," 48","Blow Me Down--Port de Grave",N,N,"",0,453,"Kent","","Steve","Conservative","Conservateur",N,N,75
+10001,"Avalon","Avalon"," 48","Blow Me Down--Port de Grave",N,N,"",0,453,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 48","Blow Me Down--Port de Grave",N,N,"",0,453,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 49","North River--Otterbury--Birch Hills",N,N,"",2,231,"Connors","","Paul","Liberal","Libéral",N,Y,71
+10001,"Avalon","Avalon"," 49","North River--Otterbury--Birch Hills",N,N,"",2,231,"Kent","","Steve","Conservative","Conservateur",N,N,70
+10001,"Avalon","Avalon"," 49","North River--Otterbury--Birch Hills",N,N,"",2,231,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 49","North River--Otterbury--Birch Hills",N,N,"",2,231,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 50","North River",N,N,"",2,450,"Connors","","Paul","Liberal","Libéral",N,Y,118
+10001,"Avalon","Avalon"," 50","North River",N,N,"",2,450,"Kent","","Steve","Conservative","Conservateur",N,N,79
+10001,"Avalon","Avalon"," 50","North River",N,N,"",2,450,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 50","North River",N,N,"",2,450,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 51","Clarke's Beach",N,N,"",2,439,"Connors","","Paul","Liberal","Libéral",N,Y,79
+10001,"Avalon","Avalon"," 51","Clarke's Beach",N,N,"",2,439,"Kent","","Steve","Conservative","Conservateur",N,N,76
+10001,"Avalon","Avalon"," 51","Clarke's Beach",N,N,"",2,439,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 51","Clarke's Beach",N,N,"",2,439,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 52","Clarke's Beach",N,N,"",2,412,"Connors","","Paul","Liberal","Libéral",N,Y,84
+10001,"Avalon","Avalon"," 52","Clarke's Beach",N,N,"",2,412,"Kent","","Steve","Conservative","Conservateur",N,N,81
+10001,"Avalon","Avalon"," 52","Clarke's Beach",N,N,"",2,412,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 52","Clarke's Beach",N,N,"",2,412,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 53","Clarke's Beach",N,N,"",0,397,"Connors","","Paul","Liberal","Libéral",N,Y,72
+10001,"Avalon","Avalon"," 53","Clarke's Beach",N,N,"",0,397,"Kent","","Steve","Conservative","Conservateur",N,N,78
+10001,"Avalon","Avalon"," 53","Clarke's Beach",N,N,"",0,397,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 53","Clarke's Beach",N,N,"",0,397,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 54","South River",N,N,"",0,298,"Connors","","Paul","Liberal","Libéral",N,Y,64
+10001,"Avalon","Avalon"," 54","South River",N,N,"",0,298,"Kent","","Steve","Conservative","Conservateur",N,N,50
+10001,"Avalon","Avalon"," 54","South River",N,N,"",0,298,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 54","South River",N,N,"",0,298,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 55","South River",N,N,"",0,312,"Connors","","Paul","Liberal","Libéral",N,Y,85
+10001,"Avalon","Avalon"," 55","South River",N,N,"",0,312,"Kent","","Steve","Conservative","Conservateur",N,N,71
+10001,"Avalon","Avalon"," 55","South River",N,N,"",0,312,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 55","South River",N,N,"",0,312,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 56","Makinsons",N,N,"",2,589,"Connors","","Paul","Liberal","Libéral",N,Y,128
+10001,"Avalon","Avalon"," 56","Makinsons",N,N,"",2,589,"Kent","","Steve","Conservative","Conservateur",N,N,118
+10001,"Avalon","Avalon"," 56","Makinsons",N,N,"",2,589,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,5
+10001,"Avalon","Avalon"," 56","Makinsons",N,N,"",2,589,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 57","Cupids",N,N,"",1,358,"Connors","","Paul","Liberal","Libéral",N,Y,87
+10001,"Avalon","Avalon"," 57","Cupids",N,N,"",1,358,"Kent","","Steve","Conservative","Conservateur",N,N,72
+10001,"Avalon","Avalon"," 57","Cupids",N,N,"",1,358,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 57","Cupids",N,N,"",1,358,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 58","Cupids",N,N,"",1,247,"Connors","","Paul","Liberal","Libéral",N,Y,77
+10001,"Avalon","Avalon"," 58","Cupids",N,N,"",1,247,"Kent","","Steve","Conservative","Conservateur",N,N,46
+10001,"Avalon","Avalon"," 58","Cupids",N,N,"",1,247,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 58","Cupids",N,N,"",1,247,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 59","Brigus",N,N,"",3,467,"Connors","","Paul","Liberal","Libéral",N,Y,96
+10001,"Avalon","Avalon"," 59","Brigus",N,N,"",3,467,"Kent","","Steve","Conservative","Conservateur",N,N,86
+10001,"Avalon","Avalon"," 59","Brigus",N,N,"",3,467,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 59","Brigus",N,N,"",3,467,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 60","Brigus",N,N,"",4,377,"Connors","","Paul","Liberal","Libéral",N,Y,88
+10001,"Avalon","Avalon"," 60","Brigus",N,N,"",4,377,"Kent","","Steve","Conservative","Conservateur",N,N,59
+10001,"Avalon","Avalon"," 60","Brigus",N,N,"",4,377,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 60","Brigus",N,N,"",4,377,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 61A","Marysvale",N,N,"",2,150,"Connors","","Paul","Liberal","Libéral",N,Y,44
+10001,"Avalon","Avalon"," 61A","Marysvale",N,N,"",2,150,"Kent","","Steve","Conservative","Conservateur",N,N,68
+10001,"Avalon","Avalon"," 61A","Marysvale",N,N,"",2,150,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 61A","Marysvale",N,N,"",2,150,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 61B","Marysvale",N,N,"49",0,74,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 61B","Marysvale",N,N,"49",0,74,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 61B","Marysvale",N,N,"49",0,74,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 61B","Marysvale",N,N,"49",0,74,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 62A","Marysvale",N,N,"61A",0,88,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 62A","Marysvale",N,N,"61A",0,88,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 62A","Marysvale",N,N,"61A",0,88,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 62A","Marysvale",N,N,"61A",0,88,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 62B","Marysvale",N,N,"",0,264,"Connors","","Paul","Liberal","Libéral",N,Y,55
+10001,"Avalon","Avalon"," 62B","Marysvale",N,N,"",0,264,"Kent","","Steve","Conservative","Conservateur",N,N,70
+10001,"Avalon","Avalon"," 62B","Marysvale",N,N,"",0,264,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 62B","Marysvale",N,N,"",0,264,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10001,"Avalon","Avalon"," 63","Colliers",N,N,"",1,237,"Connors","","Paul","Liberal","Libéral",N,Y,49
+10001,"Avalon","Avalon"," 63","Colliers",N,N,"",1,237,"Kent","","Steve","Conservative","Conservateur",N,N,41
+10001,"Avalon","Avalon"," 63","Colliers",N,N,"",1,237,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 63","Colliers",N,N,"",1,237,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10001,"Avalon","Avalon"," 64","Colliers",N,N,"",3,314,"Connors","","Paul","Liberal","Libéral",N,Y,83
+10001,"Avalon","Avalon"," 64","Colliers",N,N,"",3,314,"Kent","","Steve","Conservative","Conservateur",N,N,90
+10001,"Avalon","Avalon"," 64","Colliers",N,N,"",3,314,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 64","Colliers",N,N,"",3,314,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 65","Conception Harbour",N,N,"",0,278,"Connors","","Paul","Liberal","Libéral",N,Y,55
+10001,"Avalon","Avalon"," 65","Conception Harbour",N,N,"",0,278,"Kent","","Steve","Conservative","Conservateur",N,N,80
+10001,"Avalon","Avalon"," 65","Conception Harbour",N,N,"",0,278,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 65","Conception Harbour",N,N,"",0,278,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 66","Conception Harbour",N,N,"",0,261,"Connors","","Paul","Liberal","Libéral",N,Y,47
+10001,"Avalon","Avalon"," 66","Conception Harbour",N,N,"",0,261,"Kent","","Steve","Conservative","Conservateur",N,N,73
+10001,"Avalon","Avalon"," 66","Conception Harbour",N,N,"",0,261,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 66","Conception Harbour",N,N,"",0,261,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 67","Avondale",N,N,"",5,280,"Connors","","Paul","Liberal","Libéral",N,Y,53
+10001,"Avalon","Avalon"," 67","Avondale",N,N,"",5,280,"Kent","","Steve","Conservative","Conservateur",N,N,57
+10001,"Avalon","Avalon"," 67","Avondale",N,N,"",5,280,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 67","Avondale",N,N,"",5,280,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 68","Avondale",N,N,"",2,273,"Connors","","Paul","Liberal","Libéral",N,Y,46
+10001,"Avalon","Avalon"," 68","Avondale",N,N,"",2,273,"Kent","","Steve","Conservative","Conservateur",N,N,44
+10001,"Avalon","Avalon"," 68","Avondale",N,N,"",2,273,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 68","Avondale",N,N,"",2,273,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 69","Brigus Junction",N,N,"",0,293,"Connors","","Paul","Liberal","Libéral",N,Y,90
+10001,"Avalon","Avalon"," 69","Brigus Junction",N,N,"",0,293,"Kent","","Steve","Conservative","Conservateur",N,N,58
+10001,"Avalon","Avalon"," 69","Brigus Junction",N,N,"",0,293,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 69","Brigus Junction",N,N,"",0,293,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 70","Harbour Main-Chapel's Cove-Lakeview",N,N,"",2,282,"Connors","","Paul","Liberal","Libéral",N,Y,54
+10001,"Avalon","Avalon"," 70","Harbour Main-Chapel's Cove-Lakeview",N,N,"",2,282,"Kent","","Steve","Conservative","Conservateur",N,N,42
+10001,"Avalon","Avalon"," 70","Harbour Main-Chapel's Cove-Lakeview",N,N,"",2,282,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 70","Harbour Main-Chapel's Cove-Lakeview",N,N,"",2,282,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 71","Harbour Main-Chapel's Cove-Lakeview",N,N,"",2,412,"Connors","","Paul","Liberal","Libéral",N,Y,68
+10001,"Avalon","Avalon"," 71","Harbour Main-Chapel's Cove-Lakeview",N,N,"",2,412,"Kent","","Steve","Conservative","Conservateur",N,N,86
+10001,"Avalon","Avalon"," 71","Harbour Main-Chapel's Cove-Lakeview",N,N,"",2,412,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 71","Harbour Main-Chapel's Cove-Lakeview",N,N,"",2,412,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10001,"Avalon","Avalon"," 72","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,249,"Connors","","Paul","Liberal","Libéral",N,Y,60
+10001,"Avalon","Avalon"," 72","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,249,"Kent","","Steve","Conservative","Conservateur",N,N,30
+10001,"Avalon","Avalon"," 72","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,249,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 72","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,249,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 73","Holyrood",N,N,"",1,538,"Connors","","Paul","Liberal","Libéral",N,Y,107
+10001,"Avalon","Avalon"," 73","Holyrood",N,N,"",1,538,"Kent","","Steve","Conservative","Conservateur",N,N,77
+10001,"Avalon","Avalon"," 73","Holyrood",N,N,"",1,538,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,4
+10001,"Avalon","Avalon"," 73","Holyrood",N,N,"",1,538,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 74","Holyrood",N,N,"",0,509,"Connors","","Paul","Liberal","Libéral",N,Y,104
+10001,"Avalon","Avalon"," 74","Holyrood",N,N,"",0,509,"Kent","","Steve","Conservative","Conservateur",N,N,64
+10001,"Avalon","Avalon"," 74","Holyrood",N,N,"",0,509,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 74","Holyrood",N,N,"",0,509,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10001,"Avalon","Avalon"," 75","Holyrood",N,N,"",0,385,"Connors","","Paul","Liberal","Libéral",N,Y,82
+10001,"Avalon","Avalon"," 75","Holyrood",N,N,"",0,385,"Kent","","Steve","Conservative","Conservateur",N,N,39
+10001,"Avalon","Avalon"," 75","Holyrood",N,N,"",0,385,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 75","Holyrood",N,N,"",0,385,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 76","Holyrood",N,N,"",5,414,"Connors","","Paul","Liberal","Libéral",N,Y,61
+10001,"Avalon","Avalon"," 76","Holyrood",N,N,"",5,414,"Kent","","Steve","Conservative","Conservateur",N,N,74
+10001,"Avalon","Avalon"," 76","Holyrood",N,N,"",5,414,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 76","Holyrood",N,N,"",5,414,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 77","Holyrood",N,N,"",0,431,"Connors","","Paul","Liberal","Libéral",N,Y,70
+10001,"Avalon","Avalon"," 77","Holyrood",N,N,"",0,431,"Kent","","Steve","Conservative","Conservateur",N,N,80
+10001,"Avalon","Avalon"," 77","Holyrood",N,N,"",0,431,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 77","Holyrood",N,N,"",0,431,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 78A","Conception Bay South",N,N,"",0,523,"Connors","","Paul","Liberal","Libéral",N,Y,112
+10001,"Avalon","Avalon"," 78A","Conception Bay South",N,N,"",0,523,"Kent","","Steve","Conservative","Conservateur",N,N,91
+10001,"Avalon","Avalon"," 78A","Conception Bay South",N,N,"",0,523,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 78A","Conception Bay South",N,N,"",0,523,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 78B","Mobile poll/Bureau itinérant",N,N,"400",0,13,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 78B","Mobile poll/Bureau itinérant",N,N,"400",0,13,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 78B","Mobile poll/Bureau itinérant",N,N,"400",0,13,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 78B","Mobile poll/Bureau itinérant",N,N,"400",0,13,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 79","Conception Bay South",N,N,"",2,531,"Connors","","Paul","Liberal","Libéral",N,Y,93
+10001,"Avalon","Avalon"," 79","Conception Bay South",N,N,"",2,531,"Kent","","Steve","Conservative","Conservateur",N,N,83
+10001,"Avalon","Avalon"," 79","Conception Bay South",N,N,"",2,531,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,4
+10001,"Avalon","Avalon"," 79","Conception Bay South",N,N,"",2,531,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 80","Conception Bay South",N,N,"",0,604,"Connors","","Paul","Liberal","Libéral",N,Y,126
+10001,"Avalon","Avalon"," 80","Conception Bay South",N,N,"",0,604,"Kent","","Steve","Conservative","Conservateur",N,N,117
+10001,"Avalon","Avalon"," 80","Conception Bay South",N,N,"",0,604,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 80","Conception Bay South",N,N,"",0,604,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 81","Conception Bay South",N,N,"",0,485,"Connors","","Paul","Liberal","Libéral",N,Y,106
+10001,"Avalon","Avalon"," 81","Conception Bay South",N,N,"",0,485,"Kent","","Steve","Conservative","Conservateur",N,N,65
+10001,"Avalon","Avalon"," 81","Conception Bay South",N,N,"",0,485,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 81","Conception Bay South",N,N,"",0,485,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 82","Conception Bay South",N,N,"",0,568,"Connors","","Paul","Liberal","Libéral",N,Y,138
+10001,"Avalon","Avalon"," 82","Conception Bay South",N,N,"",0,568,"Kent","","Steve","Conservative","Conservateur",N,N,87
+10001,"Avalon","Avalon"," 82","Conception Bay South",N,N,"",0,568,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 82","Conception Bay South",N,N,"",0,568,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 83","Conception Bay South",N,N,"",1,551,"Connors","","Paul","Liberal","Libéral",N,Y,106
+10001,"Avalon","Avalon"," 83","Conception Bay South",N,N,"",1,551,"Kent","","Steve","Conservative","Conservateur",N,N,106
+10001,"Avalon","Avalon"," 83","Conception Bay South",N,N,"",1,551,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 83","Conception Bay South",N,N,"",1,551,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 84","Conception Bay South",N,N,"",0,436,"Connors","","Paul","Liberal","Libéral",N,Y,89
+10001,"Avalon","Avalon"," 84","Conception Bay South",N,N,"",0,436,"Kent","","Steve","Conservative","Conservateur",N,N,67
+10001,"Avalon","Avalon"," 84","Conception Bay South",N,N,"",0,436,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 84","Conception Bay South",N,N,"",0,436,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 85A","Conception Bay South",N,N,"",0,446,"Connors","","Paul","Liberal","Libéral",N,Y,100
+10001,"Avalon","Avalon"," 85A","Conception Bay South",N,N,"",0,446,"Kent","","Steve","Conservative","Conservateur",N,N,69
+10001,"Avalon","Avalon"," 85A","Conception Bay South",N,N,"",0,446,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 85A","Conception Bay South",N,N,"",0,446,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 85B","Mobile poll/Bureau itinérant",N,N,"",7,21,"Connors","","Paul","Liberal","Libéral",N,Y,51
+10001,"Avalon","Avalon"," 85B","Mobile poll/Bureau itinérant",N,N,"",7,21,"Kent","","Steve","Conservative","Conservateur",N,N,30
+10001,"Avalon","Avalon"," 85B","Mobile poll/Bureau itinérant",N,N,"",7,21,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 85B","Mobile poll/Bureau itinérant",N,N,"",7,21,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 86","Conception Bay South",N,N,"",0,596,"Connors","","Paul","Liberal","Libéral",N,Y,138
+10001,"Avalon","Avalon"," 86","Conception Bay South",N,N,"",0,596,"Kent","","Steve","Conservative","Conservateur",N,N,69
+10001,"Avalon","Avalon"," 86","Conception Bay South",N,N,"",0,596,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 86","Conception Bay South",N,N,"",0,596,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 87","Conception Bay South",N,N,"",0,331,"Connors","","Paul","Liberal","Libéral",N,Y,76
+10001,"Avalon","Avalon"," 87","Conception Bay South",N,N,"",0,331,"Kent","","Steve","Conservative","Conservateur",N,N,54
+10001,"Avalon","Avalon"," 87","Conception Bay South",N,N,"",0,331,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 87","Conception Bay South",N,N,"",0,331,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10001,"Avalon","Avalon"," 88","Conception Bay South",N,N,"",0,636,"Connors","","Paul","Liberal","Libéral",N,Y,147
+10001,"Avalon","Avalon"," 88","Conception Bay South",N,N,"",0,636,"Kent","","Steve","Conservative","Conservateur",N,N,88
+10001,"Avalon","Avalon"," 88","Conception Bay South",N,N,"",0,636,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 88","Conception Bay South",N,N,"",0,636,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10001,"Avalon","Avalon"," 89","Conception Bay South",N,N,"",1,594,"Connors","","Paul","Liberal","Libéral",N,Y,130
+10001,"Avalon","Avalon"," 89","Conception Bay South",N,N,"",1,594,"Kent","","Steve","Conservative","Conservateur",N,N,102
+10001,"Avalon","Avalon"," 89","Conception Bay South",N,N,"",1,594,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 89","Conception Bay South",N,N,"",1,594,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 90","Conception Bay South",N,N,"",0,524,"Connors","","Paul","Liberal","Libéral",N,Y,120
+10001,"Avalon","Avalon"," 90","Conception Bay South",N,N,"",0,524,"Kent","","Steve","Conservative","Conservateur",N,N,72
+10001,"Avalon","Avalon"," 90","Conception Bay South",N,N,"",0,524,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 90","Conception Bay South",N,N,"",0,524,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 91","Conception Bay South",N,N,"",0,565,"Connors","","Paul","Liberal","Libéral",N,Y,157
+10001,"Avalon","Avalon"," 91","Conception Bay South",N,N,"",0,565,"Kent","","Steve","Conservative","Conservateur",N,N,93
+10001,"Avalon","Avalon"," 91","Conception Bay South",N,N,"",0,565,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 91","Conception Bay South",N,N,"",0,565,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 92","Conception Bay South",N,N,"",0,587,"Connors","","Paul","Liberal","Libéral",N,Y,112
+10001,"Avalon","Avalon"," 92","Conception Bay South",N,N,"",0,587,"Kent","","Steve","Conservative","Conservateur",N,N,88
+10001,"Avalon","Avalon"," 92","Conception Bay South",N,N,"",0,587,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 92","Conception Bay South",N,N,"",0,587,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 93","Conception Bay South",N,N,"",0,497,"Connors","","Paul","Liberal","Libéral",N,Y,88
+10001,"Avalon","Avalon"," 93","Conception Bay South",N,N,"",0,497,"Kent","","Steve","Conservative","Conservateur",N,N,53
+10001,"Avalon","Avalon"," 93","Conception Bay South",N,N,"",0,497,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 93","Conception Bay South",N,N,"",0,497,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 94","Conception Bay South",N,N,"",0,494,"Connors","","Paul","Liberal","Libéral",N,Y,115
+10001,"Avalon","Avalon"," 94","Conception Bay South",N,N,"",0,494,"Kent","","Steve","Conservative","Conservateur",N,N,61
+10001,"Avalon","Avalon"," 94","Conception Bay South",N,N,"",0,494,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 94","Conception Bay South",N,N,"",0,494,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 95","Conception Bay South",N,N,"",0,453,"Connors","","Paul","Liberal","Libéral",N,Y,138
+10001,"Avalon","Avalon"," 95","Conception Bay South",N,N,"",0,453,"Kent","","Steve","Conservative","Conservateur",N,N,66
+10001,"Avalon","Avalon"," 95","Conception Bay South",N,N,"",0,453,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 95","Conception Bay South",N,N,"",0,453,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 96","Conception Bay South",N,N,"",0,481,"Connors","","Paul","Liberal","Libéral",N,Y,97
+10001,"Avalon","Avalon"," 96","Conception Bay South",N,N,"",0,481,"Kent","","Steve","Conservative","Conservateur",N,N,68
+10001,"Avalon","Avalon"," 96","Conception Bay South",N,N,"",0,481,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 96","Conception Bay South",N,N,"",0,481,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10001,"Avalon","Avalon"," 97","Conception Bay South",N,N,"",0,518,"Connors","","Paul","Liberal","Libéral",N,Y,92
+10001,"Avalon","Avalon"," 97","Conception Bay South",N,N,"",0,518,"Kent","","Steve","Conservative","Conservateur",N,N,68
+10001,"Avalon","Avalon"," 97","Conception Bay South",N,N,"",0,518,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 97","Conception Bay South",N,N,"",0,518,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 98","Conception Bay South",N,N,"",0,619,"Connors","","Paul","Liberal","Libéral",N,Y,127
+10001,"Avalon","Avalon"," 98","Conception Bay South",N,N,"",0,619,"Kent","","Steve","Conservative","Conservateur",N,N,101
+10001,"Avalon","Avalon"," 98","Conception Bay South",N,N,"",0,619,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 98","Conception Bay South",N,N,"",0,619,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 99","Conception Bay South",N,N,"",2,374,"Connors","","Paul","Liberal","Libéral",N,Y,58
+10001,"Avalon","Avalon"," 99","Conception Bay South",N,N,"",2,374,"Kent","","Steve","Conservative","Conservateur",N,N,44
+10001,"Avalon","Avalon"," 99","Conception Bay South",N,N,"",2,374,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 99","Conception Bay South",N,N,"",2,374,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 100","Conception Bay South",N,N,"",1,596,"Connors","","Paul","Liberal","Libéral",N,Y,93
+10001,"Avalon","Avalon"," 100","Conception Bay South",N,N,"",1,596,"Kent","","Steve","Conservative","Conservateur",N,N,66
+10001,"Avalon","Avalon"," 100","Conception Bay South",N,N,"",1,596,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 100","Conception Bay South",N,N,"",1,596,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 101","Conception Bay South",N,N,"",1,592,"Connors","","Paul","Liberal","Libéral",N,Y,112
+10001,"Avalon","Avalon"," 101","Conception Bay South",N,N,"",1,592,"Kent","","Steve","Conservative","Conservateur",N,N,71
+10001,"Avalon","Avalon"," 101","Conception Bay South",N,N,"",1,592,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 101","Conception Bay South",N,N,"",1,592,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10001,"Avalon","Avalon"," 102","Conception Bay South",N,N,"",1,536,"Connors","","Paul","Liberal","Libéral",N,Y,101
+10001,"Avalon","Avalon"," 102","Conception Bay South",N,N,"",1,536,"Kent","","Steve","Conservative","Conservateur",N,N,90
+10001,"Avalon","Avalon"," 102","Conception Bay South",N,N,"",1,536,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 102","Conception Bay South",N,N,"",1,536,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 103","Conception Bay South",N,N,"",0,418,"Connors","","Paul","Liberal","Libéral",N,Y,103
+10001,"Avalon","Avalon"," 103","Conception Bay South",N,N,"",0,418,"Kent","","Steve","Conservative","Conservateur",N,N,46
+10001,"Avalon","Avalon"," 103","Conception Bay South",N,N,"",0,418,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 103","Conception Bay South",N,N,"",0,418,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 104","Conception Bay South",N,N,"",1,561,"Connors","","Paul","Liberal","Libéral",N,Y,136
+10001,"Avalon","Avalon"," 104","Conception Bay South",N,N,"",1,561,"Kent","","Steve","Conservative","Conservateur",N,N,77
+10001,"Avalon","Avalon"," 104","Conception Bay South",N,N,"",1,561,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 104","Conception Bay South",N,N,"",1,561,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 105","Conception Bay South",N,N,"",1,575,"Connors","","Paul","Liberal","Libéral",N,Y,116
+10001,"Avalon","Avalon"," 105","Conception Bay South",N,N,"",1,575,"Kent","","Steve","Conservative","Conservateur",N,N,77
+10001,"Avalon","Avalon"," 105","Conception Bay South",N,N,"",1,575,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 105","Conception Bay South",N,N,"",1,575,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 106","Conception Bay South",N,N,"",2,558,"Connors","","Paul","Liberal","Libéral",N,Y,120
+10001,"Avalon","Avalon"," 106","Conception Bay South",N,N,"",2,558,"Kent","","Steve","Conservative","Conservateur",N,N,52
+10001,"Avalon","Avalon"," 106","Conception Bay South",N,N,"",2,558,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 106","Conception Bay South",N,N,"",2,558,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 107","Conception Bay South",N,N,"",1,580,"Connors","","Paul","Liberal","Libéral",N,Y,120
+10001,"Avalon","Avalon"," 107","Conception Bay South",N,N,"",1,580,"Kent","","Steve","Conservative","Conservateur",N,N,72
+10001,"Avalon","Avalon"," 107","Conception Bay South",N,N,"",1,580,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 107","Conception Bay South",N,N,"",1,580,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 108","Conception Bay South",N,N,"",0,525,"Connors","","Paul","Liberal","Libéral",N,Y,120
+10001,"Avalon","Avalon"," 108","Conception Bay South",N,N,"",0,525,"Kent","","Steve","Conservative","Conservateur",N,N,58
+10001,"Avalon","Avalon"," 108","Conception Bay South",N,N,"",0,525,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 108","Conception Bay South",N,N,"",0,525,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 109","Conception Bay South",N,N,"",2,537,"Connors","","Paul","Liberal","Libéral",N,Y,115
+10001,"Avalon","Avalon"," 109","Conception Bay South",N,N,"",2,537,"Kent","","Steve","Conservative","Conservateur",N,N,58
+10001,"Avalon","Avalon"," 109","Conception Bay South",N,N,"",2,537,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 109","Conception Bay South",N,N,"",2,537,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+10001,"Avalon","Avalon"," 110","Conception Bay South",N,N,"",1,385,"Connors","","Paul","Liberal","Libéral",N,Y,101
+10001,"Avalon","Avalon"," 110","Conception Bay South",N,N,"",1,385,"Kent","","Steve","Conservative","Conservateur",N,N,39
+10001,"Avalon","Avalon"," 110","Conception Bay South",N,N,"",1,385,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 110","Conception Bay South",N,N,"",1,385,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 111","Conception Bay South",N,N,"",0,373,"Connors","","Paul","Liberal","Libéral",N,Y,87
+10001,"Avalon","Avalon"," 111","Conception Bay South",N,N,"",0,373,"Kent","","Steve","Conservative","Conservateur",N,N,26
+10001,"Avalon","Avalon"," 111","Conception Bay South",N,N,"",0,373,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 111","Conception Bay South",N,N,"",0,373,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 112","Conception Bay South",N,N,"",0,405,"Connors","","Paul","Liberal","Libéral",N,Y,99
+10001,"Avalon","Avalon"," 112","Conception Bay South",N,N,"",0,405,"Kent","","Steve","Conservative","Conservateur",N,N,47
+10001,"Avalon","Avalon"," 112","Conception Bay South",N,N,"",0,405,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 112","Conception Bay South",N,N,"",0,405,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 113","Conception Bay South",N,N,"",0,520,"Connors","","Paul","Liberal","Libéral",N,Y,127
+10001,"Avalon","Avalon"," 113","Conception Bay South",N,N,"",0,520,"Kent","","Steve","Conservative","Conservateur",N,N,53
+10001,"Avalon","Avalon"," 113","Conception Bay South",N,N,"",0,520,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 113","Conception Bay South",N,N,"",0,520,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 114","Conception Bay South",N,N,"",1,593,"Connors","","Paul","Liberal","Libéral",N,Y,146
+10001,"Avalon","Avalon"," 114","Conception Bay South",N,N,"",1,593,"Kent","","Steve","Conservative","Conservateur",N,N,88
+10001,"Avalon","Avalon"," 114","Conception Bay South",N,N,"",1,593,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 114","Conception Bay South",N,N,"",1,593,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 115","Conception Bay South",N,N,"",0,508,"Connors","","Paul","Liberal","Libéral",N,Y,105
+10001,"Avalon","Avalon"," 115","Conception Bay South",N,N,"",0,508,"Kent","","Steve","Conservative","Conservateur",N,N,67
+10001,"Avalon","Avalon"," 115","Conception Bay South",N,N,"",0,508,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 115","Conception Bay South",N,N,"",0,508,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 116","Conception Bay South",N,N,"",0,497,"Connors","","Paul","Liberal","Libéral",N,Y,96
+10001,"Avalon","Avalon"," 116","Conception Bay South",N,N,"",0,497,"Kent","","Steve","Conservative","Conservateur",N,N,63
+10001,"Avalon","Avalon"," 116","Conception Bay South",N,N,"",0,497,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 116","Conception Bay South",N,N,"",0,497,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10001,"Avalon","Avalon"," 117","Conception Bay South",N,N,"",1,528,"Connors","","Paul","Liberal","Libéral",N,Y,108
+10001,"Avalon","Avalon"," 117","Conception Bay South",N,N,"",1,528,"Kent","","Steve","Conservative","Conservateur",N,N,61
+10001,"Avalon","Avalon"," 117","Conception Bay South",N,N,"",1,528,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 117","Conception Bay South",N,N,"",1,528,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 118","Conception Bay South",N,N,"",0,423,"Connors","","Paul","Liberal","Libéral",N,Y,99
+10001,"Avalon","Avalon"," 118","Conception Bay South",N,N,"",0,423,"Kent","","Steve","Conservative","Conservateur",N,N,30
+10001,"Avalon","Avalon"," 118","Conception Bay South",N,N,"",0,423,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 118","Conception Bay South",N,N,"",0,423,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+10001,"Avalon","Avalon"," 119","Conception Bay South",N,N,"",0,505,"Connors","","Paul","Liberal","Libéral",N,Y,128
+10001,"Avalon","Avalon"," 119","Conception Bay South",N,N,"",0,505,"Kent","","Steve","Conservative","Conservateur",N,N,39
+10001,"Avalon","Avalon"," 119","Conception Bay South",N,N,"",0,505,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 119","Conception Bay South",N,N,"",0,505,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 120","Conception Bay South",N,N,"",0,469,"Connors","","Paul","Liberal","Libéral",N,Y,119
+10001,"Avalon","Avalon"," 120","Conception Bay South",N,N,"",0,469,"Kent","","Steve","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 120","Conception Bay South",N,N,"",0,469,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 120","Conception Bay South",N,N,"",0,469,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 121","Conception Bay South",N,N,"",0,477,"Connors","","Paul","Liberal","Libéral",N,Y,104
+10001,"Avalon","Avalon"," 121","Conception Bay South",N,N,"",0,477,"Kent","","Steve","Conservative","Conservateur",N,N,64
+10001,"Avalon","Avalon"," 121","Conception Bay South",N,N,"",0,477,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 121","Conception Bay South",N,N,"",0,477,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 122","St. John's",N,N,"",0,308,"Connors","","Paul","Liberal","Libéral",N,Y,61
+10001,"Avalon","Avalon"," 122","St. John's",N,N,"",0,308,"Kent","","Steve","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 122","St. John's",N,N,"",0,308,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 122","St. John's",N,N,"",0,308,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 123","St. John's",N,N,"124A",0,195,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 123","St. John's",N,N,"124A",0,195,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 123","St. John's",N,N,"124A",0,195,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 123","St. John's",N,N,"124A",0,195,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 124A","St. John's",N,N,"",0,304,"Connors","","Paul","Liberal","Libéral",N,Y,132
+10001,"Avalon","Avalon"," 124A","St. John's",N,N,"",0,304,"Kent","","Steve","Conservative","Conservateur",N,N,62
+10001,"Avalon","Avalon"," 124A","St. John's",N,N,"",0,304,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 124A","St. John's",N,N,"",0,304,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 124B","St. John's",N,N,"",2,522,"Connors","","Paul","Liberal","Libéral",N,Y,121
+10001,"Avalon","Avalon"," 124B","St. John's",N,N,"",2,522,"Kent","","Steve","Conservative","Conservateur",N,N,53
+10001,"Avalon","Avalon"," 124B","St. John's",N,N,"",2,522,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 124B","St. John's",N,N,"",2,522,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10001,"Avalon","Avalon"," 125","St. John's",N,N,"",0,662,"Connors","","Paul","Liberal","Libéral",N,Y,159
+10001,"Avalon","Avalon"," 125","St. John's",N,N,"",0,662,"Kent","","Steve","Conservative","Conservateur",N,N,66
+10001,"Avalon","Avalon"," 125","St. John's",N,N,"",0,662,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 125","St. John's",N,N,"",0,662,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 126","St. John's",N,N,"",1,534,"Connors","","Paul","Liberal","Libéral",N,Y,127
+10001,"Avalon","Avalon"," 126","St. John's",N,N,"",1,534,"Kent","","Steve","Conservative","Conservateur",N,N,85
+10001,"Avalon","Avalon"," 126","St. John's",N,N,"",1,534,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 126","St. John's",N,N,"",1,534,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 127","St. John's",N,N,"",0,485,"Connors","","Paul","Liberal","Libéral",N,Y,138
+10001,"Avalon","Avalon"," 127","St. John's",N,N,"",0,485,"Kent","","Steve","Conservative","Conservateur",N,N,55
+10001,"Avalon","Avalon"," 127","St. John's",N,N,"",0,485,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 127","St. John's",N,N,"",0,485,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 128","St. John's",N,N,"",1,516,"Connors","","Paul","Liberal","Libéral",N,Y,152
+10001,"Avalon","Avalon"," 128","St. John's",N,N,"",1,516,"Kent","","Steve","Conservative","Conservateur",N,N,41
+10001,"Avalon","Avalon"," 128","St. John's",N,N,"",1,516,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 128","St. John's",N,N,"",1,516,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 129","St. John's",N,N,"",1,443,"Connors","","Paul","Liberal","Libéral",N,Y,127
+10001,"Avalon","Avalon"," 129","St. John's",N,N,"",1,443,"Kent","","Steve","Conservative","Conservateur",N,N,43
+10001,"Avalon","Avalon"," 129","St. John's",N,N,"",1,443,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 129","St. John's",N,N,"",1,443,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 130","St. John's",N,N,"",1,607,"Connors","","Paul","Liberal","Libéral",N,Y,156
+10001,"Avalon","Avalon"," 130","St. John's",N,N,"",1,607,"Kent","","Steve","Conservative","Conservateur",N,N,68
+10001,"Avalon","Avalon"," 130","St. John's",N,N,"",1,607,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 130","St. John's",N,N,"",1,607,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10001,"Avalon","Avalon"," 131","St. John's",N,N,"",1,337,"Connors","","Paul","Liberal","Libéral",N,Y,52
+10001,"Avalon","Avalon"," 131","St. John's",N,N,"",1,337,"Kent","","Steve","Conservative","Conservateur",N,N,30
+10001,"Avalon","Avalon"," 131","St. John's",N,N,"",1,337,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 131","St. John's",N,N,"",1,337,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 132","St. John's",N,N,"",0,410,"Connors","","Paul","Liberal","Libéral",N,Y,114
+10001,"Avalon","Avalon"," 132","St. John's",N,N,"",0,410,"Kent","","Steve","Conservative","Conservateur",N,N,56
+10001,"Avalon","Avalon"," 132","St. John's",N,N,"",0,410,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 132","St. John's",N,N,"",0,410,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 133","St. John's",N,N,"",0,362,"Connors","","Paul","Liberal","Libéral",N,Y,88
+10001,"Avalon","Avalon"," 133","St. John's",N,N,"",0,362,"Kent","","Steve","Conservative","Conservateur",N,N,59
+10001,"Avalon","Avalon"," 133","St. John's",N,N,"",0,362,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 133","St. John's",N,N,"",0,362,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 134","St. John's",N,N,"",3,379,"Connors","","Paul","Liberal","Libéral",N,Y,86
+10001,"Avalon","Avalon"," 134","St. John's",N,N,"",3,379,"Kent","","Steve","Conservative","Conservateur",N,N,45
+10001,"Avalon","Avalon"," 134","St. John's",N,N,"",3,379,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 134","St. John's",N,N,"",3,379,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 135","St. John's",N,N,"",1,439,"Connors","","Paul","Liberal","Libéral",N,Y,77
+10001,"Avalon","Avalon"," 135","St. John's",N,N,"",1,439,"Kent","","Steve","Conservative","Conservateur",N,N,67
+10001,"Avalon","Avalon"," 135","St. John's",N,N,"",1,439,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 135","St. John's",N,N,"",1,439,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 136","St. John's",N,N,"",1,336,"Connors","","Paul","Liberal","Libéral",N,Y,83
+10001,"Avalon","Avalon"," 136","St. John's",N,N,"",1,336,"Kent","","Steve","Conservative","Conservateur",N,N,53
+10001,"Avalon","Avalon"," 136","St. John's",N,N,"",1,336,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 136","St. John's",N,N,"",1,336,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 137","St. John's",N,N,"",0,349,"Connors","","Paul","Liberal","Libéral",N,Y,69
+10001,"Avalon","Avalon"," 137","St. John's",N,N,"",0,349,"Kent","","Steve","Conservative","Conservateur",N,N,46
+10001,"Avalon","Avalon"," 137","St. John's",N,N,"",0,349,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 137","St. John's",N,N,"",0,349,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 138","St. John's",N,N,"",0,364,"Connors","","Paul","Liberal","Libéral",N,Y,78
+10001,"Avalon","Avalon"," 138","St. John's",N,N,"",0,364,"Kent","","Steve","Conservative","Conservateur",N,N,48
+10001,"Avalon","Avalon"," 138","St. John's",N,N,"",0,364,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 138","St. John's",N,N,"",0,364,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 139","St. John's",N,N,"",0,345,"Connors","","Paul","Liberal","Libéral",N,Y,57
+10001,"Avalon","Avalon"," 139","St. John's",N,N,"",0,345,"Kent","","Steve","Conservative","Conservateur",N,N,52
+10001,"Avalon","Avalon"," 139","St. John's",N,N,"",0,345,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 139","St. John's",N,N,"",0,345,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 140","St. John's",N,N,"",0,422,"Connors","","Paul","Liberal","Libéral",N,Y,94
+10001,"Avalon","Avalon"," 140","St. John's",N,N,"",0,422,"Kent","","Steve","Conservative","Conservateur",N,N,58
+10001,"Avalon","Avalon"," 140","St. John's",N,N,"",0,422,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 140","St. John's",N,N,"",0,422,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 141","St. John's",N,N,"",0,411,"Connors","","Paul","Liberal","Libéral",N,Y,67
+10001,"Avalon","Avalon"," 141","St. John's",N,N,"",0,411,"Kent","","Steve","Conservative","Conservateur",N,N,56
+10001,"Avalon","Avalon"," 141","St. John's",N,N,"",0,411,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,5
+10001,"Avalon","Avalon"," 141","St. John's",N,N,"",0,411,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 142","St. John's",N,N,"",0,408,"Connors","","Paul","Liberal","Libéral",N,Y,102
+10001,"Avalon","Avalon"," 142","St. John's",N,N,"",0,408,"Kent","","Steve","Conservative","Conservateur",N,N,54
+10001,"Avalon","Avalon"," 142","St. John's",N,N,"",0,408,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 142","St. John's",N,N,"",0,408,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 143","St. John's",N,N,"",0,426,"Connors","","Paul","Liberal","Libéral",N,Y,83
+10001,"Avalon","Avalon"," 143","St. John's",N,N,"",0,426,"Kent","","Steve","Conservative","Conservateur",N,N,54
+10001,"Avalon","Avalon"," 143","St. John's",N,N,"",0,426,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 143","St. John's",N,N,"",0,426,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 144","St. John's",N,N,"",0,476,"Connors","","Paul","Liberal","Libéral",N,Y,119
+10001,"Avalon","Avalon"," 144","St. John's",N,N,"",0,476,"Kent","","Steve","Conservative","Conservateur",N,N,65
+10001,"Avalon","Avalon"," 144","St. John's",N,N,"",0,476,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 144","St. John's",N,N,"",0,476,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 145","Bay Bulls",N,N,"",0,354,"Connors","","Paul","Liberal","Libéral",N,Y,78
+10001,"Avalon","Avalon"," 145","Bay Bulls",N,N,"",0,354,"Kent","","Steve","Conservative","Conservateur",N,N,50
+10001,"Avalon","Avalon"," 145","Bay Bulls",N,N,"",0,354,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 145","Bay Bulls",N,N,"",0,354,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 146","Bay Bulls",N,N,"",0,386,"Connors","","Paul","Liberal","Libéral",N,Y,63
+10001,"Avalon","Avalon"," 146","Bay Bulls",N,N,"",0,386,"Kent","","Steve","Conservative","Conservateur",N,N,75
+10001,"Avalon","Avalon"," 146","Bay Bulls",N,N,"",0,386,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 146","Bay Bulls",N,N,"",0,386,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 147","Bay Bulls",N,N,"",0,516,"Connors","","Paul","Liberal","Libéral",N,Y,108
+10001,"Avalon","Avalon"," 147","Bay Bulls",N,N,"",0,516,"Kent","","Steve","Conservative","Conservateur",N,N,97
+10001,"Avalon","Avalon"," 147","Bay Bulls",N,N,"",0,516,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 147","Bay Bulls",N,N,"",0,516,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 148","Witless Bay",N,N,"",0,463,"Connors","","Paul","Liberal","Libéral",N,Y,114
+10001,"Avalon","Avalon"," 148","Witless Bay",N,N,"",0,463,"Kent","","Steve","Conservative","Conservateur",N,N,91
+10001,"Avalon","Avalon"," 148","Witless Bay",N,N,"",0,463,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 148","Witless Bay",N,N,"",0,463,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 149","Witless Bay",N,N,"",1,449,"Connors","","Paul","Liberal","Libéral",N,Y,114
+10001,"Avalon","Avalon"," 149","Witless Bay",N,N,"",1,449,"Kent","","Steve","Conservative","Conservateur",N,N,75
+10001,"Avalon","Avalon"," 149","Witless Bay",N,N,"",1,449,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 149","Witless Bay",N,N,"",1,449,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 150","Witless Bay",N,N,"",0,360,"Connors","","Paul","Liberal","Libéral",N,Y,65
+10001,"Avalon","Avalon"," 150","Witless Bay",N,N,"",0,360,"Kent","","Steve","Conservative","Conservateur",N,N,92
+10001,"Avalon","Avalon"," 150","Witless Bay",N,N,"",0,360,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 150","Witless Bay",N,N,"",0,360,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 151","Mobile",N,N,"",0,392,"Connors","","Paul","Liberal","Libéral",N,Y,74
+10001,"Avalon","Avalon"," 151","Mobile",N,N,"",0,392,"Kent","","Steve","Conservative","Conservateur",N,N,61
+10001,"Avalon","Avalon"," 151","Mobile",N,N,"",0,392,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 151","Mobile",N,N,"",0,392,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 152","Tors Cove",N,N,"",3,372,"Connors","","Paul","Liberal","Libéral",N,Y,93
+10001,"Avalon","Avalon"," 152","Tors Cove",N,N,"",3,372,"Kent","","Steve","Conservative","Conservateur",N,N,74
+10001,"Avalon","Avalon"," 152","Tors Cove",N,N,"",3,372,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,4
+10001,"Avalon","Avalon"," 152","Tors Cove",N,N,"",3,372,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 153","Bauline East",N,N,"",0,233,"Connors","","Paul","Liberal","Libéral",N,Y,66
+10001,"Avalon","Avalon"," 153","Bauline East",N,N,"",0,233,"Kent","","Steve","Conservative","Conservateur",N,N,45
+10001,"Avalon","Avalon"," 153","Bauline East",N,N,"",0,233,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 153","Bauline East",N,N,"",0,233,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 154","Calvert",N,N,"",3,174,"Connors","","Paul","Liberal","Libéral",N,Y,46
+10001,"Avalon","Avalon"," 154","Calvert",N,N,"",3,174,"Kent","","Steve","Conservative","Conservateur",N,N,29
+10001,"Avalon","Avalon"," 154","Calvert",N,N,"",3,174,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 154","Calvert",N,N,"",3,174,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 155","Cape Broyle",N,N,"",4,341,"Connors","","Paul","Liberal","Libéral",N,Y,73
+10001,"Avalon","Avalon"," 155","Cape Broyle",N,N,"",4,341,"Kent","","Steve","Conservative","Conservateur",N,N,60
+10001,"Avalon","Avalon"," 155","Cape Broyle",N,N,"",4,341,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 155","Cape Broyle",N,N,"",4,341,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10001,"Avalon","Avalon"," 156","Cape Broyle",N,N,"",0,321,"Connors","","Paul","Liberal","Libéral",N,Y,86
+10001,"Avalon","Avalon"," 156","Cape Broyle",N,N,"",0,321,"Kent","","Steve","Conservative","Conservateur",N,N,43
+10001,"Avalon","Avalon"," 156","Cape Broyle",N,N,"",0,321,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 156","Cape Broyle",N,N,"",0,321,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 157","Ferryland",N,N,"",0,373,"Connors","","Paul","Liberal","Libéral",N,Y,74
+10001,"Avalon","Avalon"," 157","Ferryland",N,N,"",0,373,"Kent","","Steve","Conservative","Conservateur",N,N,50
+10001,"Avalon","Avalon"," 157","Ferryland",N,N,"",0,373,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 157","Ferryland",N,N,"",0,373,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 158","Fermeuse--Port Kirwan",N,N,"",1,327,"Connors","","Paul","Liberal","Libéral",N,Y,105
+10001,"Avalon","Avalon"," 158","Fermeuse--Port Kirwan",N,N,"",1,327,"Kent","","Steve","Conservative","Conservateur",N,N,82
+10001,"Avalon","Avalon"," 158","Fermeuse--Port Kirwan",N,N,"",1,327,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 158","Fermeuse--Port Kirwan",N,N,"",1,327,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 159","Renews",N,N,"",0,291,"Connors","","Paul","Liberal","Libéral",N,Y,65
+10001,"Avalon","Avalon"," 159","Renews",N,N,"",0,291,"Kent","","Steve","Conservative","Conservateur",N,N,63
+10001,"Avalon","Avalon"," 159","Renews",N,N,"",0,291,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 159","Renews",N,N,"",0,291,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 160","Portugal Cove South",N,N,"",3,87,"Connors","","Paul","Liberal","Libéral",N,Y,24
+10001,"Avalon","Avalon"," 160","Portugal Cove South",N,N,"",3,87,"Kent","","Steve","Conservative","Conservateur",N,N,22
+10001,"Avalon","Avalon"," 160","Portugal Cove South",N,N,"",3,87,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 160","Portugal Cove South",N,N,"",3,87,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 161","Trepassey",N,N,"",5,452,"Connors","","Paul","Liberal","Libéral",N,Y,58
+10001,"Avalon","Avalon"," 161","Trepassey",N,N,"",5,452,"Kent","","Steve","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 161","Trepassey",N,N,"",5,452,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 161","Trepassey",N,N,"",5,452,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 162","St. Shotts",N,N,"",0,52,"Connors","","Paul","Liberal","Libéral",N,Y,22
+10001,"Avalon","Avalon"," 162","St. Shotts",N,N,"",0,52,"Kent","","Steve","Conservative","Conservateur",N,N,13
+10001,"Avalon","Avalon"," 162","St. Shotts",N,N,"",0,52,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 162","St. Shotts",N,N,"",0,52,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 163","St. Vincent's-St. Stephen's-Peter's River",N,N,"",2,282,"Connors","","Paul","Liberal","Libéral",N,Y,74
+10001,"Avalon","Avalon"," 163","St. Vincent's-St. Stephen's-Peter's River",N,N,"",2,282,"Kent","","Steve","Conservative","Conservateur",N,N,49
+10001,"Avalon","Avalon"," 163","St. Vincent's-St. Stephen's-Peter's River",N,N,"",2,282,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 163","St. Vincent's-St. Stephen's-Peter's River",N,N,"",2,282,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 164","Gaskiers-Point La Haye",N,N,"",4,137,"Connors","","Paul","Liberal","Libéral",N,Y,32
+10001,"Avalon","Avalon"," 164","Gaskiers-Point La Haye",N,N,"",4,137,"Kent","","Steve","Conservative","Conservateur",N,N,43
+10001,"Avalon","Avalon"," 164","Gaskiers-Point La Haye",N,N,"",4,137,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 164","Gaskiers-Point La Haye",N,N,"",4,137,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 165","St. Mary's",N,N,"",2,403,"Connors","","Paul","Liberal","Libéral",N,Y,79
+10001,"Avalon","Avalon"," 165","St. Mary's",N,N,"",2,403,"Kent","","Steve","Conservative","Conservateur",N,N,50
+10001,"Avalon","Avalon"," 165","St. Mary's",N,N,"",2,403,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 165","St. Mary's",N,N,"",2,403,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 166","Riverhead",N,N,"",0,107,"Connors","","Paul","Liberal","Libéral",N,Y,50
+10001,"Avalon","Avalon"," 166","Riverhead",N,N,"",0,107,"Kent","","Steve","Conservative","Conservateur",N,N,22
+10001,"Avalon","Avalon"," 166","Riverhead",N,N,"",0,107,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 166","Riverhead",N,N,"",0,107,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10001,"Avalon","Avalon"," 167","Admirals Beach",N,N,"",1,97,"Connors","","Paul","Liberal","Libéral",N,Y,26
+10001,"Avalon","Avalon"," 167","Admirals Beach",N,N,"",1,97,"Kent","","Steve","Conservative","Conservateur",N,N,19
+10001,"Avalon","Avalon"," 167","Admirals Beach",N,N,"",1,97,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 167","Admirals Beach",N,N,"",1,97,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 168","St. Joseph's",N,N,"",0,235,"Connors","","Paul","Liberal","Libéral",N,Y,45
+10001,"Avalon","Avalon"," 168","St. Joseph's",N,N,"",0,235,"Kent","","Steve","Conservative","Conservateur",N,N,43
+10001,"Avalon","Avalon"," 168","St. Joseph's",N,N,"",0,235,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 168","St. Joseph's",N,N,"",0,235,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 169","North Harbour",N,N,"",1,63,"Connors","","Paul","Liberal","Libéral",N,Y,38
+10001,"Avalon","Avalon"," 169","North Harbour",N,N,"",1,63,"Kent","","Steve","Conservative","Conservateur",N,N,13
+10001,"Avalon","Avalon"," 169","North Harbour",N,N,"",1,63,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 169","North Harbour",N,N,"",1,63,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10001,"Avalon","Avalon"," 170","Colinet",N,N,"",0,164,"Connors","","Paul","Liberal","Libéral",N,Y,40
+10001,"Avalon","Avalon"," 170","Colinet",N,N,"",0,164,"Kent","","Steve","Conservative","Conservateur",N,N,53
+10001,"Avalon","Avalon"," 170","Colinet",N,N,"",0,164,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 170","Colinet",N,N,"",0,164,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 171","Mount Carmel",N,N,"",1,313,"Connors","","Paul","Liberal","Libéral",N,Y,68
+10001,"Avalon","Avalon"," 171","Mount Carmel",N,N,"",1,313,"Kent","","Steve","Conservative","Conservateur",N,N,54
+10001,"Avalon","Avalon"," 171","Mount Carmel",N,N,"",1,313,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 171","Mount Carmel",N,N,"",1,313,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 172","St. Catherine's",N,N,"",0,299,"Connors","","Paul","Liberal","Libéral",N,Y,59
+10001,"Avalon","Avalon"," 172","St. Catherine's",N,N,"",0,299,"Kent","","Steve","Conservative","Conservateur",N,N,31
+10001,"Avalon","Avalon"," 172","St. Catherine's",N,N,"",0,299,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 172","St. Catherine's",N,N,"",0,299,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 400","Mobile poll/Bureau itinérant",N,N,"",1,90,"Connors","","Paul","Liberal","Libéral",N,Y,33
+10001,"Avalon","Avalon"," 400","Mobile poll/Bureau itinérant",N,N,"",1,90,"Kent","","Steve","Conservative","Conservateur",N,N,32
+10001,"Avalon","Avalon"," 400","Mobile poll/Bureau itinérant",N,N,"",1,90,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 400","Mobile poll/Bureau itinérant",N,N,"",1,90,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 500","Mobile poll/Bureau itinérant",N,N,"",8,62,"Connors","","Paul","Liberal","Libéral",N,Y,89
+10001,"Avalon","Avalon"," 500","Mobile poll/Bureau itinérant",N,N,"",8,62,"Kent","","Steve","Conservative","Conservateur",N,N,48
+10001,"Avalon","Avalon"," 500","Mobile poll/Bureau itinérant",N,N,"",8,62,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 500","Mobile poll/Bureau itinérant",N,N,"",8,62,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 501","Mobile poll/Bureau itinérant",N,N,"",4,49,"Connors","","Paul","Liberal","Libéral",N,Y,30
+10001,"Avalon","Avalon"," 501","Mobile poll/Bureau itinérant",N,N,"",4,49,"Kent","","Steve","Conservative","Conservateur",N,N,18
+10001,"Avalon","Avalon"," 501","Mobile poll/Bureau itinérant",N,N,"",4,49,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 501","Mobile poll/Bureau itinérant",N,N,"",4,49,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 502","Mobile poll/Bureau itinérant",N,N,"",3,100,"Connors","","Paul","Liberal","Libéral",N,Y,35
+10001,"Avalon","Avalon"," 502","Mobile poll/Bureau itinérant",N,N,"",3,100,"Kent","","Steve","Conservative","Conservateur",N,N,35
+10001,"Avalon","Avalon"," 502","Mobile poll/Bureau itinérant",N,N,"",3,100,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 502","Mobile poll/Bureau itinérant",N,N,"",3,100,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,7,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,7,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,7,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,7,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 504","Mobile poll/Bureau itinérant",N,N,"502",0,12,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 504","Mobile poll/Bureau itinérant",N,N,"502",0,12,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 504","Mobile poll/Bureau itinérant",N,N,"502",0,12,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 504","Mobile poll/Bureau itinérant",N,N,"502",0,12,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 505","Mobile poll/Bureau itinérant",N,N,"507",0,18,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 505","Mobile poll/Bureau itinérant",N,N,"507",0,18,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 505","Mobile poll/Bureau itinérant",N,N,"507",0,18,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 505","Mobile poll/Bureau itinérant",N,N,"507",0,18,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,16,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,16,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,16,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,16,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 507","Mobile poll/Bureau itinérant",N,N,"",6,106,"Connors","","Paul","Liberal","Libéral",N,Y,67
+10001,"Avalon","Avalon"," 507","Mobile poll/Bureau itinérant",N,N,"",6,106,"Kent","","Steve","Conservative","Conservateur",N,N,14
+10001,"Avalon","Avalon"," 507","Mobile poll/Bureau itinérant",N,N,"",6,106,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 507","Mobile poll/Bureau itinérant",N,N,"",6,106,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 508","Mobile poll/Bureau itinérant",N,N,"",0,45,"Connors","","Paul","Liberal","Libéral",N,Y,21
+10001,"Avalon","Avalon"," 508","Mobile poll/Bureau itinérant",N,N,"",0,45,"Kent","","Steve","Conservative","Conservateur",N,N,19
+10001,"Avalon","Avalon"," 508","Mobile poll/Bureau itinérant",N,N,"",0,45,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 508","Mobile poll/Bureau itinérant",N,N,"",0,45,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 509","Conception Bay South",N,N,"97",0,3,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 509","Conception Bay South",N,N,"97",0,3,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 509","Conception Bay South",N,N,"97",0,3,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 509","Conception Bay South",N,N,"97",0,3,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 510","Conception Bay South",N,N,"97",0,5,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 510","Conception Bay South",N,N,"97",0,5,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 510","Conception Bay South",N,N,"97",0,5,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 510","Conception Bay South",N,N,"97",0,5,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 511","Mobile poll/Bureau itinérant",N,N,"85B",0,6,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 511","Mobile poll/Bureau itinérant",N,N,"85B",0,6,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 511","Mobile poll/Bureau itinérant",N,N,"85B",0,6,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 511","Mobile poll/Bureau itinérant",N,N,"85B",0,6,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 512","Conception Bay South",N,N,"93",0,0,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 512","Conception Bay South",N,N,"93",0,0,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 512","Conception Bay South",N,N,"93",0,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 512","Conception Bay South",N,N,"93",0,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 513","Mobile poll/Bureau itinérant",N,N,"85B",0,7,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 513","Mobile poll/Bureau itinérant",N,N,"85B",0,7,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 513","Mobile poll/Bureau itinérant",N,N,"85B",0,7,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 513","Mobile poll/Bureau itinérant",N,N,"85B",0,7,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 514","Mobile poll/Bureau itinérant",N,N,"85B",0,13,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 514","Mobile poll/Bureau itinérant",N,N,"85B",0,13,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 514","Mobile poll/Bureau itinérant",N,N,"85B",0,13,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 514","Mobile poll/Bureau itinérant",N,N,"85B",0,13,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 515","Mobile poll/Bureau itinérant",N,N,"517",0,12,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 515","Mobile poll/Bureau itinérant",N,N,"517",0,12,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 515","Mobile poll/Bureau itinérant",N,N,"517",0,12,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 515","Mobile poll/Bureau itinérant",N,N,"517",0,12,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 516","Conception Bay South",N,N,"97",0,3,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 516","Conception Bay South",N,N,"97",0,3,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 516","Conception Bay South",N,N,"97",0,3,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 516","Conception Bay South",N,N,"97",0,3,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 517","Mobile poll/Bureau itinérant",N,N,"",4,113,"Connors","","Paul","Liberal","Libéral",N,Y,53
+10001,"Avalon","Avalon"," 517","Mobile poll/Bureau itinérant",N,N,"",4,113,"Kent","","Steve","Conservative","Conservateur",N,N,27
+10001,"Avalon","Avalon"," 517","Mobile poll/Bureau itinérant",N,N,"",4,113,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 517","Mobile poll/Bureau itinérant",N,N,"",4,113,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,11,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,11,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,11,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,11,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 519","Mobile poll/Bureau itinérant",N,N,"500",0,48,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 519","Mobile poll/Bureau itinérant",N,N,"500",0,48,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 519","Mobile poll/Bureau itinérant",N,N,"500",0,48,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 519","Mobile poll/Bureau itinérant",N,N,"500",0,48,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 520","Mobile poll/Bureau itinérant",N,N,"500",0,99,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 520","Mobile poll/Bureau itinérant",N,N,"500",0,99,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 520","Mobile poll/Bureau itinérant",N,N,"500",0,99,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 520","Mobile poll/Bureau itinérant",N,N,"500",0,99,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 521","Mobile poll/Bureau itinérant",N,N,"501",0,75,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 521","Mobile poll/Bureau itinérant",N,N,"501",0,75,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 521","Mobile poll/Bureau itinérant",N,N,"501",0,75,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 521","Mobile poll/Bureau itinérant",N,N,"501",0,75,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 522","Mobile poll/Bureau itinérant",N,N,"400",0,15,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 522","Mobile poll/Bureau itinérant",N,N,"400",0,15,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 522","Mobile poll/Bureau itinérant",N,N,"400",0,15,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 522","Mobile poll/Bureau itinérant",N,N,"400",0,15,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 523","Mobile poll/Bureau itinérant",N,N,"85B",0,14,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 523","Mobile poll/Bureau itinérant",N,N,"85B",0,14,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 523","Mobile poll/Bureau itinérant",N,N,"85B",0,14,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 523","Mobile poll/Bureau itinérant",N,N,"85B",0,14,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 524","Mobile poll/Bureau itinérant",N,N,"508",0,20,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 524","Mobile poll/Bureau itinérant",N,N,"508",0,20,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 524","Mobile poll/Bureau itinérant",N,N,"508",0,20,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 524","Mobile poll/Bureau itinérant",N,N,"508",0,20,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 525","Mobile poll/Bureau itinérant",N,N,"508",0,24,"Connors","","Paul","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 525","Mobile poll/Bureau itinérant",N,N,"508",0,24,"Kent","","Steve","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 525","Mobile poll/Bureau itinérant",N,N,"508",0,24,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 525","Mobile poll/Bureau itinérant",N,N,"508",0,24,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 600","Victoria",N,N,"",0,0,"Connors","","Paul","Liberal","Libéral",N,Y,181
+10001,"Avalon","Avalon"," 600","Victoria",N,N,"",0,0,"Kent","","Steve","Conservative","Conservateur",N,N,136
+10001,"Avalon","Avalon"," 600","Victoria",N,N,"",0,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 600","Victoria",N,N,"",0,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 601","Carbonear",N,N,"",19,0,"Connors","","Paul","Liberal","Libéral",N,Y,651
+10001,"Avalon","Avalon"," 601","Carbonear",N,N,"",19,0,"Kent","","Steve","Conservative","Conservateur",N,N,263
+10001,"Avalon","Avalon"," 601","Carbonear",N,N,"",19,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,4
+10001,"Avalon","Avalon"," 601","Carbonear",N,N,"",19,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+10001,"Avalon","Avalon"," 602","Harbour Grace--Bristol's Hope",N,N,"",4,0,"Connors","","Paul","Liberal","Libéral",N,Y,379
+10001,"Avalon","Avalon"," 602","Harbour Grace--Bristol's Hope",N,N,"",4,0,"Kent","","Steve","Conservative","Conservateur",N,N,186
+10001,"Avalon","Avalon"," 602","Harbour Grace--Bristol's Hope",N,N,"",4,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 602","Harbour Grace--Bristol's Hope",N,N,"",4,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 603","Upper Island Cove",N,N,"",5,0,"Connors","","Paul","Liberal","Libéral",N,Y,177
+10001,"Avalon","Avalon"," 603","Upper Island Cove",N,N,"",5,0,"Kent","","Steve","Conservative","Conservateur",N,N,108
+10001,"Avalon","Avalon"," 603","Upper Island Cove",N,N,"",5,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 603","Upper Island Cove",N,N,"",5,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 604","Spaniard's Bay",N,N,"",6,0,"Connors","","Paul","Liberal","Libéral",N,Y,252
+10001,"Avalon","Avalon"," 604","Spaniard's Bay",N,N,"",6,0,"Kent","","Steve","Conservative","Conservateur",N,N,144
+10001,"Avalon","Avalon"," 604","Spaniard's Bay",N,N,"",6,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 604","Spaniard's Bay",N,N,"",6,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 605","Bay Roberts",N,N,"",7,0,"Connors","","Paul","Liberal","Libéral",N,Y,617
+10001,"Avalon","Avalon"," 605","Bay Roberts",N,N,"",7,0,"Kent","","Steve","Conservative","Conservateur",N,N,304
+10001,"Avalon","Avalon"," 605","Bay Roberts",N,N,"",7,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,5
+10001,"Avalon","Avalon"," 605","Bay Roberts",N,N,"",7,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+10001,"Avalon","Avalon"," 606","Clarke's Beach",N,N,"",8,0,"Connors","","Paul","Liberal","Libéral",N,Y,382
+10001,"Avalon","Avalon"," 606","Clarke's Beach",N,N,"",8,0,"Kent","","Steve","Conservative","Conservateur",N,N,265
+10001,"Avalon","Avalon"," 606","Clarke's Beach",N,N,"",8,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 606","Clarke's Beach",N,N,"",8,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+10001,"Avalon","Avalon"," 607","Avondale",N,N,"",10,0,"Connors","","Paul","Liberal","Libéral",N,Y,342
+10001,"Avalon","Avalon"," 607","Avondale",N,N,"",10,0,"Kent","","Steve","Conservative","Conservateur",N,N,232
+10001,"Avalon","Avalon"," 607","Avondale",N,N,"",10,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,6
+10001,"Avalon","Avalon"," 607","Avondale",N,N,"",10,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+10001,"Avalon","Avalon"," 608","Conception Bay South",N,N,"",0,0,"Connors","","Paul","Liberal","Libéral",N,Y,803
+10001,"Avalon","Avalon"," 608","Conception Bay South",N,N,"",0,0,"Kent","","Steve","Conservative","Conservateur",N,N,409
+10001,"Avalon","Avalon"," 608","Conception Bay South",N,N,"",0,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 608","Conception Bay South",N,N,"",0,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+10001,"Avalon","Avalon"," 609","Conception Bay South",N,N,"",3,0,"Connors","","Paul","Liberal","Libéral",N,Y,627
+10001,"Avalon","Avalon"," 609","Conception Bay South",N,N,"",3,0,"Kent","","Steve","Conservative","Conservateur",N,N,320
+10001,"Avalon","Avalon"," 609","Conception Bay South",N,N,"",3,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,5
+10001,"Avalon","Avalon"," 609","Conception Bay South",N,N,"",3,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+10001,"Avalon","Avalon"," 610","Conception Bay South",N,N,"",0,0,"Connors","","Paul","Liberal","Libéral",N,Y,644
+10001,"Avalon","Avalon"," 610","Conception Bay South",N,N,"",0,0,"Kent","","Steve","Conservative","Conservateur",N,N,227
+10001,"Avalon","Avalon"," 610","Conception Bay South",N,N,"",0,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 610","Conception Bay South",N,N,"",0,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+10001,"Avalon","Avalon"," 611","Conception Bay South",N,N,"",18,0,"Connors","","Paul","Liberal","Libéral",N,Y,1337
+10001,"Avalon","Avalon"," 611","Conception Bay South",N,N,"",18,0,"Kent","","Steve","Conservative","Conservateur",N,N,318
+10001,"Avalon","Avalon"," 611","Conception Bay South",N,N,"",18,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 611","Conception Bay South",N,N,"",18,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+10001,"Avalon","Avalon"," 612","St. John's",N,N,"",2,0,"Connors","","Paul","Liberal","Libéral",N,Y,1133
+10001,"Avalon","Avalon"," 612","St. John's",N,N,"",2,0,"Kent","","Steve","Conservative","Conservateur",N,N,281
+10001,"Avalon","Avalon"," 612","St. John's",N,N,"",2,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,3
+10001,"Avalon","Avalon"," 612","St. John's",N,N,"",2,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+10001,"Avalon","Avalon"," 613","St. John's",N,N,"",6,0,"Connors","","Paul","Liberal","Libéral",N,Y,1013
+10001,"Avalon","Avalon"," 613","St. John's",N,N,"",6,0,"Kent","","Steve","Conservative","Conservateur",N,N,403
+10001,"Avalon","Avalon"," 613","St. John's",N,N,"",6,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,9
+10001,"Avalon","Avalon"," 613","St. John's",N,N,"",6,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+10001,"Avalon","Avalon"," 614","Bay Bulls",N,N,"",0,0,"Connors","","Paul","Liberal","Libéral",N,Y,338
+10001,"Avalon","Avalon"," 614","Bay Bulls",N,N,"",0,0,"Kent","","Steve","Conservative","Conservateur",N,N,233
+10001,"Avalon","Avalon"," 614","Bay Bulls",N,N,"",0,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 614","Bay Bulls",N,N,"",0,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+10001,"Avalon","Avalon"," 615","Tors Cove",N,N,"",5,0,"Connors","","Paul","Liberal","Libéral",N,Y,113
+10001,"Avalon","Avalon"," 615","Tors Cove",N,N,"",5,0,"Kent","","Steve","Conservative","Conservateur",N,N,64
+10001,"Avalon","Avalon"," 615","Tors Cove",N,N,"",5,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 615","Tors Cove",N,N,"",5,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10001,"Avalon","Avalon"," 616","Holyrood",N,N,"",5,0,"Connors","","Paul","Liberal","Libéral",N,Y,417
+10001,"Avalon","Avalon"," 616","Holyrood",N,N,"",5,0,"Kent","","Steve","Conservative","Conservateur",N,N,227
+10001,"Avalon","Avalon"," 616","Holyrood",N,N,"",5,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,2
+10001,"Avalon","Avalon"," 616","Holyrood",N,N,"",5,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+10001,"Avalon","Avalon"," 617","St. Joseph's",N,N,"",0,0,"Connors","","Paul","Liberal","Libéral",N,Y,141
+10001,"Avalon","Avalon"," 617","St. Joseph's",N,N,"",0,0,"Kent","","Steve","Conservative","Conservateur",N,N,52
+10001,"Avalon","Avalon"," 617","St. Joseph's",N,N,"",0,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 617","St. Joseph's",N,N,"",0,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 618","St. Mary's",N,N,"",1,0,"Connors","","Paul","Liberal","Libéral",N,Y,106
+10001,"Avalon","Avalon"," 618","St. Mary's",N,N,"",1,0,"Kent","","Steve","Conservative","Conservateur",N,N,40
+10001,"Avalon","Avalon"," 618","St. Mary's",N,N,"",1,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 618","St. Mary's",N,N,"",1,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 619","Ferryland",N,N,"",1,0,"Connors","","Paul","Liberal","Libéral",N,Y,145
+10001,"Avalon","Avalon"," 619","Ferryland",N,N,"",1,0,"Kent","","Steve","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 619","Ferryland",N,N,"",1,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,1
+10001,"Avalon","Avalon"," 619","Ferryland",N,N,"",1,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 620","Trepassey",N,N,"",6,0,"Connors","","Paul","Liberal","Libéral",N,Y,63
+10001,"Avalon","Avalon"," 620","Trepassey",N,N,"",6,0,"Kent","","Steve","Conservative","Conservateur",N,N,42
+10001,"Avalon","Avalon"," 620","Trepassey",N,N,"",6,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,0
+10001,"Avalon","Avalon"," 620","Trepassey",N,N,"",6,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,87,"Connors","","Paul","Liberal","Libéral",N,Y,478
+10001,"Avalon","Avalon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,87,"Kent","","Steve","Conservative","Conservateur",N,N,278
+10001,"Avalon","Avalon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,87,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,5
+10001,"Avalon","Avalon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,87,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+10001,"Avalon","Avalon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",61,0,"Connors","","Paul","Liberal","Libéral",N,Y,1716
+10001,"Avalon","Avalon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",61,0,"Kent","","Steve","Conservative","Conservateur",N,N,1103
+10001,"Avalon","Avalon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",61,0,"Tilley","","Alexander","Parti Rhinocéros Party","Parti Rhinocéros Party",N,N,8
+10001,"Avalon","Avalon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",61,0,"Vanta","","Judy","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86

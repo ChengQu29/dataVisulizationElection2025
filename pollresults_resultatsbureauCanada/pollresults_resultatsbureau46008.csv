@@ -1,0 +1,849 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 1A","Winnipeg",N,N,"",4,266,"Agboola","","Shola","Conservative","Conservateur",N,N,28
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 1A","Winnipeg",N,N,"",4,266,"Lavack","","Ginette","Liberal","Libéral",N,Y,133
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 1A","Winnipeg",N,N,"",4,266,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 1A","Winnipeg",N,N,"",4,266,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 1B","Mobile poll/Bureau itinérant",N,N,"502",0,80,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 1B","Mobile poll/Bureau itinérant",N,N,"502",0,80,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 1B","Mobile poll/Bureau itinérant",N,N,"502",0,80,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 1B","Mobile poll/Bureau itinérant",N,N,"502",0,80,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 2","Winnipeg",N,N,"",1,399,"Agboola","","Shola","Conservative","Conservateur",N,N,23
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 2","Winnipeg",N,N,"",1,399,"Lavack","","Ginette","Liberal","Libéral",N,Y,68
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 2","Winnipeg",N,N,"",1,399,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 2","Winnipeg",N,N,"",1,399,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 3","Winnipeg",N,N,"",0,432,"Agboola","","Shola","Conservative","Conservateur",N,N,18
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 3","Winnipeg",N,N,"",0,432,"Lavack","","Ginette","Liberal","Libéral",N,Y,39
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 3","Winnipeg",N,N,"",0,432,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 3","Winnipeg",N,N,"",0,432,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 4","Winnipeg",N,N,"",0,427,"Agboola","","Shola","Conservative","Conservateur",N,N,30
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 4","Winnipeg",N,N,"",0,427,"Lavack","","Ginette","Liberal","Libéral",N,Y,77
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 4","Winnipeg",N,N,"",0,427,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 4","Winnipeg",N,N,"",0,427,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 5","Winnipeg",N,N,"",1,444,"Agboola","","Shola","Conservative","Conservateur",N,N,38
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 5","Winnipeg",N,N,"",1,444,"Lavack","","Ginette","Liberal","Libéral",N,Y,70
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 5","Winnipeg",N,N,"",1,444,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 5","Winnipeg",N,N,"",1,444,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 6A","Winnipeg",N,N,"",1,305,"Agboola","","Shola","Conservative","Conservateur",N,N,15
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 6A","Winnipeg",N,N,"",1,305,"Lavack","","Ginette","Liberal","Libéral",N,Y,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 6A","Winnipeg",N,N,"",1,305,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 6A","Winnipeg",N,N,"",1,305,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 6B","Winnipeg",N,N,"",0,315,"Agboola","","Shola","Conservative","Conservateur",N,N,29
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 6B","Winnipeg",N,N,"",0,315,"Lavack","","Ginette","Liberal","Libéral",N,Y,55
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 6B","Winnipeg",N,N,"",0,315,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 6B","Winnipeg",N,N,"",0,315,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 7","Winnipeg",N,N,"",0,394,"Agboola","","Shola","Conservative","Conservateur",N,N,33
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 7","Winnipeg",N,N,"",0,394,"Lavack","","Ginette","Liberal","Libéral",N,Y,70
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 7","Winnipeg",N,N,"",0,394,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 7","Winnipeg",N,N,"",0,394,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 8","Winnipeg",N,N,"",1,523,"Agboola","","Shola","Conservative","Conservateur",N,N,42
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 8","Winnipeg",N,N,"",1,523,"Lavack","","Ginette","Liberal","Libéral",N,Y,91
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 8","Winnipeg",N,N,"",1,523,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 8","Winnipeg",N,N,"",1,523,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 9","Winnipeg",N,N,"",0,361,"Agboola","","Shola","Conservative","Conservateur",N,N,41
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 9","Winnipeg",N,N,"",0,361,"Lavack","","Ginette","Liberal","Libéral",N,Y,54
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 9","Winnipeg",N,N,"",0,361,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 9","Winnipeg",N,N,"",0,361,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 10","Winnipeg",N,N,"",0,387,"Agboola","","Shola","Conservative","Conservateur",N,N,34
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 10","Winnipeg",N,N,"",0,387,"Lavack","","Ginette","Liberal","Libéral",N,Y,64
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 10","Winnipeg",N,N,"",0,387,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 10","Winnipeg",N,N,"",0,387,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 11","Winnipeg",N,N,"",1,420,"Agboola","","Shola","Conservative","Conservateur",N,N,38
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 11","Winnipeg",N,N,"",1,420,"Lavack","","Ginette","Liberal","Libéral",N,Y,76
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 11","Winnipeg",N,N,"",1,420,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 11","Winnipeg",N,N,"",1,420,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 12","Winnipeg",N,N,"",4,414,"Agboola","","Shola","Conservative","Conservateur",N,N,49
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 12","Winnipeg",N,N,"",4,414,"Lavack","","Ginette","Liberal","Libéral",N,Y,120
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 12","Winnipeg",N,N,"",4,414,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 12","Winnipeg",N,N,"",4,414,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 13","Winnipeg",N,N,"",0,426,"Agboola","","Shola","Conservative","Conservateur",N,N,32
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 13","Winnipeg",N,N,"",0,426,"Lavack","","Ginette","Liberal","Libéral",N,Y,112
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 13","Winnipeg",N,N,"",0,426,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 13","Winnipeg",N,N,"",0,426,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 14","Winnipeg",N,N,"",1,380,"Agboola","","Shola","Conservative","Conservateur",N,N,39
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 14","Winnipeg",N,N,"",1,380,"Lavack","","Ginette","Liberal","Libéral",N,Y,69
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 14","Winnipeg",N,N,"",1,380,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 14","Winnipeg",N,N,"",1,380,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 15","Winnipeg",N,N,"",2,442,"Agboola","","Shola","Conservative","Conservateur",N,N,63
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 15","Winnipeg",N,N,"",2,442,"Lavack","","Ginette","Liberal","Libéral",N,Y,111
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 15","Winnipeg",N,N,"",2,442,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 15","Winnipeg",N,N,"",2,442,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 16","Winnipeg",N,N,"",2,386,"Agboola","","Shola","Conservative","Conservateur",N,N,24
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 16","Winnipeg",N,N,"",2,386,"Lavack","","Ginette","Liberal","Libéral",N,Y,86
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 16","Winnipeg",N,N,"",2,386,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 16","Winnipeg",N,N,"",2,386,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 17","Winnipeg",N,N,"",0,461,"Agboola","","Shola","Conservative","Conservateur",N,N,48
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 17","Winnipeg",N,N,"",0,461,"Lavack","","Ginette","Liberal","Libéral",N,Y,89
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 17","Winnipeg",N,N,"",0,461,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 17","Winnipeg",N,N,"",0,461,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 18","Winnipeg",N,N,"",0,534,"Agboola","","Shola","Conservative","Conservateur",N,N,103
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 18","Winnipeg",N,N,"",0,534,"Lavack","","Ginette","Liberal","Libéral",N,Y,111
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 18","Winnipeg",N,N,"",0,534,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 18","Winnipeg",N,N,"",0,534,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 19","Winnipeg",N,N,"",1,444,"Agboola","","Shola","Conservative","Conservateur",N,N,60
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 19","Winnipeg",N,N,"",1,444,"Lavack","","Ginette","Liberal","Libéral",N,Y,109
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 19","Winnipeg",N,N,"",1,444,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 19","Winnipeg",N,N,"",1,444,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 20","Winnipeg",N,N,"",3,457,"Agboola","","Shola","Conservative","Conservateur",N,N,47
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 20","Winnipeg",N,N,"",3,457,"Lavack","","Ginette","Liberal","Libéral",N,Y,170
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 20","Winnipeg",N,N,"",3,457,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 20","Winnipeg",N,N,"",3,457,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 21","Winnipeg",N,N,"",0,463,"Agboola","","Shola","Conservative","Conservateur",N,N,51
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 21","Winnipeg",N,N,"",0,463,"Lavack","","Ginette","Liberal","Libéral",N,Y,136
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 21","Winnipeg",N,N,"",0,463,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 21","Winnipeg",N,N,"",0,463,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 22","Winnipeg",N,N,"",0,478,"Agboola","","Shola","Conservative","Conservateur",N,N,46
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 22","Winnipeg",N,N,"",0,478,"Lavack","","Ginette","Liberal","Libéral",N,Y,177
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 22","Winnipeg",N,N,"",0,478,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 22","Winnipeg",N,N,"",0,478,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 23","Winnipeg",N,N,"",0,464,"Agboola","","Shola","Conservative","Conservateur",N,N,39
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 23","Winnipeg",N,N,"",0,464,"Lavack","","Ginette","Liberal","Libéral",N,Y,151
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 23","Winnipeg",N,N,"",0,464,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 23","Winnipeg",N,N,"",0,464,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 24","Winnipeg",N,N,"",0,383,"Agboola","","Shola","Conservative","Conservateur",N,N,39
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 24","Winnipeg",N,N,"",0,383,"Lavack","","Ginette","Liberal","Libéral",N,Y,96
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 24","Winnipeg",N,N,"",0,383,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 24","Winnipeg",N,N,"",0,383,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 25","Winnipeg",N,N,"",0,400,"Agboola","","Shola","Conservative","Conservateur",N,N,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 25","Winnipeg",N,N,"",0,400,"Lavack","","Ginette","Liberal","Libéral",N,Y,157
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 25","Winnipeg",N,N,"",0,400,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 25","Winnipeg",N,N,"",0,400,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 26","Winnipeg",N,N,"",3,362,"Agboola","","Shola","Conservative","Conservateur",N,N,45
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 26","Winnipeg",N,N,"",3,362,"Lavack","","Ginette","Liberal","Libéral",N,Y,117
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 26","Winnipeg",N,N,"",3,362,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 26","Winnipeg",N,N,"",3,362,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 27","Winnipeg",N,N,"",1,498,"Agboola","","Shola","Conservative","Conservateur",N,N,80
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 27","Winnipeg",N,N,"",1,498,"Lavack","","Ginette","Liberal","Libéral",N,Y,113
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 27","Winnipeg",N,N,"",1,498,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 27","Winnipeg",N,N,"",1,498,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 28","Winnipeg",N,N,"",2,464,"Agboola","","Shola","Conservative","Conservateur",N,N,60
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 28","Winnipeg",N,N,"",2,464,"Lavack","","Ginette","Liberal","Libéral",N,Y,68
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 28","Winnipeg",N,N,"",2,464,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 28","Winnipeg",N,N,"",2,464,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 29","Winnipeg",N,N,"",0,479,"Agboola","","Shola","Conservative","Conservateur",N,N,58
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 29","Winnipeg",N,N,"",0,479,"Lavack","","Ginette","Liberal","Libéral",N,Y,51
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 29","Winnipeg",N,N,"",0,479,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 29","Winnipeg",N,N,"",0,479,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 30","Winnipeg",N,N,"",1,417,"Agboola","","Shola","Conservative","Conservateur",N,N,49
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 30","Winnipeg",N,N,"",1,417,"Lavack","","Ginette","Liberal","Libéral",N,Y,58
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 30","Winnipeg",N,N,"",1,417,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 30","Winnipeg",N,N,"",1,417,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 31","Winnipeg",N,N,"",0,401,"Agboola","","Shola","Conservative","Conservateur",N,N,41
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 31","Winnipeg",N,N,"",0,401,"Lavack","","Ginette","Liberal","Libéral",N,Y,54
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 31","Winnipeg",N,N,"",0,401,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 31","Winnipeg",N,N,"",0,401,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 32","Winnipeg",N,N,"",0,408,"Agboola","","Shola","Conservative","Conservateur",N,N,50
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 32","Winnipeg",N,N,"",0,408,"Lavack","","Ginette","Liberal","Libéral",N,Y,53
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 32","Winnipeg",N,N,"",0,408,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 32","Winnipeg",N,N,"",0,408,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 33","Winnipeg",N,N,"",1,383,"Agboola","","Shola","Conservative","Conservateur",N,N,36
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 33","Winnipeg",N,N,"",1,383,"Lavack","","Ginette","Liberal","Libéral",N,Y,54
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 33","Winnipeg",N,N,"",1,383,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 33","Winnipeg",N,N,"",1,383,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 34","Winnipeg",N,N,"",3,444,"Agboola","","Shola","Conservative","Conservateur",N,N,43
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 34","Winnipeg",N,N,"",3,444,"Lavack","","Ginette","Liberal","Libéral",N,Y,84
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 34","Winnipeg",N,N,"",3,444,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 34","Winnipeg",N,N,"",3,444,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 35","Winnipeg",N,N,"",0,419,"Agboola","","Shola","Conservative","Conservateur",N,N,83
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 35","Winnipeg",N,N,"",0,419,"Lavack","","Ginette","Liberal","Libéral",N,Y,140
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 35","Winnipeg",N,N,"",0,419,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 35","Winnipeg",N,N,"",0,419,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 36","Winnipeg",N,N,"",1,489,"Agboola","","Shola","Conservative","Conservateur",N,N,64
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 36","Winnipeg",N,N,"",1,489,"Lavack","","Ginette","Liberal","Libéral",N,Y,162
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 36","Winnipeg",N,N,"",1,489,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 36","Winnipeg",N,N,"",1,489,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 37","Winnipeg",N,N,"",0,423,"Agboola","","Shola","Conservative","Conservateur",N,N,76
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 37","Winnipeg",N,N,"",0,423,"Lavack","","Ginette","Liberal","Libéral",N,Y,85
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 37","Winnipeg",N,N,"",0,423,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 37","Winnipeg",N,N,"",0,423,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 38","Winnipeg",N,N,"",2,464,"Agboola","","Shola","Conservative","Conservateur",N,N,54
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 38","Winnipeg",N,N,"",2,464,"Lavack","","Ginette","Liberal","Libéral",N,Y,127
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 38","Winnipeg",N,N,"",2,464,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 38","Winnipeg",N,N,"",2,464,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 39","Winnipeg",N,N,"",0,412,"Agboola","","Shola","Conservative","Conservateur",N,N,69
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 39","Winnipeg",N,N,"",0,412,"Lavack","","Ginette","Liberal","Libéral",N,Y,96
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 39","Winnipeg",N,N,"",0,412,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 39","Winnipeg",N,N,"",0,412,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 40","Winnipeg",N,N,"",0,404,"Agboola","","Shola","Conservative","Conservateur",N,N,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 40","Winnipeg",N,N,"",0,404,"Lavack","","Ginette","Liberal","Libéral",N,Y,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 40","Winnipeg",N,N,"",0,404,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 40","Winnipeg",N,N,"",0,404,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 41","Winnipeg",N,N,"",2,416,"Agboola","","Shola","Conservative","Conservateur",N,N,67
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 41","Winnipeg",N,N,"",2,416,"Lavack","","Ginette","Liberal","Libéral",N,Y,109
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 41","Winnipeg",N,N,"",2,416,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 41","Winnipeg",N,N,"",2,416,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 42","Winnipeg",N,N,"",0,495,"Agboola","","Shola","Conservative","Conservateur",N,N,52
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 42","Winnipeg",N,N,"",0,495,"Lavack","","Ginette","Liberal","Libéral",N,Y,77
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 42","Winnipeg",N,N,"",0,495,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 42","Winnipeg",N,N,"",0,495,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 43","Winnipeg",N,N,"",2,402,"Agboola","","Shola","Conservative","Conservateur",N,N,39
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 43","Winnipeg",N,N,"",2,402,"Lavack","","Ginette","Liberal","Libéral",N,Y,77
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 43","Winnipeg",N,N,"",2,402,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 43","Winnipeg",N,N,"",2,402,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 44","Winnipeg",N,N,"",1,392,"Agboola","","Shola","Conservative","Conservateur",N,N,53
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 44","Winnipeg",N,N,"",1,392,"Lavack","","Ginette","Liberal","Libéral",N,Y,89
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 44","Winnipeg",N,N,"",1,392,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 44","Winnipeg",N,N,"",1,392,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 45","Winnipeg",N,N,"",2,369,"Agboola","","Shola","Conservative","Conservateur",N,N,50
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 45","Winnipeg",N,N,"",2,369,"Lavack","","Ginette","Liberal","Libéral",N,Y,94
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 45","Winnipeg",N,N,"",2,369,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 45","Winnipeg",N,N,"",2,369,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 46","Winnipeg",N,N,"",1,367,"Agboola","","Shola","Conservative","Conservateur",N,N,45
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 46","Winnipeg",N,N,"",1,367,"Lavack","","Ginette","Liberal","Libéral",N,Y,85
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 46","Winnipeg",N,N,"",1,367,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 46","Winnipeg",N,N,"",1,367,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 47","Winnipeg",N,N,"",0,358,"Agboola","","Shola","Conservative","Conservateur",N,N,42
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 47","Winnipeg",N,N,"",0,358,"Lavack","","Ginette","Liberal","Libéral",N,Y,69
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 47","Winnipeg",N,N,"",0,358,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 47","Winnipeg",N,N,"",0,358,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 48","Winnipeg",N,N,"",3,415,"Agboola","","Shola","Conservative","Conservateur",N,N,55
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 48","Winnipeg",N,N,"",3,415,"Lavack","","Ginette","Liberal","Libéral",N,Y,69
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 48","Winnipeg",N,N,"",3,415,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 48","Winnipeg",N,N,"",3,415,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 49","Winnipeg",N,N,"",0,498,"Agboola","","Shola","Conservative","Conservateur",N,N,62
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 49","Winnipeg",N,N,"",0,498,"Lavack","","Ginette","Liberal","Libéral",N,Y,86
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 49","Winnipeg",N,N,"",0,498,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 49","Winnipeg",N,N,"",0,498,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 50","Winnipeg",N,N,"",2,555,"Agboola","","Shola","Conservative","Conservateur",N,N,65
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 50","Winnipeg",N,N,"",2,555,"Lavack","","Ginette","Liberal","Libéral",N,Y,151
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 50","Winnipeg",N,N,"",2,555,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 50","Winnipeg",N,N,"",2,555,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 51","Winnipeg",N,N,"",2,376,"Agboola","","Shola","Conservative","Conservateur",N,N,34
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 51","Winnipeg",N,N,"",2,376,"Lavack","","Ginette","Liberal","Libéral",N,Y,73
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 51","Winnipeg",N,N,"",2,376,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 51","Winnipeg",N,N,"",2,376,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 52","Winnipeg",N,N,"",1,333,"Agboola","","Shola","Conservative","Conservateur",N,N,41
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 52","Winnipeg",N,N,"",1,333,"Lavack","","Ginette","Liberal","Libéral",N,Y,67
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 52","Winnipeg",N,N,"",1,333,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 52","Winnipeg",N,N,"",1,333,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 53A","Winnipeg",N,N,"",0,307,"Agboola","","Shola","Conservative","Conservateur",N,N,30
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 53A","Winnipeg",N,N,"",0,307,"Lavack","","Ginette","Liberal","Libéral",N,Y,55
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 53A","Winnipeg",N,N,"",0,307,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 53A","Winnipeg",N,N,"",0,307,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 53B","Mobile poll/Bureau itinérant",N,N,"",4,118,"Agboola","","Shola","Conservative","Conservateur",N,N,32
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 53B","Mobile poll/Bureau itinérant",N,N,"",4,118,"Lavack","","Ginette","Liberal","Libéral",N,Y,118
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 53B","Mobile poll/Bureau itinérant",N,N,"",4,118,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 53B","Mobile poll/Bureau itinérant",N,N,"",4,118,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 54","Winnipeg",N,N,"",0,387,"Agboola","","Shola","Conservative","Conservateur",N,N,24
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 54","Winnipeg",N,N,"",0,387,"Lavack","","Ginette","Liberal","Libéral",N,Y,63
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 54","Winnipeg",N,N,"",0,387,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 54","Winnipeg",N,N,"",0,387,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 55","Winnipeg",N,N,"",0,464,"Agboola","","Shola","Conservative","Conservateur",N,N,25
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 55","Winnipeg",N,N,"",0,464,"Lavack","","Ginette","Liberal","Libéral",N,Y,73
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 55","Winnipeg",N,N,"",0,464,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 55","Winnipeg",N,N,"",0,464,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 56","Winnipeg",N,N,"",1,364,"Agboola","","Shola","Conservative","Conservateur",N,N,19
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 56","Winnipeg",N,N,"",1,364,"Lavack","","Ginette","Liberal","Libéral",N,Y,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 56","Winnipeg",N,N,"",1,364,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 56","Winnipeg",N,N,"",1,364,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 57","Winnipeg",N,N,"",2,346,"Agboola","","Shola","Conservative","Conservateur",N,N,32
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 57","Winnipeg",N,N,"",2,346,"Lavack","","Ginette","Liberal","Libéral",N,Y,64
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 57","Winnipeg",N,N,"",2,346,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 57","Winnipeg",N,N,"",2,346,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 58","Winnipeg",N,N,"",0,479,"Agboola","","Shola","Conservative","Conservateur",N,N,55
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 58","Winnipeg",N,N,"",0,479,"Lavack","","Ginette","Liberal","Libéral",N,Y,103
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 58","Winnipeg",N,N,"",0,479,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 58","Winnipeg",N,N,"",0,479,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 59","Winnipeg",N,N,"",1,495,"Agboola","","Shola","Conservative","Conservateur",N,N,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 59","Winnipeg",N,N,"",1,495,"Lavack","","Ginette","Liberal","Libéral",N,Y,110
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 59","Winnipeg",N,N,"",1,495,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 59","Winnipeg",N,N,"",1,495,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 60","Winnipeg",N,N,"",1,501,"Agboola","","Shola","Conservative","Conservateur",N,N,97
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 60","Winnipeg",N,N,"",1,501,"Lavack","","Ginette","Liberal","Libéral",N,Y,122
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 60","Winnipeg",N,N,"",1,501,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 60","Winnipeg",N,N,"",1,501,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 61","Winnipeg",N,N,"",0,489,"Agboola","","Shola","Conservative","Conservateur",N,N,68
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 61","Winnipeg",N,N,"",0,489,"Lavack","","Ginette","Liberal","Libéral",N,Y,121
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 61","Winnipeg",N,N,"",0,489,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 61","Winnipeg",N,N,"",0,489,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 62","Winnipeg",N,N,"",0,481,"Agboola","","Shola","Conservative","Conservateur",N,N,70
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 62","Winnipeg",N,N,"",0,481,"Lavack","","Ginette","Liberal","Libéral",N,Y,80
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 62","Winnipeg",N,N,"",0,481,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 62","Winnipeg",N,N,"",0,481,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 63","Winnipeg",N,N,"",1,438,"Agboola","","Shola","Conservative","Conservateur",N,N,80
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 63","Winnipeg",N,N,"",1,438,"Lavack","","Ginette","Liberal","Libéral",N,Y,98
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 63","Winnipeg",N,N,"",1,438,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 63","Winnipeg",N,N,"",1,438,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 64","Winnipeg",N,N,"",0,577,"Agboola","","Shola","Conservative","Conservateur",N,N,88
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 64","Winnipeg",N,N,"",0,577,"Lavack","","Ginette","Liberal","Libéral",N,Y,89
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 64","Winnipeg",N,N,"",0,577,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 64","Winnipeg",N,N,"",0,577,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 65","Winnipeg",N,N,"",1,526,"Agboola","","Shola","Conservative","Conservateur",N,N,80
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 65","Winnipeg",N,N,"",1,526,"Lavack","","Ginette","Liberal","Libéral",N,Y,142
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 65","Winnipeg",N,N,"",1,526,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 65","Winnipeg",N,N,"",1,526,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 66","Winnipeg",N,N,"",0,434,"Agboola","","Shola","Conservative","Conservateur",N,N,63
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 66","Winnipeg",N,N,"",0,434,"Lavack","","Ginette","Liberal","Libéral",N,Y,78
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 66","Winnipeg",N,N,"",0,434,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 66","Winnipeg",N,N,"",0,434,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 67","Winnipeg",N,N,"",2,468,"Agboola","","Shola","Conservative","Conservateur",N,N,68
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 67","Winnipeg",N,N,"",2,468,"Lavack","","Ginette","Liberal","Libéral",N,Y,110
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 67","Winnipeg",N,N,"",2,468,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 67","Winnipeg",N,N,"",2,468,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 68","Winnipeg",N,N,"",1,445,"Agboola","","Shola","Conservative","Conservateur",N,N,89
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 68","Winnipeg",N,N,"",1,445,"Lavack","","Ginette","Liberal","Libéral",N,Y,86
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 68","Winnipeg",N,N,"",1,445,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 68","Winnipeg",N,N,"",1,445,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 69","Winnipeg",N,N,"",2,425,"Agboola","","Shola","Conservative","Conservateur",N,N,54
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 69","Winnipeg",N,N,"",2,425,"Lavack","","Ginette","Liberal","Libéral",N,Y,92
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 69","Winnipeg",N,N,"",2,425,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 69","Winnipeg",N,N,"",2,425,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 70","Winnipeg",N,N,"",0,557,"Agboola","","Shola","Conservative","Conservateur",N,N,99
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 70","Winnipeg",N,N,"",0,557,"Lavack","","Ginette","Liberal","Libéral",N,Y,117
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 70","Winnipeg",N,N,"",0,557,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 70","Winnipeg",N,N,"",0,557,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 71","Winnipeg",N,N,"",2,382,"Agboola","","Shola","Conservative","Conservateur",N,N,49
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 71","Winnipeg",N,N,"",2,382,"Lavack","","Ginette","Liberal","Libéral",N,Y,93
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 71","Winnipeg",N,N,"",2,382,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 71","Winnipeg",N,N,"",2,382,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 72","Winnipeg",N,N,"",0,546,"Agboola","","Shola","Conservative","Conservateur",N,N,65
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 72","Winnipeg",N,N,"",0,546,"Lavack","","Ginette","Liberal","Libéral",N,Y,89
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 72","Winnipeg",N,N,"",0,546,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 72","Winnipeg",N,N,"",0,546,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 73","Winnipeg",N,N,"",2,403,"Agboola","","Shola","Conservative","Conservateur",N,N,35
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 73","Winnipeg",N,N,"",2,403,"Lavack","","Ginette","Liberal","Libéral",N,Y,58
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 73","Winnipeg",N,N,"",2,403,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 73","Winnipeg",N,N,"",2,403,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 74","Winnipeg",N,N,"",1,438,"Agboola","","Shola","Conservative","Conservateur",N,N,46
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 74","Winnipeg",N,N,"",1,438,"Lavack","","Ginette","Liberal","Libéral",N,Y,59
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 74","Winnipeg",N,N,"",1,438,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 74","Winnipeg",N,N,"",1,438,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 75","Winnipeg",N,N,"",1,450,"Agboola","","Shola","Conservative","Conservateur",N,N,43
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 75","Winnipeg",N,N,"",1,450,"Lavack","","Ginette","Liberal","Libéral",N,Y,110
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 75","Winnipeg",N,N,"",1,450,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 75","Winnipeg",N,N,"",1,450,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 76","Winnipeg",N,N,"",1,507,"Agboola","","Shola","Conservative","Conservateur",N,N,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 76","Winnipeg",N,N,"",1,507,"Lavack","","Ginette","Liberal","Libéral",N,Y,84
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 76","Winnipeg",N,N,"",1,507,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 76","Winnipeg",N,N,"",1,507,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 77","Winnipeg",N,N,"",0,415,"Agboola","","Shola","Conservative","Conservateur",N,N,60
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 77","Winnipeg",N,N,"",0,415,"Lavack","","Ginette","Liberal","Libéral",N,Y,95
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 77","Winnipeg",N,N,"",0,415,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 77","Winnipeg",N,N,"",0,415,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 78","Winnipeg",N,N,"",1,463,"Agboola","","Shola","Conservative","Conservateur",N,N,66
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 78","Winnipeg",N,N,"",1,463,"Lavack","","Ginette","Liberal","Libéral",N,Y,71
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 78","Winnipeg",N,N,"",1,463,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 78","Winnipeg",N,N,"",1,463,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 79","Winnipeg",N,N,"",0,440,"Agboola","","Shola","Conservative","Conservateur",N,N,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 79","Winnipeg",N,N,"",0,440,"Lavack","","Ginette","Liberal","Libéral",N,Y,82
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 79","Winnipeg",N,N,"",0,440,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 79","Winnipeg",N,N,"",0,440,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 80","Winnipeg",N,N,"",1,465,"Agboola","","Shola","Conservative","Conservateur",N,N,68
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 80","Winnipeg",N,N,"",1,465,"Lavack","","Ginette","Liberal","Libéral",N,Y,131
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 80","Winnipeg",N,N,"",1,465,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 80","Winnipeg",N,N,"",1,465,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 81","Winnipeg",N,N,"",1,550,"Agboola","","Shola","Conservative","Conservateur",N,N,81
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 81","Winnipeg",N,N,"",1,550,"Lavack","","Ginette","Liberal","Libéral",N,Y,123
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 81","Winnipeg",N,N,"",1,550,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 81","Winnipeg",N,N,"",1,550,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 82","Winnipeg",N,N,"",0,410,"Agboola","","Shola","Conservative","Conservateur",N,N,77
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 82","Winnipeg",N,N,"",0,410,"Lavack","","Ginette","Liberal","Libéral",N,Y,95
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 82","Winnipeg",N,N,"",0,410,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 82","Winnipeg",N,N,"",0,410,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 83","Winnipeg",N,N,"",2,434,"Agboola","","Shola","Conservative","Conservateur",N,N,71
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 83","Winnipeg",N,N,"",2,434,"Lavack","","Ginette","Liberal","Libéral",N,Y,77
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 83","Winnipeg",N,N,"",2,434,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 83","Winnipeg",N,N,"",2,434,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 84","Winnipeg",N,N,"",2,424,"Agboola","","Shola","Conservative","Conservateur",N,N,72
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 84","Winnipeg",N,N,"",2,424,"Lavack","","Ginette","Liberal","Libéral",N,Y,107
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 84","Winnipeg",N,N,"",2,424,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 84","Winnipeg",N,N,"",2,424,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85A","Winnipeg",N,N,"86",0,31,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85A","Winnipeg",N,N,"86",0,31,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85A","Winnipeg",N,N,"86",0,31,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85A","Winnipeg",N,N,"86",0,31,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85B","Winnipeg",N,N,"",1,234,"Agboola","","Shola","Conservative","Conservateur",N,N,70
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85B","Winnipeg",N,N,"",1,234,"Lavack","","Ginette","Liberal","Libéral",N,Y,140
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85B","Winnipeg",N,N,"",1,234,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85B","Winnipeg",N,N,"",1,234,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85C","Mobile poll/Bureau itinérant",N,N,"",0,108,"Agboola","","Shola","Conservative","Conservateur",N,N,55
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85C","Mobile poll/Bureau itinérant",N,N,"",0,108,"Lavack","","Ginette","Liberal","Libéral",N,Y,58
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85C","Mobile poll/Bureau itinérant",N,N,"",0,108,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 85C","Mobile poll/Bureau itinérant",N,N,"",0,108,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,8
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 86","Winnipeg",N,N,"",2,483,"Agboola","","Shola","Conservative","Conservateur",N,N,46
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 86","Winnipeg",N,N,"",2,483,"Lavack","","Ginette","Liberal","Libéral",N,Y,60
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 86","Winnipeg",N,N,"",2,483,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 86","Winnipeg",N,N,"",2,483,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 87","Winnipeg",N,N,"",1,421,"Agboola","","Shola","Conservative","Conservateur",N,N,33
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 87","Winnipeg",N,N,"",1,421,"Lavack","","Ginette","Liberal","Libéral",N,Y,44
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 87","Winnipeg",N,N,"",1,421,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 87","Winnipeg",N,N,"",1,421,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 88","Winnipeg",N,N,"",0,380,"Agboola","","Shola","Conservative","Conservateur",N,N,62
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 88","Winnipeg",N,N,"",0,380,"Lavack","","Ginette","Liberal","Libéral",N,Y,64
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 88","Winnipeg",N,N,"",0,380,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 88","Winnipeg",N,N,"",0,380,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 89","Winnipeg",N,N,"",0,431,"Agboola","","Shola","Conservative","Conservateur",N,N,51
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 89","Winnipeg",N,N,"",0,431,"Lavack","","Ginette","Liberal","Libéral",N,Y,46
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 89","Winnipeg",N,N,"",0,431,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 89","Winnipeg",N,N,"",0,431,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 90","Winnipeg",N,N,"",0,468,"Agboola","","Shola","Conservative","Conservateur",N,N,81
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 90","Winnipeg",N,N,"",0,468,"Lavack","","Ginette","Liberal","Libéral",N,Y,96
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 90","Winnipeg",N,N,"",0,468,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 90","Winnipeg",N,N,"",0,468,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 91","Winnipeg",N,N,"",0,433,"Agboola","","Shola","Conservative","Conservateur",N,N,73
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 91","Winnipeg",N,N,"",0,433,"Lavack","","Ginette","Liberal","Libéral",N,Y,110
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 91","Winnipeg",N,N,"",0,433,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 91","Winnipeg",N,N,"",0,433,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 92","Winnipeg",N,N,"",2,470,"Agboola","","Shola","Conservative","Conservateur",N,N,52
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 92","Winnipeg",N,N,"",2,470,"Lavack","","Ginette","Liberal","Libéral",N,Y,138
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 92","Winnipeg",N,N,"",2,470,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 92","Winnipeg",N,N,"",2,470,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 93","Winnipeg",N,N,"",1,404,"Agboola","","Shola","Conservative","Conservateur",N,N,75
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 93","Winnipeg",N,N,"",1,404,"Lavack","","Ginette","Liberal","Libéral",N,Y,92
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 93","Winnipeg",N,N,"",1,404,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 93","Winnipeg",N,N,"",1,404,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 94","Winnipeg",N,N,"",0,475,"Agboola","","Shola","Conservative","Conservateur",N,N,83
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 94","Winnipeg",N,N,"",0,475,"Lavack","","Ginette","Liberal","Libéral",N,Y,117
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 94","Winnipeg",N,N,"",0,475,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 94","Winnipeg",N,N,"",0,475,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 95","Winnipeg",N,N,"",2,550,"Agboola","","Shola","Conservative","Conservateur",N,N,65
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 95","Winnipeg",N,N,"",2,550,"Lavack","","Ginette","Liberal","Libéral",N,Y,120
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 95","Winnipeg",N,N,"",2,550,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 95","Winnipeg",N,N,"",2,550,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 96","Winnipeg",N,N,"",4,470,"Agboola","","Shola","Conservative","Conservateur",N,N,78
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 96","Winnipeg",N,N,"",4,470,"Lavack","","Ginette","Liberal","Libéral",N,Y,113
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 96","Winnipeg",N,N,"",4,470,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 96","Winnipeg",N,N,"",4,470,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 97","Winnipeg",N,N,"",0,383,"Agboola","","Shola","Conservative","Conservateur",N,N,36
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 97","Winnipeg",N,N,"",0,383,"Lavack","","Ginette","Liberal","Libéral",N,Y,71
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 97","Winnipeg",N,N,"",0,383,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 97","Winnipeg",N,N,"",0,383,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 98","Winnipeg",N,N,"",0,463,"Agboola","","Shola","Conservative","Conservateur",N,N,45
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 98","Winnipeg",N,N,"",0,463,"Lavack","","Ginette","Liberal","Libéral",N,Y,90
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 98","Winnipeg",N,N,"",0,463,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 98","Winnipeg",N,N,"",0,463,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 99","Winnipeg",N,N,"",5,386,"Agboola","","Shola","Conservative","Conservateur",N,N,56
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 99","Winnipeg",N,N,"",5,386,"Lavack","","Ginette","Liberal","Libéral",N,Y,93
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 99","Winnipeg",N,N,"",5,386,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 99","Winnipeg",N,N,"",5,386,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 100","Winnipeg",N,N,"",2,506,"Agboola","","Shola","Conservative","Conservateur",N,N,73
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 100","Winnipeg",N,N,"",2,506,"Lavack","","Ginette","Liberal","Libéral",N,Y,134
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 100","Winnipeg",N,N,"",2,506,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 100","Winnipeg",N,N,"",2,506,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 101","Winnipeg",N,N,"",0,471,"Agboola","","Shola","Conservative","Conservateur",N,N,66
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 101","Winnipeg",N,N,"",0,471,"Lavack","","Ginette","Liberal","Libéral",N,Y,117
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 101","Winnipeg",N,N,"",0,471,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 101","Winnipeg",N,N,"",0,471,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 102","Winnipeg",N,N,"",2,423,"Agboola","","Shola","Conservative","Conservateur",N,N,59
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 102","Winnipeg",N,N,"",2,423,"Lavack","","Ginette","Liberal","Libéral",N,Y,73
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 102","Winnipeg",N,N,"",2,423,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 102","Winnipeg",N,N,"",2,423,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103A","Winnipeg",N,N,"",1,311,"Agboola","","Shola","Conservative","Conservateur",N,N,44
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103A","Winnipeg",N,N,"",1,311,"Lavack","","Ginette","Liberal","Libéral",N,Y,36
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103A","Winnipeg",N,N,"",1,311,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103A","Winnipeg",N,N,"",1,311,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103B","Mobile poll/Bureau itinérant",N,N,"",2,150,"Agboola","","Shola","Conservative","Conservateur",N,N,21
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103B","Mobile poll/Bureau itinérant",N,N,"",2,150,"Lavack","","Ginette","Liberal","Libéral",N,Y,51
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103B","Mobile poll/Bureau itinérant",N,N,"",2,150,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103B","Mobile poll/Bureau itinérant",N,N,"",2,150,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103C","Mobile poll/Bureau itinérant",N,N,"103B",0,37,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103C","Mobile poll/Bureau itinérant",N,N,"103B",0,37,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103C","Mobile poll/Bureau itinérant",N,N,"103B",0,37,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 103C","Mobile poll/Bureau itinérant",N,N,"103B",0,37,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 104","Winnipeg",N,N,"",0,376,"Agboola","","Shola","Conservative","Conservateur",N,N,46
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 104","Winnipeg",N,N,"",0,376,"Lavack","","Ginette","Liberal","Libéral",N,Y,74
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 104","Winnipeg",N,N,"",0,376,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 104","Winnipeg",N,N,"",0,376,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 105","Winnipeg",N,N,"",2,511,"Agboola","","Shola","Conservative","Conservateur",N,N,80
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 105","Winnipeg",N,N,"",2,511,"Lavack","","Ginette","Liberal","Libéral",N,Y,75
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 105","Winnipeg",N,N,"",2,511,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 105","Winnipeg",N,N,"",2,511,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 106","Winnipeg",N,N,"",0,423,"Agboola","","Shola","Conservative","Conservateur",N,N,94
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 106","Winnipeg",N,N,"",0,423,"Lavack","","Ginette","Liberal","Libéral",N,Y,79
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 106","Winnipeg",N,N,"",0,423,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 106","Winnipeg",N,N,"",0,423,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 107","Winnipeg",N,N,"",1,361,"Agboola","","Shola","Conservative","Conservateur",N,N,42
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 107","Winnipeg",N,N,"",1,361,"Lavack","","Ginette","Liberal","Libéral",N,Y,61
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 107","Winnipeg",N,N,"",1,361,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 107","Winnipeg",N,N,"",1,361,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 108","Winnipeg",N,N,"",0,480,"Agboola","","Shola","Conservative","Conservateur",N,N,50
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 108","Winnipeg",N,N,"",0,480,"Lavack","","Ginette","Liberal","Libéral",N,Y,77
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 108","Winnipeg",N,N,"",0,480,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 108","Winnipeg",N,N,"",0,480,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 109","Winnipeg",N,N,"",1,270,"Agboola","","Shola","Conservative","Conservateur",N,N,35
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 109","Winnipeg",N,N,"",1,270,"Lavack","","Ginette","Liberal","Libéral",N,Y,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 109","Winnipeg",N,N,"",1,270,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 109","Winnipeg",N,N,"",1,270,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 110","Winnipeg",N,N,"",0,474,"Agboola","","Shola","Conservative","Conservateur",N,N,35
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 110","Winnipeg",N,N,"",0,474,"Lavack","","Ginette","Liberal","Libéral",N,Y,92
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 110","Winnipeg",N,N,"",0,474,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 110","Winnipeg",N,N,"",0,474,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 111","Winnipeg",N,N,"",1,303,"Agboola","","Shola","Conservative","Conservateur",N,N,44
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 111","Winnipeg",N,N,"",1,303,"Lavack","","Ginette","Liberal","Libéral",N,Y,72
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 111","Winnipeg",N,N,"",1,303,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 111","Winnipeg",N,N,"",1,303,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 112","Winnipeg",N,N,"",0,399,"Agboola","","Shola","Conservative","Conservateur",N,N,60
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 112","Winnipeg",N,N,"",0,399,"Lavack","","Ginette","Liberal","Libéral",N,Y,80
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 112","Winnipeg",N,N,"",0,399,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 112","Winnipeg",N,N,"",0,399,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 113","Winnipeg",N,N,"",1,407,"Agboola","","Shola","Conservative","Conservateur",N,N,62
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 113","Winnipeg",N,N,"",1,407,"Lavack","","Ginette","Liberal","Libéral",N,Y,59
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 113","Winnipeg",N,N,"",1,407,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 113","Winnipeg",N,N,"",1,407,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114A","Winnipeg",N,N,"",0,251,"Agboola","","Shola","Conservative","Conservateur",N,N,54
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114A","Winnipeg",N,N,"",0,251,"Lavack","","Ginette","Liberal","Libéral",N,Y,85
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114A","Winnipeg",N,N,"",0,251,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114A","Winnipeg",N,N,"",0,251,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114B","Mobile poll/Bureau itinérant",N,N,"53B",0,67,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114B","Mobile poll/Bureau itinérant",N,N,"53B",0,67,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114B","Mobile poll/Bureau itinérant",N,N,"53B",0,67,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114B","Mobile poll/Bureau itinérant",N,N,"53B",0,67,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114C","Mobile poll/Bureau itinérant",N,N,"53B",0,48,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114C","Mobile poll/Bureau itinérant",N,N,"53B",0,48,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114C","Mobile poll/Bureau itinérant",N,N,"53B",0,48,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 114C","Mobile poll/Bureau itinérant",N,N,"53B",0,48,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 115","Winnipeg",N,N,"",2,357,"Agboola","","Shola","Conservative","Conservateur",N,N,71
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 115","Winnipeg",N,N,"",2,357,"Lavack","","Ginette","Liberal","Libéral",N,Y,63
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 115","Winnipeg",N,N,"",2,357,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 115","Winnipeg",N,N,"",2,357,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 116","Winnipeg",N,N,"",1,547,"Agboola","","Shola","Conservative","Conservateur",N,N,64
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 116","Winnipeg",N,N,"",1,547,"Lavack","","Ginette","Liberal","Libéral",N,Y,120
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 116","Winnipeg",N,N,"",1,547,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 116","Winnipeg",N,N,"",1,547,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 117","Winnipeg",N,N,"",1,493,"Agboola","","Shola","Conservative","Conservateur",N,N,60
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 117","Winnipeg",N,N,"",1,493,"Lavack","","Ginette","Liberal","Libéral",N,Y,127
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 117","Winnipeg",N,N,"",1,493,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 117","Winnipeg",N,N,"",1,493,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 118","Winnipeg",N,N,"",3,498,"Agboola","","Shola","Conservative","Conservateur",N,N,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 118","Winnipeg",N,N,"",3,498,"Lavack","","Ginette","Liberal","Libéral",N,Y,133
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 118","Winnipeg",N,N,"",3,498,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 118","Winnipeg",N,N,"",3,498,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 119","Winnipeg",N,N,"",0,474,"Agboola","","Shola","Conservative","Conservateur",N,N,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 119","Winnipeg",N,N,"",0,474,"Lavack","","Ginette","Liberal","Libéral",N,Y,89
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 119","Winnipeg",N,N,"",0,474,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 119","Winnipeg",N,N,"",0,474,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 120","Winnipeg",N,N,"",1,518,"Agboola","","Shola","Conservative","Conservateur",N,N,79
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 120","Winnipeg",N,N,"",1,518,"Lavack","","Ginette","Liberal","Libéral",N,Y,119
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 120","Winnipeg",N,N,"",1,518,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 120","Winnipeg",N,N,"",1,518,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 121A","Winnipeg",N,N,"",0,354,"Agboola","","Shola","Conservative","Conservateur",N,N,41
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 121A","Winnipeg",N,N,"",0,354,"Lavack","","Ginette","Liberal","Libéral",N,Y,57
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 121A","Winnipeg",N,N,"",0,354,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 121A","Winnipeg",N,N,"",0,354,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 121B","Mobile poll/Bureau itinérant",N,N,"85C",0,90,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 121B","Mobile poll/Bureau itinérant",N,N,"85C",0,90,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 121B","Mobile poll/Bureau itinérant",N,N,"85C",0,90,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 121B","Mobile poll/Bureau itinérant",N,N,"85C",0,90,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 122","Winnipeg",N,N,"",0,410,"Agboola","","Shola","Conservative","Conservateur",N,N,43
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 122","Winnipeg",N,N,"",0,410,"Lavack","","Ginette","Liberal","Libéral",N,Y,75
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 122","Winnipeg",N,N,"",0,410,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 122","Winnipeg",N,N,"",0,410,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 123","Winnipeg",N,N,"",1,415,"Agboola","","Shola","Conservative","Conservateur",N,N,34
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 123","Winnipeg",N,N,"",1,415,"Lavack","","Ginette","Liberal","Libéral",N,Y,52
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 123","Winnipeg",N,N,"",1,415,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 123","Winnipeg",N,N,"",1,415,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 124","Winnipeg",N,N,"",0,429,"Agboola","","Shola","Conservative","Conservateur",N,N,76
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 124","Winnipeg",N,N,"",0,429,"Lavack","","Ginette","Liberal","Libéral",N,Y,64
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 124","Winnipeg",N,N,"",0,429,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 124","Winnipeg",N,N,"",0,429,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 125","Winnipeg",N,N,"",0,517,"Agboola","","Shola","Conservative","Conservateur",N,N,89
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 125","Winnipeg",N,N,"",0,517,"Lavack","","Ginette","Liberal","Libéral",N,Y,73
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 125","Winnipeg",N,N,"",0,517,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 125","Winnipeg",N,N,"",0,517,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 126","Winnipeg",N,N,"",0,444,"Agboola","","Shola","Conservative","Conservateur",N,N,72
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 126","Winnipeg",N,N,"",0,444,"Lavack","","Ginette","Liberal","Libéral",N,Y,77
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 126","Winnipeg",N,N,"",0,444,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 126","Winnipeg",N,N,"",0,444,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 127A","Winnipeg",N,N,"",0,345,"Agboola","","Shola","Conservative","Conservateur",N,N,69
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 127A","Winnipeg",N,N,"",0,345,"Lavack","","Ginette","Liberal","Libéral",N,Y,63
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 127A","Winnipeg",N,N,"",0,345,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 127A","Winnipeg",N,N,"",0,345,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 127B","Winnipeg",N,N,"",1,353,"Agboola","","Shola","Conservative","Conservateur",N,N,62
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 127B","Winnipeg",N,N,"",1,353,"Lavack","","Ginette","Liberal","Libéral",N,Y,77
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 127B","Winnipeg",N,N,"",1,353,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 127B","Winnipeg",N,N,"",1,353,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 128","Winnipeg",N,N,"",1,419,"Agboola","","Shola","Conservative","Conservateur",N,N,84
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 128","Winnipeg",N,N,"",1,419,"Lavack","","Ginette","Liberal","Libéral",N,Y,107
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 128","Winnipeg",N,N,"",1,419,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 128","Winnipeg",N,N,"",1,419,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 129","Winnipeg",N,N,"",0,223,"Agboola","","Shola","Conservative","Conservateur",N,N,26
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 129","Winnipeg",N,N,"",0,223,"Lavack","","Ginette","Liberal","Libéral",N,Y,42
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 129","Winnipeg",N,N,"",0,223,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 129","Winnipeg",N,N,"",0,223,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 130","Winnipeg",N,N,"",0,516,"Agboola","","Shola","Conservative","Conservateur",N,N,82
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 130","Winnipeg",N,N,"",0,516,"Lavack","","Ginette","Liberal","Libéral",N,Y,109
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 130","Winnipeg",N,N,"",0,516,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 130","Winnipeg",N,N,"",0,516,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 131","Winnipeg",N,N,"",0,362,"Agboola","","Shola","Conservative","Conservateur",N,N,65
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 131","Winnipeg",N,N,"",0,362,"Lavack","","Ginette","Liberal","Libéral",N,Y,90
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 131","Winnipeg",N,N,"",0,362,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 131","Winnipeg",N,N,"",0,362,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 132","Winnipeg",N,N,"",0,384,"Agboola","","Shola","Conservative","Conservateur",N,N,81
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 132","Winnipeg",N,N,"",0,384,"Lavack","","Ginette","Liberal","Libéral",N,Y,99
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 132","Winnipeg",N,N,"",0,384,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 132","Winnipeg",N,N,"",0,384,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 133","Winnipeg",N,N,"",6,420,"Agboola","","Shola","Conservative","Conservateur",N,N,85
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 133","Winnipeg",N,N,"",6,420,"Lavack","","Ginette","Liberal","Libéral",N,Y,120
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 133","Winnipeg",N,N,"",6,420,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 133","Winnipeg",N,N,"",6,420,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 134","Winnipeg",N,N,"",0,409,"Agboola","","Shola","Conservative","Conservateur",N,N,78
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 134","Winnipeg",N,N,"",0,409,"Lavack","","Ginette","Liberal","Libéral",N,Y,92
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 134","Winnipeg",N,N,"",0,409,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 134","Winnipeg",N,N,"",0,409,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 135","Winnipeg",N,N,"",0,371,"Agboola","","Shola","Conservative","Conservateur",N,N,75
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 135","Winnipeg",N,N,"",0,371,"Lavack","","Ginette","Liberal","Libéral",N,Y,105
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 135","Winnipeg",N,N,"",0,371,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 135","Winnipeg",N,N,"",0,371,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 136","Winnipeg",N,N,"",1,394,"Agboola","","Shola","Conservative","Conservateur",N,N,95
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 136","Winnipeg",N,N,"",1,394,"Lavack","","Ginette","Liberal","Libéral",N,Y,82
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 136","Winnipeg",N,N,"",1,394,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 136","Winnipeg",N,N,"",1,394,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 137","Winnipeg",N,N,"",7,395,"Agboola","","Shola","Conservative","Conservateur",N,N,62
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 137","Winnipeg",N,N,"",7,395,"Lavack","","Ginette","Liberal","Libéral",N,Y,68
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 137","Winnipeg",N,N,"",7,395,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 137","Winnipeg",N,N,"",7,395,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 138","Winnipeg",N,N,"",1,381,"Agboola","","Shola","Conservative","Conservateur",N,N,91
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 138","Winnipeg",N,N,"",1,381,"Lavack","","Ginette","Liberal","Libéral",N,Y,91
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 138","Winnipeg",N,N,"",1,381,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 138","Winnipeg",N,N,"",1,381,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 139","Winnipeg",N,N,"",0,498,"Agboola","","Shola","Conservative","Conservateur",N,N,87
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 139","Winnipeg",N,N,"",0,498,"Lavack","","Ginette","Liberal","Libéral",N,Y,103
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 139","Winnipeg",N,N,"",0,498,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 139","Winnipeg",N,N,"",0,498,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 140","Winnipeg",N,N,"",1,410,"Agboola","","Shola","Conservative","Conservateur",N,N,76
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 140","Winnipeg",N,N,"",1,410,"Lavack","","Ginette","Liberal","Libéral",N,Y,99
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 140","Winnipeg",N,N,"",1,410,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 140","Winnipeg",N,N,"",1,410,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 141","Winnipeg",N,N,"",1,560,"Agboola","","Shola","Conservative","Conservateur",N,N,97
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 141","Winnipeg",N,N,"",1,560,"Lavack","","Ginette","Liberal","Libéral",N,Y,130
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 141","Winnipeg",N,N,"",1,560,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 141","Winnipeg",N,N,"",1,560,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 142","Winnipeg",N,N,"",4,463,"Agboola","","Shola","Conservative","Conservateur",N,N,85
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 142","Winnipeg",N,N,"",4,463,"Lavack","","Ginette","Liberal","Libéral",N,Y,89
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 142","Winnipeg",N,N,"",4,463,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 142","Winnipeg",N,N,"",4,463,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 143","Winnipeg",N,N,"",1,426,"Agboola","","Shola","Conservative","Conservateur",N,N,68
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 143","Winnipeg",N,N,"",1,426,"Lavack","","Ginette","Liberal","Libéral",N,Y,101
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 143","Winnipeg",N,N,"",1,426,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 143","Winnipeg",N,N,"",1,426,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 144","Winnipeg",N,N,"",0,331,"Agboola","","Shola","Conservative","Conservateur",N,N,47
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 144","Winnipeg",N,N,"",0,331,"Lavack","","Ginette","Liberal","Libéral",N,Y,63
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 144","Winnipeg",N,N,"",0,331,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 144","Winnipeg",N,N,"",0,331,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 145","Winnipeg",N,N,"",0,376,"Agboola","","Shola","Conservative","Conservateur",N,N,87
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 145","Winnipeg",N,N,"",0,376,"Lavack","","Ginette","Liberal","Libéral",N,Y,69
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 145","Winnipeg",N,N,"",0,376,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 145","Winnipeg",N,N,"",0,376,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 146","Winnipeg",N,N,"",1,468,"Agboola","","Shola","Conservative","Conservateur",N,N,105
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 146","Winnipeg",N,N,"",1,468,"Lavack","","Ginette","Liberal","Libéral",N,Y,101
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 146","Winnipeg",N,N,"",1,468,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 146","Winnipeg",N,N,"",1,468,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 147A","Winnipeg",N,N,"",0,287,"Agboola","","Shola","Conservative","Conservateur",N,N,61
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 147A","Winnipeg",N,N,"",0,287,"Lavack","","Ginette","Liberal","Libéral",N,Y,47
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 147A","Winnipeg",N,N,"",0,287,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 147A","Winnipeg",N,N,"",0,287,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 147B","Winnipeg",N,N,"",0,372,"Agboola","","Shola","Conservative","Conservateur",N,N,89
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 147B","Winnipeg",N,N,"",0,372,"Lavack","","Ginette","Liberal","Libéral",N,Y,58
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 147B","Winnipeg",N,N,"",0,372,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 147B","Winnipeg",N,N,"",0,372,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 148","Winnipeg",N,N,"",2,456,"Agboola","","Shola","Conservative","Conservateur",N,N,86
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 148","Winnipeg",N,N,"",2,456,"Lavack","","Ginette","Liberal","Libéral",N,Y,89
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 148","Winnipeg",N,N,"",2,456,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 148","Winnipeg",N,N,"",2,456,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 149A","Winnipeg",N,N,"",2,451,"Agboola","","Shola","Conservative","Conservateur",N,N,103
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 149A","Winnipeg",N,N,"",2,451,"Lavack","","Ginette","Liberal","Libéral",N,Y,80
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 149A","Winnipeg",N,N,"",2,451,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 149A","Winnipeg",N,N,"",2,451,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 149B","Winnipeg",N,N,"",0,465,"Agboola","","Shola","Conservative","Conservateur",N,N,99
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 149B","Winnipeg",N,N,"",0,465,"Lavack","","Ginette","Liberal","Libéral",N,Y,107
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 149B","Winnipeg",N,N,"",0,465,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 149B","Winnipeg",N,N,"",0,465,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 150A","Winnipeg",N,N,"",4,395,"Agboola","","Shola","Conservative","Conservateur",N,N,70
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 150A","Winnipeg",N,N,"",4,395,"Lavack","","Ginette","Liberal","Libéral",N,Y,71
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 150A","Winnipeg",N,N,"",4,395,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 150A","Winnipeg",N,N,"",4,395,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 150B","Winnipeg",N,N,"",7,406,"Agboola","","Shola","Conservative","Conservateur",N,N,62
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 150B","Winnipeg",N,N,"",7,406,"Lavack","","Ginette","Liberal","Libéral",N,Y,85
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 150B","Winnipeg",N,N,"",7,406,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 150B","Winnipeg",N,N,"",7,406,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 151","Winnipeg",N,N,"",2,355,"Agboola","","Shola","Conservative","Conservateur",N,N,45
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 151","Winnipeg",N,N,"",2,355,"Lavack","","Ginette","Liberal","Libéral",N,Y,70
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 151","Winnipeg",N,N,"",2,355,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 151","Winnipeg",N,N,"",2,355,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 152","Winnipeg",N,N,"",0,404,"Agboola","","Shola","Conservative","Conservateur",N,N,67
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 152","Winnipeg",N,N,"",0,404,"Lavack","","Ginette","Liberal","Libéral",N,Y,110
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 152","Winnipeg",N,N,"",0,404,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 152","Winnipeg",N,N,"",0,404,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 153","Winnipeg",N,N,"",0,381,"Agboola","","Shola","Conservative","Conservateur",N,N,82
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 153","Winnipeg",N,N,"",0,381,"Lavack","","Ginette","Liberal","Libéral",N,Y,104
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 153","Winnipeg",N,N,"",0,381,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 153","Winnipeg",N,N,"",0,381,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 154","Winnipeg",N,N,"",0,384,"Agboola","","Shola","Conservative","Conservateur",N,N,45
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 154","Winnipeg",N,N,"",0,384,"Lavack","","Ginette","Liberal","Libéral",N,Y,128
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 154","Winnipeg",N,N,"",0,384,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 154","Winnipeg",N,N,"",0,384,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 155","Winnipeg",N,N,"",2,390,"Agboola","","Shola","Conservative","Conservateur",N,N,59
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 155","Winnipeg",N,N,"",2,390,"Lavack","","Ginette","Liberal","Libéral",N,Y,124
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 155","Winnipeg",N,N,"",2,390,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 155","Winnipeg",N,N,"",2,390,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 156","Winnipeg",N,N,"",0,514,"Agboola","","Shola","Conservative","Conservateur",N,N,86
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 156","Winnipeg",N,N,"",0,514,"Lavack","","Ginette","Liberal","Libéral",N,Y,162
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 156","Winnipeg",N,N,"",0,514,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 156","Winnipeg",N,N,"",0,514,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 157","Winnipeg",N,N,"",1,588,"Agboola","","Shola","Conservative","Conservateur",N,N,75
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 157","Winnipeg",N,N,"",1,588,"Lavack","","Ginette","Liberal","Libéral",N,Y,144
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 157","Winnipeg",N,N,"",1,588,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 157","Winnipeg",N,N,"",1,588,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 158","Winnipeg",N,N,"",1,524,"Agboola","","Shola","Conservative","Conservateur",N,N,89
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 158","Winnipeg",N,N,"",1,524,"Lavack","","Ginette","Liberal","Libéral",N,Y,135
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 158","Winnipeg",N,N,"",1,524,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 158","Winnipeg",N,N,"",1,524,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 159","Winnipeg",N,N,"",1,402,"Agboola","","Shola","Conservative","Conservateur",N,N,25
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 159","Winnipeg",N,N,"",1,402,"Lavack","","Ginette","Liberal","Libéral",N,Y,83
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 159","Winnipeg",N,N,"",1,402,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 159","Winnipeg",N,N,"",1,402,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 160","Winnipeg",N,N,"",0,435,"Agboola","","Shola","Conservative","Conservateur",N,N,68
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 160","Winnipeg",N,N,"",0,435,"Lavack","","Ginette","Liberal","Libéral",N,Y,95
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 160","Winnipeg",N,N,"",0,435,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 160","Winnipeg",N,N,"",0,435,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 161","Winnipeg",N,N,"",1,404,"Agboola","","Shola","Conservative","Conservateur",N,N,34
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 161","Winnipeg",N,N,"",1,404,"Lavack","","Ginette","Liberal","Libéral",N,Y,55
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 161","Winnipeg",N,N,"",1,404,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 161","Winnipeg",N,N,"",1,404,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 162","Winnipeg",N,N,"",0,480,"Agboola","","Shola","Conservative","Conservateur",N,N,53
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 162","Winnipeg",N,N,"",0,480,"Lavack","","Ginette","Liberal","Libéral",N,Y,58
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 162","Winnipeg",N,N,"",0,480,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 162","Winnipeg",N,N,"",0,480,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,2
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 163","Winnipeg",N,N,"",2,457,"Agboola","","Shola","Conservative","Conservateur",N,N,39
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 163","Winnipeg",N,N,"",2,457,"Lavack","","Ginette","Liberal","Libéral",N,Y,70
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 163","Winnipeg",N,N,"",2,457,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 163","Winnipeg",N,N,"",2,457,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 164","Winnipeg",N,N,"",1,394,"Agboola","","Shola","Conservative","Conservateur",N,N,48
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 164","Winnipeg",N,N,"",1,394,"Lavack","","Ginette","Liberal","Libéral",N,Y,52
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 164","Winnipeg",N,N,"",1,394,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 164","Winnipeg",N,N,"",1,394,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 165","Winnipeg",N,N,"",2,560,"Agboola","","Shola","Conservative","Conservateur",N,N,127
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 165","Winnipeg",N,N,"",2,560,"Lavack","","Ginette","Liberal","Libéral",N,Y,104
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 165","Winnipeg",N,N,"",2,560,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 165","Winnipeg",N,N,"",2,560,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 400","Mobile poll/Bureau itinérant",N,N,"410",0,136,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 400","Mobile poll/Bureau itinérant",N,N,"410",0,136,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 400","Mobile poll/Bureau itinérant",N,N,"410",0,136,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 400","Mobile poll/Bureau itinérant",N,N,"410",0,136,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 401","Winnipeg",N,N,"1A",0,155,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 401","Winnipeg",N,N,"1A",0,155,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 401","Winnipeg",N,N,"1A",0,155,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 401","Winnipeg",N,N,"1A",0,155,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 402","Winnipeg",N,N,"12",0,177,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 402","Winnipeg",N,N,"12",0,177,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 402","Winnipeg",N,N,"12",0,177,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 402","Winnipeg",N,N,"12",0,177,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 403","Winnipeg",N,N,"",4,237,"Agboola","","Shola","Conservative","Conservateur",N,N,51
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 403","Winnipeg",N,N,"",4,237,"Lavack","","Ginette","Liberal","Libéral",N,Y,92
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 403","Winnipeg",N,N,"",4,237,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 403","Winnipeg",N,N,"",4,237,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,1
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 404","Winnipeg",N,N,"",2,263,"Agboola","","Shola","Conservative","Conservateur",N,N,34
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 404","Winnipeg",N,N,"",2,263,"Lavack","","Ginette","Liberal","Libéral",N,Y,94
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 404","Winnipeg",N,N,"",2,263,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 404","Winnipeg",N,N,"",2,263,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 405","Winnipeg",N,N,"85B",0,214,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 405","Winnipeg",N,N,"85B",0,214,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 405","Winnipeg",N,N,"85B",0,214,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 405","Winnipeg",N,N,"85B",0,214,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 406","Winnipeg",N,N,"88",0,160,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 406","Winnipeg",N,N,"88",0,160,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 406","Winnipeg",N,N,"88",0,160,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 406","Winnipeg",N,N,"88",0,160,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 407","Winnipeg",N,N,"114A",0,208,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 407","Winnipeg",N,N,"114A",0,208,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 407","Winnipeg",N,N,"114A",0,208,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 407","Winnipeg",N,N,"114A",0,208,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 408","Mobile poll/Bureau itinérant",N,N,"85C",0,46,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 408","Mobile poll/Bureau itinérant",N,N,"85C",0,46,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 408","Mobile poll/Bureau itinérant",N,N,"85C",0,46,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 408","Mobile poll/Bureau itinérant",N,N,"85C",0,46,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 409","Mobile poll/Bureau itinérant",N,N,"504",0,60,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 409","Mobile poll/Bureau itinérant",N,N,"504",0,60,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 409","Mobile poll/Bureau itinérant",N,N,"504",0,60,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 409","Mobile poll/Bureau itinérant",N,N,"504",0,60,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 410","Mobile poll/Bureau itinérant",N,N,"",2,164,"Agboola","","Shola","Conservative","Conservateur",N,N,26
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 410","Mobile poll/Bureau itinérant",N,N,"",2,164,"Lavack","","Ginette","Liberal","Libéral",N,Y,143
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 410","Mobile poll/Bureau itinérant",N,N,"",2,164,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 410","Mobile poll/Bureau itinérant",N,N,"",2,164,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 500","Mobile poll/Bureau itinérant",N,N,"",2,208,"Agboola","","Shola","Conservative","Conservateur",N,N,21
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 500","Mobile poll/Bureau itinérant",N,N,"",2,208,"Lavack","","Ginette","Liberal","Libéral",N,Y,106
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 500","Mobile poll/Bureau itinérant",N,N,"",2,208,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 500","Mobile poll/Bureau itinérant",N,N,"",2,208,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,5
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,130,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,130,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,130,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,130,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 502","Mobile poll/Bureau itinérant",N,N,"",0,82,"Agboola","","Shola","Conservative","Conservateur",N,N,15
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 502","Mobile poll/Bureau itinérant",N,N,"",0,82,"Lavack","","Ginette","Liberal","Libéral",N,Y,32
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 502","Mobile poll/Bureau itinérant",N,N,"",0,82,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 502","Mobile poll/Bureau itinérant",N,N,"",0,82,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,4
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 503","Mobile poll/Bureau itinérant",N,N,"504",0,98,"Agboola","","Shola","Conservative","Conservateur",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 503","Mobile poll/Bureau itinérant",N,N,"504",0,98,"Lavack","","Ginette","Liberal","Libéral",N,Y,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 503","Mobile poll/Bureau itinérant",N,N,"504",0,98,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 503","Mobile poll/Bureau itinérant",N,N,"504",0,98,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,0
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 504","Mobile poll/Bureau itinérant",N,N,"",13,60,"Agboola","","Shola","Conservative","Conservateur",N,N,31
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 504","Mobile poll/Bureau itinérant",N,N,"",13,60,"Lavack","","Ginette","Liberal","Libéral",N,Y,70
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 504","Mobile poll/Bureau itinérant",N,N,"",13,60,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 504","Mobile poll/Bureau itinérant",N,N,"",13,60,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 600","Winnipeg",N,N,"",6,0,"Agboola","","Shola","Conservative","Conservateur",N,N,264
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 600","Winnipeg",N,N,"",6,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,1250
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 600","Winnipeg",N,N,"",6,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,102
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 600","Winnipeg",N,N,"",6,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 601","Winnipeg",N,N,"",4,0,"Agboola","","Shola","Conservative","Conservateur",N,N,168
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 601","Winnipeg",N,N,"",4,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,856
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 601","Winnipeg",N,N,"",4,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 601","Winnipeg",N,N,"",4,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,9
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 602","Winnipeg",N,N,"",3,0,"Agboola","","Shola","Conservative","Conservateur",N,N,240
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 602","Winnipeg",N,N,"",3,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,715
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 602","Winnipeg",N,N,"",3,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 602","Winnipeg",N,N,"",3,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,11
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 603","Winnipeg",N,N,"",11,0,"Agboola","","Shola","Conservative","Conservateur",N,N,301
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 603","Winnipeg",N,N,"",11,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,810
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 603","Winnipeg",N,N,"",11,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 603","Winnipeg",N,N,"",11,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,9
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 604","Winnipeg",N,N,"",7,0,"Agboola","","Shola","Conservative","Conservateur",N,N,432
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 604","Winnipeg",N,N,"",7,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,982
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 604","Winnipeg",N,N,"",7,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 604","Winnipeg",N,N,"",7,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,17
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 605","Winnipeg",N,N,"",3,0,"Agboola","","Shola","Conservative","Conservateur",N,N,545
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 605","Winnipeg",N,N,"",3,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,1003
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 605","Winnipeg",N,N,"",3,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,110
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 605","Winnipeg",N,N,"",3,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,12
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 606","Winnipeg",N,N,"",3,0,"Agboola","","Shola","Conservative","Conservateur",N,N,504
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 606","Winnipeg",N,N,"",3,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,771
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 606","Winnipeg",N,N,"",3,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 606","Winnipeg",N,N,"",3,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 607","Winnipeg",N,N,"",10,0,"Agboola","","Shola","Conservative","Conservateur",N,N,743
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 607","Winnipeg",N,N,"",10,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,1293
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 607","Winnipeg",N,N,"",10,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 607","Winnipeg",N,N,"",10,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,20
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 608","Winnipeg",N,N,"",6,0,"Agboola","","Shola","Conservative","Conservateur",N,N,596
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 608","Winnipeg",N,N,"",6,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,914
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 608","Winnipeg",N,N,"",6,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 608","Winnipeg",N,N,"",6,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,7
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 609","Winnipeg",N,N,"",10,0,"Agboola","","Shola","Conservative","Conservateur",N,N,571
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 609","Winnipeg",N,N,"",10,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,1108
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 609","Winnipeg",N,N,"",10,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 609","Winnipeg",N,N,"",10,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,8
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 610","Winnipeg",N,N,"",0,0,"Agboola","","Shola","Conservative","Conservateur",N,N,344
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 610","Winnipeg",N,N,"",0,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,930
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 610","Winnipeg",N,N,"",0,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 610","Winnipeg",N,N,"",0,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 611","Winnipeg",N,N,"",4,0,"Agboola","","Shola","Conservative","Conservateur",N,N,309
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 611","Winnipeg",N,N,"",4,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,565
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 611","Winnipeg",N,N,"",4,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,85
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 611","Winnipeg",N,N,"",4,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,8
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 612","Winnipeg",N,N,"",8,0,"Agboola","","Shola","Conservative","Conservateur",N,N,463
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 612","Winnipeg",N,N,"",8,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,1230
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 612","Winnipeg",N,N,"",8,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,132
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 612","Winnipeg",N,N,"",8,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,13
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 613","Winnipeg",N,N,"",5,0,"Agboola","","Shola","Conservative","Conservateur",N,N,388
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 613","Winnipeg",N,N,"",5,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,909
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 613","Winnipeg",N,N,"",5,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 613","Winnipeg",N,N,"",5,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,8
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 614","Winnipeg",N,N,"",1,0,"Agboola","","Shola","Conservative","Conservateur",N,N,403
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 614","Winnipeg",N,N,"",1,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,1100
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 614","Winnipeg",N,N,"",1,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," 614","Winnipeg",N,N,"",1,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,3
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",52,255,"Agboola","","Shola","Conservative","Conservateur",N,N,187
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",52,255,"Lavack","","Ginette","Liberal","Libéral",N,Y,516
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",52,255,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",52,255,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,6
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",79,0,"Agboola","","Shola","Conservative","Conservateur",N,N,788
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",79,0,"Lavack","","Ginette","Liberal","Libéral",N,Y,1491
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",79,0,"Linner","","Thomas","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,103
+46008,"St. Boniface--St. Vital","Saint-Boniface--Saint-Vital"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",79,0,"Pelletier","","Gilles","People's Party - PPC","Parti populaire - PPC",N,N,10

@@ -1,0 +1,777 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 1","Edmonton",N,N,"",0,438,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 1","Edmonton",N,N,"",0,438,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 1","Edmonton",N,N,"",0,438,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,84
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 1","Edmonton",N,N,"",0,438,"Minenko","","Mark","Liberal","Libéral",N,N,114
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 2","Edmonton",N,N,"",1,441,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 2","Edmonton",N,N,"",1,441,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 2","Edmonton",N,N,"",1,441,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,100
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 2","Edmonton",N,N,"",1,441,"Minenko","","Mark","Liberal","Libéral",N,N,90
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 3","Edmonton",N,N,"",0,368,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 3","Edmonton",N,N,"",0,368,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 3","Edmonton",N,N,"",0,368,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,112
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 3","Edmonton",N,N,"",0,368,"Minenko","","Mark","Liberal","Libéral",N,N,136
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 4","Edmonton",N,N,"",6,445,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 4","Edmonton",N,N,"",6,445,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 4","Edmonton",N,N,"",6,445,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,71
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 4","Edmonton",N,N,"",6,445,"Minenko","","Mark","Liberal","Libéral",N,N,111
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 5","Edmonton",N,N,"",0,441,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 5","Edmonton",N,N,"",0,441,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 5","Edmonton",N,N,"",0,441,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,111
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 5","Edmonton",N,N,"",0,441,"Minenko","","Mark","Liberal","Libéral",N,N,109
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 6","Edmonton",N,N,"",0,431,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 6","Edmonton",N,N,"",0,431,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 6","Edmonton",N,N,"",0,431,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,126
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 6","Edmonton",N,N,"",0,431,"Minenko","","Mark","Liberal","Libéral",N,N,153
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 7","Edmonton",N,N,"",0,610,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 7","Edmonton",N,N,"",0,610,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 7","Edmonton",N,N,"",0,610,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,159
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 7","Edmonton",N,N,"",0,610,"Minenko","","Mark","Liberal","Libéral",N,N,170
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 8","Edmonton",N,N,"3",0,327,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 8","Edmonton",N,N,"3",0,327,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 8","Edmonton",N,N,"3",0,327,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 8","Edmonton",N,N,"3",0,327,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 9","Edmonton",N,N,"",0,422,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 9","Edmonton",N,N,"",0,422,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 9","Edmonton",N,N,"",0,422,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,91
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 9","Edmonton",N,N,"",0,422,"Minenko","","Mark","Liberal","Libéral",N,N,89
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 10","Edmonton",N,N,"",1,460,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 10","Edmonton",N,N,"",1,460,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 10","Edmonton",N,N,"",1,460,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,89
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 10","Edmonton",N,N,"",1,460,"Minenko","","Mark","Liberal","Libéral",N,N,102
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 11","Edmonton",N,N,"",0,369,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 11","Edmonton",N,N,"",0,369,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 11","Edmonton",N,N,"",0,369,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,81
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 11","Edmonton",N,N,"",0,369,"Minenko","","Mark","Liberal","Libéral",N,N,86
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 12","Edmonton",N,N,"",2,444,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 12","Edmonton",N,N,"",2,444,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 12","Edmonton",N,N,"",2,444,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,89
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 12","Edmonton",N,N,"",2,444,"Minenko","","Mark","Liberal","Libéral",N,N,108
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 13","Edmonton",N,N,"",0,424,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 13","Edmonton",N,N,"",0,424,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 13","Edmonton",N,N,"",0,424,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,86
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 13","Edmonton",N,N,"",0,424,"Minenko","","Mark","Liberal","Libéral",N,N,62
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 14","Edmonton",N,N,"",1,351,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 14","Edmonton",N,N,"",1,351,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 14","Edmonton",N,N,"",1,351,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,75
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 14","Edmonton",N,N,"",1,351,"Minenko","","Mark","Liberal","Libéral",N,N,84
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 15","Edmonton",N,N,"",0,381,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 15","Edmonton",N,N,"",0,381,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 15","Edmonton",N,N,"",0,381,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,80
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 15","Edmonton",N,N,"",0,381,"Minenko","","Mark","Liberal","Libéral",N,N,66
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 16","Edmonton",N,N,"",1,399,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 16","Edmonton",N,N,"",1,399,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 16","Edmonton",N,N,"",1,399,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,97
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 16","Edmonton",N,N,"",1,399,"Minenko","","Mark","Liberal","Libéral",N,N,48
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 17","Edmonton",N,N,"",0,435,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 17","Edmonton",N,N,"",0,435,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 17","Edmonton",N,N,"",0,435,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,78
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 17","Edmonton",N,N,"",0,435,"Minenko","","Mark","Liberal","Libéral",N,N,90
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 18","Edmonton",N,N,"",1,516,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 18","Edmonton",N,N,"",1,516,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 18","Edmonton",N,N,"",1,516,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,91
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 18","Edmonton",N,N,"",1,516,"Minenko","","Mark","Liberal","Libéral",N,N,66
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 19","Edmonton",N,N,"",1,358,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 19","Edmonton",N,N,"",1,358,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 19","Edmonton",N,N,"",1,358,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,88
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 19","Edmonton",N,N,"",1,358,"Minenko","","Mark","Liberal","Libéral",N,N,70
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 20","Edmonton",N,N,"",3,357,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 20","Edmonton",N,N,"",3,357,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 20","Edmonton",N,N,"",3,357,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,101
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 20","Edmonton",N,N,"",3,357,"Minenko","","Mark","Liberal","Libéral",N,N,72
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 21","Edmonton",N,N,"",2,343,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 21","Edmonton",N,N,"",2,343,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 21","Edmonton",N,N,"",2,343,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,70
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 21","Edmonton",N,N,"",2,343,"Minenko","","Mark","Liberal","Libéral",N,N,91
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 22","Edmonton",N,N,"",0,448,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 22","Edmonton",N,N,"",0,448,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 22","Edmonton",N,N,"",0,448,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,97
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 22","Edmonton",N,N,"",0,448,"Minenko","","Mark","Liberal","Libéral",N,N,80
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 23","Edmonton",N,N,"",0,504,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 23","Edmonton",N,N,"",0,504,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 23","Edmonton",N,N,"",0,504,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,132
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 23","Edmonton",N,N,"",0,504,"Minenko","","Mark","Liberal","Libéral",N,N,102
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 24","Edmonton",N,N,"",0,589,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 24","Edmonton",N,N,"",0,589,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 24","Edmonton",N,N,"",0,589,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,129
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 24","Edmonton",N,N,"",0,589,"Minenko","","Mark","Liberal","Libéral",N,N,136
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 25","Edmonton",N,N,"",2,546,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 25","Edmonton",N,N,"",2,546,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 25","Edmonton",N,N,"",2,546,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,107
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 25","Edmonton",N,N,"",2,546,"Minenko","","Mark","Liberal","Libéral",N,N,123
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 26","Edmonton",N,N,"",0,463,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 26","Edmonton",N,N,"",0,463,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 26","Edmonton",N,N,"",0,463,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,90
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 26","Edmonton",N,N,"",0,463,"Minenko","","Mark","Liberal","Libéral",N,N,43
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 27","Edmonton",N,N,"",0,374,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 27","Edmonton",N,N,"",0,374,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 27","Edmonton",N,N,"",0,374,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,103
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 27","Edmonton",N,N,"",0,374,"Minenko","","Mark","Liberal","Libéral",N,N,98
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 28","Edmonton",N,N,"",1,447,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 28","Edmonton",N,N,"",1,447,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 28","Edmonton",N,N,"",1,447,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,72
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 28","Edmonton",N,N,"",1,447,"Minenko","","Mark","Liberal","Libéral",N,N,70
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 29","Edmonton",N,N,"",2,419,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 29","Edmonton",N,N,"",2,419,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 29","Edmonton",N,N,"",2,419,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,88
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 29","Edmonton",N,N,"",2,419,"Minenko","","Mark","Liberal","Libéral",N,N,70
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 30","Edmonton",N,N,"",1,399,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 30","Edmonton",N,N,"",1,399,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 30","Edmonton",N,N,"",1,399,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,83
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 30","Edmonton",N,N,"",1,399,"Minenko","","Mark","Liberal","Libéral",N,N,83
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 31","Edmonton",N,N,"",0,423,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 31","Edmonton",N,N,"",0,423,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 31","Edmonton",N,N,"",0,423,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,52
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 31","Edmonton",N,N,"",0,423,"Minenko","","Mark","Liberal","Libéral",N,N,81
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 32","Edmonton",N,N,"",0,451,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 32","Edmonton",N,N,"",0,451,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 32","Edmonton",N,N,"",0,451,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,75
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 32","Edmonton",N,N,"",0,451,"Minenko","","Mark","Liberal","Libéral",N,N,59
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 33","Edmonton",N,N,"",1,430,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 33","Edmonton",N,N,"",1,430,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 33","Edmonton",N,N,"",1,430,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,79
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 33","Edmonton",N,N,"",1,430,"Minenko","","Mark","Liberal","Libéral",N,N,60
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 34","Edmonton",N,N,"",0,307,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 34","Edmonton",N,N,"",0,307,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 34","Edmonton",N,N,"",0,307,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,61
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 34","Edmonton",N,N,"",0,307,"Minenko","","Mark","Liberal","Libéral",N,N,70
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 35","Edmonton",N,N,"",0,466,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 35","Edmonton",N,N,"",0,466,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 35","Edmonton",N,N,"",0,466,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,109
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 35","Edmonton",N,N,"",0,466,"Minenko","","Mark","Liberal","Libéral",N,N,107
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 36","Edmonton",N,N,"",1,439,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 36","Edmonton",N,N,"",1,439,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 36","Edmonton",N,N,"",1,439,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,108
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 36","Edmonton",N,N,"",1,439,"Minenko","","Mark","Liberal","Libéral",N,N,95
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 37","Edmonton",N,N,"",0,357,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 37","Edmonton",N,N,"",0,357,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 37","Edmonton",N,N,"",0,357,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,68
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 37","Edmonton",N,N,"",0,357,"Minenko","","Mark","Liberal","Libéral",N,N,59
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 38","Edmonton",N,N,"",2,297,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 38","Edmonton",N,N,"",2,297,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 38","Edmonton",N,N,"",2,297,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,53
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 38","Edmonton",N,N,"",2,297,"Minenko","","Mark","Liberal","Libéral",N,N,64
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 39","Edmonton",N,N,"",1,439,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 39","Edmonton",N,N,"",1,439,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 39","Edmonton",N,N,"",1,439,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,75
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 39","Edmonton",N,N,"",1,439,"Minenko","","Mark","Liberal","Libéral",N,N,49
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 40","Edmonton",N,N,"",0,572,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 40","Edmonton",N,N,"",0,572,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 40","Edmonton",N,N,"",0,572,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,102
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 40","Edmonton",N,N,"",0,572,"Minenko","","Mark","Liberal","Libéral",N,N,70
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 41","Edmonton",N,N,"",0,618,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 41","Edmonton",N,N,"",0,618,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 41","Edmonton",N,N,"",0,618,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,132
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 41","Edmonton",N,N,"",0,618,"Minenko","","Mark","Liberal","Libéral",N,N,115
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 42","Edmonton",N,N,"",2,560,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 42","Edmonton",N,N,"",2,560,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 42","Edmonton",N,N,"",2,560,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,106
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 42","Edmonton",N,N,"",2,560,"Minenko","","Mark","Liberal","Libéral",N,N,62
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 43","Edmonton",N,N,"",0,556,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 43","Edmonton",N,N,"",0,556,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 43","Edmonton",N,N,"",0,556,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,84
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 43","Edmonton",N,N,"",0,556,"Minenko","","Mark","Liberal","Libéral",N,N,79
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 44","Edmonton",N,N,"",0,385,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 44","Edmonton",N,N,"",0,385,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 44","Edmonton",N,N,"",0,385,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,95
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 44","Edmonton",N,N,"",0,385,"Minenko","","Mark","Liberal","Libéral",N,N,85
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 45","Edmonton",N,N,"",1,336,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 45","Edmonton",N,N,"",1,336,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 45","Edmonton",N,N,"",1,336,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,76
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 45","Edmonton",N,N,"",1,336,"Minenko","","Mark","Liberal","Libéral",N,N,69
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 46","Edmonton",N,N,"",0,361,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 46","Edmonton",N,N,"",0,361,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 46","Edmonton",N,N,"",0,361,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,78
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 46","Edmonton",N,N,"",0,361,"Minenko","","Mark","Liberal","Libéral",N,N,57
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 47","Edmonton",N,N,"",0,378,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 47","Edmonton",N,N,"",0,378,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 47","Edmonton",N,N,"",0,378,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,112
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 47","Edmonton",N,N,"",0,378,"Minenko","","Mark","Liberal","Libéral",N,N,68
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 48","Edmonton",N,N,"",0,481,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 48","Edmonton",N,N,"",0,481,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 48","Edmonton",N,N,"",0,481,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,123
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 48","Edmonton",N,N,"",0,481,"Minenko","","Mark","Liberal","Libéral",N,N,112
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 49","Edmonton",N,N,"",0,405,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 49","Edmonton",N,N,"",0,405,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 49","Edmonton",N,N,"",0,405,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,86
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 49","Edmonton",N,N,"",0,405,"Minenko","","Mark","Liberal","Libéral",N,N,95
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 50","Edmonton",N,N,"",0,438,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 50","Edmonton",N,N,"",0,438,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 50","Edmonton",N,N,"",0,438,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,108
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 50","Edmonton",N,N,"",0,438,"Minenko","","Mark","Liberal","Libéral",N,N,85
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 51","Edmonton",N,N,"",0,429,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 51","Edmonton",N,N,"",0,429,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 51","Edmonton",N,N,"",0,429,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,77
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 51","Edmonton",N,N,"",0,429,"Minenko","","Mark","Liberal","Libéral",N,N,54
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 52","Edmonton",N,N,"",1,421,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 52","Edmonton",N,N,"",1,421,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 52","Edmonton",N,N,"",1,421,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,84
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 52","Edmonton",N,N,"",1,421,"Minenko","","Mark","Liberal","Libéral",N,N,105
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 53","Edmonton",N,N,"",0,528,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 53","Edmonton",N,N,"",0,528,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 53","Edmonton",N,N,"",0,528,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,105
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 53","Edmonton",N,N,"",0,528,"Minenko","","Mark","Liberal","Libéral",N,N,108
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 54","Edmonton",N,N,"",0,464,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 54","Edmonton",N,N,"",0,464,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 54","Edmonton",N,N,"",0,464,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,88
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 54","Edmonton",N,N,"",0,464,"Minenko","","Mark","Liberal","Libéral",N,N,115
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 55","Edmonton",N,N,"",2,461,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 55","Edmonton",N,N,"",2,461,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 55","Edmonton",N,N,"",2,461,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,112
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 55","Edmonton",N,N,"",2,461,"Minenko","","Mark","Liberal","Libéral",N,N,101
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 56","Edmonton",N,N,"",2,453,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 56","Edmonton",N,N,"",2,453,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 56","Edmonton",N,N,"",2,453,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,94
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 56","Edmonton",N,N,"",2,453,"Minenko","","Mark","Liberal","Libéral",N,N,128
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 57","Edmonton",N,N,"",0,472,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 57","Edmonton",N,N,"",0,472,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 57","Edmonton",N,N,"",0,472,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,91
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 57","Edmonton",N,N,"",0,472,"Minenko","","Mark","Liberal","Libéral",N,N,128
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 58","Edmonton",N,N,"",1,411,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 58","Edmonton",N,N,"",1,411,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 58","Edmonton",N,N,"",1,411,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,105
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 58","Edmonton",N,N,"",1,411,"Minenko","","Mark","Liberal","Libéral",N,N,108
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 59","Edmonton",N,N,"",1,440,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 59","Edmonton",N,N,"",1,440,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 59","Edmonton",N,N,"",1,440,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,59
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 59","Edmonton",N,N,"",1,440,"Minenko","","Mark","Liberal","Libéral",N,N,75
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 60","Edmonton",N,N,"",0,449,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 60","Edmonton",N,N,"",0,449,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 60","Edmonton",N,N,"",0,449,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,68
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 60","Edmonton",N,N,"",0,449,"Minenko","","Mark","Liberal","Libéral",N,N,84
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 61","Edmonton",N,N,"",0,381,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 61","Edmonton",N,N,"",0,381,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 61","Edmonton",N,N,"",0,381,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,49
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 61","Edmonton",N,N,"",0,381,"Minenko","","Mark","Liberal","Libéral",N,N,55
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 62","Edmonton",N,N,"",0,435,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 62","Edmonton",N,N,"",0,435,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 62","Edmonton",N,N,"",0,435,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,88
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 62","Edmonton",N,N,"",0,435,"Minenko","","Mark","Liberal","Libéral",N,N,67
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 63","Edmonton",N,N,"",0,457,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 63","Edmonton",N,N,"",0,457,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 63","Edmonton",N,N,"",0,457,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,72
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 63","Edmonton",N,N,"",0,457,"Minenko","","Mark","Liberal","Libéral",N,N,74
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 64","Edmonton",N,N,"",0,430,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 64","Edmonton",N,N,"",0,430,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 64","Edmonton",N,N,"",0,430,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,84
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 64","Edmonton",N,N,"",0,430,"Minenko","","Mark","Liberal","Libéral",N,N,45
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 65","Edmonton",N,N,"",1,423,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 65","Edmonton",N,N,"",1,423,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 65","Edmonton",N,N,"",1,423,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,87
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 65","Edmonton",N,N,"",1,423,"Minenko","","Mark","Liberal","Libéral",N,N,41
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 66","Edmonton",N,N,"",1,532,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 66","Edmonton",N,N,"",1,532,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 66","Edmonton",N,N,"",1,532,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,99
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 66","Edmonton",N,N,"",1,532,"Minenko","","Mark","Liberal","Libéral",N,N,70
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 67","Edmonton",N,N,"",0,536,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 67","Edmonton",N,N,"",0,536,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 67","Edmonton",N,N,"",0,536,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,63
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 67","Edmonton",N,N,"",0,536,"Minenko","","Mark","Liberal","Libéral",N,N,72
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 68","Edmonton",N,N,"",1,454,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 68","Edmonton",N,N,"",1,454,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 68","Edmonton",N,N,"",1,454,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,107
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 68","Edmonton",N,N,"",1,454,"Minenko","","Mark","Liberal","Libéral",N,N,78
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 69","Edmonton",N,N,"",1,709,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 69","Edmonton",N,N,"",1,709,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 69","Edmonton",N,N,"",1,709,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,126
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 69","Edmonton",N,N,"",1,709,"Minenko","","Mark","Liberal","Libéral",N,N,110
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 70","Edmonton",N,N,"",2,438,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 70","Edmonton",N,N,"",2,438,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 70","Edmonton",N,N,"",2,438,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,92
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 70","Edmonton",N,N,"",2,438,"Minenko","","Mark","Liberal","Libéral",N,N,84
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 71","Edmonton",N,N,"",0,537,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 71","Edmonton",N,N,"",0,537,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 71","Edmonton",N,N,"",0,537,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,92
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 71","Edmonton",N,N,"",0,537,"Minenko","","Mark","Liberal","Libéral",N,N,94
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 72","Edmonton",N,N,"",0,515,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 72","Edmonton",N,N,"",0,515,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 72","Edmonton",N,N,"",0,515,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,122
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 72","Edmonton",N,N,"",0,515,"Minenko","","Mark","Liberal","Libéral",N,N,76
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 73","Edmonton",N,N,"",0,463,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 73","Edmonton",N,N,"",0,463,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 73","Edmonton",N,N,"",0,463,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,81
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 73","Edmonton",N,N,"",0,463,"Minenko","","Mark","Liberal","Libéral",N,N,76
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 74","Edmonton",N,N,"",0,423,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 74","Edmonton",N,N,"",0,423,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 74","Edmonton",N,N,"",0,423,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,66
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 74","Edmonton",N,N,"",0,423,"Minenko","","Mark","Liberal","Libéral",N,N,64
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 75","Edmonton",N,N,"",1,387,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 75","Edmonton",N,N,"",1,387,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 75","Edmonton",N,N,"",1,387,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,68
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 75","Edmonton",N,N,"",1,387,"Minenko","","Mark","Liberal","Libéral",N,N,69
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 76","Edmonton",N,N,"",2,368,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 76","Edmonton",N,N,"",2,368,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 76","Edmonton",N,N,"",2,368,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,36
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 76","Edmonton",N,N,"",2,368,"Minenko","","Mark","Liberal","Libéral",N,N,97
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 77","Edmonton",N,N,"",3,478,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 77","Edmonton",N,N,"",3,478,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 77","Edmonton",N,N,"",3,478,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,109
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 77","Edmonton",N,N,"",3,478,"Minenko","","Mark","Liberal","Libéral",N,N,103
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 78","Edmonton",N,N,"",1,661,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 78","Edmonton",N,N,"",1,661,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 78","Edmonton",N,N,"",1,661,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,105
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 78","Edmonton",N,N,"",1,661,"Minenko","","Mark","Liberal","Libéral",N,N,124
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 79","Edmonton",N,N,"",1,473,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 79","Edmonton",N,N,"",1,473,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 79","Edmonton",N,N,"",1,473,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,76
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 79","Edmonton",N,N,"",1,473,"Minenko","","Mark","Liberal","Libéral",N,N,134
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 80","Edmonton",N,N,"",0,456,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 80","Edmonton",N,N,"",0,456,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 80","Edmonton",N,N,"",0,456,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,99
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 80","Edmonton",N,N,"",0,456,"Minenko","","Mark","Liberal","Libéral",N,N,74
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 81","Edmonton",N,N,"",0,277,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 81","Edmonton",N,N,"",0,277,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 81","Edmonton",N,N,"",0,277,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,58
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 81","Edmonton",N,N,"",0,277,"Minenko","","Mark","Liberal","Libéral",N,N,35
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 82","Edmonton",N,N,"",2,362,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 82","Edmonton",N,N,"",2,362,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 82","Edmonton",N,N,"",2,362,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,80
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 82","Edmonton",N,N,"",2,362,"Minenko","","Mark","Liberal","Libéral",N,N,79
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 83","Edmonton",N,N,"",3,352,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 83","Edmonton",N,N,"",3,352,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 83","Edmonton",N,N,"",3,352,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,71
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 83","Edmonton",N,N,"",3,352,"Minenko","","Mark","Liberal","Libéral",N,N,86
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 84","Edmonton",N,N,"",0,345,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 84","Edmonton",N,N,"",0,345,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 84","Edmonton",N,N,"",0,345,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,75
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 84","Edmonton",N,N,"",0,345,"Minenko","","Mark","Liberal","Libéral",N,N,70
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 85","Edmonton",N,N,"",0,459,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 85","Edmonton",N,N,"",0,459,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 85","Edmonton",N,N,"",0,459,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,87
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 85","Edmonton",N,N,"",0,459,"Minenko","","Mark","Liberal","Libéral",N,N,69
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 86","Edmonton",N,N,"",0,635,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 86","Edmonton",N,N,"",0,635,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 86","Edmonton",N,N,"",0,635,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,131
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 86","Edmonton",N,N,"",0,635,"Minenko","","Mark","Liberal","Libéral",N,N,88
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 87","Edmonton",N,N,"",1,527,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 87","Edmonton",N,N,"",1,527,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 87","Edmonton",N,N,"",1,527,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,64
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 87","Edmonton",N,N,"",1,527,"Minenko","","Mark","Liberal","Libéral",N,N,76
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 88","Edmonton",N,N,"",0,479,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 88","Edmonton",N,N,"",0,479,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 88","Edmonton",N,N,"",0,479,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,101
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 88","Edmonton",N,N,"",0,479,"Minenko","","Mark","Liberal","Libéral",N,N,70
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 89","Edmonton",N,N,"",0,431,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 89","Edmonton",N,N,"",0,431,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 89","Edmonton",N,N,"",0,431,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,77
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 89","Edmonton",N,N,"",0,431,"Minenko","","Mark","Liberal","Libéral",N,N,59
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 90","Edmonton",N,N,"",2,566,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 90","Edmonton",N,N,"",2,566,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 90","Edmonton",N,N,"",2,566,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,99
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 90","Edmonton",N,N,"",2,566,"Minenko","","Mark","Liberal","Libéral",N,N,68
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 91","Edmonton",N,N,"",0,519,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 91","Edmonton",N,N,"",0,519,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 91","Edmonton",N,N,"",0,519,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,98
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 91","Edmonton",N,N,"",0,519,"Minenko","","Mark","Liberal","Libéral",N,N,101
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 92","Edmonton",N,N,"",2,509,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 92","Edmonton",N,N,"",2,509,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 92","Edmonton",N,N,"",2,509,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,104
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 92","Edmonton",N,N,"",2,509,"Minenko","","Mark","Liberal","Libéral",N,N,95
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 93","Edmonton",N,N,"",0,359,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 93","Edmonton",N,N,"",0,359,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 93","Edmonton",N,N,"",0,359,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,80
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 93","Edmonton",N,N,"",0,359,"Minenko","","Mark","Liberal","Libéral",N,N,60
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 94","Edmonton",N,N,"",1,384,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 94","Edmonton",N,N,"",1,384,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 94","Edmonton",N,N,"",1,384,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,80
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 94","Edmonton",N,N,"",1,384,"Minenko","","Mark","Liberal","Libéral",N,N,60
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 95","Edmonton",N,N,"",0,445,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 95","Edmonton",N,N,"",0,445,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 95","Edmonton",N,N,"",0,445,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,76
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 95","Edmonton",N,N,"",0,445,"Minenko","","Mark","Liberal","Libéral",N,N,53
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 96","Edmonton",N,N,"",0,814,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 96","Edmonton",N,N,"",0,814,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 96","Edmonton",N,N,"",0,814,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,154
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 96","Edmonton",N,N,"",0,814,"Minenko","","Mark","Liberal","Libéral",N,N,126
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 97","Edmonton",N,N,"",2,476,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 97","Edmonton",N,N,"",2,476,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 97","Edmonton",N,N,"",2,476,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,136
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 97","Edmonton",N,N,"",2,476,"Minenko","","Mark","Liberal","Libéral",N,N,115
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 98","Edmonton",N,N,"",1,543,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 98","Edmonton",N,N,"",1,543,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 98","Edmonton",N,N,"",1,543,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,120
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 98","Edmonton",N,N,"",1,543,"Minenko","","Mark","Liberal","Libéral",N,N,65
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 99","Edmonton",N,N,"",1,570,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 99","Edmonton",N,N,"",1,570,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 99","Edmonton",N,N,"",1,570,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,140
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 99","Edmonton",N,N,"",1,570,"Minenko","","Mark","Liberal","Libéral",N,N,109
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 100","Edmonton",N,N,"",1,659,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 100","Edmonton",N,N,"",1,659,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 100","Edmonton",N,N,"",1,659,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,167
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 100","Edmonton",N,N,"",1,659,"Minenko","","Mark","Liberal","Libéral",N,N,89
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 101","Edmonton",N,N,"",1,607,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 101","Edmonton",N,N,"",1,607,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 101","Edmonton",N,N,"",1,607,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,110
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 101","Edmonton",N,N,"",1,607,"Minenko","","Mark","Liberal","Libéral",N,N,100
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 102","Edmonton",N,N,"",4,759,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 102","Edmonton",N,N,"",4,759,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 102","Edmonton",N,N,"",4,759,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,204
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 102","Edmonton",N,N,"",4,759,"Minenko","","Mark","Liberal","Libéral",N,N,118
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 103","Edmonton",N,N,"",2,423,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 103","Edmonton",N,N,"",2,423,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 103","Edmonton",N,N,"",2,423,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,67
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 103","Edmonton",N,N,"",2,423,"Minenko","","Mark","Liberal","Libéral",N,N,67
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 104","Edmonton",N,N,"",0,349,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 104","Edmonton",N,N,"",0,349,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 104","Edmonton",N,N,"",0,349,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,54
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 104","Edmonton",N,N,"",0,349,"Minenko","","Mark","Liberal","Libéral",N,N,37
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 105","Edmonton",N,N,"",0,696,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 105","Edmonton",N,N,"",0,696,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 105","Edmonton",N,N,"",0,696,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,127
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 105","Edmonton",N,N,"",0,696,"Minenko","","Mark","Liberal","Libéral",N,N,87
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 106","Edmonton",N,N,"",0,544,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 106","Edmonton",N,N,"",0,544,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 106","Edmonton",N,N,"",0,544,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,95
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 106","Edmonton",N,N,"",0,544,"Minenko","","Mark","Liberal","Libéral",N,N,62
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 107","Edmonton",N,N,"",1,700,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 107","Edmonton",N,N,"",1,700,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 107","Edmonton",N,N,"",1,700,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,153
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 107","Edmonton",N,N,"",1,700,"Minenko","","Mark","Liberal","Libéral",N,N,96
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 108","Edmonton",N,N,"",2,469,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 108","Edmonton",N,N,"",2,469,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 108","Edmonton",N,N,"",2,469,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,123
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 108","Edmonton",N,N,"",2,469,"Minenko","","Mark","Liberal","Libéral",N,N,82
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 109","Edmonton",N,N,"",1,528,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 109","Edmonton",N,N,"",1,528,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 109","Edmonton",N,N,"",1,528,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,87
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 109","Edmonton",N,N,"",1,528,"Minenko","","Mark","Liberal","Libéral",N,N,67
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 110","Edmonton",N,N,"",1,628,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 110","Edmonton",N,N,"",1,628,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 110","Edmonton",N,N,"",1,628,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,110
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 110","Edmonton",N,N,"",1,628,"Minenko","","Mark","Liberal","Libéral",N,N,70
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 111","Edmonton",N,N,"",4,615,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 111","Edmonton",N,N,"",4,615,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 111","Edmonton",N,N,"",4,615,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,117
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 111","Edmonton",N,N,"",4,615,"Minenko","","Mark","Liberal","Libéral",N,N,77
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 112A","Edmonton",N,N,"",4,757,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 112A","Edmonton",N,N,"",4,757,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 112A","Edmonton",N,N,"",4,757,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,157
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 112A","Edmonton",N,N,"",4,757,"Minenko","","Mark","Liberal","Libéral",N,N,96
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 112B","Mobile poll/Bureau itinérant",N,N,"507",0,37,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 112B","Mobile poll/Bureau itinérant",N,N,"507",0,37,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 112B","Mobile poll/Bureau itinérant",N,N,"507",0,37,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 112B","Mobile poll/Bureau itinérant",N,N,"507",0,37,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 113","Edmonton",N,N,"",0,407,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 113","Edmonton",N,N,"",0,407,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 113","Edmonton",N,N,"",0,407,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,61
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 113","Edmonton",N,N,"",0,407,"Minenko","","Mark","Liberal","Libéral",N,N,58
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 114","Edmonton",N,N,"",0,435,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 114","Edmonton",N,N,"",0,435,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 114","Edmonton",N,N,"",0,435,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,73
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 114","Edmonton",N,N,"",0,435,"Minenko","","Mark","Liberal","Libéral",N,N,45
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 115","Edmonton",N,N,"",2,541,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 115","Edmonton",N,N,"",2,541,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 115","Edmonton",N,N,"",2,541,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,79
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 115","Edmonton",N,N,"",2,541,"Minenko","","Mark","Liberal","Libéral",N,N,86
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 116","Edmonton",N,N,"",0,419,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 116","Edmonton",N,N,"",0,419,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 116","Edmonton",N,N,"",0,419,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,82
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 116","Edmonton",N,N,"",0,419,"Minenko","","Mark","Liberal","Libéral",N,N,44
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 117","Edmonton",N,N,"",1,469,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 117","Edmonton",N,N,"",1,469,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 117","Edmonton",N,N,"",1,469,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,73
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 117","Edmonton",N,N,"",1,469,"Minenko","","Mark","Liberal","Libéral",N,N,58
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 118","Edmonton",N,N,"",0,528,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 118","Edmonton",N,N,"",0,528,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 118","Edmonton",N,N,"",0,528,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,65
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 118","Edmonton",N,N,"",0,528,"Minenko","","Mark","Liberal","Libéral",N,N,73
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 119","Edmonton",N,N,"",0,394,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 119","Edmonton",N,N,"",0,394,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 119","Edmonton",N,N,"",0,394,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,68
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 119","Edmonton",N,N,"",0,394,"Minenko","","Mark","Liberal","Libéral",N,N,65
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 120","Edmonton",N,N,"",1,417,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 120","Edmonton",N,N,"",1,417,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 120","Edmonton",N,N,"",1,417,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,80
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 120","Edmonton",N,N,"",1,417,"Minenko","","Mark","Liberal","Libéral",N,N,58
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 121","Edmonton",N,N,"",0,477,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 121","Edmonton",N,N,"",0,477,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 121","Edmonton",N,N,"",0,477,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,105
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 121","Edmonton",N,N,"",0,477,"Minenko","","Mark","Liberal","Libéral",N,N,74
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 122","Edmonton",N,N,"",2,428,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 122","Edmonton",N,N,"",2,428,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 122","Edmonton",N,N,"",2,428,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,72
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 122","Edmonton",N,N,"",2,428,"Minenko","","Mark","Liberal","Libéral",N,N,60
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 123","Edmonton",N,N,"",2,439,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 123","Edmonton",N,N,"",2,439,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 123","Edmonton",N,N,"",2,439,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,61
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 123","Edmonton",N,N,"",2,439,"Minenko","","Mark","Liberal","Libéral",N,N,64
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 124","Edmonton",N,N,"",0,688,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 124","Edmonton",N,N,"",0,688,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 124","Edmonton",N,N,"",0,688,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,124
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 124","Edmonton",N,N,"",0,688,"Minenko","","Mark","Liberal","Libéral",N,N,97
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 125","Edmonton",N,N,"",3,515,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 125","Edmonton",N,N,"",3,515,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 125","Edmonton",N,N,"",3,515,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,93
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 125","Edmonton",N,N,"",3,515,"Minenko","","Mark","Liberal","Libéral",N,N,90
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 126","Edmonton",N,N,"",2,491,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 126","Edmonton",N,N,"",2,491,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 126","Edmonton",N,N,"",2,491,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,104
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 126","Edmonton",N,N,"",2,491,"Minenko","","Mark","Liberal","Libéral",N,N,81
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 127","Edmonton",N,N,"",0,488,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 127","Edmonton",N,N,"",0,488,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 127","Edmonton",N,N,"",0,488,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,100
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 127","Edmonton",N,N,"",0,488,"Minenko","","Mark","Liberal","Libéral",N,N,65
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 128","Edmonton",N,N,"",1,567,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 128","Edmonton",N,N,"",1,567,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 128","Edmonton",N,N,"",1,567,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,123
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 128","Edmonton",N,N,"",1,567,"Minenko","","Mark","Liberal","Libéral",N,N,94
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 129","Edmonton",N,N,"",2,525,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 129","Edmonton",N,N,"",2,525,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 129","Edmonton",N,N,"",2,525,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,121
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 129","Edmonton",N,N,"",2,525,"Minenko","","Mark","Liberal","Libéral",N,N,76
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 130A","Edmonton",N,N,"",2,648,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 130A","Edmonton",N,N,"",2,648,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 130A","Edmonton",N,N,"",2,648,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,144
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 130A","Edmonton",N,N,"",2,648,"Minenko","","Mark","Liberal","Libéral",N,N,113
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 130B","Edmonton",N,N,"",1,600,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 130B","Edmonton",N,N,"",1,600,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 130B","Edmonton",N,N,"",1,600,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,173
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 130B","Edmonton",N,N,"",1,600,"Minenko","","Mark","Liberal","Libéral",N,N,84
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 131","Edmonton",N,N,"",2,656,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 131","Edmonton",N,N,"",2,656,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 131","Edmonton",N,N,"",2,656,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,103
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 131","Edmonton",N,N,"",2,656,"Minenko","","Mark","Liberal","Libéral",N,N,74
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 132","Edmonton",N,N,"",1,855,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 132","Edmonton",N,N,"",1,855,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 132","Edmonton",N,N,"",1,855,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,92
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 132","Edmonton",N,N,"",1,855,"Minenko","","Mark","Liberal","Libéral",N,N,201
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 133A","Edmonton",N,N,"",3,732,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 133A","Edmonton",N,N,"",3,732,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 133A","Edmonton",N,N,"",3,732,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,185
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 133A","Edmonton",N,N,"",3,732,"Minenko","","Mark","Liberal","Libéral",N,N,133
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 133B","Edmonton",N,N,"",3,640,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 133B","Edmonton",N,N,"",3,640,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 133B","Edmonton",N,N,"",3,640,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,171
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 133B","Edmonton",N,N,"",3,640,"Minenko","","Mark","Liberal","Libéral",N,N,100
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 134","Edmonton",N,N,"",6,882,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 134","Edmonton",N,N,"",6,882,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 134","Edmonton",N,N,"",6,882,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,150
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 134","Edmonton",N,N,"",6,882,"Minenko","","Mark","Liberal","Libéral",N,N,137
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 135","Edmonton",N,N,"",2,765,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 135","Edmonton",N,N,"",2,765,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 135","Edmonton",N,N,"",2,765,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,120
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 135","Edmonton",N,N,"",2,765,"Minenko","","Mark","Liberal","Libéral",N,N,113
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 136","Edmonton",N,N,"",1,947,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 136","Edmonton",N,N,"",1,947,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 136","Edmonton",N,N,"",1,947,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,162
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 136","Edmonton",N,N,"",1,947,"Minenko","","Mark","Liberal","Libéral",N,N,105
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 137","Edmonton",N,N,"",4,866,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 137","Edmonton",N,N,"",4,866,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 137","Edmonton",N,N,"",4,866,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,144
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 137","Edmonton",N,N,"",4,866,"Minenko","","Mark","Liberal","Libéral",N,N,120
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 138A","Edmonton",N,N,"",3,766,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 138A","Edmonton",N,N,"",3,766,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 138A","Edmonton",N,N,"",3,766,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,158
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 138A","Edmonton",N,N,"",3,766,"Minenko","","Mark","Liberal","Libéral",N,N,118
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 138B","Edmonton",N,N,"",4,762,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 138B","Edmonton",N,N,"",4,762,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 138B","Edmonton",N,N,"",4,762,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,169
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 138B","Edmonton",N,N,"",4,762,"Minenko","","Mark","Liberal","Libéral",N,N,108
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 139","Edmonton",N,N,"",0,896,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 139","Edmonton",N,N,"",0,896,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 139","Edmonton",N,N,"",0,896,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,213
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 139","Edmonton",N,N,"",0,896,"Minenko","","Mark","Liberal","Libéral",N,N,135
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 140","Edmonton",N,N,"",1,507,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 140","Edmonton",N,N,"",1,507,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 140","Edmonton",N,N,"",1,507,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,95
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 140","Edmonton",N,N,"",1,507,"Minenko","","Mark","Liberal","Libéral",N,N,79
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 141","Edmonton",N,N,"",0,565,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 141","Edmonton",N,N,"",0,565,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 141","Edmonton",N,N,"",0,565,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,109
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 141","Edmonton",N,N,"",0,565,"Minenko","","Mark","Liberal","Libéral",N,N,102
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 142","Edmonton",N,N,"",1,420,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 142","Edmonton",N,N,"",1,420,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 142","Edmonton",N,N,"",1,420,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,94
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 142","Edmonton",N,N,"",1,420,"Minenko","","Mark","Liberal","Libéral",N,N,59
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 143","Edmonton",N,N,"",2,772,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 143","Edmonton",N,N,"",2,772,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 143","Edmonton",N,N,"",2,772,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,137
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 143","Edmonton",N,N,"",2,772,"Minenko","","Mark","Liberal","Libéral",N,N,125
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 144","Edmonton",N,N,"",2,828,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 144","Edmonton",N,N,"",2,828,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 144","Edmonton",N,N,"",2,828,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,196
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 144","Edmonton",N,N,"",2,828,"Minenko","","Mark","Liberal","Libéral",N,N,97
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 145","Edmonton",N,N,"",4,853,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 145","Edmonton",N,N,"",4,853,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 145","Edmonton",N,N,"",4,853,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,178
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 145","Edmonton",N,N,"",4,853,"Minenko","","Mark","Liberal","Libéral",N,N,108
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 146","Edmonton",N,N,"",1,841,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 146","Edmonton",N,N,"",1,841,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 146","Edmonton",N,N,"",1,841,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,194
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 146","Edmonton",N,N,"",1,841,"Minenko","","Mark","Liberal","Libéral",N,N,100
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 147","Edmonton",N,N,"",3,873,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 147","Edmonton",N,N,"",3,873,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 147","Edmonton",N,N,"",3,873,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,204
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 147","Edmonton",N,N,"",3,873,"Minenko","","Mark","Liberal","Libéral",N,N,120
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 148","Edmonton",N,N,"",1,718,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 148","Edmonton",N,N,"",1,718,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 148","Edmonton",N,N,"",1,718,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,165
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 148","Edmonton",N,N,"",1,718,"Minenko","","Mark","Liberal","Libéral",N,N,109
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 149","Edmonton",N,N,"",4,718,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 149","Edmonton",N,N,"",4,718,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 149","Edmonton",N,N,"",4,718,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,223
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 149","Edmonton",N,N,"",4,718,"Minenko","","Mark","Liberal","Libéral",N,N,96
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 150","Edmonton",N,N,"",1,556,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 150","Edmonton",N,N,"",1,556,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 150","Edmonton",N,N,"",1,556,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,141
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 150","Edmonton",N,N,"",1,556,"Minenko","","Mark","Liberal","Libéral",N,N,87
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 151","Edmonton",N,N,"",1,694,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 151","Edmonton",N,N,"",1,694,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 151","Edmonton",N,N,"",1,694,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,133
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 151","Edmonton",N,N,"",1,694,"Minenko","","Mark","Liberal","Libéral",N,N,96
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 152","Edmonton",N,N,"",4,719,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 152","Edmonton",N,N,"",4,719,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 152","Edmonton",N,N,"",4,719,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,229
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 152","Edmonton",N,N,"",4,719,"Minenko","","Mark","Liberal","Libéral",N,N,135
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 153","Edmonton",N,N,"",9,636,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 153","Edmonton",N,N,"",9,636,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 153","Edmonton",N,N,"",9,636,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,148
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 153","Edmonton",N,N,"",9,636,"Minenko","","Mark","Liberal","Libéral",N,N,119
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 154","Edmonton",N,N,"",6,807,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 154","Edmonton",N,N,"",6,807,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 154","Edmonton",N,N,"",6,807,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,182
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 154","Edmonton",N,N,"",6,807,"Minenko","","Mark","Liberal","Libéral",N,N,130
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 155","Edmonton",N,N,"",2,772,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 155","Edmonton",N,N,"",2,772,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 155","Edmonton",N,N,"",2,772,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,188
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 155","Edmonton",N,N,"",2,772,"Minenko","","Mark","Liberal","Libéral",N,N,139
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 156","Edmonton",N,N,"",4,414,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 156","Edmonton",N,N,"",4,414,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 156","Edmonton",N,N,"",4,414,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,102
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 156","Edmonton",N,N,"",4,414,"Minenko","","Mark","Liberal","Libéral",N,N,56
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 157","Edmonton",N,N,"",2,950,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 157","Edmonton",N,N,"",2,950,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 157","Edmonton",N,N,"",2,950,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,209
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 157","Edmonton",N,N,"",2,950,"Minenko","","Mark","Liberal","Libéral",N,N,147
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 158","Edmonton",N,N,"",1,719,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 158","Edmonton",N,N,"",1,719,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 158","Edmonton",N,N,"",1,719,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,150
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 158","Edmonton",N,N,"",1,719,"Minenko","","Mark","Liberal","Libéral",N,N,113
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 159A","Edmonton",N,N,"149",0,129,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 159A","Edmonton",N,N,"149",0,129,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 159A","Edmonton",N,N,"149",0,129,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 159A","Edmonton",N,N,"149",0,129,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 159B","Edmonton",N,N,"152",0,130,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 159B","Edmonton",N,N,"152",0,130,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 159B","Edmonton",N,N,"152",0,130,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 159B","Edmonton",N,N,"152",0,130,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 400","Edmonton",N,N,"45",0,221,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 400","Edmonton",N,N,"45",0,221,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 400","Edmonton",N,N,"45",0,221,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 400","Edmonton",N,N,"45",0,221,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 401","Edmonton",N,N,"97",0,214,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 401","Edmonton",N,N,"97",0,214,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 401","Edmonton",N,N,"97",0,214,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 401","Edmonton",N,N,"97",0,214,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 402","Edmonton",N,N,"108",0,268,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 402","Edmonton",N,N,"108",0,268,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 402","Edmonton",N,N,"108",0,268,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 402","Edmonton",N,N,"108",0,268,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,70,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,70,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,70,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,70,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 501","Mobile poll/Bureau itinérant",N,N,"",3,136,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 501","Mobile poll/Bureau itinérant",N,N,"",3,136,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 501","Mobile poll/Bureau itinérant",N,N,"",3,136,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,66
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 501","Mobile poll/Bureau itinérant",N,N,"",3,136,"Minenko","","Mark","Liberal","Libéral",N,N,57
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 502","Mobile poll/Bureau itinérant",N,N,"508",0,46,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 502","Mobile poll/Bureau itinérant",N,N,"508",0,46,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 502","Mobile poll/Bureau itinérant",N,N,"508",0,46,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 502","Mobile poll/Bureau itinérant",N,N,"508",0,46,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 503","Mobile poll/Bureau itinérant",N,N,"506",0,66,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 503","Mobile poll/Bureau itinérant",N,N,"506",0,66,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 503","Mobile poll/Bureau itinérant",N,N,"506",0,66,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 503","Mobile poll/Bureau itinérant",N,N,"506",0,66,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 504","Mobile poll/Bureau itinérant",N,N,"506",0,84,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 504","Mobile poll/Bureau itinérant",N,N,"506",0,84,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 504","Mobile poll/Bureau itinérant",N,N,"506",0,84,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 504","Mobile poll/Bureau itinérant",N,N,"506",0,84,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,78,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,78,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,78,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 505","Mobile poll/Bureau itinérant",N,N,"506",0,78,"Minenko","","Mark","Liberal","Libéral",N,N,0
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 506","Mobile poll/Bureau itinérant",N,N,"",8,119,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 506","Mobile poll/Bureau itinérant",N,N,"",8,119,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 506","Mobile poll/Bureau itinérant",N,N,"",8,119,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,124
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 506","Mobile poll/Bureau itinérant",N,N,"",8,119,"Minenko","","Mark","Liberal","Libéral",N,N,78
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 507","Mobile poll/Bureau itinérant",N,N,"",2,90,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 507","Mobile poll/Bureau itinérant",N,N,"",2,90,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 507","Mobile poll/Bureau itinérant",N,N,"",2,90,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,52
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 507","Mobile poll/Bureau itinérant",N,N,"",2,90,"Minenko","","Mark","Liberal","Libéral",N,N,42
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 508","Mobile poll/Bureau itinérant",N,N,"",0,116,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 508","Mobile poll/Bureau itinérant",N,N,"",0,116,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 508","Mobile poll/Bureau itinérant",N,N,"",0,116,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,34
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 508","Mobile poll/Bureau itinérant",N,N,"",0,116,"Minenko","","Mark","Liberal","Libéral",N,N,55
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 600","Edmonton",N,N,"",5,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 600","Edmonton",N,N,"",5,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 600","Edmonton",N,N,"",5,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,518
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 600","Edmonton",N,N,"",5,0,"Minenko","","Mark","Liberal","Libéral",N,N,780
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 601","Edmonton",N,N,"",16,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 601","Edmonton",N,N,"",16,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 601","Edmonton",N,N,"",16,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,738
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 601","Edmonton",N,N,"",16,0,"Minenko","","Mark","Liberal","Libéral",N,N,778
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 602","Edmonton",N,N,"",5,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 602","Edmonton",N,N,"",5,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 602","Edmonton",N,N,"",5,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,746
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 602","Edmonton",N,N,"",5,0,"Minenko","","Mark","Liberal","Libéral",N,N,746
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 603","Edmonton",N,N,"",3,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 603","Edmonton",N,N,"",3,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 603","Edmonton",N,N,"",3,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,507
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 603","Edmonton",N,N,"",3,0,"Minenko","","Mark","Liberal","Libéral",N,N,666
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 604","Edmonton",N,N,"",7,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 604","Edmonton",N,N,"",7,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 604","Edmonton",N,N,"",7,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,351
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 604","Edmonton",N,N,"",7,0,"Minenko","","Mark","Liberal","Libéral",N,N,492
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 605","Edmonton",N,N,"",1,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 605","Edmonton",N,N,"",1,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 605","Edmonton",N,N,"",1,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,720
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 605","Edmonton",N,N,"",1,0,"Minenko","","Mark","Liberal","Libéral",N,N,714
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 606","Edmonton",N,N,"",3,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 606","Edmonton",N,N,"",3,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 606","Edmonton",N,N,"",3,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,612
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 606","Edmonton",N,N,"",3,0,"Minenko","","Mark","Liberal","Libéral",N,N,566
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 607","Edmonton",N,N,"",9,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 607","Edmonton",N,N,"",9,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,14
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 607","Edmonton",N,N,"",9,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,656
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 607","Edmonton",N,N,"",9,0,"Minenko","","Mark","Liberal","Libéral",N,N,726
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 608","Edmonton",N,N,"",4,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 608","Edmonton",N,N,"",4,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 608","Edmonton",N,N,"",4,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,685
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 608","Edmonton",N,N,"",4,0,"Minenko","","Mark","Liberal","Libéral",N,N,646
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 609","Edmonton",N,N,"",2,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 609","Edmonton",N,N,"",2,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 609","Edmonton",N,N,"",2,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,888
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 609","Edmonton",N,N,"",2,0,"Minenko","","Mark","Liberal","Libéral",N,N,775
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 610","Edmonton",N,N,"",7,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 610","Edmonton",N,N,"",7,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,17
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 610","Edmonton",N,N,"",7,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,889
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 610","Edmonton",N,N,"",7,0,"Minenko","","Mark","Liberal","Libéral",N,N,972
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 611","Edmonton",N,N,"",12,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 611","Edmonton",N,N,"",12,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 611","Edmonton",N,N,"",12,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,543
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 611","Edmonton",N,N,"",12,0,"Minenko","","Mark","Liberal","Libéral",N,N,475
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 612","Edmonton",N,N,"",10,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 612","Edmonton",N,N,"",10,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 612","Edmonton",N,N,"",10,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,845
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 612","Edmonton",N,N,"",10,0,"Minenko","","Mark","Liberal","Libéral",N,N,729
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 613","Edmonton",N,N,"",2,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 613","Edmonton",N,N,"",2,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,17
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 613","Edmonton",N,N,"",2,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,759
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 613","Edmonton",N,N,"",2,0,"Minenko","","Mark","Liberal","Libéral",N,N,601
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 614","Edmonton",N,N,"",11,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 614","Edmonton",N,N,"",11,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 614","Edmonton",N,N,"",11,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,1080
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 614","Edmonton",N,N,"",11,0,"Minenko","","Mark","Liberal","Libéral",N,N,758
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 615","Leduc County",N,N,"",2,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 615","Leduc County",N,N,"",2,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 615","Leduc County",N,N,"",2,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,940
+48020,"Edmonton Riverbend","Edmonton Riverbend"," 615","Leduc County",N,N,"",2,0,"Minenko","","Mark","Liberal","Libéral",N,N,643
+48020,"Edmonton Riverbend","Edmonton Riverbend"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",74,434,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+48020,"Edmonton Riverbend","Edmonton Riverbend"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",74,434,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,9
+48020,"Edmonton Riverbend","Edmonton Riverbend"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",74,434,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,729
+48020,"Edmonton Riverbend","Edmonton Riverbend"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",74,434,"Minenko","","Mark","Liberal","Libéral",N,N,793
+48020,"Edmonton Riverbend","Edmonton Riverbend"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",58,0,"Cake","","Susan","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+48020,"Edmonton Riverbend","Edmonton Riverbend"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",58,0,"Dudiak","","Dwayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+48020,"Edmonton Riverbend","Edmonton Riverbend"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",58,0,"Jeneroux","","Matt","Conservative","Conservateur",Y,Y,748
+48020,"Edmonton Riverbend","Edmonton Riverbend"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",58,0,"Minenko","","Mark","Liberal","Libéral",N,N,829

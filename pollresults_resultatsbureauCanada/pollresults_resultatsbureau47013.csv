@@ -1,0 +1,853 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 1","Macklin",N,N,"",1,395,"Caton","","William","Liberal","Libéral",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 1","Macklin",N,N,"",1,395,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 1","Macklin",N,N,"",1,395,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 1","Macklin",N,N,"",1,395,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,109
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 2","Macklin",N,N,"",0,439,"Caton","","William","Liberal","Libéral",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 2","Macklin",N,N,"",0,439,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 2","Macklin",N,N,"",0,439,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 2","Macklin",N,N,"",0,439,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,111
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 3","Macklin",N,N,"",0,330,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 3","Macklin",N,N,"",0,330,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 3","Macklin",N,N,"",0,330,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 3","Macklin",N,N,"",0,330,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,104
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 4","Reward",N,N,"",2,240,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 4","Reward",N,N,"",2,240,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 4","Reward",N,N,"",2,240,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 4","Reward",N,N,"",2,240,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,130
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 5","Scott",N,N,"9",0,400,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 5","Scott",N,N,"9",0,400,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 5","Scott",N,N,"9",0,400,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 5","Scott",N,N,"9",0,400,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 6","Cactus Lake",N,N,"",0,270,"Caton","","William","Liberal","Libéral",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 6","Cactus Lake",N,N,"",0,270,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 6","Cactus Lake",N,N,"",0,270,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 6","Cactus Lake",N,N,"",0,270,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,62
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 7","Denzil",N,N,"",0,384,"Caton","","William","Liberal","Libéral",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 7","Denzil",N,N,"",0,384,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 7","Denzil",N,N,"",0,384,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 7","Denzil",N,N,"",0,384,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,190
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 8","Luseland",N,N,"",0,400,"Caton","","William","Liberal","Libéral",N,N,23
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 8","Luseland",N,N,"",0,400,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 8","Luseland",N,N,"",0,400,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 8","Luseland",N,N,"",0,400,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,223
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 9","Landis",N,N,"",0,568,"Caton","","William","Liberal","Libéral",N,N,27
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 9","Landis",N,N,"",0,568,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 9","Landis",N,N,"",0,568,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 9","Landis",N,N,"",0,568,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,256
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 10","Tramping Lake",N,N,"",0,174,"Caton","","William","Liberal","Libéral",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 10","Tramping Lake",N,N,"",0,174,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 10","Tramping Lake",N,N,"",0,174,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 10","Tramping Lake",N,N,"",0,174,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,95
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 11","Kelfield",N,N,"",0,282,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 11","Kelfield",N,N,"",0,282,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 11","Kelfield",N,N,"",0,282,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 11","Kelfield",N,N,"",0,282,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,100
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 12","Kerrobert",N,N,"",0,345,"Caton","","William","Liberal","Libéral",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 12","Kerrobert",N,N,"",0,345,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 12","Kerrobert",N,N,"",0,345,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 12","Kerrobert",N,N,"",0,345,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,128
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 13A","Kerrobert",N,N,"",1,503,"Caton","","William","Liberal","Libéral",N,N,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 13A","Kerrobert",N,N,"",1,503,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 13A","Kerrobert",N,N,"",1,503,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 13A","Kerrobert",N,N,"",1,503,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,155
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 13B","Mobile poll/Bureau itinérant",N,N,"502",0,4,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 13B","Mobile poll/Bureau itinérant",N,N,"502",0,4,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 13B","Mobile poll/Bureau itinérant",N,N,"502",0,4,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 13B","Mobile poll/Bureau itinérant",N,N,"502",0,4,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 14","Major",N,N,"",1,385,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 14","Major",N,N,"",1,385,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 14","Major",N,N,"",1,385,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 14","Major",N,N,"",1,385,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,152
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 15","Monarchvale",N,N,"",1,370,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 15","Monarchvale",N,N,"",1,370,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 15","Monarchvale",N,N,"",1,370,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 15","Monarchvale",N,N,"",1,370,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,97
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 16","Biggar",N,N,"",0,412,"Caton","","William","Liberal","Libéral",N,N,24
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 16","Biggar",N,N,"",0,412,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 16","Biggar",N,N,"",0,412,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 16","Biggar",N,N,"",0,412,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,78
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 17","Biggar",N,N,"",0,323,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 17","Biggar",N,N,"",0,323,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 17","Biggar",N,N,"",0,323,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 17","Biggar",N,N,"",0,323,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,62
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 18","Biggar",N,N,"",1,367,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 18","Biggar",N,N,"",1,367,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 18","Biggar",N,N,"",1,367,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 18","Biggar",N,N,"",1,367,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,93
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 19","Springwater",N,N,"",0,221,"Caton","","William","Liberal","Libéral",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 19","Springwater",N,N,"",0,221,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 19","Springwater",N,N,"",0,221,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 19","Springwater",N,N,"",0,221,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,37
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 20","Biggar",N,N,"",1,429,"Caton","","William","Liberal","Libéral",N,N,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 20","Biggar",N,N,"",1,429,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 20","Biggar",N,N,"",1,429,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 20","Biggar",N,N,"",1,429,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,110
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 21","Kinley",N,N,"",0,251,"Caton","","William","Liberal","Libéral",N,N,21
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 21","Kinley",N,N,"",0,251,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 21","Kinley",N,N,"",0,251,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 21","Kinley",N,N,"",0,251,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,121
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 22","Kinley--Perdue",N,N,"",0,411,"Caton","","William","Liberal","Libéral",N,N,19
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 22","Kinley--Perdue",N,N,"",0,411,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 22","Kinley--Perdue",N,N,"",0,411,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 22","Kinley--Perdue",N,N,"",0,411,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,178
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 23","Coleville",N,N,"",1,337,"Caton","","William","Liberal","Libéral",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 23","Coleville",N,N,"",1,337,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 23","Coleville",N,N,"",1,337,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 23","Coleville",N,N,"",1,337,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,187
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 24","Plenty",N,N,"",1,509,"Caton","","William","Liberal","Libéral",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 24","Plenty",N,N,"",1,509,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 24","Plenty",N,N,"",1,509,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 24","Plenty",N,N,"",1,509,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,301
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 25","Herschel",N,N,"",0,300,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 25","Herschel",N,N,"",0,300,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 25","Herschel",N,N,"",0,300,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 25","Herschel",N,N,"",0,300,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,118
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 26","Marengo",N,N,"",1,500,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 26","Marengo",N,N,"",1,500,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 26","Marengo",N,N,"",1,500,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 26","Marengo",N,N,"",1,500,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,246
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 27","Marriott",N,N,"",0,261,"Caton","","William","Liberal","Libéral",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 27","Marriott",N,N,"",0,261,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 27","Marriott",N,N,"",0,261,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 27","Marriott",N,N,"",0,261,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,64
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 28","Rosetown",N,N,"",0,340,"Caton","","William","Liberal","Libéral",N,N,22
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 28","Rosetown",N,N,"",0,340,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 28","Rosetown",N,N,"",0,340,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 28","Rosetown",N,N,"",0,340,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,102
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 29","Rosetown",N,N,"",1,315,"Caton","","William","Liberal","Libéral",N,N,21
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 29","Rosetown",N,N,"",1,315,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 29","Rosetown",N,N,"",1,315,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 29","Rosetown",N,N,"",1,315,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,85
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 30","Rosetown",N,N,"",0,324,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 30","Rosetown",N,N,"",0,324,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 30","Rosetown",N,N,"",0,324,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 30","Rosetown",N,N,"",0,324,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,72
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 31","Rosetown",N,N,"",2,380,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 31","Rosetown",N,N,"",2,380,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 31","Rosetown",N,N,"",2,380,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 31","Rosetown",N,N,"",2,380,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,94
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 32","Harris",N,N,"",0,346,"Caton","","William","Liberal","Libéral",N,N,28
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 32","Harris",N,N,"",0,346,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 32","Harris",N,N,"",0,346,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 32","Harris",N,N,"",0,346,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,158
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 33","Kindersley",N,N,"",3,433,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 33","Kindersley",N,N,"",3,433,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 33","Kindersley",N,N,"",3,433,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 33","Kindersley",N,N,"",3,433,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,109
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 34","Kindersley",N,N,"",0,463,"Caton","","William","Liberal","Libéral",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 34","Kindersley",N,N,"",0,463,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 34","Kindersley",N,N,"",0,463,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 34","Kindersley",N,N,"",0,463,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,113
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 35","Kindersley",N,N,"",0,312,"Caton","","William","Liberal","Libéral",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 35","Kindersley",N,N,"",0,312,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 35","Kindersley",N,N,"",0,312,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 35","Kindersley",N,N,"",0,312,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,88
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 36","Kindersley",N,N,"",0,383,"Caton","","William","Liberal","Libéral",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 36","Kindersley",N,N,"",0,383,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 36","Kindersley",N,N,"",0,383,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 36","Kindersley",N,N,"",0,383,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,146
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 37","Kindersley",N,N,"",0,554,"Caton","","William","Liberal","Libéral",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 37","Kindersley",N,N,"",0,554,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 37","Kindersley",N,N,"",0,554,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 37","Kindersley",N,N,"",0,554,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,154
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 38","Kindersley",N,N,"",1,400,"Caton","","William","Liberal","Libéral",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 38","Kindersley",N,N,"",1,400,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 38","Kindersley",N,N,"",1,400,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 38","Kindersley",N,N,"",1,400,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,114
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 39A","Kindersley",N,N,"",0,328,"Caton","","William","Liberal","Libéral",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 39A","Kindersley",N,N,"",0,328,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 39A","Kindersley",N,N,"",0,328,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 39A","Kindersley",N,N,"",0,328,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,80
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 39B","Mobile poll/Bureau itinérant",N,N,"",4,84,"Caton","","William","Liberal","Libéral",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 39B","Mobile poll/Bureau itinérant",N,N,"",4,84,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 39B","Mobile poll/Bureau itinérant",N,N,"",4,84,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 39B","Mobile poll/Bureau itinérant",N,N,"",4,84,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,55
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 40","Kindersley",N,N,"",0,309,"Caton","","William","Liberal","Libéral",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 40","Kindersley",N,N,"",0,309,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 40","Kindersley",N,N,"",0,309,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 40","Kindersley",N,N,"",0,309,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,108
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 41","Kindersley",N,N,"",0,261,"Caton","","William","Liberal","Libéral",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 41","Kindersley",N,N,"",0,261,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 41","Kindersley",N,N,"",0,261,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 41","Kindersley",N,N,"",0,261,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,98
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 42","Donavon",N,N,"",2,453,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 42","Donavon",N,N,"",2,453,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 42","Donavon",N,N,"",2,453,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 42","Donavon",N,N,"",2,453,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,238
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 43","Brock",N,N,"",1,252,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 43","Brock",N,N,"",1,252,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 43","Brock",N,N,"",1,252,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 43","Brock",N,N,"",1,252,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,135
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 44","Rosetown",N,N,"",0,305,"Caton","","William","Liberal","Libéral",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 44","Rosetown",N,N,"",0,305,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 44","Rosetown",N,N,"",0,305,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 44","Rosetown",N,N,"",0,305,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,46
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 45","McGee",N,N,"",0,326,"Caton","","William","Liberal","Libéral",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 45","McGee",N,N,"",0,326,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 45","McGee",N,N,"",0,326,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 45","McGee",N,N,"",0,326,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,105
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 46","Sovereign",N,N,"",0,332,"Caton","","William","Liberal","Libéral",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 46","Sovereign",N,N,"",0,332,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 46","Sovereign",N,N,"",0,332,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 46","Sovereign",N,N,"",0,332,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,86
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 47","Eatonia",N,N,"",1,336,"Caton","","William","Liberal","Libéral",N,N,22
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 47","Eatonia",N,N,"",1,336,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 47","Eatonia",N,N,"",1,336,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 47","Eatonia",N,N,"",1,336,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,192
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 48","Eatonia",N,N,"",2,348,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 48","Eatonia",N,N,"",2,348,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 48","Eatonia",N,N,"",2,348,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 48","Eatonia",N,N,"",2,348,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,182
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 49","Milden",N,N,"",0,299,"Caton","","William","Liberal","Libéral",N,N,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 49","Milden",N,N,"",0,299,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 49","Milden",N,N,"",0,299,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 49","Milden",N,N,"",0,299,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,131
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 50","Conquest",N,N,"",0,297,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 50","Conquest",N,N,"",0,297,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 50","Conquest",N,N,"",0,297,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 50","Conquest",N,N,"",0,297,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,154
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 51","Glidden",N,N,"",1,231,"Caton","","William","Liberal","Libéral",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 51","Glidden",N,N,"",1,231,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 51","Glidden",N,N,"",1,231,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 51","Glidden",N,N,"",1,231,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,114
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 52","Eston",N,N,"",1,236,"Caton","","William","Liberal","Libéral",N,N,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 52","Eston",N,N,"",1,236,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 52","Eston",N,N,"",1,236,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 52","Eston",N,N,"",1,236,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,84
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 53","Eston",N,N,"",0,324,"Caton","","William","Liberal","Libéral",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 53","Eston",N,N,"",0,324,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 53","Eston",N,N,"",0,324,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 53","Eston",N,N,"",0,324,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,90
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 54","Eston",N,N,"",0,373,"Caton","","William","Liberal","Libéral",N,N,22
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 54","Eston",N,N,"",0,373,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 54","Eston",N,N,"",0,373,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 54","Eston",N,N,"",0,373,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,110
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 55","Macrorie",N,N,"",0,249,"Caton","","William","Liberal","Libéral",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 55","Macrorie",N,N,"",0,249,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 55","Macrorie",N,N,"",0,249,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 55","Macrorie",N,N,"",0,249,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,126
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 56","Elrose",N,N,"",1,347,"Caton","","William","Liberal","Libéral",N,N,47
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 56","Elrose",N,N,"",1,347,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 56","Elrose",N,N,"",1,347,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 56","Elrose",N,N,"",1,347,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,194
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 57","Elrose",N,N,"",2,383,"Caton","","William","Liberal","Libéral",N,N,22
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 57","Elrose",N,N,"",2,383,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 57","Elrose",N,N,"",2,383,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 57","Elrose",N,N,"",2,383,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,182
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 58","Dinsmore",N,N,"",1,439,"Caton","","William","Liberal","Libéral",N,N,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 58","Dinsmore",N,N,"",1,439,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 58","Dinsmore",N,N,"",1,439,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 58","Dinsmore",N,N,"",1,439,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,111
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 59","Leader",N,N,"",0,262,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 59","Leader",N,N,"",0,262,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 59","Leader",N,N,"",0,262,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 59","Leader",N,N,"",0,262,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,72
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 60","Leader",N,N,"",1,334,"Caton","","William","Liberal","Libéral",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 60","Leader",N,N,"",1,334,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 60","Leader",N,N,"",1,334,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 60","Leader",N,N,"",1,334,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,91
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 61","Leader--Mendham",N,N,"",2,426,"Caton","","William","Liberal","Libéral",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 61","Leader--Mendham",N,N,"",2,426,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 61","Leader--Mendham",N,N,"",2,426,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 61","Leader--Mendham",N,N,"",2,426,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,148
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 62","Sceptre",N,N,"",2,187,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 62","Sceptre",N,N,"",2,187,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 62","Sceptre",N,N,"",2,187,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 62","Sceptre",N,N,"",2,187,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,84
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 63","Burstall",N,N,"",1,233,"Caton","","William","Liberal","Libéral",N,N,24
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 63","Burstall",N,N,"",1,233,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 63","Burstall",N,N,"",1,233,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 63","Burstall",N,N,"",1,233,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,129
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 64","Birsay",N,N,"",0,401,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 64","Birsay",N,N,"",0,401,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 64","Birsay",N,N,"",0,401,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 64","Birsay",N,N,"",0,401,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,207
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 65","Lucky Lake",N,N,"",2,330,"Caton","","William","Liberal","Libéral",N,N,24
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 65","Lucky Lake",N,N,"",2,330,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 65","Lucky Lake",N,N,"",2,330,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 65","Lucky Lake",N,N,"",2,330,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,191
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 66","Lancer",N,N,"",1,395,"Caton","","William","Liberal","Libéral",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 66","Lancer",N,N,"",1,395,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 66","Lancer",N,N,"",1,395,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 66","Lancer",N,N,"",1,395,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,170
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 67","Lacadena",N,N,"",1,407,"Caton","","William","Liberal","Libéral",N,N,31
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 67","Lacadena",N,N,"",1,407,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 67","Lacadena",N,N,"",1,407,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 67","Lacadena",N,N,"",1,407,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,204
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 68","Kyle",N,N,"",1,335,"Caton","","William","Liberal","Libéral",N,N,32
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 68","Kyle",N,N,"",1,335,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 68","Kyle",N,N,"",1,335,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 68","Kyle",N,N,"",1,335,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,169
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 69","Richmound",N,N,"",0,170,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 69","Richmound",N,N,"",0,170,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 69","Richmound",N,N,"",0,170,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 69","Richmound",N,N,"",0,170,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,105
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 70","Beechy",N,N,"",0,436,"Caton","","William","Liberal","Libéral",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 70","Beechy",N,N,"",0,436,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 70","Beechy",N,N,"",0,436,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 70","Beechy",N,N,"",0,436,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,132
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 71","Cabri",N,N,"",0,252,"Caton","","William","Liberal","Libéral",N,N,22
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 71","Cabri",N,N,"",0,252,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 71","Cabri",N,N,"",0,252,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 71","Cabri",N,N,"",0,252,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,149
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 72","Cabri",N,N,"",1,228,"Caton","","William","Liberal","Libéral",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 72","Cabri",N,N,"",1,228,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 72","Cabri",N,N,"",1,228,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 72","Cabri",N,N,"",1,228,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,138
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 73","Fox Valley",N,N,"",0,404,"Caton","","William","Liberal","Libéral",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 73","Fox Valley",N,N,"",0,404,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 73","Fox Valley",N,N,"",0,404,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 73","Fox Valley",N,N,"",0,404,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,192
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 74","Pennant",N,N,"",0,259,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 74","Pennant",N,N,"",0,259,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 74","Pennant",N,N,"",0,259,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 74","Pennant",N,N,"",0,259,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,102
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 75","Stewart Valley",N,N,"",0,372,"Caton","","William","Liberal","Libéral",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 75","Stewart Valley",N,N,"",0,372,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 75","Stewart Valley",N,N,"",0,372,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 75","Stewart Valley",N,N,"",0,372,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,173
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 76","Hazlet",N,N,"",0,256,"Caton","","William","Liberal","Libéral",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 76","Hazlet",N,N,"",0,256,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 76","Hazlet",N,N,"",0,256,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 76","Hazlet",N,N,"",0,256,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,140
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 77","Golden Prairie",N,N,"",0,148,"Caton","","William","Liberal","Libéral",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 77","Golden Prairie",N,N,"",0,148,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 77","Golden Prairie",N,N,"",0,148,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 77","Golden Prairie",N,N,"",0,148,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,83
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 78","Herbert--Gouldtown",N,N,"",2,335,"Caton","","William","Liberal","Libéral",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 78","Herbert--Gouldtown",N,N,"",2,335,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 78","Herbert--Gouldtown",N,N,"",2,335,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 78","Herbert--Gouldtown",N,N,"",2,335,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,110
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 79","Herbert",N,N,"",0,236,"Caton","","William","Liberal","Libéral",N,N,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 79","Herbert",N,N,"",0,236,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 79","Herbert",N,N,"",0,236,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 79","Herbert",N,N,"",0,236,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,70
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 80","Herbert",N,N,"",0,317,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 80","Herbert",N,N,"",0,317,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 80","Herbert",N,N,"",0,317,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 80","Herbert",N,N,"",0,317,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,110
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 81","Success",N,N,"",0,419,"Caton","","William","Liberal","Libéral",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 81","Success",N,N,"",0,419,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 81","Success",N,N,"",0,419,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 81","Success",N,N,"",0,419,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,136
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 82","Morse",N,N,"",0,312,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 82","Morse",N,N,"",0,312,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 82","Morse",N,N,"",0,312,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 82","Morse",N,N,"",0,312,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,159
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 83","Waldeck",N,N,"",0,354,"Caton","","William","Liberal","Libéral",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 83","Waldeck",N,N,"",0,354,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 83","Waldeck",N,N,"",0,354,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 83","Waldeck",N,N,"",0,354,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,127
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 84","Waldeck",N,N,"",0,242,"Caton","","William","Liberal","Libéral",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 84","Waldeck",N,N,"",0,242,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 84","Waldeck",N,N,"",0,242,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 84","Waldeck",N,N,"",0,242,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,95
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 85","Swift Current",N,N,"",1,438,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 85","Swift Current",N,N,"",1,438,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 85","Swift Current",N,N,"",1,438,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 85","Swift Current",N,N,"",1,438,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,114
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 86","Swift Current",N,N,"",0,411,"Caton","","William","Liberal","Libéral",N,N,36
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 86","Swift Current",N,N,"",0,411,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 86","Swift Current",N,N,"",0,411,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 86","Swift Current",N,N,"",0,411,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,130
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 87","Swift Current",N,N,"",2,455,"Caton","","William","Liberal","Libéral",N,N,22
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 87","Swift Current",N,N,"",2,455,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 87","Swift Current",N,N,"",2,455,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 87","Swift Current",N,N,"",2,455,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,127
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 88","Swift Current",N,N,"",0,405,"Caton","","William","Liberal","Libéral",N,N,28
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 88","Swift Current",N,N,"",0,405,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 88","Swift Current",N,N,"",0,405,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 88","Swift Current",N,N,"",0,405,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,127
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 89","Swift Current",N,N,"",0,447,"Caton","","William","Liberal","Libéral",N,N,21
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 89","Swift Current",N,N,"",0,447,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 89","Swift Current",N,N,"",0,447,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 89","Swift Current",N,N,"",0,447,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,149
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 90","Swift Current",N,N,"",0,482,"Caton","","William","Liberal","Libéral",N,N,26
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 90","Swift Current",N,N,"",0,482,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 90","Swift Current",N,N,"",0,482,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 90","Swift Current",N,N,"",0,482,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,176
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 91","Swift Current",N,N,"",0,579,"Caton","","William","Liberal","Libéral",N,N,27
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 91","Swift Current",N,N,"",0,579,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 91","Swift Current",N,N,"",0,579,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 91","Swift Current",N,N,"",0,579,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,139
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 92","Swift Current",N,N,"",2,394,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 92","Swift Current",N,N,"",2,394,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 92","Swift Current",N,N,"",2,394,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 92","Swift Current",N,N,"",2,394,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,63
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 93","Swift Current",N,N,"",0,430,"Caton","","William","Liberal","Libéral",N,N,21
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 93","Swift Current",N,N,"",0,430,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 93","Swift Current",N,N,"",0,430,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 93","Swift Current",N,N,"",0,430,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,116
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 94","Swift Current",N,N,"",0,379,"Caton","","William","Liberal","Libéral",N,N,26
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 94","Swift Current",N,N,"",0,379,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 94","Swift Current",N,N,"",0,379,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 94","Swift Current",N,N,"",0,379,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,144
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 95","Swift Current",N,N,"",1,571,"Caton","","William","Liberal","Libéral",N,N,36
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 95","Swift Current",N,N,"",1,571,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 95","Swift Current",N,N,"",1,571,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 95","Swift Current",N,N,"",1,571,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,230
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 96","Swift Current",N,N,"",1,563,"Caton","","William","Liberal","Libéral",N,N,38
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 96","Swift Current",N,N,"",1,563,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 96","Swift Current",N,N,"",1,563,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 96","Swift Current",N,N,"",1,563,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,227
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 97","Swift Current",N,N,"",0,475,"Caton","","William","Liberal","Libéral",N,N,40
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 97","Swift Current",N,N,"",0,475,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 97","Swift Current",N,N,"",0,475,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 97","Swift Current",N,N,"",0,475,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,128
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 98","Swift Current",N,N,"",0,371,"Caton","","William","Liberal","Libéral",N,N,26
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 98","Swift Current",N,N,"",0,371,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 98","Swift Current",N,N,"",0,371,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 98","Swift Current",N,N,"",0,371,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,93
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 99","Swift Current",N,N,"",1,346,"Caton","","William","Liberal","Libéral",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 99","Swift Current",N,N,"",1,346,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 99","Swift Current",N,N,"",1,346,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 99","Swift Current",N,N,"",1,346,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,85
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 100","Swift Current",N,N,"",1,375,"Caton","","William","Liberal","Libéral",N,N,19
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 100","Swift Current",N,N,"",1,375,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 100","Swift Current",N,N,"",1,375,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 100","Swift Current",N,N,"",1,375,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,102
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 101","Swift Current",N,N,"",0,333,"Caton","","William","Liberal","Libéral",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 101","Swift Current",N,N,"",0,333,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 101","Swift Current",N,N,"",0,333,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 101","Swift Current",N,N,"",0,333,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,88
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 102","Swift Current",N,N,"",0,353,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 102","Swift Current",N,N,"",0,353,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 102","Swift Current",N,N,"",0,353,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 102","Swift Current",N,N,"",0,353,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,85
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 103","Swift Current",N,N,"",2,454,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 103","Swift Current",N,N,"",2,454,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 103","Swift Current",N,N,"",2,454,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 103","Swift Current",N,N,"",2,454,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,87
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 104","Swift Current",N,N,"",2,485,"Caton","","William","Liberal","Libéral",N,N,21
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 104","Swift Current",N,N,"",2,485,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 104","Swift Current",N,N,"",2,485,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 104","Swift Current",N,N,"",2,485,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,127
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 105","Swift Current",N,N,"",0,324,"Caton","","William","Liberal","Libéral",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 105","Swift Current",N,N,"",0,324,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 105","Swift Current",N,N,"",0,324,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 105","Swift Current",N,N,"",0,324,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,89
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 106","Swift Current",N,N,"",0,377,"Caton","","William","Liberal","Libéral",N,N,24
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 106","Swift Current",N,N,"",0,377,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 106","Swift Current",N,N,"",0,377,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 106","Swift Current",N,N,"",0,377,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,123
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 107","Swift Current",N,N,"",0,437,"Caton","","William","Liberal","Libéral",N,N,31
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 107","Swift Current",N,N,"",0,437,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 107","Swift Current",N,N,"",0,437,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 107","Swift Current",N,N,"",0,437,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,150
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 108","Swift Current",N,N,"",3,407,"Caton","","William","Liberal","Libéral",N,N,19
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 108","Swift Current",N,N,"",3,407,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 108","Swift Current",N,N,"",3,407,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 108","Swift Current",N,N,"",3,407,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,147
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 109","Webb",N,N,"",0,426,"Caton","","William","Liberal","Libéral",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 109","Webb",N,N,"",0,426,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 109","Webb",N,N,"",0,426,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 109","Webb",N,N,"",0,426,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,136
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 110","Tompkins",N,N,"",0,253,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 110","Tompkins",N,N,"",0,253,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 110","Tompkins",N,N,"",0,253,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 110","Tompkins",N,N,"",0,253,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,118
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 111","Swift Current",N,N,"",0,559,"Caton","","William","Liberal","Libéral",N,N,28
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 111","Swift Current",N,N,"",0,559,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 111","Swift Current",N,N,"",0,559,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 111","Swift Current",N,N,"",0,559,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,153
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 112","Swift Current",N,N,"",2,521,"Caton","","William","Liberal","Libéral",N,N,23
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 112","Swift Current",N,N,"",2,521,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 112","Swift Current",N,N,"",2,521,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 112","Swift Current",N,N,"",2,521,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,164
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 113","Swift Current",N,N,"",0,573,"Caton","","William","Liberal","Libéral",N,N,20
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 113","Swift Current",N,N,"",0,573,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 113","Swift Current",N,N,"",0,573,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 113","Swift Current",N,N,"",0,573,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,150
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 114","Burnham",N,N,"",0,600,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 114","Burnham",N,N,"",0,600,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 114","Burnham",N,N,"",0,600,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 114","Burnham",N,N,"",0,600,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,202
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 115","Maple Creek",N,N,"",1,334,"Caton","","William","Liberal","Libéral",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 115","Maple Creek",N,N,"",1,334,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 115","Maple Creek",N,N,"",1,334,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 115","Maple Creek",N,N,"",1,334,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,64
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 116","Maple Creek",N,N,"",0,370,"Caton","","William","Liberal","Libéral",N,N,26
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 116","Maple Creek",N,N,"",0,370,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 116","Maple Creek",N,N,"",0,370,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 116","Maple Creek",N,N,"",0,370,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,104
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 117","Maple Creek",N,N,"",1,385,"Caton","","William","Liberal","Libéral",N,N,27
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 117","Maple Creek",N,N,"",1,385,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 117","Maple Creek",N,N,"",1,385,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 117","Maple Creek",N,N,"",1,385,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,82
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 118","Piapot",N,N,"",0,222,"Caton","","William","Liberal","Libéral",N,N,26
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 118","Piapot",N,N,"",0,222,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 118","Piapot",N,N,"",0,222,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 118","Piapot",N,N,"",0,222,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,134
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 119","Hatton",N,N,"",0,501,"Caton","","William","Liberal","Libéral",N,N,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 119","Hatton",N,N,"",0,501,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 119","Hatton",N,N,"",0,501,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 119","Hatton",N,N,"",0,501,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,128
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 119-1","Nekaneet Cree Nation",N,N,"119",0,51,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 119-1","Nekaneet Cree Nation",N,N,"119",0,51,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 119-1","Nekaneet Cree Nation",N,N,"119",0,51,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 119-1","Nekaneet Cree Nation",N,N,"119",0,51,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 120","Maple Creek",N,N,"",1,459,"Caton","","William","Liberal","Libéral",N,N,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 120","Maple Creek",N,N,"",1,459,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 120","Maple Creek",N,N,"",1,459,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 120","Maple Creek",N,N,"",1,459,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,123
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 121","Maple Creek",N,N,"",0,365,"Caton","","William","Liberal","Libéral",N,N,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 121","Maple Creek",N,N,"",0,365,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 121","Maple Creek",N,N,"",0,365,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 121","Maple Creek",N,N,"",0,365,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,122
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 122A","Gull Lake",N,N,"",0,359,"Caton","","William","Liberal","Libéral",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 122A","Gull Lake",N,N,"",0,359,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 122A","Gull Lake",N,N,"",0,359,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 122A","Gull Lake",N,N,"",0,359,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,110
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 122B","Mobile poll/Bureau itinérant",N,N,"527",0,17,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 122B","Mobile poll/Bureau itinérant",N,N,"527",0,17,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 122B","Mobile poll/Bureau itinérant",N,N,"527",0,17,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 122B","Mobile poll/Bureau itinérant",N,N,"527",0,17,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 123","Gull Lake",N,N,"",0,290,"Caton","","William","Liberal","Libéral",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 123","Gull Lake",N,N,"",0,290,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 123","Gull Lake",N,N,"",0,290,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 123","Gull Lake",N,N,"",0,290,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,80
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 124","Gull Lake",N,N,"",1,334,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 124","Gull Lake",N,N,"",1,334,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 124","Gull Lake",N,N,"",1,334,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 124","Gull Lake",N,N,"",1,334,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,87
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 125","Antelope",N,N,"",0,351,"Caton","","William","Liberal","Libéral",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 125","Antelope",N,N,"",0,351,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 125","Antelope",N,N,"",0,351,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 125","Antelope",N,N,"",0,351,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,74
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 126","McMahon",N,N,"",1,352,"Caton","","William","Liberal","Libéral",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 126","McMahon",N,N,"",1,352,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 126","McMahon",N,N,"",1,352,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 126","McMahon",N,N,"",1,352,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,127
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 127","Wymark",N,N,"",2,433,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 127","Wymark",N,N,"",2,433,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 127","Wymark",N,N,"",2,433,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 127","Wymark",N,N,"",2,433,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,207
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 128","Hodgeville",N,N,"",0,379,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 128","Hodgeville",N,N,"",0,379,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 128","Hodgeville",N,N,"",0,379,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 128","Hodgeville",N,N,"",0,379,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,186
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 129","Neville",N,N,"",0,328,"Caton","","William","Liberal","Libéral",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 129","Neville",N,N,"",0,328,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 129","Neville",N,N,"",0,328,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 129","Neville",N,N,"",0,328,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,145
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 130","Admiral",N,N,"",0,388,"Caton","","William","Liberal","Libéral",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 130","Admiral",N,N,"",0,388,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 130","Admiral",N,N,"",0,388,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 130","Admiral",N,N,"",0,388,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,136
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 131","Vanguard",N,N,"",2,336,"Caton","","William","Liberal","Libéral",N,N,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 131","Vanguard",N,N,"",2,336,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 131","Vanguard",N,N,"",2,336,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 131","Vanguard",N,N,"",2,336,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,161
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 132","Shaunavon",N,N,"",1,398,"Caton","","William","Liberal","Libéral",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 132","Shaunavon",N,N,"",1,398,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 132","Shaunavon",N,N,"",1,398,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 132","Shaunavon",N,N,"",1,398,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,103
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 133","Shaunavon",N,N,"",0,294,"Caton","","William","Liberal","Libéral",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 133","Shaunavon",N,N,"",0,294,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 133","Shaunavon",N,N,"",0,294,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 133","Shaunavon",N,N,"",0,294,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,71
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 134","Shaunavon",N,N,"",0,283,"Caton","","William","Liberal","Libéral",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 134","Shaunavon",N,N,"",0,283,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 134","Shaunavon",N,N,"",0,283,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 134","Shaunavon",N,N,"",0,283,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,84
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 135","Shaunavon",N,N,"",0,297,"Caton","","William","Liberal","Libéral",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 135","Shaunavon",N,N,"",0,297,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 135","Shaunavon",N,N,"",0,297,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 135","Shaunavon",N,N,"",0,297,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,66
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 136","Shaunavon",N,N,"",0,413,"Caton","","William","Liberal","Libéral",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 136","Shaunavon",N,N,"",0,413,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 136","Shaunavon",N,N,"",0,413,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 136","Shaunavon",N,N,"",0,413,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,127
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 137","Eastend",N,N,"",1,451,"Caton","","William","Liberal","Libéral",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 137","Eastend",N,N,"",1,451,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 137","Eastend",N,N,"",1,451,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 137","Eastend",N,N,"",1,451,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,163
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 138","Eastend",N,N,"",1,368,"Caton","","William","Liberal","Libéral",N,N,26
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 138","Eastend",N,N,"",1,368,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 138","Eastend",N,N,"",1,368,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 138","Eastend",N,N,"",1,368,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,197
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 139","Ponteix",N,N,"",1,284,"Caton","","William","Liberal","Libéral",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 139","Ponteix",N,N,"",1,284,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 139","Ponteix",N,N,"",1,284,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 139","Ponteix",N,N,"",1,284,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,76
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 140","Ponteix",N,N,"",1,431,"Caton","","William","Liberal","Libéral",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 140","Ponteix",N,N,"",1,431,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 140","Ponteix",N,N,"",1,431,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 140","Ponteix",N,N,"",1,431,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,130
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 141","Consul",N,N,"",0,322,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 141","Consul",N,N,"",0,322,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 141","Consul",N,N,"",0,322,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 141","Consul",N,N,"",0,322,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,228
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 142","Kincaid",N,N,"",1,367,"Caton","","William","Liberal","Libéral",N,N,25
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 142","Kincaid",N,N,"",1,367,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 142","Kincaid",N,N,"",1,367,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 142","Kincaid",N,N,"",1,367,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,160
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 143","Lafleche",N,N,"",7,279,"Caton","","William","Liberal","Libéral",N,N,31
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 143","Lafleche",N,N,"",7,279,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 143","Lafleche",N,N,"",7,279,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 143","Lafleche",N,N,"",7,279,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,127
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 144","Lafleche",N,N,"",3,327,"Caton","","William","Liberal","Libéral",N,N,31
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 144","Lafleche",N,N,"",3,327,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 144","Lafleche",N,N,"",3,327,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 144","Lafleche",N,N,"",3,327,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,172
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 145","Climax",N,N,"",1,308,"Caton","","William","Liberal","Libéral",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 145","Climax",N,N,"",1,308,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 145","Climax",N,N,"",1,308,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 145","Climax",N,N,"",1,308,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,166
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 146","Frontier",N,N,"",7,513,"Caton","","William","Liberal","Libéral",N,N,31
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 146","Frontier",N,N,"",7,513,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 146","Frontier",N,N,"",7,513,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 146","Frontier",N,N,"",7,513,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,262
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 147","Val Marie",N,N,"",0,352,"Caton","","William","Liberal","Libéral",N,N,27
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 147","Val Marie",N,N,"",0,352,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 147","Val Marie",N,N,"",0,352,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 147","Val Marie",N,N,"",0,352,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,150
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 148","Mankota",N,N,"",2,315,"Caton","","William","Liberal","Libéral",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 148","Mankota",N,N,"",2,315,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 148","Mankota",N,N,"",2,315,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 148","Mankota",N,N,"",2,315,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,204
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 149","Fir Mountain",N,N,"",2,388,"Caton","","William","Liberal","Libéral",N,N,22
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 149","Fir Mountain",N,N,"",2,388,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 149","Fir Mountain",N,N,"",2,388,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 149","Fir Mountain",N,N,"",2,388,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,224
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 149-1","Wood Mountain 160",N,N,"149",0,3,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 149-1","Wood Mountain 160",N,N,"149",0,3,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 149-1","Wood Mountain 160",N,N,"149",0,3,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 149-1","Wood Mountain 160",N,N,"149",0,3,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 500","Mobile poll/Bureau itinérant",N,N,"",2,21,"Caton","","William","Liberal","Libéral",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 500","Mobile poll/Bureau itinérant",N,N,"",2,21,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 500","Mobile poll/Bureau itinérant",N,N,"",2,21,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 500","Mobile poll/Bureau itinérant",N,N,"",2,21,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,25
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,8,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,8,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,8,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,8,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 502","Mobile poll/Bureau itinérant",N,N,"",4,29,"Caton","","William","Liberal","Libéral",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 502","Mobile poll/Bureau itinérant",N,N,"",4,29,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 502","Mobile poll/Bureau itinérant",N,N,"",4,29,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 502","Mobile poll/Bureau itinérant",N,N,"",4,29,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 503","Mobile poll/Bureau itinérant",N,N,"",3,60,"Caton","","William","Liberal","Libéral",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 503","Mobile poll/Bureau itinérant",N,N,"",3,60,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 503","Mobile poll/Bureau itinérant",N,N,"",3,60,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 503","Mobile poll/Bureau itinérant",N,N,"",3,60,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,24
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 504","Mobile poll/Bureau itinérant",N,N,"",6,74,"Caton","","William","Liberal","Libéral",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 504","Mobile poll/Bureau itinérant",N,N,"",6,74,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 504","Mobile poll/Bureau itinérant",N,N,"",6,74,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 504","Mobile poll/Bureau itinérant",N,N,"",6,74,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,24
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 505","Mobile poll/Bureau itinérant",N,N,"39B",0,42,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 505","Mobile poll/Bureau itinérant",N,N,"39B",0,42,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 505","Mobile poll/Bureau itinérant",N,N,"39B",0,42,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 505","Mobile poll/Bureau itinérant",N,N,"39B",0,42,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 506","Mobile poll/Bureau itinérant",N,N,"504",0,22,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 506","Mobile poll/Bureau itinérant",N,N,"504",0,22,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 506","Mobile poll/Bureau itinérant",N,N,"504",0,22,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 506","Mobile poll/Bureau itinérant",N,N,"504",0,22,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 507","Mobile poll/Bureau itinérant",N,N,"503",0,55,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 507","Mobile poll/Bureau itinérant",N,N,"503",0,55,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 507","Mobile poll/Bureau itinérant",N,N,"503",0,55,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 507","Mobile poll/Bureau itinérant",N,N,"503",0,55,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,22,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,22,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,22,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,22,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 509","Mobile poll/Bureau itinérant",N,N,"",1,23,"Caton","","William","Liberal","Libéral",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 509","Mobile poll/Bureau itinérant",N,N,"",1,23,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 509","Mobile poll/Bureau itinérant",N,N,"",1,23,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 509","Mobile poll/Bureau itinérant",N,N,"",1,23,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 510","Mobile poll/Bureau itinérant",N,N,"511",0,16,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 510","Mobile poll/Bureau itinérant",N,N,"511",0,16,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 510","Mobile poll/Bureau itinérant",N,N,"511",0,16,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 510","Mobile poll/Bureau itinérant",N,N,"511",0,16,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 511","Mobile poll/Bureau itinérant",N,N,"",0,23,"Caton","","William","Liberal","Libéral",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 511","Mobile poll/Bureau itinérant",N,N,"",0,23,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 511","Mobile poll/Bureau itinérant",N,N,"",0,23,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 511","Mobile poll/Bureau itinérant",N,N,"",0,23,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 512","Mobile poll/Bureau itinérant",N,N,"",0,25,"Caton","","William","Liberal","Libéral",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 512","Mobile poll/Bureau itinérant",N,N,"",0,25,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 512","Mobile poll/Bureau itinérant",N,N,"",0,25,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 512","Mobile poll/Bureau itinérant",N,N,"",0,25,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,15,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,15,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,15,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 513","Mobile poll/Bureau itinérant",N,N,"514",0,15,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 514","Mobile poll/Bureau itinérant",N,N,"",0,17,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 514","Mobile poll/Bureau itinérant",N,N,"",0,17,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 514","Mobile poll/Bureau itinérant",N,N,"",0,17,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 514","Mobile poll/Bureau itinérant",N,N,"",0,17,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 515","Mobile poll/Bureau itinérant",N,N,"512",0,14,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 515","Mobile poll/Bureau itinérant",N,N,"512",0,14,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 515","Mobile poll/Bureau itinérant",N,N,"512",0,14,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 515","Mobile poll/Bureau itinérant",N,N,"512",0,14,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 516","Mobile poll/Bureau itinérant",N,N,"",5,34,"Caton","","William","Liberal","Libéral",N,N,10
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 516","Mobile poll/Bureau itinérant",N,N,"",5,34,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 516","Mobile poll/Bureau itinérant",N,N,"",5,34,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 516","Mobile poll/Bureau itinérant",N,N,"",5,34,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,26
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 517","Mobile poll/Bureau itinérant",N,N,"516",0,34,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 517","Mobile poll/Bureau itinérant",N,N,"516",0,34,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 517","Mobile poll/Bureau itinérant",N,N,"516",0,34,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 517","Mobile poll/Bureau itinérant",N,N,"516",0,34,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518A","Mobile poll/Bureau itinérant",N,N,"",0,73,"Caton","","William","Liberal","Libéral",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518A","Mobile poll/Bureau itinérant",N,N,"",0,73,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518A","Mobile poll/Bureau itinérant",N,N,"",0,73,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518A","Mobile poll/Bureau itinérant",N,N,"",0,73,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,27
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518B","Mobile poll/Bureau itinérant",N,N,"",0,73,"Caton","","William","Liberal","Libéral",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518B","Mobile poll/Bureau itinérant",N,N,"",0,73,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518B","Mobile poll/Bureau itinérant",N,N,"",0,73,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518B","Mobile poll/Bureau itinérant",N,N,"",0,73,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,26
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518C","Mobile poll/Bureau itinérant",N,N,"",1,63,"Caton","","William","Liberal","Libéral",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518C","Mobile poll/Bureau itinérant",N,N,"",1,63,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518C","Mobile poll/Bureau itinérant",N,N,"",1,63,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 518C","Mobile poll/Bureau itinérant",N,N,"",1,63,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,46
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 519","Mobile poll/Bureau itinérant",N,N,"518A",0,48,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 519","Mobile poll/Bureau itinérant",N,N,"518A",0,48,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 519","Mobile poll/Bureau itinérant",N,N,"518A",0,48,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 519","Mobile poll/Bureau itinérant",N,N,"518A",0,48,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 520","Mobile poll/Bureau itinérant",N,N,"",6,72,"Caton","","William","Liberal","Libéral",N,N,19
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 520","Mobile poll/Bureau itinérant",N,N,"",6,72,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 520","Mobile poll/Bureau itinérant",N,N,"",6,72,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 520","Mobile poll/Bureau itinérant",N,N,"",6,72,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,38
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 521","Mobile poll/Bureau itinérant",N,N,"525",0,53,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 521","Mobile poll/Bureau itinérant",N,N,"525",0,53,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 521","Mobile poll/Bureau itinérant",N,N,"525",0,53,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 521","Mobile poll/Bureau itinérant",N,N,"525",0,53,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 522","Mobile poll/Bureau itinérant",N,N,"520",0,57,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 522","Mobile poll/Bureau itinérant",N,N,"520",0,57,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 522","Mobile poll/Bureau itinérant",N,N,"520",0,57,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 522","Mobile poll/Bureau itinérant",N,N,"520",0,57,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 523","Mobile poll/Bureau itinérant",N,N,"518C",0,63,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 523","Mobile poll/Bureau itinérant",N,N,"518C",0,63,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 523","Mobile poll/Bureau itinérant",N,N,"518C",0,63,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 523","Mobile poll/Bureau itinérant",N,N,"518C",0,63,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 524","Mobile poll/Bureau itinérant",N,N,"518B",0,39,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 524","Mobile poll/Bureau itinérant",N,N,"518B",0,39,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 524","Mobile poll/Bureau itinérant",N,N,"518B",0,39,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 524","Mobile poll/Bureau itinérant",N,N,"518B",0,39,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 525","Mobile poll/Bureau itinérant",N,N,"",9,193,"Caton","","William","Liberal","Libéral",N,N,29
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 525","Mobile poll/Bureau itinérant",N,N,"",9,193,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 525","Mobile poll/Bureau itinérant",N,N,"",9,193,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 525","Mobile poll/Bureau itinérant",N,N,"",9,193,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,113
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 526","Mobile poll/Bureau itinérant",N,N,"527",0,35,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 526","Mobile poll/Bureau itinérant",N,N,"527",0,35,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 526","Mobile poll/Bureau itinérant",N,N,"527",0,35,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 526","Mobile poll/Bureau itinérant",N,N,"527",0,35,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 527","Mobile poll/Bureau itinérant",N,N,"",1,49,"Caton","","William","Liberal","Libéral",N,N,13
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 527","Mobile poll/Bureau itinérant",N,N,"",1,49,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 527","Mobile poll/Bureau itinérant",N,N,"",1,49,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 527","Mobile poll/Bureau itinérant",N,N,"",1,49,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,35
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 528","Mobile poll/Bureau itinérant",N,N,"",0,43,"Caton","","William","Liberal","Libéral",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 528","Mobile poll/Bureau itinérant",N,N,"",0,43,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 528","Mobile poll/Bureau itinérant",N,N,"",0,43,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 528","Mobile poll/Bureau itinérant",N,N,"",0,43,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 529","Mobile poll/Bureau itinérant",N,N,"",0,44,"Caton","","William","Liberal","Libéral",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 529","Mobile poll/Bureau itinérant",N,N,"",0,44,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 529","Mobile poll/Bureau itinérant",N,N,"",0,44,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 529","Mobile poll/Bureau itinérant",N,N,"",0,44,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 530","Mobile poll/Bureau itinérant",N,N,"529",0,31,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 530","Mobile poll/Bureau itinérant",N,N,"529",0,31,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 530","Mobile poll/Bureau itinérant",N,N,"529",0,31,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 530","Mobile poll/Bureau itinérant",N,N,"529",0,31,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 531","Mobile poll/Bureau itinérant",N,N,"528",0,26,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 531","Mobile poll/Bureau itinérant",N,N,"528",0,26,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 531","Mobile poll/Bureau itinérant",N,N,"528",0,26,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 531","Mobile poll/Bureau itinérant",N,N,"528",0,26,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 532","Mobile poll/Bureau itinérant",N,N,"",3,14,"Caton","","William","Liberal","Libéral",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 532","Mobile poll/Bureau itinérant",N,N,"",3,14,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 532","Mobile poll/Bureau itinérant",N,N,"",3,14,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 532","Mobile poll/Bureau itinérant",N,N,"",3,14,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,4
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 533","Mobile poll/Bureau itinérant",N,N,"532",0,14,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 533","Mobile poll/Bureau itinérant",N,N,"532",0,14,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 533","Mobile poll/Bureau itinérant",N,N,"532",0,14,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 533","Mobile poll/Bureau itinérant",N,N,"532",0,14,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 600","Macklin",N,N,"",3,0,"Caton","","William","Liberal","Libéral",N,N,49
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 600","Macklin",N,N,"",3,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 600","Macklin",N,N,"",3,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 600","Macklin",N,N,"",3,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,686
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 601","Cando",N,N,"",0,0,"Caton","","William","Liberal","Libéral",N,N,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 601","Cando",N,N,"",0,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 601","Cando",N,N,"",0,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 601","Cando",N,N,"",0,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,171
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 602","Biggar",N,N,"",5,0,"Caton","","William","Liberal","Libéral",N,N,129
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 602","Biggar",N,N,"",5,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 602","Biggar",N,N,"",5,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 602","Biggar",N,N,"",5,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,599
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 603","Rosetown",N,N,"",11,0,"Caton","","William","Liberal","Libéral",N,N,153
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 603","Rosetown",N,N,"",11,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,12
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 603","Rosetown",N,N,"",11,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 603","Rosetown",N,N,"",11,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,860
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 604","Plenty",N,N,"",3,0,"Caton","","William","Liberal","Libéral",N,N,38
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 604","Plenty",N,N,"",3,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 604","Plenty",N,N,"",3,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 604","Plenty",N,N,"",3,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,416
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 605","Kindersley",N,N,"",8,0,"Caton","","William","Liberal","Libéral",N,N,147
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 605","Kindersley",N,N,"",8,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 605","Kindersley",N,N,"",8,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 605","Kindersley",N,N,"",8,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,1270
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 606","Eston",N,N,"",0,0,"Caton","","William","Liberal","Libéral",N,N,46
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 606","Eston",N,N,"",0,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,3
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 606","Eston",N,N,"",0,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 606","Eston",N,N,"",0,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,298
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 607","Dinsmore",N,N,"",0,0,"Caton","","William","Liberal","Libéral",N,N,28
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 607","Dinsmore",N,N,"",0,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 607","Dinsmore",N,N,"",0,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 607","Dinsmore",N,N,"",0,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,353
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 608","Lucky Lake",N,N,"",1,0,"Caton","","William","Liberal","Libéral",N,N,30
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 608","Lucky Lake",N,N,"",1,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 608","Lucky Lake",N,N,"",1,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 608","Lucky Lake",N,N,"",1,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,200
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 609","Leader",N,N,"",5,0,"Caton","","William","Liberal","Libéral",N,N,42
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 609","Leader",N,N,"",5,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 609","Leader",N,N,"",5,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 609","Leader",N,N,"",5,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,375
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 610","Gull Lake",N,N,"",2,0,"Caton","","William","Liberal","Libéral",N,N,52
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 610","Gull Lake",N,N,"",2,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 610","Gull Lake",N,N,"",2,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 610","Gull Lake",N,N,"",2,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,404
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 611","Swift Current No. 137",N,N,"",6,0,"Caton","","William","Liberal","Libéral",N,N,147
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 611","Swift Current No. 137",N,N,"",6,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 611","Swift Current No. 137",N,N,"",6,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 611","Swift Current No. 137",N,N,"",6,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,940
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 612","Swift Current",N,N,"",4,0,"Caton","","William","Liberal","Libéral",N,N,139
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 612","Swift Current",N,N,"",4,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 612","Swift Current",N,N,"",4,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 612","Swift Current",N,N,"",4,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,741
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 613","Cabri",N,N,"",1,0,"Caton","","William","Liberal","Libéral",N,N,49
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 613","Cabri",N,N,"",1,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,1
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 613","Cabri",N,N,"",1,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 613","Cabri",N,N,"",1,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,204
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 614","Coulee No. 136",N,N,"",7,0,"Caton","","William","Liberal","Libéral",N,N,191
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 614","Coulee No. 136",N,N,"",7,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,6
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 614","Coulee No. 136",N,N,"",7,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 614","Coulee No. 136",N,N,"",7,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,1272
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 615","Chaplin",N,N,"",1,0,"Caton","","William","Liberal","Libéral",N,N,43
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 615","Chaplin",N,N,"",1,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 615","Chaplin",N,N,"",1,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 615","Chaplin",N,N,"",1,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,260
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 616","Wood Mountain 160",N,N,"617",0,0,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 616","Wood Mountain 160",N,N,"617",0,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 616","Wood Mountain 160",N,N,"617",0,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 616","Wood Mountain 160",N,N,"617",0,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 617","Ponteix",N,N,"",1,0,"Caton","","William","Liberal","Libéral",N,N,37
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 617","Ponteix",N,N,"",1,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,2
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 617","Ponteix",N,N,"",1,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 617","Ponteix",N,N,"",1,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,329
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 618","Shaunavon",N,N,"",7,0,"Caton","","William","Liberal","Libéral",N,N,92
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 618","Shaunavon",N,N,"",7,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,5
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 618","Shaunavon",N,N,"",7,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 618","Shaunavon",N,N,"",7,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,779
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 619","Maple Creek",N,N,"",2,0,"Caton","","William","Liberal","Libéral",N,N,130
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 619","Maple Creek",N,N,"",2,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,7
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 619","Maple Creek",N,N,"",2,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 619","Maple Creek",N,N,"",2,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,614
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 620","Nekaneet Cree Nation",N,N,"619",0,0,"Caton","","William","Liberal","Libéral",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 620","Nekaneet Cree Nation",N,N,"619",0,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 620","Nekaneet Cree Nation",N,N,"619",0,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," 620","Nekaneet Cree Nation",N,N,"619",0,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,0
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,84,"Caton","","William","Liberal","Libéral",N,N,79
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,84,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,8
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,84,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,84,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,230
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",28,0,"Caton","","William","Liberal","Libéral",N,N,217
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",28,0,"Lewans","","Maria Rose","Independent","Indépendant(e)",N,N,11
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",28,0,"McPhee","","Alex","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+47013,"Swift Current--Grasslands--Kindersley","Swift Current--Grasslands--Kindersley"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",28,0,"Patzer","","Jeremy","Conservative","Conservateur",Y,Y,1217

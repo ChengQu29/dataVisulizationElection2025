@@ -1,0 +1,961 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+59016,"Kelowna","Kelowna"," 1","Kelowna",N,N,"",0,547,"Fuhr","","Stephen","Liberal","Libéral",N,Y,72
+59016,"Kelowna","Kelowna"," 1","Kelowna",N,N,"",0,547,"Gray","","Tracy","Conservative","Conservateur",Y,N,134
+59016,"Kelowna","Kelowna"," 1","Kelowna",N,N,"",0,547,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59016,"Kelowna","Kelowna"," 1","Kelowna",N,N,"",0,547,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 2","Kelowna",N,N,"",0,337,"Fuhr","","Stephen","Liberal","Libéral",N,Y,68
+59016,"Kelowna","Kelowna"," 2","Kelowna",N,N,"",0,337,"Gray","","Tracy","Conservative","Conservateur",Y,N,92
+59016,"Kelowna","Kelowna"," 2","Kelowna",N,N,"",0,337,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 2","Kelowna",N,N,"",0,337,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 3","Kelowna",N,N,"2",0,126,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 3","Kelowna",N,N,"2",0,126,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 3","Kelowna",N,N,"2",0,126,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 3","Kelowna",N,N,"2",0,126,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 4","Kelowna",N,N,"",0,347,"Fuhr","","Stephen","Liberal","Libéral",N,Y,74
+59016,"Kelowna","Kelowna"," 4","Kelowna",N,N,"",0,347,"Gray","","Tracy","Conservative","Conservateur",Y,N,92
+59016,"Kelowna","Kelowna"," 4","Kelowna",N,N,"",0,347,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 4","Kelowna",N,N,"",0,347,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 5","Kelowna",N,N,"",0,343,"Fuhr","","Stephen","Liberal","Libéral",N,Y,66
+59016,"Kelowna","Kelowna"," 5","Kelowna",N,N,"",0,343,"Gray","","Tracy","Conservative","Conservateur",Y,N,94
+59016,"Kelowna","Kelowna"," 5","Kelowna",N,N,"",0,343,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59016,"Kelowna","Kelowna"," 5","Kelowna",N,N,"",0,343,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 6","Kelowna",N,N,"",0,568,"Fuhr","","Stephen","Liberal","Libéral",N,Y,71
+59016,"Kelowna","Kelowna"," 6","Kelowna",N,N,"",0,568,"Gray","","Tracy","Conservative","Conservateur",Y,N,109
+59016,"Kelowna","Kelowna"," 6","Kelowna",N,N,"",0,568,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 6","Kelowna",N,N,"",0,568,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 7","Kelowna",N,N,"5",0,58,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 7","Kelowna",N,N,"5",0,58,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 7","Kelowna",N,N,"5",0,58,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 7","Kelowna",N,N,"5",0,58,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 8","Kelowna",N,N,"",0,445,"Fuhr","","Stephen","Liberal","Libéral",N,Y,89
+59016,"Kelowna","Kelowna"," 8","Kelowna",N,N,"",0,445,"Gray","","Tracy","Conservative","Conservateur",Y,N,84
+59016,"Kelowna","Kelowna"," 8","Kelowna",N,N,"",0,445,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 8","Kelowna",N,N,"",0,445,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 9","Kelowna",N,N,"",0,441,"Fuhr","","Stephen","Liberal","Libéral",N,Y,110
+59016,"Kelowna","Kelowna"," 9","Kelowna",N,N,"",0,441,"Gray","","Tracy","Conservative","Conservateur",Y,N,121
+59016,"Kelowna","Kelowna"," 9","Kelowna",N,N,"",0,441,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 9","Kelowna",N,N,"",0,441,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 10","Kelowna",N,N,"",0,535,"Fuhr","","Stephen","Liberal","Libéral",N,Y,65
+59016,"Kelowna","Kelowna"," 10","Kelowna",N,N,"",0,535,"Gray","","Tracy","Conservative","Conservateur",Y,N,92
+59016,"Kelowna","Kelowna"," 10","Kelowna",N,N,"",0,535,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 10","Kelowna",N,N,"",0,535,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 11","Kelowna",N,N,"",0,484,"Fuhr","","Stephen","Liberal","Libéral",N,Y,80
+59016,"Kelowna","Kelowna"," 11","Kelowna",N,N,"",0,484,"Gray","","Tracy","Conservative","Conservateur",Y,N,114
+59016,"Kelowna","Kelowna"," 11","Kelowna",N,N,"",0,484,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 11","Kelowna",N,N,"",0,484,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 12","Kelowna",N,N,"",0,550,"Fuhr","","Stephen","Liberal","Libéral",N,Y,70
+59016,"Kelowna","Kelowna"," 12","Kelowna",N,N,"",0,550,"Gray","","Tracy","Conservative","Conservateur",Y,N,107
+59016,"Kelowna","Kelowna"," 12","Kelowna",N,N,"",0,550,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 12","Kelowna",N,N,"",0,550,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 13","Kelowna",N,N,"",0,504,"Fuhr","","Stephen","Liberal","Libéral",N,Y,107
+59016,"Kelowna","Kelowna"," 13","Kelowna",N,N,"",0,504,"Gray","","Tracy","Conservative","Conservateur",Y,N,105
+59016,"Kelowna","Kelowna"," 13","Kelowna",N,N,"",0,504,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 13","Kelowna",N,N,"",0,504,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 14","Kelowna",N,N,"",0,464,"Fuhr","","Stephen","Liberal","Libéral",N,Y,103
+59016,"Kelowna","Kelowna"," 14","Kelowna",N,N,"",0,464,"Gray","","Tracy","Conservative","Conservateur",Y,N,96
+59016,"Kelowna","Kelowna"," 14","Kelowna",N,N,"",0,464,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59016,"Kelowna","Kelowna"," 14","Kelowna",N,N,"",0,464,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 15","Kelowna",N,N,"",2,523,"Fuhr","","Stephen","Liberal","Libéral",N,Y,132
+59016,"Kelowna","Kelowna"," 15","Kelowna",N,N,"",2,523,"Gray","","Tracy","Conservative","Conservateur",Y,N,103
+59016,"Kelowna","Kelowna"," 15","Kelowna",N,N,"",2,523,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 15","Kelowna",N,N,"",2,523,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 16","Kelowna",N,N,"",0,434,"Fuhr","","Stephen","Liberal","Libéral",N,Y,95
+59016,"Kelowna","Kelowna"," 16","Kelowna",N,N,"",0,434,"Gray","","Tracy","Conservative","Conservateur",Y,N,110
+59016,"Kelowna","Kelowna"," 16","Kelowna",N,N,"",0,434,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 16","Kelowna",N,N,"",0,434,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 17","Kelowna",N,N,"",1,572,"Fuhr","","Stephen","Liberal","Libéral",N,Y,140
+59016,"Kelowna","Kelowna"," 17","Kelowna",N,N,"",1,572,"Gray","","Tracy","Conservative","Conservateur",Y,N,124
+59016,"Kelowna","Kelowna"," 17","Kelowna",N,N,"",1,572,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 17","Kelowna",N,N,"",1,572,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 18","Kelowna",N,N,"",0,440,"Fuhr","","Stephen","Liberal","Libéral",N,Y,102
+59016,"Kelowna","Kelowna"," 18","Kelowna",N,N,"",0,440,"Gray","","Tracy","Conservative","Conservateur",Y,N,90
+59016,"Kelowna","Kelowna"," 18","Kelowna",N,N,"",0,440,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 18","Kelowna",N,N,"",0,440,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 19","Kelowna",N,N,"",0,419,"Fuhr","","Stephen","Liberal","Libéral",N,Y,92
+59016,"Kelowna","Kelowna"," 19","Kelowna",N,N,"",0,419,"Gray","","Tracy","Conservative","Conservateur",Y,N,46
+59016,"Kelowna","Kelowna"," 19","Kelowna",N,N,"",0,419,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59016,"Kelowna","Kelowna"," 19","Kelowna",N,N,"",0,419,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 20","Kelowna",N,N,"",0,447,"Fuhr","","Stephen","Liberal","Libéral",N,Y,105
+59016,"Kelowna","Kelowna"," 20","Kelowna",N,N,"",0,447,"Gray","","Tracy","Conservative","Conservateur",Y,N,95
+59016,"Kelowna","Kelowna"," 20","Kelowna",N,N,"",0,447,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 20","Kelowna",N,N,"",0,447,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 21","Kelowna",N,N,"",1,413,"Fuhr","","Stephen","Liberal","Libéral",N,Y,56
+59016,"Kelowna","Kelowna"," 21","Kelowna",N,N,"",1,413,"Gray","","Tracy","Conservative","Conservateur",Y,N,106
+59016,"Kelowna","Kelowna"," 21","Kelowna",N,N,"",1,413,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59016,"Kelowna","Kelowna"," 21","Kelowna",N,N,"",1,413,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 22","Kelowna",N,N,"",0,419,"Fuhr","","Stephen","Liberal","Libéral",N,Y,65
+59016,"Kelowna","Kelowna"," 22","Kelowna",N,N,"",0,419,"Gray","","Tracy","Conservative","Conservateur",Y,N,88
+59016,"Kelowna","Kelowna"," 22","Kelowna",N,N,"",0,419,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 22","Kelowna",N,N,"",0,419,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 23","Kelowna",N,N,"",1,549,"Fuhr","","Stephen","Liberal","Libéral",N,Y,89
+59016,"Kelowna","Kelowna"," 23","Kelowna",N,N,"",1,549,"Gray","","Tracy","Conservative","Conservateur",Y,N,113
+59016,"Kelowna","Kelowna"," 23","Kelowna",N,N,"",1,549,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 23","Kelowna",N,N,"",1,549,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 24","Kelowna",N,N,"",0,505,"Fuhr","","Stephen","Liberal","Libéral",N,Y,74
+59016,"Kelowna","Kelowna"," 24","Kelowna",N,N,"",0,505,"Gray","","Tracy","Conservative","Conservateur",Y,N,90
+59016,"Kelowna","Kelowna"," 24","Kelowna",N,N,"",0,505,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 24","Kelowna",N,N,"",0,505,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 25","Kelowna",N,N,"",0,110,"Fuhr","","Stephen","Liberal","Libéral",N,Y,11
+59016,"Kelowna","Kelowna"," 25","Kelowna",N,N,"",0,110,"Gray","","Tracy","Conservative","Conservateur",Y,N,6
+59016,"Kelowna","Kelowna"," 25","Kelowna",N,N,"",0,110,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 25","Kelowna",N,N,"",0,110,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 26","Kelowna",N,N,"",0,535,"Fuhr","","Stephen","Liberal","Libéral",N,Y,75
+59016,"Kelowna","Kelowna"," 26","Kelowna",N,N,"",0,535,"Gray","","Tracy","Conservative","Conservateur",Y,N,112
+59016,"Kelowna","Kelowna"," 26","Kelowna",N,N,"",0,535,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 26","Kelowna",N,N,"",0,535,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 27","Kelowna",N,N,"",2,589,"Fuhr","","Stephen","Liberal","Libéral",N,Y,87
+59016,"Kelowna","Kelowna"," 27","Kelowna",N,N,"",2,589,"Gray","","Tracy","Conservative","Conservateur",Y,N,72
+59016,"Kelowna","Kelowna"," 27","Kelowna",N,N,"",2,589,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 27","Kelowna",N,N,"",2,589,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 28","Kelowna",N,N,"9",0,251,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 28","Kelowna",N,N,"9",0,251,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 28","Kelowna",N,N,"9",0,251,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 28","Kelowna",N,N,"9",0,251,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 29","Kelowna",N,N,"",1,494,"Fuhr","","Stephen","Liberal","Libéral",N,Y,82
+59016,"Kelowna","Kelowna"," 29","Kelowna",N,N,"",1,494,"Gray","","Tracy","Conservative","Conservateur",Y,N,76
+59016,"Kelowna","Kelowna"," 29","Kelowna",N,N,"",1,494,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 29","Kelowna",N,N,"",1,494,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 30","Kelowna",N,N,"",1,447,"Fuhr","","Stephen","Liberal","Libéral",N,Y,83
+59016,"Kelowna","Kelowna"," 30","Kelowna",N,N,"",1,447,"Gray","","Tracy","Conservative","Conservateur",Y,N,96
+59016,"Kelowna","Kelowna"," 30","Kelowna",N,N,"",1,447,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 30","Kelowna",N,N,"",1,447,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 31","Kelowna",N,N,"",0,454,"Fuhr","","Stephen","Liberal","Libéral",N,Y,66
+59016,"Kelowna","Kelowna"," 31","Kelowna",N,N,"",0,454,"Gray","","Tracy","Conservative","Conservateur",Y,N,77
+59016,"Kelowna","Kelowna"," 31","Kelowna",N,N,"",0,454,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 31","Kelowna",N,N,"",0,454,"Wright","","Catriona","Green Party","Parti Vert",N,N,5
+59016,"Kelowna","Kelowna"," 32","Kelowna",N,N,"",0,383,"Fuhr","","Stephen","Liberal","Libéral",N,Y,64
+59016,"Kelowna","Kelowna"," 32","Kelowna",N,N,"",0,383,"Gray","","Tracy","Conservative","Conservateur",Y,N,85
+59016,"Kelowna","Kelowna"," 32","Kelowna",N,N,"",0,383,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 32","Kelowna",N,N,"",0,383,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 33","Kelowna",N,N,"",0,454,"Fuhr","","Stephen","Liberal","Libéral",N,Y,100
+59016,"Kelowna","Kelowna"," 33","Kelowna",N,N,"",0,454,"Gray","","Tracy","Conservative","Conservateur",Y,N,85
+59016,"Kelowna","Kelowna"," 33","Kelowna",N,N,"",0,454,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 33","Kelowna",N,N,"",0,454,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 34","Kelowna",N,N,"",1,481,"Fuhr","","Stephen","Liberal","Libéral",N,Y,95
+59016,"Kelowna","Kelowna"," 34","Kelowna",N,N,"",1,481,"Gray","","Tracy","Conservative","Conservateur",Y,N,79
+59016,"Kelowna","Kelowna"," 34","Kelowna",N,N,"",1,481,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 34","Kelowna",N,N,"",1,481,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 35","Kelowna",N,N,"",1,480,"Fuhr","","Stephen","Liberal","Libéral",N,Y,76
+59016,"Kelowna","Kelowna"," 35","Kelowna",N,N,"",1,480,"Gray","","Tracy","Conservative","Conservateur",Y,N,87
+59016,"Kelowna","Kelowna"," 35","Kelowna",N,N,"",1,480,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 35","Kelowna",N,N,"",1,480,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 36","Kelowna",N,N,"",2,431,"Fuhr","","Stephen","Liberal","Libéral",N,Y,105
+59016,"Kelowna","Kelowna"," 36","Kelowna",N,N,"",2,431,"Gray","","Tracy","Conservative","Conservateur",Y,N,113
+59016,"Kelowna","Kelowna"," 36","Kelowna",N,N,"",2,431,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 36","Kelowna",N,N,"",2,431,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 37","Kelowna",N,N,"",0,528,"Fuhr","","Stephen","Liberal","Libéral",N,Y,89
+59016,"Kelowna","Kelowna"," 37","Kelowna",N,N,"",0,528,"Gray","","Tracy","Conservative","Conservateur",Y,N,109
+59016,"Kelowna","Kelowna"," 37","Kelowna",N,N,"",0,528,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 37","Kelowna",N,N,"",0,528,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 38","Kelowna",N,N,"",0,487,"Fuhr","","Stephen","Liberal","Libéral",N,Y,91
+59016,"Kelowna","Kelowna"," 38","Kelowna",N,N,"",0,487,"Gray","","Tracy","Conservative","Conservateur",Y,N,75
+59016,"Kelowna","Kelowna"," 38","Kelowna",N,N,"",0,487,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 38","Kelowna",N,N,"",0,487,"Wright","","Catriona","Green Party","Parti Vert",N,N,5
+59016,"Kelowna","Kelowna"," 39","Kelowna",N,N,"",0,462,"Fuhr","","Stephen","Liberal","Libéral",N,Y,65
+59016,"Kelowna","Kelowna"," 39","Kelowna",N,N,"",0,462,"Gray","","Tracy","Conservative","Conservateur",Y,N,71
+59016,"Kelowna","Kelowna"," 39","Kelowna",N,N,"",0,462,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 39","Kelowna",N,N,"",0,462,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 40","Kelowna",N,N,"41",0,217,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 40","Kelowna",N,N,"41",0,217,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 40","Kelowna",N,N,"41",0,217,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 40","Kelowna",N,N,"41",0,217,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 41","Kelowna",N,N,"",0,274,"Fuhr","","Stephen","Liberal","Libéral",N,Y,67
+59016,"Kelowna","Kelowna"," 41","Kelowna",N,N,"",0,274,"Gray","","Tracy","Conservative","Conservateur",Y,N,69
+59016,"Kelowna","Kelowna"," 41","Kelowna",N,N,"",0,274,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 41","Kelowna",N,N,"",0,274,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 42","Kelowna",N,N,"",1,523,"Fuhr","","Stephen","Liberal","Libéral",N,Y,66
+59016,"Kelowna","Kelowna"," 42","Kelowna",N,N,"",1,523,"Gray","","Tracy","Conservative","Conservateur",Y,N,68
+59016,"Kelowna","Kelowna"," 42","Kelowna",N,N,"",1,523,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59016,"Kelowna","Kelowna"," 42","Kelowna",N,N,"",1,523,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 43","Kelowna",N,N,"",1,486,"Fuhr","","Stephen","Liberal","Libéral",N,Y,103
+59016,"Kelowna","Kelowna"," 43","Kelowna",N,N,"",1,486,"Gray","","Tracy","Conservative","Conservateur",Y,N,88
+59016,"Kelowna","Kelowna"," 43","Kelowna",N,N,"",1,486,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 43","Kelowna",N,N,"",1,486,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 44","Kelowna",N,N,"",0,500,"Fuhr","","Stephen","Liberal","Libéral",N,Y,85
+59016,"Kelowna","Kelowna"," 44","Kelowna",N,N,"",0,500,"Gray","","Tracy","Conservative","Conservateur",Y,N,63
+59016,"Kelowna","Kelowna"," 44","Kelowna",N,N,"",0,500,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 44","Kelowna",N,N,"",0,500,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 45","Kelowna",N,N,"",64,563,"Fuhr","","Stephen","Liberal","Libéral",N,Y,74
+59016,"Kelowna","Kelowna"," 45","Kelowna",N,N,"",64,563,"Gray","","Tracy","Conservative","Conservateur",Y,N,44
+59016,"Kelowna","Kelowna"," 45","Kelowna",N,N,"",64,563,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 45","Kelowna",N,N,"",64,563,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 46","Kelowna",N,N,"",1,484,"Fuhr","","Stephen","Liberal","Libéral",N,Y,72
+59016,"Kelowna","Kelowna"," 46","Kelowna",N,N,"",1,484,"Gray","","Tracy","Conservative","Conservateur",Y,N,61
+59016,"Kelowna","Kelowna"," 46","Kelowna",N,N,"",1,484,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 46","Kelowna",N,N,"",1,484,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 47","Kelowna",N,N,"",2,579,"Fuhr","","Stephen","Liberal","Libéral",N,Y,90
+59016,"Kelowna","Kelowna"," 47","Kelowna",N,N,"",2,579,"Gray","","Tracy","Conservative","Conservateur",Y,N,81
+59016,"Kelowna","Kelowna"," 47","Kelowna",N,N,"",2,579,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 47","Kelowna",N,N,"",2,579,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 48","Kelowna",N,N,"",2,512,"Fuhr","","Stephen","Liberal","Libéral",N,Y,116
+59016,"Kelowna","Kelowna"," 48","Kelowna",N,N,"",2,512,"Gray","","Tracy","Conservative","Conservateur",Y,N,81
+59016,"Kelowna","Kelowna"," 48","Kelowna",N,N,"",2,512,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 48","Kelowna",N,N,"",2,512,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 49","Kelowna",N,N,"",1,432,"Fuhr","","Stephen","Liberal","Libéral",N,Y,113
+59016,"Kelowna","Kelowna"," 49","Kelowna",N,N,"",1,432,"Gray","","Tracy","Conservative","Conservateur",Y,N,116
+59016,"Kelowna","Kelowna"," 49","Kelowna",N,N,"",1,432,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 49","Kelowna",N,N,"",1,432,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 50","Kelowna",N,N,"",1,527,"Fuhr","","Stephen","Liberal","Libéral",N,Y,90
+59016,"Kelowna","Kelowna"," 50","Kelowna",N,N,"",1,527,"Gray","","Tracy","Conservative","Conservateur",Y,N,74
+59016,"Kelowna","Kelowna"," 50","Kelowna",N,N,"",1,527,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59016,"Kelowna","Kelowna"," 50","Kelowna",N,N,"",1,527,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 51","Kelowna",N,N,"",1,495,"Fuhr","","Stephen","Liberal","Libéral",N,Y,83
+59016,"Kelowna","Kelowna"," 51","Kelowna",N,N,"",1,495,"Gray","","Tracy","Conservative","Conservateur",Y,N,107
+59016,"Kelowna","Kelowna"," 51","Kelowna",N,N,"",1,495,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59016,"Kelowna","Kelowna"," 51","Kelowna",N,N,"",1,495,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 52","Kelowna",N,N,"",2,355,"Fuhr","","Stephen","Liberal","Libéral",N,Y,47
+59016,"Kelowna","Kelowna"," 52","Kelowna",N,N,"",2,355,"Gray","","Tracy","Conservative","Conservateur",Y,N,75
+59016,"Kelowna","Kelowna"," 52","Kelowna",N,N,"",2,355,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 52","Kelowna",N,N,"",2,355,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 53","Kelowna",N,N,"",3,458,"Fuhr","","Stephen","Liberal","Libéral",N,Y,65
+59016,"Kelowna","Kelowna"," 53","Kelowna",N,N,"",3,458,"Gray","","Tracy","Conservative","Conservateur",Y,N,120
+59016,"Kelowna","Kelowna"," 53","Kelowna",N,N,"",3,458,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 53","Kelowna",N,N,"",3,458,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 54","Kelowna",N,N,"",1,526,"Fuhr","","Stephen","Liberal","Libéral",N,Y,90
+59016,"Kelowna","Kelowna"," 54","Kelowna",N,N,"",1,526,"Gray","","Tracy","Conservative","Conservateur",Y,N,76
+59016,"Kelowna","Kelowna"," 54","Kelowna",N,N,"",1,526,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 54","Kelowna",N,N,"",1,526,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 55","Kelowna",N,N,"",0,537,"Fuhr","","Stephen","Liberal","Libéral",N,Y,60
+59016,"Kelowna","Kelowna"," 55","Kelowna",N,N,"",0,537,"Gray","","Tracy","Conservative","Conservateur",Y,N,90
+59016,"Kelowna","Kelowna"," 55","Kelowna",N,N,"",0,537,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 55","Kelowna",N,N,"",0,537,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 56","Kelowna",N,N,"",0,564,"Fuhr","","Stephen","Liberal","Libéral",N,Y,90
+59016,"Kelowna","Kelowna"," 56","Kelowna",N,N,"",0,564,"Gray","","Tracy","Conservative","Conservateur",Y,N,90
+59016,"Kelowna","Kelowna"," 56","Kelowna",N,N,"",0,564,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 56","Kelowna",N,N,"",0,564,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 57","Kelowna",N,N,"",2,555,"Fuhr","","Stephen","Liberal","Libéral",N,Y,83
+59016,"Kelowna","Kelowna"," 57","Kelowna",N,N,"",2,555,"Gray","","Tracy","Conservative","Conservateur",Y,N,92
+59016,"Kelowna","Kelowna"," 57","Kelowna",N,N,"",2,555,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 57","Kelowna",N,N,"",2,555,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 58","Kelowna",N,N,"",2,363,"Fuhr","","Stephen","Liberal","Libéral",N,Y,59
+59016,"Kelowna","Kelowna"," 58","Kelowna",N,N,"",2,363,"Gray","","Tracy","Conservative","Conservateur",Y,N,72
+59016,"Kelowna","Kelowna"," 58","Kelowna",N,N,"",2,363,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 58","Kelowna",N,N,"",2,363,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 59","Kelowna",N,N,"",1,557,"Fuhr","","Stephen","Liberal","Libéral",N,Y,77
+59016,"Kelowna","Kelowna"," 59","Kelowna",N,N,"",1,557,"Gray","","Tracy","Conservative","Conservateur",Y,N,87
+59016,"Kelowna","Kelowna"," 59","Kelowna",N,N,"",1,557,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 59","Kelowna",N,N,"",1,557,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 60","Kelowna",N,N,"",0,474,"Fuhr","","Stephen","Liberal","Libéral",N,Y,62
+59016,"Kelowna","Kelowna"," 60","Kelowna",N,N,"",0,474,"Gray","","Tracy","Conservative","Conservateur",Y,N,56
+59016,"Kelowna","Kelowna"," 60","Kelowna",N,N,"",0,474,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 60","Kelowna",N,N,"",0,474,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 61","Kelowna",N,N,"",0,557,"Fuhr","","Stephen","Liberal","Libéral",N,Y,110
+59016,"Kelowna","Kelowna"," 61","Kelowna",N,N,"",0,557,"Gray","","Tracy","Conservative","Conservateur",Y,N,73
+59016,"Kelowna","Kelowna"," 61","Kelowna",N,N,"",0,557,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59016,"Kelowna","Kelowna"," 61","Kelowna",N,N,"",0,557,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 62","Kelowna",N,N,"",1,464,"Fuhr","","Stephen","Liberal","Libéral",N,Y,112
+59016,"Kelowna","Kelowna"," 62","Kelowna",N,N,"",1,464,"Gray","","Tracy","Conservative","Conservateur",Y,N,131
+59016,"Kelowna","Kelowna"," 62","Kelowna",N,N,"",1,464,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 62","Kelowna",N,N,"",1,464,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 63","Kelowna",N,N,"",0,464,"Fuhr","","Stephen","Liberal","Libéral",N,Y,112
+59016,"Kelowna","Kelowna"," 63","Kelowna",N,N,"",0,464,"Gray","","Tracy","Conservative","Conservateur",Y,N,109
+59016,"Kelowna","Kelowna"," 63","Kelowna",N,N,"",0,464,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59016,"Kelowna","Kelowna"," 63","Kelowna",N,N,"",0,464,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 64","Kelowna",N,N,"",1,488,"Fuhr","","Stephen","Liberal","Libéral",N,Y,88
+59016,"Kelowna","Kelowna"," 64","Kelowna",N,N,"",1,488,"Gray","","Tracy","Conservative","Conservateur",Y,N,88
+59016,"Kelowna","Kelowna"," 64","Kelowna",N,N,"",1,488,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59016,"Kelowna","Kelowna"," 64","Kelowna",N,N,"",1,488,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 65","Kelowna",N,N,"",1,497,"Fuhr","","Stephen","Liberal","Libéral",N,Y,84
+59016,"Kelowna","Kelowna"," 65","Kelowna",N,N,"",1,497,"Gray","","Tracy","Conservative","Conservateur",Y,N,92
+59016,"Kelowna","Kelowna"," 65","Kelowna",N,N,"",1,497,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59016,"Kelowna","Kelowna"," 65","Kelowna",N,N,"",1,497,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 66","Kelowna",N,N,"",2,421,"Fuhr","","Stephen","Liberal","Libéral",N,Y,87
+59016,"Kelowna","Kelowna"," 66","Kelowna",N,N,"",2,421,"Gray","","Tracy","Conservative","Conservateur",Y,N,92
+59016,"Kelowna","Kelowna"," 66","Kelowna",N,N,"",2,421,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 66","Kelowna",N,N,"",2,421,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 67","Kelowna",N,N,"",1,569,"Fuhr","","Stephen","Liberal","Libéral",N,Y,97
+59016,"Kelowna","Kelowna"," 67","Kelowna",N,N,"",1,569,"Gray","","Tracy","Conservative","Conservateur",Y,N,62
+59016,"Kelowna","Kelowna"," 67","Kelowna",N,N,"",1,569,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 67","Kelowna",N,N,"",1,569,"Wright","","Catriona","Green Party","Parti Vert",N,N,5
+59016,"Kelowna","Kelowna"," 68","Kelowna",N,N,"",0,525,"Fuhr","","Stephen","Liberal","Libéral",N,Y,67
+59016,"Kelowna","Kelowna"," 68","Kelowna",N,N,"",0,525,"Gray","","Tracy","Conservative","Conservateur",Y,N,80
+59016,"Kelowna","Kelowna"," 68","Kelowna",N,N,"",0,525,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 68","Kelowna",N,N,"",0,525,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 69","Kelowna",N,N,"",0,526,"Fuhr","","Stephen","Liberal","Libéral",N,Y,93
+59016,"Kelowna","Kelowna"," 69","Kelowna",N,N,"",0,526,"Gray","","Tracy","Conservative","Conservateur",Y,N,89
+59016,"Kelowna","Kelowna"," 69","Kelowna",N,N,"",0,526,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 69","Kelowna",N,N,"",0,526,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 70","Kelowna",N,N,"",1,510,"Fuhr","","Stephen","Liberal","Libéral",N,Y,69
+59016,"Kelowna","Kelowna"," 70","Kelowna",N,N,"",1,510,"Gray","","Tracy","Conservative","Conservateur",Y,N,113
+59016,"Kelowna","Kelowna"," 70","Kelowna",N,N,"",1,510,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 70","Kelowna",N,N,"",1,510,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 71","Kelowna",N,N,"",2,532,"Fuhr","","Stephen","Liberal","Libéral",N,Y,78
+59016,"Kelowna","Kelowna"," 71","Kelowna",N,N,"",2,532,"Gray","","Tracy","Conservative","Conservateur",Y,N,93
+59016,"Kelowna","Kelowna"," 71","Kelowna",N,N,"",2,532,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59016,"Kelowna","Kelowna"," 71","Kelowna",N,N,"",2,532,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 72","Kelowna",N,N,"",1,571,"Fuhr","","Stephen","Liberal","Libéral",N,Y,69
+59016,"Kelowna","Kelowna"," 72","Kelowna",N,N,"",1,571,"Gray","","Tracy","Conservative","Conservateur",Y,N,85
+59016,"Kelowna","Kelowna"," 72","Kelowna",N,N,"",1,571,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59016,"Kelowna","Kelowna"," 72","Kelowna",N,N,"",1,571,"Wright","","Catriona","Green Party","Parti Vert",N,N,5
+59016,"Kelowna","Kelowna"," 73","Kelowna",N,N,"",1,495,"Fuhr","","Stephen","Liberal","Libéral",N,Y,61
+59016,"Kelowna","Kelowna"," 73","Kelowna",N,N,"",1,495,"Gray","","Tracy","Conservative","Conservateur",Y,N,60
+59016,"Kelowna","Kelowna"," 73","Kelowna",N,N,"",1,495,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 73","Kelowna",N,N,"",1,495,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 74","Kelowna",N,N,"",1,540,"Fuhr","","Stephen","Liberal","Libéral",N,Y,85
+59016,"Kelowna","Kelowna"," 74","Kelowna",N,N,"",1,540,"Gray","","Tracy","Conservative","Conservateur",Y,N,77
+59016,"Kelowna","Kelowna"," 74","Kelowna",N,N,"",1,540,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59016,"Kelowna","Kelowna"," 74","Kelowna",N,N,"",1,540,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 75","Kelowna",N,N,"",1,532,"Fuhr","","Stephen","Liberal","Libéral",N,Y,71
+59016,"Kelowna","Kelowna"," 75","Kelowna",N,N,"",1,532,"Gray","","Tracy","Conservative","Conservateur",Y,N,61
+59016,"Kelowna","Kelowna"," 75","Kelowna",N,N,"",1,532,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 75","Kelowna",N,N,"",1,532,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 76","Kelowna",N,N,"",0,465,"Fuhr","","Stephen","Liberal","Libéral",N,Y,80
+59016,"Kelowna","Kelowna"," 76","Kelowna",N,N,"",0,465,"Gray","","Tracy","Conservative","Conservateur",Y,N,71
+59016,"Kelowna","Kelowna"," 76","Kelowna",N,N,"",0,465,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 76","Kelowna",N,N,"",0,465,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 77","Kelowna",N,N,"",0,507,"Fuhr","","Stephen","Liberal","Libéral",N,Y,67
+59016,"Kelowna","Kelowna"," 77","Kelowna",N,N,"",0,507,"Gray","","Tracy","Conservative","Conservateur",Y,N,91
+59016,"Kelowna","Kelowna"," 77","Kelowna",N,N,"",0,507,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 77","Kelowna",N,N,"",0,507,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 78","Kelowna",N,N,"",0,561,"Fuhr","","Stephen","Liberal","Libéral",N,Y,72
+59016,"Kelowna","Kelowna"," 78","Kelowna",N,N,"",0,561,"Gray","","Tracy","Conservative","Conservateur",Y,N,85
+59016,"Kelowna","Kelowna"," 78","Kelowna",N,N,"",0,561,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 78","Kelowna",N,N,"",0,561,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 79","Kelowna",N,N,"",0,517,"Fuhr","","Stephen","Liberal","Libéral",N,Y,83
+59016,"Kelowna","Kelowna"," 79","Kelowna",N,N,"",0,517,"Gray","","Tracy","Conservative","Conservateur",Y,N,55
+59016,"Kelowna","Kelowna"," 79","Kelowna",N,N,"",0,517,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 79","Kelowna",N,N,"",0,517,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 80","Kelowna",N,N,"",0,470,"Fuhr","","Stephen","Liberal","Libéral",N,Y,65
+59016,"Kelowna","Kelowna"," 80","Kelowna",N,N,"",0,470,"Gray","","Tracy","Conservative","Conservateur",Y,N,56
+59016,"Kelowna","Kelowna"," 80","Kelowna",N,N,"",0,470,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 80","Kelowna",N,N,"",0,470,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 81","Kelowna",N,N,"",0,468,"Fuhr","","Stephen","Liberal","Libéral",N,Y,75
+59016,"Kelowna","Kelowna"," 81","Kelowna",N,N,"",0,468,"Gray","","Tracy","Conservative","Conservateur",Y,N,72
+59016,"Kelowna","Kelowna"," 81","Kelowna",N,N,"",0,468,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 81","Kelowna",N,N,"",0,468,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 82","Kelowna",N,N,"62",0,328,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 82","Kelowna",N,N,"62",0,328,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 82","Kelowna",N,N,"62",0,328,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 82","Kelowna",N,N,"62",0,328,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 83","Kelowna",N,N,"",0,534,"Fuhr","","Stephen","Liberal","Libéral",N,Y,63
+59016,"Kelowna","Kelowna"," 83","Kelowna",N,N,"",0,534,"Gray","","Tracy","Conservative","Conservateur",Y,N,54
+59016,"Kelowna","Kelowna"," 83","Kelowna",N,N,"",0,534,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 83","Kelowna",N,N,"",0,534,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 84","Kelowna",N,N,"",0,714,"Fuhr","","Stephen","Liberal","Libéral",N,Y,106
+59016,"Kelowna","Kelowna"," 84","Kelowna",N,N,"",0,714,"Gray","","Tracy","Conservative","Conservateur",Y,N,74
+59016,"Kelowna","Kelowna"," 84","Kelowna",N,N,"",0,714,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 84","Kelowna",N,N,"",0,714,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 85","Kelowna",N,N,"",1,587,"Fuhr","","Stephen","Liberal","Libéral",N,Y,70
+59016,"Kelowna","Kelowna"," 85","Kelowna",N,N,"",1,587,"Gray","","Tracy","Conservative","Conservateur",Y,N,59
+59016,"Kelowna","Kelowna"," 85","Kelowna",N,N,"",1,587,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 85","Kelowna",N,N,"",1,587,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 86","Kelowna",N,N,"87",0,182,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 86","Kelowna",N,N,"87",0,182,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 86","Kelowna",N,N,"87",0,182,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 86","Kelowna",N,N,"87",0,182,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 87","Kelowna",N,N,"",0,364,"Fuhr","","Stephen","Liberal","Libéral",N,Y,74
+59016,"Kelowna","Kelowna"," 87","Kelowna",N,N,"",0,364,"Gray","","Tracy","Conservative","Conservateur",Y,N,92
+59016,"Kelowna","Kelowna"," 87","Kelowna",N,N,"",0,364,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59016,"Kelowna","Kelowna"," 87","Kelowna",N,N,"",0,364,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 88","Kelowna",N,N,"",0,432,"Fuhr","","Stephen","Liberal","Libéral",N,Y,60
+59016,"Kelowna","Kelowna"," 88","Kelowna",N,N,"",0,432,"Gray","","Tracy","Conservative","Conservateur",Y,N,55
+59016,"Kelowna","Kelowna"," 88","Kelowna",N,N,"",0,432,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59016,"Kelowna","Kelowna"," 88","Kelowna",N,N,"",0,432,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 89","Kelowna",N,N,"",3,529,"Fuhr","","Stephen","Liberal","Libéral",N,Y,61
+59016,"Kelowna","Kelowna"," 89","Kelowna",N,N,"",3,529,"Gray","","Tracy","Conservative","Conservateur",Y,N,90
+59016,"Kelowna","Kelowna"," 89","Kelowna",N,N,"",3,529,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59016,"Kelowna","Kelowna"," 89","Kelowna",N,N,"",3,529,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 90","Kelowna",N,N,"",1,491,"Fuhr","","Stephen","Liberal","Libéral",N,Y,76
+59016,"Kelowna","Kelowna"," 90","Kelowna",N,N,"",1,491,"Gray","","Tracy","Conservative","Conservateur",Y,N,74
+59016,"Kelowna","Kelowna"," 90","Kelowna",N,N,"",1,491,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59016,"Kelowna","Kelowna"," 90","Kelowna",N,N,"",1,491,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 91","Kelowna",N,N,"",0,448,"Fuhr","","Stephen","Liberal","Libéral",N,Y,75
+59016,"Kelowna","Kelowna"," 91","Kelowna",N,N,"",0,448,"Gray","","Tracy","Conservative","Conservateur",Y,N,66
+59016,"Kelowna","Kelowna"," 91","Kelowna",N,N,"",0,448,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 91","Kelowna",N,N,"",0,448,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 92","Kelowna",N,N,"",0,466,"Fuhr","","Stephen","Liberal","Libéral",N,Y,69
+59016,"Kelowna","Kelowna"," 92","Kelowna",N,N,"",0,466,"Gray","","Tracy","Conservative","Conservateur",Y,N,128
+59016,"Kelowna","Kelowna"," 92","Kelowna",N,N,"",0,466,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 92","Kelowna",N,N,"",0,466,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 93","Kelowna",N,N,"",0,489,"Fuhr","","Stephen","Liberal","Libéral",N,Y,90
+59016,"Kelowna","Kelowna"," 93","Kelowna",N,N,"",0,489,"Gray","","Tracy","Conservative","Conservateur",Y,N,83
+59016,"Kelowna","Kelowna"," 93","Kelowna",N,N,"",0,489,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 93","Kelowna",N,N,"",0,489,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 94","Kelowna",N,N,"",1,532,"Fuhr","","Stephen","Liberal","Libéral",N,Y,70
+59016,"Kelowna","Kelowna"," 94","Kelowna",N,N,"",1,532,"Gray","","Tracy","Conservative","Conservateur",Y,N,46
+59016,"Kelowna","Kelowna"," 94","Kelowna",N,N,"",1,532,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 94","Kelowna",N,N,"",1,532,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 95","Kelowna",N,N,"",1,538,"Fuhr","","Stephen","Liberal","Libéral",N,Y,52
+59016,"Kelowna","Kelowna"," 95","Kelowna",N,N,"",1,538,"Gray","","Tracy","Conservative","Conservateur",Y,N,54
+59016,"Kelowna","Kelowna"," 95","Kelowna",N,N,"",1,538,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 95","Kelowna",N,N,"",1,538,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 96","Kelowna",N,N,"",0,495,"Fuhr","","Stephen","Liberal","Libéral",N,Y,61
+59016,"Kelowna","Kelowna"," 96","Kelowna",N,N,"",0,495,"Gray","","Tracy","Conservative","Conservateur",Y,N,36
+59016,"Kelowna","Kelowna"," 96","Kelowna",N,N,"",0,495,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59016,"Kelowna","Kelowna"," 96","Kelowna",N,N,"",0,495,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 97","Kelowna",N,N,"",0,435,"Fuhr","","Stephen","Liberal","Libéral",N,Y,64
+59016,"Kelowna","Kelowna"," 97","Kelowna",N,N,"",0,435,"Gray","","Tracy","Conservative","Conservateur",Y,N,44
+59016,"Kelowna","Kelowna"," 97","Kelowna",N,N,"",0,435,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 97","Kelowna",N,N,"",0,435,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 98","Kelowna",N,N,"",1,544,"Fuhr","","Stephen","Liberal","Libéral",N,Y,66
+59016,"Kelowna","Kelowna"," 98","Kelowna",N,N,"",1,544,"Gray","","Tracy","Conservative","Conservateur",Y,N,80
+59016,"Kelowna","Kelowna"," 98","Kelowna",N,N,"",1,544,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59016,"Kelowna","Kelowna"," 98","Kelowna",N,N,"",1,544,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 99","Kelowna",N,N,"",0,451,"Fuhr","","Stephen","Liberal","Libéral",N,Y,67
+59016,"Kelowna","Kelowna"," 99","Kelowna",N,N,"",0,451,"Gray","","Tracy","Conservative","Conservateur",Y,N,44
+59016,"Kelowna","Kelowna"," 99","Kelowna",N,N,"",0,451,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 99","Kelowna",N,N,"",0,451,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 100","Kelowna",N,N,"",3,532,"Fuhr","","Stephen","Liberal","Libéral",N,Y,81
+59016,"Kelowna","Kelowna"," 100","Kelowna",N,N,"",3,532,"Gray","","Tracy","Conservative","Conservateur",Y,N,135
+59016,"Kelowna","Kelowna"," 100","Kelowna",N,N,"",3,532,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 100","Kelowna",N,N,"",3,532,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 101","Kelowna",N,N,"",1,473,"Fuhr","","Stephen","Liberal","Libéral",N,Y,66
+59016,"Kelowna","Kelowna"," 101","Kelowna",N,N,"",1,473,"Gray","","Tracy","Conservative","Conservateur",Y,N,93
+59016,"Kelowna","Kelowna"," 101","Kelowna",N,N,"",1,473,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 101","Kelowna",N,N,"",1,473,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 102","Kelowna",N,N,"",1,527,"Fuhr","","Stephen","Liberal","Libéral",N,Y,52
+59016,"Kelowna","Kelowna"," 102","Kelowna",N,N,"",1,527,"Gray","","Tracy","Conservative","Conservateur",Y,N,63
+59016,"Kelowna","Kelowna"," 102","Kelowna",N,N,"",1,527,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 102","Kelowna",N,N,"",1,527,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 103","Kelowna",N,N,"",0,457,"Fuhr","","Stephen","Liberal","Libéral",N,Y,71
+59016,"Kelowna","Kelowna"," 103","Kelowna",N,N,"",0,457,"Gray","","Tracy","Conservative","Conservateur",Y,N,84
+59016,"Kelowna","Kelowna"," 103","Kelowna",N,N,"",0,457,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 103","Kelowna",N,N,"",0,457,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 104","Kelowna",N,N,"",0,524,"Fuhr","","Stephen","Liberal","Libéral",N,Y,49
+59016,"Kelowna","Kelowna"," 104","Kelowna",N,N,"",0,524,"Gray","","Tracy","Conservative","Conservateur",Y,N,78
+59016,"Kelowna","Kelowna"," 104","Kelowna",N,N,"",0,524,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 104","Kelowna",N,N,"",0,524,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 105","Kelowna",N,N,"",0,482,"Fuhr","","Stephen","Liberal","Libéral",N,Y,69
+59016,"Kelowna","Kelowna"," 105","Kelowna",N,N,"",0,482,"Gray","","Tracy","Conservative","Conservateur",Y,N,76
+59016,"Kelowna","Kelowna"," 105","Kelowna",N,N,"",0,482,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 105","Kelowna",N,N,"",0,482,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 106","Kelowna",N,N,"",0,448,"Fuhr","","Stephen","Liberal","Libéral",N,Y,63
+59016,"Kelowna","Kelowna"," 106","Kelowna",N,N,"",0,448,"Gray","","Tracy","Conservative","Conservateur",Y,N,58
+59016,"Kelowna","Kelowna"," 106","Kelowna",N,N,"",0,448,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 106","Kelowna",N,N,"",0,448,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 107","Kelowna",N,N,"",0,470,"Fuhr","","Stephen","Liberal","Libéral",N,Y,49
+59016,"Kelowna","Kelowna"," 107","Kelowna",N,N,"",0,470,"Gray","","Tracy","Conservative","Conservateur",Y,N,89
+59016,"Kelowna","Kelowna"," 107","Kelowna",N,N,"",0,470,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 107","Kelowna",N,N,"",0,470,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 108","Kelowna",N,N,"",1,551,"Fuhr","","Stephen","Liberal","Libéral",N,Y,71
+59016,"Kelowna","Kelowna"," 108","Kelowna",N,N,"",1,551,"Gray","","Tracy","Conservative","Conservateur",Y,N,73
+59016,"Kelowna","Kelowna"," 108","Kelowna",N,N,"",1,551,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 108","Kelowna",N,N,"",1,551,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 109","Kelowna",N,N,"",0,444,"Fuhr","","Stephen","Liberal","Libéral",N,Y,73
+59016,"Kelowna","Kelowna"," 109","Kelowna",N,N,"",0,444,"Gray","","Tracy","Conservative","Conservateur",Y,N,71
+59016,"Kelowna","Kelowna"," 109","Kelowna",N,N,"",0,444,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 109","Kelowna",N,N,"",0,444,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 110","Kelowna",N,N,"",2,557,"Fuhr","","Stephen","Liberal","Libéral",N,Y,85
+59016,"Kelowna","Kelowna"," 110","Kelowna",N,N,"",2,557,"Gray","","Tracy","Conservative","Conservateur",Y,N,78
+59016,"Kelowna","Kelowna"," 110","Kelowna",N,N,"",2,557,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59016,"Kelowna","Kelowna"," 110","Kelowna",N,N,"",2,557,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 111","Kelowna",N,N,"",2,330,"Fuhr","","Stephen","Liberal","Libéral",N,Y,73
+59016,"Kelowna","Kelowna"," 111","Kelowna",N,N,"",2,330,"Gray","","Tracy","Conservative","Conservateur",Y,N,72
+59016,"Kelowna","Kelowna"," 111","Kelowna",N,N,"",2,330,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 111","Kelowna",N,N,"",2,330,"Wright","","Catriona","Green Party","Parti Vert",N,N,5
+59016,"Kelowna","Kelowna"," 112","Kelowna",N,N,"",3,672,"Fuhr","","Stephen","Liberal","Libéral",N,Y,110
+59016,"Kelowna","Kelowna"," 112","Kelowna",N,N,"",3,672,"Gray","","Tracy","Conservative","Conservateur",Y,N,102
+59016,"Kelowna","Kelowna"," 112","Kelowna",N,N,"",3,672,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59016,"Kelowna","Kelowna"," 112","Kelowna",N,N,"",3,672,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 113","Kelowna",N,N,"",0,518,"Fuhr","","Stephen","Liberal","Libéral",N,Y,49
+59016,"Kelowna","Kelowna"," 113","Kelowna",N,N,"",0,518,"Gray","","Tracy","Conservative","Conservateur",Y,N,79
+59016,"Kelowna","Kelowna"," 113","Kelowna",N,N,"",0,518,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59016,"Kelowna","Kelowna"," 113","Kelowna",N,N,"",0,518,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 114","Kelowna",N,N,"",2,524,"Fuhr","","Stephen","Liberal","Libéral",N,Y,57
+59016,"Kelowna","Kelowna"," 114","Kelowna",N,N,"",2,524,"Gray","","Tracy","Conservative","Conservateur",Y,N,78
+59016,"Kelowna","Kelowna"," 114","Kelowna",N,N,"",2,524,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 114","Kelowna",N,N,"",2,524,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 115","Kelowna",N,N,"",0,574,"Fuhr","","Stephen","Liberal","Libéral",N,Y,72
+59016,"Kelowna","Kelowna"," 115","Kelowna",N,N,"",0,574,"Gray","","Tracy","Conservative","Conservateur",Y,N,101
+59016,"Kelowna","Kelowna"," 115","Kelowna",N,N,"",0,574,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59016,"Kelowna","Kelowna"," 115","Kelowna",N,N,"",0,574,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 116","Kelowna",N,N,"",0,472,"Fuhr","","Stephen","Liberal","Libéral",N,Y,70
+59016,"Kelowna","Kelowna"," 116","Kelowna",N,N,"",0,472,"Gray","","Tracy","Conservative","Conservateur",Y,N,81
+59016,"Kelowna","Kelowna"," 116","Kelowna",N,N,"",0,472,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 116","Kelowna",N,N,"",0,472,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 117","Kelowna",N,N,"",0,412,"Fuhr","","Stephen","Liberal","Libéral",N,Y,40
+59016,"Kelowna","Kelowna"," 117","Kelowna",N,N,"",0,412,"Gray","","Tracy","Conservative","Conservateur",Y,N,53
+59016,"Kelowna","Kelowna"," 117","Kelowna",N,N,"",0,412,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59016,"Kelowna","Kelowna"," 117","Kelowna",N,N,"",0,412,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 118","Kelowna",N,N,"",0,468,"Fuhr","","Stephen","Liberal","Libéral",N,Y,41
+59016,"Kelowna","Kelowna"," 118","Kelowna",N,N,"",0,468,"Gray","","Tracy","Conservative","Conservateur",Y,N,66
+59016,"Kelowna","Kelowna"," 118","Kelowna",N,N,"",0,468,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 118","Kelowna",N,N,"",0,468,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 119","Kelowna",N,N,"",2,465,"Fuhr","","Stephen","Liberal","Libéral",N,Y,51
+59016,"Kelowna","Kelowna"," 119","Kelowna",N,N,"",2,465,"Gray","","Tracy","Conservative","Conservateur",Y,N,50
+59016,"Kelowna","Kelowna"," 119","Kelowna",N,N,"",2,465,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 119","Kelowna",N,N,"",2,465,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 120","Kelowna",N,N,"",0,500,"Fuhr","","Stephen","Liberal","Libéral",N,Y,31
+59016,"Kelowna","Kelowna"," 120","Kelowna",N,N,"",0,500,"Gray","","Tracy","Conservative","Conservateur",Y,N,90
+59016,"Kelowna","Kelowna"," 120","Kelowna",N,N,"",0,500,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59016,"Kelowna","Kelowna"," 120","Kelowna",N,N,"",0,500,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 121","Kelowna",N,N,"",0,461,"Fuhr","","Stephen","Liberal","Libéral",N,Y,56
+59016,"Kelowna","Kelowna"," 121","Kelowna",N,N,"",0,461,"Gray","","Tracy","Conservative","Conservateur",Y,N,66
+59016,"Kelowna","Kelowna"," 121","Kelowna",N,N,"",0,461,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59016,"Kelowna","Kelowna"," 121","Kelowna",N,N,"",0,461,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 122","Kelowna",N,N,"",1,463,"Fuhr","","Stephen","Liberal","Libéral",N,Y,60
+59016,"Kelowna","Kelowna"," 122","Kelowna",N,N,"",1,463,"Gray","","Tracy","Conservative","Conservateur",Y,N,82
+59016,"Kelowna","Kelowna"," 122","Kelowna",N,N,"",1,463,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 122","Kelowna",N,N,"",1,463,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 123","Kelowna",N,N,"",3,450,"Fuhr","","Stephen","Liberal","Libéral",N,Y,54
+59016,"Kelowna","Kelowna"," 123","Kelowna",N,N,"",3,450,"Gray","","Tracy","Conservative","Conservateur",Y,N,83
+59016,"Kelowna","Kelowna"," 123","Kelowna",N,N,"",3,450,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 123","Kelowna",N,N,"",3,450,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 124","Kelowna",N,N,"",1,423,"Fuhr","","Stephen","Liberal","Libéral",N,Y,54
+59016,"Kelowna","Kelowna"," 124","Kelowna",N,N,"",1,423,"Gray","","Tracy","Conservative","Conservateur",Y,N,74
+59016,"Kelowna","Kelowna"," 124","Kelowna",N,N,"",1,423,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 124","Kelowna",N,N,"",1,423,"Wright","","Catriona","Green Party","Parti Vert",N,N,7
+59016,"Kelowna","Kelowna"," 125","Kelowna",N,N,"",0,277,"Fuhr","","Stephen","Liberal","Libéral",N,Y,40
+59016,"Kelowna","Kelowna"," 125","Kelowna",N,N,"",0,277,"Gray","","Tracy","Conservative","Conservateur",Y,N,55
+59016,"Kelowna","Kelowna"," 125","Kelowna",N,N,"",0,277,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 125","Kelowna",N,N,"",0,277,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 126","Kelowna",N,N,"",0,526,"Fuhr","","Stephen","Liberal","Libéral",N,Y,69
+59016,"Kelowna","Kelowna"," 126","Kelowna",N,N,"",0,526,"Gray","","Tracy","Conservative","Conservateur",Y,N,38
+59016,"Kelowna","Kelowna"," 126","Kelowna",N,N,"",0,526,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 126","Kelowna",N,N,"",0,526,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 127","Kelowna",N,N,"",0,499,"Fuhr","","Stephen","Liberal","Libéral",N,Y,74
+59016,"Kelowna","Kelowna"," 127","Kelowna",N,N,"",0,499,"Gray","","Tracy","Conservative","Conservateur",Y,N,59
+59016,"Kelowna","Kelowna"," 127","Kelowna",N,N,"",0,499,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59016,"Kelowna","Kelowna"," 127","Kelowna",N,N,"",0,499,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 128","Kelowna",N,N,"",2,448,"Fuhr","","Stephen","Liberal","Libéral",N,Y,62
+59016,"Kelowna","Kelowna"," 128","Kelowna",N,N,"",2,448,"Gray","","Tracy","Conservative","Conservateur",Y,N,54
+59016,"Kelowna","Kelowna"," 128","Kelowna",N,N,"",2,448,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59016,"Kelowna","Kelowna"," 128","Kelowna",N,N,"",2,448,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 129","Kelowna",N,N,"",0,463,"Fuhr","","Stephen","Liberal","Libéral",N,Y,44
+59016,"Kelowna","Kelowna"," 129","Kelowna",N,N,"",0,463,"Gray","","Tracy","Conservative","Conservateur",Y,N,40
+59016,"Kelowna","Kelowna"," 129","Kelowna",N,N,"",0,463,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 129","Kelowna",N,N,"",0,463,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 130","Kelowna",N,N,"",3,536,"Fuhr","","Stephen","Liberal","Libéral",N,Y,90
+59016,"Kelowna","Kelowna"," 130","Kelowna",N,N,"",3,536,"Gray","","Tracy","Conservative","Conservateur",Y,N,84
+59016,"Kelowna","Kelowna"," 130","Kelowna",N,N,"",3,536,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 130","Kelowna",N,N,"",3,536,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 131","Kelowna",N,N,"",1,410,"Fuhr","","Stephen","Liberal","Libéral",N,Y,49
+59016,"Kelowna","Kelowna"," 131","Kelowna",N,N,"",1,410,"Gray","","Tracy","Conservative","Conservateur",Y,N,36
+59016,"Kelowna","Kelowna"," 131","Kelowna",N,N,"",1,410,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 131","Kelowna",N,N,"",1,410,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 132","Kelowna",N,N,"",0,531,"Fuhr","","Stephen","Liberal","Libéral",N,Y,76
+59016,"Kelowna","Kelowna"," 132","Kelowna",N,N,"",0,531,"Gray","","Tracy","Conservative","Conservateur",Y,N,70
+59016,"Kelowna","Kelowna"," 132","Kelowna",N,N,"",0,531,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 132","Kelowna",N,N,"",0,531,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 133","Kelowna",N,N,"111",0,330,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 133","Kelowna",N,N,"111",0,330,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 133","Kelowna",N,N,"111",0,330,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 133","Kelowna",N,N,"111",0,330,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 134","Kelowna",N,N,"",0,452,"Fuhr","","Stephen","Liberal","Libéral",N,Y,63
+59016,"Kelowna","Kelowna"," 134","Kelowna",N,N,"",0,452,"Gray","","Tracy","Conservative","Conservateur",Y,N,63
+59016,"Kelowna","Kelowna"," 134","Kelowna",N,N,"",0,452,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 134","Kelowna",N,N,"",0,452,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 135","Kelowna",N,N,"",0,309,"Fuhr","","Stephen","Liberal","Libéral",N,Y,39
+59016,"Kelowna","Kelowna"," 135","Kelowna",N,N,"",0,309,"Gray","","Tracy","Conservative","Conservateur",Y,N,40
+59016,"Kelowna","Kelowna"," 135","Kelowna",N,N,"",0,309,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 135","Kelowna",N,N,"",0,309,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 136A","Kelowna",N,N,"",1,350,"Fuhr","","Stephen","Liberal","Libéral",N,Y,72
+59016,"Kelowna","Kelowna"," 136A","Kelowna",N,N,"",1,350,"Gray","","Tracy","Conservative","Conservateur",Y,N,94
+59016,"Kelowna","Kelowna"," 136A","Kelowna",N,N,"",1,350,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 136A","Kelowna",N,N,"",1,350,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 136B","Kelowna",N,N,"",0,403,"Fuhr","","Stephen","Liberal","Libéral",N,Y,88
+59016,"Kelowna","Kelowna"," 136B","Kelowna",N,N,"",0,403,"Gray","","Tracy","Conservative","Conservateur",Y,N,97
+59016,"Kelowna","Kelowna"," 136B","Kelowna",N,N,"",0,403,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 136B","Kelowna",N,N,"",0,403,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 137","Kelowna",N,N,"",0,493,"Fuhr","","Stephen","Liberal","Libéral",N,Y,55
+59016,"Kelowna","Kelowna"," 137","Kelowna",N,N,"",0,493,"Gray","","Tracy","Conservative","Conservateur",Y,N,57
+59016,"Kelowna","Kelowna"," 137","Kelowna",N,N,"",0,493,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 137","Kelowna",N,N,"",0,493,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 138","Kelowna",N,N,"",3,541,"Fuhr","","Stephen","Liberal","Libéral",N,Y,67
+59016,"Kelowna","Kelowna"," 138","Kelowna",N,N,"",3,541,"Gray","","Tracy","Conservative","Conservateur",Y,N,60
+59016,"Kelowna","Kelowna"," 138","Kelowna",N,N,"",3,541,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 138","Kelowna",N,N,"",3,541,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 139","Kelowna",N,N,"",0,459,"Fuhr","","Stephen","Liberal","Libéral",N,Y,64
+59016,"Kelowna","Kelowna"," 139","Kelowna",N,N,"",0,459,"Gray","","Tracy","Conservative","Conservateur",Y,N,75
+59016,"Kelowna","Kelowna"," 139","Kelowna",N,N,"",0,459,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59016,"Kelowna","Kelowna"," 139","Kelowna",N,N,"",0,459,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 140","Kelowna",N,N,"",1,493,"Fuhr","","Stephen","Liberal","Libéral",N,Y,64
+59016,"Kelowna","Kelowna"," 140","Kelowna",N,N,"",1,493,"Gray","","Tracy","Conservative","Conservateur",Y,N,92
+59016,"Kelowna","Kelowna"," 140","Kelowna",N,N,"",1,493,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 140","Kelowna",N,N,"",1,493,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 141","Kelowna",N,N,"",0,403,"Fuhr","","Stephen","Liberal","Libéral",N,Y,72
+59016,"Kelowna","Kelowna"," 141","Kelowna",N,N,"",0,403,"Gray","","Tracy","Conservative","Conservateur",Y,N,63
+59016,"Kelowna","Kelowna"," 141","Kelowna",N,N,"",0,403,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 141","Kelowna",N,N,"",0,403,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 142","Kelowna",N,N,"",3,434,"Fuhr","","Stephen","Liberal","Libéral",N,Y,53
+59016,"Kelowna","Kelowna"," 142","Kelowna",N,N,"",3,434,"Gray","","Tracy","Conservative","Conservateur",Y,N,95
+59016,"Kelowna","Kelowna"," 142","Kelowna",N,N,"",3,434,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 142","Kelowna",N,N,"",3,434,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 143","Kelowna",N,N,"",0,416,"Fuhr","","Stephen","Liberal","Libéral",N,Y,56
+59016,"Kelowna","Kelowna"," 143","Kelowna",N,N,"",0,416,"Gray","","Tracy","Conservative","Conservateur",Y,N,65
+59016,"Kelowna","Kelowna"," 143","Kelowna",N,N,"",0,416,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 143","Kelowna",N,N,"",0,416,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 144","Kelowna",N,N,"",0,465,"Fuhr","","Stephen","Liberal","Libéral",N,Y,62
+59016,"Kelowna","Kelowna"," 144","Kelowna",N,N,"",0,465,"Gray","","Tracy","Conservative","Conservateur",Y,N,71
+59016,"Kelowna","Kelowna"," 144","Kelowna",N,N,"",0,465,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 144","Kelowna",N,N,"",0,465,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 145","Kelowna",N,N,"",1,425,"Fuhr","","Stephen","Liberal","Libéral",N,Y,69
+59016,"Kelowna","Kelowna"," 145","Kelowna",N,N,"",1,425,"Gray","","Tracy","Conservative","Conservateur",Y,N,69
+59016,"Kelowna","Kelowna"," 145","Kelowna",N,N,"",1,425,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 145","Kelowna",N,N,"",1,425,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 146","Kelowna",N,N,"",1,445,"Fuhr","","Stephen","Liberal","Libéral",N,Y,52
+59016,"Kelowna","Kelowna"," 146","Kelowna",N,N,"",1,445,"Gray","","Tracy","Conservative","Conservateur",Y,N,72
+59016,"Kelowna","Kelowna"," 146","Kelowna",N,N,"",1,445,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 146","Kelowna",N,N,"",1,445,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 147","Kelowna",N,N,"",0,517,"Fuhr","","Stephen","Liberal","Libéral",N,Y,77
+59016,"Kelowna","Kelowna"," 147","Kelowna",N,N,"",0,517,"Gray","","Tracy","Conservative","Conservateur",Y,N,96
+59016,"Kelowna","Kelowna"," 147","Kelowna",N,N,"",0,517,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 147","Kelowna",N,N,"",0,517,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 148","Kelowna",N,N,"",0,429,"Fuhr","","Stephen","Liberal","Libéral",N,Y,80
+59016,"Kelowna","Kelowna"," 148","Kelowna",N,N,"",0,429,"Gray","","Tracy","Conservative","Conservateur",Y,N,36
+59016,"Kelowna","Kelowna"," 148","Kelowna",N,N,"",0,429,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 148","Kelowna",N,N,"",0,429,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 149","Kelowna",N,N,"",0,450,"Fuhr","","Stephen","Liberal","Libéral",N,Y,69
+59016,"Kelowna","Kelowna"," 149","Kelowna",N,N,"",0,450,"Gray","","Tracy","Conservative","Conservateur",Y,N,64
+59016,"Kelowna","Kelowna"," 149","Kelowna",N,N,"",0,450,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 149","Kelowna",N,N,"",0,450,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 150A","Kelowna",N,N,"136A",0,97,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 150A","Kelowna",N,N,"136A",0,97,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 150A","Kelowna",N,N,"136A",0,97,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 150A","Kelowna",N,N,"136A",0,97,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 150B","Kelowna",N,N,"136B",0,112,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 150B","Kelowna",N,N,"136B",0,112,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 150B","Kelowna",N,N,"136B",0,112,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 150B","Kelowna",N,N,"136B",0,112,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 151","Kelowna",N,N,"",1,469,"Fuhr","","Stephen","Liberal","Libéral",N,Y,56
+59016,"Kelowna","Kelowna"," 151","Kelowna",N,N,"",1,469,"Gray","","Tracy","Conservative","Conservateur",Y,N,63
+59016,"Kelowna","Kelowna"," 151","Kelowna",N,N,"",1,469,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 151","Kelowna",N,N,"",1,469,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 152","Kelowna",N,N,"",0,511,"Fuhr","","Stephen","Liberal","Libéral",N,Y,83
+59016,"Kelowna","Kelowna"," 152","Kelowna",N,N,"",0,511,"Gray","","Tracy","Conservative","Conservateur",Y,N,102
+59016,"Kelowna","Kelowna"," 152","Kelowna",N,N,"",0,511,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 152","Kelowna",N,N,"",0,511,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 153","Kelowna",N,N,"",3,782,"Fuhr","","Stephen","Liberal","Libéral",N,Y,94
+59016,"Kelowna","Kelowna"," 153","Kelowna",N,N,"",3,782,"Gray","","Tracy","Conservative","Conservateur",Y,N,162
+59016,"Kelowna","Kelowna"," 153","Kelowna",N,N,"",3,782,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 153","Kelowna",N,N,"",3,782,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 154","Kelowna",N,N,"",1,673,"Fuhr","","Stephen","Liberal","Libéral",N,Y,104
+59016,"Kelowna","Kelowna"," 154","Kelowna",N,N,"",1,673,"Gray","","Tracy","Conservative","Conservateur",Y,N,171
+59016,"Kelowna","Kelowna"," 154","Kelowna",N,N,"",1,673,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59016,"Kelowna","Kelowna"," 154","Kelowna",N,N,"",1,673,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 155","Kelowna",N,N,"",0,548,"Fuhr","","Stephen","Liberal","Libéral",N,Y,74
+59016,"Kelowna","Kelowna"," 155","Kelowna",N,N,"",0,548,"Gray","","Tracy","Conservative","Conservateur",Y,N,134
+59016,"Kelowna","Kelowna"," 155","Kelowna",N,N,"",0,548,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 155","Kelowna",N,N,"",0,548,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 156","Kelowna",N,N,"",0,532,"Fuhr","","Stephen","Liberal","Libéral",N,Y,97
+59016,"Kelowna","Kelowna"," 156","Kelowna",N,N,"",0,532,"Gray","","Tracy","Conservative","Conservateur",Y,N,132
+59016,"Kelowna","Kelowna"," 156","Kelowna",N,N,"",0,532,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 156","Kelowna",N,N,"",0,532,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 157","Kelowna",N,N,"",2,595,"Fuhr","","Stephen","Liberal","Libéral",N,Y,118
+59016,"Kelowna","Kelowna"," 157","Kelowna",N,N,"",2,595,"Gray","","Tracy","Conservative","Conservateur",Y,N,137
+59016,"Kelowna","Kelowna"," 157","Kelowna",N,N,"",2,595,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 157","Kelowna",N,N,"",2,595,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 158","Kelowna",N,N,"",1,455,"Fuhr","","Stephen","Liberal","Libéral",N,Y,43
+59016,"Kelowna","Kelowna"," 158","Kelowna",N,N,"",1,455,"Gray","","Tracy","Conservative","Conservateur",Y,N,70
+59016,"Kelowna","Kelowna"," 158","Kelowna",N,N,"",1,455,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 158","Kelowna",N,N,"",1,455,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 159","Kelowna",N,N,"",0,462,"Fuhr","","Stephen","Liberal","Libéral",N,Y,57
+59016,"Kelowna","Kelowna"," 159","Kelowna",N,N,"",0,462,"Gray","","Tracy","Conservative","Conservateur",Y,N,86
+59016,"Kelowna","Kelowna"," 159","Kelowna",N,N,"",0,462,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 159","Kelowna",N,N,"",0,462,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 160","Kelowna",N,N,"",0,428,"Fuhr","","Stephen","Liberal","Libéral",N,Y,54
+59016,"Kelowna","Kelowna"," 160","Kelowna",N,N,"",0,428,"Gray","","Tracy","Conservative","Conservateur",Y,N,96
+59016,"Kelowna","Kelowna"," 160","Kelowna",N,N,"",0,428,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 160","Kelowna",N,N,"",0,428,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 161","Kelowna",N,N,"",0,449,"Fuhr","","Stephen","Liberal","Libéral",N,Y,53
+59016,"Kelowna","Kelowna"," 161","Kelowna",N,N,"",0,449,"Gray","","Tracy","Conservative","Conservateur",Y,N,75
+59016,"Kelowna","Kelowna"," 161","Kelowna",N,N,"",0,449,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 161","Kelowna",N,N,"",0,449,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 162","Kelowna",N,N,"",0,542,"Fuhr","","Stephen","Liberal","Libéral",N,Y,53
+59016,"Kelowna","Kelowna"," 162","Kelowna",N,N,"",0,542,"Gray","","Tracy","Conservative","Conservateur",Y,N,94
+59016,"Kelowna","Kelowna"," 162","Kelowna",N,N,"",0,542,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59016,"Kelowna","Kelowna"," 162","Kelowna",N,N,"",0,542,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 163","Kelowna",N,N,"",0,424,"Fuhr","","Stephen","Liberal","Libéral",N,Y,63
+59016,"Kelowna","Kelowna"," 163","Kelowna",N,N,"",0,424,"Gray","","Tracy","Conservative","Conservateur",Y,N,92
+59016,"Kelowna","Kelowna"," 163","Kelowna",N,N,"",0,424,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 163","Kelowna",N,N,"",0,424,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 164","Kelowna",N,N,"",0,475,"Fuhr","","Stephen","Liberal","Libéral",N,Y,63
+59016,"Kelowna","Kelowna"," 164","Kelowna",N,N,"",0,475,"Gray","","Tracy","Conservative","Conservateur",Y,N,76
+59016,"Kelowna","Kelowna"," 164","Kelowna",N,N,"",0,475,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59016,"Kelowna","Kelowna"," 164","Kelowna",N,N,"",0,475,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 165","Kelowna",N,N,"",0,458,"Fuhr","","Stephen","Liberal","Libéral",N,Y,55
+59016,"Kelowna","Kelowna"," 165","Kelowna",N,N,"",0,458,"Gray","","Tracy","Conservative","Conservateur",Y,N,103
+59016,"Kelowna","Kelowna"," 165","Kelowna",N,N,"",0,458,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 165","Kelowna",N,N,"",0,458,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 166","Kelowna",N,N,"",0,505,"Fuhr","","Stephen","Liberal","Libéral",N,Y,77
+59016,"Kelowna","Kelowna"," 166","Kelowna",N,N,"",0,505,"Gray","","Tracy","Conservative","Conservateur",Y,N,112
+59016,"Kelowna","Kelowna"," 166","Kelowna",N,N,"",0,505,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 166","Kelowna",N,N,"",0,505,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 167","Kelowna",N,N,"",0,428,"Fuhr","","Stephen","Liberal","Libéral",N,Y,67
+59016,"Kelowna","Kelowna"," 167","Kelowna",N,N,"",0,428,"Gray","","Tracy","Conservative","Conservateur",Y,N,76
+59016,"Kelowna","Kelowna"," 167","Kelowna",N,N,"",0,428,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 167","Kelowna",N,N,"",0,428,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 168","Kelowna",N,N,"",0,534,"Fuhr","","Stephen","Liberal","Libéral",N,Y,72
+59016,"Kelowna","Kelowna"," 168","Kelowna",N,N,"",0,534,"Gray","","Tracy","Conservative","Conservateur",Y,N,137
+59016,"Kelowna","Kelowna"," 168","Kelowna",N,N,"",0,534,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 168","Kelowna",N,N,"",0,534,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 169","Kelowna",N,N,"",0,325,"Fuhr","","Stephen","Liberal","Libéral",N,Y,32
+59016,"Kelowna","Kelowna"," 169","Kelowna",N,N,"",0,325,"Gray","","Tracy","Conservative","Conservateur",Y,N,114
+59016,"Kelowna","Kelowna"," 169","Kelowna",N,N,"",0,325,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59016,"Kelowna","Kelowna"," 169","Kelowna",N,N,"",0,325,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 170","Big White",N,N,"",1,262,"Fuhr","","Stephen","Liberal","Libéral",N,Y,78
+59016,"Kelowna","Kelowna"," 170","Big White",N,N,"",1,262,"Gray","","Tracy","Conservative","Conservateur",Y,N,46
+59016,"Kelowna","Kelowna"," 170","Big White",N,N,"",1,262,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 170","Big White",N,N,"",1,262,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 171","Beaverdell",N,N,"",3,441,"Fuhr","","Stephen","Liberal","Libéral",N,Y,53
+59016,"Kelowna","Kelowna"," 171","Beaverdell",N,N,"",3,441,"Gray","","Tracy","Conservative","Conservateur",Y,N,193
+59016,"Kelowna","Kelowna"," 171","Beaverdell",N,N,"",3,441,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59016,"Kelowna","Kelowna"," 171","Beaverdell",N,N,"",3,441,"Wright","","Catriona","Green Party","Parti Vert",N,N,9
+59016,"Kelowna","Kelowna"," 400","Kelowna",N,N,"1",0,65,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 400","Kelowna",N,N,"1",0,65,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 400","Kelowna",N,N,"1",0,65,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 400","Kelowna",N,N,"1",0,65,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 401","Kelowna",Y,N,"",0,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 401","Kelowna",Y,N,"",0,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 401","Kelowna",Y,N,"",0,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 401","Kelowna",Y,N,"",0,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 402","Kelowna",N,N,"32",0,43,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 402","Kelowna",N,N,"32",0,43,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 402","Kelowna",N,N,"32",0,43,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 402","Kelowna",N,N,"32",0,43,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 403","Kelowna",N,N,"405",0,220,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 403","Kelowna",N,N,"405",0,220,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 403","Kelowna",N,N,"405",0,220,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 403","Kelowna",N,N,"405",0,220,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 404","Kelowna",N,N,"36",0,176,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 404","Kelowna",N,N,"36",0,176,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 404","Kelowna",N,N,"36",0,176,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 404","Kelowna",N,N,"36",0,176,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 405","Kelowna",N,N,"",2,246,"Fuhr","","Stephen","Liberal","Libéral",N,Y,65
+59016,"Kelowna","Kelowna"," 405","Kelowna",N,N,"",2,246,"Gray","","Tracy","Conservative","Conservateur",Y,N,85
+59016,"Kelowna","Kelowna"," 405","Kelowna",N,N,"",2,246,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 405","Kelowna",N,N,"",2,246,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 406","Kelowna",N,N,"43",0,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 406","Kelowna",N,N,"43",0,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 406","Kelowna",N,N,"43",0,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 406","Kelowna",N,N,"43",0,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 407","Kelowna",N,N,"46",0,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 407","Kelowna",N,N,"46",0,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 407","Kelowna",N,N,"46",0,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 407","Kelowna",N,N,"46",0,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 408","Kelowna",N,N,"46",0,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 408","Kelowna",N,N,"46",0,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 408","Kelowna",N,N,"46",0,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 408","Kelowna",N,N,"46",0,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 409","Kelowna",N,N,"49",0,90,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 409","Kelowna",N,N,"49",0,90,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 409","Kelowna",N,N,"49",0,90,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 409","Kelowna",N,N,"49",0,90,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 410","Kelowna",N,N,"46",0,1,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 410","Kelowna",N,N,"46",0,1,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 410","Kelowna",N,N,"46",0,1,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 410","Kelowna",N,N,"46",0,1,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 411","Kelowna",N,N,"49",0,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 411","Kelowna",N,N,"49",0,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 411","Kelowna",N,N,"49",0,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 411","Kelowna",N,N,"49",0,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 412","Kelowna",N,N,"49",0,140,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 412","Kelowna",N,N,"49",0,140,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 412","Kelowna",N,N,"49",0,140,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 412","Kelowna",N,N,"49",0,140,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 413","Kelowna",N,N,"51",0,129,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 413","Kelowna",N,N,"51",0,129,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 413","Kelowna",N,N,"51",0,129,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 413","Kelowna",N,N,"51",0,129,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 414","Kelowna",N,N,"56",0,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 414","Kelowna",N,N,"56",0,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 414","Kelowna",N,N,"56",0,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 414","Kelowna",N,N,"56",0,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 415","Kelowna",N,N,"63",0,262,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 415","Kelowna",N,N,"63",0,262,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 415","Kelowna",N,N,"63",0,262,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 415","Kelowna",N,N,"63",0,262,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 416","Kelowna",N,N,"66",0,214,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 416","Kelowna",N,N,"66",0,214,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 416","Kelowna",N,N,"66",0,214,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 416","Kelowna",N,N,"66",0,214,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 417","Kelowna",N,N,"84",0,2,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 417","Kelowna",N,N,"84",0,2,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 417","Kelowna",N,N,"84",0,2,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 417","Kelowna",N,N,"84",0,2,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 418","Kelowna",N,N,"87",0,21,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 418","Kelowna",N,N,"87",0,21,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 418","Kelowna",N,N,"87",0,21,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 418","Kelowna",N,N,"87",0,21,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 419","Kelowna",N,N,"87",0,1,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 419","Kelowna",N,N,"87",0,1,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 419","Kelowna",N,N,"87",0,1,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 419","Kelowna",N,N,"87",0,1,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 420","Kelowna",N,N,"109",0,14,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 420","Kelowna",N,N,"109",0,14,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 420","Kelowna",N,N,"109",0,14,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 420","Kelowna",N,N,"109",0,14,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 421","Kelowna",N,N,"122",0,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 421","Kelowna",N,N,"122",0,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 421","Kelowna",N,N,"122",0,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 421","Kelowna",N,N,"122",0,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 500","Mobile poll/Bureau itinérant",N,N,"503",0,42,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 500","Mobile poll/Bureau itinérant",N,N,"503",0,42,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 500","Mobile poll/Bureau itinérant",N,N,"503",0,42,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 500","Mobile poll/Bureau itinérant",N,N,"503",0,42,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 501","Mobile poll/Bureau itinérant",N,N,"516",0,37,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 501","Mobile poll/Bureau itinérant",N,N,"516",0,37,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 501","Mobile poll/Bureau itinérant",N,N,"516",0,37,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 501","Mobile poll/Bureau itinérant",N,N,"516",0,37,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 502","Mobile poll/Bureau itinérant",N,N,"522",0,43,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 502","Mobile poll/Bureau itinérant",N,N,"522",0,43,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 502","Mobile poll/Bureau itinérant",N,N,"522",0,43,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 502","Mobile poll/Bureau itinérant",N,N,"522",0,43,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 503","Mobile poll/Bureau itinérant",N,N,"",0,161,"Fuhr","","Stephen","Liberal","Libéral",N,Y,91
+59016,"Kelowna","Kelowna"," 503","Mobile poll/Bureau itinérant",N,N,"",0,161,"Gray","","Tracy","Conservative","Conservateur",Y,N,46
+59016,"Kelowna","Kelowna"," 503","Mobile poll/Bureau itinérant",N,N,"",0,161,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 503","Mobile poll/Bureau itinérant",N,N,"",0,161,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 504","Mobile poll/Bureau itinérant",N,N,"505",0,60,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 504","Mobile poll/Bureau itinérant",N,N,"505",0,60,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 504","Mobile poll/Bureau itinérant",N,N,"505",0,60,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 504","Mobile poll/Bureau itinérant",N,N,"505",0,60,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 505","Mobile poll/Bureau itinérant",N,N,"",3,149,"Fuhr","","Stephen","Liberal","Libéral",N,Y,90
+59016,"Kelowna","Kelowna"," 505","Mobile poll/Bureau itinérant",N,N,"",3,149,"Gray","","Tracy","Conservative","Conservateur",Y,N,61
+59016,"Kelowna","Kelowna"," 505","Mobile poll/Bureau itinérant",N,N,"",3,149,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59016,"Kelowna","Kelowna"," 505","Mobile poll/Bureau itinérant",N,N,"",3,149,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 506","Mobile poll/Bureau itinérant",N,N,"514",0,28,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 506","Mobile poll/Bureau itinérant",N,N,"514",0,28,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 506","Mobile poll/Bureau itinérant",N,N,"514",0,28,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 506","Mobile poll/Bureau itinérant",N,N,"514",0,28,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 507","Mobile poll/Bureau itinérant",N,N,"",4,127,"Fuhr","","Stephen","Liberal","Libéral",N,Y,56
+59016,"Kelowna","Kelowna"," 507","Mobile poll/Bureau itinérant",N,N,"",4,127,"Gray","","Tracy","Conservative","Conservateur",Y,N,39
+59016,"Kelowna","Kelowna"," 507","Mobile poll/Bureau itinérant",N,N,"",4,127,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 507","Mobile poll/Bureau itinérant",N,N,"",4,127,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 508","Mobile poll/Bureau itinérant",N,N,"507",0,26,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 508","Mobile poll/Bureau itinérant",N,N,"507",0,26,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 508","Mobile poll/Bureau itinérant",N,N,"507",0,26,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 508","Mobile poll/Bureau itinérant",N,N,"507",0,26,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 509","Mobile poll/Bureau itinérant",N,N,"",6,122,"Fuhr","","Stephen","Liberal","Libéral",N,Y,30
+59016,"Kelowna","Kelowna"," 509","Mobile poll/Bureau itinérant",N,N,"",6,122,"Gray","","Tracy","Conservative","Conservateur",Y,N,43
+59016,"Kelowna","Kelowna"," 509","Mobile poll/Bureau itinérant",N,N,"",6,122,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59016,"Kelowna","Kelowna"," 509","Mobile poll/Bureau itinérant",N,N,"",6,122,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 510","Mobile poll/Bureau itinérant",N,N,"509",0,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 510","Mobile poll/Bureau itinérant",N,N,"509",0,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 510","Mobile poll/Bureau itinérant",N,N,"509",0,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 510","Mobile poll/Bureau itinérant",N,N,"509",0,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 511","Mobile poll/Bureau itinérant",N,N,"",2,92,"Fuhr","","Stephen","Liberal","Libéral",N,Y,29
+59016,"Kelowna","Kelowna"," 511","Mobile poll/Bureau itinérant",N,N,"",2,92,"Gray","","Tracy","Conservative","Conservateur",Y,N,42
+59016,"Kelowna","Kelowna"," 511","Mobile poll/Bureau itinérant",N,N,"",2,92,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59016,"Kelowna","Kelowna"," 511","Mobile poll/Bureau itinérant",N,N,"",2,92,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 512","Mobile poll/Bureau itinérant",N,N,"515",0,80,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 512","Mobile poll/Bureau itinérant",N,N,"515",0,80,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 512","Mobile poll/Bureau itinérant",N,N,"515",0,80,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 512","Mobile poll/Bureau itinérant",N,N,"515",0,80,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 513","Mobile poll/Bureau itinérant",N,N,"511",0,35,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 513","Mobile poll/Bureau itinérant",N,N,"511",0,35,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 513","Mobile poll/Bureau itinérant",N,N,"511",0,35,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 513","Mobile poll/Bureau itinérant",N,N,"511",0,35,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 514","Mobile poll/Bureau itinérant",N,N,"",3,103,"Fuhr","","Stephen","Liberal","Libéral",N,Y,52
+59016,"Kelowna","Kelowna"," 514","Mobile poll/Bureau itinérant",N,N,"",3,103,"Gray","","Tracy","Conservative","Conservateur",Y,N,29
+59016,"Kelowna","Kelowna"," 514","Mobile poll/Bureau itinérant",N,N,"",3,103,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59016,"Kelowna","Kelowna"," 514","Mobile poll/Bureau itinérant",N,N,"",3,103,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 515","Mobile poll/Bureau itinérant",N,N,"",3,134,"Fuhr","","Stephen","Liberal","Libéral",N,Y,58
+59016,"Kelowna","Kelowna"," 515","Mobile poll/Bureau itinérant",N,N,"",3,134,"Gray","","Tracy","Conservative","Conservateur",Y,N,65
+59016,"Kelowna","Kelowna"," 515","Mobile poll/Bureau itinérant",N,N,"",3,134,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59016,"Kelowna","Kelowna"," 515","Mobile poll/Bureau itinérant",N,N,"",3,134,"Wright","","Catriona","Green Party","Parti Vert",N,N,2
+59016,"Kelowna","Kelowna"," 516","Mobile poll/Bureau itinérant",N,N,"",2,101,"Fuhr","","Stephen","Liberal","Libéral",N,Y,52
+59016,"Kelowna","Kelowna"," 516","Mobile poll/Bureau itinérant",N,N,"",2,101,"Gray","","Tracy","Conservative","Conservateur",Y,N,38
+59016,"Kelowna","Kelowna"," 516","Mobile poll/Bureau itinérant",N,N,"",2,101,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59016,"Kelowna","Kelowna"," 516","Mobile poll/Bureau itinérant",N,N,"",2,101,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 517","Mobile poll/Bureau itinérant",N,N,"",1,120,"Fuhr","","Stephen","Liberal","Libéral",N,Y,60
+59016,"Kelowna","Kelowna"," 517","Mobile poll/Bureau itinérant",N,N,"",1,120,"Gray","","Tracy","Conservative","Conservateur",Y,N,34
+59016,"Kelowna","Kelowna"," 517","Mobile poll/Bureau itinérant",N,N,"",1,120,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59016,"Kelowna","Kelowna"," 517","Mobile poll/Bureau itinérant",N,N,"",1,120,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,4,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,4,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,4,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 518","Mobile poll/Bureau itinérant",N,N,"517",0,4,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 519","Mobile poll/Bureau itinérant",N,N,"",2,140,"Fuhr","","Stephen","Liberal","Libéral",N,Y,69
+59016,"Kelowna","Kelowna"," 519","Mobile poll/Bureau itinérant",N,N,"",2,140,"Gray","","Tracy","Conservative","Conservateur",Y,N,35
+59016,"Kelowna","Kelowna"," 519","Mobile poll/Bureau itinérant",N,N,"",2,140,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59016,"Kelowna","Kelowna"," 519","Mobile poll/Bureau itinérant",N,N,"",2,140,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 520","Mobile poll/Bureau itinérant",N,N,"521",0,38,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 520","Mobile poll/Bureau itinérant",N,N,"521",0,38,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 520","Mobile poll/Bureau itinérant",N,N,"521",0,38,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 520","Mobile poll/Bureau itinérant",N,N,"521",0,38,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 521","Mobile poll/Bureau itinérant",N,N,"",1,173,"Fuhr","","Stephen","Liberal","Libéral",N,Y,63
+59016,"Kelowna","Kelowna"," 521","Mobile poll/Bureau itinérant",N,N,"",1,173,"Gray","","Tracy","Conservative","Conservateur",Y,N,60
+59016,"Kelowna","Kelowna"," 521","Mobile poll/Bureau itinérant",N,N,"",1,173,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 521","Mobile poll/Bureau itinérant",N,N,"",1,173,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," 522","Mobile poll/Bureau itinérant",N,N,"",2,169,"Fuhr","","Stephen","Liberal","Libéral",N,Y,87
+59016,"Kelowna","Kelowna"," 522","Mobile poll/Bureau itinérant",N,N,"",2,169,"Gray","","Tracy","Conservative","Conservateur",Y,N,67
+59016,"Kelowna","Kelowna"," 522","Mobile poll/Bureau itinérant",N,N,"",2,169,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 522","Mobile poll/Bureau itinérant",N,N,"",2,169,"Wright","","Catriona","Green Party","Parti Vert",N,N,3
+59016,"Kelowna","Kelowna"," 600","Kelowna",N,N,"601",0,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 600","Kelowna",N,N,"601",0,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 600","Kelowna",N,N,"601",0,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 600","Kelowna",N,N,"601",0,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 601","Kelowna",N,N,"",6,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,549
+59016,"Kelowna","Kelowna"," 601","Kelowna",N,N,"",6,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,644
+59016,"Kelowna","Kelowna"," 601","Kelowna",N,N,"",6,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59016,"Kelowna","Kelowna"," 601","Kelowna",N,N,"",6,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,4
+59016,"Kelowna","Kelowna"," 602","Kelowna",N,N,"",4,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,980
+59016,"Kelowna","Kelowna"," 602","Kelowna",N,N,"",4,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,917
+59016,"Kelowna","Kelowna"," 602","Kelowna",N,N,"",4,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59016,"Kelowna","Kelowna"," 602","Kelowna",N,N,"",4,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,9
+59016,"Kelowna","Kelowna"," 603","Kelowna",N,N,"",5,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,656
+59016,"Kelowna","Kelowna"," 603","Kelowna",N,N,"",5,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,507
+59016,"Kelowna","Kelowna"," 603","Kelowna",N,N,"",5,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59016,"Kelowna","Kelowna"," 603","Kelowna",N,N,"",5,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,11
+59016,"Kelowna","Kelowna"," 604","Kelowna",N,N,"",2,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,1013
+59016,"Kelowna","Kelowna"," 604","Kelowna",N,N,"",2,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,708
+59016,"Kelowna","Kelowna"," 604","Kelowna",N,N,"",2,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59016,"Kelowna","Kelowna"," 604","Kelowna",N,N,"",2,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,11
+59016,"Kelowna","Kelowna"," 605","Kelowna",N,N,"",2,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,665
+59016,"Kelowna","Kelowna"," 605","Kelowna",N,N,"",2,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,523
+59016,"Kelowna","Kelowna"," 605","Kelowna",N,N,"",2,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59016,"Kelowna","Kelowna"," 605","Kelowna",N,N,"",2,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,12
+59016,"Kelowna","Kelowna"," 606","Kelowna",N,N,"",4,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,993
+59016,"Kelowna","Kelowna"," 606","Kelowna",N,N,"",4,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,802
+59016,"Kelowna","Kelowna"," 606","Kelowna",N,N,"",4,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59016,"Kelowna","Kelowna"," 606","Kelowna",N,N,"",4,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,8
+59016,"Kelowna","Kelowna"," 607","Kelowna",N,N,"",2,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,485
+59016,"Kelowna","Kelowna"," 607","Kelowna",N,N,"",2,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,630
+59016,"Kelowna","Kelowna"," 607","Kelowna",N,N,"",2,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59016,"Kelowna","Kelowna"," 607","Kelowna",N,N,"",2,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,8
+59016,"Kelowna","Kelowna"," 608","Kelowna",N,N,"",4,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,676
+59016,"Kelowna","Kelowna"," 608","Kelowna",N,N,"",4,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,810
+59016,"Kelowna","Kelowna"," 608","Kelowna",N,N,"",4,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+59016,"Kelowna","Kelowna"," 608","Kelowna",N,N,"",4,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,17
+59016,"Kelowna","Kelowna"," 609","Kelowna",N,N,"",1,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,578
+59016,"Kelowna","Kelowna"," 609","Kelowna",N,N,"",1,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,529
+59016,"Kelowna","Kelowna"," 609","Kelowna",N,N,"",1,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59016,"Kelowna","Kelowna"," 609","Kelowna",N,N,"",1,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 610","Kelowna",N,N,"",1,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,795
+59016,"Kelowna","Kelowna"," 610","Kelowna",N,N,"",1,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,467
+59016,"Kelowna","Kelowna"," 610","Kelowna",N,N,"",1,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59016,"Kelowna","Kelowna"," 610","Kelowna",N,N,"",1,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,15
+59016,"Kelowna","Kelowna"," 611","Kelowna",N,N,"",3,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,628
+59016,"Kelowna","Kelowna"," 611","Kelowna",N,N,"",3,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,451
+59016,"Kelowna","Kelowna"," 611","Kelowna",N,N,"",3,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59016,"Kelowna","Kelowna"," 611","Kelowna",N,N,"",3,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,6
+59016,"Kelowna","Kelowna"," 612","Kelowna",N,N,"",10,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,980
+59016,"Kelowna","Kelowna"," 612","Kelowna",N,N,"",10,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,697
+59016,"Kelowna","Kelowna"," 612","Kelowna",N,N,"",10,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+59016,"Kelowna","Kelowna"," 612","Kelowna",N,N,"",10,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,15
+59016,"Kelowna","Kelowna"," 613","Kelowna",N,N,"",6,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,1044
+59016,"Kelowna","Kelowna"," 613","Kelowna",N,N,"",6,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,682
+59016,"Kelowna","Kelowna"," 613","Kelowna",N,N,"",6,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59016,"Kelowna","Kelowna"," 613","Kelowna",N,N,"",6,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,9
+59016,"Kelowna","Kelowna"," 614","Kelowna",N,N,"615",0,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,0
+59016,"Kelowna","Kelowna"," 614","Kelowna",N,N,"615",0,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,0
+59016,"Kelowna","Kelowna"," 614","Kelowna",N,N,"615",0,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59016,"Kelowna","Kelowna"," 614","Kelowna",N,N,"615",0,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,0
+59016,"Kelowna","Kelowna"," 615","Kelowna",N,N,"",9,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,818
+59016,"Kelowna","Kelowna"," 615","Kelowna",N,N,"",9,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,634
+59016,"Kelowna","Kelowna"," 615","Kelowna",N,N,"",9,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59016,"Kelowna","Kelowna"," 615","Kelowna",N,N,"",9,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,12
+59016,"Kelowna","Kelowna"," 616","Kelowna",N,N,"",2,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,603
+59016,"Kelowna","Kelowna"," 616","Kelowna",N,N,"",2,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,608
+59016,"Kelowna","Kelowna"," 616","Kelowna",N,N,"",2,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59016,"Kelowna","Kelowna"," 616","Kelowna",N,N,"",2,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,8
+59016,"Kelowna","Kelowna"," 617","Kelowna",N,N,"",4,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,587
+59016,"Kelowna","Kelowna"," 617","Kelowna",N,N,"",4,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,667
+59016,"Kelowna","Kelowna"," 617","Kelowna",N,N,"",4,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59016,"Kelowna","Kelowna"," 617","Kelowna",N,N,"",4,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,12
+59016,"Kelowna","Kelowna"," 618","Kelowna",N,N,"",6,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,748
+59016,"Kelowna","Kelowna"," 618","Kelowna",N,N,"",6,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,890
+59016,"Kelowna","Kelowna"," 618","Kelowna",N,N,"",6,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59016,"Kelowna","Kelowna"," 618","Kelowna",N,N,"",6,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,8
+59016,"Kelowna","Kelowna"," 619","Rock Creek",N,N,"",0,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,127
+59016,"Kelowna","Kelowna"," 619","Rock Creek",N,N,"",0,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,237
+59016,"Kelowna","Kelowna"," 619","Rock Creek",N,N,"",0,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59016,"Kelowna","Kelowna"," 619","Rock Creek",N,N,"",0,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,1
+59016,"Kelowna","Kelowna"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",41,283,"Fuhr","","Stephen","Liberal","Libéral",N,Y,367
+59016,"Kelowna","Kelowna"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",41,283,"Gray","","Tracy","Conservative","Conservateur",Y,N,302
+59016,"Kelowna","Kelowna"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",41,283,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59016,"Kelowna","Kelowna"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",41,283,"Wright","","Catriona","Green Party","Parti Vert",N,N,5
+59016,"Kelowna","Kelowna"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",80,0,"Fuhr","","Stephen","Liberal","Libéral",N,Y,2554
+59016,"Kelowna","Kelowna"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",80,0,"Gray","","Tracy","Conservative","Conservateur",Y,N,1608
+59016,"Kelowna","Kelowna"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",80,0,"McAleese","","Trevor","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,128
+59016,"Kelowna","Kelowna"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",80,0,"Wright","","Catriona","Green Party","Parti Vert",N,N,29

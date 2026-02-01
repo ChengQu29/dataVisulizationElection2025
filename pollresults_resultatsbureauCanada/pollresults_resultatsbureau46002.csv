@@ -1,0 +1,877 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 1","Lac Brochet 197A",N,N,"",1,372,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 1","Lac Brochet 197A",N,N,"",1,372,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,44
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 1","Lac Brochet 197A",N,N,"",1,372,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 1","Lac Brochet 197A",N,N,"",1,372,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 2","Churchill 1",N,N,"",0,112,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,35
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 2","Churchill 1",N,N,"",0,112,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,14
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 2","Churchill 1",N,N,"",0,112,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,5
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 2","Churchill 1",N,N,"",0,112,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 3","Churchill",N,N,"",1,273,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 3","Churchill",N,N,"",1,273,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,37
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 3","Churchill",N,N,"",1,273,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,18
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 3","Churchill",N,N,"",1,273,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 4","Churchill",N,N,"",0,352,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 4","Churchill",N,N,"",0,352,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,48
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 4","Churchill",N,N,"",0,352,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,26
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 4","Churchill",N,N,"",0,352,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 5","Brochet 197",N,N,"",0,195,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,16
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 5","Brochet 197",N,N,"",0,195,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,51
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 5","Brochet 197",N,N,"",0,195,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,10
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 5","Brochet 197",N,N,"",0,195,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 6","South Indian Lake",N,N,"",29,405,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 6","South Indian Lake",N,N,"",29,405,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,51
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 6","South Indian Lake",N,N,"",29,405,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 6","South Indian Lake",N,N,"",29,405,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 7","Lynn Lake",N,N,"",3,340,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 7","Lynn Lake",N,N,"",3,340,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,45
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 7","Lynn Lake",N,N,"",3,340,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,52
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 7","Lynn Lake",N,N,"",3,340,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 7-1","Black Sturgeon",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 7-1","Black Sturgeon",Y,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 7-1","Black Sturgeon",Y,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 7-1","Black Sturgeon",Y,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 8","Gillam",N,N,"9",0,420,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 8","Gillam",N,N,"9",0,420,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 8","Gillam",N,N,"9",0,420,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 8","Gillam",N,N,"9",0,420,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 9","Gillam",N,N,"",1,349,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,85
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 9","Gillam",N,N,"",1,349,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,88
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 9","Gillam",N,N,"",1,349,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,80
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 9","Gillam",N,N,"",1,349,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 10","Split Lake 171",N,N,"",3,1012,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,97
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 10","Split Lake 171",N,N,"",3,1012,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,61
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 10","Split Lake 171",N,N,"",3,1012,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,5
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 10","Split Lake 171",N,N,"",3,1012,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 11","Leaf Rapids",N,N,"",0,262,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,7
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 11","Leaf Rapids",N,N,"",0,262,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,16
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 11","Leaf Rapids",N,N,"",0,262,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,5
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 11","Leaf Rapids",N,N,"",0,262,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 11-1","Granville Lake",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 11-1","Granville Lake",Y,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 11-1","Granville Lake",Y,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 11-1","Granville Lake",Y,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 12","Bird",N,N,"",0,57,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,9
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 12","Bird",N,N,"",0,57,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,15
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 12","Bird",N,N,"",0,57,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 12","Bird",N,N,"",0,57,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 13A","Thompson",N,N,"",0,32,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 13A","Thompson",N,N,"",0,32,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,43
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 13A","Thompson",N,N,"",0,32,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,45
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 13A","Thompson",N,N,"",0,32,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 13B","Thompson",N,N,"",0,428,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 13B","Thompson",N,N,"",0,428,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,34
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 13B","Thompson",N,N,"",0,428,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,42
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 13B","Thompson",N,N,"",0,428,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 14A","Thompson",N,N,"",0,323,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,34
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 14A","Thompson",N,N,"",0,323,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,27
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 14A","Thompson",N,N,"",0,323,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,47
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 14A","Thompson",N,N,"",0,323,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 14B","Mobile poll/Bureau itinérant",N,N,"501",0,16,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 14B","Mobile poll/Bureau itinérant",N,N,"501",0,16,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 14B","Mobile poll/Bureau itinérant",N,N,"501",0,16,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 14B","Mobile poll/Bureau itinérant",N,N,"501",0,16,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 15","Shamattawa 1",N,N,"",2,242,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,27
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 15","Shamattawa 1",N,N,"",2,242,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,25
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 15","Shamattawa 1",N,N,"",2,242,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,10
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 15","Shamattawa 1",N,N,"",2,242,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 16","Pukatawagan 198",N,N,"",0,592,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,30
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 16","Pukatawagan 198",N,N,"",0,592,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,141
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 16","Pukatawagan 198",N,N,"",0,592,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 16","Pukatawagan 198",N,N,"",0,592,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 17","York Landing",N,N,"",2,234,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,38
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 17","York Landing",N,N,"",2,234,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,85
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 17","York Landing",N,N,"",2,234,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 17","York Landing",N,N,"",2,234,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 18","Nelson House 170",N,N,"",4,1380,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,101
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 18","Nelson House 170",N,N,"",4,1380,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,117
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 18","Nelson House 170",N,N,"",4,1380,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,13
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 18","Nelson House 170",N,N,"",4,1380,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,5
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 19","Nelson House",N,N,"18",0,89,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 19","Nelson House",N,N,"18",0,89,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 19","Nelson House",N,N,"18",0,89,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 19","Nelson House",N,N,"18",0,89,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 20","Thompson",N,N,"",0,425,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,41
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 20","Thompson",N,N,"",0,425,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,30
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 20","Thompson",N,N,"",0,425,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,42
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 20","Thompson",N,N,"",0,425,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 21","Thompson",N,N,"",0,412,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 21","Thompson",N,N,"",0,412,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,47
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 21","Thompson",N,N,"",0,412,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,53
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 21","Thompson",N,N,"",0,412,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 22","Thompson",N,N,"",1,443,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,30
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 22","Thompson",N,N,"",1,443,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,55
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 22","Thompson",N,N,"",1,443,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,56
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 22","Thompson",N,N,"",1,443,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 23","Thompson",N,N,"",0,397,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,14
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 23","Thompson",N,N,"",0,397,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 23","Thompson",N,N,"",0,397,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,35
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 23","Thompson",N,N,"",0,397,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 24","Thompson",N,N,"",1,436,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 24","Thompson",N,N,"",1,436,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,42
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 24","Thompson",N,N,"",1,436,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,45
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 24","Thompson",N,N,"",1,436,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 25","Thompson",N,N,"",0,522,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,31
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 25","Thompson",N,N,"",0,522,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,53
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 25","Thompson",N,N,"",0,522,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,57
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 25","Thompson",N,N,"",0,522,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 26","Thompson",N,N,"",0,339,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,9
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 26","Thompson",N,N,"",0,339,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,20
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 26","Thompson",N,N,"",0,339,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,15
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 26","Thompson",N,N,"",0,339,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 27","Thompson",N,N,"",0,398,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 27","Thompson",N,N,"",0,398,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,37
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 27","Thompson",N,N,"",0,398,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,25
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 27","Thompson",N,N,"",0,398,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 28","Mystery Lake",N,N,"",0,420,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 28","Mystery Lake",N,N,"",0,420,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,21
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 28","Mystery Lake",N,N,"",0,420,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 28","Mystery Lake",N,N,"",0,420,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 29A","Thompson",N,N,"",0,225,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,7
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 29A","Thompson",N,N,"",0,225,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,13
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 29A","Thompson",N,N,"",0,225,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,10
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 29A","Thompson",N,N,"",0,225,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 29B","Mobile poll/Bureau itinérant",N,N,"502",0,43,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 29B","Mobile poll/Bureau itinérant",N,N,"502",0,43,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 29B","Mobile poll/Bureau itinérant",N,N,"502",0,43,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 29B","Mobile poll/Bureau itinérant",N,N,"502",0,43,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 30A","Thompson",N,N,"",0,276,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,10
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 30A","Thompson",N,N,"",0,276,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,8
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 30A","Thompson",N,N,"",0,276,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 30A","Thompson",N,N,"",0,276,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 30B","Mobile poll/Bureau itinérant",N,N,"501",0,16,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 30B","Mobile poll/Bureau itinérant",N,N,"501",0,16,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 30B","Mobile poll/Bureau itinérant",N,N,"501",0,16,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 30B","Mobile poll/Bureau itinérant",N,N,"501",0,16,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 31A","Thompson",N,N,"",0,433,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,18
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 31A","Thompson",N,N,"",0,433,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,25
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 31A","Thompson",N,N,"",0,433,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 31A","Thompson",N,N,"",0,433,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 31B","Mobile poll/Bureau itinérant",N,N,"502",0,2,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 31B","Mobile poll/Bureau itinérant",N,N,"502",0,2,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 31B","Mobile poll/Bureau itinérant",N,N,"502",0,2,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 31B","Mobile poll/Bureau itinérant",N,N,"502",0,2,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 32","Thompson",N,N,"",1,389,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 32","Thompson",N,N,"",1,389,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,60
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 32","Thompson",N,N,"",1,389,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,50
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 32","Thompson",N,N,"",1,389,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 33","Thompson",N,N,"",2,405,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,33
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 33","Thompson",N,N,"",2,405,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,35
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 33","Thompson",N,N,"",2,405,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,26
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 33","Thompson",N,N,"",2,405,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 34","Thompson",N,N,"",3,346,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 34","Thompson",N,N,"",3,346,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,18
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 34","Thompson",N,N,"",3,346,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,35
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 34","Thompson",N,N,"",3,346,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 35","Thompson",N,N,"",0,409,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 35","Thompson",N,N,"",0,409,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,50
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 35","Thompson",N,N,"",0,409,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,63
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 35","Thompson",N,N,"",0,409,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 36","Thompson",N,N,"",1,282,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,15
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 36","Thompson",N,N,"",1,282,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,10
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 36","Thompson",N,N,"",1,282,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 36","Thompson",N,N,"",1,282,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 37","Thompson",N,N,"",1,361,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 37","Thompson",N,N,"",1,361,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,31
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 37","Thompson",N,N,"",1,361,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 37","Thompson",N,N,"",1,361,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 38","Thompson",N,N,"",1,321,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,17
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 38","Thompson",N,N,"",1,321,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 38","Thompson",N,N,"",1,321,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,33
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 38","Thompson",N,N,"",1,321,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 39","Thompson",N,N,"",2,317,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 39","Thompson",N,N,"",2,317,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,35
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 39","Thompson",N,N,"",2,317,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,36
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 39","Thompson",N,N,"",2,317,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 40","Ilford",N,N,"",0,89,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 40","Ilford",N,N,"",0,89,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 40","Ilford",N,N,"",0,89,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 40","Ilford",N,N,"",0,89,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 41","Sherridon",N,N,"",2,63,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,9
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 41","Sherridon",N,N,"",2,63,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 41","Sherridon",N,N,"",2,63,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 41","Sherridon",N,N,"",2,63,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 42","Pikwitonei",N,N,"",0,28,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 42","Pikwitonei",N,N,"",0,28,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 42","Pikwitonei",N,N,"",0,28,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,10
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 42","Pikwitonei",N,N,"",0,28,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 43","Flin Flon (Part)",N,N,"",2,413,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 43","Flin Flon (Part)",N,N,"",2,413,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,43
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 43","Flin Flon (Part)",N,N,"",2,413,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,73
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 43","Flin Flon (Part)",N,N,"",2,413,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 44","Flin Flon (Part)",N,N,"",1,398,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 44","Flin Flon (Part)",N,N,"",1,398,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,50
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 44","Flin Flon (Part)",N,N,"",1,398,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,75
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 44","Flin Flon (Part)",N,N,"",1,398,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 45","Flin Flon (Part)",N,N,"",0,374,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 45","Flin Flon (Part)",N,N,"",0,374,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,40
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 45","Flin Flon (Part)",N,N,"",0,374,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,73
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 45","Flin Flon (Part)",N,N,"",0,374,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 46","Thicket Portage",N,N,"",1,68,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,21
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 46","Thicket Portage",N,N,"",1,68,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 46","Thicket Portage",N,N,"",1,68,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 46","Thicket Portage",N,N,"",1,68,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 47","Flin Flon",N,N,"",0,383,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 47","Flin Flon",N,N,"",0,383,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 47","Flin Flon",N,N,"",0,383,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,47
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 47","Flin Flon",N,N,"",0,383,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 48","Flin Flon (Part)",N,N,"",0,361,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 48","Flin Flon (Part)",N,N,"",0,361,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,12
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 48","Flin Flon (Part)",N,N,"",0,361,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,40
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 48","Flin Flon (Part)",N,N,"",0,361,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,7
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 49","Flin Flon (Part)",N,N,"",1,393,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,31
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 49","Flin Flon (Part)",N,N,"",1,393,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,28
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 49","Flin Flon (Part)",N,N,"",1,393,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,51
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 49","Flin Flon (Part)",N,N,"",1,393,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 50","Snow Lake",N,N,"",0,381,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,21
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 50","Snow Lake",N,N,"",0,381,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,33
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 50","Snow Lake",N,N,"",0,381,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,74
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 50","Snow Lake",N,N,"",0,381,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,7
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 51","Snow Lake",N,N,"",0,300,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,18
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 51","Snow Lake",N,N,"",0,300,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,8
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 51","Snow Lake",N,N,"",0,300,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,58
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 51","Snow Lake",N,N,"",0,300,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 52","Oxford House 24",N,N,"",2,507,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,103
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 52","Oxford House 24",N,N,"",2,507,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,55
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 52","Oxford House 24",N,N,"",2,507,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 52","Oxford House 24",N,N,"",2,507,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 53","Flin Flon (Part)",N,N,"",1,409,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 53","Flin Flon (Part)",N,N,"",1,409,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,41
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 53","Flin Flon (Part)",N,N,"",1,409,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,91
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 53","Flin Flon (Part)",N,N,"",1,409,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,5
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 54","Flin Flon (Part)",N,N,"",0,365,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,28
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 54","Flin Flon (Part)",N,N,"",0,365,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,33
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 54","Flin Flon (Part)",N,N,"",0,365,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,75
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 54","Flin Flon (Part)",N,N,"",0,365,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 55","Flin Flon (Part)",N,N,"",0,444,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,43
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 55","Flin Flon (Part)",N,N,"",0,444,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,39
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 55","Flin Flon (Part)",N,N,"",0,444,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,75
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 55","Flin Flon (Part)",N,N,"",0,444,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 56","Bakers Narrows",N,N,"",0,496,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 56","Bakers Narrows",N,N,"",0,496,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,82
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 56","Bakers Narrows",N,N,"",0,496,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,107
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 56","Bakers Narrows",N,N,"",0,496,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 57A","Wabowden",N,N,"",1,404,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 57A","Wabowden",N,N,"",1,404,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,36
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 57A","Wabowden",N,N,"",1,404,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,32
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 57A","Wabowden",N,N,"",1,404,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 57B","Wabowden",N,N,"13A",0,14,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 57B","Wabowden",N,N,"13A",0,14,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 57B","Wabowden",N,N,"13A",0,14,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 57B","Wabowden",N,N,"13A",0,14,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 58","God's River 86A",N,N,"",1,228,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,46
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 58","God's River 86A",N,N,"",1,228,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,23
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 58","God's River 86A",N,N,"",1,228,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 58","God's River 86A",N,N,"",1,228,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 58-1","Gods Lake",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 58-1","Gods Lake",Y,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 58-1","Gods Lake",Y,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 58-1","Gods Lake",Y,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 59","Cranberry Portage--Payuk Lake",N,N,"60",0,199,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 59","Cranberry Portage--Payuk Lake",N,N,"60",0,199,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 59","Cranberry Portage--Payuk Lake",N,N,"60",0,199,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 59","Cranberry Portage--Payuk Lake",N,N,"60",0,199,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 60","Cranberry Portage",N,N,"",2,370,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,63
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 60","Cranberry Portage",N,N,"",2,370,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,120
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 60","Cranberry Portage",N,N,"",2,370,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,100
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 60","Cranberry Portage",N,N,"",2,370,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,9
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 61","Cross Lake 19A",N,N,"",5,1155,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,100
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 61","Cross Lake 19A",N,N,"",5,1155,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,157
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 61","Cross Lake 19A",N,N,"",5,1155,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 61","Cross Lake 19A",N,N,"",5,1155,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 62","Cross Lake 19",N,N,"",3,503,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,41
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 62","Cross Lake 19",N,N,"",3,503,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,88
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 62","Cross Lake 19",N,N,"",3,503,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 62","Cross Lake 19",N,N,"",3,503,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 63","Cross Lake",N,N,"",2,1092,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,96
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 63","Cross Lake",N,N,"",2,1092,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,120
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 63","Cross Lake",N,N,"",2,1092,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 63","Cross Lake",N,N,"",2,1092,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 64","Wanless",N,N,"",0,227,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 64","Wanless",N,N,"",0,227,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 64","Wanless",N,N,"",0,227,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,64
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 64","Wanless",N,N,"",0,227,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 65","Gods Lake Narrows",N,N,"",3,659,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 65","Gods Lake Narrows",N,N,"",3,659,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,99
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 65","Gods Lake Narrows",N,N,"",3,659,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 65","Gods Lake Narrows",N,N,"",3,659,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 65-1","God's Lake 23",N,N,"65",0,241,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 65-1","God's Lake 23",N,N,"65",0,241,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 65-1","God's Lake 23",N,N,"65",0,241,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 65-1","God's Lake 23",N,N,"65",0,241,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 66","Cormorant",N,N,"",0,232,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 66","Cormorant",N,N,"",0,232,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,13
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 66","Cormorant",N,N,"",0,232,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,13
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 66","Cormorant",N,N,"",0,232,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 67","Red Sucker Lake 1976",N,N,"",4,389,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,18
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 67","Red Sucker Lake 1976",N,N,"",4,389,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,113
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 67","Red Sucker Lake 1976",N,N,"",4,389,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 67","Red Sucker Lake 1976",N,N,"",4,389,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 68","Clearwater Lake",N,N,"",2,349,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,23
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 68","Clearwater Lake",N,N,"",2,349,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,87
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 68","Clearwater Lake",N,N,"",2,349,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,89
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 68","Clearwater Lake",N,N,"",2,349,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69","Opaskwayak Cree Nation 21E",N,N,"",3,1545,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,139
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69","Opaskwayak Cree Nation 21E",N,N,"",3,1545,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,102
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69","Opaskwayak Cree Nation 21E",N,N,"",3,1545,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,13
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69","Opaskwayak Cree Nation 21E",N,N,"",3,1545,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69-1","Opaskwayak Cree Nation 21B",N,N,"69-2",0,143,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69-1","Opaskwayak Cree Nation 21B",N,N,"69-2",0,143,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69-1","Opaskwayak Cree Nation 21B",N,N,"69-2",0,143,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69-1","Opaskwayak Cree Nation 21B",N,N,"69-2",0,143,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69-2","Opaskwayak Cree Nation 21A",N,N,"",1,229,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,54
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69-2","Opaskwayak Cree Nation 21A",N,N,"",1,229,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,60
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69-2","Opaskwayak Cree Nation 21A",N,N,"",1,229,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,12
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 69-2","Opaskwayak Cree Nation 21A",N,N,"",1,229,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 70","Kelsey",N,N,"",0,54,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 70","Kelsey",N,N,"",0,54,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,9
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 70","Kelsey",N,N,"",0,54,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 70","Kelsey",N,N,"",0,54,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 71","The Pas",N,N,"70",0,65,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 71","The Pas",N,N,"70",0,65,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 71","The Pas",N,N,"70",0,65,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 71","The Pas",N,N,"70",0,65,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 72","Norway House",N,N,"",0,1,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 72","Norway House",N,N,"",0,1,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,65
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 72","Norway House",N,N,"",0,1,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,13
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 72","Norway House",N,N,"",0,1,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 73","Norway House",N,N,"72",0,7,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 73","Norway House",N,N,"72",0,7,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 73","Norway House",N,N,"72",0,7,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 73","Norway House",N,N,"72",0,7,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 74","Norway House",N,N,"72",0,776,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 74","Norway House",N,N,"72",0,776,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 74","Norway House",N,N,"72",0,776,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 74","Norway House",N,N,"72",0,776,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 75","The Pas",N,N,"",1,321,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,37
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 75","The Pas",N,N,"",1,321,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,31
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 75","The Pas",N,N,"",1,321,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,38
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 75","The Pas",N,N,"",1,321,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 76","The Pas",N,N,"",0,422,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 76","The Pas",N,N,"",0,422,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,50
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 76","The Pas",N,N,"",0,422,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,67
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 76","The Pas",N,N,"",0,422,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 77","The Pas",N,N,"",0,448,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,30
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 77","The Pas",N,N,"",0,448,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,33
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 77","The Pas",N,N,"",0,448,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,55
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 77","The Pas",N,N,"",0,448,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 78","The Pas",N,N,"",0,308,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,23
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 78","The Pas",N,N,"",0,308,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,26
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 78","The Pas",N,N,"",0,308,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,34
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 78","The Pas",N,N,"",0,308,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 79","The Pas",N,N,"",2,384,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 79","The Pas",N,N,"",2,384,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,40
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 79","The Pas",N,N,"",2,384,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,38
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 79","The Pas",N,N,"",2,384,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 80","Ralls Island",N,N,"",0,339,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,17
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 80","Ralls Island",N,N,"",0,339,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,43
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 80","Ralls Island",N,N,"",0,339,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,90
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 80","Ralls Island",N,N,"",0,339,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,8
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 81","The Pas",N,N,"",0,347,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 81","The Pas",N,N,"",0,347,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,52
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 81","The Pas",N,N,"",0,347,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,53
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 81","The Pas",N,N,"",0,347,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 82","The Pas",N,N,"",2,432,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 82","The Pas",N,N,"",2,432,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,62
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 82","The Pas",N,N,"",2,432,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,50
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 82","The Pas",N,N,"",2,432,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 83","The Pas",N,N,"",0,197,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,7
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 83","The Pas",N,N,"",0,197,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,22
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 83","The Pas",N,N,"",0,197,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,17
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 83","The Pas",N,N,"",0,197,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 84","The Pas",N,N,"",0,328,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,15
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 84","The Pas",N,N,"",0,328,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,40
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 84","The Pas",N,N,"",0,328,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,48
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 84","The Pas",N,N,"",0,328,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 85","The Pas",N,N,"",0,419,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,26
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 85","The Pas",N,N,"",0,419,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,38
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 85","The Pas",N,N,"",0,419,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,57
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 85","The Pas",N,N,"",0,419,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 86","Moose Lake 31",N,N,"",0,631,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,66
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 86","Moose Lake 31",N,N,"",0,631,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,22
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 86","Moose Lake 31",N,N,"",0,631,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,7
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 86","Moose Lake 31",N,N,"",0,631,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 87","Island Lake",N,N,"",15,149,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,15
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 87","Island Lake",N,N,"",15,149,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,132
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 87","Island Lake",N,N,"",15,149,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 87","Island Lake",N,N,"",15,149,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 87-1","Garden Hill First Nation",N,N,"87",0,1039,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 87-1","Garden Hill First Nation",N,N,"87",0,1039,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 87-1","Garden Hill First Nation",N,N,"87",0,1039,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 87-1","Garden Hill First Nation",N,N,"87",0,1039,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 88","Wasagamack",N,N,"",1,488,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 88","Wasagamack",N,N,"",1,488,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,66
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 88","Wasagamack",N,N,"",1,488,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 88","Wasagamack",N,N,"",1,488,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 89","Crooked Turn",N,N,"",2,82,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,43
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 89","Crooked Turn",N,N,"",2,82,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,133
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 89","Crooked Turn",N,N,"",2,82,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 89","Crooked Turn",N,N,"",2,82,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 89-1","Norway House 17",N,N,"89",0,1690,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 89-1","Norway House 17",N,N,"89",0,1690,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 89-1","Norway House 17",N,N,"89",0,1690,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 89-1","Norway House 17",N,N,"89",0,1690,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 90","Norway House",N,N,"",7,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,40
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 90","Norway House",N,N,"",7,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,117
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 90","Norway House",N,N,"",7,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 90","Norway House",N,N,"",7,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 91","Crooked Turn",N,N,"",0,25,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,83
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 91","Crooked Turn",N,N,"",0,25,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,163
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 91","Crooked Turn",N,N,"",0,25,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,8
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 91","Crooked Turn",N,N,"",0,25,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 92","St. Theresa Point",N,N,"",3,1337,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 92","St. Theresa Point",N,N,"",3,1337,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,279
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 92","St. Theresa Point",N,N,"",3,1337,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 92","St. Theresa Point",N,N,"",3,1337,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 93","Kelsey",N,N,"",0,314,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 93","Kelsey",N,N,"",0,314,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,42
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 93","Kelsey",N,N,"",0,314,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,88
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 93","Kelsey",N,N,"",0,314,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 94","Young Point--Overflowing River",N,N,"",0,248,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,12
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 94","Young Point--Overflowing River",N,N,"",0,248,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,32
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 94","Young Point--Overflowing River",N,N,"",0,248,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,53
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 94","Young Point--Overflowing River",N,N,"",0,248,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 95","Grand Rapids",N,N,"",3,360,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,30
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 95","Grand Rapids",N,N,"",3,360,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,80
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 95","Grand Rapids",N,N,"",3,360,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,15
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 95","Grand Rapids",N,N,"",3,360,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 95-1","Grand Rapids 33",N,N,"",0,383,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,27
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 95-1","Grand Rapids 33",N,N,"",0,383,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,55
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 95-1","Grand Rapids 33",N,N,"",0,383,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 95-1","Grand Rapids 33",N,N,"",0,383,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 96","Easterville",N,N,"",5,145,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,70
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 96","Easterville",N,N,"",5,145,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,153
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 96","Easterville",N,N,"",5,145,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,9
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 96","Easterville",N,N,"",5,145,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 96-1","Chemawawin 2",N,N,"96",0,619,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 96-1","Chemawawin 2",N,N,"96",0,619,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 96-1","Chemawawin 2",N,N,"96",0,619,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 96-1","Chemawawin 2",N,N,"96",0,619,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 97","St. Theresa Point",N,N,"",0,264,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 97","St. Theresa Point",N,N,"",0,264,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 97","St. Theresa Point",N,N,"",0,264,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 97","St. Theresa Point",N,N,"",0,264,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 98","Poplar River 16",N,N,"",1,285,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 98","Poplar River 16",N,N,"",1,285,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,32
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 98","Poplar River 16",N,N,"",1,285,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,9
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 98","Poplar River 16",N,N,"",1,285,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 99","Pauingassi First Nation",N,N,"",0,200,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,29
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 99","Pauingassi First Nation",N,N,"",0,200,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,74
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 99","Pauingassi First Nation",N,N,"",0,200,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 99","Pauingassi First Nation",N,N,"",0,200,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 100","Dauphin River",N,N,"",0,92,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 100","Dauphin River",N,N,"",0,92,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,29
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 100","Dauphin River",N,N,"",0,92,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 100","Dauphin River",N,N,"",0,92,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 101","Berens River 13",N,N,"",2,640,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,53
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 101","Berens River 13",N,N,"",2,640,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,154
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 101","Berens River 13",N,N,"",2,640,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 101","Berens River 13",N,N,"",2,640,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 102","Fairford",N,N,"",2,104,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,48
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 102","Fairford",N,N,"",2,104,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,198
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 102","Fairford",N,N,"",2,104,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 102","Fairford",N,N,"",2,104,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 102-1","Fairford 50",N,N,"102",0,379,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 102-1","Fairford 50",N,N,"102",0,379,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 102-1","Fairford 50",N,N,"102",0,379,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 102-1","Fairford 50",N,N,"102",0,379,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 103","Jackhead 43",N,N,"",0,63,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,21
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 103","Jackhead 43",N,N,"",0,63,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,42
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 103","Jackhead 43",N,N,"",0,63,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 103","Jackhead 43",N,N,"",0,63,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 104","Obushkudayang",N,N,"",2,239,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 104","Obushkudayang",N,N,"",2,239,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,122
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 104","Obushkudayang",N,N,"",2,239,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 104","Obushkudayang",N,N,"",2,239,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 105","Grahamdale",N,N,"",1,239,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,18
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 105","Grahamdale",N,N,"",1,239,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,87
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 105","Grahamdale",N,N,"",1,239,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 105","Grahamdale",N,N,"",1,239,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 106","Bloodvein 12",N,N,"",0,357,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,71
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 106","Bloodvein 12",N,N,"",0,357,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,22
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 106","Bloodvein 12",N,N,"",0,357,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,10
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 106","Bloodvein 12",N,N,"",0,357,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 106-1","Princess Harbour",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 106-1","Princess Harbour",Y,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 106-1","Princess Harbour",Y,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 106-1","Princess Harbour",Y,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 107","Matheson Island",N,N,"",0,69,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,35
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 107","Matheson Island",N,N,"",0,69,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 107","Matheson Island",N,N,"",0,69,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,9
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 107","Matheson Island",N,N,"",0,69,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 108","Little Grand Rapids",N,N,"",10,148,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,25
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 108","Little Grand Rapids",N,N,"",10,148,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,18
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 108","Little Grand Rapids",N,N,"",10,148,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 108","Little Grand Rapids",N,N,"",10,148,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 108-1","Little Grand Rapids 14",N,N,"108",0,222,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 108-1","Little Grand Rapids 14",N,N,"108",0,222,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 108-1","Little Grand Rapids 14",N,N,"108",0,222,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 108-1","Little Grand Rapids 14",N,N,"108",0,222,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 109","Dallas",N,N,"",0,34,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 109","Dallas",N,N,"",0,34,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,5
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 109","Dallas",N,N,"",0,34,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 109","Dallas",N,N,"",0,34,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 110","Little Bullhead",N,N,"",0,46,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,13
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 110","Little Bullhead",N,N,"",0,46,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 110","Little Bullhead",N,N,"",0,46,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,5
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 110","Little Bullhead",N,N,"",0,46,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 111","Peguis",N,N,"",1,291,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,18
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 111","Peguis",N,N,"",1,291,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,36
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 111","Peguis",N,N,"",1,291,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 111","Peguis",N,N,"",1,291,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 112","Fisher River 44",N,N,"",0,692,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,79
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 112","Fisher River 44",N,N,"",0,692,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,126
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 112","Fisher River 44",N,N,"",0,692,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,8
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 112","Fisher River 44",N,N,"",0,692,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 113","Peguis 1B",N,N,"",14,698,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,78
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 113","Peguis 1B",N,N,"",14,698,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,325
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 113","Peguis 1B",N,N,"",14,698,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 113","Peguis 1B",N,N,"",14,698,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,13
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 114","Peguis 1B",N,N,"113",0,600,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 114","Peguis 1B",N,N,"113",0,600,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 114","Peguis 1B",N,N,"113",0,600,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 114","Peguis 1B",N,N,"113",0,600,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 115","Peguis 1B",N,N,"113",0,630,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 115","Peguis 1B",N,N,"113",0,630,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 115","Peguis 1B",N,N,"113",0,630,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 115","Peguis 1B",N,N,"113",0,630,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 116","Hole or Hollow Water 10",N,N,"",1,476,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,59
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 116","Hole or Hollow Water 10",N,N,"",1,476,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,100
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 116","Hole or Hollow Water 10",N,N,"",1,476,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,14
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 116","Hole or Hollow Water 10",N,N,"",1,476,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 117","Manigotagan",N,N,"",0,98,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,18
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 117","Manigotagan",N,N,"",0,98,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 117","Manigotagan",N,N,"",0,98,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,17
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 117","Manigotagan",N,N,"",0,98,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 118","Bissett",N,N,"",0,100,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,9
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 118","Bissett",N,N,"",0,100,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,7
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 118","Bissett",N,N,"",0,100,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,42
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 118","Bissett",N,N,"",0,100,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 119","Black River 9",N,N,"",2,349,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,44
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 119","Black River 9",N,N,"",2,349,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,93
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 119","Black River 9",N,N,"",2,349,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,10
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 119","Black River 9",N,N,"",2,349,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 120","Fort Alexander 3",N,N,"",0,426,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,52
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 120","Fort Alexander 3",N,N,"",0,426,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,112
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 120","Fort Alexander 3",N,N,"",0,426,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,8
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 120","Fort Alexander 3",N,N,"",0,426,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 121","Fort Alexander 3",N,N,"",3,702,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,33
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 121","Fort Alexander 3",N,N,"",3,702,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,118
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 121","Fort Alexander 3",N,N,"",3,702,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,5
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 121","Fort Alexander 3",N,N,"",3,702,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,20,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,20,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,20,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,20,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 501","Mobile poll/Bureau itinérant",N,N,"",1,45,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,43
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 501","Mobile poll/Bureau itinérant",N,N,"",1,45,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,35
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 501","Mobile poll/Bureau itinérant",N,N,"",1,45,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,15
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 501","Mobile poll/Bureau itinérant",N,N,"",1,45,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,34,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,34,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,34,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,34,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 503","Flin Flon (Part)",N,N,"53",0,15,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 503","Flin Flon (Part)",N,N,"53",0,15,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 503","Flin Flon (Part)",N,N,"53",0,15,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 503","Flin Flon (Part)",N,N,"53",0,15,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 504","Flin Flon (Part)",N,N,"48",0,15,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 504","Flin Flon (Part)",N,N,"48",0,15,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 504","Flin Flon (Part)",N,N,"48",0,15,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 504","Flin Flon (Part)",N,N,"48",0,15,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 505","Mobile poll/Bureau itinérant",N,N,"507",0,24,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 505","Mobile poll/Bureau itinérant",N,N,"507",0,24,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 505","Mobile poll/Bureau itinérant",N,N,"507",0,24,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 505","Mobile poll/Bureau itinérant",N,N,"507",0,24,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 506","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 506","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 506","Mobile poll/Bureau itinérant",Y,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 506","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 507","Mobile poll/Bureau itinérant",N,N,"",0,30,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,33
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 507","Mobile poll/Bureau itinérant",N,N,"",0,30,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,21
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 507","Mobile poll/Bureau itinérant",N,N,"",0,30,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,12
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 507","Mobile poll/Bureau itinérant",N,N,"",0,30,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,8
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 508","Mobile poll/Bureau itinérant",N,N,"",2,35,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,25
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 508","Mobile poll/Bureau itinérant",N,N,"",2,35,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 508","Mobile poll/Bureau itinérant",N,N,"",2,35,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 508","Mobile poll/Bureau itinérant",N,N,"",2,35,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,23,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,23,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,23,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,23,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 510","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 510","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 510","Mobile poll/Bureau itinérant",Y,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 510","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 511","	Fort Alexander 3",N,N,"120",0,2,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 511","	Fort Alexander 3",N,N,"120",0,2,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 511","	Fort Alexander 3",N,N,"120",0,2,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 511","	Fort Alexander 3",N,N,"120",0,2,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 600","Lac Brochet 197A",N,N,"602",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 600","Lac Brochet 197A",N,N,"602",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 600","Lac Brochet 197A",N,N,"602",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 600","Lac Brochet 197A",N,N,"602",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 601","Churchill 1",N,N,"602",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 601","Churchill 1",N,N,"602",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 601","Churchill 1",N,N,"602",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 601","Churchill 1",N,N,"602",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 602","Churchill",N,N,"",1,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,36
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 602","Churchill",N,N,"",1,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,50
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 602","Churchill",N,N,"",1,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 602","Churchill",N,N,"",1,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 603","Churchill",N,N,"602",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 603","Churchill",N,N,"602",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 603","Churchill",N,N,"602",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 603","Churchill",N,N,"602",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 604","Bird",N,N,"605",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 604","Bird",N,N,"605",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 604","Bird",N,N,"605",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 604","Bird",N,N,"605",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 605","Gillam",N,N,"",1,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,54
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 605","Gillam",N,N,"",1,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,41
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 605","Gillam",N,N,"",1,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,65
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 605","Gillam",N,N,"",1,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 606","Split Lake 171",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 606","Split Lake 171",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,9
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 606","Split Lake 171",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 606","Split Lake 171",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 607","South Indian Lake",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 607","South Indian Lake",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 607","South Indian Lake",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 607","South Indian Lake",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 608","Brochet 197",N,N,"602",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 608","Brochet 197",N,N,"602",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 608","Brochet 197",N,N,"602",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 608","Brochet 197",N,N,"602",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 609","Lynn Lake--Leaf Rapids",N,N,"",1,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 609","Lynn Lake--Leaf Rapids",N,N,"",1,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,26
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 609","Lynn Lake--Leaf Rapids",N,N,"",1,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,8
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 609","Lynn Lake--Leaf Rapids",N,N,"",1,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 610","Black Sturgeon",N,N,"609",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 610","Black Sturgeon",N,N,"609",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 610","Black Sturgeon",N,N,"609",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 610","Black Sturgeon",N,N,"609",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 611","Granville Lake",N,N,"609",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 611","Granville Lake",N,N,"609",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 611","Granville Lake",N,N,"609",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 611","Granville Lake",N,N,"609",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 612","Pukatawagan 198",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 612","Pukatawagan 198",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 612","Pukatawagan 198",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 612","Pukatawagan 198",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 613","Nelson House",N,N,"614",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 613","Nelson House",N,N,"614",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 613","Nelson House",N,N,"614",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 613","Nelson House",N,N,"614",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 614","Nelson House 170",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,19
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 614","Nelson House 170",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 614","Nelson House 170",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 614","Nelson House 170",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 615","Flin Flon",N,N,"",5,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,138
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 615","Flin Flon",N,N,"",5,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,282
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 615","Flin Flon",N,N,"",5,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,354
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 615","Flin Flon",N,N,"",5,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,16
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 616","Snow Lake",N,N,"",2,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,23
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 616","Snow Lake",N,N,"",2,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,45
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 616","Snow Lake",N,N,"",2,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,135
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 616","Snow Lake",N,N,"",2,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 617","Thompson",N,N,"",2,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,114
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 617","Thompson",N,N,"",2,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,142
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 617","Thompson",N,N,"",2,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,108
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 617","Thompson",N,N,"",2,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 618","Thompson",N,N,"",8,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,252
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 618","Thompson",N,N,"",8,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,391
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 618","Thompson",N,N,"",8,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,361
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 618","Thompson",N,N,"",8,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 619","York Landing",N,N,"618",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 619","York Landing",N,N,"618",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 619","York Landing",N,N,"618",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 619","York Landing",N,N,"618",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 620","Ilford",N,N,"619",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 620","Ilford",N,N,"619",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 620","Ilford",N,N,"619",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 620","Ilford",N,N,"619",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 621","Pikwitonei",N,N,"619",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 621","Pikwitonei",N,N,"619",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 621","Pikwitonei",N,N,"619",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 621","Pikwitonei",N,N,"619",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 622","Oxford House 24",N,N,"618",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 622","Oxford House 24",N,N,"618",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 622","Oxford House 24",N,N,"618",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 622","Oxford House 24",N,N,"618",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 623","Cross Lake",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,31
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 623","Cross Lake",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,29
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 623","Cross Lake",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,7
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 623","Cross Lake",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 624","Cross Lake",N,N,"623",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 624","Cross Lake",N,N,"623",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 624","Cross Lake",N,N,"623",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 624","Cross Lake",N,N,"623",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 625","Gods Lake Narrows",N,N,"626",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 625","Gods Lake Narrows",N,N,"626",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 625","Gods Lake Narrows",N,N,"626",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 625","Gods Lake Narrows",N,N,"626",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 626","God's Lake 23",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,12
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 626","God's Lake 23",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,48
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 626","God's Lake 23",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 626","God's Lake 23",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 627","Gods Lake",N,N,"618",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 627","Gods Lake",N,N,"618",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 627","Gods Lake",N,N,"618",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 627","Gods Lake",N,N,"618",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 628","God's River 86A",N,N,"618",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 628","God's River 86A",N,N,"618",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 628","God's River 86A",N,N,"618",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 628","God's River 86A",N,N,"618",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 629","Shamattawa 1",N,N,"618",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 629","Shamattawa 1",N,N,"618",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 629","Shamattawa 1",N,N,"618",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 629","Shamattawa 1",N,N,"618",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 630","Red Sucker Lake 1976",N,N,"632",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 630","Red Sucker Lake 1976",N,N,"632",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 630","Red Sucker Lake 1976",N,N,"632",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 630","Red Sucker Lake 1976",N,N,"632",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 631","Island Lake",N,N,"632",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 631","Island Lake",N,N,"632",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 631","Island Lake",N,N,"632",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 631","Island Lake",N,N,"632",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 632","Garden Hill First Nation",N,N,"",4,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,7
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 632","Garden Hill First Nation",N,N,"",4,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,56
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 632","Garden Hill First Nation",N,N,"",4,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 632","Garden Hill First Nation",N,N,"",4,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 633","Wasagamack",N,N,"632",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 633","Wasagamack",N,N,"632",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 633","Wasagamack",N,N,"632",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 633","Wasagamack",N,N,"632",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 634","St. Theresa Point",N,N,"",1,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,13
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 634","St. Theresa Point",N,N,"",1,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,122
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 634","St. Theresa Point",N,N,"",1,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 634","St. Theresa Point",N,N,"",1,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 635","Poplar River 16",N,N,"98",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 635","Poplar River 16",N,N,"98",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 635","Poplar River 16",N,N,"98",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 635","Poplar River 16",N,N,"98",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 636","Norway House",N,N,"637",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 636","Norway House",N,N,"637",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 636","Norway House",N,N,"637",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 636","Norway House",N,N,"637",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 637","Norway House 17",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,64
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 637","Norway House 17",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,77
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 637","Norway House 17",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,6
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 637","Norway House 17",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 638","Grand Rapids",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,22
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 638","Grand Rapids",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,24
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 638","Grand Rapids",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 638","Grand Rapids",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 639","Grand Rapids 33",N,N,"638",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 639","Grand Rapids 33",N,N,"638",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 639","Grand Rapids 33",N,N,"638",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 639","Grand Rapids 33",N,N,"638",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 640","Moose Lake 31",N,N,"642",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 640","Moose Lake 31",N,N,"642",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 640","Moose Lake 31",N,N,"642",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 640","Moose Lake 31",N,N,"642",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 641","The Pas - Kelsey",N,N,"",2,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,47
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 641","The Pas - Kelsey",N,N,"",2,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,115
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 641","The Pas - Kelsey",N,N,"",2,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,89
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 641","The Pas - Kelsey",N,N,"",2,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,5
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 642","Opaskwayak Cree Nation 21E",N,N,"",1,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,114
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 642","Opaskwayak Cree Nation 21E",N,N,"",1,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,134
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 642","Opaskwayak Cree Nation 21E",N,N,"",1,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,101
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 642","Opaskwayak Cree Nation 21E",N,N,"",1,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 643","The Pas",N,N,"",1,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,38
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 643","The Pas",N,N,"",1,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,111
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 643","The Pas",N,N,"",1,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,81
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 643","The Pas",N,N,"",1,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,7
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 644","Chemawawin 2",N,N,"",1,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,25
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 644","Chemawawin 2",N,N,"",1,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,20
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 644","Chemawawin 2",N,N,"",1,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 644","Chemawawin 2",N,N,"",1,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 645","Fairford",N,N,"662",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 645","Fairford",N,N,"662",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 645","Fairford",N,N,"662",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 645","Fairford",N,N,"662",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 646","Dauphin River",N,N,"663",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 646","Dauphin River",N,N,"663",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 646","Dauphin River",N,N,"663",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 646","Dauphin River",N,N,"663",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 647","Berens River 13",N,N,"655",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 647","Berens River 13",N,N,"655",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 647","Berens River 13",N,N,"655",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 647","Berens River 13",N,N,"655",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 648","Pauingassi First Nation",N,N,"650",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 648","Pauingassi First Nation",N,N,"650",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 648","Pauingassi First Nation",N,N,"650",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 648","Pauingassi First Nation",N,N,"650",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 649","Little Grand Rapids",N,N,"650",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 649","Little Grand Rapids",N,N,"650",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 649","Little Grand Rapids",N,N,"650",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 649","Little Grand Rapids",N,N,"650",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 650","Little Grand Rapids 14",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,105
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 650","Little Grand Rapids 14",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,30
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 650","Little Grand Rapids 14",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,8
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 650","Little Grand Rapids 14",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 651","Manigotagan - Bissett",N,N,"652",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 651","Manigotagan - Bissett",N,N,"652",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 651","Manigotagan - Bissett",N,N,"652",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 651","Manigotagan - Bissett",N,N,"652",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 652","Black River 9",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,32
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 652","Black River 9",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,20
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 652","Black River 9",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,5
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 652","Black River 9",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 653","Fort Alexander",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,27
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 653","Fort Alexander",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,13
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 653","Fort Alexander",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,3
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 653","Fort Alexander",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 654","Hole or Hollow Water 10",N,Y,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 654","Hole or Hollow Water 10",N,Y,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 654","Hole or Hollow Water 10",N,Y,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 654","Hole or Hollow Water 10",N,Y,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 655","Bloodvein 12",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,5
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 655","Bloodvein 12",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,7
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 655","Bloodvein 12",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 655","Bloodvein 12",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 656","Princess Harbour",N,N,"655",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 656","Princess Harbour",N,N,"655",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 656","Princess Harbour",N,N,"655",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 656","Princess Harbour",N,N,"655",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 657","Bullhead--Matheson Island",N,N,"655",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 657","Bullhead--Matheson Island",N,N,"655",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 657","Bullhead--Matheson Island",N,N,"655",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 657","Bullhead--Matheson Island",N,N,"655",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 658","Jackhead 43",N,N,"103",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 658","Jackhead 43",N,N,"103",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 658","Jackhead 43",N,N,"103",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 658","Jackhead 43",N,N,"103",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 659","Fisher River 44",N,N,"",1,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,68
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 659","Fisher River 44",N,N,"",1,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,85
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 659","Fisher River 44",N,N,"",1,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 659","Fisher River 44",N,N,"",1,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 660","Peguis 1B",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,58
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 660","Peguis 1B",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,84
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 660","Peguis 1B",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,4
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 660","Peguis 1B",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,1
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 661","Dallas",N,N,"660",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 661","Dallas",N,N,"660",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 661","Dallas",N,N,"660",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 661","Dallas",N,N,"660",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 662","Fairford 50",N,N,"660",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 662","Fairford 50",N,N,"660",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 662","Fairford 50",N,N,"660",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 662","Fairford 50",N,N,"660",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 663","Obushkudayang",N,N,"",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,11
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 663","Obushkudayang",N,N,"",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,49
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 663","Obushkudayang",N,N,"",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,2
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 663","Obushkudayang",N,N,"",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 664","Little Saskatchewan 48",N,N,"662",0,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 664","Little Saskatchewan 48",N,N,"662",0,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 664","Little Saskatchewan 48",N,N,"662",0,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," 664","Little Saskatchewan 48",N,N,"662",0,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,0
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",40,409,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,226
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",40,409,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,219
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",40,409,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,65
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",40,409,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,15
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"Ashton","","Niki","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,N,287
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"Chartrand","","Rebecca","Liberal","Libéral",N,Y,342
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"De Nardi","","Lachlan","Conservative","Conservateur",N,N,248
+46002,"Churchill--Keewatinook Aski","Churchill--Keewatinook Aski"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",15,0,"Young","","Dylan","People's Party - PPC","Parti populaire - PPC",N,N,23

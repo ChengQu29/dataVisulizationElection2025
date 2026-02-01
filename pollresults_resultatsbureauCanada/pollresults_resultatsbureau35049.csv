@@ -1,0 +1,869 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 1","Floradale",N,N,"",0,390,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 1","Floradale",N,N,"",0,390,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 1","Floradale",N,N,"",0,390,"Louis","","Tim","Liberal","Libéral",N,Y,28
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 1","Floradale",N,N,"",0,390,"Treleaven","","Doug","Conservative","Conservateur",N,N,95
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 2","Woolwich",N,N,"",0,398,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 2","Woolwich",N,N,"",0,398,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 2","Woolwich",N,N,"",0,398,"Louis","","Tim","Liberal","Libéral",N,Y,61
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 2","Woolwich",N,N,"",0,398,"Treleaven","","Doug","Conservative","Conservateur",N,N,84
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 3","Woolwich",N,N,"",0,321,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 3","Woolwich",N,N,"",0,321,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 3","Woolwich",N,N,"",0,321,"Louis","","Tim","Liberal","Libéral",N,Y,28
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 3","Woolwich",N,N,"",0,321,"Treleaven","","Doug","Conservative","Conservateur",N,N,67
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 4","Woolwich",N,N,"",0,439,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 4","Woolwich",N,N,"",0,439,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 4","Woolwich",N,N,"",0,439,"Louis","","Tim","Liberal","Libéral",N,Y,59
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 4","Woolwich",N,N,"",0,439,"Treleaven","","Doug","Conservative","Conservateur",N,N,75
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 5","Woolwich",N,N,"",1,363,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 5","Woolwich",N,N,"",1,363,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 5","Woolwich",N,N,"",1,363,"Louis","","Tim","Liberal","Libéral",N,Y,30
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 5","Woolwich",N,N,"",1,363,"Treleaven","","Doug","Conservative","Conservateur",N,N,61
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 6","Woolwich",N,N,"",2,445,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 6","Woolwich",N,N,"",2,445,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 6","Woolwich",N,N,"",2,445,"Louis","","Tim","Liberal","Libéral",N,Y,68
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 6","Woolwich",N,N,"",2,445,"Treleaven","","Doug","Conservative","Conservateur",N,N,84
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 7","Woolwich",N,N,"",0,441,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 7","Woolwich",N,N,"",0,441,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 7","Woolwich",N,N,"",0,441,"Louis","","Tim","Liberal","Libéral",N,Y,74
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 7","Woolwich",N,N,"",0,441,"Treleaven","","Doug","Conservative","Conservateur",N,N,94
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 8","Woolwich",N,N,"",0,537,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 8","Woolwich",N,N,"",0,537,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 8","Woolwich",N,N,"",0,537,"Louis","","Tim","Liberal","Libéral",N,Y,83
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 8","Woolwich",N,N,"",0,537,"Treleaven","","Doug","Conservative","Conservateur",N,N,105
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 9","Woolwich",N,N,"",3,486,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 9","Woolwich",N,N,"",3,486,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 9","Woolwich",N,N,"",3,486,"Louis","","Tim","Liberal","Libéral",N,Y,65
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 9","Woolwich",N,N,"",3,486,"Treleaven","","Doug","Conservative","Conservateur",N,N,123
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 10","Woolwich",N,N,"",2,520,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 10","Woolwich",N,N,"",2,520,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 10","Woolwich",N,N,"",2,520,"Louis","","Tim","Liberal","Libéral",N,Y,94
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 10","Woolwich",N,N,"",2,520,"Treleaven","","Doug","Conservative","Conservateur",N,N,140
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 11","West Montrose",N,N,"",0,343,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 11","West Montrose",N,N,"",0,343,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 11","West Montrose",N,N,"",0,343,"Louis","","Tim","Liberal","Libéral",N,Y,55
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 11","West Montrose",N,N,"",0,343,"Treleaven","","Doug","Conservative","Conservateur",N,N,72
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 12","Woolwich",N,N,"",0,443,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 12","Woolwich",N,N,"",0,443,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 12","Woolwich",N,N,"",0,443,"Louis","","Tim","Liberal","Libéral",N,Y,77
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 12","Woolwich",N,N,"",0,443,"Treleaven","","Doug","Conservative","Conservateur",N,N,80
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 13","Woolwich",N,N,"",0,492,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 13","Woolwich",N,N,"",0,492,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 13","Woolwich",N,N,"",0,492,"Louis","","Tim","Liberal","Libéral",N,Y,72
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 13","Woolwich",N,N,"",0,492,"Treleaven","","Doug","Conservative","Conservateur",N,N,104
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 14","Woolwich",N,N,"",0,486,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 14","Woolwich",N,N,"",0,486,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 14","Woolwich",N,N,"",0,486,"Louis","","Tim","Liberal","Libéral",N,Y,84
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 14","Woolwich",N,N,"",0,486,"Treleaven","","Doug","Conservative","Conservateur",N,N,110
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 15","Woolwich",N,N,"",0,343,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 15","Woolwich",N,N,"",0,343,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 15","Woolwich",N,N,"",0,343,"Louis","","Tim","Liberal","Libéral",N,Y,26
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 15","Woolwich",N,N,"",0,343,"Treleaven","","Doug","Conservative","Conservateur",N,N,54
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 16","Woolwich",N,N,"",0,478,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 16","Woolwich",N,N,"",0,478,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 16","Woolwich",N,N,"",0,478,"Louis","","Tim","Liberal","Libéral",N,Y,81
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 16","Woolwich",N,N,"",0,478,"Treleaven","","Doug","Conservative","Conservateur",N,N,113
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 17A","Woolwich",N,N,"",1,539,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 17A","Woolwich",N,N,"",1,539,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 17A","Woolwich",N,N,"",1,539,"Louis","","Tim","Liberal","Libéral",N,Y,106
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 17A","Woolwich",N,N,"",1,539,"Treleaven","","Doug","Conservative","Conservateur",N,N,157
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 17B","Woolwich",N,N,"22",0,122,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 17B","Woolwich",N,N,"22",0,122,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 17B","Woolwich",N,N,"22",0,122,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 17B","Woolwich",N,N,"22",0,122,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 18","Woolwich",N,N,"",0,382,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 18","Woolwich",N,N,"",0,382,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 18","Woolwich",N,N,"",0,382,"Louis","","Tim","Liberal","Libéral",N,Y,44
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 18","Woolwich",N,N,"",0,382,"Treleaven","","Doug","Conservative","Conservateur",N,N,107
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 19","Woolwich",N,N,"",2,458,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 19","Woolwich",N,N,"",2,458,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 19","Woolwich",N,N,"",2,458,"Louis","","Tim","Liberal","Libéral",N,Y,83
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 19","Woolwich",N,N,"",2,458,"Treleaven","","Doug","Conservative","Conservateur",N,N,96
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 20","Woolwich",N,N,"",0,538,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 20","Woolwich",N,N,"",0,538,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 20","Woolwich",N,N,"",0,538,"Louis","","Tim","Liberal","Libéral",N,Y,80
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 20","Woolwich",N,N,"",0,538,"Treleaven","","Doug","Conservative","Conservateur",N,N,116
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 21","Woolwich",N,N,"",0,500,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 21","Woolwich",N,N,"",0,500,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 21","Woolwich",N,N,"",0,500,"Louis","","Tim","Liberal","Libéral",N,Y,81
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 21","Woolwich",N,N,"",0,500,"Treleaven","","Doug","Conservative","Conservateur",N,N,121
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 22","Woolwich",N,N,"",1,408,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 22","Woolwich",N,N,"",1,408,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 22","Woolwich",N,N,"",1,408,"Louis","","Tim","Liberal","Libéral",N,Y,91
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 22","Woolwich",N,N,"",1,408,"Treleaven","","Doug","Conservative","Conservateur",N,N,124
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 23","Woolwich",N,N,"",0,534,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 23","Woolwich",N,N,"",0,534,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 23","Woolwich",N,N,"",0,534,"Louis","","Tim","Liberal","Libéral",N,Y,93
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 23","Woolwich",N,N,"",0,534,"Treleaven","","Doug","Conservative","Conservateur",N,N,128
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 24","Linwood",N,N,"",0,360,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 24","Linwood",N,N,"",0,360,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 24","Linwood",N,N,"",0,360,"Louis","","Tim","Liberal","Libéral",N,Y,58
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 24","Linwood",N,N,"",0,360,"Treleaven","","Doug","Conservative","Conservateur",N,N,103
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 25","Wellesley",N,N,"",0,375,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 25","Wellesley",N,N,"",0,375,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 25","Wellesley",N,N,"",0,375,"Louis","","Tim","Liberal","Libéral",N,Y,19
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 25","Wellesley",N,N,"",0,375,"Treleaven","","Doug","Conservative","Conservateur",N,N,35
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 26","Wellesley",N,N,"",0,369,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 26","Wellesley",N,N,"",0,369,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 26","Wellesley",N,N,"",0,369,"Louis","","Tim","Liberal","Libéral",N,Y,65
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 26","Wellesley",N,N,"",0,369,"Treleaven","","Doug","Conservative","Conservateur",N,N,123
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 27","Maryhill",N,N,"",0,366,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 27","Maryhill",N,N,"",0,366,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 27","Maryhill",N,N,"",0,366,"Louis","","Tim","Liberal","Libéral",N,Y,78
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 27","Maryhill",N,N,"",0,366,"Treleaven","","Doug","Conservative","Conservateur",N,N,112
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 28","Maryhill",N,N,"",1,315,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 28","Maryhill",N,N,"",1,315,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 28","Maryhill",N,N,"",1,315,"Louis","","Tim","Liberal","Libéral",N,Y,58
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 28","Maryhill",N,N,"",1,315,"Treleaven","","Doug","Conservative","Conservateur",N,N,75
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 29","Winterbourne",N,N,"",0,366,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 29","Winterbourne",N,N,"",0,366,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 29","Winterbourne",N,N,"",0,366,"Louis","","Tim","Liberal","Libéral",N,Y,77
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 29","Winterbourne",N,N,"",0,366,"Treleaven","","Doug","Conservative","Conservateur",N,N,91
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 30","Bloomingdale",N,N,"",0,365,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 30","Bloomingdale",N,N,"",0,365,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 30","Bloomingdale",N,N,"",0,365,"Louis","","Tim","Liberal","Libéral",N,Y,67
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 30","Bloomingdale",N,N,"",0,365,"Treleaven","","Doug","Conservative","Conservateur",N,N,104
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 31","Maryhill",N,N,"",0,378,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 31","Maryhill",N,N,"",0,378,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 31","Maryhill",N,N,"",0,378,"Louis","","Tim","Liberal","Libéral",N,Y,69
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 31","Maryhill",N,N,"",0,378,"Treleaven","","Doug","Conservative","Conservateur",N,N,131
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 32","Maryhill",N,N,"",0,481,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 32","Maryhill",N,N,"",0,481,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 32","Maryhill",N,N,"",0,481,"Louis","","Tim","Liberal","Libéral",N,Y,83
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 32","Maryhill",N,N,"",0,481,"Treleaven","","Doug","Conservative","Conservateur",N,N,93
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 33","Wellesley",N,N,"",1,428,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 33","Wellesley",N,N,"",1,428,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 33","Wellesley",N,N,"",1,428,"Louis","","Tim","Liberal","Libéral",N,Y,46
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 33","Wellesley",N,N,"",1,428,"Treleaven","","Doug","Conservative","Conservateur",N,N,105
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 34","Wellesley",N,N,"",1,392,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 34","Wellesley",N,N,"",1,392,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 34","Wellesley",N,N,"",1,392,"Louis","","Tim","Liberal","Libéral",N,Y,12
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 34","Wellesley",N,N,"",1,392,"Treleaven","","Doug","Conservative","Conservateur",N,N,29
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 35","Winterbourne",N,N,"",0,376,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 35","Winterbourne",N,N,"",0,376,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 35","Winterbourne",N,N,"",0,376,"Louis","","Tim","Liberal","Libéral",N,Y,61
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 35","Winterbourne",N,N,"",0,376,"Treleaven","","Doug","Conservative","Conservateur",N,N,84
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 36","West Montrose",N,N,"",0,489,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 36","West Montrose",N,N,"",0,489,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 36","West Montrose",N,N,"",0,489,"Louis","","Tim","Liberal","Libéral",N,Y,131
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 36","West Montrose",N,N,"",0,489,"Treleaven","","Doug","Conservative","Conservateur",N,N,140
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 37","Woolwich",N,N,"",0,318,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 37","Woolwich",N,N,"",0,318,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 37","Woolwich",N,N,"",0,318,"Louis","","Tim","Liberal","Libéral",N,Y,78
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 37","Woolwich",N,N,"",0,318,"Treleaven","","Doug","Conservative","Conservateur",N,N,82
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 38","Woolwich",N,N,"",0,329,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 38","Woolwich",N,N,"",0,329,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 38","Woolwich",N,N,"",0,329,"Louis","","Tim","Liberal","Libéral",N,Y,42
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 38","Woolwich",N,N,"",0,329,"Treleaven","","Doug","Conservative","Conservateur",N,N,58
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 39","Woolwich",N,N,"",0,438,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 39","Woolwich",N,N,"",0,438,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 39","Woolwich",N,N,"",0,438,"Louis","","Tim","Liberal","Libéral",N,Y,67
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 39","Woolwich",N,N,"",0,438,"Treleaven","","Doug","Conservative","Conservateur",N,N,96
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 40","Woolwich",N,N,"",0,484,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 40","Woolwich",N,N,"",0,484,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 40","Woolwich",N,N,"",0,484,"Louis","","Tim","Liberal","Libéral",N,Y,57
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 40","Woolwich",N,N,"",0,484,"Treleaven","","Doug","Conservative","Conservateur",N,N,73
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 41","Woolwich",N,N,"",0,498,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 41","Woolwich",N,N,"",0,498,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 41","Woolwich",N,N,"",0,498,"Louis","","Tim","Liberal","Libéral",N,Y,85
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 41","Woolwich",N,N,"",0,498,"Treleaven","","Doug","Conservative","Conservateur",N,N,94
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 42","Woolwich",N,N,"",0,397,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 42","Woolwich",N,N,"",0,397,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 42","Woolwich",N,N,"",0,397,"Louis","","Tim","Liberal","Libéral",N,Y,42
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 42","Woolwich",N,N,"",0,397,"Treleaven","","Doug","Conservative","Conservateur",N,N,46
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 43","Breslau",N,N,"",1,266,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 43","Breslau",N,N,"",1,266,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 43","Breslau",N,N,"",1,266,"Louis","","Tim","Liberal","Libéral",N,Y,61
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 43","Breslau",N,N,"",1,266,"Treleaven","","Doug","Conservative","Conservateur",N,N,128
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 44","Woolwich",N,N,"",1,591,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 44","Woolwich",N,N,"",1,591,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 44","Woolwich",N,N,"",1,591,"Louis","","Tim","Liberal","Libéral",N,Y,104
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 44","Woolwich",N,N,"",1,591,"Treleaven","","Doug","Conservative","Conservateur",N,N,190
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 45","Woolwich",N,N,"",0,537,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 45","Woolwich",N,N,"",0,537,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 45","Woolwich",N,N,"",0,537,"Louis","","Tim","Liberal","Libéral",N,Y,111
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 45","Woolwich",N,N,"",0,537,"Treleaven","","Doug","Conservative","Conservateur",N,N,176
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 46","Breslau",N,N,"",1,235,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 46","Breslau",N,N,"",1,235,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 46","Breslau",N,N,"",1,235,"Louis","","Tim","Liberal","Libéral",N,Y,41
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 46","Breslau",N,N,"",1,235,"Treleaven","","Doug","Conservative","Conservateur",N,N,59
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 47","Wellesley",N,N,"",0,344,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 47","Wellesley",N,N,"",0,344,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 47","Wellesley",N,N,"",0,344,"Louis","","Tim","Liberal","Libéral",N,Y,58
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 47","Wellesley",N,N,"",0,344,"Treleaven","","Doug","Conservative","Conservateur",N,N,59
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 48","Wellesley",N,N,"",0,375,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 48","Wellesley",N,N,"",0,375,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 48","Wellesley",N,N,"",0,375,"Louis","","Tim","Liberal","Libéral",N,Y,91
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 48","Wellesley",N,N,"",0,375,"Treleaven","","Doug","Conservative","Conservateur",N,N,98
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 49","Wellesley",N,N,"",2,327,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 49","Wellesley",N,N,"",2,327,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 49","Wellesley",N,N,"",2,327,"Louis","","Tim","Liberal","Libéral",N,Y,94
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 49","Wellesley",N,N,"",2,327,"Treleaven","","Doug","Conservative","Conservateur",N,N,117
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 50","Wellesley",N,N,"",2,397,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 50","Wellesley",N,N,"",2,397,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 50","Wellesley",N,N,"",2,397,"Louis","","Tim","Liberal","Libéral",N,Y,120
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 50","Wellesley",N,N,"",2,397,"Treleaven","","Doug","Conservative","Conservateur",N,N,154
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 51","Wellesley",N,N,"",0,336,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 51","Wellesley",N,N,"",0,336,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 51","Wellesley",N,N,"",0,336,"Louis","","Tim","Liberal","Libéral",N,Y,63
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 51","Wellesley",N,N,"",0,336,"Treleaven","","Doug","Conservative","Conservateur",N,N,121
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 52","Wellesley",N,N,"",0,357,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 52","Wellesley",N,N,"",0,357,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 52","Wellesley",N,N,"",0,357,"Louis","","Tim","Liberal","Libéral",N,Y,48
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 52","Wellesley",N,N,"",0,357,"Treleaven","","Doug","Conservative","Conservateur",N,N,73
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 53","Wellesley",N,N,"",0,369,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 53","Wellesley",N,N,"",0,369,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 53","Wellesley",N,N,"",0,369,"Louis","","Tim","Liberal","Libéral",N,Y,29
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 53","Wellesley",N,N,"",0,369,"Treleaven","","Doug","Conservative","Conservateur",N,N,66
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 54","Wellesley",N,N,"",0,360,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 54","Wellesley",N,N,"",0,360,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 54","Wellesley",N,N,"",0,360,"Louis","","Tim","Liberal","Libéral",N,Y,64
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 54","Wellesley",N,N,"",0,360,"Treleaven","","Doug","Conservative","Conservateur",N,N,67
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 55","Woolwich",N,N,"",1,531,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 55","Woolwich",N,N,"",1,531,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 55","Woolwich",N,N,"",1,531,"Louis","","Tim","Liberal","Libéral",N,Y,115
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 55","Woolwich",N,N,"",1,531,"Treleaven","","Doug","Conservative","Conservateur",N,N,129
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 56","Woolwich",N,N,"",1,564,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 56","Woolwich",N,N,"",1,564,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 56","Woolwich",N,N,"",1,564,"Louis","","Tim","Liberal","Libéral",N,Y,122
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 56","Woolwich",N,N,"",1,564,"Treleaven","","Doug","Conservative","Conservateur",N,N,198
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 57","Woolwich",N,N,"",2,532,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 57","Woolwich",N,N,"",2,532,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 57","Woolwich",N,N,"",2,532,"Louis","","Tim","Liberal","Libéral",N,Y,148
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 57","Woolwich",N,N,"",2,532,"Treleaven","","Doug","Conservative","Conservateur",N,N,155
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 58A","Woolwich",N,N,"",0,464,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 58A","Woolwich",N,N,"",0,464,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 58A","Woolwich",N,N,"",0,464,"Louis","","Tim","Liberal","Libéral",N,Y,86
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 58A","Woolwich",N,N,"",0,464,"Treleaven","","Doug","Conservative","Conservateur",N,N,122
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 58B","Woolwich",N,N,"43",0,198,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 58B","Woolwich",N,N,"43",0,198,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 58B","Woolwich",N,N,"43",0,198,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 58B","Woolwich",N,N,"43",0,198,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 59","Wellesley",N,N,"",0,405,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 59","Wellesley",N,N,"",0,405,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 59","Wellesley",N,N,"",0,405,"Louis","","Tim","Liberal","Libéral",N,Y,21
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 59","Wellesley",N,N,"",0,405,"Treleaven","","Doug","Conservative","Conservateur",N,N,83
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 60","Wellesley",N,N,"",1,506,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 60","Wellesley",N,N,"",1,506,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 60","Wellesley",N,N,"",1,506,"Louis","","Tim","Liberal","Libéral",N,Y,86
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 60","Wellesley",N,N,"",1,506,"Treleaven","","Doug","Conservative","Conservateur",N,N,101
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 61","Wellesley",N,N,"",0,455,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 61","Wellesley",N,N,"",0,455,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 61","Wellesley",N,N,"",0,455,"Louis","","Tim","Liberal","Libéral",N,Y,61
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 61","Wellesley",N,N,"",0,455,"Treleaven","","Doug","Conservative","Conservateur",N,N,88
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 62","Wellesley",N,N,"",0,371,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 62","Wellesley",N,N,"",0,371,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 62","Wellesley",N,N,"",0,371,"Louis","","Tim","Liberal","Libéral",N,Y,54
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 62","Wellesley",N,N,"",0,371,"Treleaven","","Doug","Conservative","Conservateur",N,N,70
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 63","Wellesley",N,N,"",1,482,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 63","Wellesley",N,N,"",1,482,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 63","Wellesley",N,N,"",1,482,"Louis","","Tim","Liberal","Libéral",N,Y,68
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 63","Wellesley",N,N,"",1,482,"Treleaven","","Doug","Conservative","Conservateur",N,N,94
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 64","Wellesley",N,N,"",0,505,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 64","Wellesley",N,N,"",0,505,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 64","Wellesley",N,N,"",0,505,"Louis","","Tim","Liberal","Libéral",N,Y,75
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 64","Wellesley",N,N,"",0,505,"Treleaven","","Doug","Conservative","Conservateur",N,N,104
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 65","Wellesley",N,N,"",0,487,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 65","Wellesley",N,N,"",0,487,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 65","Wellesley",N,N,"",0,487,"Louis","","Tim","Liberal","Libéral",N,Y,65
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 65","Wellesley",N,N,"",0,487,"Treleaven","","Doug","Conservative","Conservateur",N,N,110
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 66","Wilmot",N,N,"",0,399,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 66","Wilmot",N,N,"",0,399,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 66","Wilmot",N,N,"",0,399,"Louis","","Tim","Liberal","Libéral",N,Y,92
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 66","Wilmot",N,N,"",0,399,"Treleaven","","Doug","Conservative","Conservateur",N,N,116
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 67","Wilmot",N,N,"",2,453,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 67","Wilmot",N,N,"",2,453,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 67","Wilmot",N,N,"",2,453,"Louis","","Tim","Liberal","Libéral",N,Y,66
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 67","Wilmot",N,N,"",2,453,"Treleaven","","Doug","Conservative","Conservateur",N,N,140
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 68","Kitchener",N,N,"",1,465,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 68","Kitchener",N,N,"",1,465,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 68","Kitchener",N,N,"",1,465,"Louis","","Tim","Liberal","Libéral",N,Y,105
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 68","Kitchener",N,N,"",1,465,"Treleaven","","Doug","Conservative","Conservateur",N,N,68
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 69","Kitchener",N,N,"",4,522,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 69","Kitchener",N,N,"",4,522,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 69","Kitchener",N,N,"",4,522,"Louis","","Tim","Liberal","Libéral",N,Y,150
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 69","Kitchener",N,N,"",4,522,"Treleaven","","Doug","Conservative","Conservateur",N,N,132
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 70","Kitchener",N,N,"",1,553,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 70","Kitchener",N,N,"",1,553,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 70","Kitchener",N,N,"",1,553,"Louis","","Tim","Liberal","Libéral",N,Y,82
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 70","Kitchener",N,N,"",1,553,"Treleaven","","Doug","Conservative","Conservateur",N,N,102
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 71","Kitchener",N,N,"",0,551,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 71","Kitchener",N,N,"",0,551,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 71","Kitchener",N,N,"",0,551,"Louis","","Tim","Liberal","Libéral",N,Y,81
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 71","Kitchener",N,N,"",0,551,"Treleaven","","Doug","Conservative","Conservateur",N,N,71
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 72","Kitchener",N,N,"",0,554,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 72","Kitchener",N,N,"",0,554,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 72","Kitchener",N,N,"",0,554,"Louis","","Tim","Liberal","Libéral",N,Y,80
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 72","Kitchener",N,N,"",0,554,"Treleaven","","Doug","Conservative","Conservateur",N,N,84
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 73","Kitchener",N,N,"",0,427,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 73","Kitchener",N,N,"",0,427,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 73","Kitchener",N,N,"",0,427,"Louis","","Tim","Liberal","Libéral",N,Y,93
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 73","Kitchener",N,N,"",0,427,"Treleaven","","Doug","Conservative","Conservateur",N,N,64
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 74","Kitchener",N,N,"",1,464,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 74","Kitchener",N,N,"",1,464,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 74","Kitchener",N,N,"",1,464,"Louis","","Tim","Liberal","Libéral",N,Y,96
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 74","Kitchener",N,N,"",1,464,"Treleaven","","Doug","Conservative","Conservateur",N,N,91
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 75","Kitchener",N,N,"",0,479,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 75","Kitchener",N,N,"",0,479,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 75","Kitchener",N,N,"",0,479,"Louis","","Tim","Liberal","Libéral",N,Y,73
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 75","Kitchener",N,N,"",0,479,"Treleaven","","Doug","Conservative","Conservateur",N,N,77
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 76","Kitchener",N,N,"",0,565,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 76","Kitchener",N,N,"",0,565,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 76","Kitchener",N,N,"",0,565,"Louis","","Tim","Liberal","Libéral",N,Y,97
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 76","Kitchener",N,N,"",0,565,"Treleaven","","Doug","Conservative","Conservateur",N,N,100
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 77","Kitchener",N,N,"",1,534,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 77","Kitchener",N,N,"",1,534,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 77","Kitchener",N,N,"",1,534,"Louis","","Tim","Liberal","Libéral",N,Y,111
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 77","Kitchener",N,N,"",1,534,"Treleaven","","Doug","Conservative","Conservateur",N,N,92
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 78","Kitchener",N,N,"",1,567,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 78","Kitchener",N,N,"",1,567,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 78","Kitchener",N,N,"",1,567,"Louis","","Tim","Liberal","Libéral",N,Y,109
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 78","Kitchener",N,N,"",1,567,"Treleaven","","Doug","Conservative","Conservateur",N,N,111
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 79","Kitchener",N,N,"",0,494,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 79","Kitchener",N,N,"",0,494,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 79","Kitchener",N,N,"",0,494,"Louis","","Tim","Liberal","Libéral",N,Y,78
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 79","Kitchener",N,N,"",0,494,"Treleaven","","Doug","Conservative","Conservateur",N,N,81
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 80","Kitchener",N,N,"",0,594,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 80","Kitchener",N,N,"",0,594,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 80","Kitchener",N,N,"",0,594,"Louis","","Tim","Liberal","Libéral",N,Y,82
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 80","Kitchener",N,N,"",0,594,"Treleaven","","Doug","Conservative","Conservateur",N,N,87
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 81","Kitchener",N,N,"",3,545,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 81","Kitchener",N,N,"",3,545,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 81","Kitchener",N,N,"",3,545,"Louis","","Tim","Liberal","Libéral",N,Y,117
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 81","Kitchener",N,N,"",3,545,"Treleaven","","Doug","Conservative","Conservateur",N,N,97
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 82","Kitchener",N,N,"",0,527,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 82","Kitchener",N,N,"",0,527,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 82","Kitchener",N,N,"",0,527,"Louis","","Tim","Liberal","Libéral",N,Y,108
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 82","Kitchener",N,N,"",0,527,"Treleaven","","Doug","Conservative","Conservateur",N,N,76
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 83","Kitchener",N,N,"",0,469,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 83","Kitchener",N,N,"",0,469,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 83","Kitchener",N,N,"",0,469,"Louis","","Tim","Liberal","Libéral",N,Y,99
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 83","Kitchener",N,N,"",0,469,"Treleaven","","Doug","Conservative","Conservateur",N,N,93
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 84","Kitchener",N,N,"",2,502,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 84","Kitchener",N,N,"",2,502,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 84","Kitchener",N,N,"",2,502,"Louis","","Tim","Liberal","Libéral",N,Y,105
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 84","Kitchener",N,N,"",2,502,"Treleaven","","Doug","Conservative","Conservateur",N,N,107
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 85","Kitchener",N,N,"",1,567,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 85","Kitchener",N,N,"",1,567,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 85","Kitchener",N,N,"",1,567,"Louis","","Tim","Liberal","Libéral",N,Y,119
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 85","Kitchener",N,N,"",1,567,"Treleaven","","Doug","Conservative","Conservateur",N,N,125
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 86","Kitchener",N,N,"",1,533,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 86","Kitchener",N,N,"",1,533,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 86","Kitchener",N,N,"",1,533,"Louis","","Tim","Liberal","Libéral",N,Y,118
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 86","Kitchener",N,N,"",1,533,"Treleaven","","Doug","Conservative","Conservateur",N,N,107
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 87","Kitchener",N,N,"",0,523,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 87","Kitchener",N,N,"",0,523,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 87","Kitchener",N,N,"",0,523,"Louis","","Tim","Liberal","Libéral",N,Y,110
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 87","Kitchener",N,N,"",0,523,"Treleaven","","Doug","Conservative","Conservateur",N,N,97
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 88","Kitchener",N,N,"",1,502,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 88","Kitchener",N,N,"",1,502,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 88","Kitchener",N,N,"",1,502,"Louis","","Tim","Liberal","Libéral",N,Y,109
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 88","Kitchener",N,N,"",1,502,"Treleaven","","Doug","Conservative","Conservateur",N,N,94
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 89","Kitchener",N,N,"",1,514,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 89","Kitchener",N,N,"",1,514,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 89","Kitchener",N,N,"",1,514,"Louis","","Tim","Liberal","Libéral",N,Y,76
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 89","Kitchener",N,N,"",1,514,"Treleaven","","Doug","Conservative","Conservateur",N,N,106
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 90","Kitchener",N,N,"",2,468,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 90","Kitchener",N,N,"",2,468,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 90","Kitchener",N,N,"",2,468,"Louis","","Tim","Liberal","Libéral",N,Y,105
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 90","Kitchener",N,N,"",2,468,"Treleaven","","Doug","Conservative","Conservateur",N,N,107
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 91","Kitchener",N,N,"",0,555,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 91","Kitchener",N,N,"",0,555,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 91","Kitchener",N,N,"",0,555,"Louis","","Tim","Liberal","Libéral",N,Y,140
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 91","Kitchener",N,N,"",0,555,"Treleaven","","Doug","Conservative","Conservateur",N,N,108
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 92","Kitchener",N,N,"",1,526,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 92","Kitchener",N,N,"",1,526,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 92","Kitchener",N,N,"",1,526,"Louis","","Tim","Liberal","Libéral",N,Y,108
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 92","Kitchener",N,N,"",1,526,"Treleaven","","Doug","Conservative","Conservateur",N,N,94
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 93","Kitchener",N,N,"94",0,273,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 93","Kitchener",N,N,"94",0,273,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 93","Kitchener",N,N,"94",0,273,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 93","Kitchener",N,N,"94",0,273,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 94","Kitchener",N,N,"",2,271,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 94","Kitchener",N,N,"",2,271,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 94","Kitchener",N,N,"",2,271,"Louis","","Tim","Liberal","Libéral",N,Y,98
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 94","Kitchener",N,N,"",2,271,"Treleaven","","Doug","Conservative","Conservateur",N,N,105
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 95","Kitchener",N,N,"",0,419,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 95","Kitchener",N,N,"",0,419,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 95","Kitchener",N,N,"",0,419,"Louis","","Tim","Liberal","Libéral",N,Y,63
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 95","Kitchener",N,N,"",0,419,"Treleaven","","Doug","Conservative","Conservateur",N,N,60
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 96","Kitchener",N,N,"",1,356,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 96","Kitchener",N,N,"",1,356,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 96","Kitchener",N,N,"",1,356,"Louis","","Tim","Liberal","Libéral",N,Y,69
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 96","Kitchener",N,N,"",1,356,"Treleaven","","Doug","Conservative","Conservateur",N,N,69
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 97A","Kitchener",N,N,"",1,441,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 97A","Kitchener",N,N,"",1,441,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 97A","Kitchener",N,N,"",1,441,"Louis","","Tim","Liberal","Libéral",N,Y,85
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 97A","Kitchener",N,N,"",1,441,"Treleaven","","Doug","Conservative","Conservateur",N,N,82
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 97B","Kitchener",N,N,"",1,391,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 97B","Kitchener",N,N,"",1,391,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 97B","Kitchener",N,N,"",1,391,"Louis","","Tim","Liberal","Libéral",N,Y,58
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 97B","Kitchener",N,N,"",1,391,"Treleaven","","Doug","Conservative","Conservateur",N,N,56
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 98","Kitchener",N,N,"",0,507,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 98","Kitchener",N,N,"",0,507,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 98","Kitchener",N,N,"",0,507,"Louis","","Tim","Liberal","Libéral",N,Y,111
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 98","Kitchener",N,N,"",0,507,"Treleaven","","Doug","Conservative","Conservateur",N,N,103
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 99","Kitchener",N,N,"",0,479,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 99","Kitchener",N,N,"",0,479,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 99","Kitchener",N,N,"",0,479,"Louis","","Tim","Liberal","Libéral",N,Y,75
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 99","Kitchener",N,N,"",0,479,"Treleaven","","Doug","Conservative","Conservateur",N,N,88
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 100","Kitchener",N,N,"",0,604,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 100","Kitchener",N,N,"",0,604,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 100","Kitchener",N,N,"",0,604,"Louis","","Tim","Liberal","Libéral",N,Y,91
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 100","Kitchener",N,N,"",0,604,"Treleaven","","Doug","Conservative","Conservateur",N,N,92
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 101","Kitchener",N,N,"",0,529,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 101","Kitchener",N,N,"",0,529,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 101","Kitchener",N,N,"",0,529,"Louis","","Tim","Liberal","Libéral",N,Y,90
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 101","Kitchener",N,N,"",0,529,"Treleaven","","Doug","Conservative","Conservateur",N,N,84
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 102","Kitchener",N,N,"",0,493,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 102","Kitchener",N,N,"",0,493,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 102","Kitchener",N,N,"",0,493,"Louis","","Tim","Liberal","Libéral",N,Y,105
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 102","Kitchener",N,N,"",0,493,"Treleaven","","Doug","Conservative","Conservateur",N,N,75
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 103","Kitchener",N,N,"",0,549,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 103","Kitchener",N,N,"",0,549,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 103","Kitchener",N,N,"",0,549,"Louis","","Tim","Liberal","Libéral",N,Y,108
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 103","Kitchener",N,N,"",0,549,"Treleaven","","Doug","Conservative","Conservateur",N,N,97
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 104","Kitchener",N,N,"",0,486,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 104","Kitchener",N,N,"",0,486,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 104","Kitchener",N,N,"",0,486,"Louis","","Tim","Liberal","Libéral",N,Y,84
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 104","Kitchener",N,N,"",0,486,"Treleaven","","Doug","Conservative","Conservateur",N,N,96
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 105","Kitchener",N,N,"",0,574,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 105","Kitchener",N,N,"",0,574,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 105","Kitchener",N,N,"",0,574,"Louis","","Tim","Liberal","Libéral",N,Y,122
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 105","Kitchener",N,N,"",0,574,"Treleaven","","Doug","Conservative","Conservateur",N,N,86
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 106","Kitchener",N,N,"",1,553,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 106","Kitchener",N,N,"",1,553,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 106","Kitchener",N,N,"",1,553,"Louis","","Tim","Liberal","Libéral",N,Y,90
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 106","Kitchener",N,N,"",1,553,"Treleaven","","Doug","Conservative","Conservateur",N,N,83
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 107","Kitchener",N,N,"",2,559,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 107","Kitchener",N,N,"",2,559,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 107","Kitchener",N,N,"",2,559,"Louis","","Tim","Liberal","Libéral",N,Y,103
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 107","Kitchener",N,N,"",2,559,"Treleaven","","Doug","Conservative","Conservateur",N,N,76
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 108","Kitchener",N,N,"",1,614,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 108","Kitchener",N,N,"",1,614,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 108","Kitchener",N,N,"",1,614,"Louis","","Tim","Liberal","Libéral",N,Y,123
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 108","Kitchener",N,N,"",1,614,"Treleaven","","Doug","Conservative","Conservateur",N,N,91
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 109","Kitchener",N,N,"",1,521,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 109","Kitchener",N,N,"",1,521,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 109","Kitchener",N,N,"",1,521,"Louis","","Tim","Liberal","Libéral",N,Y,107
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 109","Kitchener",N,N,"",1,521,"Treleaven","","Doug","Conservative","Conservateur",N,N,125
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 110","Kitchener",N,N,"",1,515,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 110","Kitchener",N,N,"",1,515,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 110","Kitchener",N,N,"",1,515,"Louis","","Tim","Liberal","Libéral",N,Y,114
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 110","Kitchener",N,N,"",1,515,"Treleaven","","Doug","Conservative","Conservateur",N,N,105
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 111","Kitchener",N,N,"",0,465,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 111","Kitchener",N,N,"",0,465,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 111","Kitchener",N,N,"",0,465,"Louis","","Tim","Liberal","Libéral",N,Y,103
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 111","Kitchener",N,N,"",0,465,"Treleaven","","Doug","Conservative","Conservateur",N,N,113
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 112","Kitchener",N,N,"",4,535,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 112","Kitchener",N,N,"",4,535,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 112","Kitchener",N,N,"",4,535,"Louis","","Tim","Liberal","Libéral",N,Y,116
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 112","Kitchener",N,N,"",4,535,"Treleaven","","Doug","Conservative","Conservateur",N,N,119
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 113","Kitchener",N,N,"",1,454,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 113","Kitchener",N,N,"",1,454,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 113","Kitchener",N,N,"",1,454,"Louis","","Tim","Liberal","Libéral",N,Y,113
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 113","Kitchener",N,N,"",1,454,"Treleaven","","Doug","Conservative","Conservateur",N,N,102
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 114","Kitchener",N,N,"",1,503,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 114","Kitchener",N,N,"",1,503,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 114","Kitchener",N,N,"",1,503,"Louis","","Tim","Liberal","Libéral",N,Y,97
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 114","Kitchener",N,N,"",1,503,"Treleaven","","Doug","Conservative","Conservateur",N,N,84
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 115","Kitchener",N,N,"",2,496,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 115","Kitchener",N,N,"",2,496,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 115","Kitchener",N,N,"",2,496,"Louis","","Tim","Liberal","Libéral",N,Y,100
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 115","Kitchener",N,N,"",2,496,"Treleaven","","Doug","Conservative","Conservateur",N,N,95
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 116","Kitchener",N,N,"",1,426,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 116","Kitchener",N,N,"",1,426,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 116","Kitchener",N,N,"",1,426,"Louis","","Tim","Liberal","Libéral",N,Y,90
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 116","Kitchener",N,N,"",1,426,"Treleaven","","Doug","Conservative","Conservateur",N,N,70
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 117","Kitchener",N,N,"",0,422,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 117","Kitchener",N,N,"",0,422,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 117","Kitchener",N,N,"",0,422,"Louis","","Tim","Liberal","Libéral",N,Y,78
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 117","Kitchener",N,N,"",0,422,"Treleaven","","Doug","Conservative","Conservateur",N,N,109
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 118","Kitchener",N,N,"",1,587,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 118","Kitchener",N,N,"",1,587,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 118","Kitchener",N,N,"",1,587,"Louis","","Tim","Liberal","Libéral",N,Y,130
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 118","Kitchener",N,N,"",1,587,"Treleaven","","Doug","Conservative","Conservateur",N,N,150
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 119","Kitchener",N,N,"",2,501,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 119","Kitchener",N,N,"",2,501,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 119","Kitchener",N,N,"",2,501,"Louis","","Tim","Liberal","Libéral",N,Y,90
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 119","Kitchener",N,N,"",2,501,"Treleaven","","Doug","Conservative","Conservateur",N,N,129
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 120","Kitchener",N,N,"",0,502,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 120","Kitchener",N,N,"",0,502,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 120","Kitchener",N,N,"",0,502,"Louis","","Tim","Liberal","Libéral",N,Y,111
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 120","Kitchener",N,N,"",0,502,"Treleaven","","Doug","Conservative","Conservateur",N,N,115
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 121","Kitchener",N,N,"",1,396,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 121","Kitchener",N,N,"",1,396,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 121","Kitchener",N,N,"",1,396,"Louis","","Tim","Liberal","Libéral",N,Y,74
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 121","Kitchener",N,N,"",1,396,"Treleaven","","Doug","Conservative","Conservateur",N,N,97
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 122","Kitchener",N,N,"",3,570,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 122","Kitchener",N,N,"",3,570,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 122","Kitchener",N,N,"",3,570,"Louis","","Tim","Liberal","Libéral",N,Y,115
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 122","Kitchener",N,N,"",3,570,"Treleaven","","Doug","Conservative","Conservateur",N,N,165
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 123","Kitchener",N,N,"",0,460,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 123","Kitchener",N,N,"",0,460,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 123","Kitchener",N,N,"",0,460,"Louis","","Tim","Liberal","Libéral",N,Y,105
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 123","Kitchener",N,N,"",0,460,"Treleaven","","Doug","Conservative","Conservateur",N,N,128
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 124","Kitchener",N,N,"",0,567,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 124","Kitchener",N,N,"",0,567,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 124","Kitchener",N,N,"",0,567,"Louis","","Tim","Liberal","Libéral",N,Y,117
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 124","Kitchener",N,N,"",0,567,"Treleaven","","Doug","Conservative","Conservateur",N,N,155
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 125","Kitchener",N,N,"",1,586,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 125","Kitchener",N,N,"",1,586,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 125","Kitchener",N,N,"",1,586,"Louis","","Tim","Liberal","Libéral",N,Y,126
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 125","Kitchener",N,N,"",1,586,"Treleaven","","Doug","Conservative","Conservateur",N,N,147
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 126","Kitchener",N,N,"",1,490,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 126","Kitchener",N,N,"",1,490,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 126","Kitchener",N,N,"",1,490,"Louis","","Tim","Liberal","Libéral",N,Y,115
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 126","Kitchener",N,N,"",1,490,"Treleaven","","Doug","Conservative","Conservateur",N,N,137
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 127","Kitchener",N,N,"",0,559,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 127","Kitchener",N,N,"",0,559,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 127","Kitchener",N,N,"",0,559,"Louis","","Tim","Liberal","Libéral",N,Y,150
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 127","Kitchener",N,N,"",0,559,"Treleaven","","Doug","Conservative","Conservateur",N,N,103
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 128","Kitchener",N,N,"",1,591,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 128","Kitchener",N,N,"",1,591,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 128","Kitchener",N,N,"",1,591,"Louis","","Tim","Liberal","Libéral",N,Y,120
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 128","Kitchener",N,N,"",1,591,"Treleaven","","Doug","Conservative","Conservateur",N,N,115
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 129","Kitchener",N,N,"",4,592,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 129","Kitchener",N,N,"",4,592,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 129","Kitchener",N,N,"",4,592,"Louis","","Tim","Liberal","Libéral",N,Y,112
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 129","Kitchener",N,N,"",4,592,"Treleaven","","Doug","Conservative","Conservateur",N,N,144
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 130","Kitchener",N,N,"",2,552,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 130","Kitchener",N,N,"",2,552,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 130","Kitchener",N,N,"",2,552,"Louis","","Tim","Liberal","Libéral",N,Y,102
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 130","Kitchener",N,N,"",2,552,"Treleaven","","Doug","Conservative","Conservateur",N,N,148
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 131","Kitchener",N,N,"",1,550,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 131","Kitchener",N,N,"",1,550,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 131","Kitchener",N,N,"",1,550,"Louis","","Tim","Liberal","Libéral",N,Y,102
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 131","Kitchener",N,N,"",1,550,"Treleaven","","Doug","Conservative","Conservateur",N,N,119
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 132","Kitchener",N,N,"",2,493,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 132","Kitchener",N,N,"",2,493,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 132","Kitchener",N,N,"",2,493,"Louis","","Tim","Liberal","Libéral",N,Y,77
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 132","Kitchener",N,N,"",2,493,"Treleaven","","Doug","Conservative","Conservateur",N,N,110
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 133","Kitchener",N,N,"",0,530,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 133","Kitchener",N,N,"",0,530,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 133","Kitchener",N,N,"",0,530,"Louis","","Tim","Liberal","Libéral",N,Y,80
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 133","Kitchener",N,N,"",0,530,"Treleaven","","Doug","Conservative","Conservateur",N,N,96
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 134","Wilmot",N,N,"",1,376,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 134","Wilmot",N,N,"",1,376,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 134","Wilmot",N,N,"",1,376,"Louis","","Tim","Liberal","Libéral",N,Y,110
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 134","Wilmot",N,N,"",1,376,"Treleaven","","Doug","Conservative","Conservateur",N,N,123
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 135","St. Agatha",N,N,"",2,455,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 135","St. Agatha",N,N,"",2,455,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 135","St. Agatha",N,N,"",2,455,"Louis","","Tim","Liberal","Libéral",N,Y,76
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 135","St. Agatha",N,N,"",2,455,"Treleaven","","Doug","Conservative","Conservateur",N,N,103
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 136","Wilmot",N,N,"",0,321,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 136","Wilmot",N,N,"",0,321,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 136","Wilmot",N,N,"",0,321,"Louis","","Tim","Liberal","Libéral",N,Y,73
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 136","Wilmot",N,N,"",0,321,"Treleaven","","Doug","Conservative","Conservateur",N,N,78
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 137","Wilmot",N,N,"",0,371,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 137","Wilmot",N,N,"",0,371,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 137","Wilmot",N,N,"",0,371,"Louis","","Tim","Liberal","Libéral",N,Y,38
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 137","Wilmot",N,N,"",0,371,"Treleaven","","Doug","Conservative","Conservateur",N,N,84
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 138","Kitchener",N,N,"",1,491,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 138","Kitchener",N,N,"",1,491,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 138","Kitchener",N,N,"",1,491,"Louis","","Tim","Liberal","Libéral",N,Y,81
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 138","Kitchener",N,N,"",1,491,"Treleaven","","Doug","Conservative","Conservateur",N,N,87
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 139A","Kitchener",N,N,"",0,360,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 139A","Kitchener",N,N,"",0,360,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 139A","Kitchener",N,N,"",0,360,"Louis","","Tim","Liberal","Libéral",N,Y,53
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 139A","Kitchener",N,N,"",0,360,"Treleaven","","Doug","Conservative","Conservateur",N,N,66
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 139B","Kitchener",N,N,"",0,341,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 139B","Kitchener",N,N,"",0,341,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 139B","Kitchener",N,N,"",0,341,"Louis","","Tim","Liberal","Libéral",N,Y,49
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 139B","Kitchener",N,N,"",0,341,"Treleaven","","Doug","Conservative","Conservateur",N,N,54
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 140","Mannheim",N,N,"",0,406,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 140","Mannheim",N,N,"",0,406,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 140","Mannheim",N,N,"",0,406,"Louis","","Tim","Liberal","Libéral",N,Y,55
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 140","Mannheim",N,N,"",0,406,"Treleaven","","Doug","Conservative","Conservateur",N,N,67
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 141","Wilmot",N,N,"",0,455,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 141","Wilmot",N,N,"",0,455,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 141","Wilmot",N,N,"",0,455,"Louis","","Tim","Liberal","Libéral",N,Y,54
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 141","Wilmot",N,N,"",0,455,"Treleaven","","Doug","Conservative","Conservateur",N,N,65
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 142","Wilmot",N,N,"",1,435,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 142","Wilmot",N,N,"",1,435,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 142","Wilmot",N,N,"",1,435,"Louis","","Tim","Liberal","Libéral",N,Y,77
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 142","Wilmot",N,N,"",1,435,"Treleaven","","Doug","Conservative","Conservateur",N,N,45
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 143A","Kitchener",N,N,"",3,473,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 143A","Kitchener",N,N,"",3,473,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 143A","Kitchener",N,N,"",3,473,"Louis","","Tim","Liberal","Libéral",N,Y,107
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 143A","Kitchener",N,N,"",3,473,"Treleaven","","Doug","Conservative","Conservateur",N,N,87
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 143B","Kitchener",N,N,"",3,418,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 143B","Kitchener",N,N,"",3,418,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 143B","Kitchener",N,N,"",3,418,"Louis","","Tim","Liberal","Libéral",N,Y,80
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 143B","Kitchener",N,N,"",3,418,"Treleaven","","Doug","Conservative","Conservateur",N,N,96
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 144","Kitchener",N,N,"",0,514,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 144","Kitchener",N,N,"",0,514,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 144","Kitchener",N,N,"",0,514,"Louis","","Tim","Liberal","Libéral",N,Y,80
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 144","Kitchener",N,N,"",0,514,"Treleaven","","Doug","Conservative","Conservateur",N,N,97
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 145","Kitchener",N,N,"",1,496,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 145","Kitchener",N,N,"",1,496,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 145","Kitchener",N,N,"",1,496,"Louis","","Tim","Liberal","Libéral",N,Y,77
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 145","Kitchener",N,N,"",1,496,"Treleaven","","Doug","Conservative","Conservateur",N,N,115
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 146","Kitchener",N,N,"",3,559,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 146","Kitchener",N,N,"",3,559,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 146","Kitchener",N,N,"",3,559,"Louis","","Tim","Liberal","Libéral",N,Y,98
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 146","Kitchener",N,N,"",3,559,"Treleaven","","Doug","Conservative","Conservateur",N,N,99
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 147A","Kitchener",N,N,"",1,338,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 147A","Kitchener",N,N,"",1,338,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 147A","Kitchener",N,N,"",1,338,"Louis","","Tim","Liberal","Libéral",N,Y,56
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 147A","Kitchener",N,N,"",1,338,"Treleaven","","Doug","Conservative","Conservateur",N,N,88
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 147B","Kitchener",N,N,"",0,312,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 147B","Kitchener",N,N,"",0,312,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 147B","Kitchener",N,N,"",0,312,"Louis","","Tim","Liberal","Libéral",N,Y,34
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 147B","Kitchener",N,N,"",0,312,"Treleaven","","Doug","Conservative","Conservateur",N,N,60
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 148","Wilmot",N,N,"",0,511,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 148","Wilmot",N,N,"",0,511,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 148","Wilmot",N,N,"",0,511,"Louis","","Tim","Liberal","Libéral",N,Y,76
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 148","Wilmot",N,N,"",0,511,"Treleaven","","Doug","Conservative","Conservateur",N,N,90
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 149","Wilmot",N,N,"",0,534,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 149","Wilmot",N,N,"",0,534,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 149","Wilmot",N,N,"",0,534,"Louis","","Tim","Liberal","Libéral",N,Y,80
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 149","Wilmot",N,N,"",0,534,"Treleaven","","Doug","Conservative","Conservateur",N,N,103
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 150","Wilmot",N,N,"",1,510,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 150","Wilmot",N,N,"",1,510,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 150","Wilmot",N,N,"",1,510,"Louis","","Tim","Liberal","Libéral",N,Y,76
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 150","Wilmot",N,N,"",1,510,"Treleaven","","Doug","Conservative","Conservateur",N,N,86
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 151","Wilmot",N,N,"",0,556,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 151","Wilmot",N,N,"",0,556,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 151","Wilmot",N,N,"",0,556,"Louis","","Tim","Liberal","Libéral",N,Y,87
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 151","Wilmot",N,N,"",0,556,"Treleaven","","Doug","Conservative","Conservateur",N,N,84
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 152","Wilmot",N,N,"",0,406,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 152","Wilmot",N,N,"",0,406,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 152","Wilmot",N,N,"",0,406,"Louis","","Tim","Liberal","Libéral",N,Y,47
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 152","Wilmot",N,N,"",0,406,"Treleaven","","Doug","Conservative","Conservateur",N,N,98
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 153","Wilmot",N,N,"",0,530,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 153","Wilmot",N,N,"",0,530,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 153","Wilmot",N,N,"",0,530,"Louis","","Tim","Liberal","Libéral",N,Y,68
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 153","Wilmot",N,N,"",0,530,"Treleaven","","Doug","Conservative","Conservateur",N,N,92
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 154","Wilmot",N,N,"",0,509,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 154","Wilmot",N,N,"",0,509,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 154","Wilmot",N,N,"",0,509,"Louis","","Tim","Liberal","Libéral",N,Y,78
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 154","Wilmot",N,N,"",0,509,"Treleaven","","Doug","Conservative","Conservateur",N,N,89
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 155","Wilmot",N,N,"",1,491,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 155","Wilmot",N,N,"",1,491,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 155","Wilmot",N,N,"",1,491,"Louis","","Tim","Liberal","Libéral",N,Y,53
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 155","Wilmot",N,N,"",1,491,"Treleaven","","Doug","Conservative","Conservateur",N,N,116
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 156","Wilmot",N,N,"",4,524,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 156","Wilmot",N,N,"",4,524,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 156","Wilmot",N,N,"",4,524,"Louis","","Tim","Liberal","Libéral",N,Y,100
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 156","Wilmot",N,N,"",4,524,"Treleaven","","Doug","Conservative","Conservateur",N,N,110
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 157","Wilmot",N,N,"",1,564,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 157","Wilmot",N,N,"",1,564,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 157","Wilmot",N,N,"",1,564,"Louis","","Tim","Liberal","Libéral",N,Y,69
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 157","Wilmot",N,N,"",1,564,"Treleaven","","Doug","Conservative","Conservateur",N,N,137
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 158","Wilmot",N,N,"",2,531,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 158","Wilmot",N,N,"",2,531,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 158","Wilmot",N,N,"",2,531,"Louis","","Tim","Liberal","Libéral",N,Y,92
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 158","Wilmot",N,N,"",2,531,"Treleaven","","Doug","Conservative","Conservateur",N,N,110
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 159","Wilmot",N,N,"",1,514,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 159","Wilmot",N,N,"",1,514,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 159","Wilmot",N,N,"",1,514,"Louis","","Tim","Liberal","Libéral",N,Y,84
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 159","Wilmot",N,N,"",1,514,"Treleaven","","Doug","Conservative","Conservateur",N,N,116
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 160","Wilmot",N,N,"",0,367,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 160","Wilmot",N,N,"",0,367,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 160","Wilmot",N,N,"",0,367,"Louis","","Tim","Liberal","Libéral",N,Y,55
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 160","Wilmot",N,N,"",0,367,"Treleaven","","Doug","Conservative","Conservateur",N,N,53
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 161","Wilmot",N,N,"",0,507,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 161","Wilmot",N,N,"",0,507,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 161","Wilmot",N,N,"",0,507,"Louis","","Tim","Liberal","Libéral",N,Y,99
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 161","Wilmot",N,N,"",0,507,"Treleaven","","Doug","Conservative","Conservateur",N,N,114
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 162","Wilmot",N,N,"",1,518,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 162","Wilmot",N,N,"",1,518,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 162","Wilmot",N,N,"",1,518,"Louis","","Tim","Liberal","Libéral",N,Y,83
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 162","Wilmot",N,N,"",1,518,"Treleaven","","Doug","Conservative","Conservateur",N,N,120
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 163","Wilmot",N,N,"",2,365,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 163","Wilmot",N,N,"",2,365,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 163","Wilmot",N,N,"",2,365,"Louis","","Tim","Liberal","Libéral",N,Y,82
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 163","Wilmot",N,N,"",2,365,"Treleaven","","Doug","Conservative","Conservateur",N,N,43
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 164","Wilmot",N,N,"",0,348,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 164","Wilmot",N,N,"",0,348,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 164","Wilmot",N,N,"",0,348,"Louis","","Tim","Liberal","Libéral",N,Y,80
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 164","Wilmot",N,N,"",0,348,"Treleaven","","Doug","Conservative","Conservateur",N,N,53
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 165","New Dundee",N,N,"",1,398,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 165","New Dundee",N,N,"",1,398,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 165","New Dundee",N,N,"",1,398,"Louis","","Tim","Liberal","Libéral",N,Y,93
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 165","New Dundee",N,N,"",1,398,"Treleaven","","Doug","Conservative","Conservateur",N,N,152
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 166","New Dundee",N,N,"",0,394,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 166","New Dundee",N,N,"",0,394,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 166","New Dundee",N,N,"",0,394,"Louis","","Tim","Liberal","Libéral",N,Y,105
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 166","New Dundee",N,N,"",0,394,"Treleaven","","Doug","Conservative","Conservateur",N,N,117
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 167","New Dundee",N,N,"",1,392,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 167","New Dundee",N,N,"",1,392,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 167","New Dundee",N,N,"",1,392,"Louis","","Tim","Liberal","Libéral",N,Y,86
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 167","New Dundee",N,N,"",1,392,"Treleaven","","Doug","Conservative","Conservateur",N,N,120
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 168","Wilmot",N,N,"",1,444,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 168","Wilmot",N,N,"",1,444,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 168","Wilmot",N,N,"",1,444,"Louis","","Tim","Liberal","Libéral",N,Y,91
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 168","Wilmot",N,N,"",1,444,"Treleaven","","Doug","Conservative","Conservateur",N,N,45
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 169","Wilmot",N,N,"",0,503,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 169","Wilmot",N,N,"",0,503,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 169","Wilmot",N,N,"",0,503,"Louis","","Tim","Liberal","Libéral",N,Y,105
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 169","Wilmot",N,N,"",0,503,"Treleaven","","Doug","Conservative","Conservateur",N,N,41
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 170","Wilmot",N,N,"",1,356,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 170","Wilmot",N,N,"",1,356,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 170","Wilmot",N,N,"",1,356,"Louis","","Tim","Liberal","Libéral",N,Y,47
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 170","Wilmot",N,N,"",1,356,"Treleaven","","Doug","Conservative","Conservateur",N,N,68
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 171","Wilmot",N,N,"",1,565,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 171","Wilmot",N,N,"",1,565,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 171","Wilmot",N,N,"",1,565,"Louis","","Tim","Liberal","Libéral",N,Y,76
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 171","Wilmot",N,N,"",1,565,"Treleaven","","Doug","Conservative","Conservateur",N,N,111
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 172","Wilmot",N,N,"",0,494,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 172","Wilmot",N,N,"",0,494,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 172","Wilmot",N,N,"",0,494,"Louis","","Tim","Liberal","Libéral",N,Y,81
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 172","Wilmot",N,N,"",0,494,"Treleaven","","Doug","Conservative","Conservateur",N,N,92
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 173","Wilmot",N,N,"",0,502,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 173","Wilmot",N,N,"",0,502,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 173","Wilmot",N,N,"",0,502,"Louis","","Tim","Liberal","Libéral",N,Y,76
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 173","Wilmot",N,N,"",0,502,"Treleaven","","Doug","Conservative","Conservateur",N,N,115
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 174","Wilmot",N,N,"",0,366,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 174","Wilmot",N,N,"",0,366,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 174","Wilmot",N,N,"",0,366,"Louis","","Tim","Liberal","Libéral",N,Y,52
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 174","Wilmot",N,N,"",0,366,"Treleaven","","Doug","Conservative","Conservateur",N,N,86
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 175","Wilmot",N,N,"",0,383,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 175","Wilmot",N,N,"",0,383,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 175","Wilmot",N,N,"",0,383,"Louis","","Tim","Liberal","Libéral",N,Y,63
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 175","Wilmot",N,N,"",0,383,"Treleaven","","Doug","Conservative","Conservateur",N,N,90
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 176","Wilmot",N,N,"",0,303,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 176","Wilmot",N,N,"",0,303,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 176","Wilmot",N,N,"",0,303,"Louis","","Tim","Liberal","Libéral",N,Y,59
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 176","Wilmot",N,N,"",0,303,"Treleaven","","Doug","Conservative","Conservateur",N,N,66
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 400A","Mobile poll/Bureau itinérant",N,N,"505",0,52,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 400A","Mobile poll/Bureau itinérant",N,N,"505",0,52,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 400A","Mobile poll/Bureau itinérant",N,N,"505",0,52,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 400A","Mobile poll/Bureau itinérant",N,N,"505",0,52,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 400B","Mobile poll/Bureau itinérant",N,N,"505",0,64,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 400B","Mobile poll/Bureau itinérant",N,N,"505",0,64,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 400B","Mobile poll/Bureau itinérant",N,N,"505",0,64,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 400B","Mobile poll/Bureau itinérant",N,N,"505",0,64,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,27,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,27,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,27,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,27,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 501","Mobile poll/Bureau itinérant",N,N,"",1,37,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 501","Mobile poll/Bureau itinérant",N,N,"",1,37,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 501","Mobile poll/Bureau itinérant",N,N,"",1,37,"Louis","","Tim","Liberal","Libéral",N,Y,32
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 501","Mobile poll/Bureau itinérant",N,N,"",1,37,"Treleaven","","Doug","Conservative","Conservateur",N,N,29
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,74,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,74,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,74,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,74,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 503","Mobile poll/Bureau itinérant",N,N,"510",0,57,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 503","Mobile poll/Bureau itinérant",N,N,"510",0,57,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 503","Mobile poll/Bureau itinérant",N,N,"510",0,57,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 503","Mobile poll/Bureau itinérant",N,N,"510",0,57,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 504","Mobile poll/Bureau itinérant",N,N,"510",0,35,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 504","Mobile poll/Bureau itinérant",N,N,"510",0,35,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 504","Mobile poll/Bureau itinérant",N,N,"510",0,35,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 504","Mobile poll/Bureau itinérant",N,N,"510",0,35,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 505","Mobile poll/Bureau itinérant",N,N,"",1,88,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 505","Mobile poll/Bureau itinérant",N,N,"",1,88,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 505","Mobile poll/Bureau itinérant",N,N,"",1,88,"Louis","","Tim","Liberal","Libéral",N,Y,73
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 505","Mobile poll/Bureau itinérant",N,N,"",1,88,"Treleaven","","Doug","Conservative","Conservateur",N,N,29
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,59,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,59,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,59,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,59,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 507","Mobile poll/Bureau itinérant",N,N,"",6,146,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 507","Mobile poll/Bureau itinérant",N,N,"",6,146,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 507","Mobile poll/Bureau itinérant",N,N,"",6,146,"Louis","","Tim","Liberal","Libéral",N,Y,46
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 507","Mobile poll/Bureau itinérant",N,N,"",6,146,"Treleaven","","Doug","Conservative","Conservateur",N,N,20
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 508","Mobile poll/Bureau itinérant",N,N,"",0,83,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 508","Mobile poll/Bureau itinérant",N,N,"",0,83,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 508","Mobile poll/Bureau itinérant",N,N,"",0,83,"Louis","","Tim","Liberal","Libéral",N,Y,47
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 508","Mobile poll/Bureau itinérant",N,N,"",0,83,"Treleaven","","Doug","Conservative","Conservateur",N,N,25
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,62,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,62,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,62,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,62,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 510","Mobile poll/Bureau itinérant",N,N,"",1,144,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 510","Mobile poll/Bureau itinérant",N,N,"",1,144,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 510","Mobile poll/Bureau itinérant",N,N,"",1,144,"Louis","","Tim","Liberal","Libéral",N,Y,69
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 510","Mobile poll/Bureau itinérant",N,N,"",1,144,"Treleaven","","Doug","Conservative","Conservateur",N,N,35
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 600","Elmira",N,N,"",4,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 600","Elmira",N,N,"",4,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,16
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 600","Elmira",N,N,"",4,0,"Louis","","Tim","Liberal","Libéral",N,Y,863
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 600","Elmira",N,N,"",4,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,808
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 601","Woolwich",N,N,"",2,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 601","Woolwich",N,N,"",2,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 601","Woolwich",N,N,"",2,0,"Louis","","Tim","Liberal","Libéral",N,Y,962
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 601","Woolwich",N,N,"",2,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,791
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 602","Woolwich",N,N,"",1,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 602","Woolwich",N,N,"",1,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 602","Woolwich",N,N,"",1,0,"Louis","","Tim","Liberal","Libéral",N,Y,420
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 602","Woolwich",N,N,"",1,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,398
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 603","Woolwich",N,N,"",7,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 603","Woolwich",N,N,"",7,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 603","Woolwich",N,N,"",7,0,"Louis","","Tim","Liberal","Libéral",N,Y,518
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 603","Woolwich",N,N,"",7,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,662
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 604","Woolwich",N,N,"",4,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 604","Woolwich",N,N,"",4,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 604","Woolwich",N,N,"",4,0,"Louis","","Tim","Liberal","Libéral",N,Y,692
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 604","Woolwich",N,N,"",4,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,533
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 605","Wellesley",N,N,"",3,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 605","Wellesley",N,N,"",3,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 605","Wellesley",N,N,"",3,0,"Louis","","Tim","Liberal","Libéral",N,Y,143
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 605","Wellesley",N,N,"",3,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,224
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 606","Wellesley",N,N,"",4,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 606","Wellesley",N,N,"",4,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 606","Wellesley",N,N,"",4,0,"Louis","","Tim","Liberal","Libéral",N,Y,736
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 606","Wellesley",N,N,"",4,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,816
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 607","New Dundee",N,N,"",2,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 607","New Dundee",N,N,"",2,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 607","New Dundee",N,N,"",2,0,"Louis","","Tim","Liberal","Libéral",N,Y,437
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 607","New Dundee",N,N,"",2,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,329
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 608","New Hamburg",N,N,"",6,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 608","New Hamburg",N,N,"",6,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,18
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 608","New Hamburg",N,N,"",6,0,"Louis","","Tim","Liberal","Libéral",N,Y,1032
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 608","New Hamburg",N,N,"",6,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,857
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 609","Baden",N,N,"",6,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 609","Baden",N,N,"",6,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,26
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 609","Baden",N,N,"",6,0,"Louis","","Tim","Liberal","Libéral",N,Y,1423
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 609","Baden",N,N,"",6,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,1091
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 610","New Dundee",N,N,"",2,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 610","New Dundee",N,N,"",2,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 610","New Dundee",N,N,"",2,0,"Louis","","Tim","Liberal","Libéral",N,Y,340
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 610","New Dundee",N,N,"",2,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,426
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 611","New Dundee",N,N,"610",0,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 611","New Dundee",N,N,"610",0,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 611","New Dundee",N,N,"610",0,0,"Louis","","Tim","Liberal","Libéral",N,Y,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 611","New Dundee",N,N,"610",0,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,0
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 612","Kitchener",N,N,"",5,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 612","Kitchener",N,N,"",5,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 612","Kitchener",N,N,"",5,0,"Louis","","Tim","Liberal","Libéral",N,Y,721
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 612","Kitchener",N,N,"",5,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,464
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 613","Kitchener",N,N,"",11,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 613","Kitchener",N,N,"",11,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,13
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 613","Kitchener",N,N,"",11,0,"Louis","","Tim","Liberal","Libéral",N,Y,751
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 613","Kitchener",N,N,"",11,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,476
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 614","Kitchener",N,N,"",2,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 614","Kitchener",N,N,"",2,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,20
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 614","Kitchener",N,N,"",2,0,"Louis","","Tim","Liberal","Libéral",N,Y,832
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 614","Kitchener",N,N,"",2,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,393
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 615","Kitchener",N,N,"",2,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 615","Kitchener",N,N,"",2,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 615","Kitchener",N,N,"",2,0,"Louis","","Tim","Liberal","Libéral",N,Y,955
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 615","Kitchener",N,N,"",2,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,570
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 616","Kitchener",N,N,"",5,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 616","Kitchener",N,N,"",5,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,20
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 616","Kitchener",N,N,"",5,0,"Louis","","Tim","Liberal","Libéral",N,Y,1145
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 616","Kitchener",N,N,"",5,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,629
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 617","Kitchener",N,N,"",4,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 617","Kitchener",N,N,"",4,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,13
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 617","Kitchener",N,N,"",4,0,"Louis","","Tim","Liberal","Libéral",N,Y,395
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 617","Kitchener",N,N,"",4,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,362
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 618","Kitchener",N,N,"",1,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 618","Kitchener",N,N,"",1,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 618","Kitchener",N,N,"",1,0,"Louis","","Tim","Liberal","Libéral",N,Y,439
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 618","Kitchener",N,N,"",1,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,365
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 619","Wilmot",N,N,"",1,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 619","Wilmot",N,N,"",1,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 619","Wilmot",N,N,"",1,0,"Louis","","Tim","Liberal","Libéral",N,Y,799
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," 619","Wilmot",N,N,"",1,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,777
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",46,298,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",46,298,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",46,298,"Louis","","Tim","Liberal","Libéral",N,Y,421
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",46,298,"Treleaven","","Doug","Conservative","Conservateur",N,N,267
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",32,0,"Bozorgzad","","Maya","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",32,0,"Dupuis","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",32,0,"Louis","","Tim","Liberal","Libéral",N,Y,898
+35049,"Kitchener--Conestoga","Kitchener--Conestoga"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",32,0,"Treleaven","","Doug","Conservative","Conservateur",N,N,476

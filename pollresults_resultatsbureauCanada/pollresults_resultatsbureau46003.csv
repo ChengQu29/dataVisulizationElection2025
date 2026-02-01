@@ -1,0 +1,871 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 1","Winnipeg",N,N,"",1,554,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,103
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 1","Winnipeg",N,N,"",1,554,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 1","Winnipeg",N,N,"",1,554,"MacIntyre","","Ian","Liberal","Libéral",N,N,65
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 1","Winnipeg",N,N,"",1,554,"Reynolds","","Colin","Conservative","Conservateur",N,Y,99
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 1","Winnipeg",N,N,"",1,554,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 2","Winnipeg",N,N,"",1,578,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 2","Winnipeg",N,N,"",1,578,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 2","Winnipeg",N,N,"",1,578,"MacIntyre","","Ian","Liberal","Libéral",N,N,39
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 2","Winnipeg",N,N,"",1,578,"Reynolds","","Colin","Conservative","Conservateur",N,Y,111
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 2","Winnipeg",N,N,"",1,578,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 3","Winnipeg",N,N,"",0,561,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 3","Winnipeg",N,N,"",0,561,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 3","Winnipeg",N,N,"",0,561,"MacIntyre","","Ian","Liberal","Libéral",N,N,70
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 3","Winnipeg",N,N,"",0,561,"Reynolds","","Colin","Conservative","Conservateur",N,Y,82
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 3","Winnipeg",N,N,"",0,561,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 4","Winnipeg",N,N,"",1,596,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 4","Winnipeg",N,N,"",1,596,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 4","Winnipeg",N,N,"",1,596,"MacIntyre","","Ian","Liberal","Libéral",N,N,32
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 4","Winnipeg",N,N,"",1,596,"Reynolds","","Colin","Conservative","Conservateur",N,Y,78
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 4","Winnipeg",N,N,"",1,596,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 5","Winnipeg",N,N,"",1,550,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 5","Winnipeg",N,N,"",1,550,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 5","Winnipeg",N,N,"",1,550,"MacIntyre","","Ian","Liberal","Libéral",N,N,32
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 5","Winnipeg",N,N,"",1,550,"Reynolds","","Colin","Conservative","Conservateur",N,Y,85
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 5","Winnipeg",N,N,"",1,550,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 6","Winnipeg",N,N,"",0,589,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 6","Winnipeg",N,N,"",0,589,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 6","Winnipeg",N,N,"",0,589,"MacIntyre","","Ian","Liberal","Libéral",N,N,30
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 6","Winnipeg",N,N,"",0,589,"Reynolds","","Colin","Conservative","Conservateur",N,Y,96
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 6","Winnipeg",N,N,"",0,589,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 7","Winnipeg",N,N,"",0,498,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 7","Winnipeg",N,N,"",0,498,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 7","Winnipeg",N,N,"",0,498,"MacIntyre","","Ian","Liberal","Libéral",N,N,34
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 7","Winnipeg",N,N,"",0,498,"Reynolds","","Colin","Conservative","Conservateur",N,Y,81
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 7","Winnipeg",N,N,"",0,498,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 8","Winnipeg",N,N,"",0,489,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 8","Winnipeg",N,N,"",0,489,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 8","Winnipeg",N,N,"",0,489,"MacIntyre","","Ian","Liberal","Libéral",N,N,37
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 8","Winnipeg",N,N,"",0,489,"Reynolds","","Colin","Conservative","Conservateur",N,Y,103
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 8","Winnipeg",N,N,"",0,489,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 9","Winnipeg",N,N,"",0,511,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 9","Winnipeg",N,N,"",0,511,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 9","Winnipeg",N,N,"",0,511,"MacIntyre","","Ian","Liberal","Libéral",N,N,42
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 9","Winnipeg",N,N,"",0,511,"Reynolds","","Colin","Conservative","Conservateur",N,Y,73
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 9","Winnipeg",N,N,"",0,511,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 10","Winnipeg",N,N,"",0,575,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 10","Winnipeg",N,N,"",0,575,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 10","Winnipeg",N,N,"",0,575,"MacIntyre","","Ian","Liberal","Libéral",N,N,56
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 10","Winnipeg",N,N,"",0,575,"Reynolds","","Colin","Conservative","Conservateur",N,Y,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 10","Winnipeg",N,N,"",0,575,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 11","Winnipeg",N,N,"",0,602,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 11","Winnipeg",N,N,"",0,602,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 11","Winnipeg",N,N,"",0,602,"MacIntyre","","Ian","Liberal","Libéral",N,N,43
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 11","Winnipeg",N,N,"",0,602,"Reynolds","","Colin","Conservative","Conservateur",N,Y,118
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 11","Winnipeg",N,N,"",0,602,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 12","Winnipeg",N,N,"",6,593,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 12","Winnipeg",N,N,"",6,593,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 12","Winnipeg",N,N,"",6,593,"MacIntyre","","Ian","Liberal","Libéral",N,N,57
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 12","Winnipeg",N,N,"",6,593,"Reynolds","","Colin","Conservative","Conservateur",N,Y,74
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 12","Winnipeg",N,N,"",6,593,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 13","Winnipeg",N,N,"",0,482,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 13","Winnipeg",N,N,"",0,482,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 13","Winnipeg",N,N,"",0,482,"MacIntyre","","Ian","Liberal","Libéral",N,N,55
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 13","Winnipeg",N,N,"",0,482,"Reynolds","","Colin","Conservative","Conservateur",N,Y,83
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 13","Winnipeg",N,N,"",0,482,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 14","Winnipeg",N,N,"",1,486,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 14","Winnipeg",N,N,"",1,486,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 14","Winnipeg",N,N,"",1,486,"MacIntyre","","Ian","Liberal","Libéral",N,N,63
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 14","Winnipeg",N,N,"",1,486,"Reynolds","","Colin","Conservative","Conservateur",N,Y,92
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 14","Winnipeg",N,N,"",1,486,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,6
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 15","Winnipeg",N,N,"",2,565,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 15","Winnipeg",N,N,"",2,565,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 15","Winnipeg",N,N,"",2,565,"MacIntyre","","Ian","Liberal","Libéral",N,N,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 15","Winnipeg",N,N,"",2,565,"Reynolds","","Colin","Conservative","Conservateur",N,Y,79
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 15","Winnipeg",N,N,"",2,565,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 16","Winnipeg",N,N,"",0,588,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,85
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 16","Winnipeg",N,N,"",0,588,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 16","Winnipeg",N,N,"",0,588,"MacIntyre","","Ian","Liberal","Libéral",N,N,42
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 16","Winnipeg",N,N,"",0,588,"Reynolds","","Colin","Conservative","Conservateur",N,Y,91
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 16","Winnipeg",N,N,"",0,588,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 17","Winnipeg",N,N,"",1,514,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 17","Winnipeg",N,N,"",1,514,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 17","Winnipeg",N,N,"",1,514,"MacIntyre","","Ian","Liberal","Libéral",N,N,40
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 17","Winnipeg",N,N,"",1,514,"Reynolds","","Colin","Conservative","Conservateur",N,Y,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 17","Winnipeg",N,N,"",1,514,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 18","Winnipeg",N,N,"",0,528,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 18","Winnipeg",N,N,"",0,528,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,7
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 18","Winnipeg",N,N,"",0,528,"MacIntyre","","Ian","Liberal","Libéral",N,N,55
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 18","Winnipeg",N,N,"",0,528,"Reynolds","","Colin","Conservative","Conservateur",N,Y,116
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 18","Winnipeg",N,N,"",0,528,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 19","Winnipeg",N,N,"",2,551,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 19","Winnipeg",N,N,"",2,551,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 19","Winnipeg",N,N,"",2,551,"MacIntyre","","Ian","Liberal","Libéral",N,N,41
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 19","Winnipeg",N,N,"",2,551,"Reynolds","","Colin","Conservative","Conservateur",N,Y,67
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 19","Winnipeg",N,N,"",2,551,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 20","Winnipeg",N,N,"",1,554,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 20","Winnipeg",N,N,"",1,554,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 20","Winnipeg",N,N,"",1,554,"MacIntyre","","Ian","Liberal","Libéral",N,N,28
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 20","Winnipeg",N,N,"",1,554,"Reynolds","","Colin","Conservative","Conservateur",N,Y,102
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 20","Winnipeg",N,N,"",1,554,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 21","Winnipeg",N,N,"",0,457,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 21","Winnipeg",N,N,"",0,457,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 21","Winnipeg",N,N,"",0,457,"MacIntyre","","Ian","Liberal","Libéral",N,N,42
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 21","Winnipeg",N,N,"",0,457,"Reynolds","","Colin","Conservative","Conservateur",N,Y,57
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 21","Winnipeg",N,N,"",0,457,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 22","Winnipeg",N,N,"",3,545,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 22","Winnipeg",N,N,"",3,545,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 22","Winnipeg",N,N,"",3,545,"MacIntyre","","Ian","Liberal","Libéral",N,N,37
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 22","Winnipeg",N,N,"",3,545,"Reynolds","","Colin","Conservative","Conservateur",N,Y,97
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 22","Winnipeg",N,N,"",3,545,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 23","Winnipeg",N,N,"",0,525,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 23","Winnipeg",N,N,"",0,525,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 23","Winnipeg",N,N,"",0,525,"MacIntyre","","Ian","Liberal","Libéral",N,N,27
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 23","Winnipeg",N,N,"",0,525,"Reynolds","","Colin","Conservative","Conservateur",N,Y,91
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 23","Winnipeg",N,N,"",0,525,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 24","Winnipeg",N,N,"",1,551,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 24","Winnipeg",N,N,"",1,551,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 24","Winnipeg",N,N,"",1,551,"MacIntyre","","Ian","Liberal","Libéral",N,N,37
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 24","Winnipeg",N,N,"",1,551,"Reynolds","","Colin","Conservative","Conservateur",N,Y,67
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 24","Winnipeg",N,N,"",1,551,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 25","Winnipeg",N,N,"",1,422,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 25","Winnipeg",N,N,"",1,422,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 25","Winnipeg",N,N,"",1,422,"MacIntyre","","Ian","Liberal","Libéral",N,N,20
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 25","Winnipeg",N,N,"",1,422,"Reynolds","","Colin","Conservative","Conservateur",N,Y,53
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 25","Winnipeg",N,N,"",1,422,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 26","Winnipeg",N,N,"",0,491,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 26","Winnipeg",N,N,"",0,491,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 26","Winnipeg",N,N,"",0,491,"MacIntyre","","Ian","Liberal","Libéral",N,N,34
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 26","Winnipeg",N,N,"",0,491,"Reynolds","","Colin","Conservative","Conservateur",N,Y,68
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 26","Winnipeg",N,N,"",0,491,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 27","Winnipeg",N,N,"",0,543,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 27","Winnipeg",N,N,"",0,543,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 27","Winnipeg",N,N,"",0,543,"MacIntyre","","Ian","Liberal","Libéral",N,N,58
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 27","Winnipeg",N,N,"",0,543,"Reynolds","","Colin","Conservative","Conservateur",N,Y,67
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 27","Winnipeg",N,N,"",0,543,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 28","Winnipeg",N,N,"",2,521,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 28","Winnipeg",N,N,"",2,521,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 28","Winnipeg",N,N,"",2,521,"MacIntyre","","Ian","Liberal","Libéral",N,N,30
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 28","Winnipeg",N,N,"",2,521,"Reynolds","","Colin","Conservative","Conservateur",N,Y,68
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 28","Winnipeg",N,N,"",2,521,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,5
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 29","Winnipeg",N,N,"",0,584,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 29","Winnipeg",N,N,"",0,584,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 29","Winnipeg",N,N,"",0,584,"MacIntyre","","Ian","Liberal","Libéral",N,N,58
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 29","Winnipeg",N,N,"",0,584,"Reynolds","","Colin","Conservative","Conservateur",N,Y,109
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 29","Winnipeg",N,N,"",0,584,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 30","Winnipeg",N,N,"",1,550,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 30","Winnipeg",N,N,"",1,550,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 30","Winnipeg",N,N,"",1,550,"MacIntyre","","Ian","Liberal","Libéral",N,N,56
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 30","Winnipeg",N,N,"",1,550,"Reynolds","","Colin","Conservative","Conservateur",N,Y,85
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 30","Winnipeg",N,N,"",1,550,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 31","Winnipeg",N,N,"",3,561,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 31","Winnipeg",N,N,"",3,561,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 31","Winnipeg",N,N,"",3,561,"MacIntyre","","Ian","Liberal","Libéral",N,N,51
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 31","Winnipeg",N,N,"",3,561,"Reynolds","","Colin","Conservative","Conservateur",N,Y,105
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 31","Winnipeg",N,N,"",3,561,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 32","Winnipeg",N,N,"",1,549,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,112
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 32","Winnipeg",N,N,"",1,549,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 32","Winnipeg",N,N,"",1,549,"MacIntyre","","Ian","Liberal","Libéral",N,N,67
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 32","Winnipeg",N,N,"",1,549,"Reynolds","","Colin","Conservative","Conservateur",N,Y,95
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 32","Winnipeg",N,N,"",1,549,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 33","Winnipeg",N,N,"",0,481,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,105
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 33","Winnipeg",N,N,"",0,481,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 33","Winnipeg",N,N,"",0,481,"MacIntyre","","Ian","Liberal","Libéral",N,N,22
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 33","Winnipeg",N,N,"",0,481,"Reynolds","","Colin","Conservative","Conservateur",N,Y,77
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 33","Winnipeg",N,N,"",0,481,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 34","Winnipeg",N,N,"",1,593,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,131
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 34","Winnipeg",N,N,"",1,593,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 34","Winnipeg",N,N,"",1,593,"MacIntyre","","Ian","Liberal","Libéral",N,N,52
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 34","Winnipeg",N,N,"",1,593,"Reynolds","","Colin","Conservative","Conservateur",N,Y,74
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 34","Winnipeg",N,N,"",1,593,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 35","Springfield",N,N,"",0,577,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 35","Springfield",N,N,"",0,577,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 35","Springfield",N,N,"",0,577,"MacIntyre","","Ian","Liberal","Libéral",N,N,48
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 35","Springfield",N,N,"",0,577,"Reynolds","","Colin","Conservative","Conservateur",N,Y,89
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 35","Springfield",N,N,"",0,577,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 36","Winnipeg",N,N,"",1,580,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 36","Winnipeg",N,N,"",1,580,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 36","Winnipeg",N,N,"",1,580,"MacIntyre","","Ian","Liberal","Libéral",N,N,41
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 36","Winnipeg",N,N,"",1,580,"Reynolds","","Colin","Conservative","Conservateur",N,Y,82
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 36","Winnipeg",N,N,"",1,580,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 37","Winnipeg",N,N,"",0,551,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 37","Winnipeg",N,N,"",0,551,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 37","Winnipeg",N,N,"",0,551,"MacIntyre","","Ian","Liberal","Libéral",N,N,41
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 37","Winnipeg",N,N,"",0,551,"Reynolds","","Colin","Conservative","Conservateur",N,Y,129
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 37","Winnipeg",N,N,"",0,551,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 38","Winnipeg",N,N,"",2,561,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 38","Winnipeg",N,N,"",2,561,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 38","Winnipeg",N,N,"",2,561,"MacIntyre","","Ian","Liberal","Libéral",N,N,32
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 38","Winnipeg",N,N,"",2,561,"Reynolds","","Colin","Conservative","Conservateur",N,Y,64
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 38","Winnipeg",N,N,"",2,561,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 39","Winnipeg",N,N,"",5,560,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 39","Winnipeg",N,N,"",5,560,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 39","Winnipeg",N,N,"",5,560,"MacIntyre","","Ian","Liberal","Libéral",N,N,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 39","Winnipeg",N,N,"",5,560,"Reynolds","","Colin","Conservative","Conservateur",N,Y,87
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 39","Winnipeg",N,N,"",5,560,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 40","Winnipeg",N,N,"",2,607,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 40","Winnipeg",N,N,"",2,607,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 40","Winnipeg",N,N,"",2,607,"MacIntyre","","Ian","Liberal","Libéral",N,N,34
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 40","Winnipeg",N,N,"",2,607,"Reynolds","","Colin","Conservative","Conservateur",N,Y,77
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 40","Winnipeg",N,N,"",2,607,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 41","Winnipeg",N,N,"",0,618,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 41","Winnipeg",N,N,"",0,618,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 41","Winnipeg",N,N,"",0,618,"MacIntyre","","Ian","Liberal","Libéral",N,N,52
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 41","Winnipeg",N,N,"",0,618,"Reynolds","","Colin","Conservative","Conservateur",N,Y,82
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 41","Winnipeg",N,N,"",0,618,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 42","Winnipeg",N,N,"",0,556,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 42","Winnipeg",N,N,"",0,556,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 42","Winnipeg",N,N,"",0,556,"MacIntyre","","Ian","Liberal","Libéral",N,N,51
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 42","Winnipeg",N,N,"",0,556,"Reynolds","","Colin","Conservative","Conservateur",N,Y,85
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 42","Winnipeg",N,N,"",0,556,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 43","Winnipeg",N,N,"",2,538,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 43","Winnipeg",N,N,"",2,538,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 43","Winnipeg",N,N,"",2,538,"MacIntyre","","Ian","Liberal","Libéral",N,N,33
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 43","Winnipeg",N,N,"",2,538,"Reynolds","","Colin","Conservative","Conservateur",N,Y,80
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 43","Winnipeg",N,N,"",2,538,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 44","Winnipeg",N,N,"",0,546,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 44","Winnipeg",N,N,"",0,546,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 44","Winnipeg",N,N,"",0,546,"MacIntyre","","Ian","Liberal","Libéral",N,N,45
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 44","Winnipeg",N,N,"",0,546,"Reynolds","","Colin","Conservative","Conservateur",N,Y,89
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 44","Winnipeg",N,N,"",0,546,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,5
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 45","Winnipeg",N,N,"",1,499,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 45","Winnipeg",N,N,"",1,499,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 45","Winnipeg",N,N,"",1,499,"MacIntyre","","Ian","Liberal","Libéral",N,N,42
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 45","Winnipeg",N,N,"",1,499,"Reynolds","","Colin","Conservative","Conservateur",N,Y,63
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 45","Winnipeg",N,N,"",1,499,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 46","Winnipeg",N,N,"",0,477,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 46","Winnipeg",N,N,"",0,477,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 46","Winnipeg",N,N,"",0,477,"MacIntyre","","Ian","Liberal","Libéral",N,N,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 46","Winnipeg",N,N,"",0,477,"Reynolds","","Colin","Conservative","Conservateur",N,Y,74
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 46","Winnipeg",N,N,"",0,477,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 47","Winnipeg",N,N,"",0,462,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 47","Winnipeg",N,N,"",0,462,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,5
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 47","Winnipeg",N,N,"",0,462,"MacIntyre","","Ian","Liberal","Libéral",N,N,35
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 47","Winnipeg",N,N,"",0,462,"Reynolds","","Colin","Conservative","Conservateur",N,Y,59
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 47","Winnipeg",N,N,"",0,462,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 48","Winnipeg",N,N,"",2,582,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 48","Winnipeg",N,N,"",2,582,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 48","Winnipeg",N,N,"",2,582,"MacIntyre","","Ian","Liberal","Libéral",N,N,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 48","Winnipeg",N,N,"",2,582,"Reynolds","","Colin","Conservative","Conservateur",N,Y,93
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 48","Winnipeg",N,N,"",2,582,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 49","Winnipeg",N,N,"",0,590,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 49","Winnipeg",N,N,"",0,590,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 49","Winnipeg",N,N,"",0,590,"MacIntyre","","Ian","Liberal","Libéral",N,N,53
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 49","Winnipeg",N,N,"",0,590,"Reynolds","","Colin","Conservative","Conservateur",N,Y,69
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 49","Winnipeg",N,N,"",0,590,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 50","Winnipeg",N,N,"",1,441,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 50","Winnipeg",N,N,"",1,441,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 50","Winnipeg",N,N,"",1,441,"MacIntyre","","Ian","Liberal","Libéral",N,N,25
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 50","Winnipeg",N,N,"",1,441,"Reynolds","","Colin","Conservative","Conservateur",N,Y,52
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 50","Winnipeg",N,N,"",1,441,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 51","Winnipeg",N,N,"",0,582,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 51","Winnipeg",N,N,"",0,582,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 51","Winnipeg",N,N,"",0,582,"MacIntyre","","Ian","Liberal","Libéral",N,N,30
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 51","Winnipeg",N,N,"",0,582,"Reynolds","","Colin","Conservative","Conservateur",N,Y,98
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 51","Winnipeg",N,N,"",0,582,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 52","Winnipeg",N,N,"",4,568,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 52","Winnipeg",N,N,"",4,568,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 52","Winnipeg",N,N,"",4,568,"MacIntyre","","Ian","Liberal","Libéral",N,N,38
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 52","Winnipeg",N,N,"",4,568,"Reynolds","","Colin","Conservative","Conservateur",N,Y,79
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 52","Winnipeg",N,N,"",4,568,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 53","Winnipeg",N,N,"",0,445,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 53","Winnipeg",N,N,"",0,445,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 53","Winnipeg",N,N,"",0,445,"MacIntyre","","Ian","Liberal","Libéral",N,N,36
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 53","Winnipeg",N,N,"",0,445,"Reynolds","","Colin","Conservative","Conservateur",N,Y,38
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 53","Winnipeg",N,N,"",0,445,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 54A","Winnipeg",N,N,"",0,345,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 54A","Winnipeg",N,N,"",0,345,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 54A","Winnipeg",N,N,"",0,345,"MacIntyre","","Ian","Liberal","Libéral",N,N,25
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 54A","Winnipeg",N,N,"",0,345,"Reynolds","","Colin","Conservative","Conservateur",N,Y,46
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 54A","Winnipeg",N,N,"",0,345,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 54B","Winnipeg",N,N,"",0,332,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 54B","Winnipeg",N,N,"",0,332,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 54B","Winnipeg",N,N,"",0,332,"MacIntyre","","Ian","Liberal","Libéral",N,N,27
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 54B","Winnipeg",N,N,"",0,332,"Reynolds","","Colin","Conservative","Conservateur",N,Y,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 54B","Winnipeg",N,N,"",0,332,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 55","Winnipeg",N,N,"",0,498,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 55","Winnipeg",N,N,"",0,498,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 55","Winnipeg",N,N,"",0,498,"MacIntyre","","Ian","Liberal","Libéral",N,N,39
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 55","Winnipeg",N,N,"",0,498,"Reynolds","","Colin","Conservative","Conservateur",N,Y,66
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 55","Winnipeg",N,N,"",0,498,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 56","Winnipeg",N,N,"",0,481,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 56","Winnipeg",N,N,"",0,481,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 56","Winnipeg",N,N,"",0,481,"MacIntyre","","Ian","Liberal","Libéral",N,N,48
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 56","Winnipeg",N,N,"",0,481,"Reynolds","","Colin","Conservative","Conservateur",N,Y,77
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 56","Winnipeg",N,N,"",0,481,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 57","Winnipeg",N,N,"",0,580,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 57","Winnipeg",N,N,"",0,580,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,5
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 57","Winnipeg",N,N,"",0,580,"MacIntyre","","Ian","Liberal","Libéral",N,N,50
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 57","Winnipeg",N,N,"",0,580,"Reynolds","","Colin","Conservative","Conservateur",N,Y,100
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 57","Winnipeg",N,N,"",0,580,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 58","Winnipeg",N,N,"",3,559,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 58","Winnipeg",N,N,"",3,559,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 58","Winnipeg",N,N,"",3,559,"MacIntyre","","Ian","Liberal","Libéral",N,N,26
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 58","Winnipeg",N,N,"",3,559,"Reynolds","","Colin","Conservative","Conservateur",N,Y,98
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 58","Winnipeg",N,N,"",3,559,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 59","Winnipeg",N,N,"",2,447,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 59","Winnipeg",N,N,"",2,447,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 59","Winnipeg",N,N,"",2,447,"MacIntyre","","Ian","Liberal","Libéral",N,N,30
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 59","Winnipeg",N,N,"",2,447,"Reynolds","","Colin","Conservative","Conservateur",N,Y,74
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 59","Winnipeg",N,N,"",2,447,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 60","Winnipeg",N,N,"",1,407,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 60","Winnipeg",N,N,"",1,407,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 60","Winnipeg",N,N,"",1,407,"MacIntyre","","Ian","Liberal","Libéral",N,N,49
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 60","Winnipeg",N,N,"",1,407,"Reynolds","","Colin","Conservative","Conservateur",N,Y,68
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 60","Winnipeg",N,N,"",1,407,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 61","Winnipeg",N,N,"",1,416,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 61","Winnipeg",N,N,"",1,416,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 61","Winnipeg",N,N,"",1,416,"MacIntyre","","Ian","Liberal","Libéral",N,N,27
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 61","Winnipeg",N,N,"",1,416,"Reynolds","","Colin","Conservative","Conservateur",N,Y,81
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 61","Winnipeg",N,N,"",1,416,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 62","Winnipeg",N,N,"",0,359,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 62","Winnipeg",N,N,"",0,359,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 62","Winnipeg",N,N,"",0,359,"MacIntyre","","Ian","Liberal","Libéral",N,N,24
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 62","Winnipeg",N,N,"",0,359,"Reynolds","","Colin","Conservative","Conservateur",N,Y,36
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 62","Winnipeg",N,N,"",0,359,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 63","Winnipeg",N,N,"",0,542,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 63","Winnipeg",N,N,"",0,542,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 63","Winnipeg",N,N,"",0,542,"MacIntyre","","Ian","Liberal","Libéral",N,N,41
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 63","Winnipeg",N,N,"",0,542,"Reynolds","","Colin","Conservative","Conservateur",N,Y,61
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 63","Winnipeg",N,N,"",0,542,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 64","Winnipeg",N,N,"",0,506,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 64","Winnipeg",N,N,"",0,506,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 64","Winnipeg",N,N,"",0,506,"MacIntyre","","Ian","Liberal","Libéral",N,N,55
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 64","Winnipeg",N,N,"",0,506,"Reynolds","","Colin","Conservative","Conservateur",N,Y,67
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 64","Winnipeg",N,N,"",0,506,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 65","Winnipeg",N,N,"",2,500,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 65","Winnipeg",N,N,"",2,500,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 65","Winnipeg",N,N,"",2,500,"MacIntyre","","Ian","Liberal","Libéral",N,N,56
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 65","Winnipeg",N,N,"",2,500,"Reynolds","","Colin","Conservative","Conservateur",N,Y,64
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 65","Winnipeg",N,N,"",2,500,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 66","Winnipeg",N,N,"",1,592,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 66","Winnipeg",N,N,"",1,592,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 66","Winnipeg",N,N,"",1,592,"MacIntyre","","Ian","Liberal","Libéral",N,N,41
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 66","Winnipeg",N,N,"",1,592,"Reynolds","","Colin","Conservative","Conservateur",N,Y,104
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 66","Winnipeg",N,N,"",1,592,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 67","Winnipeg",N,N,"",1,571,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 67","Winnipeg",N,N,"",1,571,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 67","Winnipeg",N,N,"",1,571,"MacIntyre","","Ian","Liberal","Libéral",N,N,19
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 67","Winnipeg",N,N,"",1,571,"Reynolds","","Colin","Conservative","Conservateur",N,Y,75
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 67","Winnipeg",N,N,"",1,571,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 68","Winnipeg",N,N,"",2,539,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 68","Winnipeg",N,N,"",2,539,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 68","Winnipeg",N,N,"",2,539,"MacIntyre","","Ian","Liberal","Libéral",N,N,33
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 68","Winnipeg",N,N,"",2,539,"Reynolds","","Colin","Conservative","Conservateur",N,Y,116
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 68","Winnipeg",N,N,"",2,539,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 69","Winnipeg",N,N,"",4,581,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 69","Winnipeg",N,N,"",4,581,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 69","Winnipeg",N,N,"",4,581,"MacIntyre","","Ian","Liberal","Libéral",N,N,57
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 69","Winnipeg",N,N,"",4,581,"Reynolds","","Colin","Conservative","Conservateur",N,Y,108
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 69","Winnipeg",N,N,"",4,581,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 70","Winnipeg",N,N,"",0,542,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 70","Winnipeg",N,N,"",0,542,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 70","Winnipeg",N,N,"",0,542,"MacIntyre","","Ian","Liberal","Libéral",N,N,33
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 70","Winnipeg",N,N,"",0,542,"Reynolds","","Colin","Conservative","Conservateur",N,Y,68
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 70","Winnipeg",N,N,"",0,542,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 71","Winnipeg",N,N,"",2,507,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 71","Winnipeg",N,N,"",2,507,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 71","Winnipeg",N,N,"",2,507,"MacIntyre","","Ian","Liberal","Libéral",N,N,48
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 71","Winnipeg",N,N,"",2,507,"Reynolds","","Colin","Conservative","Conservateur",N,Y,53
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 71","Winnipeg",N,N,"",2,507,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 72","Winnipeg",N,N,"",1,464,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 72","Winnipeg",N,N,"",1,464,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 72","Winnipeg",N,N,"",1,464,"MacIntyre","","Ian","Liberal","Libéral",N,N,54
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 72","Winnipeg",N,N,"",1,464,"Reynolds","","Colin","Conservative","Conservateur",N,Y,69
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 72","Winnipeg",N,N,"",1,464,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 73","Winnipeg",N,N,"",1,476,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 73","Winnipeg",N,N,"",1,476,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 73","Winnipeg",N,N,"",1,476,"MacIntyre","","Ian","Liberal","Libéral",N,N,38
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 73","Winnipeg",N,N,"",1,476,"Reynolds","","Colin","Conservative","Conservateur",N,Y,69
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 73","Winnipeg",N,N,"",1,476,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 74","Winnipeg",N,N,"",0,557,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 74","Winnipeg",N,N,"",0,557,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 74","Winnipeg",N,N,"",0,557,"MacIntyre","","Ian","Liberal","Libéral",N,N,60
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 74","Winnipeg",N,N,"",0,557,"Reynolds","","Colin","Conservative","Conservateur",N,Y,120
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 74","Winnipeg",N,N,"",0,557,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,6
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 75","Winnipeg",N,N,"",0,570,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 75","Winnipeg",N,N,"",0,570,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 75","Winnipeg",N,N,"",0,570,"MacIntyre","","Ian","Liberal","Libéral",N,N,35
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 75","Winnipeg",N,N,"",0,570,"Reynolds","","Colin","Conservative","Conservateur",N,Y,89
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 75","Winnipeg",N,N,"",0,570,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 76","Winnipeg",N,N,"",1,588,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 76","Winnipeg",N,N,"",1,588,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 76","Winnipeg",N,N,"",1,588,"MacIntyre","","Ian","Liberal","Libéral",N,N,20
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 76","Winnipeg",N,N,"",1,588,"Reynolds","","Colin","Conservative","Conservateur",N,Y,119
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 76","Winnipeg",N,N,"",1,588,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 77","Winnipeg",N,N,"",0,600,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 77","Winnipeg",N,N,"",0,600,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 77","Winnipeg",N,N,"",0,600,"MacIntyre","","Ian","Liberal","Libéral",N,N,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 77","Winnipeg",N,N,"",0,600,"Reynolds","","Colin","Conservative","Conservateur",N,Y,93
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 77","Winnipeg",N,N,"",0,600,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 78","Winnipeg",N,N,"",0,393,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 78","Winnipeg",N,N,"",0,393,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 78","Winnipeg",N,N,"",0,393,"MacIntyre","","Ian","Liberal","Libéral",N,N,31
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 78","Winnipeg",N,N,"",0,393,"Reynolds","","Colin","Conservative","Conservateur",N,Y,55
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 78","Winnipeg",N,N,"",0,393,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 79","Winnipeg",N,N,"",3,402,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 79","Winnipeg",N,N,"",3,402,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 79","Winnipeg",N,N,"",3,402,"MacIntyre","","Ian","Liberal","Libéral",N,N,31
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 79","Winnipeg",N,N,"",3,402,"Reynolds","","Colin","Conservative","Conservateur",N,Y,74
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 79","Winnipeg",N,N,"",3,402,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 80","Winnipeg",N,N,"",0,535,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 80","Winnipeg",N,N,"",0,535,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 80","Winnipeg",N,N,"",0,535,"MacIntyre","","Ian","Liberal","Libéral",N,N,46
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 80","Winnipeg",N,N,"",0,535,"Reynolds","","Colin","Conservative","Conservateur",N,Y,74
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 80","Winnipeg",N,N,"",0,535,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 81","Winnipeg",N,N,"",1,434,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 81","Winnipeg",N,N,"",1,434,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 81","Winnipeg",N,N,"",1,434,"MacIntyre","","Ian","Liberal","Libéral",N,N,41
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 81","Winnipeg",N,N,"",1,434,"Reynolds","","Colin","Conservative","Conservateur",N,Y,68
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 81","Winnipeg",N,N,"",1,434,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 82","Winnipeg",N,N,"",3,610,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 82","Winnipeg",N,N,"",3,610,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 82","Winnipeg",N,N,"",3,610,"MacIntyre","","Ian","Liberal","Libéral",N,N,69
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 82","Winnipeg",N,N,"",3,610,"Reynolds","","Colin","Conservative","Conservateur",N,Y,100
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 82","Winnipeg",N,N,"",3,610,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 83","Winnipeg",N,N,"",0,610,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 83","Winnipeg",N,N,"",0,610,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 83","Winnipeg",N,N,"",0,610,"MacIntyre","","Ian","Liberal","Libéral",N,N,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 83","Winnipeg",N,N,"",0,610,"Reynolds","","Colin","Conservative","Conservateur",N,Y,99
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 83","Winnipeg",N,N,"",0,610,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 84","Winnipeg",N,N,"",1,386,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 84","Winnipeg",N,N,"",1,386,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 84","Winnipeg",N,N,"",1,386,"MacIntyre","","Ian","Liberal","Libéral",N,N,35
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 84","Winnipeg",N,N,"",1,386,"Reynolds","","Colin","Conservative","Conservateur",N,Y,29
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 84","Winnipeg",N,N,"",1,386,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 85","Winnipeg",N,N,"",4,583,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 85","Winnipeg",N,N,"",4,583,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 85","Winnipeg",N,N,"",4,583,"MacIntyre","","Ian","Liberal","Libéral",N,N,30
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 85","Winnipeg",N,N,"",4,583,"Reynolds","","Colin","Conservative","Conservateur",N,Y,107
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 85","Winnipeg",N,N,"",4,583,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 86A","Winnipeg",N,N,"",2,272,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 86A","Winnipeg",N,N,"",2,272,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 86A","Winnipeg",N,N,"",2,272,"MacIntyre","","Ian","Liberal","Libéral",N,N,44
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 86A","Winnipeg",N,N,"",2,272,"Reynolds","","Colin","Conservative","Conservateur",N,Y,53
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 86A","Winnipeg",N,N,"",2,272,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 86B","Winnipeg",N,N,"",2,319,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 86B","Winnipeg",N,N,"",2,319,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 86B","Winnipeg",N,N,"",2,319,"MacIntyre","","Ian","Liberal","Libéral",N,N,54
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 86B","Winnipeg",N,N,"",2,319,"Reynolds","","Colin","Conservative","Conservateur",N,Y,58
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 86B","Winnipeg",N,N,"",2,319,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 87","Winnipeg",N,N,"",0,477,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 87","Winnipeg",N,N,"",0,477,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 87","Winnipeg",N,N,"",0,477,"MacIntyre","","Ian","Liberal","Libéral",N,N,44
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 87","Winnipeg",N,N,"",0,477,"Reynolds","","Colin","Conservative","Conservateur",N,Y,64
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 87","Winnipeg",N,N,"",0,477,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 88","Winnipeg",N,N,"",0,462,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 88","Winnipeg",N,N,"",0,462,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 88","Winnipeg",N,N,"",0,462,"MacIntyre","","Ian","Liberal","Libéral",N,N,21
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 88","Winnipeg",N,N,"",0,462,"Reynolds","","Colin","Conservative","Conservateur",N,Y,105
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 88","Winnipeg",N,N,"",0,462,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 89","Winnipeg",N,N,"",1,551,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 89","Winnipeg",N,N,"",1,551,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 89","Winnipeg",N,N,"",1,551,"MacIntyre","","Ian","Liberal","Libéral",N,N,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 89","Winnipeg",N,N,"",1,551,"Reynolds","","Colin","Conservative","Conservateur",N,Y,111
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 89","Winnipeg",N,N,"",1,551,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 90A","Winnipeg",N,N,"",2,422,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 90A","Winnipeg",N,N,"",2,422,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 90A","Winnipeg",N,N,"",2,422,"MacIntyre","","Ian","Liberal","Libéral",N,N,60
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 90A","Winnipeg",N,N,"",2,422,"Reynolds","","Colin","Conservative","Conservateur",N,Y,56
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 90A","Winnipeg",N,N,"",2,422,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 90B","Winnipeg",N,N,"",1,361,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 90B","Winnipeg",N,N,"",1,361,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 90B","Winnipeg",N,N,"",1,361,"MacIntyre","","Ian","Liberal","Libéral",N,N,46
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 90B","Winnipeg",N,N,"",1,361,"Reynolds","","Colin","Conservative","Conservateur",N,Y,61
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 90B","Winnipeg",N,N,"",1,361,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 91","Winnipeg",N,N,"",2,585,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 91","Winnipeg",N,N,"",2,585,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 91","Winnipeg",N,N,"",2,585,"MacIntyre","","Ian","Liberal","Libéral",N,N,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 91","Winnipeg",N,N,"",2,585,"Reynolds","","Colin","Conservative","Conservateur",N,Y,109
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 91","Winnipeg",N,N,"",2,585,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 92","Winnipeg",N,N,"",2,565,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 92","Winnipeg",N,N,"",2,565,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 92","Winnipeg",N,N,"",2,565,"MacIntyre","","Ian","Liberal","Libéral",N,N,48
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 92","Winnipeg",N,N,"",2,565,"Reynolds","","Colin","Conservative","Conservateur",N,Y,91
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 92","Winnipeg",N,N,"",2,565,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 93","Winnipeg",N,N,"",0,588,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 93","Winnipeg",N,N,"",0,588,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 93","Winnipeg",N,N,"",0,588,"MacIntyre","","Ian","Liberal","Libéral",N,N,31
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 93","Winnipeg",N,N,"",0,588,"Reynolds","","Colin","Conservative","Conservateur",N,Y,103
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 93","Winnipeg",N,N,"",0,588,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 94","Winnipeg",N,N,"",2,574,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 94","Winnipeg",N,N,"",2,574,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 94","Winnipeg",N,N,"",2,574,"MacIntyre","","Ian","Liberal","Libéral",N,N,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 94","Winnipeg",N,N,"",2,574,"Reynolds","","Colin","Conservative","Conservateur",N,Y,91
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 94","Winnipeg",N,N,"",2,574,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 95","Winnipeg",N,N,"",0,324,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 95","Winnipeg",N,N,"",0,324,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 95","Winnipeg",N,N,"",0,324,"MacIntyre","","Ian","Liberal","Libéral",N,N,23
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 95","Winnipeg",N,N,"",0,324,"Reynolds","","Colin","Conservative","Conservateur",N,Y,30
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 95","Winnipeg",N,N,"",0,324,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 96","Winnipeg",N,N,"",0,371,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 96","Winnipeg",N,N,"",0,371,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 96","Winnipeg",N,N,"",0,371,"MacIntyre","","Ian","Liberal","Libéral",N,N,14
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 96","Winnipeg",N,N,"",0,371,"Reynolds","","Colin","Conservative","Conservateur",N,Y,70
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 96","Winnipeg",N,N,"",0,371,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 97","Winnipeg",N,N,"",1,467,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 97","Winnipeg",N,N,"",1,467,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 97","Winnipeg",N,N,"",1,467,"MacIntyre","","Ian","Liberal","Libéral",N,N,27
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 97","Winnipeg",N,N,"",1,467,"Reynolds","","Colin","Conservative","Conservateur",N,Y,93
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 97","Winnipeg",N,N,"",1,467,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 98","Winnipeg",N,N,"",1,558,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 98","Winnipeg",N,N,"",1,558,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 98","Winnipeg",N,N,"",1,558,"MacIntyre","","Ian","Liberal","Libéral",N,N,43
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 98","Winnipeg",N,N,"",1,558,"Reynolds","","Colin","Conservative","Conservateur",N,Y,103
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 98","Winnipeg",N,N,"",1,558,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 99","Winnipeg",N,N,"",2,557,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 99","Winnipeg",N,N,"",2,557,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 99","Winnipeg",N,N,"",2,557,"MacIntyre","","Ian","Liberal","Libéral",N,N,31
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 99","Winnipeg",N,N,"",2,557,"Reynolds","","Colin","Conservative","Conservateur",N,Y,66
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 99","Winnipeg",N,N,"",2,557,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,5
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 100","Winnipeg",N,N,"",0,464,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 100","Winnipeg",N,N,"",0,464,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 100","Winnipeg",N,N,"",0,464,"MacIntyre","","Ian","Liberal","Libéral",N,N,38
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 100","Winnipeg",N,N,"",0,464,"Reynolds","","Colin","Conservative","Conservateur",N,Y,85
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 100","Winnipeg",N,N,"",0,464,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 101","Winnipeg",N,N,"",1,577,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 101","Winnipeg",N,N,"",1,577,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 101","Winnipeg",N,N,"",1,577,"MacIntyre","","Ian","Liberal","Libéral",N,N,29
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 101","Winnipeg",N,N,"",1,577,"Reynolds","","Colin","Conservative","Conservateur",N,Y,84
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 101","Winnipeg",N,N,"",1,577,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 102","Winnipeg",N,N,"",4,595,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 102","Winnipeg",N,N,"",4,595,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 102","Winnipeg",N,N,"",4,595,"MacIntyre","","Ian","Liberal","Libéral",N,N,26
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 102","Winnipeg",N,N,"",4,595,"Reynolds","","Colin","Conservative","Conservateur",N,Y,122
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 102","Winnipeg",N,N,"",4,595,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 103","Winnipeg",N,N,"",2,445,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 103","Winnipeg",N,N,"",2,445,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 103","Winnipeg",N,N,"",2,445,"MacIntyre","","Ian","Liberal","Libéral",N,N,22
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 103","Winnipeg",N,N,"",2,445,"Reynolds","","Colin","Conservative","Conservateur",N,Y,79
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 103","Winnipeg",N,N,"",2,445,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 104","Winnipeg",N,N,"",1,551,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 104","Winnipeg",N,N,"",1,551,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 104","Winnipeg",N,N,"",1,551,"MacIntyre","","Ian","Liberal","Libéral",N,N,27
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 104","Winnipeg",N,N,"",1,551,"Reynolds","","Colin","Conservative","Conservateur",N,Y,74
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 104","Winnipeg",N,N,"",1,551,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 105","Winnipeg",N,N,"",1,507,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 105","Winnipeg",N,N,"",1,507,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 105","Winnipeg",N,N,"",1,507,"MacIntyre","","Ian","Liberal","Libéral",N,N,30
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 105","Winnipeg",N,N,"",1,507,"Reynolds","","Colin","Conservative","Conservateur",N,Y,64
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 105","Winnipeg",N,N,"",1,507,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,5
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 106","Winnipeg",N,N,"",0,458,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 106","Winnipeg",N,N,"",0,458,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 106","Winnipeg",N,N,"",0,458,"MacIntyre","","Ian","Liberal","Libéral",N,N,21
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 106","Winnipeg",N,N,"",0,458,"Reynolds","","Colin","Conservative","Conservateur",N,Y,72
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 106","Winnipeg",N,N,"",0,458,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 107","Winnipeg",N,N,"",0,484,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 107","Winnipeg",N,N,"",0,484,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 107","Winnipeg",N,N,"",0,484,"MacIntyre","","Ian","Liberal","Libéral",N,N,47
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 107","Winnipeg",N,N,"",0,484,"Reynolds","","Colin","Conservative","Conservateur",N,Y,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 107","Winnipeg",N,N,"",0,484,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 108","Winnipeg",N,N,"",0,576,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 108","Winnipeg",N,N,"",0,576,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 108","Winnipeg",N,N,"",0,576,"MacIntyre","","Ian","Liberal","Libéral",N,N,51
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 108","Winnipeg",N,N,"",0,576,"Reynolds","","Colin","Conservative","Conservateur",N,Y,89
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 108","Winnipeg",N,N,"",0,576,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 109","Winnipeg",N,N,"",0,521,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,106
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 109","Winnipeg",N,N,"",0,521,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 109","Winnipeg",N,N,"",0,521,"MacIntyre","","Ian","Liberal","Libéral",N,N,28
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 109","Winnipeg",N,N,"",0,521,"Reynolds","","Colin","Conservative","Conservateur",N,Y,92
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 109","Winnipeg",N,N,"",0,521,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 110","Winnipeg",N,N,"",0,435,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 110","Winnipeg",N,N,"",0,435,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 110","Winnipeg",N,N,"",0,435,"MacIntyre","","Ian","Liberal","Libéral",N,N,30
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 110","Winnipeg",N,N,"",0,435,"Reynolds","","Colin","Conservative","Conservateur",N,Y,63
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 110","Winnipeg",N,N,"",0,435,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 111","Winnipeg",N,N,"",1,541,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 111","Winnipeg",N,N,"",1,541,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 111","Winnipeg",N,N,"",1,541,"MacIntyre","","Ian","Liberal","Libéral",N,N,44
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 111","Winnipeg",N,N,"",1,541,"Reynolds","","Colin","Conservative","Conservateur",N,Y,88
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 111","Winnipeg",N,N,"",1,541,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 112","Winnipeg",N,N,"",1,513,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 112","Winnipeg",N,N,"",1,513,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 112","Winnipeg",N,N,"",1,513,"MacIntyre","","Ian","Liberal","Libéral",N,N,39
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 112","Winnipeg",N,N,"",1,513,"Reynolds","","Colin","Conservative","Conservateur",N,Y,70
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 112","Winnipeg",N,N,"",1,513,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 113","Winnipeg",N,N,"",4,515,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 113","Winnipeg",N,N,"",4,515,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 113","Winnipeg",N,N,"",4,515,"MacIntyre","","Ian","Liberal","Libéral",N,N,36
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 113","Winnipeg",N,N,"",4,515,"Reynolds","","Colin","Conservative","Conservateur",N,Y,61
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 113","Winnipeg",N,N,"",4,515,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 114","Winnipeg",N,N,"",1,511,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 114","Winnipeg",N,N,"",1,511,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 114","Winnipeg",N,N,"",1,511,"MacIntyre","","Ian","Liberal","Libéral",N,N,46
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 114","Winnipeg",N,N,"",1,511,"Reynolds","","Colin","Conservative","Conservateur",N,Y,73
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 114","Winnipeg",N,N,"",1,511,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 115","Winnipeg",N,N,"",0,405,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 115","Winnipeg",N,N,"",0,405,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 115","Winnipeg",N,N,"",0,405,"MacIntyre","","Ian","Liberal","Libéral",N,N,31
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 115","Winnipeg",N,N,"",0,405,"Reynolds","","Colin","Conservative","Conservateur",N,Y,70
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 115","Winnipeg",N,N,"",0,405,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 116","Winnipeg",N,N,"",0,155,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 116","Winnipeg",N,N,"",0,155,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 116","Winnipeg",N,N,"",0,155,"MacIntyre","","Ian","Liberal","Libéral",N,N,17
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 116","Winnipeg",N,N,"",0,155,"Reynolds","","Colin","Conservative","Conservateur",N,Y,21
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 116","Winnipeg",N,N,"",0,155,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 117","Winnipeg",N,N,"",0,406,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 117","Winnipeg",N,N,"",0,406,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 117","Winnipeg",N,N,"",0,406,"MacIntyre","","Ian","Liberal","Libéral",N,N,20
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 117","Winnipeg",N,N,"",0,406,"Reynolds","","Colin","Conservative","Conservateur",N,Y,89
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 117","Winnipeg",N,N,"",0,406,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 118","Winnipeg",N,N,"",0,606,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 118","Winnipeg",N,N,"",0,606,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 118","Winnipeg",N,N,"",0,606,"MacIntyre","","Ian","Liberal","Libéral",N,N,52
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 118","Winnipeg",N,N,"",0,606,"Reynolds","","Colin","Conservative","Conservateur",N,Y,132
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 118","Winnipeg",N,N,"",0,606,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 119","Winnipeg",N,N,"",0,443,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 119","Winnipeg",N,N,"",0,443,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 119","Winnipeg",N,N,"",0,443,"MacIntyre","","Ian","Liberal","Libéral",N,N,23
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 119","Winnipeg",N,N,"",0,443,"Reynolds","","Colin","Conservative","Conservateur",N,Y,75
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 119","Winnipeg",N,N,"",0,443,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 120","Winnipeg",N,N,"",0,565,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 120","Winnipeg",N,N,"",0,565,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 120","Winnipeg",N,N,"",0,565,"MacIntyre","","Ian","Liberal","Libéral",N,N,55
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 120","Winnipeg",N,N,"",0,565,"Reynolds","","Colin","Conservative","Conservateur",N,Y,109
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 120","Winnipeg",N,N,"",0,565,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 121","Winnipeg",N,N,"",1,520,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 121","Winnipeg",N,N,"",1,520,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 121","Winnipeg",N,N,"",1,520,"MacIntyre","","Ian","Liberal","Libéral",N,N,36
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 121","Winnipeg",N,N,"",1,520,"Reynolds","","Colin","Conservative","Conservateur",N,Y,71
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 121","Winnipeg",N,N,"",1,520,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 122","Winnipeg",N,N,"",1,559,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 122","Winnipeg",N,N,"",1,559,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 122","Winnipeg",N,N,"",1,559,"MacIntyre","","Ian","Liberal","Libéral",N,N,44
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 122","Winnipeg",N,N,"",1,559,"Reynolds","","Colin","Conservative","Conservateur",N,Y,95
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 122","Winnipeg",N,N,"",1,559,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 123","Winnipeg",N,N,"",1,556,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 123","Winnipeg",N,N,"",1,556,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 123","Winnipeg",N,N,"",1,556,"MacIntyre","","Ian","Liberal","Libéral",N,N,50
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 123","Winnipeg",N,N,"",1,556,"Reynolds","","Colin","Conservative","Conservateur",N,Y,101
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 123","Winnipeg",N,N,"",1,556,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 124","Winnipeg",N,N,"",0,564,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 124","Winnipeg",N,N,"",0,564,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 124","Winnipeg",N,N,"",0,564,"MacIntyre","","Ian","Liberal","Libéral",N,N,42
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 124","Winnipeg",N,N,"",0,564,"Reynolds","","Colin","Conservative","Conservateur",N,Y,77
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 124","Winnipeg",N,N,"",0,564,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 125","Winnipeg",N,N,"",1,552,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 125","Winnipeg",N,N,"",1,552,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 125","Winnipeg",N,N,"",1,552,"MacIntyre","","Ian","Liberal","Libéral",N,N,48
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 125","Winnipeg",N,N,"",1,552,"Reynolds","","Colin","Conservative","Conservateur",N,Y,125
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 125","Winnipeg",N,N,"",1,552,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 126","Winnipeg",N,N,"",1,448,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 126","Winnipeg",N,N,"",1,448,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 126","Winnipeg",N,N,"",1,448,"MacIntyre","","Ian","Liberal","Libéral",N,N,35
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 126","Winnipeg",N,N,"",1,448,"Reynolds","","Colin","Conservative","Conservateur",N,Y,73
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 126","Winnipeg",N,N,"",1,448,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 127","Winnipeg",N,N,"",1,503,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 127","Winnipeg",N,N,"",1,503,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 127","Winnipeg",N,N,"",1,503,"MacIntyre","","Ian","Liberal","Libéral",N,N,36
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 127","Winnipeg",N,N,"",1,503,"Reynolds","","Colin","Conservative","Conservateur",N,Y,79
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 127","Winnipeg",N,N,"",1,503,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 128","Winnipeg",N,N,"",0,566,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 128","Winnipeg",N,N,"",0,566,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 128","Winnipeg",N,N,"",0,566,"MacIntyre","","Ian","Liberal","Libéral",N,N,48
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 128","Winnipeg",N,N,"",0,566,"Reynolds","","Colin","Conservative","Conservateur",N,Y,98
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 128","Winnipeg",N,N,"",0,566,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 129","Winnipeg",N,N,"",1,494,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 129","Winnipeg",N,N,"",1,494,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 129","Winnipeg",N,N,"",1,494,"MacIntyre","","Ian","Liberal","Libéral",N,N,37
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 129","Winnipeg",N,N,"",1,494,"Reynolds","","Colin","Conservative","Conservateur",N,Y,88
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 129","Winnipeg",N,N,"",1,494,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 130","Winnipeg",N,N,"",2,556,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 130","Winnipeg",N,N,"",2,556,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 130","Winnipeg",N,N,"",2,556,"MacIntyre","","Ian","Liberal","Libéral",N,N,48
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 130","Winnipeg",N,N,"",2,556,"Reynolds","","Colin","Conservative","Conservateur",N,Y,107
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 130","Winnipeg",N,N,"",2,556,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 131","Winnipeg",N,N,"",2,428,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 131","Winnipeg",N,N,"",2,428,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 131","Winnipeg",N,N,"",2,428,"MacIntyre","","Ian","Liberal","Libéral",N,N,29
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 131","Winnipeg",N,N,"",2,428,"Reynolds","","Colin","Conservative","Conservateur",N,Y,126
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 131","Winnipeg",N,N,"",2,428,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 132","Dugald",N,N,"",1,449,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 132","Dugald",N,N,"",1,449,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 132","Dugald",N,N,"",1,449,"MacIntyre","","Ian","Liberal","Libéral",N,N,56
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 132","Dugald",N,N,"",1,449,"Reynolds","","Colin","Conservative","Conservateur",N,Y,180
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 132","Dugald",N,N,"",1,449,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,4
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 133","Dugald",N,N,"",2,540,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 133","Dugald",N,N,"",2,540,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 133","Dugald",N,N,"",2,540,"MacIntyre","","Ian","Liberal","Libéral",N,N,86
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 133","Dugald",N,N,"",2,540,"Reynolds","","Colin","Conservative","Conservateur",N,Y,186
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 133","Dugald",N,N,"",2,540,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 134","Navin",N,N,"",0,426,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 134","Navin",N,N,"",0,426,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 134","Navin",N,N,"",0,426,"MacIntyre","","Ian","Liberal","Libéral",N,N,34
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 134","Navin",N,N,"",0,426,"Reynolds","","Colin","Conservative","Conservateur",N,Y,134
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 134","Navin",N,N,"",0,426,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,5
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 400A","Winnipeg",N,N,"54A",0,36,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 400A","Winnipeg",N,N,"54A",0,36,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 400A","Winnipeg",N,N,"54A",0,36,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 400A","Winnipeg",N,N,"54A",0,36,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 400A","Winnipeg",N,N,"54A",0,36,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 400B","Winnipeg",N,N,"54B",0,28,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 400B","Winnipeg",N,N,"54B",0,28,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 400B","Winnipeg",N,N,"54B",0,28,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 400B","Winnipeg",N,N,"54B",0,28,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 400B","Winnipeg",N,N,"54B",0,28,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 401A","Winnipeg",N,N,"86A",0,72,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 401A","Winnipeg",N,N,"86A",0,72,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 401A","Winnipeg",N,N,"86A",0,72,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 401A","Winnipeg",N,N,"86A",0,72,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 401A","Winnipeg",N,N,"86A",0,72,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 401B","Winnipeg",N,N,"86B",0,78,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 401B","Winnipeg",N,N,"86B",0,78,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 401B","Winnipeg",N,N,"86B",0,78,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 401B","Winnipeg",N,N,"86B",0,78,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 401B","Winnipeg",N,N,"86B",0,78,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 402A","Winnipeg",N,N,"86A",0,103,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 402A","Winnipeg",N,N,"86A",0,103,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 402A","Winnipeg",N,N,"86A",0,103,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 402A","Winnipeg",N,N,"86A",0,103,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 402A","Winnipeg",N,N,"86A",0,103,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 402B","Winnipeg",N,N,"86B",0,117,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 402B","Winnipeg",N,N,"86B",0,117,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 402B","Winnipeg",N,N,"86B",0,117,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 402B","Winnipeg",N,N,"86B",0,117,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 402B","Winnipeg",N,N,"86B",0,117,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,50,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,50,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,50,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,50,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 500","Mobile poll/Bureau itinérant",N,N,"502",0,50,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,90,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,90,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,90,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,90,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 501","Mobile poll/Bureau itinérant",N,N,"502",0,90,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 502","Mobile poll/Bureau itinérant",N,N,"",0,63,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 502","Mobile poll/Bureau itinérant",N,N,"",0,63,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,3
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 502","Mobile poll/Bureau itinérant",N,N,"",0,63,"MacIntyre","","Ian","Liberal","Libéral",N,N,20
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 502","Mobile poll/Bureau itinérant",N,N,"",0,63,"Reynolds","","Colin","Conservative","Conservateur",N,Y,33
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 502","Mobile poll/Bureau itinérant",N,N,"",0,63,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 503","Winnipeg",N,N,"504",0,98,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 503","Winnipeg",N,N,"504",0,98,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 503","Winnipeg",N,N,"504",0,98,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 503","Winnipeg",N,N,"504",0,98,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 503","Winnipeg",N,N,"504",0,98,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 504","Winnipeg",N,N,"",0,116,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 504","Winnipeg",N,N,"",0,116,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,5
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 504","Winnipeg",N,N,"",0,116,"MacIntyre","","Ian","Liberal","Libéral",N,N,104
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 504","Winnipeg",N,N,"",0,116,"Reynolds","","Colin","Conservative","Conservateur",N,Y,70
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 504","Winnipeg",N,N,"",0,116,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 505","Winnipeg",N,N,"504",0,109,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 505","Winnipeg",N,N,"504",0,109,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 505","Winnipeg",N,N,"504",0,109,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 505","Winnipeg",N,N,"504",0,109,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 505","Winnipeg",N,N,"504",0,109,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,80,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,80,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,80,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,80,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,80,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 507","Mobile poll/Bureau itinérant",N,N,"",1,108,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 507","Mobile poll/Bureau itinérant",N,N,"",1,108,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 507","Mobile poll/Bureau itinérant",N,N,"",1,108,"MacIntyre","","Ian","Liberal","Libéral",N,N,23
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 507","Mobile poll/Bureau itinérant",N,N,"",1,108,"Reynolds","","Colin","Conservative","Conservateur",N,Y,32
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 507","Mobile poll/Bureau itinérant",N,N,"",1,108,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 508","Mobile poll/Bureau itinérant",N,N,"",0,86,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 508","Mobile poll/Bureau itinérant",N,N,"",0,86,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 508","Mobile poll/Bureau itinérant",N,N,"",0,86,"MacIntyre","","Ian","Liberal","Libéral",N,N,58
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 508","Mobile poll/Bureau itinérant",N,N,"",0,86,"Reynolds","","Colin","Conservative","Conservateur",N,Y,25
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 508","Mobile poll/Bureau itinérant",N,N,"",0,86,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,90,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,90,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,90,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,90,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 509","Mobile poll/Bureau itinérant",N,N,"508",0,90,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 510A","Winnipeg",N,N,"54A",0,40,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 510A","Winnipeg",N,N,"54A",0,40,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 510A","Winnipeg",N,N,"54A",0,40,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 510A","Winnipeg",N,N,"54A",0,40,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 510A","Winnipeg",N,N,"54A",0,40,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 510B","Winnipeg",N,N,"54B",0,38,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 510B","Winnipeg",N,N,"54B",0,38,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 510B","Winnipeg",N,N,"54B",0,38,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 510B","Winnipeg",N,N,"54B",0,38,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 510B","Winnipeg",N,N,"54B",0,38,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 511","Winnipeg",N,N,"109",0,60,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 511","Winnipeg",N,N,"109",0,60,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 511","Winnipeg",N,N,"109",0,60,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 511","Winnipeg",N,N,"109",0,60,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 511","Winnipeg",N,N,"109",0,60,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 512","Mobile poll/Bureau itinérant",N,N,"513",0,67,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 512","Mobile poll/Bureau itinérant",N,N,"513",0,67,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 512","Mobile poll/Bureau itinérant",N,N,"513",0,67,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 512","Mobile poll/Bureau itinérant",N,N,"513",0,67,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 512","Mobile poll/Bureau itinérant",N,N,"513",0,67,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 513","Mobile poll/Bureau itinérant",N,N,"",1,96,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 513","Mobile poll/Bureau itinérant",N,N,"",1,96,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,1
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 513","Mobile poll/Bureau itinérant",N,N,"",1,96,"MacIntyre","","Ian","Liberal","Libéral",N,N,23
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 513","Mobile poll/Bureau itinérant",N,N,"",1,96,"Reynolds","","Colin","Conservative","Conservateur",N,Y,17
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 513","Mobile poll/Bureau itinérant",N,N,"",1,96,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 514","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 514","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 514","Mobile poll/Bureau itinérant",Y,N,"",0,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 514","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 514","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,0
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 600","Winnipeg",N,N,"",22,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,746
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 600","Winnipeg",N,N,"",22,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,9
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 600","Winnipeg",N,N,"",22,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,382
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 600","Winnipeg",N,N,"",22,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,581
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 600","Winnipeg",N,N,"",22,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,10
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 601","Winnipeg",N,N,"",8,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,638
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 601","Winnipeg",N,N,"",8,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,18
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 601","Winnipeg",N,N,"",8,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,286
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 601","Winnipeg",N,N,"",8,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,436
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 601","Winnipeg",N,N,"",8,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,18
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 602","Winnipeg",N,N,"",2,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,345
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 602","Winnipeg",N,N,"",2,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,6
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 602","Winnipeg",N,N,"",2,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,187
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 602","Winnipeg",N,N,"",2,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,365
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 602","Winnipeg",N,N,"",2,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,7
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 603","Winnipeg",N,N,"",6,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,485
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 603","Winnipeg",N,N,"",6,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,6
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 603","Winnipeg",N,N,"",6,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,365
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 603","Winnipeg",N,N,"",6,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,494
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 603","Winnipeg",N,N,"",6,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,7
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 604","Winnipeg",N,N,"",5,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,371
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 604","Winnipeg",N,N,"",5,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,8
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 604","Winnipeg",N,N,"",5,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,215
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 604","Winnipeg",N,N,"",5,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,377
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 604","Winnipeg",N,N,"",5,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,12
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 605","Winnipeg",N,N,"",5,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,509
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 605","Winnipeg",N,N,"",5,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,10
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 605","Winnipeg",N,N,"",5,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,402
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 605","Winnipeg",N,N,"",5,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,543
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 605","Winnipeg",N,N,"",5,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,15
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 606","Winnipeg",N,N,"",3,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,577
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 606","Winnipeg",N,N,"",3,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,5
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 606","Winnipeg",N,N,"",3,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,413
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 606","Winnipeg",N,N,"",3,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,633
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 606","Winnipeg",N,N,"",3,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,12
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 607","Winnipeg",N,N,"",10,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,662
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 607","Winnipeg",N,N,"",10,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 607","Winnipeg",N,N,"",10,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,491
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 607","Winnipeg",N,N,"",10,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,688
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 607","Winnipeg",N,N,"",10,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,9
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 608","Winnipeg",N,N,"",8,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,541
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 608","Winnipeg",N,N,"",8,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,7
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 608","Winnipeg",N,N,"",8,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,251
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 608","Winnipeg",N,N,"",8,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,581
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 608","Winnipeg",N,N,"",8,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,7
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 609","Winnipeg",N,N,"",3,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,614
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 609","Winnipeg",N,N,"",3,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,8
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 609","Winnipeg",N,N,"",3,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,334
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 609","Winnipeg",N,N,"",3,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,618
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 609","Winnipeg",N,N,"",3,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,9
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 610","Winnipeg",N,N,"",8,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,541
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 610","Winnipeg",N,N,"",8,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,8
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 610","Winnipeg",N,N,"",8,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,199
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 610","Winnipeg",N,N,"",8,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,428
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 610","Winnipeg",N,N,"",8,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,7
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 611","Winnipeg",N,N,"",3,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,479
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 611","Winnipeg",N,N,"",3,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,2
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 611","Winnipeg",N,N,"",3,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,278
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 611","Winnipeg",N,N,"",3,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,649
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 611","Winnipeg",N,N,"",3,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,10
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 612","Winnipeg",N,N,"",7,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,413
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 612","Winnipeg",N,N,"",7,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,5
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 612","Winnipeg",N,N,"",7,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,300
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 612","Winnipeg",N,N,"",7,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,567
+46003,"Elmwood--Transcona","Elmwood--Transcona"," 612","Winnipeg",N,N,"",7,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,8
+46003,"Elmwood--Transcona","Elmwood--Transcona"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",38,187,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,159
+46003,"Elmwood--Transcona","Elmwood--Transcona"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",38,187,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,7
+46003,"Elmwood--Transcona","Elmwood--Transcona"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",38,187,"MacIntyre","","Ian","Liberal","Libéral",N,N,156
+46003,"Elmwood--Transcona","Elmwood--Transcona"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",38,187,"Reynolds","","Colin","Conservative","Conservateur",N,Y,160
+46003,"Elmwood--Transcona","Elmwood--Transcona"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",38,187,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,8
+46003,"Elmwood--Transcona","Elmwood--Transcona"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",54,0,"Dance","","Leila","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,739
+46003,"Elmwood--Transcona","Elmwood--Transcona"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",54,0,"Geddert","","Nicolas","Green Party","Parti Vert",N,N,11
+46003,"Elmwood--Transcona","Elmwood--Transcona"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",54,0,"MacIntyre","","Ian","Liberal","Libéral",N,N,439
+46003,"Elmwood--Transcona","Elmwood--Transcona"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",54,0,"Reynolds","","Colin","Conservative","Conservateur",N,Y,773
+46003,"Elmwood--Transcona","Elmwood--Transcona"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",54,0,"Watson","","Collin","People's Party - PPC","Parti populaire - PPC",N,N,13

@@ -1,0 +1,637 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+46001,"Brandon--Souris","Brandon--Souris"," 1","Kirkella",N,N,"",1,311,"Jackson","","Grant","Conservative","Conservateur",N,Y,185
+46001,"Brandon--Souris","Brandon--Souris"," 1","Kirkella",N,N,"",1,311,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46001,"Brandon--Souris","Brandon--Souris"," 1","Kirkella",N,N,"",1,311,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,14
+46001,"Brandon--Souris","Brandon--Souris"," 2","Hargrave",N,N,"",2,416,"Jackson","","Grant","Conservative","Conservateur",N,Y,197
+46001,"Brandon--Souris","Brandon--Souris"," 2","Hargrave",N,N,"",2,416,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46001,"Brandon--Souris","Brandon--Souris"," 2","Hargrave",N,N,"",2,416,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,29
+46001,"Brandon--Souris","Brandon--Souris"," 3","Kola",N,N,"",2,271,"Jackson","","Grant","Conservative","Conservateur",N,Y,146
+46001,"Brandon--Souris","Brandon--Souris"," 3","Kola",N,N,"",2,271,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46001,"Brandon--Souris","Brandon--Souris"," 3","Kola",N,N,"",2,271,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,2
+46001,"Brandon--Souris","Brandon--Souris"," 4","Virden",N,N,"",0,427,"Jackson","","Grant","Conservative","Conservateur",N,Y,140
+46001,"Brandon--Souris","Brandon--Souris"," 4","Virden",N,N,"",0,427,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46001,"Brandon--Souris","Brandon--Souris"," 4","Virden",N,N,"",0,427,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,29
+46001,"Brandon--Souris","Brandon--Souris"," 5","Virden",N,N,"",1,437,"Jackson","","Grant","Conservative","Conservateur",N,Y,120
+46001,"Brandon--Souris","Brandon--Souris"," 5","Virden",N,N,"",1,437,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 5","Virden",N,N,"",1,437,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,27
+46001,"Brandon--Souris","Brandon--Souris"," 6","Virden",N,N,"",0,490,"Jackson","","Grant","Conservative","Conservateur",N,Y,201
+46001,"Brandon--Souris","Brandon--Souris"," 6","Virden",N,N,"",0,490,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46001,"Brandon--Souris","Brandon--Souris"," 6","Virden",N,N,"",0,490,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,19
+46001,"Brandon--Souris","Brandon--Souris"," 7","Virden",N,N,"",3,359,"Jackson","","Grant","Conservative","Conservateur",N,Y,104
+46001,"Brandon--Souris","Brandon--Souris"," 7","Virden",N,N,"",3,359,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46001,"Brandon--Souris","Brandon--Souris"," 7","Virden",N,N,"",3,359,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,17
+46001,"Brandon--Souris","Brandon--Souris"," 8","Virden",N,N,"",2,483,"Jackson","","Grant","Conservative","Conservateur",N,Y,131
+46001,"Brandon--Souris","Brandon--Souris"," 8","Virden",N,N,"",2,483,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46001,"Brandon--Souris","Brandon--Souris"," 8","Virden",N,N,"",2,483,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,22
+46001,"Brandon--Souris","Brandon--Souris"," 9","Virden",N,N,"",1,438,"Jackson","","Grant","Conservative","Conservateur",N,Y,137
+46001,"Brandon--Souris","Brandon--Souris"," 9","Virden",N,N,"",1,438,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46001,"Brandon--Souris","Brandon--Souris"," 9","Virden",N,N,"",1,438,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,28
+46001,"Brandon--Souris","Brandon--Souris"," 10","Sioux Valley Dakota Nation",N,N,"",8,416,"Jackson","","Grant","Conservative","Conservateur",N,Y,12
+46001,"Brandon--Souris","Brandon--Souris"," 10","Sioux Valley Dakota Nation",N,N,"",8,416,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46001,"Brandon--Souris","Brandon--Souris"," 10","Sioux Valley Dakota Nation",N,N,"",8,416,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,92
+46001,"Brandon--Souris","Brandon--Souris"," 11","Brandon",N,N,"",1,309,"Jackson","","Grant","Conservative","Conservateur",N,Y,95
+46001,"Brandon--Souris","Brandon--Souris"," 11","Brandon",N,N,"",1,309,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+46001,"Brandon--Souris","Brandon--Souris"," 11","Brandon",N,N,"",1,309,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,39
+46001,"Brandon--Souris","Brandon--Souris"," 12","Brandon",N,N,"",2,513,"Jackson","","Grant","Conservative","Conservateur",N,Y,110
+46001,"Brandon--Souris","Brandon--Souris"," 12","Brandon",N,N,"",2,513,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+46001,"Brandon--Souris","Brandon--Souris"," 12","Brandon",N,N,"",2,513,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,67
+46001,"Brandon--Souris","Brandon--Souris"," 13","Brandon",N,N,"",0,420,"Jackson","","Grant","Conservative","Conservateur",N,Y,113
+46001,"Brandon--Souris","Brandon--Souris"," 13","Brandon",N,N,"",0,420,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46001,"Brandon--Souris","Brandon--Souris"," 13","Brandon",N,N,"",0,420,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,54
+46001,"Brandon--Souris","Brandon--Souris"," 14","Brandon",N,N,"",1,586,"Jackson","","Grant","Conservative","Conservateur",N,Y,102
+46001,"Brandon--Souris","Brandon--Souris"," 14","Brandon",N,N,"",1,586,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46001,"Brandon--Souris","Brandon--Souris"," 14","Brandon",N,N,"",1,586,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,54
+46001,"Brandon--Souris","Brandon--Souris"," 15","Brandon",N,N,"",0,381,"Jackson","","Grant","Conservative","Conservateur",N,Y,76
+46001,"Brandon--Souris","Brandon--Souris"," 15","Brandon",N,N,"",0,381,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46001,"Brandon--Souris","Brandon--Souris"," 15","Brandon",N,N,"",0,381,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,48
+46001,"Brandon--Souris","Brandon--Souris"," 16","Brandon",N,N,"",1,283,"Jackson","","Grant","Conservative","Conservateur",N,Y,60
+46001,"Brandon--Souris","Brandon--Souris"," 16","Brandon",N,N,"",1,283,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46001,"Brandon--Souris","Brandon--Souris"," 16","Brandon",N,N,"",1,283,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,25
+46001,"Brandon--Souris","Brandon--Souris"," 17","Brookdale",N,N,"",3,196,"Jackson","","Grant","Conservative","Conservateur",N,Y,87
+46001,"Brandon--Souris","Brandon--Souris"," 17","Brookdale",N,N,"",3,196,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46001,"Brandon--Souris","Brandon--Souris"," 17","Brookdale",N,N,"",3,196,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,20
+46001,"Brandon--Souris","Brandon--Souris"," 18","Brandon",N,N,"",0,477,"Jackson","","Grant","Conservative","Conservateur",N,Y,104
+46001,"Brandon--Souris","Brandon--Souris"," 18","Brandon",N,N,"",0,477,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46001,"Brandon--Souris","Brandon--Souris"," 18","Brandon",N,N,"",0,477,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,49
+46001,"Brandon--Souris","Brandon--Souris"," 19","Brandon",N,N,"",1,390,"Jackson","","Grant","Conservative","Conservateur",N,Y,108
+46001,"Brandon--Souris","Brandon--Souris"," 19","Brandon",N,N,"",1,390,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46001,"Brandon--Souris","Brandon--Souris"," 19","Brandon",N,N,"",1,390,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,55
+46001,"Brandon--Souris","Brandon--Souris"," 20","Brandon",N,N,"",2,481,"Jackson","","Grant","Conservative","Conservateur",N,Y,100
+46001,"Brandon--Souris","Brandon--Souris"," 20","Brandon",N,N,"",2,481,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+46001,"Brandon--Souris","Brandon--Souris"," 20","Brandon",N,N,"",2,481,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,47
+46001,"Brandon--Souris","Brandon--Souris"," 21","Brandon",N,N,"",0,365,"Jackson","","Grant","Conservative","Conservateur",N,Y,87
+46001,"Brandon--Souris","Brandon--Souris"," 21","Brandon",N,N,"",0,365,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46001,"Brandon--Souris","Brandon--Souris"," 21","Brandon",N,N,"",0,365,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,58
+46001,"Brandon--Souris","Brandon--Souris"," 22","Chater",N,N,"",2,372,"Jackson","","Grant","Conservative","Conservateur",N,Y,94
+46001,"Brandon--Souris","Brandon--Souris"," 22","Chater",N,N,"",2,372,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 22","Chater",N,N,"",2,372,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,22
+46001,"Brandon--Souris","Brandon--Souris"," 23","Brandon",N,N,"",2,486,"Jackson","","Grant","Conservative","Conservateur",N,Y,93
+46001,"Brandon--Souris","Brandon--Souris"," 23","Brandon",N,N,"",2,486,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46001,"Brandon--Souris","Brandon--Souris"," 23","Brandon",N,N,"",2,486,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,63
+46001,"Brandon--Souris","Brandon--Souris"," 24","Brandon",N,N,"",0,396,"Jackson","","Grant","Conservative","Conservateur",N,Y,61
+46001,"Brandon--Souris","Brandon--Souris"," 24","Brandon",N,N,"",0,396,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46001,"Brandon--Souris","Brandon--Souris"," 24","Brandon",N,N,"",0,396,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,39
+46001,"Brandon--Souris","Brandon--Souris"," 25","Cromer",N,N,"",0,305,"Jackson","","Grant","Conservative","Conservateur",N,Y,87
+46001,"Brandon--Souris","Brandon--Souris"," 25","Cromer",N,N,"",0,305,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46001,"Brandon--Souris","Brandon--Souris"," 25","Cromer",N,N,"",0,305,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,11
+46001,"Brandon--Souris","Brandon--Souris"," 26","Brandon",N,N,"",1,453,"Jackson","","Grant","Conservative","Conservateur",N,Y,90
+46001,"Brandon--Souris","Brandon--Souris"," 26","Brandon",N,N,"",1,453,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46001,"Brandon--Souris","Brandon--Souris"," 26","Brandon",N,N,"",1,453,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,40
+46001,"Brandon--Souris","Brandon--Souris"," 27","Brandon",N,N,"",0,428,"Jackson","","Grant","Conservative","Conservateur",N,Y,47
+46001,"Brandon--Souris","Brandon--Souris"," 27","Brandon",N,N,"",0,428,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46001,"Brandon--Souris","Brandon--Souris"," 27","Brandon",N,N,"",0,428,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,42
+46001,"Brandon--Souris","Brandon--Souris"," 28","Brandon",N,N,"",0,347,"Jackson","","Grant","Conservative","Conservateur",N,Y,21
+46001,"Brandon--Souris","Brandon--Souris"," 28","Brandon",N,N,"",0,347,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46001,"Brandon--Souris","Brandon--Souris"," 28","Brandon",N,N,"",0,347,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,32
+46001,"Brandon--Souris","Brandon--Souris"," 29","Brandon",N,N,"",1,376,"Jackson","","Grant","Conservative","Conservateur",N,Y,23
+46001,"Brandon--Souris","Brandon--Souris"," 29","Brandon",N,N,"",1,376,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46001,"Brandon--Souris","Brandon--Souris"," 29","Brandon",N,N,"",1,376,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,16
+46001,"Brandon--Souris","Brandon--Souris"," 30","Brandon",N,N,"",1,586,"Jackson","","Grant","Conservative","Conservateur",N,Y,27
+46001,"Brandon--Souris","Brandon--Souris"," 30","Brandon",N,N,"",1,586,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46001,"Brandon--Souris","Brandon--Souris"," 30","Brandon",N,N,"",1,586,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,34
+46001,"Brandon--Souris","Brandon--Souris"," 31","Brandon",N,N,"",0,401,"Jackson","","Grant","Conservative","Conservateur",N,Y,65
+46001,"Brandon--Souris","Brandon--Souris"," 31","Brandon",N,N,"",0,401,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46001,"Brandon--Souris","Brandon--Souris"," 31","Brandon",N,N,"",0,401,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,40
+46001,"Brandon--Souris","Brandon--Souris"," 32","Brandon",N,N,"",2,333,"Jackson","","Grant","Conservative","Conservateur",N,Y,28
+46001,"Brandon--Souris","Brandon--Souris"," 32","Brandon",N,N,"",2,333,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46001,"Brandon--Souris","Brandon--Souris"," 32","Brandon",N,N,"",2,333,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,35
+46001,"Brandon--Souris","Brandon--Souris"," 33","Brandon",N,N,"",1,443,"Jackson","","Grant","Conservative","Conservateur",N,Y,44
+46001,"Brandon--Souris","Brandon--Souris"," 33","Brandon",N,N,"",1,443,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46001,"Brandon--Souris","Brandon--Souris"," 33","Brandon",N,N,"",1,443,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,31
+46001,"Brandon--Souris","Brandon--Souris"," 34","Brandon",N,N,"",0,415,"Jackson","","Grant","Conservative","Conservateur",N,Y,47
+46001,"Brandon--Souris","Brandon--Souris"," 34","Brandon",N,N,"",0,415,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46001,"Brandon--Souris","Brandon--Souris"," 34","Brandon",N,N,"",0,415,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,38
+46001,"Brandon--Souris","Brandon--Souris"," 35","Brandon",N,N,"",3,530,"Jackson","","Grant","Conservative","Conservateur",N,Y,54
+46001,"Brandon--Souris","Brandon--Souris"," 35","Brandon",N,N,"",3,530,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46001,"Brandon--Souris","Brandon--Souris"," 35","Brandon",N,N,"",3,530,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,46
+46001,"Brandon--Souris","Brandon--Souris"," 36","Brandon",N,N,"",1,407,"Jackson","","Grant","Conservative","Conservateur",N,Y,73
+46001,"Brandon--Souris","Brandon--Souris"," 36","Brandon",N,N,"",1,407,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46001,"Brandon--Souris","Brandon--Souris"," 36","Brandon",N,N,"",1,407,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,35
+46001,"Brandon--Souris","Brandon--Souris"," 37","Brandon",N,N,"",1,535,"Jackson","","Grant","Conservative","Conservateur",N,Y,77
+46001,"Brandon--Souris","Brandon--Souris"," 37","Brandon",N,N,"",1,535,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+46001,"Brandon--Souris","Brandon--Souris"," 37","Brandon",N,N,"",1,535,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,50
+46001,"Brandon--Souris","Brandon--Souris"," 38","Brandon",N,N,"",0,524,"Jackson","","Grant","Conservative","Conservateur",N,Y,78
+46001,"Brandon--Souris","Brandon--Souris"," 38","Brandon",N,N,"",0,524,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46001,"Brandon--Souris","Brandon--Souris"," 38","Brandon",N,N,"",0,524,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,45
+46001,"Brandon--Souris","Brandon--Souris"," 39","Brandon",N,N,"",1,349,"Jackson","","Grant","Conservative","Conservateur",N,Y,37
+46001,"Brandon--Souris","Brandon--Souris"," 39","Brandon",N,N,"",1,349,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46001,"Brandon--Souris","Brandon--Souris"," 39","Brandon",N,N,"",1,349,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,14
+46001,"Brandon--Souris","Brandon--Souris"," 40","Brandon",N,N,"",1,405,"Jackson","","Grant","Conservative","Conservateur",N,Y,34
+46001,"Brandon--Souris","Brandon--Souris"," 40","Brandon",N,N,"",1,405,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46001,"Brandon--Souris","Brandon--Souris"," 40","Brandon",N,N,"",1,405,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,24
+46001,"Brandon--Souris","Brandon--Souris"," 41","Brandon",N,N,"",0,466,"Jackson","","Grant","Conservative","Conservateur",N,Y,75
+46001,"Brandon--Souris","Brandon--Souris"," 41","Brandon",N,N,"",0,466,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+46001,"Brandon--Souris","Brandon--Souris"," 41","Brandon",N,N,"",0,466,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,46
+46001,"Brandon--Souris","Brandon--Souris"," 42","Brandon",N,N,"",0,499,"Jackson","","Grant","Conservative","Conservateur",N,Y,79
+46001,"Brandon--Souris","Brandon--Souris"," 42","Brandon",N,N,"",0,499,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46001,"Brandon--Souris","Brandon--Souris"," 42","Brandon",N,N,"",0,499,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,43
+46001,"Brandon--Souris","Brandon--Souris"," 43","Brandon",N,N,"",1,517,"Jackson","","Grant","Conservative","Conservateur",N,Y,99
+46001,"Brandon--Souris","Brandon--Souris"," 43","Brandon",N,N,"",1,517,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46001,"Brandon--Souris","Brandon--Souris"," 43","Brandon",N,N,"",1,517,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,54
+46001,"Brandon--Souris","Brandon--Souris"," 44","Brandon",N,N,"",3,419,"Jackson","","Grant","Conservative","Conservateur",N,Y,78
+46001,"Brandon--Souris","Brandon--Souris"," 44","Brandon",N,N,"",3,419,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46001,"Brandon--Souris","Brandon--Souris"," 44","Brandon",N,N,"",3,419,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,60
+46001,"Brandon--Souris","Brandon--Souris"," 45","Brandon",N,N,"",3,446,"Jackson","","Grant","Conservative","Conservateur",N,Y,73
+46001,"Brandon--Souris","Brandon--Souris"," 45","Brandon",N,N,"",3,446,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46001,"Brandon--Souris","Brandon--Souris"," 45","Brandon",N,N,"",3,446,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,42
+46001,"Brandon--Souris","Brandon--Souris"," 46","Brandon",N,N,"",0,480,"Jackson","","Grant","Conservative","Conservateur",N,Y,93
+46001,"Brandon--Souris","Brandon--Souris"," 46","Brandon",N,N,"",0,480,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46001,"Brandon--Souris","Brandon--Souris"," 46","Brandon",N,N,"",0,480,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,39
+46001,"Brandon--Souris","Brandon--Souris"," 47","Brandon",N,N,"",4,361,"Jackson","","Grant","Conservative","Conservateur",N,Y,82
+46001,"Brandon--Souris","Brandon--Souris"," 47","Brandon",N,N,"",4,361,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46001,"Brandon--Souris","Brandon--Souris"," 47","Brandon",N,N,"",4,361,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,34
+46001,"Brandon--Souris","Brandon--Souris"," 48","Brandon",N,N,"",2,381,"Jackson","","Grant","Conservative","Conservateur",N,Y,83
+46001,"Brandon--Souris","Brandon--Souris"," 48","Brandon",N,N,"",2,381,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46001,"Brandon--Souris","Brandon--Souris"," 48","Brandon",N,N,"",2,381,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,34
+46001,"Brandon--Souris","Brandon--Souris"," 49","Brandon",N,N,"",0,532,"Jackson","","Grant","Conservative","Conservateur",N,Y,91
+46001,"Brandon--Souris","Brandon--Souris"," 49","Brandon",N,N,"",0,532,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46001,"Brandon--Souris","Brandon--Souris"," 49","Brandon",N,N,"",0,532,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,56
+46001,"Brandon--Souris","Brandon--Souris"," 50","Brandon",N,N,"",0,589,"Jackson","","Grant","Conservative","Conservateur",N,Y,73
+46001,"Brandon--Souris","Brandon--Souris"," 50","Brandon",N,N,"",0,589,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46001,"Brandon--Souris","Brandon--Souris"," 50","Brandon",N,N,"",0,589,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,72
+46001,"Brandon--Souris","Brandon--Souris"," 51","Brandon",N,N,"",0,454,"Jackson","","Grant","Conservative","Conservateur",N,Y,66
+46001,"Brandon--Souris","Brandon--Souris"," 51","Brandon",N,N,"",0,454,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46001,"Brandon--Souris","Brandon--Souris"," 51","Brandon",N,N,"",0,454,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,33
+46001,"Brandon--Souris","Brandon--Souris"," 52","Brandon",N,N,"",1,411,"Jackson","","Grant","Conservative","Conservateur",N,Y,106
+46001,"Brandon--Souris","Brandon--Souris"," 52","Brandon",N,N,"",1,411,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46001,"Brandon--Souris","Brandon--Souris"," 52","Brandon",N,N,"",1,411,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,35
+46001,"Brandon--Souris","Brandon--Souris"," 53","Brandon",N,N,"",0,409,"Jackson","","Grant","Conservative","Conservateur",N,Y,79
+46001,"Brandon--Souris","Brandon--Souris"," 53","Brandon",N,N,"",0,409,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46001,"Brandon--Souris","Brandon--Souris"," 53","Brandon",N,N,"",0,409,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,39
+46001,"Brandon--Souris","Brandon--Souris"," 54","Brandon",N,N,"",5,549,"Jackson","","Grant","Conservative","Conservateur",N,Y,138
+46001,"Brandon--Souris","Brandon--Souris"," 54","Brandon",N,N,"",5,549,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46001,"Brandon--Souris","Brandon--Souris"," 54","Brandon",N,N,"",5,549,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,48
+46001,"Brandon--Souris","Brandon--Souris"," 55","Brandon",N,N,"",1,497,"Jackson","","Grant","Conservative","Conservateur",N,Y,103
+46001,"Brandon--Souris","Brandon--Souris"," 55","Brandon",N,N,"",1,497,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46001,"Brandon--Souris","Brandon--Souris"," 55","Brandon",N,N,"",1,497,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,44
+46001,"Brandon--Souris","Brandon--Souris"," 56","Brandon",N,N,"",2,455,"Jackson","","Grant","Conservative","Conservateur",N,Y,109
+46001,"Brandon--Souris","Brandon--Souris"," 56","Brandon",N,N,"",2,455,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46001,"Brandon--Souris","Brandon--Souris"," 56","Brandon",N,N,"",2,455,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,24
+46001,"Brandon--Souris","Brandon--Souris"," 57","Brandon",N,N,"",0,426,"Jackson","","Grant","Conservative","Conservateur",N,Y,73
+46001,"Brandon--Souris","Brandon--Souris"," 57","Brandon",N,N,"",0,426,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46001,"Brandon--Souris","Brandon--Souris"," 57","Brandon",N,N,"",0,426,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,42
+46001,"Brandon--Souris","Brandon--Souris"," 58","Brandon",N,N,"",5,448,"Jackson","","Grant","Conservative","Conservateur",N,Y,106
+46001,"Brandon--Souris","Brandon--Souris"," 58","Brandon",N,N,"",5,448,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46001,"Brandon--Souris","Brandon--Souris"," 58","Brandon",N,N,"",5,448,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,41
+46001,"Brandon--Souris","Brandon--Souris"," 59","Alexander",N,N,"",4,416,"Jackson","","Grant","Conservative","Conservateur",N,Y,152
+46001,"Brandon--Souris","Brandon--Souris"," 59","Alexander",N,N,"",4,416,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46001,"Brandon--Souris","Brandon--Souris"," 59","Alexander",N,N,"",4,416,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,53
+46001,"Brandon--Souris","Brandon--Souris"," 60","Beresford",N,N,"",2,307,"Jackson","","Grant","Conservative","Conservateur",N,Y,142
+46001,"Brandon--Souris","Brandon--Souris"," 60","Beresford",N,N,"",2,307,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 60","Beresford",N,N,"",2,307,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,21
+46001,"Brandon--Souris","Brandon--Souris"," 61","Cornwallis",N,N,"",1,351,"Jackson","","Grant","Conservative","Conservateur",N,Y,45
+46001,"Brandon--Souris","Brandon--Souris"," 61","Cornwallis",N,N,"",1,351,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46001,"Brandon--Souris","Brandon--Souris"," 61","Cornwallis",N,N,"",1,351,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,46
+46001,"Brandon--Souris","Brandon--Souris"," 62","Kemnay",N,N,"",3,455,"Jackson","","Grant","Conservative","Conservateur",N,Y,147
+46001,"Brandon--Souris","Brandon--Souris"," 62","Kemnay",N,N,"",3,455,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46001,"Brandon--Souris","Brandon--Souris"," 62","Kemnay",N,N,"",3,455,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,36
+46001,"Brandon--Souris","Brandon--Souris"," 63","Brandon",N,N,"",1,397,"Jackson","","Grant","Conservative","Conservateur",N,Y,113
+46001,"Brandon--Souris","Brandon--Souris"," 63","Brandon",N,N,"",1,397,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46001,"Brandon--Souris","Brandon--Souris"," 63","Brandon",N,N,"",1,397,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,32
+46001,"Brandon--Souris","Brandon--Souris"," 64","Brandon",N,N,"",1,485,"Jackson","","Grant","Conservative","Conservateur",N,Y,85
+46001,"Brandon--Souris","Brandon--Souris"," 64","Brandon",N,N,"",1,485,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+46001,"Brandon--Souris","Brandon--Souris"," 64","Brandon",N,N,"",1,485,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,38
+46001,"Brandon--Souris","Brandon--Souris"," 65","Brandon",N,N,"",5,501,"Jackson","","Grant","Conservative","Conservateur",N,Y,93
+46001,"Brandon--Souris","Brandon--Souris"," 65","Brandon",N,N,"",5,501,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46001,"Brandon--Souris","Brandon--Souris"," 65","Brandon",N,N,"",5,501,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,57
+46001,"Brandon--Souris","Brandon--Souris"," 66","Brandon",N,N,"",1,491,"Jackson","","Grant","Conservative","Conservateur",N,Y,73
+46001,"Brandon--Souris","Brandon--Souris"," 66","Brandon",N,N,"",1,491,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46001,"Brandon--Souris","Brandon--Souris"," 66","Brandon",N,N,"",1,491,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,48
+46001,"Brandon--Souris","Brandon--Souris"," 67","Brandon",N,N,"",1,440,"Jackson","","Grant","Conservative","Conservateur",N,Y,66
+46001,"Brandon--Souris","Brandon--Souris"," 67","Brandon",N,N,"",1,440,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46001,"Brandon--Souris","Brandon--Souris"," 67","Brandon",N,N,"",1,440,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,46
+46001,"Brandon--Souris","Brandon--Souris"," 68","Brandon",N,N,"",1,451,"Jackson","","Grant","Conservative","Conservateur",N,Y,102
+46001,"Brandon--Souris","Brandon--Souris"," 68","Brandon",N,N,"",1,451,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+46001,"Brandon--Souris","Brandon--Souris"," 68","Brandon",N,N,"",1,451,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,41
+46001,"Brandon--Souris","Brandon--Souris"," 69","Brandon",N,N,"",0,482,"Jackson","","Grant","Conservative","Conservateur",N,Y,101
+46001,"Brandon--Souris","Brandon--Souris"," 69","Brandon",N,N,"",0,482,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+46001,"Brandon--Souris","Brandon--Souris"," 69","Brandon",N,N,"",0,482,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,46
+46001,"Brandon--Souris","Brandon--Souris"," 70","Brandon",N,N,"",1,398,"Jackson","","Grant","Conservative","Conservateur",N,Y,90
+46001,"Brandon--Souris","Brandon--Souris"," 70","Brandon",N,N,"",1,398,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46001,"Brandon--Souris","Brandon--Souris"," 70","Brandon",N,N,"",1,398,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,54
+46001,"Brandon--Souris","Brandon--Souris"," 71","Brandon",N,N,"",0,474,"Jackson","","Grant","Conservative","Conservateur",N,Y,63
+46001,"Brandon--Souris","Brandon--Souris"," 71","Brandon",N,N,"",0,474,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46001,"Brandon--Souris","Brandon--Souris"," 71","Brandon",N,N,"",0,474,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,50
+46001,"Brandon--Souris","Brandon--Souris"," 72","Brandon",N,N,"",0,429,"Jackson","","Grant","Conservative","Conservateur",N,Y,111
+46001,"Brandon--Souris","Brandon--Souris"," 72","Brandon",N,N,"",0,429,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46001,"Brandon--Souris","Brandon--Souris"," 72","Brandon",N,N,"",0,429,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,48
+46001,"Brandon--Souris","Brandon--Souris"," 73","Brandon",N,N,"",2,440,"Jackson","","Grant","Conservative","Conservateur",N,Y,122
+46001,"Brandon--Souris","Brandon--Souris"," 73","Brandon",N,N,"",2,440,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+46001,"Brandon--Souris","Brandon--Souris"," 73","Brandon",N,N,"",2,440,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,43
+46001,"Brandon--Souris","Brandon--Souris"," 74","Brandon",N,N,"",1,458,"Jackson","","Grant","Conservative","Conservateur",N,Y,95
+46001,"Brandon--Souris","Brandon--Souris"," 74","Brandon",N,N,"",1,458,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46001,"Brandon--Souris","Brandon--Souris"," 74","Brandon",N,N,"",1,458,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,52
+46001,"Brandon--Souris","Brandon--Souris"," 75","Brandon",N,N,"",1,524,"Jackson","","Grant","Conservative","Conservateur",N,Y,91
+46001,"Brandon--Souris","Brandon--Souris"," 75","Brandon",N,N,"",1,524,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46001,"Brandon--Souris","Brandon--Souris"," 75","Brandon",N,N,"",1,524,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,54
+46001,"Brandon--Souris","Brandon--Souris"," 76","Brandon",N,N,"",1,473,"Jackson","","Grant","Conservative","Conservateur",N,Y,89
+46001,"Brandon--Souris","Brandon--Souris"," 76","Brandon",N,N,"",1,473,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46001,"Brandon--Souris","Brandon--Souris"," 76","Brandon",N,N,"",1,473,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,44
+46001,"Brandon--Souris","Brandon--Souris"," 77","Brandon",N,N,"",1,485,"Jackson","","Grant","Conservative","Conservateur",N,Y,111
+46001,"Brandon--Souris","Brandon--Souris"," 77","Brandon",N,N,"",1,485,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46001,"Brandon--Souris","Brandon--Souris"," 77","Brandon",N,N,"",1,485,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,59
+46001,"Brandon--Souris","Brandon--Souris"," 78","Brandon",N,N,"",2,449,"Jackson","","Grant","Conservative","Conservateur",N,Y,98
+46001,"Brandon--Souris","Brandon--Souris"," 78","Brandon",N,N,"",2,449,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46001,"Brandon--Souris","Brandon--Souris"," 78","Brandon",N,N,"",2,449,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,38
+46001,"Brandon--Souris","Brandon--Souris"," 79","Brandon",N,N,"",4,439,"Jackson","","Grant","Conservative","Conservateur",N,Y,93
+46001,"Brandon--Souris","Brandon--Souris"," 79","Brandon",N,N,"",4,439,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46001,"Brandon--Souris","Brandon--Souris"," 79","Brandon",N,N,"",4,439,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,42
+46001,"Brandon--Souris","Brandon--Souris"," 80","Brandon",N,N,"",0,457,"Jackson","","Grant","Conservative","Conservateur",N,Y,72
+46001,"Brandon--Souris","Brandon--Souris"," 80","Brandon",N,N,"",0,457,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+46001,"Brandon--Souris","Brandon--Souris"," 80","Brandon",N,N,"",0,457,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,40
+46001,"Brandon--Souris","Brandon--Souris"," 81","Brandon",N,N,"",1,501,"Jackson","","Grant","Conservative","Conservateur",N,Y,93
+46001,"Brandon--Souris","Brandon--Souris"," 81","Brandon",N,N,"",1,501,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+46001,"Brandon--Souris","Brandon--Souris"," 81","Brandon",N,N,"",1,501,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,56
+46001,"Brandon--Souris","Brandon--Souris"," 82","Brandon",N,N,"",1,532,"Jackson","","Grant","Conservative","Conservateur",N,Y,73
+46001,"Brandon--Souris","Brandon--Souris"," 82","Brandon",N,N,"",1,532,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46001,"Brandon--Souris","Brandon--Souris"," 82","Brandon",N,N,"",1,532,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,50
+46001,"Brandon--Souris","Brandon--Souris"," 83","Brandon",N,N,"",2,502,"Jackson","","Grant","Conservative","Conservateur",N,Y,108
+46001,"Brandon--Souris","Brandon--Souris"," 83","Brandon",N,N,"",2,502,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46001,"Brandon--Souris","Brandon--Souris"," 83","Brandon",N,N,"",2,502,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,58
+46001,"Brandon--Souris","Brandon--Souris"," 84","Brandon",N,N,"",1,491,"Jackson","","Grant","Conservative","Conservateur",N,Y,118
+46001,"Brandon--Souris","Brandon--Souris"," 84","Brandon",N,N,"",1,491,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+46001,"Brandon--Souris","Brandon--Souris"," 84","Brandon",N,N,"",1,491,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,43
+46001,"Brandon--Souris","Brandon--Souris"," 85","Brandon",N,N,"",1,459,"Jackson","","Grant","Conservative","Conservateur",N,Y,120
+46001,"Brandon--Souris","Brandon--Souris"," 85","Brandon",N,N,"",1,459,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46001,"Brandon--Souris","Brandon--Souris"," 85","Brandon",N,N,"",1,459,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,34
+46001,"Brandon--Souris","Brandon--Souris"," 86","Brandon",N,N,"",0,508,"Jackson","","Grant","Conservative","Conservateur",N,Y,85
+46001,"Brandon--Souris","Brandon--Souris"," 86","Brandon",N,N,"",0,508,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46001,"Brandon--Souris","Brandon--Souris"," 86","Brandon",N,N,"",0,508,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,34
+46001,"Brandon--Souris","Brandon--Souris"," 87","Brandon",N,N,"",1,546,"Jackson","","Grant","Conservative","Conservateur",N,Y,160
+46001,"Brandon--Souris","Brandon--Souris"," 87","Brandon",N,N,"",1,546,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46001,"Brandon--Souris","Brandon--Souris"," 87","Brandon",N,N,"",1,546,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,44
+46001,"Brandon--Souris","Brandon--Souris"," 88","Brandon",N,N,"",1,471,"Jackson","","Grant","Conservative","Conservateur",N,Y,85
+46001,"Brandon--Souris","Brandon--Souris"," 88","Brandon",N,N,"",1,471,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46001,"Brandon--Souris","Brandon--Souris"," 88","Brandon",N,N,"",1,471,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,48
+46001,"Brandon--Souris","Brandon--Souris"," 89","Brandon",N,N,"",1,481,"Jackson","","Grant","Conservative","Conservateur",N,Y,98
+46001,"Brandon--Souris","Brandon--Souris"," 89","Brandon",N,N,"",1,481,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+46001,"Brandon--Souris","Brandon--Souris"," 89","Brandon",N,N,"",1,481,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,48
+46001,"Brandon--Souris","Brandon--Souris"," 90","Brandon",N,N,"",4,578,"Jackson","","Grant","Conservative","Conservateur",N,Y,104
+46001,"Brandon--Souris","Brandon--Souris"," 90","Brandon",N,N,"",4,578,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46001,"Brandon--Souris","Brandon--Souris"," 90","Brandon",N,N,"",4,578,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,55
+46001,"Brandon--Souris","Brandon--Souris"," 91","Brandon",N,N,"",2,607,"Jackson","","Grant","Conservative","Conservateur",N,Y,124
+46001,"Brandon--Souris","Brandon--Souris"," 91","Brandon",N,N,"",2,607,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46001,"Brandon--Souris","Brandon--Souris"," 91","Brandon",N,N,"",2,607,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,66
+46001,"Brandon--Souris","Brandon--Souris"," 92","Brandon",N,N,"",1,410,"Jackson","","Grant","Conservative","Conservateur",N,Y,67
+46001,"Brandon--Souris","Brandon--Souris"," 92","Brandon",N,N,"",1,410,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+46001,"Brandon--Souris","Brandon--Souris"," 92","Brandon",N,N,"",1,410,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,48
+46001,"Brandon--Souris","Brandon--Souris"," 93","Brandon",N,N,"",2,515,"Jackson","","Grant","Conservative","Conservateur",N,Y,80
+46001,"Brandon--Souris","Brandon--Souris"," 93","Brandon",N,N,"",2,515,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46001,"Brandon--Souris","Brandon--Souris"," 93","Brandon",N,N,"",2,515,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,46
+46001,"Brandon--Souris","Brandon--Souris"," 94","Cornwallis",N,N,"",1,363,"Jackson","","Grant","Conservative","Conservateur",N,Y,148
+46001,"Brandon--Souris","Brandon--Souris"," 94","Cornwallis",N,N,"",1,363,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46001,"Brandon--Souris","Brandon--Souris"," 94","Cornwallis",N,N,"",1,363,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,43
+46001,"Brandon--Souris","Brandon--Souris"," 95","Sprucewoods",N,N,"",1,483,"Jackson","","Grant","Conservative","Conservateur",N,Y,179
+46001,"Brandon--Souris","Brandon--Souris"," 95","Sprucewoods",N,N,"",1,483,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46001,"Brandon--Souris","Brandon--Souris"," 95","Sprucewoods",N,N,"",1,483,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,62
+46001,"Brandon--Souris","Brandon--Souris"," 96","North Cypress-Langford",N,N,"",0,519,"Jackson","","Grant","Conservative","Conservateur",N,Y,153
+46001,"Brandon--Souris","Brandon--Souris"," 96","North Cypress-Langford",N,N,"",0,519,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46001,"Brandon--Souris","Brandon--Souris"," 96","North Cypress-Langford",N,N,"",0,519,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,57
+46001,"Brandon--Souris","Brandon--Souris"," 97","Cornwallis",N,N,"",0,259,"Jackson","","Grant","Conservative","Conservateur",N,Y,108
+46001,"Brandon--Souris","Brandon--Souris"," 97","Cornwallis",N,N,"",0,259,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46001,"Brandon--Souris","Brandon--Souris"," 97","Cornwallis",N,N,"",0,259,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,33
+46001,"Brandon--Souris","Brandon--Souris"," 98","Sprucewoods",N,N,"",2,405,"Jackson","","Grant","Conservative","Conservateur",N,Y,58
+46001,"Brandon--Souris","Brandon--Souris"," 98","Sprucewoods",N,N,"",2,405,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46001,"Brandon--Souris","Brandon--Souris"," 98","Sprucewoods",N,N,"",2,405,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 99","Cornwallis",N,N,"",3,435,"Jackson","","Grant","Conservative","Conservateur",N,Y,75
+46001,"Brandon--Souris","Brandon--Souris"," 99","Cornwallis",N,N,"",3,435,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46001,"Brandon--Souris","Brandon--Souris"," 99","Cornwallis",N,N,"",3,435,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,27
+46001,"Brandon--Souris","Brandon--Souris"," 100","Brandon Hills",N,N,"",0,353,"Jackson","","Grant","Conservative","Conservateur",N,Y,125
+46001,"Brandon--Souris","Brandon--Souris"," 100","Brandon Hills",N,N,"",0,353,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46001,"Brandon--Souris","Brandon--Souris"," 100","Brandon Hills",N,N,"",0,353,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,38
+46001,"Brandon--Souris","Brandon--Souris"," 101","Oak Lake",N,N,"",0,303,"Jackson","","Grant","Conservative","Conservateur",N,Y,128
+46001,"Brandon--Souris","Brandon--Souris"," 101","Oak Lake",N,N,"",0,303,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46001,"Brandon--Souris","Brandon--Souris"," 101","Oak Lake",N,N,"",0,303,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,20
+46001,"Brandon--Souris","Brandon--Souris"," 102","Griswold",N,N,"",1,359,"Jackson","","Grant","Conservative","Conservateur",N,Y,116
+46001,"Brandon--Souris","Brandon--Souris"," 102","Griswold",N,N,"",1,359,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46001,"Brandon--Souris","Brandon--Souris"," 102","Griswold",N,N,"",1,359,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 103","Oak Lake Beach",N,N,"",0,351,"Jackson","","Grant","Conservative","Conservateur",N,Y,171
+46001,"Brandon--Souris","Brandon--Souris"," 103","Oak Lake Beach",N,N,"",0,351,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46001,"Brandon--Souris","Brandon--Souris"," 103","Oak Lake Beach",N,N,"",0,351,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,23
+46001,"Brandon--Souris","Brandon--Souris"," 104","Oak Lake Reserve",N,N,"",1,96,"Jackson","","Grant","Conservative","Conservateur",N,Y,7
+46001,"Brandon--Souris","Brandon--Souris"," 104","Oak Lake Reserve",N,N,"",1,96,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46001,"Brandon--Souris","Brandon--Souris"," 104","Oak Lake Reserve",N,N,"",1,96,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,17
+46001,"Brandon--Souris","Brandon--Souris"," 105","Pipestone",N,N,"",1,312,"Jackson","","Grant","Conservative","Conservateur",N,Y,173
+46001,"Brandon--Souris","Brandon--Souris"," 105","Pipestone",N,N,"",1,312,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46001,"Brandon--Souris","Brandon--Souris"," 105","Pipestone",N,N,"",1,312,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,29
+46001,"Brandon--Souris","Brandon--Souris"," 106","Pipestone",N,N,"",0,303,"Jackson","","Grant","Conservative","Conservateur",N,Y,178
+46001,"Brandon--Souris","Brandon--Souris"," 106","Pipestone",N,N,"",0,303,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46001,"Brandon--Souris","Brandon--Souris"," 106","Pipestone",N,N,"",0,303,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,9
+46001,"Brandon--Souris","Brandon--Souris"," 107","Deleau",N,N,"",1,350,"Jackson","","Grant","Conservative","Conservateur",N,Y,162
+46001,"Brandon--Souris","Brandon--Souris"," 107","Deleau",N,N,"",1,350,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46001,"Brandon--Souris","Brandon--Souris"," 107","Deleau",N,N,"",1,350,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,18
+46001,"Brandon--Souris","Brandon--Souris"," 108","Souris-Glenwood",N,N,"",3,445,"Jackson","","Grant","Conservative","Conservateur",N,Y,134
+46001,"Brandon--Souris","Brandon--Souris"," 108","Souris-Glenwood",N,N,"",3,445,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46001,"Brandon--Souris","Brandon--Souris"," 108","Souris-Glenwood",N,N,"",3,445,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,29
+46001,"Brandon--Souris","Brandon--Souris"," 109","Souris",N,N,"",2,439,"Jackson","","Grant","Conservative","Conservateur",N,Y,125
+46001,"Brandon--Souris","Brandon--Souris"," 109","Souris",N,N,"",2,439,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46001,"Brandon--Souris","Brandon--Souris"," 109","Souris",N,N,"",2,439,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,23
+46001,"Brandon--Souris","Brandon--Souris"," 110","Souris-Glenwood",N,N,"",3,519,"Jackson","","Grant","Conservative","Conservateur",N,Y,138
+46001,"Brandon--Souris","Brandon--Souris"," 110","Souris-Glenwood",N,N,"",3,519,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46001,"Brandon--Souris","Brandon--Souris"," 110","Souris-Glenwood",N,N,"",3,519,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,33
+46001,"Brandon--Souris","Brandon--Souris"," 111","Carroll",N,N,"",0,350,"Jackson","","Grant","Conservative","Conservateur",N,Y,161
+46001,"Brandon--Souris","Brandon--Souris"," 111","Carroll",N,N,"",0,350,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 111","Carroll",N,N,"",0,350,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,17
+46001,"Brandon--Souris","Brandon--Souris"," 112","Sinclair",N,N,"",1,248,"Jackson","","Grant","Conservative","Conservateur",N,Y,113
+46001,"Brandon--Souris","Brandon--Souris"," 112","Sinclair",N,N,"",1,248,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46001,"Brandon--Souris","Brandon--Souris"," 112","Sinclair",N,N,"",1,248,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 113","Methven",N,N,"",9,380,"Jackson","","Grant","Conservative","Conservateur",N,Y,197
+46001,"Brandon--Souris","Brandon--Souris"," 113","Methven",N,N,"",9,380,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46001,"Brandon--Souris","Brandon--Souris"," 113","Methven",N,N,"",9,380,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,26
+46001,"Brandon--Souris","Brandon--Souris"," 114","Wawanesa",N,N,"",4,458,"Jackson","","Grant","Conservative","Conservateur",N,Y,221
+46001,"Brandon--Souris","Brandon--Souris"," 114","Wawanesa",N,N,"",4,458,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46001,"Brandon--Souris","Brandon--Souris"," 114","Wawanesa",N,N,"",4,458,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,68
+46001,"Brandon--Souris","Brandon--Souris"," 115","Nesbitt",N,N,"",3,461,"Jackson","","Grant","Conservative","Conservateur",N,Y,204
+46001,"Brandon--Souris","Brandon--Souris"," 115","Nesbitt",N,N,"",3,461,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46001,"Brandon--Souris","Brandon--Souris"," 115","Nesbitt",N,N,"",3,461,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,50
+46001,"Brandon--Souris","Brandon--Souris"," 116","Stockton",N,N,"",0,448,"Jackson","","Grant","Conservative","Conservateur",N,Y,147
+46001,"Brandon--Souris","Brandon--Souris"," 116","Stockton",N,N,"",0,448,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46001,"Brandon--Souris","Brandon--Souris"," 116","Stockton",N,N,"",0,448,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,27
+46001,"Brandon--Souris","Brandon--Souris"," 117","Glenboro-South Cypress",N,N,"",1,441,"Jackson","","Grant","Conservative","Conservateur",N,Y,119
+46001,"Brandon--Souris","Brandon--Souris"," 117","Glenboro-South Cypress",N,N,"",1,441,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46001,"Brandon--Souris","Brandon--Souris"," 117","Glenboro-South Cypress",N,N,"",1,441,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,31
+46001,"Brandon--Souris","Brandon--Souris"," 117-1","Swan Lake 7A",N,N,"117",0,15,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 117-1","Swan Lake 7A",N,N,"117",0,15,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 117-1","Swan Lake 7A",N,N,"117",0,15,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 118","Cypress River",N,N,"",2,411,"Jackson","","Grant","Conservative","Conservateur",N,Y,191
+46001,"Brandon--Souris","Brandon--Souris"," 118","Cypress River",N,N,"",2,411,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46001,"Brandon--Souris","Brandon--Souris"," 118","Cypress River",N,N,"",2,411,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,20
+46001,"Brandon--Souris","Brandon--Souris"," 119","Grande-Clairière",N,N,"",1,368,"Jackson","","Grant","Conservative","Conservateur",N,Y,107
+46001,"Brandon--Souris","Brandon--Souris"," 119","Grande-Clairière",N,N,"",1,368,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46001,"Brandon--Souris","Brandon--Souris"," 119","Grande-Clairière",N,N,"",1,368,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,9
+46001,"Brandon--Souris","Brandon--Souris"," 120","Holland",N,N,"",0,443,"Jackson","","Grant","Conservative","Conservateur",N,Y,216
+46001,"Brandon--Souris","Brandon--Souris"," 120","Holland",N,N,"",0,443,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46001,"Brandon--Souris","Brandon--Souris"," 120","Holland",N,N,"",0,443,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,37
+46001,"Brandon--Souris","Brandon--Souris"," 121","Argue",N,N,"",0,460,"Jackson","","Grant","Conservative","Conservateur",N,Y,276
+46001,"Brandon--Souris","Brandon--Souris"," 121","Argue",N,N,"",0,460,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46001,"Brandon--Souris","Brandon--Souris"," 121","Argue",N,N,"",0,460,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,40
+46001,"Brandon--Souris","Brandon--Souris"," 122","Elgin--Minto",N,N,"",1,442,"Jackson","","Grant","Conservative","Conservateur",N,Y,233
+46001,"Brandon--Souris","Brandon--Souris"," 122","Elgin--Minto",N,N,"",1,442,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46001,"Brandon--Souris","Brandon--Souris"," 122","Elgin--Minto",N,N,"",1,442,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,30
+46001,"Brandon--Souris","Brandon--Souris"," 123","Dunrea",N,N,"",1,329,"Jackson","","Grant","Conservative","Conservateur",N,Y,174
+46001,"Brandon--Souris","Brandon--Souris"," 123","Dunrea",N,N,"",1,329,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46001,"Brandon--Souris","Brandon--Souris"," 123","Dunrea",N,N,"",1,329,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,21
+46001,"Brandon--Souris","Brandon--Souris"," 124","Greenway",N,N,"",2,407,"Jackson","","Grant","Conservative","Conservateur",N,Y,197
+46001,"Brandon--Souris","Brandon--Souris"," 124","Greenway",N,N,"",2,407,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+46001,"Brandon--Souris","Brandon--Souris"," 124","Greenway",N,N,"",2,407,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,40
+46001,"Brandon--Souris","Brandon--Souris"," 125","Belmont",N,N,"",2,470,"Jackson","","Grant","Conservative","Conservateur",N,Y,227
+46001,"Brandon--Souris","Brandon--Souris"," 125","Belmont",N,N,"",2,470,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46001,"Brandon--Souris","Brandon--Souris"," 125","Belmont",N,N,"",2,470,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,55
+46001,"Brandon--Souris","Brandon--Souris"," 126","Melita",N,N,"",0,403,"Jackson","","Grant","Conservative","Conservateur",N,Y,132
+46001,"Brandon--Souris","Brandon--Souris"," 126","Melita",N,N,"",0,403,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46001,"Brandon--Souris","Brandon--Souris"," 126","Melita",N,N,"",0,403,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,28
+46001,"Brandon--Souris","Brandon--Souris"," 127","Melita",N,N,"",2,361,"Jackson","","Grant","Conservative","Conservateur",N,Y,119
+46001,"Brandon--Souris","Brandon--Souris"," 127","Melita",N,N,"",2,361,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46001,"Brandon--Souris","Brandon--Souris"," 127","Melita",N,N,"",2,361,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,11
+46001,"Brandon--Souris","Brandon--Souris"," 128","Medora",N,N,"",0,362,"Jackson","","Grant","Conservative","Conservateur",N,Y,154
+46001,"Brandon--Souris","Brandon--Souris"," 128","Medora",N,N,"",0,362,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46001,"Brandon--Souris","Brandon--Souris"," 128","Medora",N,N,"",0,362,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,17
+46001,"Brandon--Souris","Brandon--Souris"," 129","Ninette",N,N,"",0,392,"Jackson","","Grant","Conservative","Conservateur",N,Y,150
+46001,"Brandon--Souris","Brandon--Souris"," 129","Ninette",N,N,"",0,392,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46001,"Brandon--Souris","Brandon--Souris"," 129","Ninette",N,N,"",0,392,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,45
+46001,"Brandon--Souris","Brandon--Souris"," 130","Pierson",N,N,"",2,424,"Jackson","","Grant","Conservative","Conservateur",N,Y,207
+46001,"Brandon--Souris","Brandon--Souris"," 130","Pierson",N,N,"",2,424,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46001,"Brandon--Souris","Brandon--Souris"," 130","Pierson",N,N,"",2,424,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,21
+46001,"Brandon--Souris","Brandon--Souris"," 131","Glenora",N,N,"",1,369,"Jackson","","Grant","Conservative","Conservateur",N,Y,218
+46001,"Brandon--Souris","Brandon--Souris"," 131","Glenora",N,N,"",1,369,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46001,"Brandon--Souris","Brandon--Souris"," 131","Glenora",N,N,"",1,369,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,27
+46001,"Brandon--Souris","Brandon--Souris"," 132","Deloraine-Winchester",N,N,"",1,427,"Jackson","","Grant","Conservative","Conservateur",N,Y,207
+46001,"Brandon--Souris","Brandon--Souris"," 132","Deloraine-Winchester",N,N,"",1,427,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 132","Deloraine-Winchester",N,N,"",1,427,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,51
+46001,"Brandon--Souris","Brandon--Souris"," 133","Deloraine",N,N,"",7,429,"Jackson","","Grant","Conservative","Conservateur",N,Y,193
+46001,"Brandon--Souris","Brandon--Souris"," 133","Deloraine",N,N,"",7,429,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46001,"Brandon--Souris","Brandon--Souris"," 133","Deloraine",N,N,"",7,429,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,54
+46001,"Brandon--Souris","Brandon--Souris"," 134","Goodlands",N,N,"",0,323,"Jackson","","Grant","Conservative","Conservateur",N,Y,186
+46001,"Brandon--Souris","Brandon--Souris"," 134","Goodlands",N,N,"",0,323,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46001,"Brandon--Souris","Brandon--Souris"," 134","Goodlands",N,N,"",0,323,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,21
+46001,"Brandon--Souris","Brandon--Souris"," 135","Whitewater",N,N,"",1,258,"Jackson","","Grant","Conservative","Conservateur",N,Y,112
+46001,"Brandon--Souris","Brandon--Souris"," 135","Whitewater",N,N,"",1,258,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46001,"Brandon--Souris","Brandon--Souris"," 135","Whitewater",N,N,"",1,258,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 136","Boissevain-Morton",N,N,"",0,444,"Jackson","","Grant","Conservative","Conservateur",N,Y,154
+46001,"Brandon--Souris","Brandon--Souris"," 136","Boissevain-Morton",N,N,"",0,444,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46001,"Brandon--Souris","Brandon--Souris"," 136","Boissevain-Morton",N,N,"",0,444,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,33
+46001,"Brandon--Souris","Brandon--Souris"," 137","Boissevain-Morton",N,N,"",0,348,"Jackson","","Grant","Conservative","Conservateur",N,Y,95
+46001,"Brandon--Souris","Brandon--Souris"," 137","Boissevain-Morton",N,N,"",0,348,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 137","Boissevain-Morton",N,N,"",0,348,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,27
+46001,"Brandon--Souris","Brandon--Souris"," 138","Boissevain-Morton",N,N,"",2,413,"Jackson","","Grant","Conservative","Conservateur",N,Y,112
+46001,"Brandon--Souris","Brandon--Souris"," 138","Boissevain-Morton",N,N,"",2,413,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46001,"Brandon--Souris","Brandon--Souris"," 138","Boissevain-Morton",N,N,"",2,413,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,23
+46001,"Brandon--Souris","Brandon--Souris"," 139","Mountainside",N,N,"",2,232,"Jackson","","Grant","Conservative","Conservateur",N,Y,97
+46001,"Brandon--Souris","Brandon--Souris"," 139","Mountainside",N,N,"",2,232,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46001,"Brandon--Souris","Brandon--Souris"," 139","Mountainside",N,N,"",2,232,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,12
+46001,"Brandon--Souris","Brandon--Souris"," 140","Coulter--Wascada",N,N,"",2,281,"Jackson","","Grant","Conservative","Conservateur",N,Y,150
+46001,"Brandon--Souris","Brandon--Souris"," 140","Coulter--Wascada",N,N,"",2,281,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46001,"Brandon--Souris","Brandon--Souris"," 140","Coulter--Wascada",N,N,"",2,281,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,23
+46001,"Brandon--Souris","Brandon--Souris"," 141","Pilot Mound",N,N,"",0,277,"Jackson","","Grant","Conservative","Conservateur",N,Y,162
+46001,"Brandon--Souris","Brandon--Souris"," 141","Pilot Mound",N,N,"",0,277,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46001,"Brandon--Souris","Brandon--Souris"," 141","Pilot Mound",N,N,"",0,277,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,14
+46001,"Brandon--Souris","Brandon--Souris"," 142","Pilot Mound",N,N,"",3,449,"Jackson","","Grant","Conservative","Conservateur",N,Y,145
+46001,"Brandon--Souris","Brandon--Souris"," 142","Pilot Mound",N,N,"",3,449,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46001,"Brandon--Souris","Brandon--Souris"," 142","Pilot Mound",N,N,"",3,449,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,65
+46001,"Brandon--Souris","Brandon--Souris"," 143","Killarney",N,N,"",0,365,"Jackson","","Grant","Conservative","Conservateur",N,Y,102
+46001,"Brandon--Souris","Brandon--Souris"," 143","Killarney",N,N,"",0,365,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46001,"Brandon--Souris","Brandon--Souris"," 143","Killarney",N,N,"",0,365,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,30
+46001,"Brandon--Souris","Brandon--Souris"," 144","Killarney",N,N,"",0,399,"Jackson","","Grant","Conservative","Conservateur",N,Y,121
+46001,"Brandon--Souris","Brandon--Souris"," 144","Killarney",N,N,"",0,399,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46001,"Brandon--Souris","Brandon--Souris"," 144","Killarney",N,N,"",0,399,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,35
+46001,"Brandon--Souris","Brandon--Souris"," 145","Killarney",N,N,"",0,371,"Jackson","","Grant","Conservative","Conservateur",N,Y,116
+46001,"Brandon--Souris","Brandon--Souris"," 145","Killarney",N,N,"",0,371,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46001,"Brandon--Souris","Brandon--Souris"," 145","Killarney",N,N,"",0,371,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,35
+46001,"Brandon--Souris","Brandon--Souris"," 146","Killarney - Turtle Mountain",N,N,"",1,376,"Jackson","","Grant","Conservative","Conservateur",N,Y,83
+46001,"Brandon--Souris","Brandon--Souris"," 146","Killarney - Turtle Mountain",N,N,"",1,376,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46001,"Brandon--Souris","Brandon--Souris"," 146","Killarney - Turtle Mountain",N,N,"",1,376,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,34
+46001,"Brandon--Souris","Brandon--Souris"," 147","Killarney - Turtle Mountain",N,N,"",0,375,"Jackson","","Grant","Conservative","Conservateur",N,Y,75
+46001,"Brandon--Souris","Brandon--Souris"," 147","Killarney - Turtle Mountain",N,N,"",0,375,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46001,"Brandon--Souris","Brandon--Souris"," 147","Killarney - Turtle Mountain",N,N,"",0,375,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,31
+46001,"Brandon--Souris","Brandon--Souris"," 148","Ninga",N,N,"",5,431,"Jackson","","Grant","Conservative","Conservateur",N,Y,142
+46001,"Brandon--Souris","Brandon--Souris"," 148","Ninga",N,N,"",5,431,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46001,"Brandon--Souris","Brandon--Souris"," 148","Ninga",N,N,"",5,431,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,20
+46001,"Brandon--Souris","Brandon--Souris"," 149","St. Leon",N,N,"",0,427,"Jackson","","Grant","Conservative","Conservateur",N,Y,149
+46001,"Brandon--Souris","Brandon--Souris"," 149","St. Leon",N,N,"",0,427,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46001,"Brandon--Souris","Brandon--Souris"," 149","St. Leon",N,N,"",0,427,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,26
+46001,"Brandon--Souris","Brandon--Souris"," 150","Manitou",N,N,"",0,326,"Jackson","","Grant","Conservative","Conservateur",N,Y,86
+46001,"Brandon--Souris","Brandon--Souris"," 150","Manitou",N,N,"",0,326,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46001,"Brandon--Souris","Brandon--Souris"," 150","Manitou",N,N,"",0,326,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,20
+46001,"Brandon--Souris","Brandon--Souris"," 151","Manitou",N,N,"",0,300,"Jackson","","Grant","Conservative","Conservateur",N,Y,105
+46001,"Brandon--Souris","Brandon--Souris"," 151","Manitou",N,N,"",0,300,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46001,"Brandon--Souris","Brandon--Souris"," 151","Manitou",N,N,"",0,300,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,17
+46001,"Brandon--Souris","Brandon--Souris"," 152","Manitou",N,N,"",2,391,"Jackson","","Grant","Conservative","Conservateur",N,Y,146
+46001,"Brandon--Souris","Brandon--Souris"," 152","Manitou",N,N,"",2,391,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46001,"Brandon--Souris","Brandon--Souris"," 152","Manitou",N,N,"",2,391,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,12
+46001,"Brandon--Souris","Brandon--Souris"," 153","Cartwright",N,N,"",1,432,"Jackson","","Grant","Conservative","Conservateur",N,Y,172
+46001,"Brandon--Souris","Brandon--Souris"," 153","Cartwright",N,N,"",1,432,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46001,"Brandon--Souris","Brandon--Souris"," 153","Cartwright",N,N,"",1,432,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,40
+46001,"Brandon--Souris","Brandon--Souris"," 154","Cartwright-Roblin",N,N,"",9,262,"Jackson","","Grant","Conservative","Conservateur",N,Y,96
+46001,"Brandon--Souris","Brandon--Souris"," 154","Cartwright-Roblin",N,N,"",9,262,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46001,"Brandon--Souris","Brandon--Souris"," 154","Cartwright-Roblin",N,N,"",9,262,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,7
+46001,"Brandon--Souris","Brandon--Souris"," 155","La Rivière",N,N,"",0,374,"Jackson","","Grant","Conservative","Conservateur",N,Y,90
+46001,"Brandon--Souris","Brandon--Souris"," 155","La Rivière",N,N,"",0,374,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 155","La Rivière",N,N,"",0,374,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,24
+46001,"Brandon--Souris","Brandon--Souris"," 156","Mather",N,N,"",0,266,"Jackson","","Grant","Conservative","Conservateur",N,Y,104
+46001,"Brandon--Souris","Brandon--Souris"," 156","Mather",N,N,"",0,266,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46001,"Brandon--Souris","Brandon--Souris"," 156","Mather",N,N,"",0,266,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,37
+46001,"Brandon--Souris","Brandon--Souris"," 157","Pembina",N,N,"",0,385,"Jackson","","Grant","Conservative","Conservateur",N,Y,212
+46001,"Brandon--Souris","Brandon--Souris"," 157","Pembina",N,N,"",0,385,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 157","Pembina",N,N,"",0,385,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,32
+46001,"Brandon--Souris","Brandon--Souris"," 158","Crystal City",N,N,"",2,270,"Jackson","","Grant","Conservative","Conservateur",N,Y,111
+46001,"Brandon--Souris","Brandon--Souris"," 158","Crystal City",N,N,"",2,270,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46001,"Brandon--Souris","Brandon--Souris"," 158","Crystal City",N,N,"",2,270,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,12
+46001,"Brandon--Souris","Brandon--Souris"," 400","Brandon",N,N,"",5,137,"Jackson","","Grant","Conservative","Conservateur",N,Y,60
+46001,"Brandon--Souris","Brandon--Souris"," 400","Brandon",N,N,"",5,137,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46001,"Brandon--Souris","Brandon--Souris"," 400","Brandon",N,N,"",5,137,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,24
+46001,"Brandon--Souris","Brandon--Souris"," 401","Brandon",N,N,"",2,240,"Jackson","","Grant","Conservative","Conservateur",N,Y,84
+46001,"Brandon--Souris","Brandon--Souris"," 401","Brandon",N,N,"",2,240,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46001,"Brandon--Souris","Brandon--Souris"," 401","Brandon",N,N,"",2,240,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,80
+46001,"Brandon--Souris","Brandon--Souris"," 402","Brandon",N,N,"",5,124,"Jackson","","Grant","Conservative","Conservateur",N,Y,28
+46001,"Brandon--Souris","Brandon--Souris"," 402","Brandon",N,N,"",5,124,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46001,"Brandon--Souris","Brandon--Souris"," 402","Brandon",N,N,"",5,124,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,28
+46001,"Brandon--Souris","Brandon--Souris"," 403","Brandon",N,N,"",0,135,"Jackson","","Grant","Conservative","Conservateur",N,Y,41
+46001,"Brandon--Souris","Brandon--Souris"," 403","Brandon",N,N,"",0,135,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 403","Brandon",N,N,"",0,135,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,45
+46001,"Brandon--Souris","Brandon--Souris"," 404","Brandon",N,N,"",5,164,"Jackson","","Grant","Conservative","Conservateur",N,Y,47
+46001,"Brandon--Souris","Brandon--Souris"," 404","Brandon",N,N,"",5,164,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46001,"Brandon--Souris","Brandon--Souris"," 404","Brandon",N,N,"",5,164,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,28
+46001,"Brandon--Souris","Brandon--Souris"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,23,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,23,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 500","Mobile poll/Bureau itinérant",N,N,"501",0,23,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 501","Mobile poll/Bureau itinérant",N,N,"",4,28,"Jackson","","Grant","Conservative","Conservateur",N,Y,37
+46001,"Brandon--Souris","Brandon--Souris"," 501","Mobile poll/Bureau itinérant",N,N,"",4,28,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46001,"Brandon--Souris","Brandon--Souris"," 501","Mobile poll/Bureau itinérant",N,N,"",4,28,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,8
+46001,"Brandon--Souris","Brandon--Souris"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,55,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,55,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 502","Mobile poll/Bureau itinérant",N,N,"501",0,55,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 503","Mobile poll/Bureau itinérant",N,N,"",0,6,"Jackson","","Grant","Conservative","Conservateur",N,Y,14
+46001,"Brandon--Souris","Brandon--Souris"," 503","Mobile poll/Bureau itinérant",N,N,"",0,6,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46001,"Brandon--Souris","Brandon--Souris"," 503","Mobile poll/Bureau itinérant",N,N,"",0,6,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,9
+46001,"Brandon--Souris","Brandon--Souris"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,18,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,18,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,18,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 505","Mobile poll/Bureau itinérant",N,N,"508",0,71,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 505","Mobile poll/Bureau itinérant",N,N,"508",0,71,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 505","Mobile poll/Bureau itinérant",N,N,"508",0,71,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,62,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,62,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,62,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 507","Mobile poll/Bureau itinérant",N,N,"",0,99,"Jackson","","Grant","Conservative","Conservateur",N,Y,41
+46001,"Brandon--Souris","Brandon--Souris"," 507","Mobile poll/Bureau itinérant",N,N,"",0,99,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46001,"Brandon--Souris","Brandon--Souris"," 507","Mobile poll/Bureau itinérant",N,N,"",0,99,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,18
+46001,"Brandon--Souris","Brandon--Souris"," 508","Mobile poll/Bureau itinérant",N,N,"",0,97,"Jackson","","Grant","Conservative","Conservateur",N,Y,31
+46001,"Brandon--Souris","Brandon--Souris"," 508","Mobile poll/Bureau itinérant",N,N,"",0,97,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46001,"Brandon--Souris","Brandon--Souris"," 508","Mobile poll/Bureau itinérant",N,N,"",0,97,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,17
+46001,"Brandon--Souris","Brandon--Souris"," 509","Mobile poll/Bureau itinérant",N,N,"514",0,13,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 509","Mobile poll/Bureau itinérant",N,N,"514",0,13,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 509","Mobile poll/Bureau itinérant",N,N,"514",0,13,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 510","Mobile poll/Bureau itinérant",N,N,"",0,41,"Jackson","","Grant","Conservative","Conservateur",N,Y,41
+46001,"Brandon--Souris","Brandon--Souris"," 510","Mobile poll/Bureau itinérant",N,N,"",0,41,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46001,"Brandon--Souris","Brandon--Souris"," 510","Mobile poll/Bureau itinérant",N,N,"",0,41,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,7
+46001,"Brandon--Souris","Brandon--Souris"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,23,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,23,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,23,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 512","Mobile poll/Bureau itinérant",N,N,"514",0,17,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 512","Mobile poll/Bureau itinérant",N,N,"514",0,17,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 512","Mobile poll/Bureau itinérant",N,N,"514",0,17,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 513","Mobile poll/Bureau itinérant",N,N,"510",0,22,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 513","Mobile poll/Bureau itinérant",N,N,"510",0,22,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 513","Mobile poll/Bureau itinérant",N,N,"510",0,22,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 514","Mobile poll/Bureau itinérant",N,N,"",1,25,"Jackson","","Grant","Conservative","Conservateur",N,Y,30
+46001,"Brandon--Souris","Brandon--Souris"," 514","Mobile poll/Bureau itinérant",N,N,"",1,25,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46001,"Brandon--Souris","Brandon--Souris"," 514","Mobile poll/Bureau itinérant",N,N,"",1,25,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,4
+46001,"Brandon--Souris","Brandon--Souris"," 515","Mobile poll/Bureau itinérant",N,N,"523",0,20,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 515","Mobile poll/Bureau itinérant",N,N,"523",0,20,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 515","Mobile poll/Bureau itinérant",N,N,"523",0,20,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 516","Mobile poll/Bureau itinérant",N,N,"519",0,33,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 516","Mobile poll/Bureau itinérant",N,N,"519",0,33,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 516","Mobile poll/Bureau itinérant",N,N,"519",0,33,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 517","Mobile poll/Bureau itinérant",N,N,"519",0,7,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 517","Mobile poll/Bureau itinérant",N,N,"519",0,7,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 517","Mobile poll/Bureau itinérant",N,N,"519",0,7,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 518","Mobile poll/Bureau itinérant",N,N,"519",0,15,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 518","Mobile poll/Bureau itinérant",N,N,"519",0,15,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 518","Mobile poll/Bureau itinérant",N,N,"519",0,15,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 519","Mobile poll/Bureau itinérant",N,N,"",0,13,"Jackson","","Grant","Conservative","Conservateur",N,Y,32
+46001,"Brandon--Souris","Brandon--Souris"," 519","Mobile poll/Bureau itinérant",N,N,"",0,13,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46001,"Brandon--Souris","Brandon--Souris"," 519","Mobile poll/Bureau itinérant",N,N,"",0,13,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,5
+46001,"Brandon--Souris","Brandon--Souris"," 520","Mobile poll/Bureau itinérant",N,N,"",3,16,"Jackson","","Grant","Conservative","Conservateur",N,Y,27
+46001,"Brandon--Souris","Brandon--Souris"," 520","Mobile poll/Bureau itinérant",N,N,"",3,16,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46001,"Brandon--Souris","Brandon--Souris"," 520","Mobile poll/Bureau itinérant",N,N,"",3,16,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,10
+46001,"Brandon--Souris","Brandon--Souris"," 521","Mobile poll/Bureau itinérant",N,N,"520",0,58,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 521","Mobile poll/Bureau itinérant",N,N,"520",0,58,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 521","Mobile poll/Bureau itinérant",N,N,"520",0,58,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 522","Mobile poll/Bureau itinérant",N,N,"523",0,19,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 522","Mobile poll/Bureau itinérant",N,N,"523",0,19,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 522","Mobile poll/Bureau itinérant",N,N,"523",0,19,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 523","Mobile poll/Bureau itinérant",N,N,"",2,49,"Jackson","","Grant","Conservative","Conservateur",N,Y,30
+46001,"Brandon--Souris","Brandon--Souris"," 523","Mobile poll/Bureau itinérant",N,N,"",2,49,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46001,"Brandon--Souris","Brandon--Souris"," 523","Mobile poll/Bureau itinérant",N,N,"",2,49,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,15
+46001,"Brandon--Souris","Brandon--Souris"," 524","Mobile poll/Bureau itinérant",N,N,"523",0,24,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 524","Mobile poll/Bureau itinérant",N,N,"523",0,24,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 524","Mobile poll/Bureau itinérant",N,N,"523",0,24,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 525","Mobile poll/Bureau itinérant",N,N,"520",0,1,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 525","Mobile poll/Bureau itinérant",N,N,"520",0,1,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 525","Mobile poll/Bureau itinérant",N,N,"520",0,1,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 600","Elkhorn--Wallace",N,N,"",0,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,302
+46001,"Brandon--Souris","Brandon--Souris"," 600","Elkhorn--Wallace",N,N,"",0,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46001,"Brandon--Souris","Brandon--Souris"," 600","Elkhorn--Wallace",N,N,"",0,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,33
+46001,"Brandon--Souris","Brandon--Souris"," 601","Elkhorn--Wallace",N,N,"",8,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,636
+46001,"Brandon--Souris","Brandon--Souris"," 601","Elkhorn--Wallace",N,N,"",8,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+46001,"Brandon--Souris","Brandon--Souris"," 601","Elkhorn--Wallace",N,N,"",8,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,149
+46001,"Brandon--Souris","Brandon--Souris"," 602","Oak Lake 59",N,N,"601",0,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 602","Oak Lake 59",N,N,"601",0,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 602","Oak Lake 59",N,N,"601",0,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 603","Sioux Valley Dakota Nation",N,N,"",0,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,2
+46001,"Brandon--Souris","Brandon--Souris"," 603","Sioux Valley Dakota Nation",N,N,"",0,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46001,"Brandon--Souris","Brandon--Souris"," 603","Sioux Valley Dakota Nation",N,N,"",0,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 604","Souris",N,N,"",6,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,450
+46001,"Brandon--Souris","Brandon--Souris"," 604","Souris",N,N,"",6,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+46001,"Brandon--Souris","Brandon--Souris"," 604","Souris",N,N,"",6,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,135
+46001,"Brandon--Souris","Brandon--Souris"," 605","Whitehead",N,N,"",5,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,707
+46001,"Brandon--Souris","Brandon--Souris"," 605","Whitehead",N,N,"",5,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,233
+46001,"Brandon--Souris","Brandon--Souris"," 605","Whitehead",N,N,"",5,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,410
+46001,"Brandon--Souris","Brandon--Souris"," 606","Brandon",N,N,"",9,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,380
+46001,"Brandon--Souris","Brandon--Souris"," 606","Brandon",N,N,"",9,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,159
+46001,"Brandon--Souris","Brandon--Souris"," 606","Brandon",N,N,"",9,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,292
+46001,"Brandon--Souris","Brandon--Souris"," 607","Brandon",N,N,"",5,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,409
+46001,"Brandon--Souris","Brandon--Souris"," 607","Brandon",N,N,"",5,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,141
+46001,"Brandon--Souris","Brandon--Souris"," 607","Brandon",N,N,"",5,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,277
+46001,"Brandon--Souris","Brandon--Souris"," 608","Brandon",N,N,"",10,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,440
+46001,"Brandon--Souris","Brandon--Souris"," 608","Brandon",N,N,"",10,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,195
+46001,"Brandon--Souris","Brandon--Souris"," 608","Brandon",N,N,"",10,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,334
+46001,"Brandon--Souris","Brandon--Souris"," 609","Brandon",N,N,"",6,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,585
+46001,"Brandon--Souris","Brandon--Souris"," 609","Brandon",N,N,"",6,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,244
+46001,"Brandon--Souris","Brandon--Souris"," 609","Brandon",N,N,"",6,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,414
+46001,"Brandon--Souris","Brandon--Souris"," 610","Brandon",N,N,"",11,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,868
+46001,"Brandon--Souris","Brandon--Souris"," 610","Brandon",N,N,"",11,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,276
+46001,"Brandon--Souris","Brandon--Souris"," 610","Brandon",N,N,"",11,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,496
+46001,"Brandon--Souris","Brandon--Souris"," 611","Brandon",N,N,"",13,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,653
+46001,"Brandon--Souris","Brandon--Souris"," 611","Brandon",N,N,"",13,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,180
+46001,"Brandon--Souris","Brandon--Souris"," 611","Brandon",N,N,"",13,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,350
+46001,"Brandon--Souris","Brandon--Souris"," 612","Carberry",N,N,"",2,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,152
+46001,"Brandon--Souris","Brandon--Souris"," 612","Carberry",N,N,"",2,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46001,"Brandon--Souris","Brandon--Souris"," 612","Carberry",N,N,"",2,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,63
+46001,"Brandon--Souris","Brandon--Souris"," 613","Glenboro",N,N,"",2,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,268
+46001,"Brandon--Souris","Brandon--Souris"," 613","Glenboro",N,N,"",2,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46001,"Brandon--Souris","Brandon--Souris"," 613","Glenboro",N,N,"",2,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,67
+46001,"Brandon--Souris","Brandon--Souris"," 614","Swan Lake 7A",N,N,"613",0,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,0
+46001,"Brandon--Souris","Brandon--Souris"," 614","Swan Lake 7A",N,N,"613",0,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 614","Swan Lake 7A",N,N,"613",0,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,0
+46001,"Brandon--Souris","Brandon--Souris"," 615","Melita",N,N,"",4,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,329
+46001,"Brandon--Souris","Brandon--Souris"," 615","Melita",N,N,"",4,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46001,"Brandon--Souris","Brandon--Souris"," 615","Melita",N,N,"",4,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,62
+46001,"Brandon--Souris","Brandon--Souris"," 616","Deloraine--Boissevain-Morton",N,N,"",0,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,388
+46001,"Brandon--Souris","Brandon--Souris"," 616","Deloraine--Boissevain-Morton",N,N,"",0,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+46001,"Brandon--Souris","Brandon--Souris"," 616","Deloraine--Boissevain-Morton",N,N,"",0,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,124
+46001,"Brandon--Souris","Brandon--Souris"," 617","Killarney-Turtle Mountain",N,N,"",6,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,550
+46001,"Brandon--Souris","Brandon--Souris"," 617","Killarney-Turtle Mountain",N,N,"",6,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+46001,"Brandon--Souris","Brandon--Souris"," 617","Killarney-Turtle Mountain",N,N,"",6,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,204
+46001,"Brandon--Souris","Brandon--Souris"," 618","Pilot Mound",N,N,"",1,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,276
+46001,"Brandon--Souris","Brandon--Souris"," 618","Pilot Mound",N,N,"",1,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46001,"Brandon--Souris","Brandon--Souris"," 618","Pilot Mound",N,N,"",1,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,98
+46001,"Brandon--Souris","Brandon--Souris"," 619","Manitou",N,N,"",2,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,256
+46001,"Brandon--Souris","Brandon--Souris"," 619","Manitou",N,N,"",2,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46001,"Brandon--Souris","Brandon--Souris"," 619","Manitou",N,N,"",2,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,101
+46001,"Brandon--Souris","Brandon--Souris"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,200,"Jackson","","Grant","Conservative","Conservateur",N,Y,1512
+46001,"Brandon--Souris","Brandon--Souris"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,200,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,365
+46001,"Brandon--Souris","Brandon--Souris"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",0,200,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,669
+46001,"Brandon--Souris","Brandon--Souris"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",44,0,"Jackson","","Grant","Conservative","Conservateur",N,Y,884
+46001,"Brandon--Souris","Brandon--Souris"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",44,0,"Robinson","","Quentin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,264
+46001,"Brandon--Souris","Brandon--Souris"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",44,0,"Tarar","","Ghazanfar Ali","Liberal","Libéral",N,N,458

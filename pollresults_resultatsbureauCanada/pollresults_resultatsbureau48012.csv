@@ -1,0 +1,971 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+48012,"Calgary Shepard","Calgary Shepard"," 1","Calgary",N,N,"32",0,242,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 1","Calgary",N,N,"32",0,242,"Khan","","Gul","Liberal","Libéral",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 1","Calgary",N,N,"32",0,242,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,0
+48012,"Calgary Shepard","Calgary Shepard"," 1","Calgary",N,N,"32",0,242,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 1","Calgary",N,N,"32",0,242,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 2","Calgary",N,N,"",0,542,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 2","Calgary",N,N,"",0,542,"Khan","","Gul","Liberal","Libéral",N,N,43
+48012,"Calgary Shepard","Calgary Shepard"," 2","Calgary",N,N,"",0,542,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,127
+48012,"Calgary Shepard","Calgary Shepard"," 2","Calgary",N,N,"",0,542,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 2","Calgary",N,N,"",0,542,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 3","Calgary",N,N,"",0,436,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 3","Calgary",N,N,"",0,436,"Khan","","Gul","Liberal","Libéral",N,N,42
+48012,"Calgary Shepard","Calgary Shepard"," 3","Calgary",N,N,"",0,436,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,125
+48012,"Calgary Shepard","Calgary Shepard"," 3","Calgary",N,N,"",0,436,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 3","Calgary",N,N,"",0,436,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 4","Calgary",N,N,"",1,543,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 4","Calgary",N,N,"",1,543,"Khan","","Gul","Liberal","Libéral",N,N,64
+48012,"Calgary Shepard","Calgary Shepard"," 4","Calgary",N,N,"",1,543,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,150
+48012,"Calgary Shepard","Calgary Shepard"," 4","Calgary",N,N,"",1,543,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 4","Calgary",N,N,"",1,543,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 5","Calgary",N,N,"",0,574,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 5","Calgary",N,N,"",0,574,"Khan","","Gul","Liberal","Libéral",N,N,72
+48012,"Calgary Shepard","Calgary Shepard"," 5","Calgary",N,N,"",0,574,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,159
+48012,"Calgary Shepard","Calgary Shepard"," 5","Calgary",N,N,"",0,574,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 5","Calgary",N,N,"",0,574,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 6","Calgary",N,N,"",0,453,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 6","Calgary",N,N,"",0,453,"Khan","","Gul","Liberal","Libéral",N,N,49
+48012,"Calgary Shepard","Calgary Shepard"," 6","Calgary",N,N,"",0,453,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,117
+48012,"Calgary Shepard","Calgary Shepard"," 6","Calgary",N,N,"",0,453,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 6","Calgary",N,N,"",0,453,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48012,"Calgary Shepard","Calgary Shepard"," 7","Calgary",N,N,"",1,529,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 7","Calgary",N,N,"",1,529,"Khan","","Gul","Liberal","Libéral",N,N,64
+48012,"Calgary Shepard","Calgary Shepard"," 7","Calgary",N,N,"",1,529,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,184
+48012,"Calgary Shepard","Calgary Shepard"," 7","Calgary",N,N,"",1,529,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 7","Calgary",N,N,"",1,529,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 8","Calgary",N,N,"",2,437,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 8","Calgary",N,N,"",2,437,"Khan","","Gul","Liberal","Libéral",N,N,53
+48012,"Calgary Shepard","Calgary Shepard"," 8","Calgary",N,N,"",2,437,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,144
+48012,"Calgary Shepard","Calgary Shepard"," 8","Calgary",N,N,"",2,437,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 8","Calgary",N,N,"",2,437,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 9","Calgary",N,N,"",1,525,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 9","Calgary",N,N,"",1,525,"Khan","","Gul","Liberal","Libéral",N,N,47
+48012,"Calgary Shepard","Calgary Shepard"," 9","Calgary",N,N,"",1,525,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,113
+48012,"Calgary Shepard","Calgary Shepard"," 9","Calgary",N,N,"",1,525,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 9","Calgary",N,N,"",1,525,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 10","Calgary",N,N,"",1,444,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 10","Calgary",N,N,"",1,444,"Khan","","Gul","Liberal","Libéral",N,N,60
+48012,"Calgary Shepard","Calgary Shepard"," 10","Calgary",N,N,"",1,444,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,142
+48012,"Calgary Shepard","Calgary Shepard"," 10","Calgary",N,N,"",1,444,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 10","Calgary",N,N,"",1,444,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 11","Calgary",N,N,"",0,575,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 11","Calgary",N,N,"",0,575,"Khan","","Gul","Liberal","Libéral",N,N,63
+48012,"Calgary Shepard","Calgary Shepard"," 11","Calgary",N,N,"",0,575,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,125
+48012,"Calgary Shepard","Calgary Shepard"," 11","Calgary",N,N,"",0,575,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 11","Calgary",N,N,"",0,575,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+48012,"Calgary Shepard","Calgary Shepard"," 12","Calgary",N,N,"",0,641,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 12","Calgary",N,N,"",0,641,"Khan","","Gul","Liberal","Libéral",N,N,59
+48012,"Calgary Shepard","Calgary Shepard"," 12","Calgary",N,N,"",0,641,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,126
+48012,"Calgary Shepard","Calgary Shepard"," 12","Calgary",N,N,"",0,641,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 12","Calgary",N,N,"",0,641,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 13","Calgary",N,N,"",1,577,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 13","Calgary",N,N,"",1,577,"Khan","","Gul","Liberal","Libéral",N,N,57
+48012,"Calgary Shepard","Calgary Shepard"," 13","Calgary",N,N,"",1,577,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,114
+48012,"Calgary Shepard","Calgary Shepard"," 13","Calgary",N,N,"",1,577,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 13","Calgary",N,N,"",1,577,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48012,"Calgary Shepard","Calgary Shepard"," 14","Calgary",N,N,"",1,453,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 14","Calgary",N,N,"",1,453,"Khan","","Gul","Liberal","Libéral",N,N,33
+48012,"Calgary Shepard","Calgary Shepard"," 14","Calgary",N,N,"",1,453,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,72
+48012,"Calgary Shepard","Calgary Shepard"," 14","Calgary",N,N,"",1,453,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 14","Calgary",N,N,"",1,453,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 15","Calgary",N,N,"",0,517,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 15","Calgary",N,N,"",0,517,"Khan","","Gul","Liberal","Libéral",N,N,69
+48012,"Calgary Shepard","Calgary Shepard"," 15","Calgary",N,N,"",0,517,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,85
+48012,"Calgary Shepard","Calgary Shepard"," 15","Calgary",N,N,"",0,517,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 15","Calgary",N,N,"",0,517,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48012,"Calgary Shepard","Calgary Shepard"," 16","Calgary",N,N,"",2,532,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 16","Calgary",N,N,"",2,532,"Khan","","Gul","Liberal","Libéral",N,N,62
+48012,"Calgary Shepard","Calgary Shepard"," 16","Calgary",N,N,"",2,532,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,109
+48012,"Calgary Shepard","Calgary Shepard"," 16","Calgary",N,N,"",2,532,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 16","Calgary",N,N,"",2,532,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 17","Calgary",N,N,"",0,583,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 17","Calgary",N,N,"",0,583,"Khan","","Gul","Liberal","Libéral",N,N,51
+48012,"Calgary Shepard","Calgary Shepard"," 17","Calgary",N,N,"",0,583,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,120
+48012,"Calgary Shepard","Calgary Shepard"," 17","Calgary",N,N,"",0,583,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 17","Calgary",N,N,"",0,583,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 18","Calgary",N,N,"",4,582,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 18","Calgary",N,N,"",4,582,"Khan","","Gul","Liberal","Libéral",N,N,43
+48012,"Calgary Shepard","Calgary Shepard"," 18","Calgary",N,N,"",4,582,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,123
+48012,"Calgary Shepard","Calgary Shepard"," 18","Calgary",N,N,"",4,582,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 18","Calgary",N,N,"",4,582,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 19","Calgary",N,N,"",0,495,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 19","Calgary",N,N,"",0,495,"Khan","","Gul","Liberal","Libéral",N,N,80
+48012,"Calgary Shepard","Calgary Shepard"," 19","Calgary",N,N,"",0,495,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,121
+48012,"Calgary Shepard","Calgary Shepard"," 19","Calgary",N,N,"",0,495,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 19","Calgary",N,N,"",0,495,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 20","Calgary",N,N,"",0,548,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 20","Calgary",N,N,"",0,548,"Khan","","Gul","Liberal","Libéral",N,N,81
+48012,"Calgary Shepard","Calgary Shepard"," 20","Calgary",N,N,"",0,548,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,157
+48012,"Calgary Shepard","Calgary Shepard"," 20","Calgary",N,N,"",0,548,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 20","Calgary",N,N,"",0,548,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 21","Calgary",N,N,"",1,586,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 21","Calgary",N,N,"",1,586,"Khan","","Gul","Liberal","Libéral",N,N,76
+48012,"Calgary Shepard","Calgary Shepard"," 21","Calgary",N,N,"",1,586,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,206
+48012,"Calgary Shepard","Calgary Shepard"," 21","Calgary",N,N,"",1,586,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 21","Calgary",N,N,"",1,586,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 22","Calgary",N,N,"",1,554,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 22","Calgary",N,N,"",1,554,"Khan","","Gul","Liberal","Libéral",N,N,79
+48012,"Calgary Shepard","Calgary Shepard"," 22","Calgary",N,N,"",1,554,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,172
+48012,"Calgary Shepard","Calgary Shepard"," 22","Calgary",N,N,"",1,554,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 22","Calgary",N,N,"",1,554,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 23","Calgary",N,N,"",0,425,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 23","Calgary",N,N,"",0,425,"Khan","","Gul","Liberal","Libéral",N,N,37
+48012,"Calgary Shepard","Calgary Shepard"," 23","Calgary",N,N,"",0,425,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,120
+48012,"Calgary Shepard","Calgary Shepard"," 23","Calgary",N,N,"",0,425,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 23","Calgary",N,N,"",0,425,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 24","Calgary",N,N,"",0,385,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 24","Calgary",N,N,"",0,385,"Khan","","Gul","Liberal","Libéral",N,N,42
+48012,"Calgary Shepard","Calgary Shepard"," 24","Calgary",N,N,"",0,385,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,69
+48012,"Calgary Shepard","Calgary Shepard"," 24","Calgary",N,N,"",0,385,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 24","Calgary",N,N,"",0,385,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 25","Calgary",N,N,"",2,452,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 25","Calgary",N,N,"",2,452,"Khan","","Gul","Liberal","Libéral",N,N,70
+48012,"Calgary Shepard","Calgary Shepard"," 25","Calgary",N,N,"",2,452,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,101
+48012,"Calgary Shepard","Calgary Shepard"," 25","Calgary",N,N,"",2,452,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 25","Calgary",N,N,"",2,452,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 26","Calgary",N,N,"",1,436,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 26","Calgary",N,N,"",1,436,"Khan","","Gul","Liberal","Libéral",N,N,45
+48012,"Calgary Shepard","Calgary Shepard"," 26","Calgary",N,N,"",1,436,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,122
+48012,"Calgary Shepard","Calgary Shepard"," 26","Calgary",N,N,"",1,436,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 26","Calgary",N,N,"",1,436,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48012,"Calgary Shepard","Calgary Shepard"," 27","Calgary",N,N,"",1,599,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 27","Calgary",N,N,"",1,599,"Khan","","Gul","Liberal","Libéral",N,N,83
+48012,"Calgary Shepard","Calgary Shepard"," 27","Calgary",N,N,"",1,599,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,167
+48012,"Calgary Shepard","Calgary Shepard"," 27","Calgary",N,N,"",1,599,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 27","Calgary",N,N,"",1,599,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48012,"Calgary Shepard","Calgary Shepard"," 28","Calgary",N,N,"",3,616,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 28","Calgary",N,N,"",3,616,"Khan","","Gul","Liberal","Libéral",N,N,87
+48012,"Calgary Shepard","Calgary Shepard"," 28","Calgary",N,N,"",3,616,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,213
+48012,"Calgary Shepard","Calgary Shepard"," 28","Calgary",N,N,"",3,616,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 28","Calgary",N,N,"",3,616,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 29","Calgary",N,N,"",0,609,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 29","Calgary",N,N,"",0,609,"Khan","","Gul","Liberal","Libéral",N,N,73
+48012,"Calgary Shepard","Calgary Shepard"," 29","Calgary",N,N,"",0,609,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,143
+48012,"Calgary Shepard","Calgary Shepard"," 29","Calgary",N,N,"",0,609,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 29","Calgary",N,N,"",0,609,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48012,"Calgary Shepard","Calgary Shepard"," 30","Calgary",N,N,"",1,397,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 30","Calgary",N,N,"",1,397,"Khan","","Gul","Liberal","Libéral",N,N,69
+48012,"Calgary Shepard","Calgary Shepard"," 30","Calgary",N,N,"",1,397,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,104
+48012,"Calgary Shepard","Calgary Shepard"," 30","Calgary",N,N,"",1,397,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 30","Calgary",N,N,"",1,397,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 31","Calgary",N,N,"",0,490,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 31","Calgary",N,N,"",0,490,"Khan","","Gul","Liberal","Libéral",N,N,47
+48012,"Calgary Shepard","Calgary Shepard"," 31","Calgary",N,N,"",0,490,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,131
+48012,"Calgary Shepard","Calgary Shepard"," 31","Calgary",N,N,"",0,490,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 31","Calgary",N,N,"",0,490,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 32","Calgary",N,N,"",0,303,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 32","Calgary",N,N,"",0,303,"Khan","","Gul","Liberal","Libéral",N,N,41
+48012,"Calgary Shepard","Calgary Shepard"," 32","Calgary",N,N,"",0,303,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,143
+48012,"Calgary Shepard","Calgary Shepard"," 32","Calgary",N,N,"",0,303,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 32","Calgary",N,N,"",0,303,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 33","Calgary",N,N,"",0,648,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 33","Calgary",N,N,"",0,648,"Khan","","Gul","Liberal","Libéral",N,N,54
+48012,"Calgary Shepard","Calgary Shepard"," 33","Calgary",N,N,"",0,648,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,161
+48012,"Calgary Shepard","Calgary Shepard"," 33","Calgary",N,N,"",0,648,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 33","Calgary",N,N,"",0,648,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 34","Calgary",N,N,"",1,723,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 34","Calgary",N,N,"",1,723,"Khan","","Gul","Liberal","Libéral",N,N,84
+48012,"Calgary Shepard","Calgary Shepard"," 34","Calgary",N,N,"",1,723,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,197
+48012,"Calgary Shepard","Calgary Shepard"," 34","Calgary",N,N,"",1,723,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 34","Calgary",N,N,"",1,723,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 35","Calgary",N,N,"",0,541,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 35","Calgary",N,N,"",0,541,"Khan","","Gul","Liberal","Libéral",N,N,63
+48012,"Calgary Shepard","Calgary Shepard"," 35","Calgary",N,N,"",0,541,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,148
+48012,"Calgary Shepard","Calgary Shepard"," 35","Calgary",N,N,"",0,541,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 35","Calgary",N,N,"",0,541,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 36","Calgary",N,N,"",0,516,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 36","Calgary",N,N,"",0,516,"Khan","","Gul","Liberal","Libéral",N,N,64
+48012,"Calgary Shepard","Calgary Shepard"," 36","Calgary",N,N,"",0,516,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,163
+48012,"Calgary Shepard","Calgary Shepard"," 36","Calgary",N,N,"",0,516,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 36","Calgary",N,N,"",0,516,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 37","Calgary",N,N,"",1,610,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 37","Calgary",N,N,"",1,610,"Khan","","Gul","Liberal","Libéral",N,N,77
+48012,"Calgary Shepard","Calgary Shepard"," 37","Calgary",N,N,"",1,610,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,161
+48012,"Calgary Shepard","Calgary Shepard"," 37","Calgary",N,N,"",1,610,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 37","Calgary",N,N,"",1,610,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48012,"Calgary Shepard","Calgary Shepard"," 38","Calgary",N,N,"",1,570,"Frasch","","Robert","Green Party","Parti Vert",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 38","Calgary",N,N,"",1,570,"Khan","","Gul","Liberal","Libéral",N,N,82
+48012,"Calgary Shepard","Calgary Shepard"," 38","Calgary",N,N,"",1,570,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,168
+48012,"Calgary Shepard","Calgary Shepard"," 38","Calgary",N,N,"",1,570,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 38","Calgary",N,N,"",1,570,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 39","Calgary",N,N,"",0,569,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 39","Calgary",N,N,"",0,569,"Khan","","Gul","Liberal","Libéral",N,N,83
+48012,"Calgary Shepard","Calgary Shepard"," 39","Calgary",N,N,"",0,569,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,154
+48012,"Calgary Shepard","Calgary Shepard"," 39","Calgary",N,N,"",0,569,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 39","Calgary",N,N,"",0,569,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 40","Calgary",N,N,"",0,424,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 40","Calgary",N,N,"",0,424,"Khan","","Gul","Liberal","Libéral",N,N,57
+48012,"Calgary Shepard","Calgary Shepard"," 40","Calgary",N,N,"",0,424,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,124
+48012,"Calgary Shepard","Calgary Shepard"," 40","Calgary",N,N,"",0,424,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 40","Calgary",N,N,"",0,424,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48012,"Calgary Shepard","Calgary Shepard"," 41","Calgary",N,N,"",0,405,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 41","Calgary",N,N,"",0,405,"Khan","","Gul","Liberal","Libéral",N,N,58
+48012,"Calgary Shepard","Calgary Shepard"," 41","Calgary",N,N,"",0,405,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,161
+48012,"Calgary Shepard","Calgary Shepard"," 41","Calgary",N,N,"",0,405,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 41","Calgary",N,N,"",0,405,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 42","Calgary",N,N,"",0,592,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 42","Calgary",N,N,"",0,592,"Khan","","Gul","Liberal","Libéral",N,N,77
+48012,"Calgary Shepard","Calgary Shepard"," 42","Calgary",N,N,"",0,592,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,186
+48012,"Calgary Shepard","Calgary Shepard"," 42","Calgary",N,N,"",0,592,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 42","Calgary",N,N,"",0,592,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 43","Calgary",N,N,"",1,747,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 43","Calgary",N,N,"",1,747,"Khan","","Gul","Liberal","Libéral",N,N,72
+48012,"Calgary Shepard","Calgary Shepard"," 43","Calgary",N,N,"",1,747,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,200
+48012,"Calgary Shepard","Calgary Shepard"," 43","Calgary",N,N,"",1,747,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 43","Calgary",N,N,"",1,747,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 44","Calgary",N,N,"",1,478,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 44","Calgary",N,N,"",1,478,"Khan","","Gul","Liberal","Libéral",N,N,57
+48012,"Calgary Shepard","Calgary Shepard"," 44","Calgary",N,N,"",1,478,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,142
+48012,"Calgary Shepard","Calgary Shepard"," 44","Calgary",N,N,"",1,478,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 44","Calgary",N,N,"",1,478,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 45","Calgary",N,N,"",1,660,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 45","Calgary",N,N,"",1,660,"Khan","","Gul","Liberal","Libéral",N,N,68
+48012,"Calgary Shepard","Calgary Shepard"," 45","Calgary",N,N,"",1,660,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,185
+48012,"Calgary Shepard","Calgary Shepard"," 45","Calgary",N,N,"",1,660,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 45","Calgary",N,N,"",1,660,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48012,"Calgary Shepard","Calgary Shepard"," 46","Calgary",N,N,"",1,571,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 46","Calgary",N,N,"",1,571,"Khan","","Gul","Liberal","Libéral",N,N,59
+48012,"Calgary Shepard","Calgary Shepard"," 46","Calgary",N,N,"",1,571,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,146
+48012,"Calgary Shepard","Calgary Shepard"," 46","Calgary",N,N,"",1,571,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 46","Calgary",N,N,"",1,571,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 47","Calgary",N,N,"",1,647,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 47","Calgary",N,N,"",1,647,"Khan","","Gul","Liberal","Libéral",N,N,60
+48012,"Calgary Shepard","Calgary Shepard"," 47","Calgary",N,N,"",1,647,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,150
+48012,"Calgary Shepard","Calgary Shepard"," 47","Calgary",N,N,"",1,647,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 47","Calgary",N,N,"",1,647,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 48","Calgary",N,N,"",1,559,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 48","Calgary",N,N,"",1,559,"Khan","","Gul","Liberal","Libéral",N,N,55
+48012,"Calgary Shepard","Calgary Shepard"," 48","Calgary",N,N,"",1,559,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,135
+48012,"Calgary Shepard","Calgary Shepard"," 48","Calgary",N,N,"",1,559,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 48","Calgary",N,N,"",1,559,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 49","Calgary",N,N,"",0,529,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 49","Calgary",N,N,"",0,529,"Khan","","Gul","Liberal","Libéral",N,N,46
+48012,"Calgary Shepard","Calgary Shepard"," 49","Calgary",N,N,"",0,529,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,108
+48012,"Calgary Shepard","Calgary Shepard"," 49","Calgary",N,N,"",0,529,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 49","Calgary",N,N,"",0,529,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 50","Calgary",N,N,"",1,445,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 50","Calgary",N,N,"",1,445,"Khan","","Gul","Liberal","Libéral",N,N,44
+48012,"Calgary Shepard","Calgary Shepard"," 50","Calgary",N,N,"",1,445,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,141
+48012,"Calgary Shepard","Calgary Shepard"," 50","Calgary",N,N,"",1,445,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 50","Calgary",N,N,"",1,445,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 51","Calgary",N,N,"",2,534,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 51","Calgary",N,N,"",2,534,"Khan","","Gul","Liberal","Libéral",N,N,84
+48012,"Calgary Shepard","Calgary Shepard"," 51","Calgary",N,N,"",2,534,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,125
+48012,"Calgary Shepard","Calgary Shepard"," 51","Calgary",N,N,"",2,534,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 51","Calgary",N,N,"",2,534,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48012,"Calgary Shepard","Calgary Shepard"," 52","Calgary",N,N,"",1,599,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 52","Calgary",N,N,"",1,599,"Khan","","Gul","Liberal","Libéral",N,N,64
+48012,"Calgary Shepard","Calgary Shepard"," 52","Calgary",N,N,"",1,599,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,158
+48012,"Calgary Shepard","Calgary Shepard"," 52","Calgary",N,N,"",1,599,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 52","Calgary",N,N,"",1,599,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 53","Calgary",N,N,"",0,419,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 53","Calgary",N,N,"",0,419,"Khan","","Gul","Liberal","Libéral",N,N,30
+48012,"Calgary Shepard","Calgary Shepard"," 53","Calgary",N,N,"",0,419,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,128
+48012,"Calgary Shepard","Calgary Shepard"," 53","Calgary",N,N,"",0,419,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 53","Calgary",N,N,"",0,419,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 54","Calgary",N,N,"",0,563,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 54","Calgary",N,N,"",0,563,"Khan","","Gul","Liberal","Libéral",N,N,47
+48012,"Calgary Shepard","Calgary Shepard"," 54","Calgary",N,N,"",0,563,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,169
+48012,"Calgary Shepard","Calgary Shepard"," 54","Calgary",N,N,"",0,563,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 54","Calgary",N,N,"",0,563,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 55","Calgary",N,N,"",0,380,"Frasch","","Robert","Green Party","Parti Vert",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 55","Calgary",N,N,"",0,380,"Khan","","Gul","Liberal","Libéral",N,N,48
+48012,"Calgary Shepard","Calgary Shepard"," 55","Calgary",N,N,"",0,380,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,117
+48012,"Calgary Shepard","Calgary Shepard"," 55","Calgary",N,N,"",0,380,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 55","Calgary",N,N,"",0,380,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48012,"Calgary Shepard","Calgary Shepard"," 56","Calgary",N,N,"",0,423,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 56","Calgary",N,N,"",0,423,"Khan","","Gul","Liberal","Libéral",N,N,42
+48012,"Calgary Shepard","Calgary Shepard"," 56","Calgary",N,N,"",0,423,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,116
+48012,"Calgary Shepard","Calgary Shepard"," 56","Calgary",N,N,"",0,423,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 56","Calgary",N,N,"",0,423,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 57","Calgary",N,N,"",0,594,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 57","Calgary",N,N,"",0,594,"Khan","","Gul","Liberal","Libéral",N,N,70
+48012,"Calgary Shepard","Calgary Shepard"," 57","Calgary",N,N,"",0,594,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,166
+48012,"Calgary Shepard","Calgary Shepard"," 57","Calgary",N,N,"",0,594,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 57","Calgary",N,N,"",0,594,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48012,"Calgary Shepard","Calgary Shepard"," 58","Calgary",N,N,"",0,547,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 58","Calgary",N,N,"",0,547,"Khan","","Gul","Liberal","Libéral",N,N,69
+48012,"Calgary Shepard","Calgary Shepard"," 58","Calgary",N,N,"",0,547,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,144
+48012,"Calgary Shepard","Calgary Shepard"," 58","Calgary",N,N,"",0,547,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 58","Calgary",N,N,"",0,547,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48012,"Calgary Shepard","Calgary Shepard"," 59","Calgary",N,N,"",1,490,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 59","Calgary",N,N,"",1,490,"Khan","","Gul","Liberal","Libéral",N,N,64
+48012,"Calgary Shepard","Calgary Shepard"," 59","Calgary",N,N,"",1,490,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,142
+48012,"Calgary Shepard","Calgary Shepard"," 59","Calgary",N,N,"",1,490,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 59","Calgary",N,N,"",1,490,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 60","Calgary",N,N,"",2,370,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 60","Calgary",N,N,"",2,370,"Khan","","Gul","Liberal","Libéral",N,N,48
+48012,"Calgary Shepard","Calgary Shepard"," 60","Calgary",N,N,"",2,370,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,67
+48012,"Calgary Shepard","Calgary Shepard"," 60","Calgary",N,N,"",2,370,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 60","Calgary",N,N,"",2,370,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 61","Calgary",N,N,"",0,507,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 61","Calgary",N,N,"",0,507,"Khan","","Gul","Liberal","Libéral",N,N,65
+48012,"Calgary Shepard","Calgary Shepard"," 61","Calgary",N,N,"",0,507,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,155
+48012,"Calgary Shepard","Calgary Shepard"," 61","Calgary",N,N,"",0,507,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 61","Calgary",N,N,"",0,507,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48012,"Calgary Shepard","Calgary Shepard"," 62","Calgary",N,N,"",1,412,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 62","Calgary",N,N,"",1,412,"Khan","","Gul","Liberal","Libéral",N,N,43
+48012,"Calgary Shepard","Calgary Shepard"," 62","Calgary",N,N,"",1,412,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,93
+48012,"Calgary Shepard","Calgary Shepard"," 62","Calgary",N,N,"",1,412,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 62","Calgary",N,N,"",1,412,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 63","Calgary",N,N,"",0,616,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 63","Calgary",N,N,"",0,616,"Khan","","Gul","Liberal","Libéral",N,N,71
+48012,"Calgary Shepard","Calgary Shepard"," 63","Calgary",N,N,"",0,616,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,153
+48012,"Calgary Shepard","Calgary Shepard"," 63","Calgary",N,N,"",0,616,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 63","Calgary",N,N,"",0,616,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48012,"Calgary Shepard","Calgary Shepard"," 64","Calgary",N,N,"",1,446,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 64","Calgary",N,N,"",1,446,"Khan","","Gul","Liberal","Libéral",N,N,53
+48012,"Calgary Shepard","Calgary Shepard"," 64","Calgary",N,N,"",1,446,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,122
+48012,"Calgary Shepard","Calgary Shepard"," 64","Calgary",N,N,"",1,446,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 64","Calgary",N,N,"",1,446,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 65","Calgary",N,N,"",0,509,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 65","Calgary",N,N,"",0,509,"Khan","","Gul","Liberal","Libéral",N,N,52
+48012,"Calgary Shepard","Calgary Shepard"," 65","Calgary",N,N,"",0,509,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,140
+48012,"Calgary Shepard","Calgary Shepard"," 65","Calgary",N,N,"",0,509,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 65","Calgary",N,N,"",0,509,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 66","Calgary",N,N,"",0,413,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 66","Calgary",N,N,"",0,413,"Khan","","Gul","Liberal","Libéral",N,N,58
+48012,"Calgary Shepard","Calgary Shepard"," 66","Calgary",N,N,"",0,413,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,159
+48012,"Calgary Shepard","Calgary Shepard"," 66","Calgary",N,N,"",0,413,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 66","Calgary",N,N,"",0,413,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48012,"Calgary Shepard","Calgary Shepard"," 67","Calgary",N,N,"",0,420,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 67","Calgary",N,N,"",0,420,"Khan","","Gul","Liberal","Libéral",N,N,65
+48012,"Calgary Shepard","Calgary Shepard"," 67","Calgary",N,N,"",0,420,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,120
+48012,"Calgary Shepard","Calgary Shepard"," 67","Calgary",N,N,"",0,420,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 67","Calgary",N,N,"",0,420,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48012,"Calgary Shepard","Calgary Shepard"," 68","Calgary",N,N,"",0,452,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 68","Calgary",N,N,"",0,452,"Khan","","Gul","Liberal","Libéral",N,N,62
+48012,"Calgary Shepard","Calgary Shepard"," 68","Calgary",N,N,"",0,452,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,136
+48012,"Calgary Shepard","Calgary Shepard"," 68","Calgary",N,N,"",0,452,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 68","Calgary",N,N,"",0,452,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48012,"Calgary Shepard","Calgary Shepard"," 69","Calgary",N,N,"",1,621,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 69","Calgary",N,N,"",1,621,"Khan","","Gul","Liberal","Libéral",N,N,98
+48012,"Calgary Shepard","Calgary Shepard"," 69","Calgary",N,N,"",1,621,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,207
+48012,"Calgary Shepard","Calgary Shepard"," 69","Calgary",N,N,"",1,621,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 69","Calgary",N,N,"",1,621,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 70","Calgary",N,N,"",1,506,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 70","Calgary",N,N,"",1,506,"Khan","","Gul","Liberal","Libéral",N,N,56
+48012,"Calgary Shepard","Calgary Shepard"," 70","Calgary",N,N,"",1,506,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,143
+48012,"Calgary Shepard","Calgary Shepard"," 70","Calgary",N,N,"",1,506,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 70","Calgary",N,N,"",1,506,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 71","Calgary",N,N,"",1,460,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 71","Calgary",N,N,"",1,460,"Khan","","Gul","Liberal","Libéral",N,N,46
+48012,"Calgary Shepard","Calgary Shepard"," 71","Calgary",N,N,"",1,460,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,154
+48012,"Calgary Shepard","Calgary Shepard"," 71","Calgary",N,N,"",1,460,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 71","Calgary",N,N,"",1,460,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 72","Calgary",N,N,"",0,566,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 72","Calgary",N,N,"",0,566,"Khan","","Gul","Liberal","Libéral",N,N,96
+48012,"Calgary Shepard","Calgary Shepard"," 72","Calgary",N,N,"",0,566,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,185
+48012,"Calgary Shepard","Calgary Shepard"," 72","Calgary",N,N,"",0,566,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 72","Calgary",N,N,"",0,566,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 73","Calgary",N,N,"",1,583,"Frasch","","Robert","Green Party","Parti Vert",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 73","Calgary",N,N,"",1,583,"Khan","","Gul","Liberal","Libéral",N,N,70
+48012,"Calgary Shepard","Calgary Shepard"," 73","Calgary",N,N,"",1,583,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,158
+48012,"Calgary Shepard","Calgary Shepard"," 73","Calgary",N,N,"",1,583,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 73","Calgary",N,N,"",1,583,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 74","Calgary",N,N,"",2,503,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 74","Calgary",N,N,"",2,503,"Khan","","Gul","Liberal","Libéral",N,N,62
+48012,"Calgary Shepard","Calgary Shepard"," 74","Calgary",N,N,"",2,503,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,165
+48012,"Calgary Shepard","Calgary Shepard"," 74","Calgary",N,N,"",2,503,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 74","Calgary",N,N,"",2,503,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 75","Calgary",N,N,"",2,529,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 75","Calgary",N,N,"",2,529,"Khan","","Gul","Liberal","Libéral",N,N,62
+48012,"Calgary Shepard","Calgary Shepard"," 75","Calgary",N,N,"",2,529,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,120
+48012,"Calgary Shepard","Calgary Shepard"," 75","Calgary",N,N,"",2,529,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 75","Calgary",N,N,"",2,529,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 76","Calgary",N,N,"",0,585,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 76","Calgary",N,N,"",0,585,"Khan","","Gul","Liberal","Libéral",N,N,72
+48012,"Calgary Shepard","Calgary Shepard"," 76","Calgary",N,N,"",0,585,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,173
+48012,"Calgary Shepard","Calgary Shepard"," 76","Calgary",N,N,"",0,585,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 76","Calgary",N,N,"",0,585,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 77","Calgary",N,N,"",0,515,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 77","Calgary",N,N,"",0,515,"Khan","","Gul","Liberal","Libéral",N,N,53
+48012,"Calgary Shepard","Calgary Shepard"," 77","Calgary",N,N,"",0,515,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,148
+48012,"Calgary Shepard","Calgary Shepard"," 77","Calgary",N,N,"",0,515,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 77","Calgary",N,N,"",0,515,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48012,"Calgary Shepard","Calgary Shepard"," 78","Calgary",N,N,"",0,533,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 78","Calgary",N,N,"",0,533,"Khan","","Gul","Liberal","Libéral",N,N,68
+48012,"Calgary Shepard","Calgary Shepard"," 78","Calgary",N,N,"",0,533,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,166
+48012,"Calgary Shepard","Calgary Shepard"," 78","Calgary",N,N,"",0,533,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 78","Calgary",N,N,"",0,533,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48012,"Calgary Shepard","Calgary Shepard"," 79","Calgary",N,N,"",1,380,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 79","Calgary",N,N,"",1,380,"Khan","","Gul","Liberal","Libéral",N,N,54
+48012,"Calgary Shepard","Calgary Shepard"," 79","Calgary",N,N,"",1,380,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,130
+48012,"Calgary Shepard","Calgary Shepard"," 79","Calgary",N,N,"",1,380,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 79","Calgary",N,N,"",1,380,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 80","Calgary",N,N,"",2,621,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 80","Calgary",N,N,"",2,621,"Khan","","Gul","Liberal","Libéral",N,N,59
+48012,"Calgary Shepard","Calgary Shepard"," 80","Calgary",N,N,"",2,621,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,166
+48012,"Calgary Shepard","Calgary Shepard"," 80","Calgary",N,N,"",2,621,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 80","Calgary",N,N,"",2,621,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 81","Calgary",N,N,"",1,511,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 81","Calgary",N,N,"",1,511,"Khan","","Gul","Liberal","Libéral",N,N,58
+48012,"Calgary Shepard","Calgary Shepard"," 81","Calgary",N,N,"",1,511,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,159
+48012,"Calgary Shepard","Calgary Shepard"," 81","Calgary",N,N,"",1,511,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 81","Calgary",N,N,"",1,511,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 82","Calgary",N,N,"",1,603,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 82","Calgary",N,N,"",1,603,"Khan","","Gul","Liberal","Libéral",N,N,79
+48012,"Calgary Shepard","Calgary Shepard"," 82","Calgary",N,N,"",1,603,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,166
+48012,"Calgary Shepard","Calgary Shepard"," 82","Calgary",N,N,"",1,603,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 82","Calgary",N,N,"",1,603,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 83","Calgary",N,N,"",1,549,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 83","Calgary",N,N,"",1,549,"Khan","","Gul","Liberal","Libéral",N,N,53
+48012,"Calgary Shepard","Calgary Shepard"," 83","Calgary",N,N,"",1,549,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,139
+48012,"Calgary Shepard","Calgary Shepard"," 83","Calgary",N,N,"",1,549,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 83","Calgary",N,N,"",1,549,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 84","Calgary",N,N,"",0,611,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 84","Calgary",N,N,"",0,611,"Khan","","Gul","Liberal","Libéral",N,N,61
+48012,"Calgary Shepard","Calgary Shepard"," 84","Calgary",N,N,"",0,611,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,133
+48012,"Calgary Shepard","Calgary Shepard"," 84","Calgary",N,N,"",0,611,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 84","Calgary",N,N,"",0,611,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 85","Calgary",N,N,"",2,458,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 85","Calgary",N,N,"",2,458,"Khan","","Gul","Liberal","Libéral",N,N,34
+48012,"Calgary Shepard","Calgary Shepard"," 85","Calgary",N,N,"",2,458,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,123
+48012,"Calgary Shepard","Calgary Shepard"," 85","Calgary",N,N,"",2,458,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 85","Calgary",N,N,"",2,458,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 86","Calgary",N,N,"",0,502,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 86","Calgary",N,N,"",0,502,"Khan","","Gul","Liberal","Libéral",N,N,53
+48012,"Calgary Shepard","Calgary Shepard"," 86","Calgary",N,N,"",0,502,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,139
+48012,"Calgary Shepard","Calgary Shepard"," 86","Calgary",N,N,"",0,502,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 86","Calgary",N,N,"",0,502,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 87","Calgary",N,N,"",0,529,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 87","Calgary",N,N,"",0,529,"Khan","","Gul","Liberal","Libéral",N,N,57
+48012,"Calgary Shepard","Calgary Shepard"," 87","Calgary",N,N,"",0,529,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,167
+48012,"Calgary Shepard","Calgary Shepard"," 87","Calgary",N,N,"",0,529,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 87","Calgary",N,N,"",0,529,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 88","Calgary",N,N,"",0,526,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 88","Calgary",N,N,"",0,526,"Khan","","Gul","Liberal","Libéral",N,N,48
+48012,"Calgary Shepard","Calgary Shepard"," 88","Calgary",N,N,"",0,526,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,123
+48012,"Calgary Shepard","Calgary Shepard"," 88","Calgary",N,N,"",0,526,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 88","Calgary",N,N,"",0,526,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 89","Calgary",N,N,"",0,435,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 89","Calgary",N,N,"",0,435,"Khan","","Gul","Liberal","Libéral",N,N,40
+48012,"Calgary Shepard","Calgary Shepard"," 89","Calgary",N,N,"",0,435,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,129
+48012,"Calgary Shepard","Calgary Shepard"," 89","Calgary",N,N,"",0,435,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 89","Calgary",N,N,"",0,435,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+48012,"Calgary Shepard","Calgary Shepard"," 90","Calgary",N,N,"",0,415,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 90","Calgary",N,N,"",0,415,"Khan","","Gul","Liberal","Libéral",N,N,34
+48012,"Calgary Shepard","Calgary Shepard"," 90","Calgary",N,N,"",0,415,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,106
+48012,"Calgary Shepard","Calgary Shepard"," 90","Calgary",N,N,"",0,415,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 90","Calgary",N,N,"",0,415,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 91","Calgary",N,N,"",1,616,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 91","Calgary",N,N,"",1,616,"Khan","","Gul","Liberal","Libéral",N,N,52
+48012,"Calgary Shepard","Calgary Shepard"," 91","Calgary",N,N,"",1,616,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,136
+48012,"Calgary Shepard","Calgary Shepard"," 91","Calgary",N,N,"",1,616,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 91","Calgary",N,N,"",1,616,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 92","Calgary",N,N,"",0,599,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 92","Calgary",N,N,"",0,599,"Khan","","Gul","Liberal","Libéral",N,N,64
+48012,"Calgary Shepard","Calgary Shepard"," 92","Calgary",N,N,"",0,599,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,132
+48012,"Calgary Shepard","Calgary Shepard"," 92","Calgary",N,N,"",0,599,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 92","Calgary",N,N,"",0,599,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48012,"Calgary Shepard","Calgary Shepard"," 93","Calgary",N,N,"",0,395,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 93","Calgary",N,N,"",0,395,"Khan","","Gul","Liberal","Libéral",N,N,22
+48012,"Calgary Shepard","Calgary Shepard"," 93","Calgary",N,N,"",0,395,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,112
+48012,"Calgary Shepard","Calgary Shepard"," 93","Calgary",N,N,"",0,395,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 93","Calgary",N,N,"",0,395,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 94","Calgary",N,N,"",0,470,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 94","Calgary",N,N,"",0,470,"Khan","","Gul","Liberal","Libéral",N,N,26
+48012,"Calgary Shepard","Calgary Shepard"," 94","Calgary",N,N,"",0,470,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,137
+48012,"Calgary Shepard","Calgary Shepard"," 94","Calgary",N,N,"",0,470,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 94","Calgary",N,N,"",0,470,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 95","Calgary",N,N,"",0,455,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 95","Calgary",N,N,"",0,455,"Khan","","Gul","Liberal","Libéral",N,N,33
+48012,"Calgary Shepard","Calgary Shepard"," 95","Calgary",N,N,"",0,455,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,99
+48012,"Calgary Shepard","Calgary Shepard"," 95","Calgary",N,N,"",0,455,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 95","Calgary",N,N,"",0,455,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48012,"Calgary Shepard","Calgary Shepard"," 96","Calgary",N,N,"",1,427,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 96","Calgary",N,N,"",1,427,"Khan","","Gul","Liberal","Libéral",N,N,52
+48012,"Calgary Shepard","Calgary Shepard"," 96","Calgary",N,N,"",1,427,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,104
+48012,"Calgary Shepard","Calgary Shepard"," 96","Calgary",N,N,"",1,427,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 96","Calgary",N,N,"",1,427,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 97","Calgary",N,N,"",0,495,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 97","Calgary",N,N,"",0,495,"Khan","","Gul","Liberal","Libéral",N,N,43
+48012,"Calgary Shepard","Calgary Shepard"," 97","Calgary",N,N,"",0,495,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,110
+48012,"Calgary Shepard","Calgary Shepard"," 97","Calgary",N,N,"",0,495,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 97","Calgary",N,N,"",0,495,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 98","Calgary",N,N,"",1,402,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 98","Calgary",N,N,"",1,402,"Khan","","Gul","Liberal","Libéral",N,N,27
+48012,"Calgary Shepard","Calgary Shepard"," 98","Calgary",N,N,"",1,402,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,87
+48012,"Calgary Shepard","Calgary Shepard"," 98","Calgary",N,N,"",1,402,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 98","Calgary",N,N,"",1,402,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 99","Calgary",N,N,"",1,550,"Frasch","","Robert","Green Party","Parti Vert",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 99","Calgary",N,N,"",1,550,"Khan","","Gul","Liberal","Libéral",N,N,55
+48012,"Calgary Shepard","Calgary Shepard"," 99","Calgary",N,N,"",1,550,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,119
+48012,"Calgary Shepard","Calgary Shepard"," 99","Calgary",N,N,"",1,550,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 99","Calgary",N,N,"",1,550,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 100","Calgary",N,N,"",1,506,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 100","Calgary",N,N,"",1,506,"Khan","","Gul","Liberal","Libéral",N,N,71
+48012,"Calgary Shepard","Calgary Shepard"," 100","Calgary",N,N,"",1,506,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,157
+48012,"Calgary Shepard","Calgary Shepard"," 100","Calgary",N,N,"",1,506,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 100","Calgary",N,N,"",1,506,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 101","Calgary",N,N,"",1,710,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 101","Calgary",N,N,"",1,710,"Khan","","Gul","Liberal","Libéral",N,N,70
+48012,"Calgary Shepard","Calgary Shepard"," 101","Calgary",N,N,"",1,710,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,226
+48012,"Calgary Shepard","Calgary Shepard"," 101","Calgary",N,N,"",1,710,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 101","Calgary",N,N,"",1,710,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 102","Calgary",N,N,"",2,498,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 102","Calgary",N,N,"",2,498,"Khan","","Gul","Liberal","Libéral",N,N,59
+48012,"Calgary Shepard","Calgary Shepard"," 102","Calgary",N,N,"",2,498,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,169
+48012,"Calgary Shepard","Calgary Shepard"," 102","Calgary",N,N,"",2,498,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 102","Calgary",N,N,"",2,498,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 103","Calgary",N,N,"",0,642,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 103","Calgary",N,N,"",0,642,"Khan","","Gul","Liberal","Libéral",N,N,70
+48012,"Calgary Shepard","Calgary Shepard"," 103","Calgary",N,N,"",0,642,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,192
+48012,"Calgary Shepard","Calgary Shepard"," 103","Calgary",N,N,"",0,642,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 103","Calgary",N,N,"",0,642,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 104","Calgary",N,N,"",0,461,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 104","Calgary",N,N,"",0,461,"Khan","","Gul","Liberal","Libéral",N,N,50
+48012,"Calgary Shepard","Calgary Shepard"," 104","Calgary",N,N,"",0,461,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,99
+48012,"Calgary Shepard","Calgary Shepard"," 104","Calgary",N,N,"",0,461,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 104","Calgary",N,N,"",0,461,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 105","Calgary",N,N,"",0,664,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 105","Calgary",N,N,"",0,664,"Khan","","Gul","Liberal","Libéral",N,N,71
+48012,"Calgary Shepard","Calgary Shepard"," 105","Calgary",N,N,"",0,664,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,168
+48012,"Calgary Shepard","Calgary Shepard"," 105","Calgary",N,N,"",0,664,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 105","Calgary",N,N,"",0,664,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 106","Calgary",N,N,"",0,505,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 106","Calgary",N,N,"",0,505,"Khan","","Gul","Liberal","Libéral",N,N,52
+48012,"Calgary Shepard","Calgary Shepard"," 106","Calgary",N,N,"",0,505,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,146
+48012,"Calgary Shepard","Calgary Shepard"," 106","Calgary",N,N,"",0,505,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 106","Calgary",N,N,"",0,505,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 107","Calgary",N,N,"",0,454,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 107","Calgary",N,N,"",0,454,"Khan","","Gul","Liberal","Libéral",N,N,33
+48012,"Calgary Shepard","Calgary Shepard"," 107","Calgary",N,N,"",0,454,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,111
+48012,"Calgary Shepard","Calgary Shepard"," 107","Calgary",N,N,"",0,454,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 107","Calgary",N,N,"",0,454,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 108","Calgary",N,N,"",1,618,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 108","Calgary",N,N,"",1,618,"Khan","","Gul","Liberal","Libéral",N,N,72
+48012,"Calgary Shepard","Calgary Shepard"," 108","Calgary",N,N,"",1,618,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,175
+48012,"Calgary Shepard","Calgary Shepard"," 108","Calgary",N,N,"",1,618,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 108","Calgary",N,N,"",1,618,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 109","Calgary",N,N,"",0,346,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 109","Calgary",N,N,"",0,346,"Khan","","Gul","Liberal","Libéral",N,N,44
+48012,"Calgary Shepard","Calgary Shepard"," 109","Calgary",N,N,"",0,346,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,74
+48012,"Calgary Shepard","Calgary Shepard"," 109","Calgary",N,N,"",0,346,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 109","Calgary",N,N,"",0,346,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 110","Calgary",N,N,"",0,567,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 110","Calgary",N,N,"",0,567,"Khan","","Gul","Liberal","Libéral",N,N,65
+48012,"Calgary Shepard","Calgary Shepard"," 110","Calgary",N,N,"",0,567,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,182
+48012,"Calgary Shepard","Calgary Shepard"," 110","Calgary",N,N,"",0,567,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 110","Calgary",N,N,"",0,567,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+48012,"Calgary Shepard","Calgary Shepard"," 111","Calgary",N,N,"",1,558,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 111","Calgary",N,N,"",1,558,"Khan","","Gul","Liberal","Libéral",N,N,44
+48012,"Calgary Shepard","Calgary Shepard"," 111","Calgary",N,N,"",1,558,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,144
+48012,"Calgary Shepard","Calgary Shepard"," 111","Calgary",N,N,"",1,558,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 111","Calgary",N,N,"",1,558,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 112","Calgary",N,N,"",1,582,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 112","Calgary",N,N,"",1,582,"Khan","","Gul","Liberal","Libéral",N,N,68
+48012,"Calgary Shepard","Calgary Shepard"," 112","Calgary",N,N,"",1,582,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,160
+48012,"Calgary Shepard","Calgary Shepard"," 112","Calgary",N,N,"",1,582,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 112","Calgary",N,N,"",1,582,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48012,"Calgary Shepard","Calgary Shepard"," 113","Calgary",N,N,"",1,595,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 113","Calgary",N,N,"",1,595,"Khan","","Gul","Liberal","Libéral",N,N,84
+48012,"Calgary Shepard","Calgary Shepard"," 113","Calgary",N,N,"",1,595,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,193
+48012,"Calgary Shepard","Calgary Shepard"," 113","Calgary",N,N,"",1,595,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 113","Calgary",N,N,"",1,595,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 114","Calgary",N,N,"",0,484,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 114","Calgary",N,N,"",0,484,"Khan","","Gul","Liberal","Libéral",N,N,66
+48012,"Calgary Shepard","Calgary Shepard"," 114","Calgary",N,N,"",0,484,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,152
+48012,"Calgary Shepard","Calgary Shepard"," 114","Calgary",N,N,"",0,484,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 114","Calgary",N,N,"",0,484,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 115","Calgary",N,N,"",1,480,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 115","Calgary",N,N,"",1,480,"Khan","","Gul","Liberal","Libéral",N,N,44
+48012,"Calgary Shepard","Calgary Shepard"," 115","Calgary",N,N,"",1,480,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,132
+48012,"Calgary Shepard","Calgary Shepard"," 115","Calgary",N,N,"",1,480,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 115","Calgary",N,N,"",1,480,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 116","Calgary",N,N,"",0,500,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 116","Calgary",N,N,"",0,500,"Khan","","Gul","Liberal","Libéral",N,N,56
+48012,"Calgary Shepard","Calgary Shepard"," 116","Calgary",N,N,"",0,500,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,148
+48012,"Calgary Shepard","Calgary Shepard"," 116","Calgary",N,N,"",0,500,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 116","Calgary",N,N,"",0,500,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 117","Calgary",N,N,"",1,462,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 117","Calgary",N,N,"",1,462,"Khan","","Gul","Liberal","Libéral",N,N,61
+48012,"Calgary Shepard","Calgary Shepard"," 117","Calgary",N,N,"",1,462,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,147
+48012,"Calgary Shepard","Calgary Shepard"," 117","Calgary",N,N,"",1,462,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 117","Calgary",N,N,"",1,462,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 118","Calgary",N,N,"",2,700,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 118","Calgary",N,N,"",2,700,"Khan","","Gul","Liberal","Libéral",N,N,81
+48012,"Calgary Shepard","Calgary Shepard"," 118","Calgary",N,N,"",2,700,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,193
+48012,"Calgary Shepard","Calgary Shepard"," 118","Calgary",N,N,"",2,700,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 118","Calgary",N,N,"",2,700,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+48012,"Calgary Shepard","Calgary Shepard"," 119","Calgary",N,N,"",1,604,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 119","Calgary",N,N,"",1,604,"Khan","","Gul","Liberal","Libéral",N,N,65
+48012,"Calgary Shepard","Calgary Shepard"," 119","Calgary",N,N,"",1,604,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,163
+48012,"Calgary Shepard","Calgary Shepard"," 119","Calgary",N,N,"",1,604,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 119","Calgary",N,N,"",1,604,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 120","Calgary",N,N,"",0,674,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 120","Calgary",N,N,"",0,674,"Khan","","Gul","Liberal","Libéral",N,N,97
+48012,"Calgary Shepard","Calgary Shepard"," 120","Calgary",N,N,"",0,674,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,183
+48012,"Calgary Shepard","Calgary Shepard"," 120","Calgary",N,N,"",0,674,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 120","Calgary",N,N,"",0,674,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 121","Calgary",N,N,"",1,567,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 121","Calgary",N,N,"",1,567,"Khan","","Gul","Liberal","Libéral",N,N,63
+48012,"Calgary Shepard","Calgary Shepard"," 121","Calgary",N,N,"",1,567,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,122
+48012,"Calgary Shepard","Calgary Shepard"," 121","Calgary",N,N,"",1,567,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 121","Calgary",N,N,"",1,567,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 122","Calgary",N,N,"",0,620,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 122","Calgary",N,N,"",0,620,"Khan","","Gul","Liberal","Libéral",N,N,53
+48012,"Calgary Shepard","Calgary Shepard"," 122","Calgary",N,N,"",0,620,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,155
+48012,"Calgary Shepard","Calgary Shepard"," 122","Calgary",N,N,"",0,620,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 122","Calgary",N,N,"",0,620,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 123","Calgary",N,N,"",0,567,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 123","Calgary",N,N,"",0,567,"Khan","","Gul","Liberal","Libéral",N,N,71
+48012,"Calgary Shepard","Calgary Shepard"," 123","Calgary",N,N,"",0,567,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,141
+48012,"Calgary Shepard","Calgary Shepard"," 123","Calgary",N,N,"",0,567,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 123","Calgary",N,N,"",0,567,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 124","Calgary",N,N,"",0,590,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 124","Calgary",N,N,"",0,590,"Khan","","Gul","Liberal","Libéral",N,N,52
+48012,"Calgary Shepard","Calgary Shepard"," 124","Calgary",N,N,"",0,590,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,186
+48012,"Calgary Shepard","Calgary Shepard"," 124","Calgary",N,N,"",0,590,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 124","Calgary",N,N,"",0,590,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 125","Calgary",N,N,"",0,572,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 125","Calgary",N,N,"",0,572,"Khan","","Gul","Liberal","Libéral",N,N,66
+48012,"Calgary Shepard","Calgary Shepard"," 125","Calgary",N,N,"",0,572,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,155
+48012,"Calgary Shepard","Calgary Shepard"," 125","Calgary",N,N,"",0,572,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 125","Calgary",N,N,"",0,572,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 126","Calgary",N,N,"",0,586,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 126","Calgary",N,N,"",0,586,"Khan","","Gul","Liberal","Libéral",N,N,68
+48012,"Calgary Shepard","Calgary Shepard"," 126","Calgary",N,N,"",0,586,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,136
+48012,"Calgary Shepard","Calgary Shepard"," 126","Calgary",N,N,"",0,586,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 126","Calgary",N,N,"",0,586,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 127","Calgary",N,N,"",0,652,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 127","Calgary",N,N,"",0,652,"Khan","","Gul","Liberal","Libéral",N,N,63
+48012,"Calgary Shepard","Calgary Shepard"," 127","Calgary",N,N,"",0,652,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,148
+48012,"Calgary Shepard","Calgary Shepard"," 127","Calgary",N,N,"",0,652,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 127","Calgary",N,N,"",0,652,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 128","Calgary",N,N,"",0,548,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 128","Calgary",N,N,"",0,548,"Khan","","Gul","Liberal","Libéral",N,N,52
+48012,"Calgary Shepard","Calgary Shepard"," 128","Calgary",N,N,"",0,548,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,111
+48012,"Calgary Shepard","Calgary Shepard"," 128","Calgary",N,N,"",0,548,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 128","Calgary",N,N,"",0,548,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 129","Calgary",N,N,"",2,600,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 129","Calgary",N,N,"",2,600,"Khan","","Gul","Liberal","Libéral",N,N,55
+48012,"Calgary Shepard","Calgary Shepard"," 129","Calgary",N,N,"",2,600,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,200
+48012,"Calgary Shepard","Calgary Shepard"," 129","Calgary",N,N,"",2,600,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 129","Calgary",N,N,"",2,600,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 130","Calgary",N,N,"",0,340,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 130","Calgary",N,N,"",0,340,"Khan","","Gul","Liberal","Libéral",N,N,24
+48012,"Calgary Shepard","Calgary Shepard"," 130","Calgary",N,N,"",0,340,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,92
+48012,"Calgary Shepard","Calgary Shepard"," 130","Calgary",N,N,"",0,340,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 130","Calgary",N,N,"",0,340,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 131","Calgary",N,N,"",1,626,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 131","Calgary",N,N,"",1,626,"Khan","","Gul","Liberal","Libéral",N,N,59
+48012,"Calgary Shepard","Calgary Shepard"," 131","Calgary",N,N,"",1,626,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,182
+48012,"Calgary Shepard","Calgary Shepard"," 131","Calgary",N,N,"",1,626,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 131","Calgary",N,N,"",1,626,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+48012,"Calgary Shepard","Calgary Shepard"," 132","Calgary",N,N,"",3,561,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 132","Calgary",N,N,"",3,561,"Khan","","Gul","Liberal","Libéral",N,N,64
+48012,"Calgary Shepard","Calgary Shepard"," 132","Calgary",N,N,"",3,561,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,187
+48012,"Calgary Shepard","Calgary Shepard"," 132","Calgary",N,N,"",3,561,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 132","Calgary",N,N,"",3,561,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 133","Calgary",N,N,"",0,782,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 133","Calgary",N,N,"",0,782,"Khan","","Gul","Liberal","Libéral",N,N,89
+48012,"Calgary Shepard","Calgary Shepard"," 133","Calgary",N,N,"",0,782,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,208
+48012,"Calgary Shepard","Calgary Shepard"," 133","Calgary",N,N,"",0,782,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 133","Calgary",N,N,"",0,782,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 134","Calgary",N,N,"",2,700,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 134","Calgary",N,N,"",2,700,"Khan","","Gul","Liberal","Libéral",N,N,86
+48012,"Calgary Shepard","Calgary Shepard"," 134","Calgary",N,N,"",2,700,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,203
+48012,"Calgary Shepard","Calgary Shepard"," 134","Calgary",N,N,"",2,700,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 134","Calgary",N,N,"",2,700,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 135","Calgary",N,N,"",4,627,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 135","Calgary",N,N,"",4,627,"Khan","","Gul","Liberal","Libéral",N,N,61
+48012,"Calgary Shepard","Calgary Shepard"," 135","Calgary",N,N,"",4,627,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,182
+48012,"Calgary Shepard","Calgary Shepard"," 135","Calgary",N,N,"",4,627,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 135","Calgary",N,N,"",4,627,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 136A","Calgary",N,N,"",0,463,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 136A","Calgary",N,N,"",0,463,"Khan","","Gul","Liberal","Libéral",N,N,43
+48012,"Calgary Shepard","Calgary Shepard"," 136A","Calgary",N,N,"",0,463,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,141
+48012,"Calgary Shepard","Calgary Shepard"," 136A","Calgary",N,N,"",0,463,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 136A","Calgary",N,N,"",0,463,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 136B","Calgary",N,N,"",0,499,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 136B","Calgary",N,N,"",0,499,"Khan","","Gul","Liberal","Libéral",N,N,51
+48012,"Calgary Shepard","Calgary Shepard"," 136B","Calgary",N,N,"",0,499,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,159
+48012,"Calgary Shepard","Calgary Shepard"," 136B","Calgary",N,N,"",0,499,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 136B","Calgary",N,N,"",0,499,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 137","Calgary",N,N,"",1,564,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 137","Calgary",N,N,"",1,564,"Khan","","Gul","Liberal","Libéral",N,N,46
+48012,"Calgary Shepard","Calgary Shepard"," 137","Calgary",N,N,"",1,564,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,150
+48012,"Calgary Shepard","Calgary Shepard"," 137","Calgary",N,N,"",1,564,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 137","Calgary",N,N,"",1,564,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 138","Calgary",N,N,"",0,555,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 138","Calgary",N,N,"",0,555,"Khan","","Gul","Liberal","Libéral",N,N,71
+48012,"Calgary Shepard","Calgary Shepard"," 138","Calgary",N,N,"",0,555,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,122
+48012,"Calgary Shepard","Calgary Shepard"," 138","Calgary",N,N,"",0,555,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 138","Calgary",N,N,"",0,555,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 139","Calgary",N,N,"",0,607,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 139","Calgary",N,N,"",0,607,"Khan","","Gul","Liberal","Libéral",N,N,38
+48012,"Calgary Shepard","Calgary Shepard"," 139","Calgary",N,N,"",0,607,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,146
+48012,"Calgary Shepard","Calgary Shepard"," 139","Calgary",N,N,"",0,607,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 139","Calgary",N,N,"",0,607,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 140","Calgary",N,N,"",0,401,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 140","Calgary",N,N,"",0,401,"Khan","","Gul","Liberal","Libéral",N,N,57
+48012,"Calgary Shepard","Calgary Shepard"," 140","Calgary",N,N,"",0,401,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,125
+48012,"Calgary Shepard","Calgary Shepard"," 140","Calgary",N,N,"",0,401,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 140","Calgary",N,N,"",0,401,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 141","Calgary",N,N,"",0,621,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 141","Calgary",N,N,"",0,621,"Khan","","Gul","Liberal","Libéral",N,N,42
+48012,"Calgary Shepard","Calgary Shepard"," 141","Calgary",N,N,"",0,621,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,130
+48012,"Calgary Shepard","Calgary Shepard"," 141","Calgary",N,N,"",0,621,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 141","Calgary",N,N,"",0,621,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 142","Calgary",N,N,"",0,456,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 142","Calgary",N,N,"",0,456,"Khan","","Gul","Liberal","Libéral",N,N,49
+48012,"Calgary Shepard","Calgary Shepard"," 142","Calgary",N,N,"",0,456,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,133
+48012,"Calgary Shepard","Calgary Shepard"," 142","Calgary",N,N,"",0,456,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 142","Calgary",N,N,"",0,456,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 143","Calgary",N,N,"",0,508,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 143","Calgary",N,N,"",0,508,"Khan","","Gul","Liberal","Libéral",N,N,43
+48012,"Calgary Shepard","Calgary Shepard"," 143","Calgary",N,N,"",0,508,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,149
+48012,"Calgary Shepard","Calgary Shepard"," 143","Calgary",N,N,"",0,508,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 143","Calgary",N,N,"",0,508,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 144","Calgary",N,N,"",0,465,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 144","Calgary",N,N,"",0,465,"Khan","","Gul","Liberal","Libéral",N,N,50
+48012,"Calgary Shepard","Calgary Shepard"," 144","Calgary",N,N,"",0,465,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,115
+48012,"Calgary Shepard","Calgary Shepard"," 144","Calgary",N,N,"",0,465,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 144","Calgary",N,N,"",0,465,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 145","Calgary",N,N,"",0,664,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 145","Calgary",N,N,"",0,664,"Khan","","Gul","Liberal","Libéral",N,N,59
+48012,"Calgary Shepard","Calgary Shepard"," 145","Calgary",N,N,"",0,664,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,144
+48012,"Calgary Shepard","Calgary Shepard"," 145","Calgary",N,N,"",0,664,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 145","Calgary",N,N,"",0,664,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 146","Calgary",N,N,"",1,527,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 146","Calgary",N,N,"",1,527,"Khan","","Gul","Liberal","Libéral",N,N,59
+48012,"Calgary Shepard","Calgary Shepard"," 146","Calgary",N,N,"",1,527,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,124
+48012,"Calgary Shepard","Calgary Shepard"," 146","Calgary",N,N,"",1,527,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 146","Calgary",N,N,"",1,527,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 147","Calgary",N,N,"",0,441,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 147","Calgary",N,N,"",0,441,"Khan","","Gul","Liberal","Libéral",N,N,41
+48012,"Calgary Shepard","Calgary Shepard"," 147","Calgary",N,N,"",0,441,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,118
+48012,"Calgary Shepard","Calgary Shepard"," 147","Calgary",N,N,"",0,441,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 147","Calgary",N,N,"",0,441,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 148","Calgary",N,N,"",1,561,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 148","Calgary",N,N,"",1,561,"Khan","","Gul","Liberal","Libéral",N,N,55
+48012,"Calgary Shepard","Calgary Shepard"," 148","Calgary",N,N,"",1,561,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,160
+48012,"Calgary Shepard","Calgary Shepard"," 148","Calgary",N,N,"",1,561,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 148","Calgary",N,N,"",1,561,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 149","Calgary",N,N,"",0,379,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 149","Calgary",N,N,"",0,379,"Khan","","Gul","Liberal","Libéral",N,N,37
+48012,"Calgary Shepard","Calgary Shepard"," 149","Calgary",N,N,"",0,379,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,74
+48012,"Calgary Shepard","Calgary Shepard"," 149","Calgary",N,N,"",0,379,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 149","Calgary",N,N,"",0,379,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 150","Calgary",N,N,"",0,388,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 150","Calgary",N,N,"",0,388,"Khan","","Gul","Liberal","Libéral",N,N,37
+48012,"Calgary Shepard","Calgary Shepard"," 150","Calgary",N,N,"",0,388,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,130
+48012,"Calgary Shepard","Calgary Shepard"," 150","Calgary",N,N,"",0,388,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 150","Calgary",N,N,"",0,388,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 151","Calgary",N,N,"",0,438,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 151","Calgary",N,N,"",0,438,"Khan","","Gul","Liberal","Libéral",N,N,69
+48012,"Calgary Shepard","Calgary Shepard"," 151","Calgary",N,N,"",0,438,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,120
+48012,"Calgary Shepard","Calgary Shepard"," 151","Calgary",N,N,"",0,438,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 151","Calgary",N,N,"",0,438,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 152","Calgary",N,N,"",1,431,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 152","Calgary",N,N,"",1,431,"Khan","","Gul","Liberal","Libéral",N,N,44
+48012,"Calgary Shepard","Calgary Shepard"," 152","Calgary",N,N,"",1,431,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,89
+48012,"Calgary Shepard","Calgary Shepard"," 152","Calgary",N,N,"",1,431,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 152","Calgary",N,N,"",1,431,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 153","Calgary",N,N,"",0,376,"Frasch","","Robert","Green Party","Parti Vert",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 153","Calgary",N,N,"",0,376,"Khan","","Gul","Liberal","Libéral",N,N,33
+48012,"Calgary Shepard","Calgary Shepard"," 153","Calgary",N,N,"",0,376,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,94
+48012,"Calgary Shepard","Calgary Shepard"," 153","Calgary",N,N,"",0,376,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 153","Calgary",N,N,"",0,376,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 154","Calgary",N,N,"",0,396,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 154","Calgary",N,N,"",0,396,"Khan","","Gul","Liberal","Libéral",N,N,43
+48012,"Calgary Shepard","Calgary Shepard"," 154","Calgary",N,N,"",0,396,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,100
+48012,"Calgary Shepard","Calgary Shepard"," 154","Calgary",N,N,"",0,396,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 154","Calgary",N,N,"",0,396,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 155","Calgary",N,N,"",0,544,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 155","Calgary",N,N,"",0,544,"Khan","","Gul","Liberal","Libéral",N,N,63
+48012,"Calgary Shepard","Calgary Shepard"," 155","Calgary",N,N,"",0,544,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,187
+48012,"Calgary Shepard","Calgary Shepard"," 155","Calgary",N,N,"",0,544,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 155","Calgary",N,N,"",0,544,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 156","Calgary",N,N,"",0,489,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 156","Calgary",N,N,"",0,489,"Khan","","Gul","Liberal","Libéral",N,N,53
+48012,"Calgary Shepard","Calgary Shepard"," 156","Calgary",N,N,"",0,489,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,110
+48012,"Calgary Shepard","Calgary Shepard"," 156","Calgary",N,N,"",0,489,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 156","Calgary",N,N,"",0,489,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 157","Calgary",N,N,"",1,618,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 157","Calgary",N,N,"",1,618,"Khan","","Gul","Liberal","Libéral",N,N,55
+48012,"Calgary Shepard","Calgary Shepard"," 157","Calgary",N,N,"",1,618,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,153
+48012,"Calgary Shepard","Calgary Shepard"," 157","Calgary",N,N,"",1,618,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 157","Calgary",N,N,"",1,618,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 158A","Calgary",N,N,"",0,514,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 158A","Calgary",N,N,"",0,514,"Khan","","Gul","Liberal","Libéral",N,N,42
+48012,"Calgary Shepard","Calgary Shepard"," 158A","Calgary",N,N,"",0,514,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,99
+48012,"Calgary Shepard","Calgary Shepard"," 158A","Calgary",N,N,"",0,514,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 158A","Calgary",N,N,"",0,514,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 158B","Mobile poll/Bureau itinérant",N,N,"504",0,158,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 158B","Mobile poll/Bureau itinérant",N,N,"504",0,158,"Khan","","Gul","Liberal","Libéral",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 158B","Mobile poll/Bureau itinérant",N,N,"504",0,158,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,0
+48012,"Calgary Shepard","Calgary Shepard"," 158B","Mobile poll/Bureau itinérant",N,N,"504",0,158,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 158B","Mobile poll/Bureau itinérant",N,N,"504",0,158,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 159","Calgary",N,N,"",1,594,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 159","Calgary",N,N,"",1,594,"Khan","","Gul","Liberal","Libéral",N,N,47
+48012,"Calgary Shepard","Calgary Shepard"," 159","Calgary",N,N,"",1,594,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,108
+48012,"Calgary Shepard","Calgary Shepard"," 159","Calgary",N,N,"",1,594,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 159","Calgary",N,N,"",1,594,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 160","Calgary",N,N,"",0,734,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 160","Calgary",N,N,"",0,734,"Khan","","Gul","Liberal","Libéral",N,N,76
+48012,"Calgary Shepard","Calgary Shepard"," 160","Calgary",N,N,"",0,734,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,148
+48012,"Calgary Shepard","Calgary Shepard"," 160","Calgary",N,N,"",0,734,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 160","Calgary",N,N,"",0,734,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 161A","Calgary",N,N,"",0,431,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 161A","Calgary",N,N,"",0,431,"Khan","","Gul","Liberal","Libéral",N,N,34
+48012,"Calgary Shepard","Calgary Shepard"," 161A","Calgary",N,N,"",0,431,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,110
+48012,"Calgary Shepard","Calgary Shepard"," 161A","Calgary",N,N,"",0,431,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 161A","Calgary",N,N,"",0,431,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 161B","Calgary",N,N,"",0,435,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 161B","Calgary",N,N,"",0,435,"Khan","","Gul","Liberal","Libéral",N,N,34
+48012,"Calgary Shepard","Calgary Shepard"," 161B","Calgary",N,N,"",0,435,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,109
+48012,"Calgary Shepard","Calgary Shepard"," 161B","Calgary",N,N,"",0,435,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 161B","Calgary",N,N,"",0,435,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 162A","Calgary",N,N,"",0,709,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 162A","Calgary",N,N,"",0,709,"Khan","","Gul","Liberal","Libéral",N,N,84
+48012,"Calgary Shepard","Calgary Shepard"," 162A","Calgary",N,N,"",0,709,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,208
+48012,"Calgary Shepard","Calgary Shepard"," 162A","Calgary",N,N,"",0,709,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 162A","Calgary",N,N,"",0,709,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 162B","Calgary",N,N,"",1,728,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 162B","Calgary",N,N,"",1,728,"Khan","","Gul","Liberal","Libéral",N,N,75
+48012,"Calgary Shepard","Calgary Shepard"," 162B","Calgary",N,N,"",1,728,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,203
+48012,"Calgary Shepard","Calgary Shepard"," 162B","Calgary",N,N,"",1,728,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 162B","Calgary",N,N,"",1,728,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 163A","Calgary",N,N,"",0,585,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 163A","Calgary",N,N,"",0,585,"Khan","","Gul","Liberal","Libéral",N,N,69
+48012,"Calgary Shepard","Calgary Shepard"," 163A","Calgary",N,N,"",0,585,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,138
+48012,"Calgary Shepard","Calgary Shepard"," 163A","Calgary",N,N,"",0,585,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 163A","Calgary",N,N,"",0,585,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 163B","Calgary",N,N,"",0,632,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 163B","Calgary",N,N,"",0,632,"Khan","","Gul","Liberal","Libéral",N,N,60
+48012,"Calgary Shepard","Calgary Shepard"," 163B","Calgary",N,N,"",0,632,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,159
+48012,"Calgary Shepard","Calgary Shepard"," 163B","Calgary",N,N,"",0,632,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 163B","Calgary",N,N,"",0,632,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 164A","Calgary",N,N,"",7,714,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 164A","Calgary",N,N,"",7,714,"Khan","","Gul","Liberal","Libéral",N,N,70
+48012,"Calgary Shepard","Calgary Shepard"," 164A","Calgary",N,N,"",7,714,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,178
+48012,"Calgary Shepard","Calgary Shepard"," 164A","Calgary",N,N,"",7,714,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 164A","Calgary",N,N,"",7,714,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+48012,"Calgary Shepard","Calgary Shepard"," 164B","Calgary",N,N,"",7,747,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 164B","Calgary",N,N,"",7,747,"Khan","","Gul","Liberal","Libéral",N,N,74
+48012,"Calgary Shepard","Calgary Shepard"," 164B","Calgary",N,N,"",7,747,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,195
+48012,"Calgary Shepard","Calgary Shepard"," 164B","Calgary",N,N,"",7,747,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 164B","Calgary",N,N,"",7,747,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 500","Mobile poll/Bureau itinérant",N,N,"",3,141,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 500","Mobile poll/Bureau itinérant",N,N,"",3,141,"Khan","","Gul","Liberal","Libéral",N,N,27
+48012,"Calgary Shepard","Calgary Shepard"," 500","Mobile poll/Bureau itinérant",N,N,"",3,141,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,54
+48012,"Calgary Shepard","Calgary Shepard"," 500","Mobile poll/Bureau itinérant",N,N,"",3,141,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 500","Mobile poll/Bureau itinérant",N,N,"",3,141,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,104,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,104,"Khan","","Gul","Liberal","Libéral",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,104,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,0
+48012,"Calgary Shepard","Calgary Shepard"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,104,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,104,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,117,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,117,"Khan","","Gul","Liberal","Libéral",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,117,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,0
+48012,"Calgary Shepard","Calgary Shepard"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,117,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 502","Mobile poll/Bureau itinérant",N,N,"503",0,117,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 503","Mobile poll/Bureau itinérant",N,N,"",6,222,"Frasch","","Robert","Green Party","Parti Vert",N,N,0
+48012,"Calgary Shepard","Calgary Shepard"," 503","Mobile poll/Bureau itinérant",N,N,"",6,222,"Khan","","Gul","Liberal","Libéral",N,N,56
+48012,"Calgary Shepard","Calgary Shepard"," 503","Mobile poll/Bureau itinérant",N,N,"",6,222,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,115
+48012,"Calgary Shepard","Calgary Shepard"," 503","Mobile poll/Bureau itinérant",N,N,"",6,222,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 503","Mobile poll/Bureau itinérant",N,N,"",6,222,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 504","Mobile poll/Bureau itinérant",N,N,"",3,290,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 504","Mobile poll/Bureau itinérant",N,N,"",3,290,"Khan","","Gul","Liberal","Libéral",N,N,53
+48012,"Calgary Shepard","Calgary Shepard"," 504","Mobile poll/Bureau itinérant",N,N,"",3,290,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,118
+48012,"Calgary Shepard","Calgary Shepard"," 504","Mobile poll/Bureau itinérant",N,N,"",3,290,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 504","Mobile poll/Bureau itinérant",N,N,"",3,290,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 600","Calgary",N,N,"",0,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 600","Calgary",N,N,"",0,0,"Khan","","Gul","Liberal","Libéral",N,N,304
+48012,"Calgary Shepard","Calgary Shepard"," 600","Calgary",N,N,"",0,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,654
+48012,"Calgary Shepard","Calgary Shepard"," 600","Calgary",N,N,"",0,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 600","Calgary",N,N,"",0,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+48012,"Calgary Shepard","Calgary Shepard"," 601","Calgary",N,N,"",1,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,1
+48012,"Calgary Shepard","Calgary Shepard"," 601","Calgary",N,N,"",1,0,"Khan","","Gul","Liberal","Libéral",N,N,246
+48012,"Calgary Shepard","Calgary Shepard"," 601","Calgary",N,N,"",1,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,465
+48012,"Calgary Shepard","Calgary Shepard"," 601","Calgary",N,N,"",1,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 601","Calgary",N,N,"",1,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+48012,"Calgary Shepard","Calgary Shepard"," 602","Calgary",N,N,"",5,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,11
+48012,"Calgary Shepard","Calgary Shepard"," 602","Calgary",N,N,"",5,0,"Khan","","Gul","Liberal","Libéral",N,N,563
+48012,"Calgary Shepard","Calgary Shepard"," 602","Calgary",N,N,"",5,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,1319
+48012,"Calgary Shepard","Calgary Shepard"," 602","Calgary",N,N,"",5,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 602","Calgary",N,N,"",5,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+48012,"Calgary Shepard","Calgary Shepard"," 603","Calgary",N,N,"",2,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 603","Calgary",N,N,"",2,0,"Khan","","Gul","Liberal","Libéral",N,N,291
+48012,"Calgary Shepard","Calgary Shepard"," 603","Calgary",N,N,"",2,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,584
+48012,"Calgary Shepard","Calgary Shepard"," 603","Calgary",N,N,"",2,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 603","Calgary",N,N,"",2,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48012,"Calgary Shepard","Calgary Shepard"," 604","Calgary",N,N,"",0,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 604","Calgary",N,N,"",0,0,"Khan","","Gul","Liberal","Libéral",N,N,322
+48012,"Calgary Shepard","Calgary Shepard"," 604","Calgary",N,N,"",0,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,736
+48012,"Calgary Shepard","Calgary Shepard"," 604","Calgary",N,N,"",0,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 604","Calgary",N,N,"",0,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48012,"Calgary Shepard","Calgary Shepard"," 605","Calgary",N,N,"",2,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 605","Calgary",N,N,"",2,0,"Khan","","Gul","Liberal","Libéral",N,N,262
+48012,"Calgary Shepard","Calgary Shepard"," 605","Calgary",N,N,"",2,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,556
+48012,"Calgary Shepard","Calgary Shepard"," 605","Calgary",N,N,"",2,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,6
+48012,"Calgary Shepard","Calgary Shepard"," 605","Calgary",N,N,"",2,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+48012,"Calgary Shepard","Calgary Shepard"," 606","Calgary",N,N,"",3,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 606","Calgary",N,N,"",3,0,"Khan","","Gul","Liberal","Libéral",N,N,270
+48012,"Calgary Shepard","Calgary Shepard"," 606","Calgary",N,N,"",3,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,665
+48012,"Calgary Shepard","Calgary Shepard"," 606","Calgary",N,N,"",3,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 606","Calgary",N,N,"",3,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+48012,"Calgary Shepard","Calgary Shepard"," 607","Calgary",N,N,"",1,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 607","Calgary",N,N,"",1,0,"Khan","","Gul","Liberal","Libéral",N,N,342
+48012,"Calgary Shepard","Calgary Shepard"," 607","Calgary",N,N,"",1,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,708
+48012,"Calgary Shepard","Calgary Shepard"," 607","Calgary",N,N,"",1,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 607","Calgary",N,N,"",1,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48012,"Calgary Shepard","Calgary Shepard"," 608","Calgary",N,N,"",7,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,3
+48012,"Calgary Shepard","Calgary Shepard"," 608","Calgary",N,N,"",7,0,"Khan","","Gul","Liberal","Libéral",N,N,323
+48012,"Calgary Shepard","Calgary Shepard"," 608","Calgary",N,N,"",7,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,800
+48012,"Calgary Shepard","Calgary Shepard"," 608","Calgary",N,N,"",7,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 608","Calgary",N,N,"",7,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+48012,"Calgary Shepard","Calgary Shepard"," 609","Calgary",N,N,"",1,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,9
+48012,"Calgary Shepard","Calgary Shepard"," 609","Calgary",N,N,"",1,0,"Khan","","Gul","Liberal","Libéral",N,N,579
+48012,"Calgary Shepard","Calgary Shepard"," 609","Calgary",N,N,"",1,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,1487
+48012,"Calgary Shepard","Calgary Shepard"," 609","Calgary",N,N,"",1,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,14
+48012,"Calgary Shepard","Calgary Shepard"," 609","Calgary",N,N,"",1,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+48012,"Calgary Shepard","Calgary Shepard"," 610","Calgary",N,N,"",0,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 610","Calgary",N,N,"",0,0,"Khan","","Gul","Liberal","Libéral",N,N,392
+48012,"Calgary Shepard","Calgary Shepard"," 610","Calgary",N,N,"",0,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,942
+48012,"Calgary Shepard","Calgary Shepard"," 610","Calgary",N,N,"",0,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," 610","Calgary",N,N,"",0,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+48012,"Calgary Shepard","Calgary Shepard"," 611","Calgary",N,N,"",3,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 611","Calgary",N,N,"",3,0,"Khan","","Gul","Liberal","Libéral",N,N,415
+48012,"Calgary Shepard","Calgary Shepard"," 611","Calgary",N,N,"",3,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,970
+48012,"Calgary Shepard","Calgary Shepard"," 611","Calgary",N,N,"",3,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 611","Calgary",N,N,"",3,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+48012,"Calgary Shepard","Calgary Shepard"," 612","Calgary",N,N,"",2,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,8
+48012,"Calgary Shepard","Calgary Shepard"," 612","Calgary",N,N,"",2,0,"Khan","","Gul","Liberal","Libéral",N,N,463
+48012,"Calgary Shepard","Calgary Shepard"," 612","Calgary",N,N,"",2,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,1176
+48012,"Calgary Shepard","Calgary Shepard"," 612","Calgary",N,N,"",2,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 612","Calgary",N,N,"",2,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+48012,"Calgary Shepard","Calgary Shepard"," 613","Calgary",N,N,"",1,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," 613","Calgary",N,N,"",1,0,"Khan","","Gul","Liberal","Libéral",N,N,443
+48012,"Calgary Shepard","Calgary Shepard"," 613","Calgary",N,N,"",1,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,1147
+48012,"Calgary Shepard","Calgary Shepard"," 613","Calgary",N,N,"",1,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,14
+48012,"Calgary Shepard","Calgary Shepard"," 613","Calgary",N,N,"",1,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+48012,"Calgary Shepard","Calgary Shepard"," 614","Calgary",N,N,"",6,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 614","Calgary",N,N,"",6,0,"Khan","","Gul","Liberal","Libéral",N,N,502
+48012,"Calgary Shepard","Calgary Shepard"," 614","Calgary",N,N,"",6,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,1331
+48012,"Calgary Shepard","Calgary Shepard"," 614","Calgary",N,N,"",6,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 614","Calgary",N,N,"",6,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+48012,"Calgary Shepard","Calgary Shepard"," 615","Calgary",N,N,"",3,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,4
+48012,"Calgary Shepard","Calgary Shepard"," 615","Calgary",N,N,"",3,0,"Khan","","Gul","Liberal","Libéral",N,N,464
+48012,"Calgary Shepard","Calgary Shepard"," 615","Calgary",N,N,"",3,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,1210
+48012,"Calgary Shepard","Calgary Shepard"," 615","Calgary",N,N,"",3,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,7
+48012,"Calgary Shepard","Calgary Shepard"," 615","Calgary",N,N,"",3,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+48012,"Calgary Shepard","Calgary Shepard"," 616","Calgary",N,N,"",5,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,11
+48012,"Calgary Shepard","Calgary Shepard"," 616","Calgary",N,N,"",5,0,"Khan","","Gul","Liberal","Libéral",N,N,533
+48012,"Calgary Shepard","Calgary Shepard"," 616","Calgary",N,N,"",5,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,1132
+48012,"Calgary Shepard","Calgary Shepard"," 616","Calgary",N,N,"",5,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," 616","Calgary",N,N,"",5,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+48012,"Calgary Shepard","Calgary Shepard"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",52,317,"Frasch","","Robert","Green Party","Parti Vert",N,N,2
+48012,"Calgary Shepard","Calgary Shepard"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",52,317,"Khan","","Gul","Liberal","Libéral",N,N,383
+48012,"Calgary Shepard","Calgary Shepard"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",52,317,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,661
+48012,"Calgary Shepard","Calgary Shepard"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",52,317,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,5
+48012,"Calgary Shepard","Calgary Shepard"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",52,317,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+48012,"Calgary Shepard","Calgary Shepard"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",79,0,"Frasch","","Robert","Green Party","Parti Vert",N,N,10
+48012,"Calgary Shepard","Calgary Shepard"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",79,0,"Khan","","Gul","Liberal","Libéral",N,N,1413
+48012,"Calgary Shepard","Calgary Shepard"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",79,0,"Kmiec","","Tom","Conservative","Conservateur",Y,Y,3504
+48012,"Calgary Shepard","Calgary Shepard"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",79,0,"Legere","","Donald","People's Party - PPC","Parti populaire - PPC",N,N,21
+48012,"Calgary Shepard","Calgary Shepard"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",79,0,"Tomblin","","Tory","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,102

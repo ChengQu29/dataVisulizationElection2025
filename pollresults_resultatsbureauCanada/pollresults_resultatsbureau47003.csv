@@ -1,0 +1,493 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 1","Uranium City",N,N,"",0,102,"Belanger","","Buckley","Liberal","Libéral",N,Y,13
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 1","Uranium City",N,N,"",0,102,"Lemaigre","","Jim","Conservative","Conservateur",N,N,12
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 1","Uranium City",N,N,"",0,102,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 1-1","Camsell Portage",Y,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 1-1","Camsell Portage",Y,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 1-1","Camsell Portage",Y,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 2","Stony Rapids",N,N,"",0,109,"Belanger","","Buckley","Liberal","Libéral",N,Y,12
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 2","Stony Rapids",N,N,"",0,109,"Lemaigre","","Jim","Conservative","Conservateur",N,N,16
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 2","Stony Rapids",N,N,"",0,109,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 3","Chicken 224",N,N,"4",0,332,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 3","Chicken 224",N,N,"4",0,332,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 3","Chicken 224",N,N,"4",0,332,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 4","Chicken 224",N,N,"",4,419,"Belanger","","Buckley","Liberal","Libéral",N,Y,19
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 4","Chicken 224",N,N,"",4,419,"Lemaigre","","Jim","Conservative","Conservateur",N,N,34
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 4","Chicken 224",N,N,"",4,419,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 5","Fond-du-Lac",N,N,"",0,475,"Belanger","","Buckley","Liberal","Libéral",N,Y,34
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 5","Fond-du-Lac",N,N,"",0,475,"Lemaigre","","Jim","Conservative","Conservateur",N,N,15
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 5","Fond-du-Lac",N,N,"",0,475,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 6","Wollaston Lake",N,N,"",0,605,"Belanger","","Buckley","Liberal","Libéral",N,Y,28
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 6","Wollaston Lake",N,N,"",0,605,"Lemaigre","","Jim","Conservative","Conservateur",N,N,4
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 6","Wollaston Lake",N,N,"",0,605,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 7","Turnor Lake",N,N,"",0,230,"Belanger","","Buckley","Liberal","Libéral",N,Y,68
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 7","Turnor Lake",N,N,"",0,230,"Lemaigre","","Jim","Conservative","Conservateur",N,N,6
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 7","Turnor Lake",N,N,"",0,230,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 7-1","Turnor Lake 193B",N,N,"7",0,133,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 7-1","Turnor Lake 193B",N,N,"7",0,133,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 7-1","Turnor Lake 193B",N,N,"7",0,133,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 8","Clearwater River Dene 222",N,N,"",0,534,"Belanger","","Buckley","Liberal","Libéral",N,Y,45
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 8","Clearwater River Dene 222",N,N,"",0,534,"Lemaigre","","Jim","Conservative","Conservateur",N,N,40
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 8","Clearwater River Dene 222",N,N,"",0,534,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 9","Kinoosao-Thomas Clark 204",N,N,"23",0,8,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 9","Kinoosao-Thomas Clark 204",N,N,"23",0,8,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 9","Kinoosao-Thomas Clark 204",N,N,"23",0,8,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 10A","La Loche",N,N,"",1,180,"Belanger","","Buckley","Liberal","Libéral",N,Y,67
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 10A","La Loche",N,N,"",1,180,"Lemaigre","","Jim","Conservative","Conservateur",N,N,27
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 10A","La Loche",N,N,"",1,180,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 10B","La Loche",N,N,"11B",0,141,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 10B","La Loche",N,N,"11B",0,141,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 10B","La Loche",N,N,"11B",0,141,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 10C","La Loche",N,N,"12C",0,222,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 10C","La Loche",N,N,"12C",0,222,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 10C","La Loche",N,N,"12C",0,222,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 11A","La Loche",N,N,"10A",0,230,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 11A","La Loche",N,N,"10A",0,230,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 11A","La Loche",N,N,"10A",0,230,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 11B","La Loche",N,N,"",0,253,"Belanger","","Buckley","Liberal","Libéral",N,Y,79
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 11B","La Loche",N,N,"",0,253,"Lemaigre","","Jim","Conservative","Conservateur",N,N,20
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 11B","La Loche",N,N,"",0,253,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 11C","La Loche",N,N,"12C",0,333,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 11C","La Loche",N,N,"12C",0,333,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 11C","La Loche",N,N,"12C",0,333,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 12A","La Loche",N,N,"10A",0,104,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 12A","La Loche",N,N,"10A",0,104,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 12A","La Loche",N,N,"10A",0,104,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 12B","La Loche",N,N,"11B",0,136,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 12B","La Loche",N,N,"11B",0,136,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 12B","La Loche",N,N,"11B",0,136,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 12C","La Loche",N,N,"",0,200,"Belanger","","Buckley","Liberal","Libéral",N,Y,101
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 12C","La Loche",N,N,"",0,200,"Lemaigre","","Jim","Conservative","Conservateur",N,N,34
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 12C","La Loche",N,N,"",0,200,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 13","Clearwater River Dene Band 221",N,N,"8",0,67,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 13","Clearwater River Dene Band 221",N,N,"8",0,67,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 13","Clearwater River Dene Band 221",N,N,"8",0,67,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 13-1","Black Point",N,N,"10A",0,3,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 13-1","Black Point",N,N,"10A",0,3,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 13-1","Black Point",N,N,"10A",0,3,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 14A","Bear Creek",N,N,"10A",0,12,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 14A","Bear Creek",N,N,"10A",0,12,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 14A","Bear Creek",N,N,"10A",0,12,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 14B","Bear Creek",N,N,"11B",0,2,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 14B","Bear Creek",N,N,"11B",0,2,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 14B","Bear Creek",N,N,"11B",0,2,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 14C","Bear Creek",N,N,"12C",0,6,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 14C","Bear Creek",N,N,"12C",0,6,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 14C","Bear Creek",N,N,"12C",0,6,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 15","Michel Village",N,N,"",0,17,"Belanger","","Buckley","Liberal","Libéral",N,Y,10
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 15","Michel Village",N,N,"",0,17,"Lemaigre","","Jim","Conservative","Conservateur",N,N,3
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 15","Michel Village",N,N,"",0,17,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 16","Buffalo Narrows",N,N,"18",0,242,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 16","Buffalo Narrows",N,N,"18",0,242,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 16","Buffalo Narrows",N,N,"18",0,242,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 16-1","Clearwater River Dene Band 223",Y,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 16-1","Clearwater River Dene Band 223",Y,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 16-1","Clearwater River Dene Band 223",Y,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 17","Buffalo Narrows",N,N,"18",0,278,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 17","Buffalo Narrows",N,N,"18",0,278,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 17","Buffalo Narrows",N,N,"18",0,278,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 18","Buffalo Narrows",N,N,"",0,300,"Belanger","","Buckley","Liberal","Libéral",N,Y,109
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 18","Buffalo Narrows",N,N,"",0,300,"Lemaigre","","Jim","Conservative","Conservateur",N,N,56
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 18","Buffalo Narrows",N,N,"",0,300,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 19","Buffalo River Dene Nation",N,N,"",0,306,"Belanger","","Buckley","Liberal","Libéral",N,Y,90
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 19","Buffalo River Dene Nation",N,N,"",0,306,"Lemaigre","","Jim","Conservative","Conservateur",N,N,6
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 19","Buffalo River Dene Nation",N,N,"",0,306,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 20","Buffalo River Dene Nation",N,N,"19",0,278,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 20","Buffalo River Dene Nation",N,N,"19",0,278,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 20","Buffalo River Dene Nation",N,N,"19",0,278,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 20-1","St. George's Hill",N,N,"19",0,22,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 20-1","St. George's Hill",N,N,"19",0,22,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 20-1","St. George's Hill",N,N,"19",0,22,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 21","Brabant Lake",N,N,"",0,24,"Belanger","","Buckley","Liberal","Libéral",N,Y,4
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 21","Brabant Lake",N,N,"",0,24,"Lemaigre","","Jim","Conservative","Conservateur",N,N,5
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 21","Brabant Lake",N,N,"",0,24,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 22","Wapachewunak 192D",N,N,"",3,246,"Belanger","","Buckley","Liberal","Libéral",N,Y,127
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 22","Wapachewunak 192D",N,N,"",3,246,"Lemaigre","","Jim","Conservative","Conservateur",N,N,9
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 22","Wapachewunak 192D",N,N,"",3,246,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 22-1","Patuanak",N,N,"22",0,213,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 22-1","Patuanak",N,N,"22",0,213,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 22-1","Patuanak",N,N,"22",0,213,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 23","Southend 200--Southend No. 200A",N,N,"",0,561,"Belanger","","Buckley","Liberal","Libéral",N,Y,103
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 23","Southend 200--Southend No. 200A",N,N,"",0,561,"Lemaigre","","Jim","Conservative","Conservateur",N,N,3
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 23","Southend 200--Southend No. 200A",N,N,"",0,561,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 24","Île-à-la-Crosse",N,N,"",0,334,"Belanger","","Buckley","Liberal","Libéral",N,Y,86
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 24","Île-à-la-Crosse",N,N,"",0,334,"Lemaigre","","Jim","Conservative","Conservateur",N,N,9
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 24","Île-à-la-Crosse",N,N,"",0,334,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 25","Île-à-la-Crosse",N,N,"24",0,123,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 25","Île-à-la-Crosse",N,N,"24",0,123,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 25","Île-à-la-Crosse",N,N,"24",0,123,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 26","Île-à-la-Crosse",N,N,"",0,598,"Belanger","","Buckley","Liberal","Libéral",N,Y,111
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 26","Île-à-la-Crosse",N,N,"",0,598,"Lemaigre","","Jim","Conservative","Conservateur",N,N,14
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 26","Île-à-la-Crosse",N,N,"",0,598,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 27","Cole Bay",N,N,"",0,118,"Belanger","","Buckley","Liberal","Libéral",N,Y,35
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 27","Cole Bay",N,N,"",0,118,"Lemaigre","","Jim","Conservative","Conservateur",N,N,9
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 27","Cole Bay",N,N,"",0,118,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 28","Missinipe",N,N,"",0,36,"Belanger","","Buckley","Liberal","Libéral",N,Y,56
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 28","Missinipe",N,N,"",0,36,"Lemaigre","","Jim","Conservative","Conservateur",N,N,9
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 28","Missinipe",N,N,"",0,36,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 28-1","Grandmother's Bay 219",N,N,"28",0,176,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 28-1","Grandmother's Bay 219",N,N,"28",0,176,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 28-1","Grandmother's Bay 219",N,N,"28",0,176,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 29","Beauval--La Plonge 192",N,N,"",0,398,"Belanger","","Buckley","Liberal","Libéral",N,Y,111
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 29","Beauval--La Plonge 192",N,N,"",0,398,"Lemaigre","","Jim","Conservative","Conservateur",N,N,29
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 29","Beauval--La Plonge 192",N,N,"",0,398,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 30","Beauval--La Plonge 192",N,N,"29",0,183,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 30","Beauval--La Plonge 192",N,N,"29",0,183,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 30","Beauval--La Plonge 192",N,N,"29",0,183,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 31","Pinehouse",N,N,"",1,684,"Belanger","","Buckley","Liberal","Libéral",N,Y,72
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 31","Pinehouse",N,N,"",1,684,"Lemaigre","","Jim","Conservative","Conservateur",N,N,56
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 31","Pinehouse",N,N,"",1,684,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 32","Canoe Lake 165--Wepuskow Sahgaiechan 165D",N,N,"",0,577,"Belanger","","Buckley","Liberal","Libéral",N,Y,150
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 32","Canoe Lake 165--Wepuskow Sahgaiechan 165D",N,N,"",0,577,"Lemaigre","","Jim","Conservative","Conservateur",N,N,4
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 32","Canoe Lake 165--Wepuskow Sahgaiechan 165D",N,N,"",0,577,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 32-1","Jans Bay",N,N,"32",0,30,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 32-1","Jans Bay",N,N,"32",0,30,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 32-1","Jans Bay",N,N,"32",0,30,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 33","Matheson Island",N,N,"",0,72,"Belanger","","Buckley","Liberal","Libéral",N,Y,28
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 33","Matheson Island",N,N,"",0,72,"Lemaigre","","Jim","Conservative","Conservateur",N,N,21
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 33","Matheson Island",N,N,"",0,72,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 33-1","Morin Lake 217",N,N,"33",0,158,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 33-1","Morin Lake 217",N,N,"33",0,158,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 33-1","Morin Lake 217",N,N,"33",0,158,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 34","Sandy Bay",N,N,"",2,577,"Belanger","","Buckley","Liberal","Libéral",N,Y,62
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 34","Sandy Bay",N,N,"",2,577,"Lemaigre","","Jim","Conservative","Conservateur",N,N,13
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 34","Sandy Bay",N,N,"",2,577,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 35","Wapaskokimaw 202",N,N,"34",0,143,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 35","Wapaskokimaw 202",N,N,"34",0,143,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 35","Wapaskokimaw 202",N,N,"34",0,143,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 36A","Stanley Mission",N,N,"37A",0,27,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 36A","Stanley Mission",N,N,"37A",0,27,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 36A","Stanley Mission",N,N,"37A",0,27,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 36B","Stanley Mission",N,N,"37B",0,36,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 36B","Stanley Mission",N,N,"37B",0,36,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 36B","Stanley Mission",N,N,"37B",0,36,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37A","Stanley 157",N,N,"",0,247,"Belanger","","Buckley","Liberal","Libéral",N,Y,110
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37A","Stanley 157",N,N,"",0,247,"Lemaigre","","Jim","Conservative","Conservateur",N,N,14
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37A","Stanley 157",N,N,"",0,247,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37B","Stanley 157",N,N,"",1,162,"Belanger","","Buckley","Liberal","Libéral",N,Y,69
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37B","Stanley 157",N,N,"",1,162,"Lemaigre","","Jim","Conservative","Conservateur",N,N,8
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37B","Stanley 157",N,N,"",1,162,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37-1A","Stanley 157",N,N,"37A",0,390,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37-1A","Stanley 157",N,N,"37A",0,390,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37-1A","Stanley 157",N,N,"37A",0,390,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37-1B","Stanley 157",N,N,"37B",0,260,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37-1B","Stanley 157",N,N,"37B",0,260,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 37-1B","Stanley 157",N,N,"37B",0,260,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 38","Sucker River 156C (Nemebien River 156C)",N,N,"",0,244,"Belanger","","Buckley","Liberal","Libéral",N,Y,29
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 38","Sucker River 156C (Nemebien River 156C)",N,N,"",0,244,"Lemaigre","","Jim","Conservative","Conservateur",N,N,10
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 38","Sucker River 156C (Nemebien River 156C)",N,N,"",0,244,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 39","La Ronge",N,N,"40",0,119,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 39","La Ronge",N,N,"40",0,119,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 39","La Ronge",N,N,"40",0,119,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 40","La Ronge",N,N,"",0,567,"Belanger","","Buckley","Liberal","Libéral",N,Y,85
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 40","La Ronge",N,N,"",0,567,"Lemaigre","","Jim","Conservative","Conservateur",N,N,62
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 40","La Ronge",N,N,"",0,567,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 41A","La Ronge",N,N,"",1,618,"Belanger","","Buckley","Liberal","Libéral",N,Y,74
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 41A","La Ronge",N,N,"",1,618,"Lemaigre","","Jim","Conservative","Conservateur",N,N,58
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 41A","La Ronge",N,N,"",1,618,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 41B","Mobile poll/Bureau itinérant",N,N,"503",0,2,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 41B","Mobile poll/Bureau itinérant",N,N,"503",0,2,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 41B","Mobile poll/Bureau itinérant",N,N,"503",0,2,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 42","La Ronge",N,N,"43",0,379,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 42","La Ronge",N,N,"43",0,379,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 42","La Ronge",N,N,"43",0,379,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 43","La Ronge",N,N,"",0,390,"Belanger","","Buckley","Liberal","Libéral",N,Y,81
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 43","La Ronge",N,N,"",0,390,"Lemaigre","","Jim","Conservative","Conservateur",N,N,49
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 43","La Ronge",N,N,"",0,390,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 44","Kitsakie 156B",N,N,"",1,343,"Belanger","","Buckley","Liberal","Libéral",N,Y,58
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 44","Kitsakie 156B",N,N,"",1,343,"Lemaigre","","Jim","Conservative","Conservateur",N,N,37
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 44","Kitsakie 156B",N,N,"",1,343,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 45","La Ronge",N,N,"44",0,351,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 45","La Ronge",N,N,"44",0,351,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 45","La Ronge",N,N,"44",0,351,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 45-1","Four Portages 157C",Y,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 45-1","Four Portages 157C",Y,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 45-1","Four Portages 157C",Y,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 46","Air Ronge",N,N,"",2,409,"Belanger","","Buckley","Liberal","Libéral",N,Y,51
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 46","Air Ronge",N,N,"",2,409,"Lemaigre","","Jim","Conservative","Conservateur",N,N,47
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 46","Air Ronge",N,N,"",2,409,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 47","Air Ronge",N,N,"48",0,225,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 47","Air Ronge",N,N,"48",0,225,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 47","Air Ronge",N,N,"48",0,225,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 48","Air Ronge",N,N,"",0,354,"Belanger","","Buckley","Liberal","Libéral",N,Y,44
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 48","Air Ronge",N,N,"",0,354,"Lemaigre","","Jim","Conservative","Conservateur",N,N,60
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 48","Air Ronge",N,N,"",0,354,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 49A","Lac la Ronge 156",N,N,"",3,480,"Belanger","","Buckley","Liberal","Libéral",N,Y,35
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 49A","Lac la Ronge 156",N,N,"",3,480,"Lemaigre","","Jim","Conservative","Conservateur",N,N,11
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 49A","Lac la Ronge 156",N,N,"",3,480,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 49B","Mobile poll/Bureau itinérant",N,N,"503",0,6,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 49B","Mobile poll/Bureau itinérant",N,N,"503",0,6,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 49B","Mobile poll/Bureau itinérant",N,N,"503",0,6,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 50A","Lac la Ronge 156",N,N,"",1,594,"Belanger","","Buckley","Liberal","Libéral",N,Y,71
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 50A","Lac la Ronge 156",N,N,"",1,594,"Lemaigre","","Jim","Conservative","Conservateur",N,N,13
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 50A","Lac la Ronge 156",N,N,"",1,594,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 50B","Mobile poll/Bureau itinérant",N,N,"503",0,5,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 50B","Mobile poll/Bureau itinérant",N,N,"503",0,5,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 50B","Mobile poll/Bureau itinérant",N,N,"503",0,5,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 51","Pelican Narrows 184B",N,N,"",4,499,"Belanger","","Buckley","Liberal","Libéral",N,Y,211
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 51","Pelican Narrows 184B",N,N,"",4,499,"Lemaigre","","Jim","Conservative","Conservateur",N,N,10
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 51","Pelican Narrows 184B",N,N,"",4,499,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 51-1","Pelican Narrows",N,N,"51",0,320,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 51-1","Pelican Narrows",N,N,"51",0,320,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 51-1","Pelican Narrows",N,N,"51",0,320,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 52","Pelican Narrows 184B",N,N,"51",0,424,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 52","Pelican Narrows 184B",N,N,"51",0,424,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 52","Pelican Narrows 184B",N,N,"51",0,424,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 53","Pelican Narrows 184B",N,N,"51",0,158,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 53","Pelican Narrows 184B",N,N,"51",0,158,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 53","Pelican Narrows 184B",N,N,"51",0,158,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 54","Dore Lake",N,N,"",0,47,"Belanger","","Buckley","Liberal","Libéral",N,Y,3
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 54","Dore Lake",N,N,"",0,47,"Lemaigre","","Jim","Conservative","Conservateur",N,N,27
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 54","Dore Lake",N,N,"",0,47,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 55","Green Lake",N,N,"",0,342,"Belanger","","Buckley","Liberal","Libéral",N,Y,62
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 55","Green Lake",N,N,"",0,342,"Lemaigre","","Jim","Conservative","Conservateur",N,N,43
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 55","Green Lake",N,N,"",0,342,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 56","Weyakwin",N,N,"",0,111,"Belanger","","Buckley","Liberal","Libéral",N,Y,28
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 56","Weyakwin",N,N,"",0,111,"Lemaigre","","Jim","Conservative","Conservateur",N,N,22
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 56","Weyakwin",N,N,"",0,111,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 57","Creighton",N,N,"60",0,221,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 57","Creighton",N,N,"60",0,221,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 57","Creighton",N,N,"60",0,221,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 58","Creighton",N,N,"60",0,395,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 58","Creighton",N,N,"60",0,395,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 58","Creighton",N,N,"60",0,395,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 59","Creighton",N,N,"60",0,229,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 59","Creighton",N,N,"60",0,229,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 59","Creighton",N,N,"60",0,229,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 60","Creighton",N,N,"",4,470,"Belanger","","Buckley","Liberal","Libéral",N,Y,99
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 60","Creighton",N,N,"",4,470,"Lemaigre","","Jim","Conservative","Conservateur",N,N,254
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 60","Creighton",N,N,"",4,470,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 61","Kimosom Pwatinahk 203",N,N,"",0,638,"Belanger","","Buckley","Liberal","Libéral",N,Y,180
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 61","Kimosom Pwatinahk 203",N,N,"",0,638,"Lemaigre","","Jim","Conservative","Conservateur",N,N,17
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 61","Kimosom Pwatinahk 203",N,N,"",0,638,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 62","Denare Beach",N,N,"",3,371,"Belanger","","Buckley","Liberal","Libéral",N,Y,57
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 62","Denare Beach",N,N,"",3,371,"Lemaigre","","Jim","Conservative","Conservateur",N,N,137
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 62","Denare Beach",N,N,"",3,371,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 62-1","Denare Beach",N,N,"62",0,248,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 62-1","Denare Beach",N,N,"62",0,248,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 62-1","Denare Beach",N,N,"62",0,248,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 63","Amiskosakahikan 210",N,N,"62",0,23,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 63","Amiskosakahikan 210",N,N,"62",0,23,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 63","Amiskosakahikan 210",N,N,"62",0,23,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 64","Montreal Lake 106",N,N,"",8,675,"Belanger","","Buckley","Liberal","Libéral",N,Y,141
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 64","Montreal Lake 106",N,N,"",8,675,"Lemaigre","","Jim","Conservative","Conservateur",N,N,9
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 64","Montreal Lake 106",N,N,"",8,675,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 65","Timber Bay",N,N,"64",0,36,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 65","Timber Bay",N,N,"64",0,36,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 65","Timber Bay",N,N,"64",0,36,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 66","Little Bear Lake",N,N,"",0,81,"Belanger","","Buckley","Liberal","Libéral",N,Y,5
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 66","Little Bear Lake",N,N,"",0,81,"Lemaigre","","Jim","Conservative","Conservateur",N,N,46
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 66","Little Bear Lake",N,N,"",0,81,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 67","Sturgeon Weir 205",N,N,"60",0,42,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 67","Sturgeon Weir 205",N,N,"60",0,42,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 67","Sturgeon Weir 205",N,N,"60",0,42,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 68","Cumberland House",N,N,"",1,333,"Belanger","","Buckley","Liberal","Libéral",N,Y,234
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 68","Cumberland House",N,N,"",1,333,"Lemaigre","","Jim","Conservative","Conservateur",N,N,12
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 68","Cumberland House",N,N,"",1,333,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 69","Cumberland House Cree Nation 20",N,N,"68",0,110,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 69","Cumberland House Cree Nation 20",N,N,"68",0,110,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 69","Cumberland House Cree Nation 20",N,N,"68",0,110,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 70","Cumberland House",N,N,"68",0,463,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 70","Cumberland House",N,N,"68",0,463,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 70","Cumberland House",N,N,"68",0,463,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 70-1","Opaskwayak Cree Nation 27A",Y,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 70-1","Opaskwayak Cree Nation 27A",Y,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 70-1","Opaskwayak Cree Nation 27A",Y,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 71","Red Earth 29",N,N,"",3,543,"Belanger","","Buckley","Liberal","Libéral",N,Y,218
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 71","Red Earth 29",N,N,"",3,543,"Lemaigre","","Jim","Conservative","Conservateur",N,N,7
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 71","Red Earth 29",N,N,"",3,543,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 72","Shoal Lake 28A",N,N,"71",0,329,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 72","Shoal Lake 28A",N,N,"71",0,329,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 72","Shoal Lake 28A",N,N,"71",0,329,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 500","Mobile poll/Bureau itinérant",N,N,"",0,12,"Belanger","","Buckley","Liberal","Libéral",N,Y,9
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 500","Mobile poll/Bureau itinérant",N,N,"",0,12,"Lemaigre","","Jim","Conservative","Conservateur",N,N,2
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 500","Mobile poll/Bureau itinérant",N,N,"",0,12,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,1,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,1,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,1,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 502","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 502","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 502","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 503","Mobile poll/Bureau itinérant",N,N,"",1,14,"Belanger","","Buckley","Liberal","Libéral",N,Y,7
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 503","Mobile poll/Bureau itinérant",N,N,"",1,14,"Lemaigre","","Jim","Conservative","Conservateur",N,N,2
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 503","Mobile poll/Bureau itinérant",N,N,"",1,14,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 504","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 504","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 504","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 600","Camsell Portage",N,N,"604",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 600","Camsell Portage",N,N,"604",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 600","Camsell Portage",N,N,"604",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 601","Uranium City",N,N,"604",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 601","Uranium City",N,N,"604",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 601","Uranium City",N,N,"604",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 602","Fond-du-Lac",N,N,"604",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 602","Fond-du-Lac",N,N,"604",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 602","Fond-du-Lac",N,N,"604",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 603","Stony Rapids",N,N,"604",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 603","Stony Rapids",N,N,"604",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 603","Stony Rapids",N,N,"604",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 604","Chicken 224",N,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,3
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 604","Chicken 224",N,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,9
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 604","Chicken 224",N,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 605","Wollaston Lake",N,N,"",2,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,46
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 605","Wollaston Lake",N,N,"",2,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,12
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 605","Wollaston Lake",N,N,"",2,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 606","Kinoosao-Thomas Clark 204",N,N,"614",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 606","Kinoosao-Thomas Clark 204",N,N,"614",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 606","Kinoosao-Thomas Clark 204",N,N,"614",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 607","Turnor Lake",N,N,"609",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 607","Turnor Lake",N,N,"609",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 607","Turnor Lake",N,N,"609",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 608","Clearwater River Dene 222",N,N,"609",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 608","Clearwater River Dene 222",N,N,"609",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 608","Clearwater River Dene 222",N,N,"609",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 609","La Loche",N,N,"",4,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,177
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 609","La Loche",N,N,"",4,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,50
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 609","La Loche",N,N,"",4,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 610","Clearwater River Dene Band 221",N,N,"609",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 610","Clearwater River Dene Band 221",N,N,"609",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 610","Clearwater River Dene Band 221",N,N,"609",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 611","Black Point",N,N,"609",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 611","Black Point",N,N,"609",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 611","Black Point",N,N,"609",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 612","Turnor Lake 193B",N,N,"609",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 612","Turnor Lake 193B",N,N,"609",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 612","Turnor Lake 193B",N,N,"609",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 613","Brabant Lake",N,N,"614",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 613","Brabant Lake",N,N,"614",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 613","Brabant Lake",N,N,"614",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 614","Southend 200--Southend No. 200A",N,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,33
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 614","Southend 200--Southend No. 200A",N,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,6
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 614","Southend 200--Southend No. 200A",N,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 615","Sandy Bay",N,N,"646",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 615","Sandy Bay",N,N,"646",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 615","Sandy Bay",N,N,"646",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 616","Wapaskokimaw 202",N,N,"646",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 616","Wapaskokimaw 202",N,N,"646",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 616","Wapaskokimaw 202",N,N,"646",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 617","Missinipe",N,N,"",1,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,382
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 617","Missinipe",N,N,"",1,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,271
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 617","Missinipe",N,N,"",1,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 618","Grandmother's Bay 219",N,N,"617",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 618","Grandmother's Bay 219",N,N,"617",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 618","Grandmother's Bay 219",N,N,"617",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 619","Stanley 157",N,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,100
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 619","Stanley 157",N,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,7
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 619","Stanley 157",N,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 620","Four Portages 157C",N,N,"617",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 620","Four Portages 157C",N,N,"617",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 620","Four Portages 157C",N,N,"617",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 621","Sucker River 156C (Nemebien River 156C)",N,N,"617",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 621","Sucker River 156C (Nemebien River 156C)",N,N,"617",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 621","Sucker River 156C (Nemebien River 156C)",N,N,"617",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 622","Kitsakie 156B",N,N,"617",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 622","Kitsakie 156B",N,N,"617",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 622","Kitsakie 156B",N,N,"617",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 623","Air Ronge",N,N,"617",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 623","Air Ronge",N,N,"617",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 623","Air Ronge",N,N,"617",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 624","Lac la Ronge 156",N,N,"617",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 624","Lac la Ronge 156",N,N,"617",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 624","Lac la Ronge 156",N,N,"617",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 625","Morin Lake 217",N,N,"617",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 625","Morin Lake 217",N,N,"617",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 625","Morin Lake 217",N,N,"617",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 626","Pinehouse",N,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,23
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 626","Pinehouse",N,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,13
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 626","Pinehouse",N,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 627","Wapachewunak 192D",N,N,"629",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 627","Wapachewunak 192D",N,N,"629",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 627","Wapachewunak 192D",N,N,"629",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 628","Patuanak",N,N,"629",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 628","Patuanak",N,N,"629",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 628","Patuanak",N,N,"629",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 629","Beauval--La Plonge 192",N,N,"",2,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,85
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 629","Beauval--La Plonge 192",N,N,"",2,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,12
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 629","Beauval--La Plonge 192",N,N,"",2,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 630","Île-à-la-Crosse",N,N,"",1,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,241
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 630","Île-à-la-Crosse",N,N,"",1,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,7
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 630","Île-à-la-Crosse",N,N,"",1,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 631","Buffalo Narrows",N,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,79
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 631","Buffalo Narrows",N,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,42
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 631","Buffalo Narrows",N,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 632","Clearwater River Dene Band 223",N,N,"609",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 632","Clearwater River Dene Band 223",N,N,"609",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 632","Clearwater River Dene Band 223",N,N,"609",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 633","Michel Village",N,N,"634",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 633","Michel Village",N,N,"634",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 633","Michel Village",N,N,"634",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 634","Buffalo River Dene Nation",N,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,73
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 634","Buffalo River Dene Nation",N,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,16
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 634","Buffalo River Dene Nation",N,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 635","St. George's Hill",N,N,"634",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 635","St. George's Hill",N,N,"634",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 635","St. George's Hill",N,N,"634",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 636","Cole Bay",N,N,"638",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 636","Cole Bay",N,N,"638",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 636","Cole Bay",N,N,"638",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 637","Jans Bay",N,N,"638",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 637","Jans Bay",N,N,"638",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 637","Jans Bay",N,N,"638",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 638","Canoe Lake 165--Wepuskow Sahgaiechan 165D",N,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,73
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 638","Canoe Lake 165--Wepuskow Sahgaiechan 165D",N,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 638","Canoe Lake 165--Wepuskow Sahgaiechan 165D",N,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 639","Green Lake",N,N,"629",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 639","Green Lake",N,N,"629",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 639","Green Lake",N,N,"629",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 640","Dore Lake",N,N,"629",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 640","Dore Lake",N,N,"629",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 640","Dore Lake",N,N,"629",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 641","Weyakwin",N,N,"642",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 641","Weyakwin",N,N,"642",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 641","Weyakwin",N,N,"642",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 642","Montreal Lake 106",N,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,135
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 642","Montreal Lake 106",N,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,11
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 642","Montreal Lake 106",N,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 643","Timber Bay",N,N,"642",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 643","Timber Bay",N,N,"642",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 643","Timber Bay",N,N,"642",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 644","Christopher Lake",N,N,"617",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 644","Christopher Lake",N,N,"617",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 644","Christopher Lake",N,N,"617",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 645","Kimosom Pwatinahk 203",N,N,"646",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 645","Kimosom Pwatinahk 203",N,N,"646",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 645","Kimosom Pwatinahk 203",N,N,"646",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 646","Pelican Narrows 184B",N,N,"",2,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,110
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 646","Pelican Narrows 184B",N,N,"",2,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,12
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 646","Pelican Narrows 184B",N,N,"",2,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 647","Pelican Narrows",N,N,"646",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 647","Pelican Narrows",N,N,"646",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 647","Pelican Narrows",N,N,"646",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 648","Creighton",N,N,"",2,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,90
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 648","Creighton",N,N,"",2,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,221
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 648","Creighton",N,N,"",2,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 649","Denare Beach",N,N,"648",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 649","Denare Beach",N,N,"648",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 649","Denare Beach",N,N,"648",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 650","Amiskosakahikan 210",N,N,"648",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 650","Amiskosakahikan 210",N,N,"648",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 650","Amiskosakahikan 210",N,N,"648",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 651","Sturgeon Weir 205",N,N,"648",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 651","Sturgeon Weir 205",N,N,"648",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 651","Sturgeon Weir 205",N,N,"648",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 652","Cumberland House",N,N,"",2,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,310
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 652","Cumberland House",N,N,"",2,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,13
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 652","Cumberland House",N,N,"",2,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 653","Cumberland House Cree Nation 20",N,N,"652",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 653","Cumberland House Cree Nation 20",N,N,"652",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 653","Cumberland House Cree Nation 20",N,N,"652",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 654","Opaskwayak Cree Nation 27A",N,N,"655",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 654","Opaskwayak Cree Nation 27A",N,N,"655",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 654","Opaskwayak Cree Nation 27A",N,N,"655",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 655","Red Earth 29",N,N,"",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,34
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 655","Red Earth 29",N,N,"",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,10
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 655","Red Earth 29",N,N,"",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 656","Shoal Lake 28A",N,N,"655",0,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 656","Shoal Lake 28A",N,N,"655",0,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," 656","Shoal Lake 28A",N,N,"655",0,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",28,252,"Belanger","","Buckley","Liberal","Libéral",N,Y,196
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",28,252,"Lemaigre","","Jim","Conservative","Conservateur",N,N,75
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",28,252,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",2,0,"Belanger","","Buckley","Liberal","Libéral",N,Y,105
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",2,0,"Lemaigre","","Jim","Conservative","Conservateur",N,N,103
+47003,"Desnethé--Missinippi--Churchill River","Desnethé--Missinippi--Rivière Churchill"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",2,0,"Racine","","Doug","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20

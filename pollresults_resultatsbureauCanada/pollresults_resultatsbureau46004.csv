@@ -1,0 +1,889 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 1","West St. Paul",N,N,"",2,412,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 1","West St. Paul",N,N,"",2,412,"Dancho","","Raquel","Conservative","Conservateur",N,Y,110
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 1","West St. Paul",N,N,"",2,412,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 1","West St. Paul",N,N,"",2,412,"Naaykens","","Thomas","Liberal","Libéral",N,N,55
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 2","West St. Paul",N,N,"",6,520,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 2","West St. Paul",N,N,"",6,520,"Dancho","","Raquel","Conservative","Conservateur",N,Y,149
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 2","West St. Paul",N,N,"",6,520,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 2","West St. Paul",N,N,"",6,520,"Naaykens","","Thomas","Liberal","Libéral",N,N,65
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 3","West St. Paul",N,N,"",0,379,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 3","West St. Paul",N,N,"",0,379,"Dancho","","Raquel","Conservative","Conservateur",N,Y,95
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 3","West St. Paul",N,N,"",0,379,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 3","West St. Paul",N,N,"",0,379,"Naaykens","","Thomas","Liberal","Libéral",N,N,69
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 4","West St. Paul",N,N,"",0,443,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 4","West St. Paul",N,N,"",0,443,"Dancho","","Raquel","Conservative","Conservateur",N,Y,104
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 4","West St. Paul",N,N,"",0,443,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 4","West St. Paul",N,N,"",0,443,"Naaykens","","Thomas","Liberal","Libéral",N,N,54
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 5","Blackdale",N,N,"",1,423,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 5","Blackdale",N,N,"",1,423,"Dancho","","Raquel","Conservative","Conservateur",N,Y,101
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 5","Blackdale",N,N,"",1,423,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 5","Blackdale",N,N,"",1,423,"Naaykens","","Thomas","Liberal","Libéral",N,N,58
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 6","West St. Paul",N,N,"",0,575,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 6","West St. Paul",N,N,"",0,575,"Dancho","","Raquel","Conservative","Conservateur",N,Y,110
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 6","West St. Paul",N,N,"",0,575,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 6","West St. Paul",N,N,"",0,575,"Naaykens","","Thomas","Liberal","Libéral",N,N,70
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 7","Middlechurch",N,N,"",0,586,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 7","Middlechurch",N,N,"",0,586,"Dancho","","Raquel","Conservative","Conservateur",N,Y,146
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 7","Middlechurch",N,N,"",0,586,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 7","Middlechurch",N,N,"",0,586,"Naaykens","","Thomas","Liberal","Libéral",N,N,57
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 8","West St. Paul",N,N,"",0,656,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 8","West St. Paul",N,N,"",0,656,"Dancho","","Raquel","Conservative","Conservateur",N,Y,163
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 8","West St. Paul",N,N,"",0,656,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 8","West St. Paul",N,N,"",0,656,"Naaykens","","Thomas","Liberal","Libéral",N,N,105
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 9","Riverdale",N,N,"",0,465,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 9","Riverdale",N,N,"",0,465,"Dancho","","Raquel","Conservative","Conservateur",N,Y,101
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 9","Riverdale",N,N,"",0,465,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 9","Riverdale",N,N,"",0,465,"Naaykens","","Thomas","Liberal","Libéral",N,N,78
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 10","Middlechurch",N,N,"",0,412,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 10","Middlechurch",N,N,"",0,412,"Dancho","","Raquel","Conservative","Conservateur",N,Y,82
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 10","Middlechurch",N,N,"",0,412,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 10","Middlechurch",N,N,"",0,412,"Naaykens","","Thomas","Liberal","Libéral",N,N,94
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 11","West St. Paul",N,N,"",0,322,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 11","West St. Paul",N,N,"",0,322,"Dancho","","Raquel","Conservative","Conservateur",N,Y,80
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 11","West St. Paul",N,N,"",0,322,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 11","West St. Paul",N,N,"",0,322,"Naaykens","","Thomas","Liberal","Libéral",N,N,43
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 12","West St. Paul",N,N,"",1,478,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 12","West St. Paul",N,N,"",1,478,"Dancho","","Raquel","Conservative","Conservateur",N,Y,129
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 12","West St. Paul",N,N,"",1,478,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 12","West St. Paul",N,N,"",1,478,"Naaykens","","Thomas","Liberal","Libéral",N,N,57
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 13","West St. Paul",N,N,"",0,548,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 13","West St. Paul",N,N,"",0,548,"Dancho","","Raquel","Conservative","Conservateur",N,Y,128
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 13","West St. Paul",N,N,"",0,548,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 13","West St. Paul",N,N,"",0,548,"Naaykens","","Thomas","Liberal","Libéral",N,N,89
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 14","East St. Paul",N,N,"",1,438,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 14","East St. Paul",N,N,"",1,438,"Dancho","","Raquel","Conservative","Conservateur",N,Y,113
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 14","East St. Paul",N,N,"",1,438,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 14","East St. Paul",N,N,"",1,438,"Naaykens","","Thomas","Liberal","Libéral",N,N,62
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 15","East St. Paul",N,N,"",0,333,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 15","East St. Paul",N,N,"",0,333,"Dancho","","Raquel","Conservative","Conservateur",N,Y,61
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 15","East St. Paul",N,N,"",0,333,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 15","East St. Paul",N,N,"",0,333,"Naaykens","","Thomas","Liberal","Libéral",N,N,47
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 16","East St. Paul",N,N,"",0,351,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 16","East St. Paul",N,N,"",0,351,"Dancho","","Raquel","Conservative","Conservateur",N,Y,106
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 16","East St. Paul",N,N,"",0,351,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 16","East St. Paul",N,N,"",0,351,"Naaykens","","Thomas","Liberal","Libéral",N,N,48
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 17","East St. Paul",N,N,"",1,429,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 17","East St. Paul",N,N,"",1,429,"Dancho","","Raquel","Conservative","Conservateur",N,Y,92
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 17","East St. Paul",N,N,"",1,429,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 17","East St. Paul",N,N,"",1,429,"Naaykens","","Thomas","Liberal","Libéral",N,N,81
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 18","East St. Paul",N,N,"",0,352,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 18","East St. Paul",N,N,"",0,352,"Dancho","","Raquel","Conservative","Conservateur",N,Y,75
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 18","East St. Paul",N,N,"",0,352,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 18","East St. Paul",N,N,"",0,352,"Naaykens","","Thomas","Liberal","Libéral",N,N,31
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 19","Melrose",N,N,"",1,469,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 19","Melrose",N,N,"",1,469,"Dancho","","Raquel","Conservative","Conservateur",N,Y,105
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 19","Melrose",N,N,"",1,469,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 19","Melrose",N,N,"",1,469,"Naaykens","","Thomas","Liberal","Libéral",N,N,61
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 20","Springfield",N,N,"",0,290,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 20","Springfield",N,N,"",0,290,"Dancho","","Raquel","Conservative","Conservateur",N,Y,71
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 20","Springfield",N,N,"",0,290,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 20","Springfield",N,N,"",0,290,"Naaykens","","Thomas","Liberal","Libéral",N,N,33
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 21","Pine Ridge",N,N,"",0,363,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 21","Pine Ridge",N,N,"",0,363,"Dancho","","Raquel","Conservative","Conservateur",N,Y,83
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 21","Pine Ridge",N,N,"",0,363,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 21","Pine Ridge",N,N,"",0,363,"Naaykens","","Thomas","Liberal","Libéral",N,N,56
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 22","Springfield",N,N,"",0,375,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 22","Springfield",N,N,"",0,375,"Dancho","","Raquel","Conservative","Conservateur",N,Y,70
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 22","Springfield",N,N,"",0,375,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 22","Springfield",N,N,"",0,375,"Naaykens","","Thomas","Liberal","Libéral",N,N,20
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 23","Springfield",N,N,"",0,468,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 23","Springfield",N,N,"",0,468,"Dancho","","Raquel","Conservative","Conservateur",N,Y,111
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 23","Springfield",N,N,"",0,468,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 23","Springfield",N,N,"",0,468,"Naaykens","","Thomas","Liberal","Libéral",N,N,46
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 24","Springfield",N,N,"",0,348,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 24","Springfield",N,N,"",0,348,"Dancho","","Raquel","Conservative","Conservateur",N,Y,85
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 24","Springfield",N,N,"",0,348,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 24","Springfield",N,N,"",0,348,"Naaykens","","Thomas","Liberal","Libéral",N,N,23
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 25","East St. Paul",N,N,"",3,273,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 25","East St. Paul",N,N,"",3,273,"Dancho","","Raquel","Conservative","Conservateur",N,Y,38
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 25","East St. Paul",N,N,"",3,273,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 25","East St. Paul",N,N,"",3,273,"Naaykens","","Thomas","Liberal","Libéral",N,N,106
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 26","East St. Paul",N,N,"",1,359,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 26","East St. Paul",N,N,"",1,359,"Dancho","","Raquel","Conservative","Conservateur",N,Y,84
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 26","East St. Paul",N,N,"",1,359,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 26","East St. Paul",N,N,"",1,359,"Naaykens","","Thomas","Liberal","Libéral",N,N,67
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 27","East St. Paul",N,N,"",3,418,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 27","East St. Paul",N,N,"",3,418,"Dancho","","Raquel","Conservative","Conservateur",N,Y,118
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 27","East St. Paul",N,N,"",3,418,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 27","East St. Paul",N,N,"",3,418,"Naaykens","","Thomas","Liberal","Libéral",N,N,62
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 28","Winnipeg",N,N,"",3,501,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 28","Winnipeg",N,N,"",3,501,"Dancho","","Raquel","Conservative","Conservateur",N,Y,142
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 28","Winnipeg",N,N,"",3,501,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 28","Winnipeg",N,N,"",3,501,"Naaykens","","Thomas","Liberal","Libéral",N,N,121
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 29","Winnipeg",N,N,"",2,404,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 29","Winnipeg",N,N,"",2,404,"Dancho","","Raquel","Conservative","Conservateur",N,Y,96
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 29","Winnipeg",N,N,"",2,404,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 29","Winnipeg",N,N,"",2,404,"Naaykens","","Thomas","Liberal","Libéral",N,N,112
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 30","East St. Paul",N,N,"",0,460,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 30","East St. Paul",N,N,"",0,460,"Dancho","","Raquel","Conservative","Conservateur",N,Y,92
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 30","East St. Paul",N,N,"",0,460,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 30","East St. Paul",N,N,"",0,460,"Naaykens","","Thomas","Liberal","Libéral",N,N,67
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 31","East St. Paul",N,N,"",0,385,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 31","East St. Paul",N,N,"",0,385,"Dancho","","Raquel","Conservative","Conservateur",N,Y,79
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 31","East St. Paul",N,N,"",0,385,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 31","East St. Paul",N,N,"",0,385,"Naaykens","","Thomas","Liberal","Libéral",N,N,50
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 32","East St. Paul",N,N,"",1,429,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 32","East St. Paul",N,N,"",1,429,"Dancho","","Raquel","Conservative","Conservateur",N,Y,86
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 32","East St. Paul",N,N,"",1,429,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 32","East St. Paul",N,N,"",1,429,"Naaykens","","Thomas","Liberal","Libéral",N,N,68
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 33","Winnipeg",N,N,"",0,815,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 33","Winnipeg",N,N,"",0,815,"Dancho","","Raquel","Conservative","Conservateur",N,Y,117
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 33","Winnipeg",N,N,"",0,815,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 33","Winnipeg",N,N,"",0,815,"Naaykens","","Thomas","Liberal","Libéral",N,N,117
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 34","Winnipeg",N,N,"",4,591,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 34","Winnipeg",N,N,"",4,591,"Dancho","","Raquel","Conservative","Conservateur",N,Y,117
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 34","Winnipeg",N,N,"",4,591,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 34","Winnipeg",N,N,"",4,591,"Naaykens","","Thomas","Liberal","Libéral",N,N,87
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 35","Winnipeg",N,N,"",4,731,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 35","Winnipeg",N,N,"",4,731,"Dancho","","Raquel","Conservative","Conservateur",N,Y,123
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 35","Winnipeg",N,N,"",4,731,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 35","Winnipeg",N,N,"",4,731,"Naaykens","","Thomas","Liberal","Libéral",N,N,107
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 36","Winnipeg",N,N,"",2,511,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 36","Winnipeg",N,N,"",2,511,"Dancho","","Raquel","Conservative","Conservateur",N,Y,76
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 36","Winnipeg",N,N,"",2,511,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 36","Winnipeg",N,N,"",2,511,"Naaykens","","Thomas","Liberal","Libéral",N,N,80
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 37","Winnipeg",N,N,"",5,417,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 37","Winnipeg",N,N,"",5,417,"Dancho","","Raquel","Conservative","Conservateur",N,Y,59
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 37","Winnipeg",N,N,"",5,417,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 37","Winnipeg",N,N,"",5,417,"Naaykens","","Thomas","Liberal","Libéral",N,N,64
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 38","East St. Paul",N,N,"",0,351,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 38","East St. Paul",N,N,"",0,351,"Dancho","","Raquel","Conservative","Conservateur",N,Y,87
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 38","East St. Paul",N,N,"",0,351,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 38","East St. Paul",N,N,"",0,351,"Naaykens","","Thomas","Liberal","Libéral",N,N,78
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 39","East St. Paul",N,N,"",1,351,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 39","East St. Paul",N,N,"",1,351,"Dancho","","Raquel","Conservative","Conservateur",N,Y,94
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 39","East St. Paul",N,N,"",1,351,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 39","East St. Paul",N,N,"",1,351,"Naaykens","","Thomas","Liberal","Libéral",N,N,62
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 40","East St. Paul",N,N,"",1,303,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 40","East St. Paul",N,N,"",1,303,"Dancho","","Raquel","Conservative","Conservateur",N,Y,77
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 40","East St. Paul",N,N,"",1,303,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 40","East St. Paul",N,N,"",1,303,"Naaykens","","Thomas","Liberal","Libéral",N,N,46
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 41","East St. Paul",N,N,"",0,424,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 41","East St. Paul",N,N,"",0,424,"Dancho","","Raquel","Conservative","Conservateur",N,Y,102
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 41","East St. Paul",N,N,"",0,424,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 41","East St. Paul",N,N,"",0,424,"Naaykens","","Thomas","Liberal","Libéral",N,N,66
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 42","East St. Paul",N,N,"",2,384,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 42","East St. Paul",N,N,"",2,384,"Dancho","","Raquel","Conservative","Conservateur",N,Y,90
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 42","East St. Paul",N,N,"",2,384,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 42","East St. Paul",N,N,"",2,384,"Naaykens","","Thomas","Liberal","Libéral",N,N,57
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 43","East St. Paul",N,N,"",1,633,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 43","East St. Paul",N,N,"",1,633,"Dancho","","Raquel","Conservative","Conservateur",N,Y,137
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 43","East St. Paul",N,N,"",1,633,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 43","East St. Paul",N,N,"",1,633,"Naaykens","","Thomas","Liberal","Libéral",N,N,94
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 44","Winnipeg",N,N,"",2,546,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 44","Winnipeg",N,N,"",2,546,"Dancho","","Raquel","Conservative","Conservateur",N,Y,108
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 44","Winnipeg",N,N,"",2,546,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 44","Winnipeg",N,N,"",2,546,"Naaykens","","Thomas","Liberal","Libéral",N,N,73
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 45","Winnipeg",N,N,"",1,357,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 45","Winnipeg",N,N,"",1,357,"Dancho","","Raquel","Conservative","Conservateur",N,Y,61
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 45","Winnipeg",N,N,"",1,357,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 45","Winnipeg",N,N,"",1,357,"Naaykens","","Thomas","Liberal","Libéral",N,N,91
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 46","East St. Paul",N,N,"",1,457,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 46","East St. Paul",N,N,"",1,457,"Dancho","","Raquel","Conservative","Conservateur",N,Y,114
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 46","East St. Paul",N,N,"",1,457,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 46","East St. Paul",N,N,"",1,457,"Naaykens","","Thomas","Liberal","Libéral",N,N,81
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 47","East St. Paul",N,N,"",2,368,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 47","East St. Paul",N,N,"",2,368,"Dancho","","Raquel","Conservative","Conservateur",N,Y,61
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 47","East St. Paul",N,N,"",2,368,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 47","East St. Paul",N,N,"",2,368,"Naaykens","","Thomas","Liberal","Libéral",N,N,62
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 48","East St. Paul",N,N,"",3,571,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 48","East St. Paul",N,N,"",3,571,"Dancho","","Raquel","Conservative","Conservateur",N,Y,143
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 48","East St. Paul",N,N,"",3,571,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 48","East St. Paul",N,N,"",3,571,"Naaykens","","Thomas","Liberal","Libéral",N,N,85
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 49","Winnipeg",N,N,"",3,461,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 49","Winnipeg",N,N,"",3,461,"Dancho","","Raquel","Conservative","Conservateur",N,Y,91
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 49","Winnipeg",N,N,"",3,461,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 49","Winnipeg",N,N,"",3,461,"Naaykens","","Thomas","Liberal","Libéral",N,N,93
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 50","Winnipeg",N,N,"",0,540,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 50","Winnipeg",N,N,"",0,540,"Dancho","","Raquel","Conservative","Conservateur",N,Y,103
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 50","Winnipeg",N,N,"",0,540,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 50","Winnipeg",N,N,"",0,540,"Naaykens","","Thomas","Liberal","Libéral",N,N,58
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 51","Winnipeg",N,N,"",0,428,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 51","Winnipeg",N,N,"",0,428,"Dancho","","Raquel","Conservative","Conservateur",N,Y,54
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 51","Winnipeg",N,N,"",0,428,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 51","Winnipeg",N,N,"",0,428,"Naaykens","","Thomas","Liberal","Libéral",N,N,67
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 52","Winnipeg",N,N,"",0,574,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 52","Winnipeg",N,N,"",0,574,"Dancho","","Raquel","Conservative","Conservateur",N,Y,114
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 52","Winnipeg",N,N,"",0,574,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 52","Winnipeg",N,N,"",0,574,"Naaykens","","Thomas","Liberal","Libéral",N,N,89
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 53","Winnipeg",N,N,"",2,350,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 53","Winnipeg",N,N,"",2,350,"Dancho","","Raquel","Conservative","Conservateur",N,Y,51
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 53","Winnipeg",N,N,"",2,350,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 53","Winnipeg",N,N,"",2,350,"Naaykens","","Thomas","Liberal","Libéral",N,N,49
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 54","Winnipeg",N,N,"",2,610,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 54","Winnipeg",N,N,"",2,610,"Dancho","","Raquel","Conservative","Conservateur",N,Y,136
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 54","Winnipeg",N,N,"",2,610,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 54","Winnipeg",N,N,"",2,610,"Naaykens","","Thomas","Liberal","Libéral",N,N,95
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 55","Winnipeg",N,N,"",1,542,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 55","Winnipeg",N,N,"",1,542,"Dancho","","Raquel","Conservative","Conservateur",N,Y,106
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 55","Winnipeg",N,N,"",1,542,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 55","Winnipeg",N,N,"",1,542,"Naaykens","","Thomas","Liberal","Libéral",N,N,87
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 56","Winnipeg",N,N,"",0,419,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 56","Winnipeg",N,N,"",0,419,"Dancho","","Raquel","Conservative","Conservateur",N,Y,60
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 56","Winnipeg",N,N,"",0,419,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 56","Winnipeg",N,N,"",0,419,"Naaykens","","Thomas","Liberal","Libéral",N,N,95
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 57","Winnipeg",N,N,"",0,519,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 57","Winnipeg",N,N,"",0,519,"Dancho","","Raquel","Conservative","Conservateur",N,Y,91
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 57","Winnipeg",N,N,"",0,519,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 57","Winnipeg",N,N,"",0,519,"Naaykens","","Thomas","Liberal","Libéral",N,N,65
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 58","Winnipeg",N,N,"",0,386,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 58","Winnipeg",N,N,"",0,386,"Dancho","","Raquel","Conservative","Conservateur",N,Y,79
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 58","Winnipeg",N,N,"",0,386,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 58","Winnipeg",N,N,"",0,386,"Naaykens","","Thomas","Liberal","Libéral",N,N,64
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 59","Winnipeg",N,N,"",3,319,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 59","Winnipeg",N,N,"",3,319,"Dancho","","Raquel","Conservative","Conservateur",N,Y,59
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 59","Winnipeg",N,N,"",3,319,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 59","Winnipeg",N,N,"",3,319,"Naaykens","","Thomas","Liberal","Libéral",N,N,57
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 60","Winnipeg",N,N,"",1,549,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 60","Winnipeg",N,N,"",1,549,"Dancho","","Raquel","Conservative","Conservateur",N,Y,87
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 60","Winnipeg",N,N,"",1,549,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 60","Winnipeg",N,N,"",1,549,"Naaykens","","Thomas","Liberal","Libéral",N,N,100
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 61","Winnipeg",N,N,"",1,568,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 61","Winnipeg",N,N,"",1,568,"Dancho","","Raquel","Conservative","Conservateur",N,Y,100
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 61","Winnipeg",N,N,"",1,568,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 61","Winnipeg",N,N,"",1,568,"Naaykens","","Thomas","Liberal","Libéral",N,N,134
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 62","Winnipeg",N,N,"",0,390,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 62","Winnipeg",N,N,"",0,390,"Dancho","","Raquel","Conservative","Conservateur",N,Y,59
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 62","Winnipeg",N,N,"",0,390,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 62","Winnipeg",N,N,"",0,390,"Naaykens","","Thomas","Liberal","Libéral",N,N,101
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 63","Winnipeg",N,N,"",6,461,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 63","Winnipeg",N,N,"",6,461,"Dancho","","Raquel","Conservative","Conservateur",N,Y,71
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 63","Winnipeg",N,N,"",6,461,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 63","Winnipeg",N,N,"",6,461,"Naaykens","","Thomas","Liberal","Libéral",N,N,80
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 64","Winnipeg",N,N,"",0,390,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 64","Winnipeg",N,N,"",0,390,"Dancho","","Raquel","Conservative","Conservateur",N,Y,54
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 64","Winnipeg",N,N,"",0,390,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 64","Winnipeg",N,N,"",0,390,"Naaykens","","Thomas","Liberal","Libéral",N,N,71
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 65","Winnipeg",N,N,"",1,420,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 65","Winnipeg",N,N,"",1,420,"Dancho","","Raquel","Conservative","Conservateur",N,Y,54
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 65","Winnipeg",N,N,"",1,420,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 65","Winnipeg",N,N,"",1,420,"Naaykens","","Thomas","Liberal","Libéral",N,N,34
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 66","Winnipeg",N,N,"",0,459,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 66","Winnipeg",N,N,"",0,459,"Dancho","","Raquel","Conservative","Conservateur",N,Y,57
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 66","Winnipeg",N,N,"",0,459,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 66","Winnipeg",N,N,"",0,459,"Naaykens","","Thomas","Liberal","Libéral",N,N,65
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 67","Winnipeg",N,N,"",0,476,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 67","Winnipeg",N,N,"",0,476,"Dancho","","Raquel","Conservative","Conservateur",N,Y,63
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 67","Winnipeg",N,N,"",0,476,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 67","Winnipeg",N,N,"",0,476,"Naaykens","","Thomas","Liberal","Libéral",N,N,46
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 68","Winnipeg",N,N,"",2,338,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 68","Winnipeg",N,N,"",2,338,"Dancho","","Raquel","Conservative","Conservateur",N,Y,42
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 68","Winnipeg",N,N,"",2,338,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 68","Winnipeg",N,N,"",2,338,"Naaykens","","Thomas","Liberal","Libéral",N,N,25
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 69","Winnipeg",N,N,"",0,417,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 69","Winnipeg",N,N,"",0,417,"Dancho","","Raquel","Conservative","Conservateur",N,Y,47
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 69","Winnipeg",N,N,"",0,417,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 69","Winnipeg",N,N,"",0,417,"Naaykens","","Thomas","Liberal","Libéral",N,N,64
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 70","Winnipeg",N,N,"",0,487,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 70","Winnipeg",N,N,"",0,487,"Dancho","","Raquel","Conservative","Conservateur",N,Y,78
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 70","Winnipeg",N,N,"",0,487,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 70","Winnipeg",N,N,"",0,487,"Naaykens","","Thomas","Liberal","Libéral",N,N,74
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 71","Winnipeg",N,N,"",0,523,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 71","Winnipeg",N,N,"",0,523,"Dancho","","Raquel","Conservative","Conservateur",N,Y,77
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 71","Winnipeg",N,N,"",0,523,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 71","Winnipeg",N,N,"",0,523,"Naaykens","","Thomas","Liberal","Libéral",N,N,70
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 72","Winnipeg",N,N,"",3,516,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 72","Winnipeg",N,N,"",3,516,"Dancho","","Raquel","Conservative","Conservateur",N,Y,67
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 72","Winnipeg",N,N,"",3,516,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 72","Winnipeg",N,N,"",3,516,"Naaykens","","Thomas","Liberal","Libéral",N,N,67
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 73","Winnipeg",N,N,"",0,413,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 73","Winnipeg",N,N,"",0,413,"Dancho","","Raquel","Conservative","Conservateur",N,Y,81
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 73","Winnipeg",N,N,"",0,413,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 73","Winnipeg",N,N,"",0,413,"Naaykens","","Thomas","Liberal","Libéral",N,N,86
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 74","Winnipeg",N,N,"",0,379,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 74","Winnipeg",N,N,"",0,379,"Dancho","","Raquel","Conservative","Conservateur",N,Y,82
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 74","Winnipeg",N,N,"",0,379,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 74","Winnipeg",N,N,"",0,379,"Naaykens","","Thomas","Liberal","Libéral",N,N,83
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 75","Winnipeg",N,N,"",0,374,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 75","Winnipeg",N,N,"",0,374,"Dancho","","Raquel","Conservative","Conservateur",N,Y,59
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 75","Winnipeg",N,N,"",0,374,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 75","Winnipeg",N,N,"",0,374,"Naaykens","","Thomas","Liberal","Libéral",N,N,54
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 76","Winnipeg",N,N,"",1,492,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 76","Winnipeg",N,N,"",1,492,"Dancho","","Raquel","Conservative","Conservateur",N,Y,77
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 76","Winnipeg",N,N,"",1,492,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 76","Winnipeg",N,N,"",1,492,"Naaykens","","Thomas","Liberal","Libéral",N,N,92
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 77","Winnipeg",N,N,"",3,537,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 77","Winnipeg",N,N,"",3,537,"Dancho","","Raquel","Conservative","Conservateur",N,Y,94
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 77","Winnipeg",N,N,"",3,537,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 77","Winnipeg",N,N,"",3,537,"Naaykens","","Thomas","Liberal","Libéral",N,N,104
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 78","Winnipeg",N,N,"",1,472,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 78","Winnipeg",N,N,"",1,472,"Dancho","","Raquel","Conservative","Conservateur",N,Y,96
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 78","Winnipeg",N,N,"",1,472,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 78","Winnipeg",N,N,"",1,472,"Naaykens","","Thomas","Liberal","Libéral",N,N,75
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 79","Winnipeg",N,N,"",1,412,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 79","Winnipeg",N,N,"",1,412,"Dancho","","Raquel","Conservative","Conservateur",N,Y,100
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 79","Winnipeg",N,N,"",1,412,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 79","Winnipeg",N,N,"",1,412,"Naaykens","","Thomas","Liberal","Libéral",N,N,78
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 80","Winnipeg",N,N,"",1,339,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 80","Winnipeg",N,N,"",1,339,"Dancho","","Raquel","Conservative","Conservateur",N,Y,75
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 80","Winnipeg",N,N,"",1,339,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 80","Winnipeg",N,N,"",1,339,"Naaykens","","Thomas","Liberal","Libéral",N,N,66
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 81","Winnipeg",N,N,"",1,388,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 81","Winnipeg",N,N,"",1,388,"Dancho","","Raquel","Conservative","Conservateur",N,Y,113
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 81","Winnipeg",N,N,"",1,388,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 81","Winnipeg",N,N,"",1,388,"Naaykens","","Thomas","Liberal","Libéral",N,N,70
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 82","Oakbank",N,N,"",1,362,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 82","Oakbank",N,N,"",1,362,"Dancho","","Raquel","Conservative","Conservateur",N,Y,106
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 82","Oakbank",N,N,"",1,362,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 82","Oakbank",N,N,"",1,362,"Naaykens","","Thomas","Liberal","Libéral",N,N,38
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 83","Springfield",N,N,"",0,452,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 83","Springfield",N,N,"",0,452,"Dancho","","Raquel","Conservative","Conservateur",N,Y,125
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 83","Springfield",N,N,"",0,452,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 83","Springfield",N,N,"",0,452,"Naaykens","","Thomas","Liberal","Libéral",N,N,36
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 84","Springfield",N,N,"",1,540,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 84","Springfield",N,N,"",1,540,"Dancho","","Raquel","Conservative","Conservateur",N,Y,122
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 84","Springfield",N,N,"",1,540,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 84","Springfield",N,N,"",1,540,"Naaykens","","Thomas","Liberal","Libéral",N,N,59
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 85","Springfield",N,N,"",0,368,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 85","Springfield",N,N,"",0,368,"Dancho","","Raquel","Conservative","Conservateur",N,Y,82
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 85","Springfield",N,N,"",0,368,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 85","Springfield",N,N,"",0,368,"Naaykens","","Thomas","Liberal","Libéral",N,N,46
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 86","Springfield",N,N,"",2,424,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 86","Springfield",N,N,"",2,424,"Dancho","","Raquel","Conservative","Conservateur",N,Y,100
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 86","Springfield",N,N,"",2,424,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 86","Springfield",N,N,"",2,424,"Naaykens","","Thomas","Liberal","Libéral",N,N,38
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 87","Winnipeg",N,N,"",2,332,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 87","Winnipeg",N,N,"",2,332,"Dancho","","Raquel","Conservative","Conservateur",N,Y,46
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 87","Winnipeg",N,N,"",2,332,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 87","Winnipeg",N,N,"",2,332,"Naaykens","","Thomas","Liberal","Libéral",N,N,59
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 88","Winnipeg",N,N,"",0,348,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 88","Winnipeg",N,N,"",0,348,"Dancho","","Raquel","Conservative","Conservateur",N,Y,80
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 88","Winnipeg",N,N,"",0,348,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 88","Winnipeg",N,N,"",0,348,"Naaykens","","Thomas","Liberal","Libéral",N,N,79
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89A","Winnipeg",N,N,"",1,278,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89A","Winnipeg",N,N,"",1,278,"Dancho","","Raquel","Conservative","Conservateur",N,Y,29
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89A","Winnipeg",N,N,"",1,278,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89A","Winnipeg",N,N,"",1,278,"Naaykens","","Thomas","Liberal","Libéral",N,N,23
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89B","Mobile poll/Bureau itinérant",N,N,"509",0,53,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89B","Mobile poll/Bureau itinérant",N,N,"509",0,53,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89B","Mobile poll/Bureau itinérant",N,N,"509",0,53,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89B","Mobile poll/Bureau itinérant",N,N,"509",0,53,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89C","Mobile poll/Bureau itinérant",N,N,"509",0,33,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89C","Mobile poll/Bureau itinérant",N,N,"509",0,33,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89C","Mobile poll/Bureau itinérant",N,N,"509",0,33,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 89C","Mobile poll/Bureau itinérant",N,N,"509",0,33,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 90","Winnipeg",N,N,"",0,350,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 90","Winnipeg",N,N,"",0,350,"Dancho","","Raquel","Conservative","Conservateur",N,Y,65
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 90","Winnipeg",N,N,"",0,350,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 90","Winnipeg",N,N,"",0,350,"Naaykens","","Thomas","Liberal","Libéral",N,N,84
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 91","Winnipeg",N,N,"",0,330,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 91","Winnipeg",N,N,"",0,330,"Dancho","","Raquel","Conservative","Conservateur",N,Y,57
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 91","Winnipeg",N,N,"",0,330,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 91","Winnipeg",N,N,"",0,330,"Naaykens","","Thomas","Liberal","Libéral",N,N,85
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 92","Winnipeg",N,N,"",1,385,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 92","Winnipeg",N,N,"",1,385,"Dancho","","Raquel","Conservative","Conservateur",N,Y,62
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 92","Winnipeg",N,N,"",1,385,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 92","Winnipeg",N,N,"",1,385,"Naaykens","","Thomas","Liberal","Libéral",N,N,94
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 93","Winnipeg",N,N,"",5,573,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 93","Winnipeg",N,N,"",5,573,"Dancho","","Raquel","Conservative","Conservateur",N,Y,112
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 93","Winnipeg",N,N,"",5,573,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 93","Winnipeg",N,N,"",5,573,"Naaykens","","Thomas","Liberal","Libéral",N,N,139
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 94","Winnipeg",N,N,"",2,460,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 94","Winnipeg",N,N,"",2,460,"Dancho","","Raquel","Conservative","Conservateur",N,Y,95
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 94","Winnipeg",N,N,"",2,460,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 94","Winnipeg",N,N,"",2,460,"Naaykens","","Thomas","Liberal","Libéral",N,N,84
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 95","Winnipeg",N,N,"",3,461,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 95","Winnipeg",N,N,"",3,461,"Dancho","","Raquel","Conservative","Conservateur",N,Y,80
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 95","Winnipeg",N,N,"",3,461,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 95","Winnipeg",N,N,"",3,461,"Naaykens","","Thomas","Liberal","Libéral",N,N,95
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 96","Winnipeg",N,N,"",0,553,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 96","Winnipeg",N,N,"",0,553,"Dancho","","Raquel","Conservative","Conservateur",N,Y,136
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 96","Winnipeg",N,N,"",0,553,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 96","Winnipeg",N,N,"",0,553,"Naaykens","","Thomas","Liberal","Libéral",N,N,109
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 97","Winnipeg",N,N,"",1,306,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 97","Winnipeg",N,N,"",1,306,"Dancho","","Raquel","Conservative","Conservateur",N,Y,69
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 97","Winnipeg",N,N,"",1,306,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 97","Winnipeg",N,N,"",1,306,"Naaykens","","Thomas","Liberal","Libéral",N,N,94
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 98","Winnipeg",N,N,"",2,430,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 98","Winnipeg",N,N,"",2,430,"Dancho","","Raquel","Conservative","Conservateur",N,Y,87
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 98","Winnipeg",N,N,"",2,430,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 98","Winnipeg",N,N,"",2,430,"Naaykens","","Thomas","Liberal","Libéral",N,N,92
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 99","Winnipeg",N,N,"",1,508,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 99","Winnipeg",N,N,"",1,508,"Dancho","","Raquel","Conservative","Conservateur",N,Y,101
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 99","Winnipeg",N,N,"",1,508,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 99","Winnipeg",N,N,"",1,508,"Naaykens","","Thomas","Liberal","Libéral",N,N,118
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 100","Winnipeg",N,N,"",1,337,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 100","Winnipeg",N,N,"",1,337,"Dancho","","Raquel","Conservative","Conservateur",N,Y,44
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 100","Winnipeg",N,N,"",1,337,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 100","Winnipeg",N,N,"",1,337,"Naaykens","","Thomas","Liberal","Libéral",N,N,53
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 101","Winnipeg",N,N,"",3,505,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 101","Winnipeg",N,N,"",3,505,"Dancho","","Raquel","Conservative","Conservateur",N,Y,100
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 101","Winnipeg",N,N,"",3,505,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 101","Winnipeg",N,N,"",3,505,"Naaykens","","Thomas","Liberal","Libéral",N,N,92
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 102","Winnipeg",N,N,"",0,542,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 102","Winnipeg",N,N,"",0,542,"Dancho","","Raquel","Conservative","Conservateur",N,Y,95
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 102","Winnipeg",N,N,"",0,542,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 102","Winnipeg",N,N,"",0,542,"Naaykens","","Thomas","Liberal","Libéral",N,N,99
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 103","Winnipeg",N,N,"",0,365,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 103","Winnipeg",N,N,"",0,365,"Dancho","","Raquel","Conservative","Conservateur",N,Y,80
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 103","Winnipeg",N,N,"",0,365,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 103","Winnipeg",N,N,"",0,365,"Naaykens","","Thomas","Liberal","Libéral",N,N,50
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 104","Winnipeg",N,N,"",1,494,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 104","Winnipeg",N,N,"",1,494,"Dancho","","Raquel","Conservative","Conservateur",N,Y,87
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 104","Winnipeg",N,N,"",1,494,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 104","Winnipeg",N,N,"",1,494,"Naaykens","","Thomas","Liberal","Libéral",N,N,100
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 105","Winnipeg",N,N,"",0,439,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 105","Winnipeg",N,N,"",0,439,"Dancho","","Raquel","Conservative","Conservateur",N,Y,62
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 105","Winnipeg",N,N,"",0,439,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 105","Winnipeg",N,N,"",0,439,"Naaykens","","Thomas","Liberal","Libéral",N,N,43
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 106","Winnipeg",N,N,"",0,416,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 106","Winnipeg",N,N,"",0,416,"Dancho","","Raquel","Conservative","Conservateur",N,Y,103
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 106","Winnipeg",N,N,"",0,416,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 106","Winnipeg",N,N,"",0,416,"Naaykens","","Thomas","Liberal","Libéral",N,N,76
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 107","Winnipeg",N,N,"",2,327,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 107","Winnipeg",N,N,"",2,327,"Dancho","","Raquel","Conservative","Conservateur",N,Y,75
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 107","Winnipeg",N,N,"",2,327,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 107","Winnipeg",N,N,"",2,327,"Naaykens","","Thomas","Liberal","Libéral",N,N,77
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 108","Winnipeg",N,N,"",0,351,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 108","Winnipeg",N,N,"",0,351,"Dancho","","Raquel","Conservative","Conservateur",N,Y,56
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 108","Winnipeg",N,N,"",0,351,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 108","Winnipeg",N,N,"",0,351,"Naaykens","","Thomas","Liberal","Libéral",N,N,54
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 109","Winnipeg",N,N,"",2,442,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 109","Winnipeg",N,N,"",2,442,"Dancho","","Raquel","Conservative","Conservateur",N,Y,95
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 109","Winnipeg",N,N,"",2,442,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 109","Winnipeg",N,N,"",2,442,"Naaykens","","Thomas","Liberal","Libéral",N,N,76
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 110","Winnipeg",N,N,"",1,329,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 110","Winnipeg",N,N,"",1,329,"Dancho","","Raquel","Conservative","Conservateur",N,Y,45
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 110","Winnipeg",N,N,"",1,329,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 110","Winnipeg",N,N,"",1,329,"Naaykens","","Thomas","Liberal","Libéral",N,N,52
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 111","Winnipeg",N,N,"",3,504,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 111","Winnipeg",N,N,"",3,504,"Dancho","","Raquel","Conservative","Conservateur",N,Y,75
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 111","Winnipeg",N,N,"",3,504,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 111","Winnipeg",N,N,"",3,504,"Naaykens","","Thomas","Liberal","Libéral",N,N,83
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 112","Winnipeg",N,N,"",1,475,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 112","Winnipeg",N,N,"",1,475,"Dancho","","Raquel","Conservative","Conservateur",N,Y,91
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 112","Winnipeg",N,N,"",1,475,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 112","Winnipeg",N,N,"",1,475,"Naaykens","","Thomas","Liberal","Libéral",N,N,58
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 113","Winnipeg",N,N,"",0,355,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 113","Winnipeg",N,N,"",0,355,"Dancho","","Raquel","Conservative","Conservateur",N,Y,74
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 113","Winnipeg",N,N,"",0,355,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 113","Winnipeg",N,N,"",0,355,"Naaykens","","Thomas","Liberal","Libéral",N,N,51
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 114","Winnipeg",N,N,"",0,341,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 114","Winnipeg",N,N,"",0,341,"Dancho","","Raquel","Conservative","Conservateur",N,Y,65
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 114","Winnipeg",N,N,"",0,341,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 114","Winnipeg",N,N,"",0,341,"Naaykens","","Thomas","Liberal","Libéral",N,N,43
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 115","Winnipeg",N,N,"",1,417,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 115","Winnipeg",N,N,"",1,417,"Dancho","","Raquel","Conservative","Conservateur",N,Y,79
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 115","Winnipeg",N,N,"",1,417,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 115","Winnipeg",N,N,"",1,417,"Naaykens","","Thomas","Liberal","Libéral",N,N,95
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 116","Winnipeg",N,N,"",0,378,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 116","Winnipeg",N,N,"",0,378,"Dancho","","Raquel","Conservative","Conservateur",N,Y,67
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 116","Winnipeg",N,N,"",0,378,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 116","Winnipeg",N,N,"",0,378,"Naaykens","","Thomas","Liberal","Libéral",N,N,47
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 117","Winnipeg",N,N,"",0,383,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 117","Winnipeg",N,N,"",0,383,"Dancho","","Raquel","Conservative","Conservateur",N,Y,69
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 117","Winnipeg",N,N,"",0,383,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 117","Winnipeg",N,N,"",0,383,"Naaykens","","Thomas","Liberal","Libéral",N,N,74
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 118","Winnipeg",N,N,"",1,445,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 118","Winnipeg",N,N,"",1,445,"Dancho","","Raquel","Conservative","Conservateur",N,Y,43
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 118","Winnipeg",N,N,"",1,445,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 118","Winnipeg",N,N,"",1,445,"Naaykens","","Thomas","Liberal","Libéral",N,N,56
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 119","Winnipeg",N,N,"",1,347,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 119","Winnipeg",N,N,"",1,347,"Dancho","","Raquel","Conservative","Conservateur",N,Y,43
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 119","Winnipeg",N,N,"",1,347,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 119","Winnipeg",N,N,"",1,347,"Naaykens","","Thomas","Liberal","Libéral",N,N,37
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 120","Winnipeg",N,N,"",0,373,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 120","Winnipeg",N,N,"",0,373,"Dancho","","Raquel","Conservative","Conservateur",N,Y,69
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 120","Winnipeg",N,N,"",0,373,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 120","Winnipeg",N,N,"",0,373,"Naaykens","","Thomas","Liberal","Libéral",N,N,64
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 121","Winnipeg",N,N,"",0,465,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 121","Winnipeg",N,N,"",0,465,"Dancho","","Raquel","Conservative","Conservateur",N,Y,75
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 121","Winnipeg",N,N,"",0,465,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 121","Winnipeg",N,N,"",0,465,"Naaykens","","Thomas","Liberal","Libéral",N,N,67
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 122","Winnipeg",N,N,"",0,565,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 122","Winnipeg",N,N,"",0,565,"Dancho","","Raquel","Conservative","Conservateur",N,Y,104
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 122","Winnipeg",N,N,"",0,565,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 122","Winnipeg",N,N,"",0,565,"Naaykens","","Thomas","Liberal","Libéral",N,N,97
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 123","Winnipeg",N,N,"",0,427,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 123","Winnipeg",N,N,"",0,427,"Dancho","","Raquel","Conservative","Conservateur",N,Y,59
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 123","Winnipeg",N,N,"",0,427,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 123","Winnipeg",N,N,"",0,427,"Naaykens","","Thomas","Liberal","Libéral",N,N,50
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 124","Winnipeg",N,N,"",0,414,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 124","Winnipeg",N,N,"",0,414,"Dancho","","Raquel","Conservative","Conservateur",N,Y,99
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 124","Winnipeg",N,N,"",0,414,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 124","Winnipeg",N,N,"",0,414,"Naaykens","","Thomas","Liberal","Libéral",N,N,70
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 125","Winnipeg",N,N,"",0,368,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 125","Winnipeg",N,N,"",0,368,"Dancho","","Raquel","Conservative","Conservateur",N,Y,82
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 125","Winnipeg",N,N,"",0,368,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 125","Winnipeg",N,N,"",0,368,"Naaykens","","Thomas","Liberal","Libéral",N,N,39
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 126","Winnipeg",N,N,"",0,482,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 126","Winnipeg",N,N,"",0,482,"Dancho","","Raquel","Conservative","Conservateur",N,Y,69
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 126","Winnipeg",N,N,"",0,482,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 126","Winnipeg",N,N,"",0,482,"Naaykens","","Thomas","Liberal","Libéral",N,N,61
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 127","Winnipeg",N,N,"",0,445,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 127","Winnipeg",N,N,"",0,445,"Dancho","","Raquel","Conservative","Conservateur",N,Y,53
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 127","Winnipeg",N,N,"",0,445,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 127","Winnipeg",N,N,"",0,445,"Naaykens","","Thomas","Liberal","Libéral",N,N,65
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 128","Winnipeg",N,N,"",0,357,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 128","Winnipeg",N,N,"",0,357,"Dancho","","Raquel","Conservative","Conservateur",N,Y,68
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 128","Winnipeg",N,N,"",0,357,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 128","Winnipeg",N,N,"",0,357,"Naaykens","","Thomas","Liberal","Libéral",N,N,57
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 129","Winnipeg",N,N,"",1,356,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 129","Winnipeg",N,N,"",1,356,"Dancho","","Raquel","Conservative","Conservateur",N,Y,65
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 129","Winnipeg",N,N,"",1,356,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 129","Winnipeg",N,N,"",1,356,"Naaykens","","Thomas","Liberal","Libéral",N,N,59
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 130","Winnipeg",N,N,"",0,345,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 130","Winnipeg",N,N,"",0,345,"Dancho","","Raquel","Conservative","Conservateur",N,Y,48
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 130","Winnipeg",N,N,"",0,345,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 130","Winnipeg",N,N,"",0,345,"Naaykens","","Thomas","Liberal","Libéral",N,N,61
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 131","Winnipeg",N,N,"",3,379,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 131","Winnipeg",N,N,"",3,379,"Dancho","","Raquel","Conservative","Conservateur",N,Y,50
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 131","Winnipeg",N,N,"",3,379,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 131","Winnipeg",N,N,"",3,379,"Naaykens","","Thomas","Liberal","Libéral",N,N,71
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 132","Winnipeg",N,N,"",1,374,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 132","Winnipeg",N,N,"",1,374,"Dancho","","Raquel","Conservative","Conservateur",N,Y,51
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 132","Winnipeg",N,N,"",1,374,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 132","Winnipeg",N,N,"",1,374,"Naaykens","","Thomas","Liberal","Libéral",N,N,62
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 133","Winnipeg",N,N,"",0,396,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 133","Winnipeg",N,N,"",0,396,"Dancho","","Raquel","Conservative","Conservateur",N,Y,64
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 133","Winnipeg",N,N,"",0,396,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 133","Winnipeg",N,N,"",0,396,"Naaykens","","Thomas","Liberal","Libéral",N,N,81
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 134","Winnipeg",N,N,"",1,468,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 134","Winnipeg",N,N,"",1,468,"Dancho","","Raquel","Conservative","Conservateur",N,Y,68
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 134","Winnipeg",N,N,"",1,468,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 134","Winnipeg",N,N,"",1,468,"Naaykens","","Thomas","Liberal","Libéral",N,N,71
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 135","Winnipeg",N,N,"",2,394,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 135","Winnipeg",N,N,"",2,394,"Dancho","","Raquel","Conservative","Conservateur",N,Y,64
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 135","Winnipeg",N,N,"",2,394,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 135","Winnipeg",N,N,"",2,394,"Naaykens","","Thomas","Liberal","Libéral",N,N,77
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 136","Winnipeg",N,N,"",1,545,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 136","Winnipeg",N,N,"",1,545,"Dancho","","Raquel","Conservative","Conservateur",N,Y,89
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 136","Winnipeg",N,N,"",1,545,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 136","Winnipeg",N,N,"",1,545,"Naaykens","","Thomas","Liberal","Libéral",N,N,82
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 137","Winnipeg",N,N,"",0,451,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 137","Winnipeg",N,N,"",0,451,"Dancho","","Raquel","Conservative","Conservateur",N,Y,78
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 137","Winnipeg",N,N,"",0,451,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 137","Winnipeg",N,N,"",0,451,"Naaykens","","Thomas","Liberal","Libéral",N,N,80
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 138","Winnipeg",N,N,"",1,375,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 138","Winnipeg",N,N,"",1,375,"Dancho","","Raquel","Conservative","Conservateur",N,Y,55
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 138","Winnipeg",N,N,"",1,375,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 138","Winnipeg",N,N,"",1,375,"Naaykens","","Thomas","Liberal","Libéral",N,N,64
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 139","Winnipeg",N,N,"",3,400,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 139","Winnipeg",N,N,"",3,400,"Dancho","","Raquel","Conservative","Conservateur",N,Y,66
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 139","Winnipeg",N,N,"",3,400,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 139","Winnipeg",N,N,"",3,400,"Naaykens","","Thomas","Liberal","Libéral",N,N,100
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 140","Winnipeg",N,N,"",1,349,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 140","Winnipeg",N,N,"",1,349,"Dancho","","Raquel","Conservative","Conservateur",N,Y,65
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 140","Winnipeg",N,N,"",1,349,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 140","Winnipeg",N,N,"",1,349,"Naaykens","","Thomas","Liberal","Libéral",N,N,90
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 141","Winnipeg",N,N,"",0,403,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 141","Winnipeg",N,N,"",0,403,"Dancho","","Raquel","Conservative","Conservateur",N,Y,56
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 141","Winnipeg",N,N,"",0,403,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 141","Winnipeg",N,N,"",0,403,"Naaykens","","Thomas","Liberal","Libéral",N,N,76
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 142","Winnipeg",N,N,"",3,384,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 142","Winnipeg",N,N,"",3,384,"Dancho","","Raquel","Conservative","Conservateur",N,Y,61
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 142","Winnipeg",N,N,"",3,384,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 142","Winnipeg",N,N,"",3,384,"Naaykens","","Thomas","Liberal","Libéral",N,N,86
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 143","Winnipeg",N,N,"",0,314,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 143","Winnipeg",N,N,"",0,314,"Dancho","","Raquel","Conservative","Conservateur",N,Y,37
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 143","Winnipeg",N,N,"",0,314,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 143","Winnipeg",N,N,"",0,314,"Naaykens","","Thomas","Liberal","Libéral",N,N,49
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 144","Winnipeg",N,N,"",0,341,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 144","Winnipeg",N,N,"",0,341,"Dancho","","Raquel","Conservative","Conservateur",N,Y,54
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 144","Winnipeg",N,N,"",0,341,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 144","Winnipeg",N,N,"",0,341,"Naaykens","","Thomas","Liberal","Libéral",N,N,58
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 145A","Winnipeg",N,N,"",1,360,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 145A","Winnipeg",N,N,"",1,360,"Dancho","","Raquel","Conservative","Conservateur",N,Y,48
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 145A","Winnipeg",N,N,"",1,360,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 145A","Winnipeg",N,N,"",1,360,"Naaykens","","Thomas","Liberal","Libéral",N,N,52
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 145B","Winnipeg",N,N,"414",0,212,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 145B","Winnipeg",N,N,"414",0,212,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 145B","Winnipeg",N,N,"414",0,212,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 145B","Winnipeg",N,N,"414",0,212,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 146","Winnipeg",N,N,"",1,499,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 146","Winnipeg",N,N,"",1,499,"Dancho","","Raquel","Conservative","Conservateur",N,Y,82
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 146","Winnipeg",N,N,"",1,499,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 146","Winnipeg",N,N,"",1,499,"Naaykens","","Thomas","Liberal","Libéral",N,N,68
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 147A","Winnipeg",N,N,"",1,326,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 147A","Winnipeg",N,N,"",1,326,"Dancho","","Raquel","Conservative","Conservateur",N,Y,57
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 147A","Winnipeg",N,N,"",1,326,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 147A","Winnipeg",N,N,"",1,326,"Naaykens","","Thomas","Liberal","Libéral",N,N,62
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 147B","Winnipeg",N,N,"415",0,168,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 147B","Winnipeg",N,N,"415",0,168,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 147B","Winnipeg",N,N,"415",0,168,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 147B","Winnipeg",N,N,"415",0,168,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 148","Winnipeg",N,N,"",2,560,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 148","Winnipeg",N,N,"",2,560,"Dancho","","Raquel","Conservative","Conservateur",N,Y,92
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 148","Winnipeg",N,N,"",2,560,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 148","Winnipeg",N,N,"",2,560,"Naaykens","","Thomas","Liberal","Libéral",N,N,92
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 149","Winnipeg",N,N,"",1,516,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 149","Winnipeg",N,N,"",1,516,"Dancho","","Raquel","Conservative","Conservateur",N,Y,112
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 149","Winnipeg",N,N,"",1,516,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 149","Winnipeg",N,N,"",1,516,"Naaykens","","Thomas","Liberal","Libéral",N,N,72
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 150","Winnipeg",N,N,"",1,495,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 150","Winnipeg",N,N,"",1,495,"Dancho","","Raquel","Conservative","Conservateur",N,Y,80
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 150","Winnipeg",N,N,"",1,495,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 150","Winnipeg",N,N,"",1,495,"Naaykens","","Thomas","Liberal","Libéral",N,N,73
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 151","Winnipeg",N,N,"",3,368,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 151","Winnipeg",N,N,"",3,368,"Dancho","","Raquel","Conservative","Conservateur",N,Y,72
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 151","Winnipeg",N,N,"",3,368,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 151","Winnipeg",N,N,"",3,368,"Naaykens","","Thomas","Liberal","Libéral",N,N,62
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 152","Winnipeg",N,N,"",3,573,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 152","Winnipeg",N,N,"",3,573,"Dancho","","Raquel","Conservative","Conservateur",N,Y,75
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 152","Winnipeg",N,N,"",3,573,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 152","Winnipeg",N,N,"",3,573,"Naaykens","","Thomas","Liberal","Libéral",N,N,115
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 153","Winnipeg",N,N,"",1,364,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 153","Winnipeg",N,N,"",1,364,"Dancho","","Raquel","Conservative","Conservateur",N,Y,87
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 153","Winnipeg",N,N,"",1,364,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 153","Winnipeg",N,N,"",1,364,"Naaykens","","Thomas","Liberal","Libéral",N,N,80
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 154","Winnipeg",N,N,"",4,326,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 154","Winnipeg",N,N,"",4,326,"Dancho","","Raquel","Conservative","Conservateur",N,Y,40
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 154","Winnipeg",N,N,"",4,326,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 154","Winnipeg",N,N,"",4,326,"Naaykens","","Thomas","Liberal","Libéral",N,N,45
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 155","Winnipeg",N,N,"",0,458,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 155","Winnipeg",N,N,"",0,458,"Dancho","","Raquel","Conservative","Conservateur",N,Y,70
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 155","Winnipeg",N,N,"",0,458,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 155","Winnipeg",N,N,"",0,458,"Naaykens","","Thomas","Liberal","Libéral",N,N,86
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 156","Winnipeg",N,N,"",0,428,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 156","Winnipeg",N,N,"",0,428,"Dancho","","Raquel","Conservative","Conservateur",N,Y,63
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 156","Winnipeg",N,N,"",0,428,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 156","Winnipeg",N,N,"",0,428,"Naaykens","","Thomas","Liberal","Libéral",N,N,59
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 157","Winnipeg",N,N,"",0,371,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 157","Winnipeg",N,N,"",0,371,"Dancho","","Raquel","Conservative","Conservateur",N,Y,82
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 157","Winnipeg",N,N,"",0,371,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 157","Winnipeg",N,N,"",0,371,"Naaykens","","Thomas","Liberal","Libéral",N,N,63
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 158","Winnipeg",N,N,"",1,435,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 158","Winnipeg",N,N,"",1,435,"Dancho","","Raquel","Conservative","Conservateur",N,Y,71
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 158","Winnipeg",N,N,"",1,435,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 158","Winnipeg",N,N,"",1,435,"Naaykens","","Thomas","Liberal","Libéral",N,N,76
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 159","Winnipeg",N,N,"",1,456,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 159","Winnipeg",N,N,"",1,456,"Dancho","","Raquel","Conservative","Conservateur",N,Y,100
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 159","Winnipeg",N,N,"",1,456,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 159","Winnipeg",N,N,"",1,456,"Naaykens","","Thomas","Liberal","Libéral",N,N,91
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 160","Winnipeg",N,N,"",0,355,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 160","Winnipeg",N,N,"",0,355,"Dancho","","Raquel","Conservative","Conservateur",N,Y,76
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 160","Winnipeg",N,N,"",0,355,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 160","Winnipeg",N,N,"",0,355,"Naaykens","","Thomas","Liberal","Libéral",N,N,86
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 161","Winnipeg",N,N,"",0,332,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 161","Winnipeg",N,N,"",0,332,"Dancho","","Raquel","Conservative","Conservateur",N,Y,56
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 161","Winnipeg",N,N,"",0,332,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 161","Winnipeg",N,N,"",0,332,"Naaykens","","Thomas","Liberal","Libéral",N,N,41
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 162","Winnipeg",N,N,"",1,335,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 162","Winnipeg",N,N,"",1,335,"Dancho","","Raquel","Conservative","Conservateur",N,Y,74
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 162","Winnipeg",N,N,"",1,335,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 162","Winnipeg",N,N,"",1,335,"Naaykens","","Thomas","Liberal","Libéral",N,N,87
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 163","Winnipeg",N,N,"",0,357,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 163","Winnipeg",N,N,"",0,357,"Dancho","","Raquel","Conservative","Conservateur",N,Y,70
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 163","Winnipeg",N,N,"",0,357,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 163","Winnipeg",N,N,"",0,357,"Naaykens","","Thomas","Liberal","Libéral",N,N,67
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 164","Winnipeg",N,N,"",1,305,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 164","Winnipeg",N,N,"",1,305,"Dancho","","Raquel","Conservative","Conservateur",N,Y,57
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 164","Winnipeg",N,N,"",1,305,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 164","Winnipeg",N,N,"",1,305,"Naaykens","","Thomas","Liberal","Libéral",N,N,55
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 165","Winnipeg",N,N,"",0,414,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 165","Winnipeg",N,N,"",0,414,"Dancho","","Raquel","Conservative","Conservateur",N,Y,90
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 165","Winnipeg",N,N,"",0,414,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 165","Winnipeg",N,N,"",0,414,"Naaykens","","Thomas","Liberal","Libéral",N,N,74
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 166","Winnipeg",N,N,"",3,586,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 166","Winnipeg",N,N,"",3,586,"Dancho","","Raquel","Conservative","Conservateur",N,Y,153
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 166","Winnipeg",N,N,"",3,586,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 166","Winnipeg",N,N,"",3,586,"Naaykens","","Thomas","Liberal","Libéral",N,N,188
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 167","Winnipeg",N,N,"",2,352,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 167","Winnipeg",N,N,"",2,352,"Dancho","","Raquel","Conservative","Conservateur",N,Y,60
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 167","Winnipeg",N,N,"",2,352,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 167","Winnipeg",N,N,"",2,352,"Naaykens","","Thomas","Liberal","Libéral",N,N,39
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 168","Springfield",N,N,"",0,428,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 168","Springfield",N,N,"",0,428,"Dancho","","Raquel","Conservative","Conservateur",N,Y,100
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 168","Springfield",N,N,"",0,428,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 168","Springfield",N,N,"",0,428,"Naaykens","","Thomas","Liberal","Libéral",N,N,57
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 169","Springfield",N,N,"",0,342,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 169","Springfield",N,N,"",0,342,"Dancho","","Raquel","Conservative","Conservateur",N,Y,75
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 169","Springfield",N,N,"",0,342,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 169","Springfield",N,N,"",0,342,"Naaykens","","Thomas","Liberal","Libéral",N,N,49
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 170","Springfield",N,N,"",4,464,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 170","Springfield",N,N,"",4,464,"Dancho","","Raquel","Conservative","Conservateur",N,Y,106
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 170","Springfield",N,N,"",4,464,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 170","Springfield",N,N,"",4,464,"Naaykens","","Thomas","Liberal","Libéral",N,N,42
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 400","Winnipeg",N,N,"",2,355,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 400","Winnipeg",N,N,"",2,355,"Dancho","","Raquel","Conservative","Conservateur",N,Y,102
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 400","Winnipeg",N,N,"",2,355,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 400","Winnipeg",N,N,"",2,355,"Naaykens","","Thomas","Liberal","Libéral",N,N,98
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 401","Winnipeg",N,N,"",2,373,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 401","Winnipeg",N,N,"",2,373,"Dancho","","Raquel","Conservative","Conservateur",N,Y,122
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 401","Winnipeg",N,N,"",2,373,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,5
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 401","Winnipeg",N,N,"",2,373,"Naaykens","","Thomas","Liberal","Libéral",N,N,110
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 402","Winnipeg",N,N,"",0,115,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 402","Winnipeg",N,N,"",0,115,"Dancho","","Raquel","Conservative","Conservateur",N,Y,25
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 402","Winnipeg",N,N,"",0,115,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 402","Winnipeg",N,N,"",0,115,"Naaykens","","Thomas","Liberal","Libéral",N,N,54
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 403","Winnipeg",N,N,"",0,243,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 403","Winnipeg",N,N,"",0,243,"Dancho","","Raquel","Conservative","Conservateur",N,Y,28
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 403","Winnipeg",N,N,"",0,243,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 403","Winnipeg",N,N,"",0,243,"Naaykens","","Thomas","Liberal","Libéral",N,N,43
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 404","Winnipeg",N,N,"",0,308,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 404","Winnipeg",N,N,"",0,308,"Dancho","","Raquel","Conservative","Conservateur",N,Y,56
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 404","Winnipeg",N,N,"",0,308,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 404","Winnipeg",N,N,"",0,308,"Naaykens","","Thomas","Liberal","Libéral",N,N,59
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 405","Winnipeg",N,N,"",0,188,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 405","Winnipeg",N,N,"",0,188,"Dancho","","Raquel","Conservative","Conservateur",N,Y,23
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 405","Winnipeg",N,N,"",0,188,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 405","Winnipeg",N,N,"",0,188,"Naaykens","","Thomas","Liberal","Libéral",N,N,29
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 406","Winnipeg",N,N,"",0,188,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 406","Winnipeg",N,N,"",0,188,"Dancho","","Raquel","Conservative","Conservateur",N,Y,52
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 406","Winnipeg",N,N,"",0,188,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 406","Winnipeg",N,N,"",0,188,"Naaykens","","Thomas","Liberal","Libéral",N,N,55
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 407","Mobile poll/Bureau itinérant",N,N,"",1,72,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 407","Mobile poll/Bureau itinérant",N,N,"",1,72,"Dancho","","Raquel","Conservative","Conservateur",N,Y,47
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 407","Mobile poll/Bureau itinérant",N,N,"",1,72,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 407","Mobile poll/Bureau itinérant",N,N,"",1,72,"Naaykens","","Thomas","Liberal","Libéral",N,N,51
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 408","Winnipeg",N,N,"110",0,71,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 408","Winnipeg",N,N,"110",0,71,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 408","Winnipeg",N,N,"110",0,71,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 408","Winnipeg",N,N,"110",0,71,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 409","Winnipeg",N,N,"",1,157,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 409","Winnipeg",N,N,"",1,157,"Dancho","","Raquel","Conservative","Conservateur",N,Y,37
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 409","Winnipeg",N,N,"",1,157,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 409","Winnipeg",N,N,"",1,157,"Naaykens","","Thomas","Liberal","Libéral",N,N,42
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 410","Winnipeg",N,N,"",2,103,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 410","Winnipeg",N,N,"",2,103,"Dancho","","Raquel","Conservative","Conservateur",N,Y,18
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 410","Winnipeg",N,N,"",2,103,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 410","Winnipeg",N,N,"",2,103,"Naaykens","","Thomas","Liberal","Libéral",N,N,31
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 411","Winnipeg",N,N,"",0,121,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 411","Winnipeg",N,N,"",0,121,"Dancho","","Raquel","Conservative","Conservateur",N,Y,28
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 411","Winnipeg",N,N,"",0,121,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 411","Winnipeg",N,N,"",0,121,"Naaykens","","Thomas","Liberal","Libéral",N,N,30
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 412","Winnipeg",N,N,"",0,159,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 412","Winnipeg",N,N,"",0,159,"Dancho","","Raquel","Conservative","Conservateur",N,Y,29
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 412","Winnipeg",N,N,"",0,159,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 412","Winnipeg",N,N,"",0,159,"Naaykens","","Thomas","Liberal","Libéral",N,N,34
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 413","Winnipeg",N,N,"",2,223,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 413","Winnipeg",N,N,"",2,223,"Dancho","","Raquel","Conservative","Conservateur",N,Y,53
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 413","Winnipeg",N,N,"",2,223,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 413","Winnipeg",N,N,"",2,223,"Naaykens","","Thomas","Liberal","Libéral",N,N,56
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 414","Winnipeg",N,N,"",0,51,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 414","Winnipeg",N,N,"",0,51,"Dancho","","Raquel","Conservative","Conservateur",N,Y,45
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 414","Winnipeg",N,N,"",0,51,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 414","Winnipeg",N,N,"",0,51,"Naaykens","","Thomas","Liberal","Libéral",N,N,84
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 415","Winnipeg",N,N,"",0,77,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 415","Winnipeg",N,N,"",0,77,"Dancho","","Raquel","Conservative","Conservateur",N,Y,77
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 415","Winnipeg",N,N,"",0,77,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,2
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 415","Winnipeg",N,N,"",0,77,"Naaykens","","Thomas","Liberal","Libéral",N,N,69
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 416","Winnipeg",N,N,"166",0,153,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 416","Winnipeg",N,N,"166",0,153,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 416","Winnipeg",N,N,"166",0,153,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 416","Winnipeg",N,N,"166",0,153,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 500","Mobile poll/Bureau itinérant",N,N,"407",0,85,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 500","Mobile poll/Bureau itinérant",N,N,"407",0,85,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 500","Mobile poll/Bureau itinérant",N,N,"407",0,85,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 500","Mobile poll/Bureau itinérant",N,N,"407",0,85,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 501","Mobile poll/Bureau itinérant",N,N,"407",0,87,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 501","Mobile poll/Bureau itinérant",N,N,"407",0,87,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 501","Mobile poll/Bureau itinérant",N,N,"407",0,87,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 501","Mobile poll/Bureau itinérant",N,N,"407",0,87,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 502","Mobile poll/Bureau itinérant",N,N,"",1,168,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 502","Mobile poll/Bureau itinérant",N,N,"",1,168,"Dancho","","Raquel","Conservative","Conservateur",N,Y,90
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 502","Mobile poll/Bureau itinérant",N,N,"",1,168,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 502","Mobile poll/Bureau itinérant",N,N,"",1,168,"Naaykens","","Thomas","Liberal","Libéral",N,N,99
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,185,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,185,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,185,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 503","Mobile poll/Bureau itinérant",N,N,"502",0,185,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 504","Mobile poll/Bureau itinérant",N,N,"509",0,39,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 504","Mobile poll/Bureau itinérant",N,N,"509",0,39,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 504","Mobile poll/Bureau itinérant",N,N,"509",0,39,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 504","Mobile poll/Bureau itinérant",N,N,"509",0,39,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 505","Mobile poll/Bureau itinérant",N,N,"",3,154,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 505","Mobile poll/Bureau itinérant",N,N,"",3,154,"Dancho","","Raquel","Conservative","Conservateur",N,Y,72
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 505","Mobile poll/Bureau itinérant",N,N,"",3,154,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,1
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 505","Mobile poll/Bureau itinérant",N,N,"",3,154,"Naaykens","","Thomas","Liberal","Libéral",N,N,40
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,36,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,36,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,36,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 506","Mobile poll/Bureau itinérant",N,N,"505",0,36,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,75,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,75,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,75,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 507","Mobile poll/Bureau itinérant",N,N,"508",0,75,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 508","Mobile poll/Bureau itinérant",N,N,"",4,91,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 508","Mobile poll/Bureau itinérant",N,N,"",4,91,"Dancho","","Raquel","Conservative","Conservateur",N,Y,50
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 508","Mobile poll/Bureau itinérant",N,N,"",4,91,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 508","Mobile poll/Bureau itinérant",N,N,"",4,91,"Naaykens","","Thomas","Liberal","Libéral",N,N,48
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 509","Mobile poll/Bureau itinérant",N,N,"",3,73,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 509","Mobile poll/Bureau itinérant",N,N,"",3,73,"Dancho","","Raquel","Conservative","Conservateur",N,Y,34
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 509","Mobile poll/Bureau itinérant",N,N,"",3,73,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 509","Mobile poll/Bureau itinérant",N,N,"",3,73,"Naaykens","","Thomas","Liberal","Libéral",N,N,59
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 510","Mobile poll/Bureau itinérant",N,N,"512",0,24,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 510","Mobile poll/Bureau itinérant",N,N,"512",0,24,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 510","Mobile poll/Bureau itinérant",N,N,"512",0,24,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 510","Mobile poll/Bureau itinérant",N,N,"512",0,24,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 511","Mobile poll/Bureau itinérant",N,N,"512",0,15,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 511","Mobile poll/Bureau itinérant",N,N,"512",0,15,"Dancho","","Raquel","Conservative","Conservateur",N,Y,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 511","Mobile poll/Bureau itinérant",N,N,"512",0,15,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 511","Mobile poll/Bureau itinérant",N,N,"512",0,15,"Naaykens","","Thomas","Liberal","Libéral",N,N,0
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 512","Mobile poll/Bureau itinérant",N,N,"",0,26,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 512","Mobile poll/Bureau itinérant",N,N,"",0,26,"Dancho","","Raquel","Conservative","Conservateur",N,Y,24
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 512","Mobile poll/Bureau itinérant",N,N,"",0,26,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,3
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 512","Mobile poll/Bureau itinérant",N,N,"",0,26,"Naaykens","","Thomas","Liberal","Libéral",N,N,18
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 600","Springfield",N,N,"",17,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,111
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 600","Springfield",N,N,"",17,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,1243
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 600","Springfield",N,N,"",17,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 600","Springfield",N,N,"",17,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,862
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 601","East St. Paul",N,N,"",5,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 601","East St. Paul",N,N,"",5,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,1121
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 601","East St. Paul",N,N,"",5,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,14
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 601","East St. Paul",N,N,"",5,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,872
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 602","West St. Paul",N,N,"",2,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 602","West St. Paul",N,N,"",2,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,396
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 602","West St. Paul",N,N,"",2,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 602","West St. Paul",N,N,"",2,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,302
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 603","West St. Paul",N,N,"",1,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 603","West St. Paul",N,N,"",1,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,631
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 603","West St. Paul",N,N,"",1,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,11
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 603","West St. Paul",N,N,"",1,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,465
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 604","East St. Paul",N,N,"",11,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 604","East St. Paul",N,N,"",11,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,902
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 604","East St. Paul",N,N,"",11,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,4
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 604","East St. Paul",N,N,"",11,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,841
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 605","Winnipeg",N,N,"",5,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 605","Winnipeg",N,N,"",5,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,645
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 605","Winnipeg",N,N,"",5,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 605","Winnipeg",N,N,"",5,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,819
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 606","Winnipeg",N,N,"",8,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 606","Winnipeg",N,N,"",8,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,666
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 606","Winnipeg",N,N,"",8,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 606","Winnipeg",N,N,"",8,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,779
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 607","Winnipeg",N,N,"",8,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 607","Winnipeg",N,N,"",8,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,645
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 607","Winnipeg",N,N,"",8,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 607","Winnipeg",N,N,"",8,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,731
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 608","Winnipeg",N,N,"",1,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,121
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 608","Winnipeg",N,N,"",1,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,522
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 608","Winnipeg",N,N,"",1,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,6
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 608","Winnipeg",N,N,"",1,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,740
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 609","Winnipeg",N,N,"",2,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 609","Winnipeg",N,N,"",2,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,455
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 609","Winnipeg",N,N,"",2,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,10
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 609","Winnipeg",N,N,"",2,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,476
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 610","Winnipeg",N,N,"",8,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 610","Winnipeg",N,N,"",8,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,497
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 610","Winnipeg",N,N,"",8,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,7
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 610","Winnipeg",N,N,"",8,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,613
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 611","Winnipeg",N,N,"",3,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 611","Winnipeg",N,N,"",3,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,487
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 611","Winnipeg",N,N,"",3,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 611","Winnipeg",N,N,"",3,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,476
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 612","Winnipeg",N,N,"",4,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 612","Winnipeg",N,N,"",4,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,541
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 612","Winnipeg",N,N,"",4,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,7
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 612","Winnipeg",N,N,"",4,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,587
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 613","Winnipeg",N,N,"",6,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,103
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 613","Winnipeg",N,N,"",6,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,539
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 613","Winnipeg",N,N,"",6,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,9
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 613","Winnipeg",N,N,"",6,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,558
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 614","Winnipeg",N,N,"",1,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 614","Winnipeg",N,N,"",1,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,353
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 614","Winnipeg",N,N,"",1,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 614","Winnipeg",N,N,"",1,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,476
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 615","Winnipeg",N,N,"",5,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,129
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 615","Winnipeg",N,N,"",5,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,429
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 615","Winnipeg",N,N,"",5,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,11
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," 615","Winnipeg",N,N,"",5,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,597
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,228,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,228,"Dancho","","Raquel","Conservative","Conservateur",N,Y,247
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,228,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,8
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,228,"Naaykens","","Thomas","Liberal","Libéral",N,N,328
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",36,0,"Clark","","Emily","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,136
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",36,0,"Dancho","","Raquel","Conservative","Conservateur",N,Y,986
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",36,0,"Holmes","","Erik","People's Party - PPC","Parti populaire - PPC",N,N,12
+46004,"Kildonan--St. Paul","Kildonan--St. Paul"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",36,0,"Naaykens","","Thomas","Liberal","Libéral",N,N,1108

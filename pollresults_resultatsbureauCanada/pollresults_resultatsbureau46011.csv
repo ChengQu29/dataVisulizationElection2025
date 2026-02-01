@@ -1,0 +1,985 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+46011,"Winnipeg North","Winnipeg-Nord"," 1","Winnipeg",N,N,"",0,512,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46011,"Winnipeg North","Winnipeg-Nord"," 1","Winnipeg",N,N,"",0,512,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 1","Winnipeg",N,N,"",0,512,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 1","Winnipeg",N,N,"",0,512,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 1","Winnipeg",N,N,"",0,512,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,87
+46011,"Winnipeg North","Winnipeg-Nord"," 1","Winnipeg",N,N,"",0,512,"Punzalan","","Rachel","Conservative","Conservateur",N,N,65
+46011,"Winnipeg North","Winnipeg-Nord"," 2","Winnipeg",N,N,"",0,471,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46011,"Winnipeg North","Winnipeg-Nord"," 2","Winnipeg",N,N,"",0,471,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 2","Winnipeg",N,N,"",0,471,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 2","Winnipeg",N,N,"",0,471,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 2","Winnipeg",N,N,"",0,471,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,113
+46011,"Winnipeg North","Winnipeg-Nord"," 2","Winnipeg",N,N,"",0,471,"Punzalan","","Rachel","Conservative","Conservateur",N,N,71
+46011,"Winnipeg North","Winnipeg-Nord"," 3","Winnipeg",N,N,"",3,464,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46011,"Winnipeg North","Winnipeg-Nord"," 3","Winnipeg",N,N,"",3,464,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 3","Winnipeg",N,N,"",3,464,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 3","Winnipeg",N,N,"",3,464,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 3","Winnipeg",N,N,"",3,464,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,76
+46011,"Winnipeg North","Winnipeg-Nord"," 3","Winnipeg",N,N,"",3,464,"Punzalan","","Rachel","Conservative","Conservateur",N,N,57
+46011,"Winnipeg North","Winnipeg-Nord"," 4","Winnipeg",N,N,"",0,359,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 4","Winnipeg",N,N,"",0,359,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 4","Winnipeg",N,N,"",0,359,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 4","Winnipeg",N,N,"",0,359,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 4","Winnipeg",N,N,"",0,359,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,69
+46011,"Winnipeg North","Winnipeg-Nord"," 4","Winnipeg",N,N,"",0,359,"Punzalan","","Rachel","Conservative","Conservateur",N,N,34
+46011,"Winnipeg North","Winnipeg-Nord"," 5","Winnipeg",N,N,"",0,480,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 5","Winnipeg",N,N,"",0,480,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 5","Winnipeg",N,N,"",0,480,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 5","Winnipeg",N,N,"",0,480,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 5","Winnipeg",N,N,"",0,480,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,94
+46011,"Winnipeg North","Winnipeg-Nord"," 5","Winnipeg",N,N,"",0,480,"Punzalan","","Rachel","Conservative","Conservateur",N,N,60
+46011,"Winnipeg North","Winnipeg-Nord"," 6","Winnipeg",N,N,"",0,480,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46011,"Winnipeg North","Winnipeg-Nord"," 6","Winnipeg",N,N,"",0,480,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 6","Winnipeg",N,N,"",0,480,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 6","Winnipeg",N,N,"",0,480,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 6","Winnipeg",N,N,"",0,480,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,116
+46011,"Winnipeg North","Winnipeg-Nord"," 6","Winnipeg",N,N,"",0,480,"Punzalan","","Rachel","Conservative","Conservateur",N,N,66
+46011,"Winnipeg North","Winnipeg-Nord"," 7","Winnipeg",N,N,"",0,405,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 7","Winnipeg",N,N,"",0,405,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 7","Winnipeg",N,N,"",0,405,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 7","Winnipeg",N,N,"",0,405,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 7","Winnipeg",N,N,"",0,405,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,92
+46011,"Winnipeg North","Winnipeg-Nord"," 7","Winnipeg",N,N,"",0,405,"Punzalan","","Rachel","Conservative","Conservateur",N,N,33
+46011,"Winnipeg North","Winnipeg-Nord"," 8","Winnipeg",N,N,"",0,478,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 8","Winnipeg",N,N,"",0,478,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 8","Winnipeg",N,N,"",0,478,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 8","Winnipeg",N,N,"",0,478,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 8","Winnipeg",N,N,"",0,478,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,109
+46011,"Winnipeg North","Winnipeg-Nord"," 8","Winnipeg",N,N,"",0,478,"Punzalan","","Rachel","Conservative","Conservateur",N,N,65
+46011,"Winnipeg North","Winnipeg-Nord"," 9","Winnipeg",N,N,"",0,447,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 9","Winnipeg",N,N,"",0,447,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 9","Winnipeg",N,N,"",0,447,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 9","Winnipeg",N,N,"",0,447,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 9","Winnipeg",N,N,"",0,447,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,86
+46011,"Winnipeg North","Winnipeg-Nord"," 9","Winnipeg",N,N,"",0,447,"Punzalan","","Rachel","Conservative","Conservateur",N,N,41
+46011,"Winnipeg North","Winnipeg-Nord"," 10","Winnipeg",N,N,"",0,408,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 10","Winnipeg",N,N,"",0,408,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 10","Winnipeg",N,N,"",0,408,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 10","Winnipeg",N,N,"",0,408,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 10","Winnipeg",N,N,"",0,408,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,75
+46011,"Winnipeg North","Winnipeg-Nord"," 10","Winnipeg",N,N,"",0,408,"Punzalan","","Rachel","Conservative","Conservateur",N,N,58
+46011,"Winnipeg North","Winnipeg-Nord"," 11","Winnipeg",N,N,"",2,409,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 11","Winnipeg",N,N,"",2,409,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 11","Winnipeg",N,N,"",2,409,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 11","Winnipeg",N,N,"",2,409,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 11","Winnipeg",N,N,"",2,409,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,86
+46011,"Winnipeg North","Winnipeg-Nord"," 11","Winnipeg",N,N,"",2,409,"Punzalan","","Rachel","Conservative","Conservateur",N,N,53
+46011,"Winnipeg North","Winnipeg-Nord"," 12","Winnipeg",N,N,"",0,379,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 12","Winnipeg",N,N,"",0,379,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 12","Winnipeg",N,N,"",0,379,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 12","Winnipeg",N,N,"",0,379,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 12","Winnipeg",N,N,"",0,379,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,80
+46011,"Winnipeg North","Winnipeg-Nord"," 12","Winnipeg",N,N,"",0,379,"Punzalan","","Rachel","Conservative","Conservateur",N,N,48
+46011,"Winnipeg North","Winnipeg-Nord"," 13","Winnipeg",N,N,"",0,446,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 13","Winnipeg",N,N,"",0,446,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 13","Winnipeg",N,N,"",0,446,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 13","Winnipeg",N,N,"",0,446,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 13","Winnipeg",N,N,"",0,446,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,47
+46011,"Winnipeg North","Winnipeg-Nord"," 13","Winnipeg",N,N,"",0,446,"Punzalan","","Rachel","Conservative","Conservateur",N,N,38
+46011,"Winnipeg North","Winnipeg-Nord"," 14","Winnipeg",N,N,"",0,342,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 14","Winnipeg",N,N,"",0,342,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 14","Winnipeg",N,N,"",0,342,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 14","Winnipeg",N,N,"",0,342,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 14","Winnipeg",N,N,"",0,342,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,55
+46011,"Winnipeg North","Winnipeg-Nord"," 14","Winnipeg",N,N,"",0,342,"Punzalan","","Rachel","Conservative","Conservateur",N,N,31
+46011,"Winnipeg North","Winnipeg-Nord"," 15","Winnipeg",N,N,"",4,355,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 15","Winnipeg",N,N,"",4,355,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 15","Winnipeg",N,N,"",4,355,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 15","Winnipeg",N,N,"",4,355,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 15","Winnipeg",N,N,"",4,355,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,72
+46011,"Winnipeg North","Winnipeg-Nord"," 15","Winnipeg",N,N,"",4,355,"Punzalan","","Rachel","Conservative","Conservateur",N,N,36
+46011,"Winnipeg North","Winnipeg-Nord"," 16","Winnipeg",N,N,"",6,657,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46011,"Winnipeg North","Winnipeg-Nord"," 16","Winnipeg",N,N,"",6,657,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 16","Winnipeg",N,N,"",6,657,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 16","Winnipeg",N,N,"",6,657,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 16","Winnipeg",N,N,"",6,657,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,117
+46011,"Winnipeg North","Winnipeg-Nord"," 16","Winnipeg",N,N,"",6,657,"Punzalan","","Rachel","Conservative","Conservateur",N,N,72
+46011,"Winnipeg North","Winnipeg-Nord"," 17","Winnipeg",N,N,"",1,464,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 17","Winnipeg",N,N,"",1,464,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 17","Winnipeg",N,N,"",1,464,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 17","Winnipeg",N,N,"",1,464,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 17","Winnipeg",N,N,"",1,464,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,83
+46011,"Winnipeg North","Winnipeg-Nord"," 17","Winnipeg",N,N,"",1,464,"Punzalan","","Rachel","Conservative","Conservateur",N,N,48
+46011,"Winnipeg North","Winnipeg-Nord"," 18","Winnipeg",N,N,"",0,416,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 18","Winnipeg",N,N,"",0,416,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 18","Winnipeg",N,N,"",0,416,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 18","Winnipeg",N,N,"",0,416,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 18","Winnipeg",N,N,"",0,416,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,59
+46011,"Winnipeg North","Winnipeg-Nord"," 18","Winnipeg",N,N,"",0,416,"Punzalan","","Rachel","Conservative","Conservateur",N,N,43
+46011,"Winnipeg North","Winnipeg-Nord"," 19","Winnipeg",N,N,"",2,450,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 19","Winnipeg",N,N,"",2,450,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 19","Winnipeg",N,N,"",2,450,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 19","Winnipeg",N,N,"",2,450,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 19","Winnipeg",N,N,"",2,450,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,86
+46011,"Winnipeg North","Winnipeg-Nord"," 19","Winnipeg",N,N,"",2,450,"Punzalan","","Rachel","Conservative","Conservateur",N,N,54
+46011,"Winnipeg North","Winnipeg-Nord"," 20","Winnipeg",N,N,"",0,444,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 20","Winnipeg",N,N,"",0,444,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 20","Winnipeg",N,N,"",0,444,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 20","Winnipeg",N,N,"",0,444,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 20","Winnipeg",N,N,"",0,444,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,81
+46011,"Winnipeg North","Winnipeg-Nord"," 20","Winnipeg",N,N,"",0,444,"Punzalan","","Rachel","Conservative","Conservateur",N,N,77
+46011,"Winnipeg North","Winnipeg-Nord"," 21","Winnipeg",N,N,"",2,434,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 21","Winnipeg",N,N,"",2,434,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 21","Winnipeg",N,N,"",2,434,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 21","Winnipeg",N,N,"",2,434,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 21","Winnipeg",N,N,"",2,434,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,107
+46011,"Winnipeg North","Winnipeg-Nord"," 21","Winnipeg",N,N,"",2,434,"Punzalan","","Rachel","Conservative","Conservateur",N,N,52
+46011,"Winnipeg North","Winnipeg-Nord"," 22","Winnipeg",N,N,"",2,480,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 22","Winnipeg",N,N,"",2,480,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 22","Winnipeg",N,N,"",2,480,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 22","Winnipeg",N,N,"",2,480,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 22","Winnipeg",N,N,"",2,480,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,82
+46011,"Winnipeg North","Winnipeg-Nord"," 22","Winnipeg",N,N,"",2,480,"Punzalan","","Rachel","Conservative","Conservateur",N,N,71
+46011,"Winnipeg North","Winnipeg-Nord"," 23","Winnipeg",N,N,"",0,409,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 23","Winnipeg",N,N,"",0,409,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 23","Winnipeg",N,N,"",0,409,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 23","Winnipeg",N,N,"",0,409,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 23","Winnipeg",N,N,"",0,409,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,99
+46011,"Winnipeg North","Winnipeg-Nord"," 23","Winnipeg",N,N,"",0,409,"Punzalan","","Rachel","Conservative","Conservateur",N,N,47
+46011,"Winnipeg North","Winnipeg-Nord"," 24","Winnipeg",N,N,"",4,499,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 24","Winnipeg",N,N,"",4,499,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 24","Winnipeg",N,N,"",4,499,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 24","Winnipeg",N,N,"",4,499,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 24","Winnipeg",N,N,"",4,499,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,99
+46011,"Winnipeg North","Winnipeg-Nord"," 24","Winnipeg",N,N,"",4,499,"Punzalan","","Rachel","Conservative","Conservateur",N,N,94
+46011,"Winnipeg North","Winnipeg-Nord"," 25","Winnipeg",N,N,"",1,451,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46011,"Winnipeg North","Winnipeg-Nord"," 25","Winnipeg",N,N,"",1,451,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 25","Winnipeg",N,N,"",1,451,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 25","Winnipeg",N,N,"",1,451,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 25","Winnipeg",N,N,"",1,451,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,78
+46011,"Winnipeg North","Winnipeg-Nord"," 25","Winnipeg",N,N,"",1,451,"Punzalan","","Rachel","Conservative","Conservateur",N,N,55
+46011,"Winnipeg North","Winnipeg-Nord"," 26","Winnipeg",N,N,"",1,398,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 26","Winnipeg",N,N,"",1,398,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 26","Winnipeg",N,N,"",1,398,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 26","Winnipeg",N,N,"",1,398,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 26","Winnipeg",N,N,"",1,398,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,79
+46011,"Winnipeg North","Winnipeg-Nord"," 26","Winnipeg",N,N,"",1,398,"Punzalan","","Rachel","Conservative","Conservateur",N,N,44
+46011,"Winnipeg North","Winnipeg-Nord"," 27","Winnipeg",N,N,"",0,438,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 27","Winnipeg",N,N,"",0,438,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 27","Winnipeg",N,N,"",0,438,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 27","Winnipeg",N,N,"",0,438,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 27","Winnipeg",N,N,"",0,438,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,70
+46011,"Winnipeg North","Winnipeg-Nord"," 27","Winnipeg",N,N,"",0,438,"Punzalan","","Rachel","Conservative","Conservateur",N,N,59
+46011,"Winnipeg North","Winnipeg-Nord"," 28","Winnipeg",N,N,"",0,445,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 28","Winnipeg",N,N,"",0,445,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 28","Winnipeg",N,N,"",0,445,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 28","Winnipeg",N,N,"",0,445,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 28","Winnipeg",N,N,"",0,445,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,60
+46011,"Winnipeg North","Winnipeg-Nord"," 28","Winnipeg",N,N,"",0,445,"Punzalan","","Rachel","Conservative","Conservateur",N,N,41
+46011,"Winnipeg North","Winnipeg-Nord"," 29","Winnipeg",N,N,"",0,337,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 29","Winnipeg",N,N,"",0,337,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 29","Winnipeg",N,N,"",0,337,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 29","Winnipeg",N,N,"",0,337,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 29","Winnipeg",N,N,"",0,337,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,64
+46011,"Winnipeg North","Winnipeg-Nord"," 29","Winnipeg",N,N,"",0,337,"Punzalan","","Rachel","Conservative","Conservateur",N,N,40
+46011,"Winnipeg North","Winnipeg-Nord"," 30","Winnipeg",N,N,"",0,329,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 30","Winnipeg",N,N,"",0,329,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 30","Winnipeg",N,N,"",0,329,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 30","Winnipeg",N,N,"",0,329,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 30","Winnipeg",N,N,"",0,329,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,71
+46011,"Winnipeg North","Winnipeg-Nord"," 30","Winnipeg",N,N,"",0,329,"Punzalan","","Rachel","Conservative","Conservateur",N,N,40
+46011,"Winnipeg North","Winnipeg-Nord"," 31","Winnipeg",N,N,"",2,348,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 31","Winnipeg",N,N,"",2,348,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 31","Winnipeg",N,N,"",2,348,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 31","Winnipeg",N,N,"",2,348,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 31","Winnipeg",N,N,"",2,348,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,88
+46011,"Winnipeg North","Winnipeg-Nord"," 31","Winnipeg",N,N,"",2,348,"Punzalan","","Rachel","Conservative","Conservateur",N,N,27
+46011,"Winnipeg North","Winnipeg-Nord"," 32","Winnipeg",N,N,"",1,332,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 32","Winnipeg",N,N,"",1,332,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 32","Winnipeg",N,N,"",1,332,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 32","Winnipeg",N,N,"",1,332,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 32","Winnipeg",N,N,"",1,332,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,57
+46011,"Winnipeg North","Winnipeg-Nord"," 32","Winnipeg",N,N,"",1,332,"Punzalan","","Rachel","Conservative","Conservateur",N,N,38
+46011,"Winnipeg North","Winnipeg-Nord"," 33","Winnipeg",N,N,"",0,384,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 33","Winnipeg",N,N,"",0,384,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 33","Winnipeg",N,N,"",0,384,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 33","Winnipeg",N,N,"",0,384,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 33","Winnipeg",N,N,"",0,384,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,67
+46011,"Winnipeg North","Winnipeg-Nord"," 33","Winnipeg",N,N,"",0,384,"Punzalan","","Rachel","Conservative","Conservateur",N,N,31
+46011,"Winnipeg North","Winnipeg-Nord"," 34","Winnipeg",N,N,"",1,404,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 34","Winnipeg",N,N,"",1,404,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 34","Winnipeg",N,N,"",1,404,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 34","Winnipeg",N,N,"",1,404,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 34","Winnipeg",N,N,"",1,404,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,71
+46011,"Winnipeg North","Winnipeg-Nord"," 34","Winnipeg",N,N,"",1,404,"Punzalan","","Rachel","Conservative","Conservateur",N,N,63
+46011,"Winnipeg North","Winnipeg-Nord"," 35","Winnipeg",N,N,"",0,391,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 35","Winnipeg",N,N,"",0,391,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 35","Winnipeg",N,N,"",0,391,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 35","Winnipeg",N,N,"",0,391,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 35","Winnipeg",N,N,"",0,391,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,56
+46011,"Winnipeg North","Winnipeg-Nord"," 35","Winnipeg",N,N,"",0,391,"Punzalan","","Rachel","Conservative","Conservateur",N,N,57
+46011,"Winnipeg North","Winnipeg-Nord"," 36","Winnipeg",N,N,"",1,398,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 36","Winnipeg",N,N,"",1,398,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 36","Winnipeg",N,N,"",1,398,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 36","Winnipeg",N,N,"",1,398,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 36","Winnipeg",N,N,"",1,398,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,43
+46011,"Winnipeg North","Winnipeg-Nord"," 36","Winnipeg",N,N,"",1,398,"Punzalan","","Rachel","Conservative","Conservateur",N,N,37
+46011,"Winnipeg North","Winnipeg-Nord"," 37","Winnipeg",N,N,"",0,377,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 37","Winnipeg",N,N,"",0,377,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 37","Winnipeg",N,N,"",0,377,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 37","Winnipeg",N,N,"",0,377,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 37","Winnipeg",N,N,"",0,377,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,63
+46011,"Winnipeg North","Winnipeg-Nord"," 37","Winnipeg",N,N,"",0,377,"Punzalan","","Rachel","Conservative","Conservateur",N,N,43
+46011,"Winnipeg North","Winnipeg-Nord"," 38","Winnipeg",N,N,"",0,507,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 38","Winnipeg",N,N,"",0,507,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 38","Winnipeg",N,N,"",0,507,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 38","Winnipeg",N,N,"",0,507,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 38","Winnipeg",N,N,"",0,507,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,118
+46011,"Winnipeg North","Winnipeg-Nord"," 38","Winnipeg",N,N,"",0,507,"Punzalan","","Rachel","Conservative","Conservateur",N,N,46
+46011,"Winnipeg North","Winnipeg-Nord"," 39","Winnipeg",N,N,"",6,401,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 39","Winnipeg",N,N,"",6,401,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 39","Winnipeg",N,N,"",6,401,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 39","Winnipeg",N,N,"",6,401,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 39","Winnipeg",N,N,"",6,401,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,113
+46011,"Winnipeg North","Winnipeg-Nord"," 39","Winnipeg",N,N,"",6,401,"Punzalan","","Rachel","Conservative","Conservateur",N,N,54
+46011,"Winnipeg North","Winnipeg-Nord"," 40","Winnipeg",N,N,"",2,492,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 40","Winnipeg",N,N,"",2,492,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 40","Winnipeg",N,N,"",2,492,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 40","Winnipeg",N,N,"",2,492,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 40","Winnipeg",N,N,"",2,492,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,80
+46011,"Winnipeg North","Winnipeg-Nord"," 40","Winnipeg",N,N,"",2,492,"Punzalan","","Rachel","Conservative","Conservateur",N,N,71
+46011,"Winnipeg North","Winnipeg-Nord"," 41","Winnipeg",N,N,"",1,539,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46011,"Winnipeg North","Winnipeg-Nord"," 41","Winnipeg",N,N,"",1,539,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 41","Winnipeg",N,N,"",1,539,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 41","Winnipeg",N,N,"",1,539,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 41","Winnipeg",N,N,"",1,539,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,126
+46011,"Winnipeg North","Winnipeg-Nord"," 41","Winnipeg",N,N,"",1,539,"Punzalan","","Rachel","Conservative","Conservateur",N,N,79
+46011,"Winnipeg North","Winnipeg-Nord"," 42","Winnipeg",N,N,"",3,429,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46011,"Winnipeg North","Winnipeg-Nord"," 42","Winnipeg",N,N,"",3,429,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 42","Winnipeg",N,N,"",3,429,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 42","Winnipeg",N,N,"",3,429,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 42","Winnipeg",N,N,"",3,429,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,112
+46011,"Winnipeg North","Winnipeg-Nord"," 42","Winnipeg",N,N,"",3,429,"Punzalan","","Rachel","Conservative","Conservateur",N,N,48
+46011,"Winnipeg North","Winnipeg-Nord"," 43","Winnipeg",N,N,"",1,347,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 43","Winnipeg",N,N,"",1,347,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 43","Winnipeg",N,N,"",1,347,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 43","Winnipeg",N,N,"",1,347,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 43","Winnipeg",N,N,"",1,347,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,85
+46011,"Winnipeg North","Winnipeg-Nord"," 43","Winnipeg",N,N,"",1,347,"Punzalan","","Rachel","Conservative","Conservateur",N,N,35
+46011,"Winnipeg North","Winnipeg-Nord"," 44","Winnipeg",N,N,"",1,372,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 44","Winnipeg",N,N,"",1,372,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 44","Winnipeg",N,N,"",1,372,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 44","Winnipeg",N,N,"",1,372,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 44","Winnipeg",N,N,"",1,372,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,90
+46011,"Winnipeg North","Winnipeg-Nord"," 44","Winnipeg",N,N,"",1,372,"Punzalan","","Rachel","Conservative","Conservateur",N,N,54
+46011,"Winnipeg North","Winnipeg-Nord"," 45","Winnipeg",N,N,"",0,417,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46011,"Winnipeg North","Winnipeg-Nord"," 45","Winnipeg",N,N,"",0,417,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 45","Winnipeg",N,N,"",0,417,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 45","Winnipeg",N,N,"",0,417,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 45","Winnipeg",N,N,"",0,417,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,99
+46011,"Winnipeg North","Winnipeg-Nord"," 45","Winnipeg",N,N,"",0,417,"Punzalan","","Rachel","Conservative","Conservateur",N,N,55
+46011,"Winnipeg North","Winnipeg-Nord"," 46","Winnipeg",N,N,"",2,353,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 46","Winnipeg",N,N,"",2,353,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 46","Winnipeg",N,N,"",2,353,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 46","Winnipeg",N,N,"",2,353,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 46","Winnipeg",N,N,"",2,353,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,66
+46011,"Winnipeg North","Winnipeg-Nord"," 46","Winnipeg",N,N,"",2,353,"Punzalan","","Rachel","Conservative","Conservateur",N,N,42
+46011,"Winnipeg North","Winnipeg-Nord"," 47","Winnipeg",N,N,"",3,480,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 47","Winnipeg",N,N,"",3,480,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 47","Winnipeg",N,N,"",3,480,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 47","Winnipeg",N,N,"",3,480,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 47","Winnipeg",N,N,"",3,480,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,108
+46011,"Winnipeg North","Winnipeg-Nord"," 47","Winnipeg",N,N,"",3,480,"Punzalan","","Rachel","Conservative","Conservateur",N,N,61
+46011,"Winnipeg North","Winnipeg-Nord"," 48","Winnipeg",N,N,"",0,330,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46011,"Winnipeg North","Winnipeg-Nord"," 48","Winnipeg",N,N,"",0,330,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 48","Winnipeg",N,N,"",0,330,"Borbridge","","Sarah","Communist","Communiste",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 48","Winnipeg",N,N,"",0,330,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 48","Winnipeg",N,N,"",0,330,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,86
+46011,"Winnipeg North","Winnipeg-Nord"," 48","Winnipeg",N,N,"",0,330,"Punzalan","","Rachel","Conservative","Conservateur",N,N,41
+46011,"Winnipeg North","Winnipeg-Nord"," 49","Winnipeg",N,N,"",0,475,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 49","Winnipeg",N,N,"",0,475,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 49","Winnipeg",N,N,"",0,475,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 49","Winnipeg",N,N,"",0,475,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 49","Winnipeg",N,N,"",0,475,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,102
+46011,"Winnipeg North","Winnipeg-Nord"," 49","Winnipeg",N,N,"",0,475,"Punzalan","","Rachel","Conservative","Conservateur",N,N,59
+46011,"Winnipeg North","Winnipeg-Nord"," 50","Winnipeg",N,N,"",1,514,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 50","Winnipeg",N,N,"",1,514,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 50","Winnipeg",N,N,"",1,514,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 50","Winnipeg",N,N,"",1,514,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 50","Winnipeg",N,N,"",1,514,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,134
+46011,"Winnipeg North","Winnipeg-Nord"," 50","Winnipeg",N,N,"",1,514,"Punzalan","","Rachel","Conservative","Conservateur",N,N,66
+46011,"Winnipeg North","Winnipeg-Nord"," 51","Winnipeg",N,N,"",5,433,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 51","Winnipeg",N,N,"",5,433,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 51","Winnipeg",N,N,"",5,433,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 51","Winnipeg",N,N,"",5,433,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 51","Winnipeg",N,N,"",5,433,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,100
+46011,"Winnipeg North","Winnipeg-Nord"," 51","Winnipeg",N,N,"",5,433,"Punzalan","","Rachel","Conservative","Conservateur",N,N,66
+46011,"Winnipeg North","Winnipeg-Nord"," 52","Winnipeg",N,N,"",3,348,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46011,"Winnipeg North","Winnipeg-Nord"," 52","Winnipeg",N,N,"",3,348,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 52","Winnipeg",N,N,"",3,348,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 52","Winnipeg",N,N,"",3,348,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 52","Winnipeg",N,N,"",3,348,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,78
+46011,"Winnipeg North","Winnipeg-Nord"," 52","Winnipeg",N,N,"",3,348,"Punzalan","","Rachel","Conservative","Conservateur",N,N,47
+46011,"Winnipeg North","Winnipeg-Nord"," 53","Winnipeg",N,N,"",1,428,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 53","Winnipeg",N,N,"",1,428,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 53","Winnipeg",N,N,"",1,428,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 53","Winnipeg",N,N,"",1,428,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 53","Winnipeg",N,N,"",1,428,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,102
+46011,"Winnipeg North","Winnipeg-Nord"," 53","Winnipeg",N,N,"",1,428,"Punzalan","","Rachel","Conservative","Conservateur",N,N,53
+46011,"Winnipeg North","Winnipeg-Nord"," 54","Winnipeg",N,N,"",3,550,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46011,"Winnipeg North","Winnipeg-Nord"," 54","Winnipeg",N,N,"",3,550,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 54","Winnipeg",N,N,"",3,550,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 54","Winnipeg",N,N,"",3,550,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 54","Winnipeg",N,N,"",3,550,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,87
+46011,"Winnipeg North","Winnipeg-Nord"," 54","Winnipeg",N,N,"",3,550,"Punzalan","","Rachel","Conservative","Conservateur",N,N,59
+46011,"Winnipeg North","Winnipeg-Nord"," 55","Winnipeg",N,N,"",0,366,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46011,"Winnipeg North","Winnipeg-Nord"," 55","Winnipeg",N,N,"",0,366,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 55","Winnipeg",N,N,"",0,366,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 55","Winnipeg",N,N,"",0,366,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 55","Winnipeg",N,N,"",0,366,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,84
+46011,"Winnipeg North","Winnipeg-Nord"," 55","Winnipeg",N,N,"",0,366,"Punzalan","","Rachel","Conservative","Conservateur",N,N,44
+46011,"Winnipeg North","Winnipeg-Nord"," 56","Winnipeg",N,N,"",0,377,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46011,"Winnipeg North","Winnipeg-Nord"," 56","Winnipeg",N,N,"",0,377,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 56","Winnipeg",N,N,"",0,377,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 56","Winnipeg",N,N,"",0,377,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 56","Winnipeg",N,N,"",0,377,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,94
+46011,"Winnipeg North","Winnipeg-Nord"," 56","Winnipeg",N,N,"",0,377,"Punzalan","","Rachel","Conservative","Conservateur",N,N,56
+46011,"Winnipeg North","Winnipeg-Nord"," 57","Winnipeg",N,N,"",0,341,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46011,"Winnipeg North","Winnipeg-Nord"," 57","Winnipeg",N,N,"",0,341,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 57","Winnipeg",N,N,"",0,341,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 57","Winnipeg",N,N,"",0,341,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 57","Winnipeg",N,N,"",0,341,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,60
+46011,"Winnipeg North","Winnipeg-Nord"," 57","Winnipeg",N,N,"",0,341,"Punzalan","","Rachel","Conservative","Conservateur",N,N,36
+46011,"Winnipeg North","Winnipeg-Nord"," 58","Winnipeg",N,N,"",0,373,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 58","Winnipeg",N,N,"",0,373,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 58","Winnipeg",N,N,"",0,373,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 58","Winnipeg",N,N,"",0,373,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 58","Winnipeg",N,N,"",0,373,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,62
+46011,"Winnipeg North","Winnipeg-Nord"," 58","Winnipeg",N,N,"",0,373,"Punzalan","","Rachel","Conservative","Conservateur",N,N,26
+46011,"Winnipeg North","Winnipeg-Nord"," 59","Winnipeg",N,N,"",1,389,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 59","Winnipeg",N,N,"",1,389,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 59","Winnipeg",N,N,"",1,389,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 59","Winnipeg",N,N,"",1,389,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 59","Winnipeg",N,N,"",1,389,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,82
+46011,"Winnipeg North","Winnipeg-Nord"," 59","Winnipeg",N,N,"",1,389,"Punzalan","","Rachel","Conservative","Conservateur",N,N,47
+46011,"Winnipeg North","Winnipeg-Nord"," 60","Winnipeg",N,N,"",0,401,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46011,"Winnipeg North","Winnipeg-Nord"," 60","Winnipeg",N,N,"",0,401,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 60","Winnipeg",N,N,"",0,401,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 60","Winnipeg",N,N,"",0,401,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 60","Winnipeg",N,N,"",0,401,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,57
+46011,"Winnipeg North","Winnipeg-Nord"," 60","Winnipeg",N,N,"",0,401,"Punzalan","","Rachel","Conservative","Conservateur",N,N,38
+46011,"Winnipeg North","Winnipeg-Nord"," 61","Winnipeg",N,N,"",1,410,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 61","Winnipeg",N,N,"",1,410,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 61","Winnipeg",N,N,"",1,410,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 61","Winnipeg",N,N,"",1,410,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 61","Winnipeg",N,N,"",1,410,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,72
+46011,"Winnipeg North","Winnipeg-Nord"," 61","Winnipeg",N,N,"",1,410,"Punzalan","","Rachel","Conservative","Conservateur",N,N,37
+46011,"Winnipeg North","Winnipeg-Nord"," 62","Winnipeg",N,N,"",1,563,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 62","Winnipeg",N,N,"",1,563,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 62","Winnipeg",N,N,"",1,563,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 62","Winnipeg",N,N,"",1,563,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 62","Winnipeg",N,N,"",1,563,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,104
+46011,"Winnipeg North","Winnipeg-Nord"," 62","Winnipeg",N,N,"",1,563,"Punzalan","","Rachel","Conservative","Conservateur",N,N,60
+46011,"Winnipeg North","Winnipeg-Nord"," 63","Winnipeg",N,N,"",0,431,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 63","Winnipeg",N,N,"",0,431,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 63","Winnipeg",N,N,"",0,431,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 63","Winnipeg",N,N,"",0,431,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 63","Winnipeg",N,N,"",0,431,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,70
+46011,"Winnipeg North","Winnipeg-Nord"," 63","Winnipeg",N,N,"",0,431,"Punzalan","","Rachel","Conservative","Conservateur",N,N,54
+46011,"Winnipeg North","Winnipeg-Nord"," 64","Winnipeg",N,N,"",3,534,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46011,"Winnipeg North","Winnipeg-Nord"," 64","Winnipeg",N,N,"",3,534,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 64","Winnipeg",N,N,"",3,534,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 64","Winnipeg",N,N,"",3,534,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 64","Winnipeg",N,N,"",3,534,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,92
+46011,"Winnipeg North","Winnipeg-Nord"," 64","Winnipeg",N,N,"",3,534,"Punzalan","","Rachel","Conservative","Conservateur",N,N,54
+46011,"Winnipeg North","Winnipeg-Nord"," 65","Winnipeg",N,N,"",0,429,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 65","Winnipeg",N,N,"",0,429,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 65","Winnipeg",N,N,"",0,429,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 65","Winnipeg",N,N,"",0,429,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 65","Winnipeg",N,N,"",0,429,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,85
+46011,"Winnipeg North","Winnipeg-Nord"," 65","Winnipeg",N,N,"",0,429,"Punzalan","","Rachel","Conservative","Conservateur",N,N,36
+46011,"Winnipeg North","Winnipeg-Nord"," 66","Winnipeg",N,N,"",1,402,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 66","Winnipeg",N,N,"",1,402,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 66","Winnipeg",N,N,"",1,402,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 66","Winnipeg",N,N,"",1,402,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 66","Winnipeg",N,N,"",1,402,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,73
+46011,"Winnipeg North","Winnipeg-Nord"," 66","Winnipeg",N,N,"",1,402,"Punzalan","","Rachel","Conservative","Conservateur",N,N,44
+46011,"Winnipeg North","Winnipeg-Nord"," 67","Winnipeg",N,N,"",0,377,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 67","Winnipeg",N,N,"",0,377,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 67","Winnipeg",N,N,"",0,377,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 67","Winnipeg",N,N,"",0,377,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 67","Winnipeg",N,N,"",0,377,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,47
+46011,"Winnipeg North","Winnipeg-Nord"," 67","Winnipeg",N,N,"",0,377,"Punzalan","","Rachel","Conservative","Conservateur",N,N,52
+46011,"Winnipeg North","Winnipeg-Nord"," 68","Winnipeg",N,N,"",1,366,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 68","Winnipeg",N,N,"",1,366,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 68","Winnipeg",N,N,"",1,366,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 68","Winnipeg",N,N,"",1,366,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 68","Winnipeg",N,N,"",1,366,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,82
+46011,"Winnipeg North","Winnipeg-Nord"," 68","Winnipeg",N,N,"",1,366,"Punzalan","","Rachel","Conservative","Conservateur",N,N,52
+46011,"Winnipeg North","Winnipeg-Nord"," 69","Winnipeg",N,N,"",1,410,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46011,"Winnipeg North","Winnipeg-Nord"," 69","Winnipeg",N,N,"",1,410,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 69","Winnipeg",N,N,"",1,410,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 69","Winnipeg",N,N,"",1,410,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 69","Winnipeg",N,N,"",1,410,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,68
+46011,"Winnipeg North","Winnipeg-Nord"," 69","Winnipeg",N,N,"",1,410,"Punzalan","","Rachel","Conservative","Conservateur",N,N,56
+46011,"Winnipeg North","Winnipeg-Nord"," 70","Winnipeg",N,N,"",1,508,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 70","Winnipeg",N,N,"",1,508,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 70","Winnipeg",N,N,"",1,508,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 70","Winnipeg",N,N,"",1,508,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 70","Winnipeg",N,N,"",1,508,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,102
+46011,"Winnipeg North","Winnipeg-Nord"," 70","Winnipeg",N,N,"",1,508,"Punzalan","","Rachel","Conservative","Conservateur",N,N,50
+46011,"Winnipeg North","Winnipeg-Nord"," 71","Winnipeg",N,N,"",2,418,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46011,"Winnipeg North","Winnipeg-Nord"," 71","Winnipeg",N,N,"",2,418,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 71","Winnipeg",N,N,"",2,418,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 71","Winnipeg",N,N,"",2,418,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 71","Winnipeg",N,N,"",2,418,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,57
+46011,"Winnipeg North","Winnipeg-Nord"," 71","Winnipeg",N,N,"",2,418,"Punzalan","","Rachel","Conservative","Conservateur",N,N,39
+46011,"Winnipeg North","Winnipeg-Nord"," 72","Winnipeg",N,N,"",1,520,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 72","Winnipeg",N,N,"",1,520,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 72","Winnipeg",N,N,"",1,520,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 72","Winnipeg",N,N,"",1,520,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 72","Winnipeg",N,N,"",1,520,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,107
+46011,"Winnipeg North","Winnipeg-Nord"," 72","Winnipeg",N,N,"",1,520,"Punzalan","","Rachel","Conservative","Conservateur",N,N,49
+46011,"Winnipeg North","Winnipeg-Nord"," 73","Winnipeg",N,N,"",2,385,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46011,"Winnipeg North","Winnipeg-Nord"," 73","Winnipeg",N,N,"",2,385,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 73","Winnipeg",N,N,"",2,385,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 73","Winnipeg",N,N,"",2,385,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 73","Winnipeg",N,N,"",2,385,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,100
+46011,"Winnipeg North","Winnipeg-Nord"," 73","Winnipeg",N,N,"",2,385,"Punzalan","","Rachel","Conservative","Conservateur",N,N,52
+46011,"Winnipeg North","Winnipeg-Nord"," 74","Winnipeg",N,N,"",1,375,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 74","Winnipeg",N,N,"",1,375,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 74","Winnipeg",N,N,"",1,375,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 74","Winnipeg",N,N,"",1,375,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 74","Winnipeg",N,N,"",1,375,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,66
+46011,"Winnipeg North","Winnipeg-Nord"," 74","Winnipeg",N,N,"",1,375,"Punzalan","","Rachel","Conservative","Conservateur",N,N,34
+46011,"Winnipeg North","Winnipeg-Nord"," 75","Winnipeg",N,N,"",0,454,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46011,"Winnipeg North","Winnipeg-Nord"," 75","Winnipeg",N,N,"",0,454,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 75","Winnipeg",N,N,"",0,454,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 75","Winnipeg",N,N,"",0,454,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 75","Winnipeg",N,N,"",0,454,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,34
+46011,"Winnipeg North","Winnipeg-Nord"," 75","Winnipeg",N,N,"",0,454,"Punzalan","","Rachel","Conservative","Conservateur",N,N,32
+46011,"Winnipeg North","Winnipeg-Nord"," 76","Winnipeg",N,N,"",0,372,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 76","Winnipeg",N,N,"",0,372,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 76","Winnipeg",N,N,"",0,372,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 76","Winnipeg",N,N,"",0,372,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 76","Winnipeg",N,N,"",0,372,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,54
+46011,"Winnipeg North","Winnipeg-Nord"," 76","Winnipeg",N,N,"",0,372,"Punzalan","","Rachel","Conservative","Conservateur",N,N,48
+46011,"Winnipeg North","Winnipeg-Nord"," 77","Winnipeg",N,N,"",0,380,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 77","Winnipeg",N,N,"",0,380,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 77","Winnipeg",N,N,"",0,380,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 77","Winnipeg",N,N,"",0,380,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 77","Winnipeg",N,N,"",0,380,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,69
+46011,"Winnipeg North","Winnipeg-Nord"," 77","Winnipeg",N,N,"",0,380,"Punzalan","","Rachel","Conservative","Conservateur",N,N,47
+46011,"Winnipeg North","Winnipeg-Nord"," 78","Winnipeg",N,N,"",2,497,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46011,"Winnipeg North","Winnipeg-Nord"," 78","Winnipeg",N,N,"",2,497,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 78","Winnipeg",N,N,"",2,497,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 78","Winnipeg",N,N,"",2,497,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 78","Winnipeg",N,N,"",2,497,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,94
+46011,"Winnipeg North","Winnipeg-Nord"," 78","Winnipeg",N,N,"",2,497,"Punzalan","","Rachel","Conservative","Conservateur",N,N,66
+46011,"Winnipeg North","Winnipeg-Nord"," 79","Winnipeg",N,N,"",0,428,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 79","Winnipeg",N,N,"",0,428,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 79","Winnipeg",N,N,"",0,428,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 79","Winnipeg",N,N,"",0,428,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 79","Winnipeg",N,N,"",0,428,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,85
+46011,"Winnipeg North","Winnipeg-Nord"," 79","Winnipeg",N,N,"",0,428,"Punzalan","","Rachel","Conservative","Conservateur",N,N,54
+46011,"Winnipeg North","Winnipeg-Nord"," 80","Winnipeg",N,N,"",3,467,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 80","Winnipeg",N,N,"",3,467,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 80","Winnipeg",N,N,"",3,467,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 80","Winnipeg",N,N,"",3,467,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 80","Winnipeg",N,N,"",3,467,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,75
+46011,"Winnipeg North","Winnipeg-Nord"," 80","Winnipeg",N,N,"",3,467,"Punzalan","","Rachel","Conservative","Conservateur",N,N,44
+46011,"Winnipeg North","Winnipeg-Nord"," 81","Winnipeg",N,N,"",2,362,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 81","Winnipeg",N,N,"",2,362,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 81","Winnipeg",N,N,"",2,362,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 81","Winnipeg",N,N,"",2,362,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 81","Winnipeg",N,N,"",2,362,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,54
+46011,"Winnipeg North","Winnipeg-Nord"," 81","Winnipeg",N,N,"",2,362,"Punzalan","","Rachel","Conservative","Conservateur",N,N,42
+46011,"Winnipeg North","Winnipeg-Nord"," 82","Winnipeg",N,N,"",0,347,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 82","Winnipeg",N,N,"",0,347,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 82","Winnipeg",N,N,"",0,347,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 82","Winnipeg",N,N,"",0,347,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 82","Winnipeg",N,N,"",0,347,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,63
+46011,"Winnipeg North","Winnipeg-Nord"," 82","Winnipeg",N,N,"",0,347,"Punzalan","","Rachel","Conservative","Conservateur",N,N,34
+46011,"Winnipeg North","Winnipeg-Nord"," 83","Winnipeg",N,N,"",1,330,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 83","Winnipeg",N,N,"",1,330,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 83","Winnipeg",N,N,"",1,330,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 83","Winnipeg",N,N,"",1,330,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 83","Winnipeg",N,N,"",1,330,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,37
+46011,"Winnipeg North","Winnipeg-Nord"," 83","Winnipeg",N,N,"",1,330,"Punzalan","","Rachel","Conservative","Conservateur",N,N,31
+46011,"Winnipeg North","Winnipeg-Nord"," 84","Winnipeg",N,N,"",0,570,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46011,"Winnipeg North","Winnipeg-Nord"," 84","Winnipeg",N,N,"",0,570,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 84","Winnipeg",N,N,"",0,570,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 84","Winnipeg",N,N,"",0,570,"Brydges","","Angela","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 84","Winnipeg",N,N,"",0,570,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,78
+46011,"Winnipeg North","Winnipeg-Nord"," 84","Winnipeg",N,N,"",0,570,"Punzalan","","Rachel","Conservative","Conservateur",N,N,39
+46011,"Winnipeg North","Winnipeg-Nord"," 85A","Winnipeg",N,N,"",4,558,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46011,"Winnipeg North","Winnipeg-Nord"," 85A","Winnipeg",N,N,"",4,558,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85A","Winnipeg",N,N,"",4,558,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 85A","Winnipeg",N,N,"",4,558,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 85A","Winnipeg",N,N,"",4,558,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,125
+46011,"Winnipeg North","Winnipeg-Nord"," 85A","Winnipeg",N,N,"",4,558,"Punzalan","","Rachel","Conservative","Conservateur",N,N,70
+46011,"Winnipeg North","Winnipeg-Nord"," 85B","Mobile poll/Bureau itinérant",N,N,"507",0,7,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85B","Mobile poll/Bureau itinérant",N,N,"507",0,7,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85B","Mobile poll/Bureau itinérant",N,N,"507",0,7,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85B","Mobile poll/Bureau itinérant",N,N,"507",0,7,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85B","Mobile poll/Bureau itinérant",N,N,"507",0,7,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85B","Mobile poll/Bureau itinérant",N,N,"507",0,7,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85C","Mobile poll/Bureau itinérant",N,N,"507",0,15,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85C","Mobile poll/Bureau itinérant",N,N,"507",0,15,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85C","Mobile poll/Bureau itinérant",N,N,"507",0,15,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85C","Mobile poll/Bureau itinérant",N,N,"507",0,15,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85C","Mobile poll/Bureau itinérant",N,N,"507",0,15,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85C","Mobile poll/Bureau itinérant",N,N,"507",0,15,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85D","Mobile poll/Bureau itinérant",N,N,"507",0,23,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85D","Mobile poll/Bureau itinérant",N,N,"507",0,23,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85D","Mobile poll/Bureau itinérant",N,N,"507",0,23,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85D","Mobile poll/Bureau itinérant",N,N,"507",0,23,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85D","Mobile poll/Bureau itinérant",N,N,"507",0,23,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85D","Mobile poll/Bureau itinérant",N,N,"507",0,23,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85E","Mobile poll/Bureau itinérant",N,N,"507",0,10,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85E","Mobile poll/Bureau itinérant",N,N,"507",0,10,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85E","Mobile poll/Bureau itinérant",N,N,"507",0,10,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85E","Mobile poll/Bureau itinérant",N,N,"507",0,10,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85E","Mobile poll/Bureau itinérant",N,N,"507",0,10,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 85E","Mobile poll/Bureau itinérant",N,N,"507",0,10,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 86","Winnipeg",N,N,"",2,497,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46011,"Winnipeg North","Winnipeg-Nord"," 86","Winnipeg",N,N,"",2,497,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 86","Winnipeg",N,N,"",2,497,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 86","Winnipeg",N,N,"",2,497,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 86","Winnipeg",N,N,"",2,497,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,135
+46011,"Winnipeg North","Winnipeg-Nord"," 86","Winnipeg",N,N,"",2,497,"Punzalan","","Rachel","Conservative","Conservateur",N,N,80
+46011,"Winnipeg North","Winnipeg-Nord"," 87","Winnipeg",N,N,"",1,491,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46011,"Winnipeg North","Winnipeg-Nord"," 87","Winnipeg",N,N,"",1,491,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 87","Winnipeg",N,N,"",1,491,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 87","Winnipeg",N,N,"",1,491,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 87","Winnipeg",N,N,"",1,491,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,90
+46011,"Winnipeg North","Winnipeg-Nord"," 87","Winnipeg",N,N,"",1,491,"Punzalan","","Rachel","Conservative","Conservateur",N,N,80
+46011,"Winnipeg North","Winnipeg-Nord"," 88","Winnipeg",N,N,"",1,543,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46011,"Winnipeg North","Winnipeg-Nord"," 88","Winnipeg",N,N,"",1,543,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 88","Winnipeg",N,N,"",1,543,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 88","Winnipeg",N,N,"",1,543,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 88","Winnipeg",N,N,"",1,543,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,132
+46011,"Winnipeg North","Winnipeg-Nord"," 88","Winnipeg",N,N,"",1,543,"Punzalan","","Rachel","Conservative","Conservateur",N,N,74
+46011,"Winnipeg North","Winnipeg-Nord"," 89","Winnipeg",N,N,"",0,576,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46011,"Winnipeg North","Winnipeg-Nord"," 89","Winnipeg",N,N,"",0,576,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 89","Winnipeg",N,N,"",0,576,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 89","Winnipeg",N,N,"",0,576,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 89","Winnipeg",N,N,"",0,576,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,119
+46011,"Winnipeg North","Winnipeg-Nord"," 89","Winnipeg",N,N,"",0,576,"Punzalan","","Rachel","Conservative","Conservateur",N,N,87
+46011,"Winnipeg North","Winnipeg-Nord"," 90","Winnipeg",N,N,"",3,572,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46011,"Winnipeg North","Winnipeg-Nord"," 90","Winnipeg",N,N,"",3,572,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 90","Winnipeg",N,N,"",3,572,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 90","Winnipeg",N,N,"",3,572,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 90","Winnipeg",N,N,"",3,572,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,111
+46011,"Winnipeg North","Winnipeg-Nord"," 90","Winnipeg",N,N,"",3,572,"Punzalan","","Rachel","Conservative","Conservateur",N,N,97
+46011,"Winnipeg North","Winnipeg-Nord"," 91","Winnipeg",N,N,"",1,521,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46011,"Winnipeg North","Winnipeg-Nord"," 91","Winnipeg",N,N,"",1,521,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 91","Winnipeg",N,N,"",1,521,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 91","Winnipeg",N,N,"",1,521,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 91","Winnipeg",N,N,"",1,521,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,112
+46011,"Winnipeg North","Winnipeg-Nord"," 91","Winnipeg",N,N,"",1,521,"Punzalan","","Rachel","Conservative","Conservateur",N,N,76
+46011,"Winnipeg North","Winnipeg-Nord"," 92","Winnipeg",N,N,"",2,455,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46011,"Winnipeg North","Winnipeg-Nord"," 92","Winnipeg",N,N,"",2,455,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 92","Winnipeg",N,N,"",2,455,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 92","Winnipeg",N,N,"",2,455,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 92","Winnipeg",N,N,"",2,455,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,68
+46011,"Winnipeg North","Winnipeg-Nord"," 92","Winnipeg",N,N,"",2,455,"Punzalan","","Rachel","Conservative","Conservateur",N,N,59
+46011,"Winnipeg North","Winnipeg-Nord"," 93","Winnipeg",N,N,"",0,473,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46011,"Winnipeg North","Winnipeg-Nord"," 93","Winnipeg",N,N,"",0,473,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 93","Winnipeg",N,N,"",0,473,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 93","Winnipeg",N,N,"",0,473,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 93","Winnipeg",N,N,"",0,473,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,77
+46011,"Winnipeg North","Winnipeg-Nord"," 93","Winnipeg",N,N,"",0,473,"Punzalan","","Rachel","Conservative","Conservateur",N,N,89
+46011,"Winnipeg North","Winnipeg-Nord"," 94","Winnipeg",N,N,"",2,463,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46011,"Winnipeg North","Winnipeg-Nord"," 94","Winnipeg",N,N,"",2,463,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 94","Winnipeg",N,N,"",2,463,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 94","Winnipeg",N,N,"",2,463,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 94","Winnipeg",N,N,"",2,463,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,76
+46011,"Winnipeg North","Winnipeg-Nord"," 94","Winnipeg",N,N,"",2,463,"Punzalan","","Rachel","Conservative","Conservateur",N,N,81
+46011,"Winnipeg North","Winnipeg-Nord"," 95","Winnipeg",N,N,"",2,493,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46011,"Winnipeg North","Winnipeg-Nord"," 95","Winnipeg",N,N,"",2,493,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 95","Winnipeg",N,N,"",2,493,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 95","Winnipeg",N,N,"",2,493,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 95","Winnipeg",N,N,"",2,493,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,108
+46011,"Winnipeg North","Winnipeg-Nord"," 95","Winnipeg",N,N,"",2,493,"Punzalan","","Rachel","Conservative","Conservateur",N,N,117
+46011,"Winnipeg North","Winnipeg-Nord"," 96","Winnipeg",N,N,"",0,476,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46011,"Winnipeg North","Winnipeg-Nord"," 96","Winnipeg",N,N,"",0,476,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 96","Winnipeg",N,N,"",0,476,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 96","Winnipeg",N,N,"",0,476,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 96","Winnipeg",N,N,"",0,476,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,87
+46011,"Winnipeg North","Winnipeg-Nord"," 96","Winnipeg",N,N,"",0,476,"Punzalan","","Rachel","Conservative","Conservateur",N,N,50
+46011,"Winnipeg North","Winnipeg-Nord"," 97","Winnipeg",N,N,"",0,501,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46011,"Winnipeg North","Winnipeg-Nord"," 97","Winnipeg",N,N,"",0,501,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 97","Winnipeg",N,N,"",0,501,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 97","Winnipeg",N,N,"",0,501,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 97","Winnipeg",N,N,"",0,501,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,104
+46011,"Winnipeg North","Winnipeg-Nord"," 97","Winnipeg",N,N,"",0,501,"Punzalan","","Rachel","Conservative","Conservateur",N,N,86
+46011,"Winnipeg North","Winnipeg-Nord"," 98","Winnipeg",N,N,"",1,481,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46011,"Winnipeg North","Winnipeg-Nord"," 98","Winnipeg",N,N,"",1,481,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 98","Winnipeg",N,N,"",1,481,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 98","Winnipeg",N,N,"",1,481,"Brydges","","Angela","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 98","Winnipeg",N,N,"",1,481,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,90
+46011,"Winnipeg North","Winnipeg-Nord"," 98","Winnipeg",N,N,"",1,481,"Punzalan","","Rachel","Conservative","Conservateur",N,N,92
+46011,"Winnipeg North","Winnipeg-Nord"," 99","Winnipeg",N,N,"",0,391,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46011,"Winnipeg North","Winnipeg-Nord"," 99","Winnipeg",N,N,"",0,391,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 99","Winnipeg",N,N,"",0,391,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 99","Winnipeg",N,N,"",0,391,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 99","Winnipeg",N,N,"",0,391,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,85
+46011,"Winnipeg North","Winnipeg-Nord"," 99","Winnipeg",N,N,"",0,391,"Punzalan","","Rachel","Conservative","Conservateur",N,N,65
+46011,"Winnipeg North","Winnipeg-Nord"," 100","Winnipeg",N,N,"",1,335,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46011,"Winnipeg North","Winnipeg-Nord"," 100","Winnipeg",N,N,"",1,335,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 100","Winnipeg",N,N,"",1,335,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 100","Winnipeg",N,N,"",1,335,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 100","Winnipeg",N,N,"",1,335,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,50
+46011,"Winnipeg North","Winnipeg-Nord"," 100","Winnipeg",N,N,"",1,335,"Punzalan","","Rachel","Conservative","Conservateur",N,N,37
+46011,"Winnipeg North","Winnipeg-Nord"," 101","Winnipeg",N,N,"",1,455,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46011,"Winnipeg North","Winnipeg-Nord"," 101","Winnipeg",N,N,"",1,455,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 101","Winnipeg",N,N,"",1,455,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 101","Winnipeg",N,N,"",1,455,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 101","Winnipeg",N,N,"",1,455,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,80
+46011,"Winnipeg North","Winnipeg-Nord"," 101","Winnipeg",N,N,"",1,455,"Punzalan","","Rachel","Conservative","Conservateur",N,N,49
+46011,"Winnipeg North","Winnipeg-Nord"," 102","Winnipeg",N,N,"",0,408,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 102","Winnipeg",N,N,"",0,408,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 102","Winnipeg",N,N,"",0,408,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 102","Winnipeg",N,N,"",0,408,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 102","Winnipeg",N,N,"",0,408,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,81
+46011,"Winnipeg North","Winnipeg-Nord"," 102","Winnipeg",N,N,"",0,408,"Punzalan","","Rachel","Conservative","Conservateur",N,N,46
+46011,"Winnipeg North","Winnipeg-Nord"," 103","Winnipeg",N,N,"",0,377,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 103","Winnipeg",N,N,"",0,377,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 103","Winnipeg",N,N,"",0,377,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 103","Winnipeg",N,N,"",0,377,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 103","Winnipeg",N,N,"",0,377,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,48
+46011,"Winnipeg North","Winnipeg-Nord"," 103","Winnipeg",N,N,"",0,377,"Punzalan","","Rachel","Conservative","Conservateur",N,N,48
+46011,"Winnipeg North","Winnipeg-Nord"," 104","Winnipeg",N,N,"",0,472,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46011,"Winnipeg North","Winnipeg-Nord"," 104","Winnipeg",N,N,"",0,472,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 104","Winnipeg",N,N,"",0,472,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 104","Winnipeg",N,N,"",0,472,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 104","Winnipeg",N,N,"",0,472,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,68
+46011,"Winnipeg North","Winnipeg-Nord"," 104","Winnipeg",N,N,"",0,472,"Punzalan","","Rachel","Conservative","Conservateur",N,N,54
+46011,"Winnipeg North","Winnipeg-Nord"," 105","Winnipeg",N,N,"",1,506,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46011,"Winnipeg North","Winnipeg-Nord"," 105","Winnipeg",N,N,"",1,506,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 105","Winnipeg",N,N,"",1,506,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 105","Winnipeg",N,N,"",1,506,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 105","Winnipeg",N,N,"",1,506,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,58
+46011,"Winnipeg North","Winnipeg-Nord"," 105","Winnipeg",N,N,"",1,506,"Punzalan","","Rachel","Conservative","Conservateur",N,N,50
+46011,"Winnipeg North","Winnipeg-Nord"," 106","Winnipeg",N,N,"",1,481,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46011,"Winnipeg North","Winnipeg-Nord"," 106","Winnipeg",N,N,"",1,481,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 106","Winnipeg",N,N,"",1,481,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 106","Winnipeg",N,N,"",1,481,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 106","Winnipeg",N,N,"",1,481,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,72
+46011,"Winnipeg North","Winnipeg-Nord"," 106","Winnipeg",N,N,"",1,481,"Punzalan","","Rachel","Conservative","Conservateur",N,N,50
+46011,"Winnipeg North","Winnipeg-Nord"," 107","Winnipeg",N,N,"",3,566,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46011,"Winnipeg North","Winnipeg-Nord"," 107","Winnipeg",N,N,"",3,566,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 107","Winnipeg",N,N,"",3,566,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 107","Winnipeg",N,N,"",3,566,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 107","Winnipeg",N,N,"",3,566,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,70
+46011,"Winnipeg North","Winnipeg-Nord"," 107","Winnipeg",N,N,"",3,566,"Punzalan","","Rachel","Conservative","Conservateur",N,N,52
+46011,"Winnipeg North","Winnipeg-Nord"," 108","Winnipeg",N,N,"",0,331,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46011,"Winnipeg North","Winnipeg-Nord"," 108","Winnipeg",N,N,"",0,331,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 108","Winnipeg",N,N,"",0,331,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 108","Winnipeg",N,N,"",0,331,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 108","Winnipeg",N,N,"",0,331,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,82
+46011,"Winnipeg North","Winnipeg-Nord"," 108","Winnipeg",N,N,"",0,331,"Punzalan","","Rachel","Conservative","Conservateur",N,N,53
+46011,"Winnipeg North","Winnipeg-Nord"," 109","Winnipeg",N,N,"",3,385,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46011,"Winnipeg North","Winnipeg-Nord"," 109","Winnipeg",N,N,"",3,385,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 109","Winnipeg",N,N,"",3,385,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 109","Winnipeg",N,N,"",3,385,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 109","Winnipeg",N,N,"",3,385,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,72
+46011,"Winnipeg North","Winnipeg-Nord"," 109","Winnipeg",N,N,"",3,385,"Punzalan","","Rachel","Conservative","Conservateur",N,N,43
+46011,"Winnipeg North","Winnipeg-Nord"," 110","Winnipeg",N,N,"",3,442,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46011,"Winnipeg North","Winnipeg-Nord"," 110","Winnipeg",N,N,"",3,442,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 110","Winnipeg",N,N,"",3,442,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 110","Winnipeg",N,N,"",3,442,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 110","Winnipeg",N,N,"",3,442,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,87
+46011,"Winnipeg North","Winnipeg-Nord"," 110","Winnipeg",N,N,"",3,442,"Punzalan","","Rachel","Conservative","Conservateur",N,N,68
+46011,"Winnipeg North","Winnipeg-Nord"," 111","Winnipeg",N,N,"",0,458,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46011,"Winnipeg North","Winnipeg-Nord"," 111","Winnipeg",N,N,"",0,458,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 111","Winnipeg",N,N,"",0,458,"Borbridge","","Sarah","Communist","Communiste",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 111","Winnipeg",N,N,"",0,458,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 111","Winnipeg",N,N,"",0,458,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,81
+46011,"Winnipeg North","Winnipeg-Nord"," 111","Winnipeg",N,N,"",0,458,"Punzalan","","Rachel","Conservative","Conservateur",N,N,62
+46011,"Winnipeg North","Winnipeg-Nord"," 112","Winnipeg",N,N,"",0,401,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46011,"Winnipeg North","Winnipeg-Nord"," 112","Winnipeg",N,N,"",0,401,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 112","Winnipeg",N,N,"",0,401,"Borbridge","","Sarah","Communist","Communiste",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 112","Winnipeg",N,N,"",0,401,"Brydges","","Angela","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 112","Winnipeg",N,N,"",0,401,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,64
+46011,"Winnipeg North","Winnipeg-Nord"," 112","Winnipeg",N,N,"",0,401,"Punzalan","","Rachel","Conservative","Conservateur",N,N,39
+46011,"Winnipeg North","Winnipeg-Nord"," 113","Winnipeg",N,N,"",0,362,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46011,"Winnipeg North","Winnipeg-Nord"," 113","Winnipeg",N,N,"",0,362,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 113","Winnipeg",N,N,"",0,362,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 113","Winnipeg",N,N,"",0,362,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 113","Winnipeg",N,N,"",0,362,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,71
+46011,"Winnipeg North","Winnipeg-Nord"," 113","Winnipeg",N,N,"",0,362,"Punzalan","","Rachel","Conservative","Conservateur",N,N,56
+46011,"Winnipeg North","Winnipeg-Nord"," 114","Winnipeg",N,N,"",0,459,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46011,"Winnipeg North","Winnipeg-Nord"," 114","Winnipeg",N,N,"",0,459,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 114","Winnipeg",N,N,"",0,459,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 114","Winnipeg",N,N,"",0,459,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 114","Winnipeg",N,N,"",0,459,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,62
+46011,"Winnipeg North","Winnipeg-Nord"," 114","Winnipeg",N,N,"",0,459,"Punzalan","","Rachel","Conservative","Conservateur",N,N,49
+46011,"Winnipeg North","Winnipeg-Nord"," 115","Winnipeg",N,N,"",1,428,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46011,"Winnipeg North","Winnipeg-Nord"," 115","Winnipeg",N,N,"",1,428,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 115","Winnipeg",N,N,"",1,428,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 115","Winnipeg",N,N,"",1,428,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 115","Winnipeg",N,N,"",1,428,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,47
+46011,"Winnipeg North","Winnipeg-Nord"," 115","Winnipeg",N,N,"",1,428,"Punzalan","","Rachel","Conservative","Conservateur",N,N,36
+46011,"Winnipeg North","Winnipeg-Nord"," 116","Winnipeg",N,N,"",1,541,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46011,"Winnipeg North","Winnipeg-Nord"," 116","Winnipeg",N,N,"",1,541,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 116","Winnipeg",N,N,"",1,541,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 116","Winnipeg",N,N,"",1,541,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 116","Winnipeg",N,N,"",1,541,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,63
+46011,"Winnipeg North","Winnipeg-Nord"," 116","Winnipeg",N,N,"",1,541,"Punzalan","","Rachel","Conservative","Conservateur",N,N,55
+46011,"Winnipeg North","Winnipeg-Nord"," 117","Winnipeg",N,N,"",0,425,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46011,"Winnipeg North","Winnipeg-Nord"," 117","Winnipeg",N,N,"",0,425,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 117","Winnipeg",N,N,"",0,425,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 117","Winnipeg",N,N,"",0,425,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 117","Winnipeg",N,N,"",0,425,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,48
+46011,"Winnipeg North","Winnipeg-Nord"," 117","Winnipeg",N,N,"",0,425,"Punzalan","","Rachel","Conservative","Conservateur",N,N,29
+46011,"Winnipeg North","Winnipeg-Nord"," 118","Winnipeg",N,N,"",2,356,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46011,"Winnipeg North","Winnipeg-Nord"," 118","Winnipeg",N,N,"",2,356,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 118","Winnipeg",N,N,"",2,356,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 118","Winnipeg",N,N,"",2,356,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 118","Winnipeg",N,N,"",2,356,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,52
+46011,"Winnipeg North","Winnipeg-Nord"," 118","Winnipeg",N,N,"",2,356,"Punzalan","","Rachel","Conservative","Conservateur",N,N,52
+46011,"Winnipeg North","Winnipeg-Nord"," 119","Winnipeg",N,N,"",0,366,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46011,"Winnipeg North","Winnipeg-Nord"," 119","Winnipeg",N,N,"",0,366,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 119","Winnipeg",N,N,"",0,366,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 119","Winnipeg",N,N,"",0,366,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 119","Winnipeg",N,N,"",0,366,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,59
+46011,"Winnipeg North","Winnipeg-Nord"," 119","Winnipeg",N,N,"",0,366,"Punzalan","","Rachel","Conservative","Conservateur",N,N,35
+46011,"Winnipeg North","Winnipeg-Nord"," 120","Winnipeg",N,N,"",0,398,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46011,"Winnipeg North","Winnipeg-Nord"," 120","Winnipeg",N,N,"",0,398,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 120","Winnipeg",N,N,"",0,398,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 120","Winnipeg",N,N,"",0,398,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 120","Winnipeg",N,N,"",0,398,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,51
+46011,"Winnipeg North","Winnipeg-Nord"," 120","Winnipeg",N,N,"",0,398,"Punzalan","","Rachel","Conservative","Conservateur",N,N,27
+46011,"Winnipeg North","Winnipeg-Nord"," 121","Winnipeg",N,N,"",1,473,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46011,"Winnipeg North","Winnipeg-Nord"," 121","Winnipeg",N,N,"",1,473,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 121","Winnipeg",N,N,"",1,473,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 121","Winnipeg",N,N,"",1,473,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 121","Winnipeg",N,N,"",1,473,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,54
+46011,"Winnipeg North","Winnipeg-Nord"," 121","Winnipeg",N,N,"",1,473,"Punzalan","","Rachel","Conservative","Conservateur",N,N,19
+46011,"Winnipeg North","Winnipeg-Nord"," 122","Winnipeg",N,N,"",0,398,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46011,"Winnipeg North","Winnipeg-Nord"," 122","Winnipeg",N,N,"",0,398,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 122","Winnipeg",N,N,"",0,398,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 122","Winnipeg",N,N,"",0,398,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 122","Winnipeg",N,N,"",0,398,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,20
+46011,"Winnipeg North","Winnipeg-Nord"," 122","Winnipeg",N,N,"",0,398,"Punzalan","","Rachel","Conservative","Conservateur",N,N,22
+46011,"Winnipeg North","Winnipeg-Nord"," 123","Winnipeg",N,N,"",1,412,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46011,"Winnipeg North","Winnipeg-Nord"," 123","Winnipeg",N,N,"",1,412,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 123","Winnipeg",N,N,"",1,412,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 123","Winnipeg",N,N,"",1,412,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 123","Winnipeg",N,N,"",1,412,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,27
+46011,"Winnipeg North","Winnipeg-Nord"," 123","Winnipeg",N,N,"",1,412,"Punzalan","","Rachel","Conservative","Conservateur",N,N,22
+46011,"Winnipeg North","Winnipeg-Nord"," 124A","Winnipeg",N,N,"",1,421,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46011,"Winnipeg North","Winnipeg-Nord"," 124A","Winnipeg",N,N,"",1,421,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 124A","Winnipeg",N,N,"",1,421,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 124A","Winnipeg",N,N,"",1,421,"Brydges","","Angela","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 124A","Winnipeg",N,N,"",1,421,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,37
+46011,"Winnipeg North","Winnipeg-Nord"," 124A","Winnipeg",N,N,"",1,421,"Punzalan","","Rachel","Conservative","Conservateur",N,N,31
+46011,"Winnipeg North","Winnipeg-Nord"," 124B","Winnipeg",N,N,"511",0,67,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 124B","Winnipeg",N,N,"511",0,67,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 124B","Winnipeg",N,N,"511",0,67,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 124B","Winnipeg",N,N,"511",0,67,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 124B","Winnipeg",N,N,"511",0,67,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 124B","Winnipeg",N,N,"511",0,67,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 125","Winnipeg",N,N,"",3,423,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46011,"Winnipeg North","Winnipeg-Nord"," 125","Winnipeg",N,N,"",3,423,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 125","Winnipeg",N,N,"",3,423,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 125","Winnipeg",N,N,"",3,423,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 125","Winnipeg",N,N,"",3,423,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,48
+46011,"Winnipeg North","Winnipeg-Nord"," 125","Winnipeg",N,N,"",3,423,"Punzalan","","Rachel","Conservative","Conservateur",N,N,29
+46011,"Winnipeg North","Winnipeg-Nord"," 126","Winnipeg",N,N,"",4,415,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46011,"Winnipeg North","Winnipeg-Nord"," 126","Winnipeg",N,N,"",4,415,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 126","Winnipeg",N,N,"",4,415,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 126","Winnipeg",N,N,"",4,415,"Brydges","","Angela","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 126","Winnipeg",N,N,"",4,415,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,38
+46011,"Winnipeg North","Winnipeg-Nord"," 126","Winnipeg",N,N,"",4,415,"Punzalan","","Rachel","Conservative","Conservateur",N,N,25
+46011,"Winnipeg North","Winnipeg-Nord"," 127","Winnipeg",N,N,"",1,409,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46011,"Winnipeg North","Winnipeg-Nord"," 127","Winnipeg",N,N,"",1,409,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 127","Winnipeg",N,N,"",1,409,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 127","Winnipeg",N,N,"",1,409,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 127","Winnipeg",N,N,"",1,409,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,43
+46011,"Winnipeg North","Winnipeg-Nord"," 127","Winnipeg",N,N,"",1,409,"Punzalan","","Rachel","Conservative","Conservateur",N,N,31
+46011,"Winnipeg North","Winnipeg-Nord"," 128","Winnipeg",N,N,"",0,369,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46011,"Winnipeg North","Winnipeg-Nord"," 128","Winnipeg",N,N,"",0,369,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 128","Winnipeg",N,N,"",0,369,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 128","Winnipeg",N,N,"",0,369,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 128","Winnipeg",N,N,"",0,369,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,41
+46011,"Winnipeg North","Winnipeg-Nord"," 128","Winnipeg",N,N,"",0,369,"Punzalan","","Rachel","Conservative","Conservateur",N,N,60
+46011,"Winnipeg North","Winnipeg-Nord"," 129","Winnipeg",N,N,"",1,422,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 129","Winnipeg",N,N,"",1,422,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 129","Winnipeg",N,N,"",1,422,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 129","Winnipeg",N,N,"",1,422,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 129","Winnipeg",N,N,"",1,422,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,53
+46011,"Winnipeg North","Winnipeg-Nord"," 129","Winnipeg",N,N,"",1,422,"Punzalan","","Rachel","Conservative","Conservateur",N,N,40
+46011,"Winnipeg North","Winnipeg-Nord"," 130","Winnipeg",N,N,"",3,454,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46011,"Winnipeg North","Winnipeg-Nord"," 130","Winnipeg",N,N,"",3,454,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 130","Winnipeg",N,N,"",3,454,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 130","Winnipeg",N,N,"",3,454,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 130","Winnipeg",N,N,"",3,454,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,76
+46011,"Winnipeg North","Winnipeg-Nord"," 130","Winnipeg",N,N,"",3,454,"Punzalan","","Rachel","Conservative","Conservateur",N,N,69
+46011,"Winnipeg North","Winnipeg-Nord"," 131","Winnipeg",N,N,"",0,466,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46011,"Winnipeg North","Winnipeg-Nord"," 131","Winnipeg",N,N,"",0,466,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 131","Winnipeg",N,N,"",0,466,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 131","Winnipeg",N,N,"",0,466,"Brydges","","Angela","Green Party","Parti Vert",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 131","Winnipeg",N,N,"",0,466,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,73
+46011,"Winnipeg North","Winnipeg-Nord"," 131","Winnipeg",N,N,"",0,466,"Punzalan","","Rachel","Conservative","Conservateur",N,N,48
+46011,"Winnipeg North","Winnipeg-Nord"," 132","Winnipeg",N,N,"",2,581,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46011,"Winnipeg North","Winnipeg-Nord"," 132","Winnipeg",N,N,"",2,581,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 132","Winnipeg",N,N,"",2,581,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 132","Winnipeg",N,N,"",2,581,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 132","Winnipeg",N,N,"",2,581,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,50
+46011,"Winnipeg North","Winnipeg-Nord"," 132","Winnipeg",N,N,"",2,581,"Punzalan","","Rachel","Conservative","Conservateur",N,N,40
+46011,"Winnipeg North","Winnipeg-Nord"," 400","Winnipeg",N,N,"17",0,113,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 400","Winnipeg",N,N,"17",0,113,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 400","Winnipeg",N,N,"17",0,113,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 400","Winnipeg",N,N,"17",0,113,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 400","Winnipeg",N,N,"17",0,113,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 400","Winnipeg",N,N,"17",0,113,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"",7,99,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46011,"Winnipeg North","Winnipeg-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"",7,99,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"",7,99,"Borbridge","","Sarah","Communist","Communiste",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"",7,99,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"",7,99,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,66
+46011,"Winnipeg North","Winnipeg-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"",7,99,"Punzalan","","Rachel","Conservative","Conservateur",N,N,22
+46011,"Winnipeg North","Winnipeg-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,155,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,155,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,155,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,155,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,155,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"500",0,155,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"",1,110,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46011,"Winnipeg North","Winnipeg-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"",1,110,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"",1,110,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"",1,110,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"",1,110,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,26
+46011,"Winnipeg North","Winnipeg-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"",1,110,"Punzalan","","Rachel","Conservative","Conservateur",N,N,22
+46011,"Winnipeg North","Winnipeg-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"504",0,25,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"504",0,25,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"504",0,25,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"504",0,25,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"504",0,25,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"504",0,25,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 504","Mobile poll/Bureau itinérant",N,N,"",0,31,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 504","Mobile poll/Bureau itinérant",N,N,"",0,31,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 504","Mobile poll/Bureau itinérant",N,N,"",0,31,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 504","Mobile poll/Bureau itinérant",N,N,"",0,31,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 504","Mobile poll/Bureau itinérant",N,N,"",0,31,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,16
+46011,"Winnipeg North","Winnipeg-Nord"," 504","Mobile poll/Bureau itinérant",N,N,"",0,31,"Punzalan","","Rachel","Conservative","Conservateur",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,44,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,44,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,44,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,44,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,44,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,44,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,49,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,49,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,49,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,49,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,49,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 506","Mobile poll/Bureau itinérant",N,N,"507",0,49,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 507","Mobile poll/Bureau itinérant",N,N,"",4,82,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 507","Mobile poll/Bureau itinérant",N,N,"",4,82,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 507","Mobile poll/Bureau itinérant",N,N,"",4,82,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 507","Mobile poll/Bureau itinérant",N,N,"",4,82,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 507","Mobile poll/Bureau itinérant",N,N,"",4,82,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,45
+46011,"Winnipeg North","Winnipeg-Nord"," 507","Mobile poll/Bureau itinérant",N,N,"",4,82,"Punzalan","","Rachel","Conservative","Conservateur",N,N,8
+46011,"Winnipeg North","Winnipeg-Nord"," 508","Mobile poll/Bureau itinérant",N,N,"502",0,71,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 508","Mobile poll/Bureau itinérant",N,N,"502",0,71,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 508","Mobile poll/Bureau itinérant",N,N,"502",0,71,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 508","Mobile poll/Bureau itinérant",N,N,"502",0,71,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 508","Mobile poll/Bureau itinérant",N,N,"502",0,71,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 508","Mobile poll/Bureau itinérant",N,N,"502",0,71,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 509","Mobile poll/Bureau itinérant",N,N,"",0,90,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46011,"Winnipeg North","Winnipeg-Nord"," 509","Mobile poll/Bureau itinérant",N,N,"",0,90,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 509","Mobile poll/Bureau itinérant",N,N,"",0,90,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 509","Mobile poll/Bureau itinérant",N,N,"",0,90,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 509","Mobile poll/Bureau itinérant",N,N,"",0,90,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,50
+46011,"Winnipeg North","Winnipeg-Nord"," 509","Mobile poll/Bureau itinérant",N,N,"",0,90,"Punzalan","","Rachel","Conservative","Conservateur",N,N,19
+46011,"Winnipeg North","Winnipeg-Nord"," 510","Mobile poll/Bureau itinérant",N,N,"509",0,62,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 510","Mobile poll/Bureau itinérant",N,N,"509",0,62,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 510","Mobile poll/Bureau itinérant",N,N,"509",0,62,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 510","Mobile poll/Bureau itinérant",N,N,"509",0,62,"Brydges","","Angela","Green Party","Parti Vert",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 510","Mobile poll/Bureau itinérant",N,N,"509",0,62,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,0
+46011,"Winnipeg North","Winnipeg-Nord"," 510","Mobile poll/Bureau itinérant",N,N,"509",0,62,"Punzalan","","Rachel","Conservative","Conservateur",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 511","Winnipeg",N,N,"",0,226,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46011,"Winnipeg North","Winnipeg-Nord"," 511","Winnipeg",N,N,"",0,226,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 511","Winnipeg",N,N,"",0,226,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 511","Winnipeg",N,N,"",0,226,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 511","Winnipeg",N,N,"",0,226,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,72
+46011,"Winnipeg North","Winnipeg-Nord"," 511","Winnipeg",N,N,"",0,226,"Punzalan","","Rachel","Conservative","Conservateur",N,N,27
+46011,"Winnipeg North","Winnipeg-Nord"," 600","Winnipeg",N,N,"",5,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46011,"Winnipeg North","Winnipeg-Nord"," 600","Winnipeg",N,N,"",5,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,14
+46011,"Winnipeg North","Winnipeg-Nord"," 600","Winnipeg",N,N,"",5,0,"Borbridge","","Sarah","Communist","Communiste",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 600","Winnipeg",N,N,"",5,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 600","Winnipeg",N,N,"",5,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,954
+46011,"Winnipeg North","Winnipeg-Nord"," 600","Winnipeg",N,N,"",5,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,448
+46011,"Winnipeg North","Winnipeg-Nord"," 601","Winnipeg",N,N,"",3,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46011,"Winnipeg North","Winnipeg-Nord"," 601","Winnipeg",N,N,"",3,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 601","Winnipeg",N,N,"",3,0,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 601","Winnipeg",N,N,"",3,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 601","Winnipeg",N,N,"",3,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,858
+46011,"Winnipeg North","Winnipeg-Nord"," 601","Winnipeg",N,N,"",3,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,456
+46011,"Winnipeg North","Winnipeg-Nord"," 602","Winnipeg",N,N,"",9,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+46011,"Winnipeg North","Winnipeg-Nord"," 602","Winnipeg",N,N,"",9,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 602","Winnipeg",N,N,"",9,0,"Borbridge","","Sarah","Communist","Communiste",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 602","Winnipeg",N,N,"",9,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 602","Winnipeg",N,N,"",9,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,650
+46011,"Winnipeg North","Winnipeg-Nord"," 602","Winnipeg",N,N,"",9,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,310
+46011,"Winnipeg North","Winnipeg-Nord"," 603","Winnipeg",N,N,"",1,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46011,"Winnipeg North","Winnipeg-Nord"," 603","Winnipeg",N,N,"",1,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 603","Winnipeg",N,N,"",1,0,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 603","Winnipeg",N,N,"",1,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 603","Winnipeg",N,N,"",1,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,683
+46011,"Winnipeg North","Winnipeg-Nord"," 603","Winnipeg",N,N,"",1,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,383
+46011,"Winnipeg North","Winnipeg-Nord"," 604","Winnipeg",N,N,"",3,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+46011,"Winnipeg North","Winnipeg-Nord"," 604","Winnipeg",N,N,"",3,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 604","Winnipeg",N,N,"",3,0,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 604","Winnipeg",N,N,"",3,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 604","Winnipeg",N,N,"",3,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,666
+46011,"Winnipeg North","Winnipeg-Nord"," 604","Winnipeg",N,N,"",3,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,335
+46011,"Winnipeg North","Winnipeg-Nord"," 605","Winnipeg",N,N,"",5,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46011,"Winnipeg North","Winnipeg-Nord"," 605","Winnipeg",N,N,"",5,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 605","Winnipeg",N,N,"",5,0,"Borbridge","","Sarah","Communist","Communiste",N,N,0
+46011,"Winnipeg North","Winnipeg-Nord"," 605","Winnipeg",N,N,"",5,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 605","Winnipeg",N,N,"",5,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,791
+46011,"Winnipeg North","Winnipeg-Nord"," 605","Winnipeg",N,N,"",5,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,352
+46011,"Winnipeg North","Winnipeg-Nord"," 606","Winnipeg",N,N,"",7,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46011,"Winnipeg North","Winnipeg-Nord"," 606","Winnipeg",N,N,"",7,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,9
+46011,"Winnipeg North","Winnipeg-Nord"," 606","Winnipeg",N,N,"",7,0,"Borbridge","","Sarah","Communist","Communiste",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 606","Winnipeg",N,N,"",7,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 606","Winnipeg",N,N,"",7,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,936
+46011,"Winnipeg North","Winnipeg-Nord"," 606","Winnipeg",N,N,"",7,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,389
+46011,"Winnipeg North","Winnipeg-Nord"," 607","Winnipeg",N,N,"",9,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+46011,"Winnipeg North","Winnipeg-Nord"," 607","Winnipeg",N,N,"",9,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,8
+46011,"Winnipeg North","Winnipeg-Nord"," 607","Winnipeg",N,N,"",9,0,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 607","Winnipeg",N,N,"",9,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 607","Winnipeg",N,N,"",9,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,527
+46011,"Winnipeg North","Winnipeg-Nord"," 607","Winnipeg",N,N,"",9,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,384
+46011,"Winnipeg North","Winnipeg-Nord"," 608","Winnipeg",N,N,"",14,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+46011,"Winnipeg North","Winnipeg-Nord"," 608","Winnipeg",N,N,"",14,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 608","Winnipeg",N,N,"",14,0,"Borbridge","","Sarah","Communist","Communiste",N,N,2
+46011,"Winnipeg North","Winnipeg-Nord"," 608","Winnipeg",N,N,"",14,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 608","Winnipeg",N,N,"",14,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,486
+46011,"Winnipeg North","Winnipeg-Nord"," 608","Winnipeg",N,N,"",14,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,361
+46011,"Winnipeg North","Winnipeg-Nord"," 609","Winnipeg",N,N,"",3,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46011,"Winnipeg North","Winnipeg-Nord"," 609","Winnipeg",N,N,"",3,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 609","Winnipeg",N,N,"",3,0,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," 609","Winnipeg",N,N,"",3,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,3
+46011,"Winnipeg North","Winnipeg-Nord"," 609","Winnipeg",N,N,"",3,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,429
+46011,"Winnipeg North","Winnipeg-Nord"," 609","Winnipeg",N,N,"",3,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,316
+46011,"Winnipeg North","Winnipeg-Nord"," 610","Winnipeg",N,N,"",3,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+46011,"Winnipeg North","Winnipeg-Nord"," 610","Winnipeg",N,N,"",3,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 610","Winnipeg",N,N,"",3,0,"Borbridge","","Sarah","Communist","Communiste",N,N,7
+46011,"Winnipeg North","Winnipeg-Nord"," 610","Winnipeg",N,N,"",3,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," 610","Winnipeg",N,N,"",3,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,307
+46011,"Winnipeg North","Winnipeg-Nord"," 610","Winnipeg",N,N,"",3,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,204
+46011,"Winnipeg North","Winnipeg-Nord"," 611","Winnipeg",N,N,"",1,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+46011,"Winnipeg North","Winnipeg-Nord"," 611","Winnipeg",N,N,"",1,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,6
+46011,"Winnipeg North","Winnipeg-Nord"," 611","Winnipeg",N,N,"",1,0,"Borbridge","","Sarah","Communist","Communiste",N,N,12
+46011,"Winnipeg North","Winnipeg-Nord"," 611","Winnipeg",N,N,"",1,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," 611","Winnipeg",N,N,"",1,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,335
+46011,"Winnipeg North","Winnipeg-Nord"," 611","Winnipeg",N,N,"",1,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,181
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",37,211,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",37,211,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,12
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",37,211,"Borbridge","","Sarah","Communist","Communiste",N,N,4
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",37,211,"Brydges","","Angela","Green Party","Parti Vert",N,N,11
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",37,211,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,1116
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",37,211,"Punzalan","","Rachel","Conservative","Conservateur",N,N,439
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Akinrogunde","","Adebayo","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Bailon","","Jessica","People's Party - PPC","Parti populaire - PPC",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Borbridge","","Sarah","Communist","Communiste",N,N,1
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Brydges","","Angela","Green Party","Parti Vert",N,N,5
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Lamoureux","","Kevin","Liberal","Libéral",N,Y,504
+46011,"Winnipeg North","Winnipeg-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",16,0,"Punzalan","","Rachel","Conservative","Conservateur",N,N,272

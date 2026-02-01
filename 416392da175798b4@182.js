@@ -1,12 +1,10 @@
 function _1(md){return(
 md`<div style="color: grey; font: 13px/25.5px var(--sans-serif); text-transform: uppercase;"><h1 style="display: none;">Zoom to bounding box</h1><a href="https://d3js.org/">D3</a> › <a href="/@d3/gallery">Gallery</a></div>
 
-# Canada Federal Electoral Districts 2025
-
-Interactive map of Canada's 352 federal election ridings. Click on any riding to zoom in, or click the background to reset. Pan and zoom with mouse/trackpad.`
+# Canada Federal Election 2025`
 )}
 
-function _chart(d3,ridings,coastline)
+function _chart(d3,ridings,coastline,results)
 {
   const baseWidth = 975;
   const baseHeight = 610;
@@ -71,6 +69,35 @@ function _chart(d3,ridings,coastline)
     return "#f9f9f9";
   };
 
+  const resultsByDistrict = d3.group(results, d => d["Electoral District Number"]);
+
+  const getPartyColor = (party) => {
+    const name = String(party || "").toLowerCase();
+    if (name.includes("liberal")) return "#d7191c";
+    if (name.includes("conservative")) return "#2166ac";
+    if (name.includes("ndp") || name.includes("new democratic")) return "#f28e2b";
+    if (name.includes("green")) return "#1a9850";
+    if (name.includes("people's party") || name.includes("ppc")) return "#6a1b9a";
+    if (name.includes("bloc")) return "#4fc3f7";
+    return "#555";
+  };
+
+  const winnerPartyByDistrict = new Map();
+  resultsByDistrict.forEach((rows, districtNum) => {
+    const winner = rows
+      .slice()
+      .sort((a, b) => d3.descending(+a["Total Votes"], +b["Total Votes"]))[0];
+    if (winner) {
+      winnerPartyByDistrict.set(String(districtNum), winner["Political Party"]);
+    }
+  });
+
+  const getRidingFill = (d) => {
+    const districtNum = String(d.properties.FED_NUM);
+    const party = winnerPartyByDistrict.get(districtNum);
+    return party ? getPartyColor(party) : getRegionColor(d);
+  };
+
   // Create a clipped group for ridings (so they only show within Canada's land boundaries)
   const clippedGroup = g.append("g")
       .attr("clip-path", "url(#canada-land-clip)");
@@ -82,8 +109,8 @@ function _chart(d3,ridings,coastline)
     .selectAll("path")
     .data(ridings.features)
     .join("path")
-      .attr("fill", d => getRegionColor(d))
-      .attr("stroke", "#666")  // Darker gray for boundaries
+      .attr("fill", d => getRidingFill(d))
+      .attr("stroke", "#fff")  // White boundaries for visibility
       .attr("stroke-width", 0.3)
       .attr("stroke-linejoin", "round")
       .attr("vector-effect", "non-scaling-stroke")  // Keep stroke width constant when zooming
@@ -95,21 +122,21 @@ function _chart(d3,ridings,coastline)
           .transition()
           .duration(100)
           .attr("fill", "#ffeb3b")  // Bright yellow highlight
-          .attr("stroke", "#333")
+          .attr("stroke", "#fff")
           .attr("stroke-width", 1);
       })
       .on("mouseout", function(event, d) {
         if (d3.select(this).classed("selected")) {
           d3.select(this)
             .attr("fill", "#ffc107")  // Keep selected color
-            .attr("stroke", "#333")
+            .attr("stroke", "#fff")
             .attr("stroke-width", 1);
         } else {
           d3.select(this)
             .transition()
             .duration(100)
-            .attr("fill", getRegionColor(d))
-            .attr("stroke", "#666")
+            .attr("fill", getRidingFill(d))
+            .attr("stroke", "#fff")
             .attr("stroke-width", 0.3);
         }
       })
@@ -142,10 +169,43 @@ function _chart(d3,ridings,coastline)
       .style("font-family", "sans-serif")
       .style("font-size", "14px");
 
-  info.append("text")
-      .attr("id", "riding-info")
-      .attr("fill", "#333")
-      .text("Click on a riding to zoom in");
+  function renderInfo(districtNum, districtName) {
+    info.selectAll("*").remove();
+
+    if (!districtNum) {
+      info.append("text")
+          .attr("fill", "#333")
+          .text("Click on a riding to zoom in");
+      return;
+    }
+
+    const rows = resultsByDistrict.get(String(districtNum)) || [];
+    info.append("text")
+        .attr("fill", "#333")
+        .style("font-weight", "600")
+        .text(`${districtNum} — ${districtName}`);
+
+    if (rows.length === 0) {
+      info.append("text")
+          .attr("fill", "#333")
+          .attr("y", 18)
+          .text("No results available.");
+      return;
+    }
+
+    rows
+      .slice()
+      .sort((a, b) => d3.descending(+a["Total Votes"], +b["Total Votes"]))
+      .forEach((row, i) => {
+        const share = row["Vote Share (%)"] ? `${row["Vote Share (%)"]}%` : "";
+        info.append("text")
+        .attr("fill", getPartyColor(row["Political Party"]))
+        .attr("y", 18 + i * 16)
+        .text(`${row["Candidate Full Name"]} — ${row["Political Party"]}: ${row["Total Votes"]} (${share})`);
+      });
+  }
+
+  renderInfo();
 
   svg.call(zoom);
 
@@ -153,12 +213,11 @@ function _chart(d3,ridings,coastline)
     ridingPaths.classed("selected", false);
     ridingPaths.transition()
       .duration(300)
-      .attr("fill", d => getRegionColor(d))
-      .attr("stroke", "#666")
+      .attr("fill", d => getRidingFill(d))
+      .attr("stroke", "#fff")
       .attr("stroke-width", 0.3);
 
-    info.select("#riding-info")
-      .text("Click on a riding to zoom in");
+    renderInfo();
 
     svg.transition().duration(750).call(
       zoom.transform,
@@ -178,10 +237,10 @@ function _chart(d3,ridings,coastline)
     ridingPaths
       .attr("fill", function(d) {
         return d3.select(this).classed("selected") ?
-          "#ffc107" : getRegionColor(d);
+          "#ffc107" : getRidingFill(d);
       })
       .attr("stroke", function() {
-        return d3.select(this).classed("selected") ? "#333" : "#666";
+        return d3.select(this).classed("selected") ? "#fff" : "#fff";
       })
       .attr("stroke-width", function() {
         return d3.select(this).classed("selected") ? 1 : 0.3;
@@ -191,8 +250,7 @@ function _chart(d3,ridings,coastline)
     d3.select(this).raise();
 
     // Update info text
-    info.select("#riding-info")
-      .text(`${d.properties.ED_NAMEE} (District #${d.properties.FED_NUM})`);
+    renderInfo(d.properties.FED_NUM, d.properties.ED_NAMEE);
 
     // Calculate zoom to fit the selected riding
     const dx = x1 - x0;
@@ -228,17 +286,23 @@ function _coastline(FileAttachment){return(
 FileAttachment("canada-coastline-ne10m.json").json()
 )}
 
+function _results(FileAttachment){return(
+FileAttachment("result.csv").csv()
+)}
+
 export default function define(runtime, observer) {
   const main = runtime.module();
   function toString() { return this.url; }
   const fileAttachments = new Map([
     ["canada-ridings-latlon.json", {url: new URL("./files/canada-ridings-latlon.json", import.meta.url), mimeType: "application/json", toString}],
-    ["canada-coastline-ne10m.json", {url: new URL("./files/canada-coastline-ne10m.json", import.meta.url), mimeType: "application/json", toString}]
+    ["canada-coastline-ne10m.json", {url: new URL("./files/canada-coastline-ne10m.json", import.meta.url), mimeType: "application/json", toString}],
+    ["result.csv", {url: new URL("./result.csv", import.meta.url), mimeType: "text/csv", toString}]
   ]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], _1);
-  main.variable(observer("chart")).define("chart", ["d3","ridings","coastline"], _chart);
+  main.variable(observer("chart")).define("chart", ["d3","ridings","coastline","results"], _chart);
   main.variable(observer("ridings")).define("ridings", ["FileAttachment"], _ridings);
   main.variable(observer("coastline")).define("coastline", ["FileAttachment"], _coastline);
+  main.variable(observer("results")).define("results", ["FileAttachment"], _results);
   return main;
 }

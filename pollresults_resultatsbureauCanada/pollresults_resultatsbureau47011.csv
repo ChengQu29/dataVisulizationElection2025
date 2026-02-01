@@ -1,0 +1,705 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+47011,"Saskatoon West","Saskatoon-Ouest"," 1","Saskatoon",N,N,"",3,601,"Eggerman","","Chad","Liberal","Libéral",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 1","Saskatoon",N,N,"",3,601,"Hunter","","Naomi","Green Party","Parti Vert",N,N,5
+47011,"Saskatoon West","Saskatoon-Ouest"," 1","Saskatoon",N,N,"",3,601,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+47011,"Saskatoon West","Saskatoon-Ouest"," 1","Saskatoon",N,N,"",3,601,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,82
+47011,"Saskatoon West","Saskatoon-Ouest"," 2","Saskatoon",N,N,"",0,537,"Eggerman","","Chad","Liberal","Libéral",N,N,54
+47011,"Saskatoon West","Saskatoon-Ouest"," 2","Saskatoon",N,N,"",0,537,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 2","Saskatoon",N,N,"",0,537,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+47011,"Saskatoon West","Saskatoon-Ouest"," 2","Saskatoon",N,N,"",0,537,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,109
+47011,"Saskatoon West","Saskatoon-Ouest"," 3","Saskatoon",N,N,"",2,417,"Eggerman","","Chad","Liberal","Libéral",N,N,45
+47011,"Saskatoon West","Saskatoon-Ouest"," 3","Saskatoon",N,N,"",2,417,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 3","Saskatoon",N,N,"",2,417,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47011,"Saskatoon West","Saskatoon-Ouest"," 3","Saskatoon",N,N,"",2,417,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,38
+47011,"Saskatoon West","Saskatoon-Ouest"," 4","Saskatoon",N,N,"",0,598,"Eggerman","","Chad","Liberal","Libéral",N,N,48
+47011,"Saskatoon West","Saskatoon-Ouest"," 4","Saskatoon",N,N,"",0,598,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 4","Saskatoon",N,N,"",0,598,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+47011,"Saskatoon West","Saskatoon-Ouest"," 4","Saskatoon",N,N,"",0,598,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,149
+47011,"Saskatoon West","Saskatoon-Ouest"," 5","Saskatoon",N,N,"",0,583,"Eggerman","","Chad","Liberal","Libéral",N,N,33
+47011,"Saskatoon West","Saskatoon-Ouest"," 5","Saskatoon",N,N,"",0,583,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 5","Saskatoon",N,N,"",0,583,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47011,"Saskatoon West","Saskatoon-Ouest"," 5","Saskatoon",N,N,"",0,583,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,150
+47011,"Saskatoon West","Saskatoon-Ouest"," 6","Saskatoon",N,N,"",0,565,"Eggerman","","Chad","Liberal","Libéral",N,N,56
+47011,"Saskatoon West","Saskatoon-Ouest"," 6","Saskatoon",N,N,"",0,565,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 6","Saskatoon",N,N,"",0,565,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 6","Saskatoon",N,N,"",0,565,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,134
+47011,"Saskatoon West","Saskatoon-Ouest"," 7","Saskatoon",N,N,"",1,557,"Eggerman","","Chad","Liberal","Libéral",N,N,58
+47011,"Saskatoon West","Saskatoon-Ouest"," 7","Saskatoon",N,N,"",1,557,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 7","Saskatoon",N,N,"",1,557,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+47011,"Saskatoon West","Saskatoon-Ouest"," 7","Saskatoon",N,N,"",1,557,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,114
+47011,"Saskatoon West","Saskatoon-Ouest"," 8","Saskatoon",N,N,"",2,411,"Eggerman","","Chad","Liberal","Libéral",N,N,64
+47011,"Saskatoon West","Saskatoon-Ouest"," 8","Saskatoon",N,N,"",2,411,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 8","Saskatoon",N,N,"",2,411,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47011,"Saskatoon West","Saskatoon-Ouest"," 8","Saskatoon",N,N,"",2,411,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,87
+47011,"Saskatoon West","Saskatoon-Ouest"," 9","Saskatoon",N,N,"",1,590,"Eggerman","","Chad","Liberal","Libéral",N,N,58
+47011,"Saskatoon West","Saskatoon-Ouest"," 9","Saskatoon",N,N,"",1,590,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 9","Saskatoon",N,N,"",1,590,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47011,"Saskatoon West","Saskatoon-Ouest"," 9","Saskatoon",N,N,"",1,590,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,151
+47011,"Saskatoon West","Saskatoon-Ouest"," 10","Saskatoon",N,N,"",1,575,"Eggerman","","Chad","Liberal","Libéral",N,N,51
+47011,"Saskatoon West","Saskatoon-Ouest"," 10","Saskatoon",N,N,"",1,575,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 10","Saskatoon",N,N,"",1,575,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47011,"Saskatoon West","Saskatoon-Ouest"," 10","Saskatoon",N,N,"",1,575,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,127
+47011,"Saskatoon West","Saskatoon-Ouest"," 11","Saskatoon",N,N,"",0,424,"Eggerman","","Chad","Liberal","Libéral",N,N,36
+47011,"Saskatoon West","Saskatoon-Ouest"," 11","Saskatoon",N,N,"",0,424,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 11","Saskatoon",N,N,"",0,424,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47011,"Saskatoon West","Saskatoon-Ouest"," 11","Saskatoon",N,N,"",0,424,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,113
+47011,"Saskatoon West","Saskatoon-Ouest"," 12","Saskatoon",N,N,"",1,502,"Eggerman","","Chad","Liberal","Libéral",N,N,52
+47011,"Saskatoon West","Saskatoon-Ouest"," 12","Saskatoon",N,N,"",1,502,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 12","Saskatoon",N,N,"",1,502,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47011,"Saskatoon West","Saskatoon-Ouest"," 12","Saskatoon",N,N,"",1,502,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,136
+47011,"Saskatoon West","Saskatoon-Ouest"," 13","Saskatoon",N,N,"",1,485,"Eggerman","","Chad","Liberal","Libéral",N,N,48
+47011,"Saskatoon West","Saskatoon-Ouest"," 13","Saskatoon",N,N,"",1,485,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 13","Saskatoon",N,N,"",1,485,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47011,"Saskatoon West","Saskatoon-Ouest"," 13","Saskatoon",N,N,"",1,485,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,110
+47011,"Saskatoon West","Saskatoon-Ouest"," 14","Saskatoon",N,N,"",2,475,"Eggerman","","Chad","Liberal","Libéral",N,N,44
+47011,"Saskatoon West","Saskatoon-Ouest"," 14","Saskatoon",N,N,"",2,475,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 14","Saskatoon",N,N,"",2,475,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47011,"Saskatoon West","Saskatoon-Ouest"," 14","Saskatoon",N,N,"",2,475,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,113
+47011,"Saskatoon West","Saskatoon-Ouest"," 15","Saskatoon",N,N,"",0,429,"Eggerman","","Chad","Liberal","Libéral",N,N,46
+47011,"Saskatoon West","Saskatoon-Ouest"," 15","Saskatoon",N,N,"",0,429,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 15","Saskatoon",N,N,"",0,429,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47011,"Saskatoon West","Saskatoon-Ouest"," 15","Saskatoon",N,N,"",0,429,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,107
+47011,"Saskatoon West","Saskatoon-Ouest"," 16","Saskatoon",N,N,"",0,446,"Eggerman","","Chad","Liberal","Libéral",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 16","Saskatoon",N,N,"",0,446,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 16","Saskatoon",N,N,"",0,446,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+47011,"Saskatoon West","Saskatoon-Ouest"," 16","Saskatoon",N,N,"",0,446,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,73
+47011,"Saskatoon West","Saskatoon-Ouest"," 17","Saskatoon",N,N,"",0,437,"Eggerman","","Chad","Liberal","Libéral",N,N,37
+47011,"Saskatoon West","Saskatoon-Ouest"," 17","Saskatoon",N,N,"",0,437,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 17","Saskatoon",N,N,"",0,437,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47011,"Saskatoon West","Saskatoon-Ouest"," 17","Saskatoon",N,N,"",0,437,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,70
+47011,"Saskatoon West","Saskatoon-Ouest"," 18","Saskatoon",N,N,"",0,561,"Eggerman","","Chad","Liberal","Libéral",N,N,54
+47011,"Saskatoon West","Saskatoon-Ouest"," 18","Saskatoon",N,N,"",0,561,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 18","Saskatoon",N,N,"",0,561,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47011,"Saskatoon West","Saskatoon-Ouest"," 18","Saskatoon",N,N,"",0,561,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,123
+47011,"Saskatoon West","Saskatoon-Ouest"," 19","Saskatoon",N,N,"",0,450,"Eggerman","","Chad","Liberal","Libéral",N,N,44
+47011,"Saskatoon West","Saskatoon-Ouest"," 19","Saskatoon",N,N,"",0,450,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 19","Saskatoon",N,N,"",0,450,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47011,"Saskatoon West","Saskatoon-Ouest"," 19","Saskatoon",N,N,"",0,450,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,71
+47011,"Saskatoon West","Saskatoon-Ouest"," 20","Saskatoon",N,N,"",3,328,"Eggerman","","Chad","Liberal","Libéral",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 20","Saskatoon",N,N,"",3,328,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 20","Saskatoon",N,N,"",3,328,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47011,"Saskatoon West","Saskatoon-Ouest"," 20","Saskatoon",N,N,"",3,328,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,42
+47011,"Saskatoon West","Saskatoon-Ouest"," 21","Saskatoon",N,N,"",1,410,"Eggerman","","Chad","Liberal","Libéral",N,N,26
+47011,"Saskatoon West","Saskatoon-Ouest"," 21","Saskatoon",N,N,"",1,410,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 21","Saskatoon",N,N,"",1,410,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 21","Saskatoon",N,N,"",1,410,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,72
+47011,"Saskatoon West","Saskatoon-Ouest"," 22","Saskatoon",N,N,"",1,413,"Eggerman","","Chad","Liberal","Libéral",N,N,29
+47011,"Saskatoon West","Saskatoon-Ouest"," 22","Saskatoon",N,N,"",1,413,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 22","Saskatoon",N,N,"",1,413,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+47011,"Saskatoon West","Saskatoon-Ouest"," 22","Saskatoon",N,N,"",1,413,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,82
+47011,"Saskatoon West","Saskatoon-Ouest"," 23","Saskatoon",N,N,"",0,481,"Eggerman","","Chad","Liberal","Libéral",N,N,47
+47011,"Saskatoon West","Saskatoon-Ouest"," 23","Saskatoon",N,N,"",0,481,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 23","Saskatoon",N,N,"",0,481,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 23","Saskatoon",N,N,"",0,481,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,88
+47011,"Saskatoon West","Saskatoon-Ouest"," 24","Saskatoon",N,N,"",1,403,"Eggerman","","Chad","Liberal","Libéral",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 24","Saskatoon",N,N,"",1,403,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 24","Saskatoon",N,N,"",1,403,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+47011,"Saskatoon West","Saskatoon-Ouest"," 24","Saskatoon",N,N,"",1,403,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,87
+47011,"Saskatoon West","Saskatoon-Ouest"," 25","Saskatoon",N,N,"",0,408,"Eggerman","","Chad","Liberal","Libéral",N,N,32
+47011,"Saskatoon West","Saskatoon-Ouest"," 25","Saskatoon",N,N,"",0,408,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 25","Saskatoon",N,N,"",0,408,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+47011,"Saskatoon West","Saskatoon-Ouest"," 25","Saskatoon",N,N,"",0,408,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,74
+47011,"Saskatoon West","Saskatoon-Ouest"," 26","Saskatoon",N,N,"",0,391,"Eggerman","","Chad","Liberal","Libéral",N,N,36
+47011,"Saskatoon West","Saskatoon-Ouest"," 26","Saskatoon",N,N,"",0,391,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 26","Saskatoon",N,N,"",0,391,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+47011,"Saskatoon West","Saskatoon-Ouest"," 26","Saskatoon",N,N,"",0,391,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,78
+47011,"Saskatoon West","Saskatoon-Ouest"," 27","Saskatoon",N,N,"",2,489,"Eggerman","","Chad","Liberal","Libéral",N,N,32
+47011,"Saskatoon West","Saskatoon-Ouest"," 27","Saskatoon",N,N,"",2,489,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 27","Saskatoon",N,N,"",2,489,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47011,"Saskatoon West","Saskatoon-Ouest"," 27","Saskatoon",N,N,"",2,489,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,87
+47011,"Saskatoon West","Saskatoon-Ouest"," 28","Saskatoon",N,N,"",0,509,"Eggerman","","Chad","Liberal","Libéral",N,N,42
+47011,"Saskatoon West","Saskatoon-Ouest"," 28","Saskatoon",N,N,"",0,509,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 28","Saskatoon",N,N,"",0,509,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 28","Saskatoon",N,N,"",0,509,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,108
+47011,"Saskatoon West","Saskatoon-Ouest"," 29","Saskatoon",N,N,"",0,458,"Eggerman","","Chad","Liberal","Libéral",N,N,39
+47011,"Saskatoon West","Saskatoon-Ouest"," 29","Saskatoon",N,N,"",0,458,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 29","Saskatoon",N,N,"",0,458,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47011,"Saskatoon West","Saskatoon-Ouest"," 29","Saskatoon",N,N,"",0,458,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,70
+47011,"Saskatoon West","Saskatoon-Ouest"," 30","Saskatoon",N,N,"",5,440,"Eggerman","","Chad","Liberal","Libéral",N,N,36
+47011,"Saskatoon West","Saskatoon-Ouest"," 30","Saskatoon",N,N,"",5,440,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 30","Saskatoon",N,N,"",5,440,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+47011,"Saskatoon West","Saskatoon-Ouest"," 30","Saskatoon",N,N,"",5,440,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,91
+47011,"Saskatoon West","Saskatoon-Ouest"," 31","Saskatoon",N,N,"",3,498,"Eggerman","","Chad","Liberal","Libéral",N,N,46
+47011,"Saskatoon West","Saskatoon-Ouest"," 31","Saskatoon",N,N,"",3,498,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 31","Saskatoon",N,N,"",3,498,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+47011,"Saskatoon West","Saskatoon-Ouest"," 31","Saskatoon",N,N,"",3,498,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,116
+47011,"Saskatoon West","Saskatoon-Ouest"," 32","Saskatoon",N,N,"",2,411,"Eggerman","","Chad","Liberal","Libéral",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 32","Saskatoon",N,N,"",2,411,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 32","Saskatoon",N,N,"",2,411,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47011,"Saskatoon West","Saskatoon-Ouest"," 32","Saskatoon",N,N,"",2,411,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,75
+47011,"Saskatoon West","Saskatoon-Ouest"," 33","Saskatoon",N,N,"",0,492,"Eggerman","","Chad","Liberal","Libéral",N,N,60
+47011,"Saskatoon West","Saskatoon-Ouest"," 33","Saskatoon",N,N,"",0,492,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 33","Saskatoon",N,N,"",0,492,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+47011,"Saskatoon West","Saskatoon-Ouest"," 33","Saskatoon",N,N,"",0,492,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,93
+47011,"Saskatoon West","Saskatoon-Ouest"," 34","Saskatoon",N,N,"",0,368,"Eggerman","","Chad","Liberal","Libéral",N,N,19
+47011,"Saskatoon West","Saskatoon-Ouest"," 34","Saskatoon",N,N,"",0,368,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 34","Saskatoon",N,N,"",0,368,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47011,"Saskatoon West","Saskatoon-Ouest"," 34","Saskatoon",N,N,"",0,368,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,56
+47011,"Saskatoon West","Saskatoon-Ouest"," 35","Saskatoon",N,N,"",0,471,"Eggerman","","Chad","Liberal","Libéral",N,N,30
+47011,"Saskatoon West","Saskatoon-Ouest"," 35","Saskatoon",N,N,"",0,471,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 35","Saskatoon",N,N,"",0,471,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47011,"Saskatoon West","Saskatoon-Ouest"," 35","Saskatoon",N,N,"",0,471,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,58
+47011,"Saskatoon West","Saskatoon-Ouest"," 36","Saskatoon",N,N,"",0,634,"Eggerman","","Chad","Liberal","Libéral",N,N,62
+47011,"Saskatoon West","Saskatoon-Ouest"," 36","Saskatoon",N,N,"",0,634,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 36","Saskatoon",N,N,"",0,634,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 36","Saskatoon",N,N,"",0,634,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,107
+47011,"Saskatoon West","Saskatoon-Ouest"," 37","Saskatoon",N,N,"",4,526,"Eggerman","","Chad","Liberal","Libéral",N,N,46
+47011,"Saskatoon West","Saskatoon-Ouest"," 37","Saskatoon",N,N,"",4,526,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 37","Saskatoon",N,N,"",4,526,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47011,"Saskatoon West","Saskatoon-Ouest"," 37","Saskatoon",N,N,"",4,526,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,73
+47011,"Saskatoon West","Saskatoon-Ouest"," 38","Saskatoon",N,N,"",1,340,"Eggerman","","Chad","Liberal","Libéral",N,N,27
+47011,"Saskatoon West","Saskatoon-Ouest"," 38","Saskatoon",N,N,"",1,340,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 38","Saskatoon",N,N,"",1,340,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+47011,"Saskatoon West","Saskatoon-Ouest"," 38","Saskatoon",N,N,"",1,340,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,52
+47011,"Saskatoon West","Saskatoon-Ouest"," 39","Saskatoon",N,N,"",1,499,"Eggerman","","Chad","Liberal","Libéral",N,N,48
+47011,"Saskatoon West","Saskatoon-Ouest"," 39","Saskatoon",N,N,"",1,499,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 39","Saskatoon",N,N,"",1,499,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 39","Saskatoon",N,N,"",1,499,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,52
+47011,"Saskatoon West","Saskatoon-Ouest"," 40","Saskatoon",N,N,"",0,321,"Eggerman","","Chad","Liberal","Libéral",N,N,27
+47011,"Saskatoon West","Saskatoon-Ouest"," 40","Saskatoon",N,N,"",0,321,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 40","Saskatoon",N,N,"",0,321,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 40","Saskatoon",N,N,"",0,321,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,45
+47011,"Saskatoon West","Saskatoon-Ouest"," 41","Saskatoon",N,N,"",0,372,"Eggerman","","Chad","Liberal","Libéral",N,N,27
+47011,"Saskatoon West","Saskatoon-Ouest"," 41","Saskatoon",N,N,"",0,372,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 41","Saskatoon",N,N,"",0,372,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47011,"Saskatoon West","Saskatoon-Ouest"," 41","Saskatoon",N,N,"",0,372,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,45
+47011,"Saskatoon West","Saskatoon-Ouest"," 42","Saskatoon",N,N,"",2,473,"Eggerman","","Chad","Liberal","Libéral",N,N,42
+47011,"Saskatoon West","Saskatoon-Ouest"," 42","Saskatoon",N,N,"",2,473,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 42","Saskatoon",N,N,"",2,473,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47011,"Saskatoon West","Saskatoon-Ouest"," 42","Saskatoon",N,N,"",2,473,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,85
+47011,"Saskatoon West","Saskatoon-Ouest"," 43","Saskatoon",N,N,"",0,406,"Eggerman","","Chad","Liberal","Libéral",N,N,32
+47011,"Saskatoon West","Saskatoon-Ouest"," 43","Saskatoon",N,N,"",0,406,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 43","Saskatoon",N,N,"",0,406,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47011,"Saskatoon West","Saskatoon-Ouest"," 43","Saskatoon",N,N,"",0,406,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,73
+47011,"Saskatoon West","Saskatoon-Ouest"," 44","Saskatoon",N,N,"",1,346,"Eggerman","","Chad","Liberal","Libéral",N,N,20
+47011,"Saskatoon West","Saskatoon-Ouest"," 44","Saskatoon",N,N,"",1,346,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 44","Saskatoon",N,N,"",1,346,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47011,"Saskatoon West","Saskatoon-Ouest"," 44","Saskatoon",N,N,"",1,346,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,43
+47011,"Saskatoon West","Saskatoon-Ouest"," 45","Saskatoon",N,N,"",3,533,"Eggerman","","Chad","Liberal","Libéral",N,N,71
+47011,"Saskatoon West","Saskatoon-Ouest"," 45","Saskatoon",N,N,"",3,533,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 45","Saskatoon",N,N,"",3,533,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 45","Saskatoon",N,N,"",3,533,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,107
+47011,"Saskatoon West","Saskatoon-Ouest"," 46","Saskatoon",N,N,"",0,468,"Eggerman","","Chad","Liberal","Libéral",N,N,40
+47011,"Saskatoon West","Saskatoon-Ouest"," 46","Saskatoon",N,N,"",0,468,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 46","Saskatoon",N,N,"",0,468,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47011,"Saskatoon West","Saskatoon-Ouest"," 46","Saskatoon",N,N,"",0,468,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,117
+47011,"Saskatoon West","Saskatoon-Ouest"," 47","Saskatoon",N,N,"",2,484,"Eggerman","","Chad","Liberal","Libéral",N,N,47
+47011,"Saskatoon West","Saskatoon-Ouest"," 47","Saskatoon",N,N,"",2,484,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 47","Saskatoon",N,N,"",2,484,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47011,"Saskatoon West","Saskatoon-Ouest"," 47","Saskatoon",N,N,"",2,484,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,99
+47011,"Saskatoon West","Saskatoon-Ouest"," 48","Saskatoon",N,N,"",0,483,"Eggerman","","Chad","Liberal","Libéral",N,N,47
+47011,"Saskatoon West","Saskatoon-Ouest"," 48","Saskatoon",N,N,"",0,483,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 48","Saskatoon",N,N,"",0,483,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47011,"Saskatoon West","Saskatoon-Ouest"," 48","Saskatoon",N,N,"",0,483,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,99
+47011,"Saskatoon West","Saskatoon-Ouest"," 49","Saskatoon",N,N,"",1,446,"Eggerman","","Chad","Liberal","Libéral",N,N,25
+47011,"Saskatoon West","Saskatoon-Ouest"," 49","Saskatoon",N,N,"",1,446,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 49","Saskatoon",N,N,"",1,446,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47011,"Saskatoon West","Saskatoon-Ouest"," 49","Saskatoon",N,N,"",1,446,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,71
+47011,"Saskatoon West","Saskatoon-Ouest"," 50","Saskatoon",N,N,"",4,476,"Eggerman","","Chad","Liberal","Libéral",N,N,63
+47011,"Saskatoon West","Saskatoon-Ouest"," 50","Saskatoon",N,N,"",4,476,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 50","Saskatoon",N,N,"",4,476,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47011,"Saskatoon West","Saskatoon-Ouest"," 50","Saskatoon",N,N,"",4,476,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,84
+47011,"Saskatoon West","Saskatoon-Ouest"," 51","Saskatoon",N,N,"",1,429,"Eggerman","","Chad","Liberal","Libéral",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 51","Saskatoon",N,N,"",1,429,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 51","Saskatoon",N,N,"",1,429,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47011,"Saskatoon West","Saskatoon-Ouest"," 51","Saskatoon",N,N,"",1,429,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,101
+47011,"Saskatoon West","Saskatoon-Ouest"," 52","Saskatoon",N,N,"",4,458,"Eggerman","","Chad","Liberal","Libéral",N,N,46
+47011,"Saskatoon West","Saskatoon-Ouest"," 52","Saskatoon",N,N,"",4,458,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 52","Saskatoon",N,N,"",4,458,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+47011,"Saskatoon West","Saskatoon-Ouest"," 52","Saskatoon",N,N,"",4,458,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,92
+47011,"Saskatoon West","Saskatoon-Ouest"," 53","Saskatoon",N,N,"",2,408,"Eggerman","","Chad","Liberal","Libéral",N,N,32
+47011,"Saskatoon West","Saskatoon-Ouest"," 53","Saskatoon",N,N,"",2,408,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 53","Saskatoon",N,N,"",2,408,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47011,"Saskatoon West","Saskatoon-Ouest"," 53","Saskatoon",N,N,"",2,408,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,99
+47011,"Saskatoon West","Saskatoon-Ouest"," 54","Saskatoon",N,N,"",3,713,"Eggerman","","Chad","Liberal","Libéral",N,N,70
+47011,"Saskatoon West","Saskatoon-Ouest"," 54","Saskatoon",N,N,"",3,713,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 54","Saskatoon",N,N,"",3,713,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47011,"Saskatoon West","Saskatoon-Ouest"," 54","Saskatoon",N,N,"",3,713,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,126
+47011,"Saskatoon West","Saskatoon-Ouest"," 55","Saskatoon",N,N,"",1,456,"Eggerman","","Chad","Liberal","Libéral",N,N,58
+47011,"Saskatoon West","Saskatoon-Ouest"," 55","Saskatoon",N,N,"",1,456,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 55","Saskatoon",N,N,"",1,456,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47011,"Saskatoon West","Saskatoon-Ouest"," 55","Saskatoon",N,N,"",1,456,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,89
+47011,"Saskatoon West","Saskatoon-Ouest"," 56","Saskatoon",N,N,"",1,408,"Eggerman","","Chad","Liberal","Libéral",N,N,58
+47011,"Saskatoon West","Saskatoon-Ouest"," 56","Saskatoon",N,N,"",1,408,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 56","Saskatoon",N,N,"",1,408,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+47011,"Saskatoon West","Saskatoon-Ouest"," 56","Saskatoon",N,N,"",1,408,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,72
+47011,"Saskatoon West","Saskatoon-Ouest"," 57","Saskatoon",N,N,"",1,592,"Eggerman","","Chad","Liberal","Libéral",N,N,69
+47011,"Saskatoon West","Saskatoon-Ouest"," 57","Saskatoon",N,N,"",1,592,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 57","Saskatoon",N,N,"",1,592,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+47011,"Saskatoon West","Saskatoon-Ouest"," 57","Saskatoon",N,N,"",1,592,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,84
+47011,"Saskatoon West","Saskatoon-Ouest"," 58","Saskatoon",N,N,"",0,390,"Eggerman","","Chad","Liberal","Libéral",N,N,22
+47011,"Saskatoon West","Saskatoon-Ouest"," 58","Saskatoon",N,N,"",0,390,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 58","Saskatoon",N,N,"",0,390,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47011,"Saskatoon West","Saskatoon-Ouest"," 58","Saskatoon",N,N,"",0,390,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,91
+47011,"Saskatoon West","Saskatoon-Ouest"," 59","Saskatoon",N,N,"",1,342,"Eggerman","","Chad","Liberal","Libéral",N,N,13
+47011,"Saskatoon West","Saskatoon-Ouest"," 59","Saskatoon",N,N,"",1,342,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 59","Saskatoon",N,N,"",1,342,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 59","Saskatoon",N,N,"",1,342,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,42
+47011,"Saskatoon West","Saskatoon-Ouest"," 60","Saskatoon",N,N,"",1,408,"Eggerman","","Chad","Liberal","Libéral",N,N,31
+47011,"Saskatoon West","Saskatoon-Ouest"," 60","Saskatoon",N,N,"",1,408,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 60","Saskatoon",N,N,"",1,408,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 60","Saskatoon",N,N,"",1,408,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,35
+47011,"Saskatoon West","Saskatoon-Ouest"," 61","Saskatoon",N,N,"",1,433,"Eggerman","","Chad","Liberal","Libéral",N,N,39
+47011,"Saskatoon West","Saskatoon-Ouest"," 61","Saskatoon",N,N,"",1,433,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 61","Saskatoon",N,N,"",1,433,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47011,"Saskatoon West","Saskatoon-Ouest"," 61","Saskatoon",N,N,"",1,433,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,76
+47011,"Saskatoon West","Saskatoon-Ouest"," 62","Saskatoon",N,N,"",2,365,"Eggerman","","Chad","Liberal","Libéral",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 62","Saskatoon",N,N,"",2,365,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 62","Saskatoon",N,N,"",2,365,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47011,"Saskatoon West","Saskatoon-Ouest"," 62","Saskatoon",N,N,"",2,365,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,69
+47011,"Saskatoon West","Saskatoon-Ouest"," 63","Saskatoon",N,N,"",3,428,"Eggerman","","Chad","Liberal","Libéral",N,N,42
+47011,"Saskatoon West","Saskatoon-Ouest"," 63","Saskatoon",N,N,"",3,428,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 63","Saskatoon",N,N,"",3,428,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47011,"Saskatoon West","Saskatoon-Ouest"," 63","Saskatoon",N,N,"",3,428,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,55
+47011,"Saskatoon West","Saskatoon-Ouest"," 64","Saskatoon",N,N,"",5,468,"Eggerman","","Chad","Liberal","Libéral",N,N,53
+47011,"Saskatoon West","Saskatoon-Ouest"," 64","Saskatoon",N,N,"",5,468,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 64","Saskatoon",N,N,"",5,468,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47011,"Saskatoon West","Saskatoon-Ouest"," 64","Saskatoon",N,N,"",5,468,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,76
+47011,"Saskatoon West","Saskatoon-Ouest"," 65","Saskatoon",N,N,"",1,472,"Eggerman","","Chad","Liberal","Libéral",N,N,46
+47011,"Saskatoon West","Saskatoon-Ouest"," 65","Saskatoon",N,N,"",1,472,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 65","Saskatoon",N,N,"",1,472,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47011,"Saskatoon West","Saskatoon-Ouest"," 65","Saskatoon",N,N,"",1,472,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,67
+47011,"Saskatoon West","Saskatoon-Ouest"," 66","Saskatoon",N,N,"",1,351,"Eggerman","","Chad","Liberal","Libéral",N,N,26
+47011,"Saskatoon West","Saskatoon-Ouest"," 66","Saskatoon",N,N,"",1,351,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 66","Saskatoon",N,N,"",1,351,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47011,"Saskatoon West","Saskatoon-Ouest"," 66","Saskatoon",N,N,"",1,351,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,106
+47011,"Saskatoon West","Saskatoon-Ouest"," 67","Saskatoon",N,N,"",3,511,"Eggerman","","Chad","Liberal","Libéral",N,N,49
+47011,"Saskatoon West","Saskatoon-Ouest"," 67","Saskatoon",N,N,"",3,511,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 67","Saskatoon",N,N,"",3,511,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 67","Saskatoon",N,N,"",3,511,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,88
+47011,"Saskatoon West","Saskatoon-Ouest"," 68","Saskatoon",N,N,"",3,395,"Eggerman","","Chad","Liberal","Libéral",N,N,45
+47011,"Saskatoon West","Saskatoon-Ouest"," 68","Saskatoon",N,N,"",3,395,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 68","Saskatoon",N,N,"",3,395,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47011,"Saskatoon West","Saskatoon-Ouest"," 68","Saskatoon",N,N,"",3,395,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,77
+47011,"Saskatoon West","Saskatoon-Ouest"," 69","Saskatoon",N,N,"",5,422,"Eggerman","","Chad","Liberal","Libéral",N,N,33
+47011,"Saskatoon West","Saskatoon-Ouest"," 69","Saskatoon",N,N,"",5,422,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 69","Saskatoon",N,N,"",5,422,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 69","Saskatoon",N,N,"",5,422,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,87
+47011,"Saskatoon West","Saskatoon-Ouest"," 70","Saskatoon",N,N,"",0,442,"Eggerman","","Chad","Liberal","Libéral",N,N,36
+47011,"Saskatoon West","Saskatoon-Ouest"," 70","Saskatoon",N,N,"",0,442,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 70","Saskatoon",N,N,"",0,442,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47011,"Saskatoon West","Saskatoon-Ouest"," 70","Saskatoon",N,N,"",0,442,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,66
+47011,"Saskatoon West","Saskatoon-Ouest"," 71","Saskatoon",N,N,"",0,479,"Eggerman","","Chad","Liberal","Libéral",N,N,43
+47011,"Saskatoon West","Saskatoon-Ouest"," 71","Saskatoon",N,N,"",0,479,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 71","Saskatoon",N,N,"",0,479,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+47011,"Saskatoon West","Saskatoon-Ouest"," 71","Saskatoon",N,N,"",0,479,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,68
+47011,"Saskatoon West","Saskatoon-Ouest"," 72","Saskatoon",N,N,"",0,370,"Eggerman","","Chad","Liberal","Libéral",N,N,32
+47011,"Saskatoon West","Saskatoon-Ouest"," 72","Saskatoon",N,N,"",0,370,"Hunter","","Naomi","Green Party","Parti Vert",N,N,6
+47011,"Saskatoon West","Saskatoon-Ouest"," 72","Saskatoon",N,N,"",0,370,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+47011,"Saskatoon West","Saskatoon-Ouest"," 72","Saskatoon",N,N,"",0,370,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,52
+47011,"Saskatoon West","Saskatoon-Ouest"," 73","Saskatoon",N,N,"",0,398,"Eggerman","","Chad","Liberal","Libéral",N,N,58
+47011,"Saskatoon West","Saskatoon-Ouest"," 73","Saskatoon",N,N,"",0,398,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 73","Saskatoon",N,N,"",0,398,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+47011,"Saskatoon West","Saskatoon-Ouest"," 73","Saskatoon",N,N,"",0,398,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,68
+47011,"Saskatoon West","Saskatoon-Ouest"," 74","Saskatoon",N,N,"",1,320,"Eggerman","","Chad","Liberal","Libéral",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 74","Saskatoon",N,N,"",1,320,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 74","Saskatoon",N,N,"",1,320,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+47011,"Saskatoon West","Saskatoon-Ouest"," 74","Saskatoon",N,N,"",1,320,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,46
+47011,"Saskatoon West","Saskatoon-Ouest"," 75","Saskatoon",N,N,"",1,388,"Eggerman","","Chad","Liberal","Libéral",N,N,31
+47011,"Saskatoon West","Saskatoon-Ouest"," 75","Saskatoon",N,N,"",1,388,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 75","Saskatoon",N,N,"",1,388,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+47011,"Saskatoon West","Saskatoon-Ouest"," 75","Saskatoon",N,N,"",1,388,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,37
+47011,"Saskatoon West","Saskatoon-Ouest"," 76","Saskatoon",N,N,"",1,358,"Eggerman","","Chad","Liberal","Libéral",N,N,57
+47011,"Saskatoon West","Saskatoon-Ouest"," 76","Saskatoon",N,N,"",1,358,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 76","Saskatoon",N,N,"",1,358,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+47011,"Saskatoon West","Saskatoon-Ouest"," 76","Saskatoon",N,N,"",1,358,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,74
+47011,"Saskatoon West","Saskatoon-Ouest"," 77","Saskatoon",N,N,"",0,370,"Eggerman","","Chad","Liberal","Libéral",N,N,64
+47011,"Saskatoon West","Saskatoon-Ouest"," 77","Saskatoon",N,N,"",0,370,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 77","Saskatoon",N,N,"",0,370,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47011,"Saskatoon West","Saskatoon-Ouest"," 77","Saskatoon",N,N,"",0,370,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,47
+47011,"Saskatoon West","Saskatoon-Ouest"," 78","Saskatoon",N,N,"",0,442,"Eggerman","","Chad","Liberal","Libéral",N,N,62
+47011,"Saskatoon West","Saskatoon-Ouest"," 78","Saskatoon",N,N,"",0,442,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 78","Saskatoon",N,N,"",0,442,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+47011,"Saskatoon West","Saskatoon-Ouest"," 78","Saskatoon",N,N,"",0,442,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,53
+47011,"Saskatoon West","Saskatoon-Ouest"," 79","Saskatoon",N,N,"",1,392,"Eggerman","","Chad","Liberal","Libéral",N,N,80
+47011,"Saskatoon West","Saskatoon-Ouest"," 79","Saskatoon",N,N,"",1,392,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 79","Saskatoon",N,N,"",1,392,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+47011,"Saskatoon West","Saskatoon-Ouest"," 79","Saskatoon",N,N,"",1,392,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,52
+47011,"Saskatoon West","Saskatoon-Ouest"," 80","Saskatoon",N,N,"",3,440,"Eggerman","","Chad","Liberal","Libéral",N,N,86
+47011,"Saskatoon West","Saskatoon-Ouest"," 80","Saskatoon",N,N,"",3,440,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 80","Saskatoon",N,N,"",3,440,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+47011,"Saskatoon West","Saskatoon-Ouest"," 80","Saskatoon",N,N,"",3,440,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,79
+47011,"Saskatoon West","Saskatoon-Ouest"," 81","Saskatoon",N,N,"",4,427,"Eggerman","","Chad","Liberal","Libéral",N,N,33
+47011,"Saskatoon West","Saskatoon-Ouest"," 81","Saskatoon",N,N,"",4,427,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 81","Saskatoon",N,N,"",4,427,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+47011,"Saskatoon West","Saskatoon-Ouest"," 81","Saskatoon",N,N,"",4,427,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,71
+47011,"Saskatoon West","Saskatoon-Ouest"," 82","Saskatoon",N,N,"",1,510,"Eggerman","","Chad","Liberal","Libéral",N,N,30
+47011,"Saskatoon West","Saskatoon-Ouest"," 82","Saskatoon",N,N,"",1,510,"Hunter","","Naomi","Green Party","Parti Vert",N,N,5
+47011,"Saskatoon West","Saskatoon-Ouest"," 82","Saskatoon",N,N,"",1,510,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47011,"Saskatoon West","Saskatoon-Ouest"," 82","Saskatoon",N,N,"",1,510,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,73
+47011,"Saskatoon West","Saskatoon-Ouest"," 83","Saskatoon",N,N,"",1,415,"Eggerman","","Chad","Liberal","Libéral",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 83","Saskatoon",N,N,"",1,415,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 83","Saskatoon",N,N,"",1,415,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 83","Saskatoon",N,N,"",1,415,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,31
+47011,"Saskatoon West","Saskatoon-Ouest"," 84","Saskatoon",N,N,"",1,483,"Eggerman","","Chad","Liberal","Libéral",N,N,31
+47011,"Saskatoon West","Saskatoon-Ouest"," 84","Saskatoon",N,N,"",1,483,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 84","Saskatoon",N,N,"",1,483,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 84","Saskatoon",N,N,"",1,483,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,37
+47011,"Saskatoon West","Saskatoon-Ouest"," 85","Saskatoon",N,N,"",4,505,"Eggerman","","Chad","Liberal","Libéral",N,N,50
+47011,"Saskatoon West","Saskatoon-Ouest"," 85","Saskatoon",N,N,"",4,505,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 85","Saskatoon",N,N,"",4,505,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47011,"Saskatoon West","Saskatoon-Ouest"," 85","Saskatoon",N,N,"",4,505,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,86
+47011,"Saskatoon West","Saskatoon-Ouest"," 86","Saskatoon",N,N,"",0,377,"Eggerman","","Chad","Liberal","Libéral",N,N,71
+47011,"Saskatoon West","Saskatoon-Ouest"," 86","Saskatoon",N,N,"",0,377,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 86","Saskatoon",N,N,"",0,377,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+47011,"Saskatoon West","Saskatoon-Ouest"," 86","Saskatoon",N,N,"",0,377,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,46
+47011,"Saskatoon West","Saskatoon-Ouest"," 87","Saskatoon",N,N,"",0,407,"Eggerman","","Chad","Liberal","Libéral",N,N,32
+47011,"Saskatoon West","Saskatoon-Ouest"," 87","Saskatoon",N,N,"",0,407,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 87","Saskatoon",N,N,"",0,407,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+47011,"Saskatoon West","Saskatoon-Ouest"," 87","Saskatoon",N,N,"",0,407,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,53
+47011,"Saskatoon West","Saskatoon-Ouest"," 88","Saskatoon",N,N,"",1,540,"Eggerman","","Chad","Liberal","Libéral",N,N,60
+47011,"Saskatoon West","Saskatoon-Ouest"," 88","Saskatoon",N,N,"",1,540,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 88","Saskatoon",N,N,"",1,540,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+47011,"Saskatoon West","Saskatoon-Ouest"," 88","Saskatoon",N,N,"",1,540,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,139
+47011,"Saskatoon West","Saskatoon-Ouest"," 89","Saskatoon",N,N,"",0,420,"Eggerman","","Chad","Liberal","Libéral",N,N,47
+47011,"Saskatoon West","Saskatoon-Ouest"," 89","Saskatoon",N,N,"",0,420,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 89","Saskatoon",N,N,"",0,420,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47011,"Saskatoon West","Saskatoon-Ouest"," 89","Saskatoon",N,N,"",0,420,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,81
+47011,"Saskatoon West","Saskatoon-Ouest"," 90","Saskatoon",N,N,"",0,489,"Eggerman","","Chad","Liberal","Libéral",N,N,61
+47011,"Saskatoon West","Saskatoon-Ouest"," 90","Saskatoon",N,N,"",0,489,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 90","Saskatoon",N,N,"",0,489,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+47011,"Saskatoon West","Saskatoon-Ouest"," 90","Saskatoon",N,N,"",0,489,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,53
+47011,"Saskatoon West","Saskatoon-Ouest"," 91","Saskatoon",N,N,"",0,329,"Eggerman","","Chad","Liberal","Libéral",N,N,46
+47011,"Saskatoon West","Saskatoon-Ouest"," 91","Saskatoon",N,N,"",0,329,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 91","Saskatoon",N,N,"",0,329,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47011,"Saskatoon West","Saskatoon-Ouest"," 91","Saskatoon",N,N,"",0,329,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,28
+47011,"Saskatoon West","Saskatoon-Ouest"," 92","Saskatoon",N,N,"",0,400,"Eggerman","","Chad","Liberal","Libéral",N,N,55
+47011,"Saskatoon West","Saskatoon-Ouest"," 92","Saskatoon",N,N,"",0,400,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 92","Saskatoon",N,N,"",0,400,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 92","Saskatoon",N,N,"",0,400,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,65
+47011,"Saskatoon West","Saskatoon-Ouest"," 93","Saskatoon",N,N,"",1,409,"Eggerman","","Chad","Liberal","Libéral",N,N,43
+47011,"Saskatoon West","Saskatoon-Ouest"," 93","Saskatoon",N,N,"",1,409,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 93","Saskatoon",N,N,"",1,409,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+47011,"Saskatoon West","Saskatoon-Ouest"," 93","Saskatoon",N,N,"",1,409,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,60
+47011,"Saskatoon West","Saskatoon-Ouest"," 94","Saskatoon",N,N,"",0,488,"Eggerman","","Chad","Liberal","Libéral",N,N,13
+47011,"Saskatoon West","Saskatoon-Ouest"," 94","Saskatoon",N,N,"",0,488,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 94","Saskatoon",N,N,"",0,488,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47011,"Saskatoon West","Saskatoon-Ouest"," 94","Saskatoon",N,N,"",0,488,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,24
+47011,"Saskatoon West","Saskatoon-Ouest"," 95","Saskatoon",N,N,"",1,624,"Eggerman","","Chad","Liberal","Libéral",N,N,61
+47011,"Saskatoon West","Saskatoon-Ouest"," 95","Saskatoon",N,N,"",1,624,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 95","Saskatoon",N,N,"",1,624,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47011,"Saskatoon West","Saskatoon-Ouest"," 95","Saskatoon",N,N,"",1,624,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,126
+47011,"Saskatoon West","Saskatoon-Ouest"," 96","Saskatoon",N,N,"",2,384,"Eggerman","","Chad","Liberal","Libéral",N,N,22
+47011,"Saskatoon West","Saskatoon-Ouest"," 96","Saskatoon",N,N,"",2,384,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 96","Saskatoon",N,N,"",2,384,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47011,"Saskatoon West","Saskatoon-Ouest"," 96","Saskatoon",N,N,"",2,384,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,73
+47011,"Saskatoon West","Saskatoon-Ouest"," 97","Saskatoon",N,N,"",0,467,"Eggerman","","Chad","Liberal","Libéral",N,N,57
+47011,"Saskatoon West","Saskatoon-Ouest"," 97","Saskatoon",N,N,"",0,467,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 97","Saskatoon",N,N,"",0,467,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47011,"Saskatoon West","Saskatoon-Ouest"," 97","Saskatoon",N,N,"",0,467,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,110
+47011,"Saskatoon West","Saskatoon-Ouest"," 98","Saskatoon",N,N,"",1,465,"Eggerman","","Chad","Liberal","Libéral",N,N,33
+47011,"Saskatoon West","Saskatoon-Ouest"," 98","Saskatoon",N,N,"",1,465,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 98","Saskatoon",N,N,"",1,465,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47011,"Saskatoon West","Saskatoon-Ouest"," 98","Saskatoon",N,N,"",1,465,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,63
+47011,"Saskatoon West","Saskatoon-Ouest"," 99","Saskatoon",N,N,"",3,399,"Eggerman","","Chad","Liberal","Libéral",N,N,27
+47011,"Saskatoon West","Saskatoon-Ouest"," 99","Saskatoon",N,N,"",3,399,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 99","Saskatoon",N,N,"",3,399,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47011,"Saskatoon West","Saskatoon-Ouest"," 99","Saskatoon",N,N,"",3,399,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,89
+47011,"Saskatoon West","Saskatoon-Ouest"," 100","Saskatoon",N,N,"",2,363,"Eggerman","","Chad","Liberal","Libéral",N,N,10
+47011,"Saskatoon West","Saskatoon-Ouest"," 100","Saskatoon",N,N,"",2,363,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 100","Saskatoon",N,N,"",2,363,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47011,"Saskatoon West","Saskatoon-Ouest"," 100","Saskatoon",N,N,"",2,363,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,44
+47011,"Saskatoon West","Saskatoon-Ouest"," 101","Saskatoon",N,N,"",3,398,"Eggerman","","Chad","Liberal","Libéral",N,N,28
+47011,"Saskatoon West","Saskatoon-Ouest"," 101","Saskatoon",N,N,"",3,398,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 101","Saskatoon",N,N,"",3,398,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47011,"Saskatoon West","Saskatoon-Ouest"," 101","Saskatoon",N,N,"",3,398,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,97
+47011,"Saskatoon West","Saskatoon-Ouest"," 102","Saskatoon",N,N,"",1,410,"Eggerman","","Chad","Liberal","Libéral",N,N,36
+47011,"Saskatoon West","Saskatoon-Ouest"," 102","Saskatoon",N,N,"",1,410,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 102","Saskatoon",N,N,"",1,410,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+47011,"Saskatoon West","Saskatoon-Ouest"," 102","Saskatoon",N,N,"",1,410,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,81
+47011,"Saskatoon West","Saskatoon-Ouest"," 103","Saskatoon",N,N,"",1,501,"Eggerman","","Chad","Liberal","Libéral",N,N,52
+47011,"Saskatoon West","Saskatoon-Ouest"," 103","Saskatoon",N,N,"",1,501,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 103","Saskatoon",N,N,"",1,501,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 103","Saskatoon",N,N,"",1,501,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,89
+47011,"Saskatoon West","Saskatoon-Ouest"," 104","Saskatoon",N,N,"",1,371,"Eggerman","","Chad","Liberal","Libéral",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 104","Saskatoon",N,N,"",1,371,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 104","Saskatoon",N,N,"",1,371,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47011,"Saskatoon West","Saskatoon-Ouest"," 104","Saskatoon",N,N,"",1,371,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,90
+47011,"Saskatoon West","Saskatoon-Ouest"," 105","Saskatoon",N,N,"",1,489,"Eggerman","","Chad","Liberal","Libéral",N,N,27
+47011,"Saskatoon West","Saskatoon-Ouest"," 105","Saskatoon",N,N,"",1,489,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 105","Saskatoon",N,N,"",1,489,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 105","Saskatoon",N,N,"",1,489,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,70
+47011,"Saskatoon West","Saskatoon-Ouest"," 106","Saskatoon",N,N,"",1,520,"Eggerman","","Chad","Liberal","Libéral",N,N,36
+47011,"Saskatoon West","Saskatoon-Ouest"," 106","Saskatoon",N,N,"",1,520,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 106","Saskatoon",N,N,"",1,520,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47011,"Saskatoon West","Saskatoon-Ouest"," 106","Saskatoon",N,N,"",1,520,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,24
+47011,"Saskatoon West","Saskatoon-Ouest"," 107","Saskatoon",N,N,"",0,451,"Eggerman","","Chad","Liberal","Libéral",N,N,19
+47011,"Saskatoon West","Saskatoon-Ouest"," 107","Saskatoon",N,N,"",0,451,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 107","Saskatoon",N,N,"",0,451,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47011,"Saskatoon West","Saskatoon-Ouest"," 107","Saskatoon",N,N,"",0,451,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,40
+47011,"Saskatoon West","Saskatoon-Ouest"," 108","Saskatoon",N,N,"",0,497,"Eggerman","","Chad","Liberal","Libéral",N,N,43
+47011,"Saskatoon West","Saskatoon-Ouest"," 108","Saskatoon",N,N,"",0,497,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 108","Saskatoon",N,N,"",0,497,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47011,"Saskatoon West","Saskatoon-Ouest"," 108","Saskatoon",N,N,"",0,497,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,52
+47011,"Saskatoon West","Saskatoon-Ouest"," 109","Saskatoon",N,N,"",1,424,"Eggerman","","Chad","Liberal","Libéral",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 109","Saskatoon",N,N,"",1,424,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 109","Saskatoon",N,N,"",1,424,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47011,"Saskatoon West","Saskatoon-Ouest"," 109","Saskatoon",N,N,"",1,424,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,31
+47011,"Saskatoon West","Saskatoon-Ouest"," 110","Saskatoon",N,N,"",0,541,"Eggerman","","Chad","Liberal","Libéral",N,N,28
+47011,"Saskatoon West","Saskatoon-Ouest"," 110","Saskatoon",N,N,"",0,541,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 110","Saskatoon",N,N,"",0,541,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47011,"Saskatoon West","Saskatoon-Ouest"," 110","Saskatoon",N,N,"",0,541,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,47
+47011,"Saskatoon West","Saskatoon-Ouest"," 111","Saskatoon",N,N,"",0,357,"Eggerman","","Chad","Liberal","Libéral",N,N,27
+47011,"Saskatoon West","Saskatoon-Ouest"," 111","Saskatoon",N,N,"",0,357,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 111","Saskatoon",N,N,"",0,357,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47011,"Saskatoon West","Saskatoon-Ouest"," 111","Saskatoon",N,N,"",0,357,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,39
+47011,"Saskatoon West","Saskatoon-Ouest"," 112","Saskatoon",N,N,"",0,468,"Eggerman","","Chad","Liberal","Libéral",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 112","Saskatoon",N,N,"",0,468,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 112","Saskatoon",N,N,"",0,468,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47011,"Saskatoon West","Saskatoon-Ouest"," 112","Saskatoon",N,N,"",0,468,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,36
+47011,"Saskatoon West","Saskatoon-Ouest"," 113","Saskatoon",N,N,"",1,470,"Eggerman","","Chad","Liberal","Libéral",N,N,41
+47011,"Saskatoon West","Saskatoon-Ouest"," 113","Saskatoon",N,N,"",1,470,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 113","Saskatoon",N,N,"",1,470,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47011,"Saskatoon West","Saskatoon-Ouest"," 113","Saskatoon",N,N,"",1,470,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,44
+47011,"Saskatoon West","Saskatoon-Ouest"," 114","Saskatoon",N,N,"",0,383,"Eggerman","","Chad","Liberal","Libéral",N,N,38
+47011,"Saskatoon West","Saskatoon-Ouest"," 114","Saskatoon",N,N,"",0,383,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 114","Saskatoon",N,N,"",0,383,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+47011,"Saskatoon West","Saskatoon-Ouest"," 114","Saskatoon",N,N,"",0,383,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,80
+47011,"Saskatoon West","Saskatoon-Ouest"," 115","Saskatoon",N,N,"",2,420,"Eggerman","","Chad","Liberal","Libéral",N,N,44
+47011,"Saskatoon West","Saskatoon-Ouest"," 115","Saskatoon",N,N,"",2,420,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 115","Saskatoon",N,N,"",2,420,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 115","Saskatoon",N,N,"",2,420,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,62
+47011,"Saskatoon West","Saskatoon-Ouest"," 116","Saskatoon",N,N,"",1,551,"Eggerman","","Chad","Liberal","Libéral",N,N,37
+47011,"Saskatoon West","Saskatoon-Ouest"," 116","Saskatoon",N,N,"",1,551,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 116","Saskatoon",N,N,"",1,551,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47011,"Saskatoon West","Saskatoon-Ouest"," 116","Saskatoon",N,N,"",1,551,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,71
+47011,"Saskatoon West","Saskatoon-Ouest"," 117","Saskatoon",N,N,"",1,478,"Eggerman","","Chad","Liberal","Libéral",N,N,47
+47011,"Saskatoon West","Saskatoon-Ouest"," 117","Saskatoon",N,N,"",1,478,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 117","Saskatoon",N,N,"",1,478,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47011,"Saskatoon West","Saskatoon-Ouest"," 117","Saskatoon",N,N,"",1,478,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,96
+47011,"Saskatoon West","Saskatoon-Ouest"," 118","Saskatoon",N,N,"",1,432,"Eggerman","","Chad","Liberal","Libéral",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 118","Saskatoon",N,N,"",1,432,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 118","Saskatoon",N,N,"",1,432,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47011,"Saskatoon West","Saskatoon-Ouest"," 118","Saskatoon",N,N,"",1,432,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,45
+47011,"Saskatoon West","Saskatoon-Ouest"," 119","Saskatoon",N,N,"",0,400,"Eggerman","","Chad","Liberal","Libéral",N,N,32
+47011,"Saskatoon West","Saskatoon-Ouest"," 119","Saskatoon",N,N,"",0,400,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 119","Saskatoon",N,N,"",0,400,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47011,"Saskatoon West","Saskatoon-Ouest"," 119","Saskatoon",N,N,"",0,400,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,80
+47011,"Saskatoon West","Saskatoon-Ouest"," 120","Saskatoon",N,N,"",1,431,"Eggerman","","Chad","Liberal","Libéral",N,N,60
+47011,"Saskatoon West","Saskatoon-Ouest"," 120","Saskatoon",N,N,"",1,431,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 120","Saskatoon",N,N,"",1,431,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47011,"Saskatoon West","Saskatoon-Ouest"," 120","Saskatoon",N,N,"",1,431,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,42
+47011,"Saskatoon West","Saskatoon-Ouest"," 121","Saskatoon",N,N,"",0,437,"Eggerman","","Chad","Liberal","Libéral",N,N,43
+47011,"Saskatoon West","Saskatoon-Ouest"," 121","Saskatoon",N,N,"",0,437,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 121","Saskatoon",N,N,"",0,437,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 121","Saskatoon",N,N,"",0,437,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,44
+47011,"Saskatoon West","Saskatoon-Ouest"," 122","Saskatoon",N,N,"",0,298,"Eggerman","","Chad","Liberal","Libéral",N,N,32
+47011,"Saskatoon West","Saskatoon-Ouest"," 122","Saskatoon",N,N,"",0,298,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 122","Saskatoon",N,N,"",0,298,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47011,"Saskatoon West","Saskatoon-Ouest"," 122","Saskatoon",N,N,"",0,298,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,29
+47011,"Saskatoon West","Saskatoon-Ouest"," 123","Saskatoon",N,N,"",0,377,"Eggerman","","Chad","Liberal","Libéral",N,N,68
+47011,"Saskatoon West","Saskatoon-Ouest"," 123","Saskatoon",N,N,"",0,377,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 123","Saskatoon",N,N,"",0,377,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47011,"Saskatoon West","Saskatoon-Ouest"," 123","Saskatoon",N,N,"",0,377,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,44
+47011,"Saskatoon West","Saskatoon-Ouest"," 124","Saskatoon",N,N,"",2,356,"Eggerman","","Chad","Liberal","Libéral",N,N,51
+47011,"Saskatoon West","Saskatoon-Ouest"," 124","Saskatoon",N,N,"",2,356,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 124","Saskatoon",N,N,"",2,356,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47011,"Saskatoon West","Saskatoon-Ouest"," 124","Saskatoon",N,N,"",2,356,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,43
+47011,"Saskatoon West","Saskatoon-Ouest"," 125","Saskatoon",N,N,"",2,490,"Eggerman","","Chad","Liberal","Libéral",N,N,53
+47011,"Saskatoon West","Saskatoon-Ouest"," 125","Saskatoon",N,N,"",2,490,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 125","Saskatoon",N,N,"",2,490,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 125","Saskatoon",N,N,"",2,490,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,68
+47011,"Saskatoon West","Saskatoon-Ouest"," 126","Saskatoon",N,N,"",1,445,"Eggerman","","Chad","Liberal","Libéral",N,N,35
+47011,"Saskatoon West","Saskatoon-Ouest"," 126","Saskatoon",N,N,"",1,445,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 126","Saskatoon",N,N,"",1,445,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+47011,"Saskatoon West","Saskatoon-Ouest"," 126","Saskatoon",N,N,"",1,445,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,142
+47011,"Saskatoon West","Saskatoon-Ouest"," 127","Saskatoon",N,N,"",0,385,"Eggerman","","Chad","Liberal","Libéral",N,N,31
+47011,"Saskatoon West","Saskatoon-Ouest"," 127","Saskatoon",N,N,"",0,385,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 127","Saskatoon",N,N,"",0,385,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+47011,"Saskatoon West","Saskatoon-Ouest"," 127","Saskatoon",N,N,"",0,385,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,129
+47011,"Saskatoon West","Saskatoon-Ouest"," 128","Saskatoon",N,N,"",0,417,"Eggerman","","Chad","Liberal","Libéral",N,N,31
+47011,"Saskatoon West","Saskatoon-Ouest"," 128","Saskatoon",N,N,"",0,417,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 128","Saskatoon",N,N,"",0,417,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+47011,"Saskatoon West","Saskatoon-Ouest"," 128","Saskatoon",N,N,"",0,417,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,32
+47011,"Saskatoon West","Saskatoon-Ouest"," 129","Saskatoon",N,N,"",1,432,"Eggerman","","Chad","Liberal","Libéral",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 129","Saskatoon",N,N,"",1,432,"Hunter","","Naomi","Green Party","Parti Vert",N,N,7
+47011,"Saskatoon West","Saskatoon-Ouest"," 129","Saskatoon",N,N,"",1,432,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47011,"Saskatoon West","Saskatoon-Ouest"," 129","Saskatoon",N,N,"",1,432,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,52
+47011,"Saskatoon West","Saskatoon-Ouest"," 130","Saskatoon",N,N,"",2,438,"Eggerman","","Chad","Liberal","Libéral",N,N,29
+47011,"Saskatoon West","Saskatoon-Ouest"," 130","Saskatoon",N,N,"",2,438,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 130","Saskatoon",N,N,"",2,438,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+47011,"Saskatoon West","Saskatoon-Ouest"," 130","Saskatoon",N,N,"",2,438,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,54
+47011,"Saskatoon West","Saskatoon-Ouest"," 131","Saskatoon",N,N,"",1,517,"Eggerman","","Chad","Liberal","Libéral",N,N,43
+47011,"Saskatoon West","Saskatoon-Ouest"," 131","Saskatoon",N,N,"",1,517,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 131","Saskatoon",N,N,"",1,517,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+47011,"Saskatoon West","Saskatoon-Ouest"," 131","Saskatoon",N,N,"",1,517,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,68
+47011,"Saskatoon West","Saskatoon-Ouest"," 132","Saskatoon",N,N,"",1,372,"Eggerman","","Chad","Liberal","Libéral",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 132","Saskatoon",N,N,"",1,372,"Hunter","","Naomi","Green Party","Parti Vert",N,N,1
+47011,"Saskatoon West","Saskatoon-Ouest"," 132","Saskatoon",N,N,"",1,372,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+47011,"Saskatoon West","Saskatoon-Ouest"," 132","Saskatoon",N,N,"",1,372,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,120
+47011,"Saskatoon West","Saskatoon-Ouest"," 133","Saskatoon",N,N,"",2,386,"Eggerman","","Chad","Liberal","Libéral",N,N,42
+47011,"Saskatoon West","Saskatoon-Ouest"," 133","Saskatoon",N,N,"",2,386,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 133","Saskatoon",N,N,"",2,386,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+47011,"Saskatoon West","Saskatoon-Ouest"," 133","Saskatoon",N,N,"",2,386,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,124
+47011,"Saskatoon West","Saskatoon-Ouest"," 134","Saskatoon",N,N,"",3,397,"Eggerman","","Chad","Liberal","Libéral",N,N,57
+47011,"Saskatoon West","Saskatoon-Ouest"," 134","Saskatoon",N,N,"",3,397,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 134","Saskatoon",N,N,"",3,397,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47011,"Saskatoon West","Saskatoon-Ouest"," 134","Saskatoon",N,N,"",3,397,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,152
+47011,"Saskatoon West","Saskatoon-Ouest"," 135","Saskatoon",N,N,"",6,560,"Eggerman","","Chad","Liberal","Libéral",N,N,36
+47011,"Saskatoon West","Saskatoon-Ouest"," 135","Saskatoon",N,N,"",6,560,"Hunter","","Naomi","Green Party","Parti Vert",N,N,2
+47011,"Saskatoon West","Saskatoon-Ouest"," 135","Saskatoon",N,N,"",6,560,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47011,"Saskatoon West","Saskatoon-Ouest"," 135","Saskatoon",N,N,"",6,560,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,71
+47011,"Saskatoon West","Saskatoon-Ouest"," 136","Saskatoon",N,N,"",1,345,"Eggerman","","Chad","Liberal","Libéral",N,N,14
+47011,"Saskatoon West","Saskatoon-Ouest"," 136","Saskatoon",N,N,"",1,345,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 136","Saskatoon",N,N,"",1,345,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47011,"Saskatoon West","Saskatoon-Ouest"," 136","Saskatoon",N,N,"",1,345,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,43
+47011,"Saskatoon West","Saskatoon-Ouest"," 137","Saskatoon",N,N,"",0,360,"Eggerman","","Chad","Liberal","Libéral",N,N,37
+47011,"Saskatoon West","Saskatoon-Ouest"," 137","Saskatoon",N,N,"",0,360,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 137","Saskatoon",N,N,"",0,360,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+47011,"Saskatoon West","Saskatoon-Ouest"," 137","Saskatoon",N,N,"",0,360,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,67
+47011,"Saskatoon West","Saskatoon-Ouest"," 138","Saskatoon",N,N,"",1,417,"Eggerman","","Chad","Liberal","Libéral",N,N,30
+47011,"Saskatoon West","Saskatoon-Ouest"," 138","Saskatoon",N,N,"",1,417,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 138","Saskatoon",N,N,"",1,417,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+47011,"Saskatoon West","Saskatoon-Ouest"," 138","Saskatoon",N,N,"",1,417,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,73
+47011,"Saskatoon West","Saskatoon-Ouest"," 139","Saskatoon",N,N,"",0,359,"Eggerman","","Chad","Liberal","Libéral",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," 139","Saskatoon",N,N,"",0,359,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 139","Saskatoon",N,N,"",0,359,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47011,"Saskatoon West","Saskatoon-Ouest"," 139","Saskatoon",N,N,"",0,359,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,46
+47011,"Saskatoon West","Saskatoon-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"503",0,105,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"503",0,105,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"503",0,105,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"503",0,105,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"503",0,62,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"503",0,62,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"503",0,62,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"503",0,62,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"507",0,59,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"507",0,59,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"507",0,59,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"507",0,59,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",4,146,"Eggerman","","Chad","Liberal","Libéral",N,N,47
+47011,"Saskatoon West","Saskatoon-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",4,146,"Hunter","","Naomi","Green Party","Parti Vert",N,N,5
+47011,"Saskatoon West","Saskatoon-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",4,146,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47011,"Saskatoon West","Saskatoon-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",4,146,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,89
+47011,"Saskatoon West","Saskatoon-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,76,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,76,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,76,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"503",0,76,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"503",0,49,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"503",0,49,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"503",0,49,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"503",0,49,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 506","Saskatoon",N,N,"72",0,16,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 506","Saskatoon",N,N,"72",0,16,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 506","Saskatoon",N,N,"72",0,16,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 506","Saskatoon",N,N,"72",0,16,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",2,97,"Eggerman","","Chad","Liberal","Libéral",N,N,30
+47011,"Saskatoon West","Saskatoon-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",2,97,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",2,97,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47011,"Saskatoon West","Saskatoon-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",2,97,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,43
+47011,"Saskatoon West","Saskatoon-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,60,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,60,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,60,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"509",0,60,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",3,223,"Eggerman","","Chad","Liberal","Libéral",N,N,34
+47011,"Saskatoon West","Saskatoon-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",3,223,"Hunter","","Naomi","Green Party","Parti Vert",N,N,6
+47011,"Saskatoon West","Saskatoon-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",3,223,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+47011,"Saskatoon West","Saskatoon-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",3,223,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,42
+47011,"Saskatoon West","Saskatoon-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",2,128,"Eggerman","","Chad","Liberal","Libéral",N,N,53
+47011,"Saskatoon West","Saskatoon-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",2,128,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",2,128,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47011,"Saskatoon West","Saskatoon-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",2,128,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,41
+47011,"Saskatoon West","Saskatoon-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,59,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,59,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,59,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"510",0,59,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"507",0,74,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"507",0,74,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"507",0,74,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"507",0,74,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"509",0,49,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"509",0,49,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"509",0,49,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"509",0,49,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"516",0,51,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"516",0,51,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"516",0,51,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"516",0,51,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"509",0,33,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"509",0,33,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"509",0,33,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"509",0,33,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,104,"Eggerman","","Chad","Liberal","Libéral",N,N,42
+47011,"Saskatoon West","Saskatoon-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,104,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,104,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47011,"Saskatoon West","Saskatoon-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,104,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,58
+47011,"Saskatoon West","Saskatoon-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"519",0,98,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"519",0,98,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"519",0,98,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"519",0,98,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"510",0,101,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"510",0,101,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"510",0,101,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"510",0,101,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",6,141,"Eggerman","","Chad","Liberal","Libéral",N,N,87
+47011,"Saskatoon West","Saskatoon-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",6,141,"Hunter","","Naomi","Green Party","Parti Vert",N,N,4
+47011,"Saskatoon West","Saskatoon-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",6,141,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47011,"Saskatoon West","Saskatoon-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",6,141,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,96
+47011,"Saskatoon West","Saskatoon-Ouest"," 520","Mobile poll/Bureau itinérant",N,N,"519",0,84,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 520","Mobile poll/Bureau itinérant",N,N,"519",0,84,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 520","Mobile poll/Bureau itinérant",N,N,"519",0,84,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 520","Mobile poll/Bureau itinérant",N,N,"519",0,84,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 521","Mobile poll/Bureau itinérant",N,N,"519",0,88,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 521","Mobile poll/Bureau itinérant",N,N,"519",0,88,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 521","Mobile poll/Bureau itinérant",N,N,"519",0,88,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 521","Mobile poll/Bureau itinérant",N,N,"519",0,88,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 522","Mobile poll/Bureau itinérant",N,N,"516",0,83,"Eggerman","","Chad","Liberal","Libéral",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 522","Mobile poll/Bureau itinérant",N,N,"516",0,83,"Hunter","","Naomi","Green Party","Parti Vert",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 522","Mobile poll/Bureau itinérant",N,N,"516",0,83,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 522","Mobile poll/Bureau itinérant",N,N,"516",0,83,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47011,"Saskatoon West","Saskatoon-Ouest"," 600","Saskatoon",N,N,"",9,0,"Eggerman","","Chad","Liberal","Libéral",N,N,252
+47011,"Saskatoon West","Saskatoon-Ouest"," 600","Saskatoon",N,N,"",9,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,10
+47011,"Saskatoon West","Saskatoon-Ouest"," 600","Saskatoon",N,N,"",9,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,188
+47011,"Saskatoon West","Saskatoon-Ouest"," 600","Saskatoon",N,N,"",9,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,798
+47011,"Saskatoon West","Saskatoon-Ouest"," 601","Saskatoon",N,N,"",12,0,"Eggerman","","Chad","Liberal","Libéral",N,N,280
+47011,"Saskatoon West","Saskatoon-Ouest"," 601","Saskatoon",N,N,"",12,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,3
+47011,"Saskatoon West","Saskatoon-Ouest"," 601","Saskatoon",N,N,"",12,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,145
+47011,"Saskatoon West","Saskatoon-Ouest"," 601","Saskatoon",N,N,"",12,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,954
+47011,"Saskatoon West","Saskatoon-Ouest"," 602","Saskatoon",N,N,"",3,0,"Eggerman","","Chad","Liberal","Libéral",N,N,276
+47011,"Saskatoon West","Saskatoon-Ouest"," 602","Saskatoon",N,N,"",3,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,8
+47011,"Saskatoon West","Saskatoon-Ouest"," 602","Saskatoon",N,N,"",3,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,224
+47011,"Saskatoon West","Saskatoon-Ouest"," 602","Saskatoon",N,N,"",3,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,817
+47011,"Saskatoon West","Saskatoon-Ouest"," 603","Saskatoon",N,N,"",7,0,"Eggerman","","Chad","Liberal","Libéral",N,N,302
+47011,"Saskatoon West","Saskatoon-Ouest"," 603","Saskatoon",N,N,"",7,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,9
+47011,"Saskatoon West","Saskatoon-Ouest"," 603","Saskatoon",N,N,"",7,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,212
+47011,"Saskatoon West","Saskatoon-Ouest"," 603","Saskatoon",N,N,"",7,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,764
+47011,"Saskatoon West","Saskatoon-Ouest"," 604","Saskatoon",N,N,"",5,0,"Eggerman","","Chad","Liberal","Libéral",N,N,314
+47011,"Saskatoon West","Saskatoon-Ouest"," 604","Saskatoon",N,N,"",5,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,9
+47011,"Saskatoon West","Saskatoon-Ouest"," 604","Saskatoon",N,N,"",5,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,139
+47011,"Saskatoon West","Saskatoon-Ouest"," 604","Saskatoon",N,N,"",5,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,739
+47011,"Saskatoon West","Saskatoon-Ouest"," 605","Saskatoon",N,N,"",6,0,"Eggerman","","Chad","Liberal","Libéral",N,N,310
+47011,"Saskatoon West","Saskatoon-Ouest"," 605","Saskatoon",N,N,"",6,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,5
+47011,"Saskatoon West","Saskatoon-Ouest"," 605","Saskatoon",N,N,"",6,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,185
+47011,"Saskatoon West","Saskatoon-Ouest"," 605","Saskatoon",N,N,"",6,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,794
+47011,"Saskatoon West","Saskatoon-Ouest"," 606","Saskatoon",N,N,"",3,0,"Eggerman","","Chad","Liberal","Libéral",N,N,208
+47011,"Saskatoon West","Saskatoon-Ouest"," 606","Saskatoon",N,N,"",3,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,5
+47011,"Saskatoon West","Saskatoon-Ouest"," 606","Saskatoon",N,N,"",3,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,155
+47011,"Saskatoon West","Saskatoon-Ouest"," 606","Saskatoon",N,N,"",3,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,599
+47011,"Saskatoon West","Saskatoon-Ouest"," 607","Saskatoon",N,N,"",15,0,"Eggerman","","Chad","Liberal","Libéral",N,N,316
+47011,"Saskatoon West","Saskatoon-Ouest"," 607","Saskatoon",N,N,"",15,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,11
+47011,"Saskatoon West","Saskatoon-Ouest"," 607","Saskatoon",N,N,"",15,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,255
+47011,"Saskatoon West","Saskatoon-Ouest"," 607","Saskatoon",N,N,"",15,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,798
+47011,"Saskatoon West","Saskatoon-Ouest"," 608","Saskatoon",N,N,"",3,0,"Eggerman","","Chad","Liberal","Libéral",N,N,235
+47011,"Saskatoon West","Saskatoon-Ouest"," 608","Saskatoon",N,N,"",3,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,7
+47011,"Saskatoon West","Saskatoon-Ouest"," 608","Saskatoon",N,N,"",3,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,327
+47011,"Saskatoon West","Saskatoon-Ouest"," 608","Saskatoon",N,N,"",3,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,312
+47011,"Saskatoon West","Saskatoon-Ouest"," 609","Saskatoon",N,N,"",0,0,"Eggerman","","Chad","Liberal","Libéral",N,N,407
+47011,"Saskatoon West","Saskatoon-Ouest"," 609","Saskatoon",N,N,"",0,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,12
+47011,"Saskatoon West","Saskatoon-Ouest"," 609","Saskatoon",N,N,"",0,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,205
+47011,"Saskatoon West","Saskatoon-Ouest"," 609","Saskatoon",N,N,"",0,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,284
+47011,"Saskatoon West","Saskatoon-Ouest"," 610","Saskatoon",N,N,"",7,0,"Eggerman","","Chad","Liberal","Libéral",N,N,306
+47011,"Saskatoon West","Saskatoon-Ouest"," 610","Saskatoon",N,N,"",7,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,10
+47011,"Saskatoon West","Saskatoon-Ouest"," 610","Saskatoon",N,N,"",7,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,357
+47011,"Saskatoon West","Saskatoon-Ouest"," 610","Saskatoon",N,N,"",7,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,385
+47011,"Saskatoon West","Saskatoon-Ouest"," 611","Saskatoon",N,N,"",9,0,"Eggerman","","Chad","Liberal","Libéral",N,N,202
+47011,"Saskatoon West","Saskatoon-Ouest"," 611","Saskatoon",N,N,"",9,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,5
+47011,"Saskatoon West","Saskatoon-Ouest"," 611","Saskatoon",N,N,"",9,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,210
+47011,"Saskatoon West","Saskatoon-Ouest"," 611","Saskatoon",N,N,"",9,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,496
+47011,"Saskatoon West","Saskatoon-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",77,412,"Eggerman","","Chad","Liberal","Libéral",N,N,345
+47011,"Saskatoon West","Saskatoon-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",77,412,"Hunter","","Naomi","Green Party","Parti Vert",N,N,23
+47011,"Saskatoon West","Saskatoon-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",77,412,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,196
+47011,"Saskatoon West","Saskatoon-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",77,412,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,208
+47011,"Saskatoon West","Saskatoon-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",62,0,"Eggerman","","Chad","Liberal","Libéral",N,N,518
+47011,"Saskatoon West","Saskatoon-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",62,0,"Hunter","","Naomi","Green Party","Parti Vert",N,N,22
+47011,"Saskatoon West","Saskatoon-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",62,0,"Loewen Walker","","Rachel","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,362
+47011,"Saskatoon West","Saskatoon-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",62,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,868

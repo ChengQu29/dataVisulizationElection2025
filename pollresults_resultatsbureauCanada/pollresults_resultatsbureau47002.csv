@@ -1,0 +1,646 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Division Number/Numéro de section de vote,Polling Division Name/Nom de section de vote,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Combined with No./Résultats combinés à ceux du n°,Rejected Ballots for poll/Bulletins rejetés du bureau,Electors for poll/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Vote Count/Votes du candidat
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 1","Mullingar",N,N,"",3,272,"Block","","Kelly","Conservative","Conservateur",Y,Y,171
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 1","Mullingar",N,N,"",3,272,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 1","Mullingar",N,N,"",3,272,"Zimmer","","Katelyn","Liberal","Libéral",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 1-1","Lucky Man",Y,N,"",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 1-1","Lucky Man",Y,N,"",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 1-1","Lucky Man",Y,N,"",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 1-2","Muskeg Lake 102B",N,N,"2",0,7,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 1-2","Muskeg Lake 102B",N,N,"2",0,7,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 1-2","Muskeg Lake 102B",N,N,"2",0,7,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 2","Pebble Baye",N,N,"",1,199,"Block","","Kelly","Conservative","Conservateur",Y,Y,52
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 2","Pebble Baye",N,N,"",1,199,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 2","Pebble Baye",N,N,"",1,199,"Zimmer","","Katelyn","Liberal","Libéral",N,N,56
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 2-1","Muskeg Lake Cree Nation 102",N,N,"2",0,36,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 2-1","Muskeg Lake Cree Nation 102",N,N,"2",0,36,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 2-1","Muskeg Lake Cree Nation 102",N,N,"2",0,36,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 3","Parkside",N,N,"",1,210,"Block","","Kelly","Conservative","Conservateur",Y,Y,116
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 3","Parkside",N,N,"",1,210,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 3","Parkside",N,N,"",1,210,"Zimmer","","Katelyn","Liberal","Libéral",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 4","Leask",N,N,"",2,602,"Block","","Kelly","Conservative","Conservateur",Y,Y,175
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 4","Leask",N,N,"",2,602,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 4","Leask",N,N,"",2,602,"Zimmer","","Katelyn","Liberal","Libéral",N,N,28
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 5","Marcelin",N,N,"",0,327,"Block","","Kelly","Conservative","Conservateur",Y,Y,72
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 5","Marcelin",N,N,"",0,327,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 5","Marcelin",N,N,"",0,327,"Zimmer","","Katelyn","Liberal","Libéral",N,N,23
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 5-1","Beardy's and Okemasis 96 & 97C",N,N,"5",0,7,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 5-1","Beardy's and Okemasis 96 & 97C",N,N,"5",0,7,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 5-1","Beardy's and Okemasis 96 & 97C",N,N,"5",0,7,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 6","Speers",N,N,"",2,264,"Block","","Kelly","Conservative","Conservateur",Y,Y,89
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 6","Speers",N,N,"",2,264,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 6","Speers",N,N,"",2,264,"Zimmer","","Katelyn","Liberal","Libéral",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 7","Hafford",N,N,"",0,241,"Block","","Kelly","Conservative","Conservateur",Y,Y,78
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 7","Hafford",N,N,"",0,241,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 7","Hafford",N,N,"",0,241,"Zimmer","","Katelyn","Liberal","Libéral",N,N,2
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 8","Hafford",N,N,"",0,301,"Block","","Kelly","Conservative","Conservateur",Y,Y,94
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 8","Hafford",N,N,"",0,301,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 8","Hafford",N,N,"",0,301,"Zimmer","","Katelyn","Liberal","Libéral",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 9","Carlton",N,N,"9-1",0,134,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 9","Carlton",N,N,"9-1",0,134,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 9","Carlton",N,N,"9-1",0,134,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 9-1","Beardy's 97 and Okemasis 96",N,N,"",2,312,"Block","","Kelly","Conservative","Conservateur",Y,Y,59
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 9-1","Beardy's 97 and Okemasis 96",N,N,"",2,312,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 9-1","Beardy's 97 and Okemasis 96",N,N,"",2,312,"Zimmer","","Katelyn","Liberal","Libéral",N,N,233
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 10","Duck Lake",N,N,"",2,477,"Block","","Kelly","Conservative","Conservateur",Y,Y,90
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 10","Duck Lake",N,N,"",2,477,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 10","Duck Lake",N,N,"",2,477,"Zimmer","","Katelyn","Liberal","Libéral",N,N,59
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 10-1","Willow Cree",N,N,"10",0,1,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 10-1","Willow Cree",N,N,"10",0,1,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 10-1","Willow Cree",N,N,"10",0,1,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 11","Duck Lake",N,N,"",0,378,"Block","","Kelly","Conservative","Conservateur",Y,Y,33
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 11","Duck Lake",N,N,"",0,378,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 11","Duck Lake",N,N,"",0,378,"Zimmer","","Katelyn","Liberal","Libéral",N,N,64
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 12","Blaine Lake",N,N,"",0,341,"Block","","Kelly","Conservative","Conservateur",Y,Y,86
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 12","Blaine Lake",N,N,"",0,341,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 12","Blaine Lake",N,N,"",0,341,"Zimmer","","Katelyn","Liberal","Libéral",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 13","Blaine Lake",N,N,"",2,304,"Block","","Kelly","Conservative","Conservateur",Y,Y,89
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 13","Blaine Lake",N,N,"",2,304,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 13","Blaine Lake",N,N,"",2,304,"Zimmer","","Katelyn","Liberal","Libéral",N,N,20
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 14","St. Louis",N,N,"",1,328,"Block","","Kelly","Conservative","Conservateur",Y,Y,130
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 14","St. Louis",N,N,"",1,328,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 14","St. Louis",N,N,"",1,328,"Zimmer","","Katelyn","Liberal","Libéral",N,N,35
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 15","Hoey",N,N,"",0,229,"Block","","Kelly","Conservative","Conservateur",Y,Y,100
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 15","Hoey",N,N,"",0,229,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 15","Hoey",N,N,"",0,229,"Zimmer","","Katelyn","Liberal","Libéral",N,N,20
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 16","Maymont",N,N,"",3,272,"Block","","Kelly","Conservative","Conservateur",Y,Y,152
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 16","Maymont",N,N,"",3,272,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 16","Maymont",N,N,"",3,272,"Zimmer","","Katelyn","Liberal","Libéral",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 17","Laird",N,N,"",1,424,"Block","","Kelly","Conservative","Conservateur",Y,Y,203
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 17","Laird",N,N,"",1,424,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 17","Laird",N,N,"",1,424,"Zimmer","","Katelyn","Liberal","Libéral",N,N,25
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 18","St-Laurent-Grandin",N,N,"",4,314,"Block","","Kelly","Conservative","Conservateur",Y,Y,131
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 18","St-Laurent-Grandin",N,N,"",4,314,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 18","St-Laurent-Grandin",N,N,"",4,314,"Zimmer","","Katelyn","Liberal","Libéral",N,N,22
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 18-1","One Arrow 95",N,N,"",0,184,"Block","","Kelly","Conservative","Conservateur",Y,Y,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 18-1","One Arrow 95",N,N,"",0,184,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 18-1","One Arrow 95",N,N,"",0,184,"Zimmer","","Katelyn","Liberal","Libéral",N,N,79
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 19","Domremy",N,N,"",0,262,"Block","","Kelly","Conservative","Conservateur",Y,Y,86
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 19","Domremy",N,N,"",0,262,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 19","Domremy",N,N,"",0,262,"Zimmer","","Katelyn","Liberal","Libéral",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 20","Beatty",N,N,"",0,246,"Block","","Kelly","Conservative","Conservateur",Y,Y,149
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 20","Beatty",N,N,"",0,246,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 20","Beatty",N,N,"",0,246,"Zimmer","","Katelyn","Liberal","Libéral",N,N,10
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 21","Waldheim",N,N,"",0,366,"Block","","Kelly","Conservative","Conservateur",Y,Y,212
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 21","Waldheim",N,N,"",0,366,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 21","Waldheim",N,N,"",0,366,"Zimmer","","Katelyn","Liberal","Libéral",N,N,10
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 22","Waldheim",N,N,"",1,366,"Block","","Kelly","Conservative","Conservateur",Y,Y,185
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 22","Waldheim",N,N,"",1,366,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 22","Waldheim",N,N,"",1,366,"Zimmer","","Katelyn","Liberal","Libéral",N,N,24
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 23","Waldheim",N,N,"",4,347,"Block","","Kelly","Conservative","Conservateur",Y,Y,186
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 23","Waldheim",N,N,"",4,347,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 23","Waldheim",N,N,"",4,347,"Zimmer","","Katelyn","Liberal","Libéral",N,N,16
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 24","Radisson",N,N,"",0,283,"Block","","Kelly","Conservative","Conservateur",Y,Y,140
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 24","Radisson",N,N,"",0,283,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 24","Radisson",N,N,"",0,283,"Zimmer","","Katelyn","Liberal","Libéral",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 25","Radisson",N,N,"",0,312,"Block","","Kelly","Conservative","Conservateur",Y,Y,154
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 25","Radisson",N,N,"",0,312,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 25","Radisson",N,N,"",0,312,"Zimmer","","Katelyn","Liberal","Libéral",N,N,30
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 26","Rosthern",N,N,"",1,497,"Block","","Kelly","Conservative","Conservateur",Y,Y,79
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 26","Rosthern",N,N,"",1,497,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 26","Rosthern",N,N,"",1,497,"Zimmer","","Katelyn","Liberal","Libéral",N,N,62
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 27","Rosthern",N,N,"",2,334,"Block","","Kelly","Conservative","Conservateur",Y,Y,105
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 27","Rosthern",N,N,"",2,334,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 27","Rosthern",N,N,"",2,334,"Zimmer","","Katelyn","Liberal","Libéral",N,N,17
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 28A","Rosthern",N,N,"27",0,128,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 28A","Rosthern",N,N,"27",0,128,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 28A","Rosthern",N,N,"27",0,128,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 28B","Rosthern",N,N,"",1,459,"Block","","Kelly","Conservative","Conservateur",Y,Y,85
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 28B","Rosthern",N,N,"",1,459,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 28B","Rosthern",N,N,"",1,459,"Zimmer","","Katelyn","Liberal","Libéral",N,N,36
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 29","Rosthern",N,N,"",1,434,"Block","","Kelly","Conservative","Conservateur",Y,Y,85
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 29","Rosthern",N,N,"",1,434,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 29","Rosthern",N,N,"",1,434,"Zimmer","","Katelyn","Liberal","Libéral",N,N,33
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 30","Crystal Springs",N,N,"",1,415,"Block","","Kelly","Conservative","Conservateur",Y,Y,200
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 30","Crystal Springs",N,N,"",1,415,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 30","Crystal Springs",N,N,"",1,415,"Zimmer","","Katelyn","Liberal","Libéral",N,N,31
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 31","Hepburn",N,N,"",1,359,"Block","","Kelly","Conservative","Conservateur",Y,Y,230
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 31","Hepburn",N,N,"",1,359,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 31","Hepburn",N,N,"",1,359,"Zimmer","","Katelyn","Liberal","Libéral",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 32","Hepburn",N,N,"",0,445,"Block","","Kelly","Conservative","Conservateur",Y,Y,277
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 32","Hepburn",N,N,"",0,445,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 32","Hepburn",N,N,"",0,445,"Zimmer","","Katelyn","Liberal","Libéral",N,N,34
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 33","Lizard Lake",N,N,"",0,335,"Block","","Kelly","Conservative","Conservateur",Y,Y,105
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 33","Lizard Lake",N,N,"",0,335,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 33","Lizard Lake",N,N,"",0,335,"Zimmer","","Katelyn","Liberal","Libéral",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 34","Bonne Madone",N,N,"",0,395,"Block","","Kelly","Conservative","Conservateur",Y,Y,137
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 34","Bonne Madone",N,N,"",0,395,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 34","Bonne Madone",N,N,"",0,395,"Zimmer","","Katelyn","Liberal","Libéral",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 35","Wakaw",N,N,"",1,452,"Block","","Kelly","Conservative","Conservateur",Y,Y,93
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 35","Wakaw",N,N,"",1,452,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 35","Wakaw",N,N,"",1,452,"Zimmer","","Katelyn","Liberal","Libéral",N,N,31
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 36","Wakaw",N,N,"",0,384,"Block","","Kelly","Conservative","Conservateur",Y,Y,105
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 36","Wakaw",N,N,"",0,384,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 36","Wakaw",N,N,"",0,384,"Zimmer","","Katelyn","Liberal","Libéral",N,N,22
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 37","Borden",N,N,"",3,464,"Block","","Kelly","Conservative","Conservateur",Y,Y,236
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 37","Borden",N,N,"",3,464,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 37","Borden",N,N,"",3,464,"Zimmer","","Katelyn","Liberal","Libéral",N,N,45
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 38","Flett Springs",N,N,"",0,299,"Block","","Kelly","Conservative","Conservateur",Y,Y,108
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 38","Flett Springs",N,N,"",0,299,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 38","Flett Springs",N,N,"",0,299,"Zimmer","","Katelyn","Liberal","Libéral",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 39","Hague",N,N,"",0,382,"Block","","Kelly","Conservative","Conservateur",Y,Y,226
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 39","Hague",N,N,"",0,382,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 39","Hague",N,N,"",0,382,"Zimmer","","Katelyn","Liberal","Libéral",N,N,26
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 40","Hague",N,N,"",4,520,"Block","","Kelly","Conservative","Conservateur",Y,Y,266
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 40","Hague",N,N,"",4,520,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 40","Hague",N,N,"",4,520,"Zimmer","","Katelyn","Liberal","Libéral",N,N,19
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 41","Hague",N,N,"",0,389,"Block","","Kelly","Conservative","Conservateur",Y,Y,221
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 41","Hague",N,N,"",0,389,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 41","Hague",N,N,"",0,389,"Zimmer","","Katelyn","Liberal","Libéral",N,N,18
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 42","Greenfeld",N,N,"",0,259,"Block","","Kelly","Conservative","Conservateur",Y,Y,124
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 42","Greenfeld",N,N,"",0,259,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 42","Greenfeld",N,N,"",0,259,"Zimmer","","Katelyn","Liberal","Libéral",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 43","Dalmeny",N,N,"",2,363,"Block","","Kelly","Conservative","Conservateur",Y,Y,113
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 43","Dalmeny",N,N,"",2,363,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 43","Dalmeny",N,N,"",2,363,"Zimmer","","Katelyn","Liberal","Libéral",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 44","Dalmeny",N,N,"",0,371,"Block","","Kelly","Conservative","Conservateur",Y,Y,107
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 44","Dalmeny",N,N,"",0,371,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 44","Dalmeny",N,N,"",0,371,"Zimmer","","Katelyn","Liberal","Libéral",N,N,25
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 45","Dalmeny",N,N,"",0,380,"Block","","Kelly","Conservative","Conservateur",Y,Y,106
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 45","Dalmeny",N,N,"",0,380,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 45","Dalmeny",N,N,"",0,380,"Zimmer","","Katelyn","Liberal","Libéral",N,N,26
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 46","Dalmeny",N,N,"",1,486,"Block","","Kelly","Conservative","Conservateur",Y,Y,154
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 46","Dalmeny",N,N,"",1,486,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 46","Dalmeny",N,N,"",1,486,"Zimmer","","Katelyn","Liberal","Libéral",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 47","Smuts",N,N,"",1,275,"Block","","Kelly","Conservative","Conservateur",Y,Y,124
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 47","Smuts",N,N,"",1,275,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 47","Smuts",N,N,"",1,275,"Zimmer","","Katelyn","Liberal","Libéral",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 47-1","One Arrow 95-1C",Y,N,"",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 47-1","One Arrow 95-1C",Y,N,"",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 47-1","One Arrow 95-1C",Y,N,"",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 48","Langham",N,N,"",1,419,"Block","","Kelly","Conservative","Conservateur",Y,Y,171
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 48","Langham",N,N,"",1,419,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 48","Langham",N,N,"",1,419,"Zimmer","","Katelyn","Liberal","Libéral",N,N,35
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 49","Langham",N,N,"",0,406,"Block","","Kelly","Conservative","Conservateur",Y,Y,165
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 49","Langham",N,N,"",0,406,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 49","Langham",N,N,"",0,406,"Zimmer","","Katelyn","Liberal","Libéral",N,N,31
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 50","Langham",N,N,"",2,436,"Block","","Kelly","Conservative","Conservateur",Y,Y,202
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 50","Langham",N,N,"",2,436,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 50","Langham",N,N,"",2,436,"Zimmer","","Katelyn","Liberal","Libéral",N,N,33
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 51","Langham",N,N,"",1,413,"Block","","Kelly","Conservative","Conservateur",Y,Y,182
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 51","Langham",N,N,"",1,413,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 51","Langham",N,N,"",1,413,"Zimmer","","Katelyn","Liberal","Libéral",N,N,37
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 52","Blumenthal",N,N,"",0,478,"Block","","Kelly","Conservative","Conservateur",Y,Y,189
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 52","Blumenthal",N,N,"",0,478,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 52","Blumenthal",N,N,"",0,478,"Zimmer","","Katelyn","Liberal","Libéral",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 53","Osler",N,N,"",2,414,"Block","","Kelly","Conservative","Conservateur",Y,Y,170
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 53","Osler",N,N,"",2,414,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 53","Osler",N,N,"",2,414,"Zimmer","","Katelyn","Liberal","Libéral",N,N,30
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 54","Osler",N,N,"",0,432,"Block","","Kelly","Conservative","Conservateur",Y,Y,203
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 54","Osler",N,N,"",0,432,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 54","Osler",N,N,"",0,432,"Zimmer","","Katelyn","Liberal","Libéral",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 55","Osler",N,N,"",1,313,"Block","","Kelly","Conservative","Conservateur",Y,Y,170
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 55","Osler",N,N,"",1,313,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 55","Osler",N,N,"",1,313,"Zimmer","","Katelyn","Liberal","Libéral",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 56","Osler",N,N,"",0,396,"Block","","Kelly","Conservative","Conservateur",Y,Y,195
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 56","Osler",N,N,"",0,396,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 56","Osler",N,N,"",0,396,"Zimmer","","Katelyn","Liberal","Libéral",N,N,38
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 57","St. Benedict",N,N,"",0,291,"Block","","Kelly","Conservative","Conservateur",Y,Y,98
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 57","St. Benedict",N,N,"",0,291,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 57","St. Benedict",N,N,"",0,291,"Zimmer","","Katelyn","Liberal","Libéral",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 58","Cudworth",N,N,"",0,238,"Block","","Kelly","Conservative","Conservateur",Y,Y,146
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 58","Cudworth",N,N,"",0,238,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 58","Cudworth",N,N,"",0,238,"Zimmer","","Katelyn","Liberal","Libéral",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 59","Cudworth",N,N,"",0,217,"Block","","Kelly","Conservative","Conservateur",Y,Y,113
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 59","Cudworth",N,N,"",0,217,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 59","Cudworth",N,N,"",0,217,"Zimmer","","Katelyn","Liberal","Libéral",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 60","Cudworth",N,N,"",1,249,"Block","","Kelly","Conservative","Conservateur",Y,Y,115
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 60","Cudworth",N,N,"",1,249,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 60","Cudworth",N,N,"",1,249,"Zimmer","","Katelyn","Liberal","Libéral",N,N,16
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 61","Kinley",N,N,"",0,144,"Block","","Kelly","Conservative","Conservateur",Y,Y,37
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 61","Kinley",N,N,"",0,144,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 61","Kinley",N,N,"",0,144,"Zimmer","","Katelyn","Liberal","Libéral",N,N,4
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 62","Warman",N,N,"",0,551,"Block","","Kelly","Conservative","Conservateur",Y,Y,188
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 62","Warman",N,N,"",0,551,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 62","Warman",N,N,"",0,551,"Zimmer","","Katelyn","Liberal","Libéral",N,N,47
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 63","Warman",N,N,"",1,590,"Block","","Kelly","Conservative","Conservateur",Y,Y,163
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 63","Warman",N,N,"",1,590,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 63","Warman",N,N,"",1,590,"Zimmer","","Katelyn","Liberal","Libéral",N,N,22
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 64","Warman",N,N,"",2,560,"Block","","Kelly","Conservative","Conservateur",Y,Y,177
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 64","Warman",N,N,"",2,560,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 64","Warman",N,N,"",2,560,"Zimmer","","Katelyn","Liberal","Libéral",N,N,28
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 65A","Warman",N,N,"79",0,263,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 65A","Warman",N,N,"79",0,263,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 65A","Warman",N,N,"79",0,263,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 65B","Warman",N,N,"",0,534,"Block","","Kelly","Conservative","Conservateur",Y,Y,241
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 65B","Warman",N,N,"",0,534,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 65B","Warman",N,N,"",0,534,"Zimmer","","Katelyn","Liberal","Libéral",N,N,48
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 66","Warman",N,N,"",2,569,"Block","","Kelly","Conservative","Conservateur",Y,Y,157
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 66","Warman",N,N,"",2,569,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 66","Warman",N,N,"",2,569,"Zimmer","","Katelyn","Liberal","Libéral",N,N,40
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 67","Warman",N,N,"",0,561,"Block","","Kelly","Conservative","Conservateur",Y,Y,183
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 67","Warman",N,N,"",0,561,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 67","Warman",N,N,"",0,561,"Zimmer","","Katelyn","Liberal","Libéral",N,N,31
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 68","Warman",N,N,"",1,550,"Block","","Kelly","Conservative","Conservateur",Y,Y,108
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 68","Warman",N,N,"",1,550,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 68","Warman",N,N,"",1,550,"Zimmer","","Katelyn","Liberal","Libéral",N,N,30
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 69","Warman",N,N,"",1,518,"Block","","Kelly","Conservative","Conservateur",Y,Y,147
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 69","Warman",N,N,"",1,518,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 69","Warman",N,N,"",1,518,"Zimmer","","Katelyn","Liberal","Libéral",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 70","Warman",N,N,"",3,563,"Block","","Kelly","Conservative","Conservateur",Y,Y,158
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 70","Warman",N,N,"",3,563,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 70","Warman",N,N,"",3,563,"Zimmer","","Katelyn","Liberal","Libéral",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 71","Warman",N,N,"",0,483,"Block","","Kelly","Conservative","Conservateur",Y,Y,120
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 71","Warman",N,N,"",0,483,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 71","Warman",N,N,"",0,483,"Zimmer","","Katelyn","Liberal","Libéral",N,N,36
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 72","Warman",N,N,"",0,529,"Block","","Kelly","Conservative","Conservateur",Y,Y,111
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 72","Warman",N,N,"",0,529,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 72","Warman",N,N,"",0,529,"Zimmer","","Katelyn","Liberal","Libéral",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 73","Warman",N,N,"",0,492,"Block","","Kelly","Conservative","Conservateur",Y,Y,118
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 73","Warman",N,N,"",0,492,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 73","Warman",N,N,"",0,492,"Zimmer","","Katelyn","Liberal","Libéral",N,N,19
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 74","Warman",N,N,"",2,562,"Block","","Kelly","Conservative","Conservateur",Y,Y,127
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 74","Warman",N,N,"",2,562,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 74","Warman",N,N,"",2,562,"Zimmer","","Katelyn","Liberal","Libéral",N,N,25
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 75","Warman",N,N,"",0,497,"Block","","Kelly","Conservative","Conservateur",Y,Y,132
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 75","Warman",N,N,"",0,497,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 75","Warman",N,N,"",0,497,"Zimmer","","Katelyn","Liberal","Libéral",N,N,22
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 76","Warman",N,N,"",0,473,"Block","","Kelly","Conservative","Conservateur",Y,Y,111
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 76","Warman",N,N,"",0,473,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 76","Warman",N,N,"",0,473,"Zimmer","","Katelyn","Liberal","Libéral",N,N,27
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 77A","Warman",N,N,"78",0,111,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 77A","Warman",N,N,"78",0,111,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 77A","Warman",N,N,"78",0,111,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 77B","Warman",N,N,"",1,514,"Block","","Kelly","Conservative","Conservateur",Y,Y,141
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 77B","Warman",N,N,"",1,514,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 77B","Warman",N,N,"",1,514,"Zimmer","","Katelyn","Liberal","Libéral",N,N,40
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 78","Warman",N,N,"",0,441,"Block","","Kelly","Conservative","Conservateur",Y,Y,84
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 78","Warman",N,N,"",0,441,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 78","Warman",N,N,"",0,441,"Zimmer","","Katelyn","Liberal","Libéral",N,N,17
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 79","Warman--Cathedral Bluffs",N,N,"",0,255,"Block","","Kelly","Conservative","Conservateur",Y,Y,51
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 79","Warman--Cathedral Bluffs",N,N,"",0,255,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 79","Warman--Cathedral Bluffs",N,N,"",0,255,"Zimmer","","Katelyn","Liberal","Libéral",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 80","Middle Lake",N,N,"",0,414,"Block","","Kelly","Conservative","Conservateur",Y,Y,104
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 80","Middle Lake",N,N,"",0,414,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 80","Middle Lake",N,N,"",0,414,"Zimmer","","Katelyn","Liberal","Libéral",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 81A","St. Brieux",N,N,"",1,400,"Block","","Kelly","Conservative","Conservateur",Y,Y,128
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 81A","St. Brieux",N,N,"",1,400,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 81A","St. Brieux",N,N,"",1,400,"Zimmer","","Katelyn","Liberal","Libéral",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 81B","Mobile poll/Bureau itinérant",N,N,"511",0,22,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 81B","Mobile poll/Bureau itinérant",N,N,"511",0,22,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 81B","Mobile poll/Bureau itinérant",N,N,"511",0,22,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 82","St. Brieux",N,N,"",1,347,"Block","","Kelly","Conservative","Conservateur",Y,Y,138
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 82","St. Brieux",N,N,"",1,347,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 82","St. Brieux",N,N,"",1,347,"Zimmer","","Katelyn","Liberal","Libéral",N,N,17
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 83","Lake Lenore No. 399",N,N,"",3,345,"Block","","Kelly","Conservative","Conservateur",Y,Y,126
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 83","Lake Lenore No. 399",N,N,"",3,345,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 83","Lake Lenore No. 399",N,N,"",3,345,"Zimmer","","Katelyn","Liberal","Libéral",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 84","Martensville",N,N,"",2,460,"Block","","Kelly","Conservative","Conservateur",Y,Y,116
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 84","Martensville",N,N,"",2,460,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 84","Martensville",N,N,"",2,460,"Zimmer","","Katelyn","Liberal","Libéral",N,N,16
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 85","Martensville",N,N,"",0,507,"Block","","Kelly","Conservative","Conservateur",Y,Y,113
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 85","Martensville",N,N,"",0,507,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 85","Martensville",N,N,"",0,507,"Zimmer","","Katelyn","Liberal","Libéral",N,N,35
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 86","Martensville",N,N,"",1,557,"Block","","Kelly","Conservative","Conservateur",Y,Y,138
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 86","Martensville",N,N,"",1,557,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 86","Martensville",N,N,"",1,557,"Zimmer","","Katelyn","Liberal","Libéral",N,N,34
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 87","Martensville",N,N,"",0,552,"Block","","Kelly","Conservative","Conservateur",Y,Y,138
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 87","Martensville",N,N,"",0,552,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 87","Martensville",N,N,"",0,552,"Zimmer","","Katelyn","Liberal","Libéral",N,N,31
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 88","Martensville",N,N,"",6,532,"Block","","Kelly","Conservative","Conservateur",Y,Y,129
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 88","Martensville",N,N,"",6,532,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 88","Martensville",N,N,"",6,532,"Zimmer","","Katelyn","Liberal","Libéral",N,N,24
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 89","Martensville",N,N,"",1,518,"Block","","Kelly","Conservative","Conservateur",Y,Y,107
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 89","Martensville",N,N,"",1,518,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 89","Martensville",N,N,"",1,518,"Zimmer","","Katelyn","Liberal","Libéral",N,N,25
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 90A","Martensville",N,N,"92",0,82,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 90A","Martensville",N,N,"92",0,82,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 90A","Martensville",N,N,"92",0,82,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 90B","Martensville",N,N,"",3,528,"Block","","Kelly","Conservative","Conservateur",Y,Y,98
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 90B","Martensville",N,N,"",3,528,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 90B","Martensville",N,N,"",3,528,"Zimmer","","Katelyn","Liberal","Libéral",N,N,43
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 91","Martensville",N,N,"",1,517,"Block","","Kelly","Conservative","Conservateur",Y,Y,111
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 91","Martensville",N,N,"",1,517,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 91","Martensville",N,N,"",1,517,"Zimmer","","Katelyn","Liberal","Libéral",N,N,39
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 92","Martensville",N,N,"",0,456,"Block","","Kelly","Conservative","Conservateur",Y,Y,119
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 92","Martensville",N,N,"",0,456,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 92","Martensville",N,N,"",0,456,"Zimmer","","Katelyn","Liberal","Libéral",N,N,33
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 93","Martensville",N,N,"",0,477,"Block","","Kelly","Conservative","Conservateur",Y,Y,87
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 93","Martensville",N,N,"",0,477,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 93","Martensville",N,N,"",0,477,"Zimmer","","Katelyn","Liberal","Libéral",N,N,37
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 94","Martensville",N,N,"",1,475,"Block","","Kelly","Conservative","Conservateur",Y,Y,102
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 94","Martensville",N,N,"",1,475,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 94","Martensville",N,N,"",1,475,"Zimmer","","Katelyn","Liberal","Libéral",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 95","Martensville",N,N,"",0,555,"Block","","Kelly","Conservative","Conservateur",Y,Y,126
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 95","Martensville",N,N,"",0,555,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 95","Martensville",N,N,"",0,555,"Zimmer","","Katelyn","Liberal","Libéral",N,N,39
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 96","Martensville",N,N,"",0,345,"Block","","Kelly","Conservative","Conservateur",Y,Y,119
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 96","Martensville",N,N,"",0,345,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 96","Martensville",N,N,"",0,345,"Zimmer","","Katelyn","Liberal","Libéral",N,N,35
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 97","Martensville",N,N,"",1,515,"Block","","Kelly","Conservative","Conservateur",Y,Y,120
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 97","Martensville",N,N,"",1,515,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 97","Martensville",N,N,"",1,515,"Zimmer","","Katelyn","Liberal","Libéral",N,N,31
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 98A","Martensville",N,N,"96",0,161,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 98A","Martensville",N,N,"96",0,161,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 98A","Martensville",N,N,"96",0,161,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 98B","Martensville",N,N,"",1,516,"Block","","Kelly","Conservative","Conservateur",Y,Y,129
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 98B","Martensville",N,N,"",1,516,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 98B","Martensville",N,N,"",1,516,"Zimmer","","Katelyn","Liberal","Libéral",N,N,33
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 99","Martensville",N,N,"",1,491,"Block","","Kelly","Conservative","Conservateur",Y,Y,118
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 99","Martensville",N,N,"",1,491,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 99","Martensville",N,N,"",1,491,"Zimmer","","Katelyn","Liberal","Libéral",N,N,33
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 100","Saskatoon",N,N,"",0,507,"Block","","Kelly","Conservative","Conservateur",Y,Y,186
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 100","Saskatoon",N,N,"",0,507,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 100","Saskatoon",N,N,"",0,507,"Zimmer","","Katelyn","Liberal","Libéral",N,N,32
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 101","Asquith",N,N,"",2,429,"Block","","Kelly","Conservative","Conservateur",Y,Y,184
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 101","Asquith",N,N,"",2,429,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 101","Asquith",N,N,"",2,429,"Zimmer","","Katelyn","Liberal","Libéral",N,N,47
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 102","Grandora",N,N,"",0,336,"Block","","Kelly","Conservative","Conservateur",Y,Y,113
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 102","Grandora",N,N,"",0,336,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 102","Grandora",N,N,"",0,336,"Zimmer","","Katelyn","Liberal","Libéral",N,N,54
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 103","Asquith",N,N,"",2,452,"Block","","Kelly","Conservative","Conservateur",Y,Y,211
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 103","Asquith",N,N,"",2,452,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 103","Asquith",N,N,"",2,452,"Zimmer","","Katelyn","Liberal","Libéral",N,N,35
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 104","Prud'homme",N,N,"",0,232,"Block","","Kelly","Conservative","Conservateur",Y,Y,123
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 104","Prud'homme",N,N,"",0,232,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 104","Prud'homme",N,N,"",0,232,"Zimmer","","Katelyn","Liberal","Libéral",N,N,29
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 105","Aberdeen",N,N,"",3,494,"Block","","Kelly","Conservative","Conservateur",Y,Y,124
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 105","Aberdeen",N,N,"",3,494,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 105","Aberdeen",N,N,"",3,494,"Zimmer","","Katelyn","Liberal","Libéral",N,N,25
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 106","Aberdeen",N,N,"",1,456,"Block","","Kelly","Conservative","Conservateur",Y,Y,122
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 106","Aberdeen",N,N,"",1,456,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 106","Aberdeen",N,N,"",1,456,"Zimmer","","Katelyn","Liberal","Libéral",N,N,24
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 107","Bergheim",N,N,"",0,498,"Block","","Kelly","Conservative","Conservateur",Y,Y,126
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 107","Bergheim",N,N,"",0,498,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 107","Bergheim",N,N,"",0,498,"Zimmer","","Katelyn","Liberal","Libéral",N,N,32
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 108","Vonda",N,N,"",0,460,"Block","","Kelly","Conservative","Conservateur",Y,Y,241
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 108","Vonda",N,N,"",0,460,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 108","Vonda",N,N,"",0,460,"Zimmer","","Katelyn","Liberal","Libéral",N,N,50
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 109","Fulda",N,N,"",0,223,"Block","","Kelly","Conservative","Conservateur",Y,Y,113
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 109","Fulda",N,N,"",0,223,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 109","Fulda",N,N,"",0,223,"Zimmer","","Katelyn","Liberal","Libéral",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 110","Dunfermline",N,N,"",0,362,"Block","","Kelly","Conservative","Conservateur",Y,Y,162
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 110","Dunfermline",N,N,"",0,362,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 110","Dunfermline",N,N,"",0,362,"Zimmer","","Katelyn","Liberal","Libéral",N,N,26
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 111","Grandora",N,N,"",1,324,"Block","","Kelly","Conservative","Conservateur",Y,Y,97
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 111","Grandora",N,N,"",1,324,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 111","Grandora",N,N,"",1,324,"Zimmer","","Katelyn","Liberal","Libéral",N,N,19
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 112","Saskatoon",N,N,"",1,442,"Block","","Kelly","Conservative","Conservateur",Y,Y,125
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 112","Saskatoon",N,N,"",1,442,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 112","Saskatoon",N,N,"",1,442,"Zimmer","","Katelyn","Liberal","Libéral",N,N,57
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 113","Dana",N,N,"",0,262,"Block","","Kelly","Conservative","Conservateur",Y,Y,142
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 113","Dana",N,N,"",0,262,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 113","Dana",N,N,"",0,262,"Zimmer","","Katelyn","Liberal","Libéral",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 114","Bruno",N,N,"",2,262,"Block","","Kelly","Conservative","Conservateur",Y,Y,127
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 114","Bruno",N,N,"",2,262,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 114","Bruno",N,N,"",2,262,"Zimmer","","Katelyn","Liberal","Libéral",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 115","Bruno",N,N,"",0,218,"Block","","Kelly","Conservative","Conservateur",Y,Y,103
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 115","Bruno",N,N,"",0,218,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 115","Bruno",N,N,"",0,218,"Zimmer","","Katelyn","Liberal","Libéral",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 116","Peterson",N,N,"",0,200,"Block","","Kelly","Conservative","Conservateur",Y,Y,113
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 116","Peterson",N,N,"",0,200,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 116","Peterson",N,N,"",0,200,"Zimmer","","Katelyn","Liberal","Libéral",N,N,20
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 117","Annaheim",N,N,"",1,323,"Block","","Kelly","Conservative","Conservateur",Y,Y,220
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 117","Annaheim",N,N,"",1,323,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 117","Annaheim",N,N,"",1,323,"Zimmer","","Katelyn","Liberal","Libéral",N,N,16
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 118","Corman Park No. 344",N,N,"",0,448,"Block","","Kelly","Conservative","Conservateur",Y,Y,108
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 118","Corman Park No. 344",N,N,"",0,448,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 118","Corman Park No. 344",N,N,"",0,448,"Zimmer","","Katelyn","Liberal","Libéral",N,N,50
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 119","Cedar Villa Estates",N,N,"",0,451,"Block","","Kelly","Conservative","Conservateur",Y,Y,78
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 119","Cedar Villa Estates",N,N,"",0,451,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 119","Cedar Villa Estates",N,N,"",0,451,"Zimmer","","Katelyn","Liberal","Libéral",N,N,23
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 120","Vanscoy",N,N,"",0,400,"Block","","Kelly","Conservative","Conservateur",Y,Y,127
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 120","Vanscoy",N,N,"",0,400,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 120","Vanscoy",N,N,"",0,400,"Zimmer","","Katelyn","Liberal","Libéral",N,N,38
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 121","Vanscoy No. 345",N,N,"",4,343,"Block","","Kelly","Conservative","Conservateur",Y,Y,135
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 121","Vanscoy No. 345",N,N,"",4,343,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 121","Vanscoy No. 345",N,N,"",4,343,"Zimmer","","Katelyn","Liberal","Libéral",N,N,23
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 122A","Corman Park No. 344",N,N,"112",0,76,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 122A","Corman Park No. 344",N,N,"112",0,76,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 122A","Corman Park No. 344",N,N,"112",0,76,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 122B","Corman Park No. 344",N,N,"",0,562,"Block","","Kelly","Conservative","Conservateur",Y,Y,192
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 122B","Corman Park No. 344",N,N,"",0,562,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 122B","Corman Park No. 344",N,N,"",0,562,"Zimmer","","Katelyn","Liberal","Libéral",N,N,68
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 123","Blucher No. 343",N,N,"",2,451,"Block","","Kelly","Conservative","Conservateur",Y,Y,220
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 123","Blucher No. 343",N,N,"",2,451,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 123","Blucher No. 343",N,N,"",2,451,"Zimmer","","Katelyn","Liberal","Libéral",N,N,57
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 124","Blucher No. 343",N,N,"",1,474,"Block","","Kelly","Conservative","Conservateur",Y,Y,179
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 124","Blucher No. 343",N,N,"",1,474,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 124","Blucher No. 343",N,N,"",1,474,"Zimmer","","Katelyn","Liberal","Libéral",N,N,44
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 125","Vade",N,N,"",0,374,"Block","","Kelly","Conservative","Conservateur",Y,Y,107
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 125","Vade",N,N,"",0,374,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 125","Vade",N,N,"",0,374,"Zimmer","","Katelyn","Liberal","Libéral",N,N,23
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 126","Delisle",N,N,"",1,422,"Block","","Kelly","Conservative","Conservateur",Y,Y,132
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 126","Delisle",N,N,"",1,422,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 126","Delisle",N,N,"",1,422,"Zimmer","","Katelyn","Liberal","Libéral",N,N,18
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 127","Delisle",N,N,"",2,402,"Block","","Kelly","Conservative","Conservateur",Y,Y,99
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 127","Delisle",N,N,"",2,402,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 127","Delisle",N,N,"",2,402,"Zimmer","","Katelyn","Liberal","Libéral",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 128","Dixon",N,N,"",2,410,"Block","","Kelly","Conservative","Conservateur",Y,Y,177
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 128","Dixon",N,N,"",2,410,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 128","Dixon",N,N,"",2,410,"Zimmer","","Katelyn","Liberal","Libéral",N,N,24
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 129","Humboldt",N,N,"",1,450,"Block","","Kelly","Conservative","Conservateur",Y,Y,74
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 129","Humboldt",N,N,"",1,450,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 129","Humboldt",N,N,"",1,450,"Zimmer","","Katelyn","Liberal","Libéral",N,N,23
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 130","Humboldt",N,N,"",4,553,"Block","","Kelly","Conservative","Conservateur",Y,Y,127
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 130","Humboldt",N,N,"",4,553,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 130","Humboldt",N,N,"",4,553,"Zimmer","","Katelyn","Liberal","Libéral",N,N,20
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 131","Humboldt",N,N,"",0,500,"Block","","Kelly","Conservative","Conservateur",Y,Y,132
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 131","Humboldt",N,N,"",0,500,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 131","Humboldt",N,N,"",0,500,"Zimmer","","Katelyn","Liberal","Libéral",N,N,24
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 132A","Humboldt",N,N,"",1,545,"Block","","Kelly","Conservative","Conservateur",Y,Y,141
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 132A","Humboldt",N,N,"",1,545,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 132A","Humboldt",N,N,"",1,545,"Zimmer","","Katelyn","Liberal","Libéral",N,N,31
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 132B","Humboldt",N,N,"142",0,4,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 132B","Humboldt",N,N,"142",0,4,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 132B","Humboldt",N,N,"142",0,4,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 133","Corman Park No. 344",N,N,"",0,445,"Block","","Kelly","Conservative","Conservateur",Y,Y,120
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 133","Corman Park No. 344",N,N,"",0,445,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 133","Corman Park No. 344",N,N,"",0,445,"Zimmer","","Katelyn","Liberal","Libéral",N,N,53
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 134","Corman Park No. 344",N,N,"",1,551,"Block","","Kelly","Conservative","Conservateur",Y,Y,183
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 134","Corman Park No. 344",N,N,"",1,551,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 134","Corman Park No. 344",N,N,"",1,551,"Zimmer","","Katelyn","Liberal","Libéral",N,N,90
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 135","Corman Park No. 344",N,N,"",1,354,"Block","","Kelly","Conservative","Conservateur",Y,Y,118
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 135","Corman Park No. 344",N,N,"",1,354,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 135","Corman Park No. 344",N,N,"",1,354,"Zimmer","","Katelyn","Liberal","Libéral",N,N,30
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 136","Corman Park No. 344",N,N,"",1,414,"Block","","Kelly","Conservative","Conservateur",Y,Y,125
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 136","Corman Park No. 344",N,N,"",1,414,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 136","Corman Park No. 344",N,N,"",1,414,"Zimmer","","Katelyn","Liberal","Libéral",N,N,50
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 137","Humboldt",N,N,"",1,512,"Block","","Kelly","Conservative","Conservateur",Y,Y,143
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 137","Humboldt",N,N,"",1,512,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 137","Humboldt",N,N,"",1,512,"Zimmer","","Katelyn","Liberal","Libéral",N,N,24
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 138","Humboldt",N,N,"",0,576,"Block","","Kelly","Conservative","Conservateur",Y,Y,151
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 138","Humboldt",N,N,"",0,576,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 138","Humboldt",N,N,"",0,576,"Zimmer","","Katelyn","Liberal","Libéral",N,N,27
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 139","Humboldt",N,N,"",0,474,"Block","","Kelly","Conservative","Conservateur",Y,Y,128
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 139","Humboldt",N,N,"",0,474,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 139","Humboldt",N,N,"",0,474,"Zimmer","","Katelyn","Liberal","Libéral",N,N,18
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 140","Humboldt",N,N,"",1,535,"Block","","Kelly","Conservative","Conservateur",Y,Y,115
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 140","Humboldt",N,N,"",1,535,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 140","Humboldt",N,N,"",1,535,"Zimmer","","Katelyn","Liberal","Libéral",N,N,26
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 141","Humboldt",N,N,"",1,441,"Block","","Kelly","Conservative","Conservateur",Y,Y,101
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 141","Humboldt",N,N,"",1,441,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 141","Humboldt",N,N,"",1,441,"Zimmer","","Katelyn","Liberal","Libéral",N,N,14
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 142","Muenster",N,N,"",1,417,"Block","","Kelly","Conservative","Conservateur",Y,Y,183
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 142","Muenster",N,N,"",1,417,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 142","Muenster",N,N,"",1,417,"Zimmer","","Katelyn","Liberal","Libéral",N,N,28
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 143","Blucher No. 343",N,N,"",1,436,"Block","","Kelly","Conservative","Conservateur",Y,Y,123
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 143","Blucher No. 343",N,N,"",1,436,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 143","Blucher No. 343",N,N,"",1,436,"Zimmer","","Katelyn","Liberal","Libéral",N,N,33
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 144","St. Gregor",N,N,"",0,212,"Block","","Kelly","Conservative","Conservateur",Y,Y,152
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 144","St. Gregor",N,N,"",0,212,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 144","St. Gregor",N,N,"",0,212,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 145","Pike Lake",N,N,"",1,280,"Block","","Kelly","Conservative","Conservateur",Y,Y,112
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 145","Pike Lake",N,N,"",1,280,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 145","Pike Lake",N,N,"",1,280,"Zimmer","","Katelyn","Liberal","Libéral",N,N,36
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 146","Pike Lake",N,N,"",0,342,"Block","","Kelly","Conservative","Conservateur",Y,Y,153
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 146","Pike Lake",N,N,"",0,342,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 146","Pike Lake",N,N,"",0,342,"Zimmer","","Katelyn","Liberal","Libéral",N,N,54
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 147","Englefeld",N,N,"",1,257,"Block","","Kelly","Conservative","Conservateur",Y,Y,169
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 147","Englefeld",N,N,"",1,257,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 147","Englefeld",N,N,"",1,257,"Zimmer","","Katelyn","Liberal","Libéral",N,N,34
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 148","Blucher No. 343",N,N,"",2,341,"Block","","Kelly","Conservative","Conservateur",Y,Y,117
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 148","Blucher No. 343",N,N,"",2,341,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 148","Blucher No. 343",N,N,"",2,341,"Zimmer","","Katelyn","Liberal","Libéral",N,N,10
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 149","Bradwell",N,N,"",1,375,"Block","","Kelly","Conservative","Conservateur",Y,Y,156
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 149","Bradwell",N,N,"",1,375,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 149","Bradwell",N,N,"",1,375,"Zimmer","","Katelyn","Liberal","Libéral",N,N,28
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 150","Blucher No. 343",N,N,"",2,516,"Block","","Kelly","Conservative","Conservateur",Y,Y,246
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 150","Blucher No. 343",N,N,"",2,516,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 150","Blucher No. 343",N,N,"",2,516,"Zimmer","","Katelyn","Liberal","Libéral",N,N,49
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 500","Mobile poll/Bureau itinérant",N,N,"512",0,26,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 500","Mobile poll/Bureau itinérant",N,N,"512",0,26,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 500","Mobile poll/Bureau itinérant",N,N,"512",0,26,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 501","Mobile poll/Bureau itinérant",N,N,"512",0,27,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 501","Mobile poll/Bureau itinérant",N,N,"512",0,27,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 501","Mobile poll/Bureau itinérant",N,N,"512",0,27,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 502","Mobile poll/Bureau itinérant",N,N,"514",0,11,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 502","Mobile poll/Bureau itinérant",N,N,"514",0,11,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 502","Mobile poll/Bureau itinérant",N,N,"514",0,11,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 503","Mobile poll/Bureau itinérant",N,N,"505",0,34,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 503","Mobile poll/Bureau itinérant",N,N,"505",0,34,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 503","Mobile poll/Bureau itinérant",N,N,"505",0,34,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 504","St-Laurent-Grandin",N,N,"18",0,15,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 504","St-Laurent-Grandin",N,N,"18",0,15,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 504","St-Laurent-Grandin",N,N,"18",0,15,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 505","Mobile poll/Bureau itinérant",N,N,"",0,2,"Block","","Kelly","Conservative","Conservateur",Y,Y,45
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 505","Mobile poll/Bureau itinérant",N,N,"",0,2,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 505","Mobile poll/Bureau itinérant",N,N,"",0,2,"Zimmer","","Katelyn","Liberal","Libéral",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 506","Mobile poll/Bureau itinérant",N,N,"515",0,57,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 506","Mobile poll/Bureau itinérant",N,N,"515",0,57,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 506","Mobile poll/Bureau itinérant",N,N,"515",0,57,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 507","Mobile poll/Bureau itinérant",N,N,"513",0,19,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 507","Mobile poll/Bureau itinérant",N,N,"513",0,19,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 507","Mobile poll/Bureau itinérant",N,N,"513",0,19,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 508","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 508","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 508","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 509","Mobile poll/Bureau itinérant",N,N,"513",0,54,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 509","Mobile poll/Bureau itinérant",N,N,"513",0,54,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 509","Mobile poll/Bureau itinérant",N,N,"513",0,54,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 510","Mobile poll/Bureau itinérant",N,N,"511",0,16,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 510","Mobile poll/Bureau itinérant",N,N,"511",0,16,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 510","Mobile poll/Bureau itinérant",N,N,"511",0,16,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 511","Mobile poll/Bureau itinérant",N,N,"",2,30,"Block","","Kelly","Conservative","Conservateur",Y,Y,25
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 511","Mobile poll/Bureau itinérant",N,N,"",2,30,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 511","Mobile poll/Bureau itinérant",N,N,"",2,30,"Zimmer","","Katelyn","Liberal","Libéral",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 512","Mobile poll/Bureau itinérant",N,N,"",3,63,"Block","","Kelly","Conservative","Conservateur",Y,Y,38
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 512","Mobile poll/Bureau itinérant",N,N,"",3,63,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 512","Mobile poll/Bureau itinérant",N,N,"",3,63,"Zimmer","","Katelyn","Liberal","Libéral",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 513","Mobile poll/Bureau itinérant",N,N,"",4,130,"Block","","Kelly","Conservative","Conservateur",Y,Y,84
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 513","Mobile poll/Bureau itinérant",N,N,"",4,130,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 513","Mobile poll/Bureau itinérant",N,N,"",4,130,"Zimmer","","Katelyn","Liberal","Libéral",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 514","Mobile poll/Bureau itinérant",N,N,"",5,43,"Block","","Kelly","Conservative","Conservateur",Y,Y,22
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 514","Mobile poll/Bureau itinérant",N,N,"",5,43,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 514","Mobile poll/Bureau itinérant",N,N,"",5,43,"Zimmer","","Katelyn","Liberal","Libéral",N,N,10
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 515","Mobile poll/Bureau itinérant",N,N,"",0,87,"Block","","Kelly","Conservative","Conservateur",Y,Y,41
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 515","Mobile poll/Bureau itinérant",N,N,"",0,87,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 515","Mobile poll/Bureau itinérant",N,N,"",0,87,"Zimmer","","Katelyn","Liberal","Libéral",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 600","Blaine Lake",N,N,"",4,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,391
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 600","Blaine Lake",N,N,"",4,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 600","Blaine Lake",N,N,"",4,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,66
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 601","Muskeg Lake 102B",N,N,"600",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 601","Muskeg Lake 102B",N,N,"600",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 601","Muskeg Lake 102B",N,N,"600",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 602","Lucky Man",N,N,"600",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 602","Lucky Man",N,N,"600",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 602","Lucky Man",N,N,"600",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 603","Muskeg Lake Cree Nation 102",N,N,"600",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 603","Muskeg Lake Cree Nation 102",N,N,"600",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 603","Muskeg Lake Cree Nation 102",N,N,"600",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 604","Beardy's and Okemasis 96 & 97C",N,N,"600",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 604","Beardy's and Okemasis 96 & 97C",N,N,"600",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 604","Beardy's and Okemasis 96 & 97C",N,N,"600",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 605","Hafford",N,N,"",2,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,297
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 605","Hafford",N,N,"",2,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 605","Hafford",N,N,"",2,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,52
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 606","Biggar",N,N,"",1,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,136
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 606","Biggar",N,N,"",1,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 606","Biggar",N,N,"",1,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,18
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 607","Delisle",N,N,"",5,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,677
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 607","Delisle",N,N,"",5,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 607","Delisle",N,N,"",5,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,145
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 608","Corman Park No. 344",N,N,"",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,389
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 608","Corman Park No. 344",N,N,"",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 608","Corman Park No. 344",N,N,"",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,131
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 609","Corman Park No. 344",N,N,"",5,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,625
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 609","Corman Park No. 344",N,N,"",5,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 609","Corman Park No. 344",N,N,"",5,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,261
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 610","Allan--Clavet",N,N,"",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,483
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 610","Allan--Clavet",N,N,"",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 610","Allan--Clavet",N,N,"",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,111
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 611","Aberdeen",N,N,"",2,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,551
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 611","Aberdeen",N,N,"",2,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 611","Aberdeen",N,N,"",2,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,143
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 612","Corman Park No. 344",N,N,"",13,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,1186
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 612","Corman Park No. 344",N,N,"",13,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 612","Corman Park No. 344",N,N,"",13,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,256
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 613","Martensville",N,N,"",12,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,1267
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 613","Martensville",N,N,"",12,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,97
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 613","Martensville",N,N,"",12,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,329
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 614","Martensville",N,N,"",7,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,1186
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 614","Martensville",N,N,"",7,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 614","Martensville",N,N,"",7,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,280
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 615","Dalmeny",N,N,"",4,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,788
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 615","Dalmeny",N,N,"",4,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 615","Dalmeny",N,N,"",4,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,176
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 616","Warman",N,N,"",4,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,1007
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 616","Warman",N,N,"",4,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 616","Warman",N,N,"",4,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,231
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 617","Corman Park No. 344",N,N,"",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,462
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 617","Corman Park No. 344",N,N,"",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 617","Corman Park No. 344",N,N,"",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,44
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 618","Rosthern",N,N,"619",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 618","Rosthern",N,N,"619",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 618","Rosthern",N,N,"619",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 619","Rosthern",N,N,"",11,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,974
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 619","Rosthern",N,N,"",11,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 619","Rosthern",N,N,"",11,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,246
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 620","Beardy's 97 and Okemasis 96",N,N,"619",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 620","Beardy's 97 and Okemasis 96",N,N,"619",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 620","Beardy's 97 and Okemasis 96",N,N,"619",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 621","Willow Cree",N,N,"619",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 621","Willow Cree",N,N,"619",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 621","Willow Cree",N,N,"619",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 622","One Arrow 95",N,N,"623",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 622","One Arrow 95",N,N,"623",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 622","One Arrow 95",N,N,"623",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 623","Invergordon",N,N,"",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,221
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 623","Invergordon",N,N,"",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 623","Invergordon",N,N,"",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,36
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 624","Wakaw",N,N,"",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,414
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 624","Wakaw",N,N,"",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 624","Wakaw",N,N,"",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,86
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 625","One Arrow 95-1C",N,N,"624",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 625","One Arrow 95-1C",N,N,"624",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 625","One Arrow 95-1C",N,N,"624",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 626","Middle Lake",N,N,"",1,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,482
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 626","Middle Lake",N,N,"",1,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 626","Middle Lake",N,N,"",1,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,41
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 627","Middle Lake",N,N,"626",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 627","Middle Lake",N,N,"626",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 627","Middle Lake",N,N,"626",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 628","Naicam",N,N,"",1,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,387
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 628","Naicam",N,N,"",1,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 628","Naicam",N,N,"",1,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,52
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 629","Middle Lake",N,N,"626",0,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 629","Middle Lake",N,N,"626",0,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 629","Middle Lake",N,N,"626",0,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,0
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 630","Humboldt No. 370",N,N,"",1,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,1160
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 630","Humboldt No. 370",N,N,"",1,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," 630","Humboldt No. 370",N,N,"",1,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,220
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",39,105,"Block","","Kelly","Conservative","Conservateur",Y,Y,392
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",39,105,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",39,105,"Zimmer","","Katelyn","Liberal","Libéral",N,N,169
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",48,0,"Block","","Kelly","Conservative","Conservateur",Y,Y,2078
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",48,0,"Loadman","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,127
+47002,"Carlton Trail--Eagle Creek","Sentier Carlton--Eagle Creek"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",48,0,"Zimmer","","Katelyn","Liberal","Libéral",N,N,499
