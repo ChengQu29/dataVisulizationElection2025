@@ -1,14 +1,12 @@
 function _1(md){return(
-md`<div style="color: grey; font: 13px/25.5px var(--sans-serif); text-transform: uppercase;"><h1 style="display: none;">Zoom to bounding box</h1><a href="https://d3js.org/">D3</a> › <a href="/@d3/gallery">Gallery</a></div>
-
-# Canada Federal Election 2025`
+md``
 )}
 
 function _chart(d3,ridings,coastline,results,provinces)
 {
   const baseWidth = 975;
   const baseHeight = 610;
-  const width = Math.max(baseWidth, Math.floor(window.innerWidth * 0.95));
+  const width = Math.max(baseWidth, Math.floor(window.innerWidth));
   const height = Math.max(baseHeight, Math.floor(window.innerHeight * 0.75));
   const projectionScale = 700 * Math.min(width / baseWidth, height / baseHeight);
 
@@ -21,6 +19,26 @@ function _chart(d3,ridings,coastline,results,provinces)
       .style("width", "100%")
       .style("max-width", "100%")
       .style("height", "auto");
+
+    const header = container.append("div")
+      .style("text-align", "center")
+      .style("background-color", "#4b5563")
+      .style("color", "#fff")
+      .style("padding", "12px 0")
+      .style("margin-bottom", "8px");
+
+    header.append("div")
+      .style("font-size", "26px")
+      .style("font-weight", "700")
+      .text("Canada Federal Elections 2025");
+
+    header.append("div")
+      .style("font-size", "13px")
+      .style("font-weight", "400")
+      .style("margin-top", "6px")
+      .style("color", "#e5e7eb")
+      .html('Data source: Elections Canada. <em>Official Voting Results, 45th General Election</em>. Retrieved from <a href="https://www.elections.ca/res/rep/off/ovrGE45/home.html" target="_blank" rel="noopener noreferrer" style="color:#93c5fd;">https://www.elections.ca/res/rep/off/ovrGE45/home.html</a>');
+
 
     const svg = container.append("svg")
       .attr("viewBox", [0, 0, width, height])
@@ -79,6 +97,7 @@ function _chart(d3,ridings,coastline,results,provinces)
 
   const provinceOverrides = new Map([
     ["10006", "Newfoundland and Labrador"],
+    ["12002", "Nova Scotia"],
     ["59042", "British Columbia"],
     ["59027", "British Columbia"]
   ]);
@@ -103,8 +122,8 @@ function _chart(d3,ridings,coastline,results,provinces)
     if (name.includes("conservative")) return "#2166ac";
     if (name.includes("ndp") || name.includes("new democratic")) return "#f28e2b";
     if (name.includes("green")) return "#1a9850";
-    if (name.includes("people's party") || name.includes("ppc")) return "#6a1b9a";
     if (name.includes("bloc")) return "#4fc3f7";
+    if (name.includes("independent")) return "#757575";
     return "#555";
   };
 
@@ -192,7 +211,7 @@ function _chart(d3,ridings,coastline,results,provinces)
     const infoBox = container.append("div")
       .style("position", "absolute")
       .style("display", "none")
-      .style("max-width", "320px")
+      .style("max-width", "440px")
       .style("background", "rgba(255, 255, 255, 0.98)")
       .style("border", "1px solid #d0d7de")
       .style("border-radius", "8px")
@@ -203,7 +222,7 @@ function _chart(d3,ridings,coastline,results,provinces)
       .style("color", "#222")
       .style("pointer-events", "none")
       .style("left", "12px")
-      .style("top", "12px");
+      .style("top", "64px");
 
   function renderInfo(districtNum, districtName) {
     if (!districtNum) {
@@ -231,24 +250,31 @@ function _chart(d3,ridings,coastline,results,provinces)
       body = "<div>No results available.</div>";
     } else {
       const headerRow = `
-        <div style="display:grid; grid-template-columns: 0.9fr 2.1fr 0.8fr 0.6fr; column-gap:12px; font-weight:600; color:#444;">
+        <div style="display:grid; grid-template-columns: 1.9fr 2.2fr 0.9fr 0.7fr; column-gap:14px; font-weight:600; color:#444;">
           <div>Party</div>
-          <div style="padding-left:6px;">Candidate</div>
+          <div>Candidate</div>
           <div style="text-align:right;">Vote</div>
           <div style="text-align:right;">%</div>
         </div>
         <div style="border-top:1px solid #e1e4e8; margin:6px 0;"></div>
       `;
-      const lines = rows
+      const sortedRows = rows
         .slice()
-        .sort((a, b) => d3.descending(+a["Total Votes"], +b["Total Votes"]))
+        .sort((a, b) => d3.descending(+a["Total Votes"], +b["Total Votes"]));
+      const winnerKey = sortedRows.length > 0
+        ? `${sortedRows[0]["Candidate Full Name"]}__${sortedRows[0]["Political Party"]}`
+        : null;
+
+      const lines = sortedRows
         .map((row) => {
           const share = row["Vote Share (%)"] ? `${row["Vote Share (%)"]}%` : "";
           const color = getPartyColor(row["Political Party"]);
+          const isWinner = winnerKey && `${row["Candidate Full Name"]}__${row["Political Party"]}` === winnerKey;
+          const winnerMark = isWinner ? "✓ " : "";
           return `
-            <div style="display:grid; grid-template-columns: 0.9fr 2.1fr 0.8fr 0.6fr; column-gap:12px; margin:2px 0;">
-              <div style="color:${color};">${row["Political Party"]}</div>
-              <div style="padding-left:6px;">${row["Candidate Full Name"]}</div>
+            <div style="display:grid; grid-template-columns: 1.9fr 2.2fr 0.9fr 0.7fr; column-gap:14px; margin:2px 0;">
+              <div style="color:${color};">${row["Political Party"]} ${winnerMark}</div>
+              <div>${row["Candidate Full Name"]}</div>
               <div style="text-align:right;">${row["Total Votes"]}</div>
               <div style="text-align:right;">${share}</div>
             </div>
@@ -328,6 +354,14 @@ function _chart(d3,ridings,coastline,results,provinces)
     g.attr("transform", transform);
     // Stroke width is maintained constant via vector-effect="non-scaling-stroke"
   }
+
+  container.append("div")
+      .style("text-align", "center")
+      .style("font-size", "13px")
+      .style("color", "#6b7280")
+      .style("padding", "10px 12px")
+      .style("margin-top", "8px")
+      .text("For best user experience, please use Chrome or Firefox based browser for viewing this website.");
 
   return container.node();
 }

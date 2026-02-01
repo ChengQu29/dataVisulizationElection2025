@@ -45,11 +45,13 @@ func main() {
 	totals := make(map[resultKey]int64)
 
 	for _, file := range files {
+		//Maps are reference types in Go (along with slices and channels)
 		if err := processFile(file, totals); err != nil {
 			panic(err)
 		}
 	}
 
+	// convert from map -> slice
 	rows := make([]resultRow, 0, len(totals))
 	for key, total := range totals {
 		rows = append(rows, resultRow{
@@ -61,6 +63,7 @@ func main() {
 		})
 	}
 
+	//sort by name
 	sort.Slice(rows, func(i, j int) bool {
 		a, b := rows[i], rows[j]
 		ai, _ := strconv.Atoi(a.districtNumber)
