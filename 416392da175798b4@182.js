@@ -470,8 +470,8 @@ function _chart(d3,ridings,coastline,results,provinces)
 }
 
 
-function _ridings(FileAttachment){return(
-FileAttachment("canada-ridings-latlon.json").json()
+function _ridings(FileAttachment,topojson){return(
+FileAttachment("canada-ridings.topo.json").json().then(topo => topojson.feature(topo, topo.objects.ridings))
 )}
 
 function _coastline(FileAttachment){return(
@@ -490,7 +490,7 @@ export default function define(runtime, observer) {
   const main = runtime.module();
   function toString() { return this.url; }
   const fileAttachments = new Map([
-    ["canada-ridings-latlon.json", {url: new URL("./files/canada-ridings-latlon.json", import.meta.url), mimeType: "application/json", toString}],
+    ["canada-ridings.topo.json", {url: new URL("./files/canada-ridings.topo.json", import.meta.url), mimeType: "application/json", toString}],
     ["canada-coastline-ne10m.json", {url: new URL("./files/canada-coastline-ne10m.json", import.meta.url), mimeType: "application/json", toString}],
     ["canada-provinces.geojson", {url: new URL("./files/canada-provinces.geojson", import.meta.url), mimeType: "application/json", toString}],
     ["result.csv", {url: new URL("./result.csv", import.meta.url), mimeType: "text/csv", toString}]
@@ -498,7 +498,7 @@ export default function define(runtime, observer) {
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], _1);
   main.variable(observer("chart")).define("chart", ["d3","ridings","coastline","results","provinces"], _chart);
-  main.variable(observer("ridings")).define("ridings", ["FileAttachment"], _ridings);
+  main.variable(observer("ridings")).define("ridings", ["FileAttachment","topojson"], _ridings);
   main.variable(observer("coastline")).define("coastline", ["FileAttachment"], _coastline);
   main.variable(observer("results")).define("results", ["FileAttachment"], _results);
   main.variable(observer("provinces")).define("provinces", ["FileAttachment"], _provinces);
