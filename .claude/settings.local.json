@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx http-server:*)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)"
+    ]
+  }
+}
