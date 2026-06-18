@@ -18,33 +18,69 @@ function _chart(d3,ridings,coastline,results,provinces)
       .style("position", "relative")
       .style("width", "100%")
       .style("max-width", "100%")
-      .style("height", "auto");
+      .style("min-height", "100vh");
 
-    const header = container.append("div")
+    const headerEl = container.append("div")
+      .style("position", "relative")
       .style("text-align", "center")
       .style("background-color", "#4b5563")
       .style("color", "#fff")
-      .style("padding", "12px 0")
-      .style("margin-bottom", "8px");
+      .style("padding", "12px 0");
 
-    header.append("div")
+    headerEl.append("div")
       .style("font-size", "26px")
       .style("font-weight", "700")
       .text("Canada Federal Elections 2025");
 
-    header.append("div")
+    headerEl.append("div")
       .style("font-size", "13px")
       .style("font-weight", "400")
       .style("margin-top", "6px")
       .style("color", "#e5e7eb")
       .html('Data source: Elections Canada. <em>Official Voting Results, 45th General Election</em>. Retrieved from <a href="https://www.elections.ca/res/rep/off/ovrGE45/home.html" target="_blank" rel="noopener noreferrer" style="color:#93c5fd;">https://www.elections.ca/res/rep/off/ovrGE45/home.html</a>');
 
+    const themeToggle = headerEl.append("button")
+      .attr("type", "button")
+      .attr("role", "switch")
+      .attr("aria-label", "Toggle dark mode")
+      .attr("aria-checked", "false")
+      .style("position", "absolute")
+      .style("top", "14px")
+      .style("right", "16px")
+      .style("width", "56px")
+      .style("height", "30px")
+      .style("padding", "0")
+      .style("border", "none")
+      .style("border-radius", "15px")
+      .style("background", "rgba(255,255,255,0.25)")
+      .style("cursor", "pointer")
+      .style("transition", "background 0.3s ease")
+      .style("box-shadow", "inset 0 1px 3px rgba(0,0,0,0.25)")
+      .style("-webkit-tap-highlight-color", "transparent");
+
+    const themeKnob = themeToggle.append("div")
+      .style("position", "absolute")
+      .style("top", "3px")
+      .style("left", "3px")
+      .style("width", "24px")
+      .style("height", "24px")
+      .style("border-radius", "50%")
+      .style("background", "#fff")
+      .style("display", "flex")
+      .style("align-items", "center")
+      .style("justify-content", "center")
+      .style("font-size", "13px")
+      .style("line-height", "1")
+      .style("box-shadow", "0 1px 3px rgba(0,0,0,0.3)")
+      .style("transition", "transform 0.3s cubic-bezier(0.4, 0.0, 0.2, 1)")
+      .text("\u2600\uFE0F");
+
 
     const svg = container.append("svg")
       .attr("viewBox", [0, 0, width, height])
       .attr("width", width)
       .attr("height", height)
-      .attr("style", "max-width: 100%; height: auto; background-color: #e6f3ff;")  // Light blue ocean background
+      .attr("style", "max-width: 100%; height: auto; background-color: #ffffff;")  // White background
       .on("click", reset);
 
   // Use Albers projection optimized for Canada
@@ -224,6 +260,11 @@ function _chart(d3,ridings,coastline,results,provinces)
       .style("left", "12px")
       .style("top", "64px");
 
+    function positionInfoBox() {
+      const headerHeight = headerEl.node().offsetHeight;
+      infoBox.style("top", (headerHeight + 8) + "px");
+    }
+
   function renderInfo(districtNum, districtName) {
     if (!districtNum) {
       infoBox.style("display", "none");
@@ -284,6 +325,7 @@ function _chart(d3,ridings,coastline,results,provinces)
       body = headerRow + lines;
     }
 
+    positionInfoBox();
     infoBox.html(header + body)
       .style("display", "block");
   }
@@ -355,13 +397,40 @@ function _chart(d3,ridings,coastline,results,provinces)
     // Stroke width is maintained constant via vector-effect="non-scaling-stroke"
   }
 
-  container.append("div")
+  const footnote = container.append("div")
       .style("text-align", "center")
       .style("font-size", "13px")
       .style("color", "#6b7280")
       .style("padding", "10px 12px")
       .style("margin-top", "8px")
       .text("For best user experience, please use Chrome or Firefox based browser for viewing this website.");
+
+  let darkMode = false;
+  function applyTheme() {
+    if (darkMode) {
+      document.body.style.backgroundColor = "#1f2937";
+      container.style("background-color", "#1f2937");
+      svg.attr("style", "max-width: 100%; height: auto; background-color: #111827;");
+      infoBox.style("background", "rgba(31, 41, 55, 0.98)")
+        .style("border", "1px solid #374151")
+        .style("color", "#e5e7eb");
+      footnote.style("color", "#9ca3af");
+      themeToggle.style("background", "#34c759").attr("aria-checked", "true");
+      themeKnob.style("transform", "translateX(26px)").text("\u{1F319}");
+    } else {
+      document.body.style.backgroundColor = "#ffffff";
+      container.style("background-color", "#ffffff");
+      svg.attr("style", "max-width: 100%; height: auto; background-color: #ffffff;");
+      infoBox.style("background", "rgba(255, 255, 255, 0.98)")
+        .style("border", "1px solid #d0d7de")
+        .style("color", "#222");
+      footnote.style("color", "#6b7280");
+      themeToggle.style("background", "rgba(255,255,255,0.25)").attr("aria-checked", "false");
+      themeKnob.style("transform", "translateX(0)").text("\u2600\uFE0F");
+    }
+  }
+  themeToggle.on("click", () => { darkMode = !darkMode; applyTheme(); });
+  applyTheme();
 
   return container.node();
 }
