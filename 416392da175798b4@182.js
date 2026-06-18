@@ -6,9 +6,9 @@ function _chart(d3,ridings,coastline,results,provinces)
 {
   const baseWidth = 975;
   const baseHeight = 610;
-  const width = Math.max(baseWidth, Math.floor(window.innerWidth));
-  const height = Math.max(baseHeight, Math.floor(window.innerHeight * 0.75));
-  const projectionScale = 700 * Math.min(width / baseWidth, height / baseHeight);
+  let width = Math.max(baseWidth, Math.floor(window.innerWidth));
+  let height = Math.max(baseHeight, Math.floor(window.innerHeight * 0.75));
+  let projectionScale = 700 * Math.min(width / baseWidth, height / baseHeight);
 
   const zoom = d3.zoom()
       .scaleExtent([1, 40])  // Increased max zoom for smaller ridings
@@ -431,6 +431,40 @@ function _chart(d3,ridings,coastline,results,provinces)
   }
   themeToggle.on("click", () => { darkMode = !darkMode; applyTheme(); });
   applyTheme();
+
+  // Re-fit the map whenever the browser window is resized so it grows/shrinks
+  // with the available space instead of staying locked to the initial size.
+  function resize() {
+    width = Math.max(baseWidth, Math.floor(window.innerWidth));
+    height = Math.max(baseHeight, Math.floor(window.innerHeight * 0.75));
+    projectionScale = 700 * Math.min(width / baseWidth, height / baseHeight);
+
+    projection
+      .scale(projectionScale)
+      .translate([width / 2, height / 2]);
+
+    svg
+      .attr("viewBox", [0, 0, width, height])
+      .attr("width", width)
+      .attr("height", height);
+
+    // Re-project every layer with the updated projection
+    clipPath.selectAll("path").attr("d", path);
+    ridingPaths.attr("d", path);
+    coastlineLayer.selectAll("path").attr("d", path);
+
+    // Reset any active pan/zoom so the freshly fitted map is shown
+    g.attr("transform", null);
+    svg.call(zoom.transform, d3.zoomIdentity);
+
+    positionInfoBox();
+  }
+
+  let resizeTimer;
+  window.addEventListener("resize", () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(resize, 150);
+  });
 
   return container.node();
 }
